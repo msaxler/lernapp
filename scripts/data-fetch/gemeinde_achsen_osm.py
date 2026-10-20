@@ -12,7 +12,7 @@ import io, json, os, re, sys, time, urllib.parse, urllib.request
 WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 RAUM = os.path.join(WURZEL, 'data', 'gemeinde-achsen', os.environ.get('GA_RAUM', 'bahn'))
 AUS = os.path.join(RAUM, 'osm')
-URL = 'https://overpass-api.de/api/interpreter'
+URL = os.environ.get('GA_OVERPASS', 'https://overpass-api.de/api/interpreter')  # Ausweich bei 502: GA_OVERPASS=https://overpass.kumi.systems/api/interpreter
 UA = {'User-Agent': 'LernApp-GemeindeAchsen/0.1 (https://github.com/msaxler/lernapp)'}
 
 # (Kategorie im Block, Overpass-Filter)

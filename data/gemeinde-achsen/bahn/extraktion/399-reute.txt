@@ -1,14 +1,19 @@
 ENTITÄT: ort
 BEZEICHNUNG: Reute
+FACETTE: LAGE | GESCHICHTE | ALLTAG
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.reute.de/unsere-gemeinde/gemeinde/kurzportrait | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  lage: Rheinebene zwischen Kaiserstuhl und Schwarzwald
-  freiburger_bucht: true
-  hoehenlage: 205 m ü. NN
-  fluss_am_suedrand: Glotter
-  einwohnerzahl: 3000, genauigkeit: "ca."
-  gemeindeflaeche: 4793243 m²
-  ortsteile: Oberreute, Unterreute
+  lage: Rheinebene zwischen Kaiserstuhl und Schwarzwald, Freiburger Bucht
+  distanz_freiburg: ca. 10 km nordwestlich
+  hoehe_ueber_meeresspiegel: 205 m
+  einwohner: 3000
+  gemeindeflaeche_m2: 4793243
+  dialektname: Riddi
+  ortstile: Oberreute, Unterreute
+  gewaesser_durchfluss: Glotter
+GUELTIG_AB: 
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 
@@ -16,15 +21,18 @@ VERTRAUEN_EXTRAKTION: 0.95
 
 ENTITÄT: ort
 BEZEICHNUNG: Reute
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/das-mittelalter-und-bis-zum-18jh | Gemeinde-Webseite
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/wappen | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  ersterwähnung_jahr: 772
-  ersterwähnung_quelle: Lorscher Codex
-  ersterwähnung_schreibweise: Reuden
-  grund_namensherkunft: Ortsbezeichnung bezieht sich auf Urbarmachung/Rodung, steckt auch im Wort "roden"
-  waserreichster_ort_breisgaus: true
-  superlativ: wasserreichster Ort des Breisgaus (historisch)
-GUELTIG_AB: 772
+  funde_praehistorisch: ja
+  roemer_nutzung_um: 100 n.Chr.
+  roemer_zweck: landwirtschaftliche Erschließung
+  ersterwahnung_quelle: Lorscher Codex
+  ersterwahnung_jahr: 772-773 n.Chr.
+  ersterwahnung_form: Schenkung von Baducho an Kloster Lorsch
+GUELTIG_AB: 
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.9
 
@@ -32,1150 +40,715 @@ VERTRAUEN_EXTRAKTION: 0.9
 
 ENTITÄT: ort
 BEZEICHNUNG: Reute
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/wappen | Gemeinde-Webseite
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-steinzeit | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  archaeologische_funde_roemer: archäologische Erschließung um 100 n.Chr.
-  grund_roemer: landwirtschaftliche Erschließung
-  schenkung_baducho: Baducho vermachte Besitz 772/73 an Kloster Lorsch
-GUELTIG_AB: 100
+  namensherkunft: Rodung (altes Ausdruck für Urbarmachung)
+  jungsteinzeit_siedlung_vermutung: ja
+  jungsteinzeit_funde_ort: Gewann Kalkofen, Salzacker
+  jungsteinzeitliche_funde_genauigkeit: vermutlich
+  bandkeramische_muehle_genauigkeit: vermutlich
+  neolithikum_bronzezeit_befunde: keine nennenswerten
+  charakteristikum: wasserreichster Ort des Breisgaus (historisch)
+GUELTIG_AB: 
+GUELTIG_BIS: 2019
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: frueher_name
-BEZEICHNUNG: Reuden
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/das-mittelalter-und-bis-zum-18jh | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  siedlung: true
-  entstehung_vermutet: um 700
-  grund: Landausbau erfasste Gebiete mit ungünstigen Bedingungen
-  pluralform: deutet auf mehrere Flurstücke hin
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
 ENTITÄT: archaeologischer_fund
-BEZEICHNUNG: Hallstatt-Grabhügel
-ORTSTEIL_BEZUG: Gewann Geländ
+BEZEICHNUNG: Grabhügel Hallstattkultur
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-kelten | Gemeinde-Webseite
 EIGENSCHAFTEN:
+  epoche: Hallstattkultur
+  datierung: um 750 v.Chr.
+  fundort: Gewann Geländ
   anzahl: 2
-  fundort: Gemarkung Reute, Gewann Geländ
-  fundzeit: 750 v. Chr., genauigkeit: "ca."
+  fundart: Brandgrab
   fundjahr: 2000
-  zeitperiode: Hallstattkultur
-  entdecker: Hobbyarchäolog mit Unterstützung Landesdenkmalamt
-GUELTIG_AB: -750
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.92
+  entdecker: Hobbyarchäologe mit Landesdenkmalamt
+  weitere_grabhügel: ja (Teninger Allmend, noch nicht untersucht)
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
 ENTITÄT: archaeologischer_fund
-BEZEICHNUNG: Brandgrab
-ORTSTEIL_BEZUG: Gemarkung Reute
+BEZEICHNUNG: Brandgrab Teninger Allmend
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-kelten | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  zeitperiode: Hallstattkultur
-  datierung: 750 v. Chr., genauigkeit: "ca."
-GUELTIG_AB: -750
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: archaeologischer_fund
-BEZEICHNUNG: Fund aus Teninger Allmend
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-kelten | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  fundort: Teninger Allmend
+  epoche: Latènekultur (frühester Kontext)
+  datierung: um 600 v.Chr.
   fundjahr: 1903
-  datierung: 600 v. Chr., genauigkeit: "ca."
-  zeitperiode: Hallstattkultur
-GUELTIG_AB: -600
-IST_VERMUTLICH_AKTUELL: false
+  fundort: Teninger Allmend
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: archaeologischer_fund
-BEZEICHNUNG: Grabhügel A
-ORTSTEIL_BEZUG: Gemarkung Reute
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-kelten | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  beschreibung: Grabhügel im angrenzenden Gebiet der Teninger Allmend, noch nicht untersucht
-VERTRAUEN_EXTRAKTION: 0.6
-
----
-
-ENTITÄT: archaeologischer_fund
-BEZEICHNUNG: Grabhügel B
-ORTSTEIL_BEZUG: Gemarkung Reute
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-kelten | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  beschreibung: Grabhügel im angrenzenden Gebiet der Teninger Allmend, noch nicht untersucht
-VERTRAUEN_EXTRAKTION: 0.6
-
----
-
-ENTITÄT: archaeologischer_fund
-BEZEICHNUNG: Grabhügel C
-ORTSTEIL_BEZUG: Gemarkung Reute
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-kelten | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  beschreibung: Grabhügel im angrenzenden Gebiet der Teninger Allmend, noch nicht untersucht
-VERTRAUEN_EXTRAKTION: 0.6
-
----
-
-ENTITÄT: archaeologischer_fund
+ENTITÄT: roemerzeugnis
 BEZEICHNUNG: Römerweg
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-roemer | Gemeinde-Webseite
 EIGENSCHAFTEN:
   verlauf: von NNW nach SSO über Gemarkung
-  fundort: Allmendwald
-  beschreibung: abschnittsweise Aufschüttungen in Wallform mit seitlichen Entnahmegruben, gekieste Fahrbahn
-  dokumentation: Fundbericht 1980 an Landesdenkmalamt
-  entdecker: L. Siegel (auf Hinweis von Holzfällern)
-GUELTIG_AB: 15
+  bauform: Wallform mit seitlichen Entnahmegruben
+  fahrbahn: gekiest
+  fundort_details: Allmendwald (abschnittsweise)
+  fundjahr: 1980
+  entdecker: L. Siegel, Hinweis Holzfäller
+  bedeutung_fuer_ort: deutlichster Hinweis römischer Präsenz
+GUELTIG_AB: 100
 GUELTIG_BIS: 260
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: archaeologischer_fund
-BEZEICHNUNG: Reibenstein
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-steinzeit | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  fundort: Gewann Salzacker
-  finder: L. Siegel
-  verwendung: zusammen mit Läuferstein ergäbe dies eine bandkeramische Getreidemühle
-  zeitperiode: bandkeramisch (Jungsteinzeit)
-  deutung: deutet eventuell auf eine Siedlung hin
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.7
-
----
-
-ENTITÄT: archaeologischer_fund
-BEZEICHNUNG: Steinklingen und Abschläge
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-steinzeit | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  fundort: Gemarkung Reute, Gewann Kalkofen
-  finder: L. Siegel
-  zeitperiode: Jungsteinzeit (5700-4900 v. Chr.)
-  fundart: Lesefunde
-  deutung: vermutete jungsteinzeitliche Besiedlung
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: L. Siegel
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-steinzeit | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  titel: Reutes erster Chronist
-  aktivitaeten: archäologische Funde und Dokumentation
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
+IST_VERMUTUM_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
 ENTITÄT: kirche
 BEZEICHNUNG: St. Felix und Regula
+FACETTE: GESCHICHTE | FREIZEIT
 ORTSTEIL_BEZUG: Oberreute
-QUELLE: https://www.reute.de/unsere-gemeinde/gemeinde/kurzportrait | Gemeinde-Webseite
+QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/das-20-jh-die-zwei-weltkriege | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  erbaut: 1902
-  adresse: Kirchstraße 8, 79276 Reute
-IST_VERMUTLICH_AKTUELL: true
+  bauzeit: 1900-1903
+  bauJahr_end: 1903
+  baustil: neugotisch
+  architekt: Max Meckel
+  erbauer_anlass: Ersatz für St. Galluskapelle (abgerissen)
+GUELTIG_AB: 1903
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
 ENTITÄT: kirche
-BEZEICHNUNG: St. Felix und Regula
-ORTSTEIL_BEZUG: Oberreute
+BEZEICHNUNG: Unserer Lieben Frau vom Rosenkranz
+FACETTE: GESCHICHTE | FREIZEIT
+ORTSTEIL_BEZUG: Unterreute
 QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/das-mittelalter-und-bis-zum-18jh | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  ursprung: jungsteinzeitliche oder spätromanische Zeit (Fundamente und Wandteile)
-  vermutung: seit ca. 1000
-  kirchenraum: Gotische Zeit
-  barock_aenderungen: größere Fensteröffnungen
-  hochaltar: kostbarer spätgotischer Hochaltar, gestiftet von Familie des Konrad Stürzel von Buchheim (Erz- und Hofkanzler Kaiser Maximilians)
-  heutiger_altar: Barock
-  st_barbara_glocke: 1495
-  holzfiguren: St. Felix und Regula, zugeschrieben Meister H.L. (Schöpfer des Altars in Breisach)
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: kirche
-BEZEICHNUNG: U.L. Frau vom Rosenkranz (ehem. St. Barbara, Felix und Regula)
-ORTSTEIL_BEZUG: Unterreute
-QUELLE: https://www.reute.de/unsere-gemeinde/gemeinde/kurzportrait | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  herkunft: aus dem 14. Jahrhundert
-  adresse: Kronengasse, 79279 Unterreute
-IST_VERMUTLICH_AKTUELL: true
+  entstehung_zeitraum: 14. Jahrhundert
+  frueherer_name: St. Barbara, St. Felix und Regula
+  heilige_verehrung: Felix und Regula (seit Chorherr Hugo ca. 1257)
+  holzfiguren: zwei geschnitzte, Meister H.L. (Altarmacher Breisach)
+  glocke_barbara: 1495
+  altar_zeitraum: Hochaltar spätgotisch (Familie Stürzel), aktueller Altar Barock
+GUELTIG_AB: 1400
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
 ENTITÄT: kapelle
 BEZEICHNUNG: St. Galluskapelle
-ORTSTEIL_BEZUG: Oberreute
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/reute-im-19-jh | Gemeinde-Webseite
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-adelsfamilie-held-von-arl | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  erbaut: ca. 1576
-  erbaut_von: Familie Held
-  wappen: Harsch-Wappen mit Jahreszahl 1626 (Restauration)
-  abgerissen: 1908
+  gründer: Familie Held (mit ziemlicher Sicherheit)
+  bauzeit_vermutung: um 1576
+  wappen_giebel: Harsch-Wappen mit Jahreszahl 1626 (Restaurierung Harsch)
+  abriss: 1908
+  grund_abriss: schien überflüssig durch neue Kirche
 GUELTIG_AB: 1576
 GUELTIG_BIS: 1908
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
+IST_VERMUTUM_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Familie Held von Arl
+FACETTE: GESCHICHTE | POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-adelsfamilie-held-von-arl | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herrschaft_beginn: 1549
+  herrschaft_ende: 1601
+  erwerbung: Kauf durch Mathias Held von Albrecht von Anweil
+  leibeigenschaft_aktion: Entlassung 1568 (Philipp Held)
+  schloss_erbauer: Philipp Held, erstes eingeschossiges Schloss
+  schloss_standort: Oberreute nördlich Herrengarten
+  letzte_verwalterin: Margarethe Held (bis 1601)
+  rathaus_stiftung: vermutlich Margarethe Held
+  rathaus_jahr: 1602
+GUELTIG_AB: 1549
+GUELTIG_BIS: 1601
+IST_VERMUTUM_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Familie Harsch
+FACETTE: GESCHICHTE | POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-familie-harsch | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wappenbrief: 1578
+  titel_status: Freiherrlich, nie geadelt
+  satzbürgerrecht_freiburg: 1579
+  herrschaft_beginn: 1605
+  herrschaft_ende: 1757
+  schloss_brand_30_jaehriger_krieg: 1634
+  schloss_brand_grund: Vergeltung (Österreicher)
+  schloss_wiederaufbau_nach_1634: Zweistöckiges Herrschaftshaus
+  schlossbrand_1757: ja (Herdfeuertritt ins Pfannenfett)
+  auswanderung_ungarn: gefördert unter Maria Theresia
+  auswanderung_abzugsgeld: 5% Vermögen + 1% an Herrschaft
+  umzug_holzhausen: 1757 nach Schlossbrand
+GUELTIG_AB: 1605
+GUELTIG_BIS: 1757
+IST_VERMUTUM_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
 
 ---
 
 ENTITÄT: statue
 BEZEICHNUNG: Nepomukstatue
-ORTSTEIL_BEZUG: Oberreute
+FACETTE: GESCHICHTE | FREIZEIT
+ORTSTEIL_BEZUG: Oberreute (urspr.)
 QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-familie-harsch | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  errichtet_von: Franz Ignaz Harsch
-  lage_original: an der Einfahrt zum Schloss in Reute
-  lage_heute: gegenüberliegende Seite im Bereich des ehemaligen Weihers
+  erbauer: Franz Ignaz Harsch
+  aufstellungJahr: vor 1754
+  ursprünglicher_standort: Einfahrt zum Schloss Reute
+  aktueller_standort: ehemaliger Weihererbereich (gegenüberliegende Seite)
+  zeitkontext: Zweiter Standort auch in Holzhausen am Schloss
 GUELTIG_AB: 1697
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: schloss
-BEZEICHNUNG: Herrschaftsschloss Harsch
-ORTSTEIL_BEZUG: Oberreute
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-familie-harsch | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  vorgaenger: von Familie Held errichteter Bau
-  neubau: zweistöckiges Herrschaftshaus (nach Schaden im 30-jährigen Krieg)
-  brand_1634: in Brand gesteckt
-  brand_1757: erneut gebrannt, Ursache Herdfeuerbrand in der Küche
-  grund_brand_1757: Vorbereitung eines Gastmahls, Übersprung des Herdfeuers ins Pfannenfett
-  konsequenz_1757: Lagebücher und Steuerregister vernichtet, Umzug nach Holzhausen
-GUELTIG_AB: 1605
-GUELTIG_BIS: 1757
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Andreas Harsch
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-familie-harsch | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  wappenbrief: 1578 (mit Bruder Michael)
-  satzbuergerrecht_freiburg: 1579
-  titel: kaiserlicher Rat und Kanzler zu Ensisheim
-  besitztum: Ober- und Unterreute ab 1605
-  funktionssphaere: Kanzler der Vorderösterreichischen Regierung in Ensisheim (1606)
-  leibeigenschaft: wieder eingeführt oder Anweisung nie umgesetzt
-  todeszeitraum: 1612
-GUELTIG_AB: 1578
-GUELTIG_BIS: 1612
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Conrad Harsch
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-familie-harsch | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  dorfherr: ab 1612
-  tod: 1626
-GUELTIG_AB: 1612
-GUELTIG_BIS: 1626
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Franz Ignaz Harsch
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-familie-harsch | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  getauft: 1697 in Reute
-  verstorben: 1754 in Holzhausen
-  charakter: "übler Bursche, der nicht davor zurückschreckte, seine Untertanen zu verprügeln"
-  erbaute: Nepomukstatue an der Einfahrt zum Schloss
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Joseph Judas Thaddäus Harsch
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-familie-harsch | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  ereignis_1757: Schlossbrand
-  folge: Umzug nach Holzhausen
-  sohn_von: Franz Ignaz Harsch
-  interesse: wenig Interesse an seinen Gemeinden
-  verkaufsversuch_1754: versuchte Gemeinden zu verkaufen (erfolglos)
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Mathias Held von Arl
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-adelsfamilie-held-von-arl | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  erwerb_1549: Kauf von Holzhausen, Ober- und Unterreute
-  verkaufer: Albrecht von Anweil (Schwiegersohn von Stürzel)
-  residenz: selten in Reute
-  tod_1564: in Köln, dort begraben
-GUELTIG_AB: 1549
-GUELTIG_BIS: 1564
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Philipp Held
-QUELLE: https://www.reute.de/unsiere-gemeinde/geschichte/die-adelsfamilie-held-von-arl | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  handlung_1568: entlässt Reutemer Untertanen aus Leibeigenschaft
-  bau_schloss: erstes eingeschossiges Schloss in Oberreute (nördlich des Herrengarten)
-  tod: 1570
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Andreas Johannes Held
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-adelsfamilie-held-von-arl | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  titel: Universitätsprofessor
-  bruder: Philipp Held
-  beisetzung: Pfarrkirche Unterreute
-  tod: 1599
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Margarethe Held
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-adelsfamilie-held-von-arl | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  rolle: letzte der Familie Held, Verwaltung unseres Ortes
-  tod: ca. 1601
-  stiftung: erstes Rathaus in Reute
-GUELTIG_AB: 1570
-GUELTIG_BIS: 1601
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: bruderschaft
-BEZEICHNUNG: St. Barbara-Bruderschaft
-ORTSTEIL_BEZUG: Reute
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-adelsfamilie-held-von-arl | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  gruendung: 1594
-  gruender: Pfarrvikar Martin Demler
-GUELTIG_AB: 1594
-IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
 ENTITÄT: rathaus
-BEZEICHNUNG: erstes Rathaus Reute
-ORTSTEIL_BEZUG: Hauptstraße, Reute
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-adelsfamilie-held-von-arl | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  gestiftet_von: Margarethe Held
-  jahreszahl: 1602 (über Hauseingangstür)
-  lage: Hauptstraße gegenüber dem ehemaligen Weiher
-GUELTIG_AB: 1602
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: rathaus
-BEZEICHNUNG: Rathaus Reute
+BEZEICHNUNG: Rathaus Reute (neues)
+FACETTE: INFRA
 ORTSTEIL_BEZUG: Oberreute
 QUELLE: https://www.reute.de/unsere-gemeinde/gemeinde/kurzportrait | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  einweihung: 1960
-  adresse: Kirchstraße 6, 79276 Reute
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+  erbauung_jahr: 1960
+  einweihung_jahr: 1960
+  bedeutung_fuer_ort: Zentrum der Gemeindverwaltung
+GUELTIG_AB: 1960
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus Reute (erstes)
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-adelsfamilie-held-von-arl | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer_vermutung: Margarethe Held
+  jahreszahl_giebeleingang: 1602
+  standort: Hauptstraße gegenüber ehemaliger Weiher
+  status: noch heute sichtbar
+GUELTIG_AB: 1602
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
 ENTITÄT: schule
 BEZEICHNUNG: Eichmattenschule
+FACETTE: INFRA
 ORTSTEIL_BEZUG: Oberreute
-QUELLE: https://www.reute.de/unsere-gemeinde/gemeinde/kurzportrait | Gemeinde-Webseite
+QUELLE: https://de.wikipedia.org/wiki/Reute_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  art: Grundschule
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: schule
-BEZEICHNUNG: erste Schule Reute
-ORTSTEIL_BEZUG: Unterreute
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/das-20-jh-die-zwei-weltkriege | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  erbaut: 1804
-GUELTIG_AB: 1804
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: schule
-BEZEICHNUNG: Kindergarten und Schule
-ORTSTEIL_BEZUG: Oberreute
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/das-20-jh-die-zwei-weltkriege | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  einweihung: 1921
+  typ: Grundschule (seit 2014, vorher Grund- und Werkrealschule)
+  etablierung_alt_1804: Erste Schule in Unterreute
+  kirche_und_schule_neubau: 1921 in Oberreute
+  schuelerschaft_2016_17: 81 Schüler in vier Klassen
+  gaesteklasse: Außenklasse Esther-Weber-Schule seit 2016/17
 GUELTIG_AB: 1921
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: kindergarten
-BEZEICHNUNG: Kindergarten Fanatsia
-ORTSTEIL_BEZUG: Unterreute
-QUELLE: https://www.reute.de/unsere-gemeinde/gemeinde/kurzportrait | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  traeger: Gemeinde
-IST_VERMUTLICH_AKTUELL: true
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
 ENTITÄT: kindergarten
-BEZEICHNUNG: Kindergarten St. Josef
+BEZEICHNUNG: Fantasia
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Unterreute
+QUELLE: https://www.reute.de/unsere-gemeinde/gemeinde/kurzportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  traeger: kommunal
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kindergarten
+BEZEICHNUNG: St. Josef
+FACETTE: INFRA
 ORTSTEIL_BEZUG: Oberreute
 QUELLE: https://www.reute.de/unsere-gemeinde/gemeinde/kurzportrait | Gemeinde-Webseite
 EIGENSCHAFTEN:
   traeger: katholisch
-IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Sick AG
+FACETTE: WIRTSCHAFT | ALLTAG
+ORTSTEIL_BEZUG: Unterreute
+QUELLE: https://de.wikipedia.org/wiki/Reute_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  ursprungsort: Waldkirch
+  branche: Sensorenhersteller
+  beschaeftigte: ca. 700
+  bedeutung_fuer_ort: größter Arbeitgeber im Ort
+  standort_lage: Gewerbegebiet Unterreute, Ortsausfahrt Richtung Nimburg
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Storchenfreunde Reute / S.O.S. Weisstorch Breisgau e.V.
+FACETTE: FREIZEIT | KULTUR
+ORTSTEIL_BEZUG: Unterreute (Kirche Umkreis)
+QUELLE: https://www.reute.de/leben-freizeit/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_ursprung: Nachbargruppe vor langer Zeit
+  ziel: Weißstorch wieder heimisch machen und Erhalt im Breisgau
+  station_typ: Pflege- und Aufzuchtstation (Voliere)
+  station_ort: Garten Martin Kury, Freiburger Straße 27
+  kamera_ueberwachung: Storchennester mit Kameras
+  leiter_vergangenheit: Hagen Späth (langjähriger Vorsitzender)
+  angebote: Besichtigungen/Führungen nach Absprache
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum Reute
+FACETTE: KULTUR | FREIZEIT
+ORTSTEIL_BEZUG: Oberreute
+QUELLE: https://www.reute.de/unsere-gemeinde/gemeinde/heimatmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung_jahr: 1984
+  begruender: Franz Kury (damaliger Bürgermeister)
+  umzug_2019: Försterhaus Reute seit September 2019
+  standort_adresse: Hauptstraße 4, 79276 Reute
+  sammlungsfokus: Landwirtschaft, Tabakanbau, Seegrasernte, Handwerk (Wagner, Schmiede, Drechsler, Schuster)
+  objekte: Geräte, Haushaltsgegenständen, Kleidung, Schriften, Fotos
+GUELTIG_AB: 1984
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Försterhaus Reute
+FACETTE: KULTUR | FREIZEIT
+ORTSTEIL_BEZUG: Oberreute
+QUELLE: https://de.wikipedia.org/wiki/Reute_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  sammlungen: Puppen- und Spielzeugmuseum, Kunstraum, Heimatmuseum
+  funktion: Kulturveranstaltungsort (Lesungen, Konzerte, Kabarett, Feste)
+GUELTIG_AB: 2019
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Fasnet / Rosenmontagsumzug
+FACETTE: KULTUR | FREIZEIT
+ORTSTEIL_BEZUG: Oberreute
+QUELLE: https://de.wikipedia.org/wiki/Reute_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  brauch: Fasnet mit Rosenmontagsumzug
+  bedeutung_regional: zu beliebtesten und schönsten der Region
+  narrenzuenfte_anzahl: 3
+  narrenzuenfte_namen: Riddemer Schrättele, Riddemer Näbl Hexe, MoorGalgen-Brut
+  festwagengruppen: RVC Reute, SC Reute, Motorradfreunde Reute
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: brunnen
+BEZEICHNUNG: Narrenbrunnen
+FACETTE: KULTUR | FREIZEIT
+ORTSTEIL_BEZUG: Oberreute
+QUELLE: https://de.wikipedia.org/wiki/Reute_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  erbauer: Narrenzunft Riddemer Schrättele e.V.
+  aufstellungsjahr: 2004
+  form: Narrenfigur als Brunnen
+GUELTIG_AB: 2004
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: mobilitaetsangebot
+BEZEICHNUNG: Frelo
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Oberreute
+QUELLE: https://www.reute.de/leben-freizeit/nahverkehroepnv-rvf-frelo | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Fahrradverleihsystem (Nextbike)
+  start_pilot: März 2024
+  start_regelphase: März 2026
+  station_anzahl: 1 (Reute)
+  station_lage: vor Eichmattenschule / beim Rathaus
+  verleihraeder: 5 (davon 2 E-Bikes seit 2026)
+  netzumfang: 19 Städte/Gemeinden mit 162 Stationen
+GUELTIG_AB: 2024
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
 ENTITÄT: gemeindehaus
 BEZEICHNUNG: Carl Caspar Haus
+FACETTE: INFRA | KULTUR
 ORTSTEIL_BEZUG: Oberreute
 QUELLE: https://www.reute.de/unsere-gemeinde/gemeinde/kurzportrait | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  beschreibung: Gemeindehaus und Veranstaltungsstätte der Kath. Kirchengemeinde
+  traeger: Katholische Kirchengemeinde
   einweihung: 2014
-  adresse: Kirchstraße 6/1, 79276 Reute
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+  funktion: Veranstaltungs- und Begegnungsstelle
+  addresse: Kirchstraße 6/1, 79276 Reute
+GUELTIG_AB: 2014
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: halle
-BEZEICHNUNG: Eichmattenhalle
+ENTITÄT: verein
+BEZEICHNUNG: Seniorenwerk Reute
+FACETTE: ALLTAG | KULTUR
 ORTSTEIL_BEZUG: Oberreute
-QUELLE: https://www.reute.de/unsere-gemeinde/gemeinde/kurzportrait | Gemeinde-Webseite
+QUELLE: https://www.reute.de/leben-freizeit/senioren | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  beschreibung: Veranstaltungshalle
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: infrastruktur
-BEZEICHNUNG: Wasserversorgung
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/das-20-jh-die-zwei-weltkriege | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  moderne_infrastruktur: 1962
-  beschreibung: moderne Wasserversorgung ins Dorf
-GUELTIG_AB: 1962
-IST_VERMUTLICH_AKTUELL: true
+  treffen_rhythmus: erster Mittwoch im Monat, 14:00 Uhr
+  treffen_ort: Carl Caspar Haus
+  mitglieder_anzahl: 125
+  mitglieder_stand: 2025
+  vorsitzende: Christel Grünninger
+  programmangebot: Vorträge, Dia-Vortraege, Kirchenjahresfeste, Fasnet, Wallfahrten, Seniorengymnastik Donnerstag
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: infrastruktur
-BEZEICHNUNG: Abwasserleitung und Dorfbach
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/das-20-jh-die-zwei-weltkriege | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  abwasserleitung: Siebziger Jahre erbaut
-  dorfbach: zugeschüttet (Siebziger Jahre)
-  vorfunktion: Dorfbach diente als Abwasser
-GUELTIG_AB: 1970
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: museum
-BEZEICHNUNG: Heimatmuseum Reute
-ORTSTEIL_BEZUG: Oberreute
-QUELLE: https://www.reute.de/unsere-gemeinde/gemeinde/heimatmuseum | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  einweihung: 1984
-  initiator: Bürgermeister Franz Kury
-  untergebracht_seit: September 2019 im Försterhaus Reute
-  adresse: Hauptstraße 4, 79276 Reute
-  sammlung: historische Gerätschaften, Haushaltsgegenstände, Kleidung, Schriften, Fotos
-  themen: Landwirtschaft, Tabakanbau, Seegrasernte, Handwerk (Wagner, Schmiede, Drechsler, Schuster)
-  oeffnungszeiten: jeden 2. und 4. Sonntag im Monat 14.00-17.00 Uhr
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Markus Hollemann
-QUELLE: https://www.reute.de/unsere-gemeinde/gemeinde/kurzportrait | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  funktion: Verbandsvorsitzender Gemeindeverwaltungsverband Denzlingen-Vörstetten-Reute
-  titel: Bürgermeister
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Franz Kury
-QUELLE: https://www.reute.de/unsere-gemeinde/gemeinde/heimatmuseum | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  funktion: Bürgermeister (damalig)
-  initiative: Gründung Heimatmuseum Reute
-GUELTIG_AB: 1984
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Martin Kury
-QUELLE: https://www.reute.de/leben-freizeit/sehenswertes | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  aktivitaet: Betreiber der Aufzuchtstation für Störche
-  adresse: Freiburger Straße 27, 79276 Reute
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Martin Demler
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-adelsfamilie-held-von-arl | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  titel: Pfarrvikar
-  gruendung: St. Barbara-Bruderschaft (1594)
-GUELTIG_AB: 1594
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Hagen Späth
-QUELLE: https://www.reute.de/leben-freizeit/sehenswertes | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  funktion: langjähriger Vorsitzender S.O.S. Weisstorch e.V.
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Martin Haßler
-QUELLE: https://www.reute.de/leben-freizeit/kirchen/evangelische-kirche | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  titel: Pfarrer (evangelisch)
-  pfarramt: Pfarrstraße 1, 79279 Vörstetten
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: fluss
+ENTITÄT: gewaesser
 BEZEICHNUNG: Glotter
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-steinzeit | Gemeinde-Webseite
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: südlicher Dorfrand
+QUELLE: https://www.reute.de/unsere-gemeinde/gemeinde/kurzportrait | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  lage: südlicher Dorfrand
-  funktion: Grenzmarkierung (zu Vörstetten)
-  versteinerung_1766: Gemarkungsgrenze versteint
-GUELTIG_AB: 1766
-IST_VERMUTLICH_AKTUELL: true
+  verlauf: durchfließt südlichen Dorfrand
+  koexistenz_waechte: Bäche, Flüsse (Elz, Waldbächlein) sorgen für Frühjahrs- und Herbstüberschwemmungen
+  auswirkung_geschichte: Grund für wasserreichtum und Kämpfe mit Wasser
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: fluss
-BEZEICHNUNG: Elz
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-steinzeit | Gemeinde-Webseite
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Walthersdorf
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Reute_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  funktion: verursachte Überschwemmungen (Frühjahr und Herbst)
-IST_VERMUTLICH_AKTUELL: true
+  lage: Erzgebirge, Sachsen
+  partnerschaft_status: aktiv
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: bach
-BEZEICHNUNG: Waldbächlein
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-steinzeit | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  funktion: verursachte Überschwemmungen (Frühjahr und Herbst)
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: naturgeographie
-BEZEICHNUNG: Bodenverhaeltnisse Reute
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-steinzeit | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  auwaldlehm: ca. 1 m Mächtigkeit
-  kiesruecken: abgelagert
-  bodenqualitaet: mäßig bis schlecht
-  grund: letzte Eiszeit
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: naturgeographie
-BEZEICHNUNG: Grundwasser Reute
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-steinzeit | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  verursacher: durch Kaiserstuhl aufgestaut
-  lage_19jh: knapp unter Geländeoberkante bis ins 19. Jahrhundert
-  regulierung_ab_1880: Elzregulierung senkte Grundwasser
-GUELTIG_AB: 1880
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: krankheit
-BEZEICHNUNG: Faulfieber
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/reute-im-19-jh | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  ende: ab 1880 durch Elzregulierung abgeklungen
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: wirtschaftszweig
-BEZEICHNUNG: Hanfanbau
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/reute-im-19-jh | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  ersatzt_durch: Tabakanbau
-GUELTIG_AB: 1880
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: wirtschaftszweig
-BEZEICHNUNG: Tabakanbau
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/reute-im-19-jh | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  vorgaenger: ersetzte Hanfanbau (ab 1880)
-GUELTIG_AB: 1880
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: wirtschaftszweig
-BEZEICHNUNG: Seegrasernte
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/reute-im-19-jh | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  verarbeitung: zu Matratzen-Füllungen
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: wirtschaftszweig
-BEZEICHNUNG: Obstanbau
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/reute-im-19-jh | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  entwicklung: gedieh (ab 1880)
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: kriegerisches_ereignis
-BEZEICHNUNG: 30-jähriger Krieg
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-familie-harsch | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  zeitraum: 1618-1648
-  folgen_fuer_reute: verheerende Folgen
-  lage: isoliert, umgeben von protestantischen Nachbarn
-  schweden_1632: Schweden fallen in Gegend ein
-  zielgruppe_schweden: katholische Orte (auch Reute)
-  todeursachen: Hunger und Seuchen forderten mehr Tote als Kriegshandlungen
-  haeuserstand_1634: von 29 Häusern standen nur noch 5
-  bodenstand_1634: Felder mit Gestrüpp überwuchert, Buchenhecken zu Bäumen gewachsen
-  oberreute: schien verlassen
-  wiederbesiedlung: im 18. und 19. Jahrhundert
-GUELTIG_AB: 1618
-GUELTIG_BIS: 1648
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: kriegerisches_ereignis
-BEZEICHNUNG: Holländischer Krieg
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-familie-harsch | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  zeitraum_beginn: 1672
-  verursacher: König Ludwig XIV Frankreich
-  friedensvertrag: Frieden von Rijswijk 1698
-GUELTIG_AB: 1672
-GUELTIG_BIS: 1698
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: kriegerisches_ereignis
-BEZEICHNUNG: Spanischer Erbfolgekrieg
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-familie-harsch | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  zeitraum: 1713-1714
-GUELTIG_AB: 1713
-GUELTIG_BIS: 1714
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: kriegerisches_ereignis
-BEZEICHNUNG: Napoleonische Kriege in Breisgau
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/reute-im-19-jh | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  grund: Französische Revolution 1789
-  ereignis_1793: Französische Truppen nahmen Breisach ein
-  ereignis_1796: Rheinüberquerung
-  ereignis_um_1800: Franzosen drangen erneut ein
-  ereignis_1805: Breisgau von französischen Truppen besetzt
-  folge: Nach Frieden von Pressburg: Freiburg und Reute werden badisch
-  anlass_badisch: Napoleon bewirkte Bildung Großherzogtum Baden
-  verwaltungsaenderung: französischer Einfluss führte zu Zentralisierung
-  folgen: Zeitalter dörflicher Herrschaft endete
-GUELTIG_AB: 1789
-GUELTIG_BIS: 1815
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: kriegerisches_ereignis
-BEZEICHNUNG: Wiener Verhandlungen und Napoleons Niederlagen
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/reute-im-19-jh | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  ereignis: Völkerschlacht bei Leipzig 1813 (Niederlage Napoleons)
-  folge: Großherzogtum Baden relativ gesichert in Wiener Verhandlungen
-  auswirkungen: Groß­herzogtum Baden musste Hilfstruppen stellen
-  folgen_fuer_reute: Reutemers Bürger mussten dienen
-  zeit_alliierter_heere: Winter 1813/14 schwere Lasten
-GUELTIG_AB: 1813
-GUELTIG_BIS: 1814
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: historisches_ereignis
-BEZEICHNUNG: Wirtschaftskrise 1815/16
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/reute-im-19-jh | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  ereignis: Missernte Wirtschaftsjahr 1815/16
-  folge_land: Hungersnot im ganzen Land
-  folgen_reute: Bürger und Gemeinde verschuldeten sich beim Beschaffung von Hafer und Roggen aus Freiburg
-  folgen_abwanderung: erste Auswanderer verließen Ort
-GUELTIG_AB: 1815
-GUELTIG_BIS: 1816
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: historisches_ereignis
-BEZEICHNUNG: Revolution 1848/49
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/reute-im-19-jh | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  zeitraum: 1848-1849
-  folge: niedergeschlagen durch preußische Truppen
-GUELTIG_AB: 1848
-GUELTIG_BIS: 1849
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: historisches_ereignis
-BEZEICHNUNG: Orts-Bereisungs-Bericht
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/reute-im-19-jh | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  zeitraum: 1851-1853
-  beschreibung: es gibt keine Reichen, wenig Bemittelte und sehr viele Arme
-  haeuflungen: Anträge auf Zwangsversteigerungen
-GUELTIG_AB: 1851
-GUELTIG_BIS: 1853
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: kriegerisches_ereignis
-BEZEICHNUNG: 1. Weltkrieg
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/das-20-jh-die-zwei-weltkriege | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  zeitraum_start: 1914
-  anlass: Attentat auf Erzherzog Franz Ferdinand von Österreich
-  erreichte_reute: Krieg hat zum Glück Reute nicht erreicht
-  tode_aus_gemeinde: 26 Männer fielen
-  ende: 1918
-GUELTIG_AB: 1914
-GUELTIG_BIS: 1918
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: kriegerisches_ereignis
-BEZEICHNUNG: 2. Weltkrieg
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/das-20-jh-die-zwei-weltkriege | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  bombenangr
-iffe: Reute blieb von Bombenangriffen verschont
-  ereignis_fruehjahr_1945: Volksdeutsche aus Ungarn kamen ins Dorf (Nachfahren der Auswanderer von vor 200 Jahren)
-  bezetzer_kinder: aus bombardierten Städten (Dortmund, Mannheim) untergebracht
-  schanzarbeit: Bevölkerung musste wie beim 1. Weltkrieg schanzenbeit leisten
-  ende: 8. Mai 1945
-  tote: 72 Reutemern das Leben
-GUELTIG_AB: 1939
-GUELTIG_BIS: 1945
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Baducho
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/wappen | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  titel: fränkischer Grundbesitzer
-  handlung: vermachte Besitz im Orte Reudem an Kloster Lorsch
-  zeit: 772/73
-GUELTIG_AB: 772
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Papst Eugen III
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/das-mittelalter-und-bis-zum-18jh | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  handlung: bestätigte dem Priorat in Cella (St. Ulrich) Besitz eines Hofes in Ruithin
-  jahr: 1147
-GUELTIG_AB: 1147
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Hugo
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/das-mittelalter-und-bis-zum-18jh | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  titel_erste_erwaehnung: Pfarrer H. plebanus de Ruiti
-  datum_erste_erwaehnung: 1244
-  titel_zweite_erwaehnung: Chorherr von Zürich an St. Felix und Regula (Großmünster Zürich)
-  datum_zweite_erwaehnung: 1257 und 1260
-  wirken: führte Verehrung der Heiligen Felix und Regula in Reute ein
-GUELTIG_AB: 1244
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Konrad Stürzel von Buchheim
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/das-mittelalter-und-bis-zum-18jh | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  titel: Erz- und Hofkanzler des Kaisers Maximilian I
-  verbindung_universitaet: eng mit Universität Freiburg verbunden
-  ortsherrschaften: Reute gehörte zu seinen Ortsherrschaften
-  hochaltar: Familie stiftete kostbaren spätgotischen Hochaltar
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: David von Landeck zu Wiesneck
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/das-mittelalter-und-bis-zum-18jh | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  handlung: verkaufte 1491 Reute und Marchdörfer an Dr. Conrad Stürzel
-  grund: lebte über seine Verhältnisse
-GUELTIG_AB: 1491
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Hans von Landeck der Ältere
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/das-mittelalter-und-bis-zum-18jh | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  position: Obrigkeit in Reute
-  gerichtsbarkeit: Nieder- und Hochgerichtsbarkeit
-  date: 1448
-GUELTIG_AB: 1448
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Papst Innozenz IV
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/das-mittelalter-und-bis-zum-18jh | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  handlung: bestätigte dem Kloster Günterstal Besitz eines Hofes (grangia) in Ruthi
-  jahr: 1247
-GUELTIG_AB: 1247
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Junte
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/das-mittelalter-und-bis-zum-18jh | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  titel: Witwe von Konrad Snevelin "des Jungen"
-  handlung: übergab dem Kloster Günterstal Besitz "zu obern und ze nidern Rüti"
-  jahr: 1292
-GUELTIG_AB: 1292
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Agnes von Eggerich
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/das-mittelalter-und-bis-zum-18jh | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  titel: Witwe des Herrn Snewli von Wiesneck
-  handlung: übergab dem Kloster Günterstal Güter ze Rüti in den Stoekken
-  jahr: 1343
-GUELTIG_AB: 1343
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Sabine Keller
-QUELLE: https://www.reute.de/leben-freizeit/kirchen/evangelische-kirche | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  titel: Sekretärin Pfarramt Vörstetten
-  telefon: 07666/2263
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: graslatte
-BEZEICHNUNG: St. Barbara-Glocke
-ORTSTEIL_BEZUG: Unterreute
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/das-mittelalter-und-bis-zum-18jh | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  jahreszahl: 1495
-  herkunft: noch vor Gründung der Barbara-Bruderschaft (1594)
-GUELTIG_AB: 1495
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: grabplatte
-BEZEICHNUNG: Grabplatte Held & Harsch
-ORTSTEIL_BEZUG: Unterreute
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-adelsfamilie-held-von-arl | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  familien: Held und Harsch
-  beisetzung_ort: Pfarrkirche Unterreute
-  auffindung_1871_73: nach Innensanierung auf neuen Friedhof verbracht
-  vergessenheit: geriet in Vergessenheit
-  wiederfund: 2004
-  anbringung_seit_2004: an Rückwand des alten Pfarrhauses
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
 ENTITÄT: verwaltungsverband
 BEZEICHNUNG: Gemeindeverwaltungsverband Denzlingen-Vörstetten-Reute
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.reute.de/unsere-gemeinde/gemeinde/kurzportrait | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  gruendung_denzlingen_voerstetten: 1972
-  gruendung_reute_beitritt: 1974
+  grundung: 1972 (Denzlingen+Vörstetten), 1974 Beitritt Reute
   sitz: Denzlingen
-  verbandsvorsitzender: Markus Hollemann (Bürgermeister)
-  aufgabe: erledigt verwaltungsmäßige Aufgaben für Mitgliedsgemeinden
-GUELTIG_AB: 1972
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: organisation
-BEZEICHNUNG: S.O.S. Weißstorch Breisgau e.V.
-QUELLE: https://www.reute.de/leben-freizeit/sehenswertes | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  ziel: Erhalt und Wiederansiedlung des Weißstorches im Breisgau
-  aufzuchtstation: Voliere für Störche im Garten von Martin Kury (Freiburger Straße 27)
-  aktivitaeten: Besichtigungen und Führungen für Gruppen
-  kameras: montiert in mehrere Storchennester
-IST_VERMUTLICH_AKTUELL: true
+  vorsitzender: Markus Hollemann (Bürgermeister)
+  aufgabe: Verwaltungsaufgaben der Mitgliedsgemeinden
+GUELTIG_AB: 1974
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: organisation
-BEZEICHNUNG: Naturpark Südschwarzwald e.V.
-QUELLE: https://www.reute.de/leben-freizeit/sehenswertes | Gemeinde-Webseite
+ENTITÄT: buergermeister
+BEZEICHNUNG: Michael Schlegel
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Reute_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  beschreibung: Naturpark
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.6
-
----
-
-ENTITÄT: handwerk
-BEZEICHNUNG: Wagner
-QUELLE: https://www.reute.de/unsere-gemeinde/gemeinde/heimatmuseum | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  beschreibung: ortsansässiges Handwerk, vorgestellt im Heimatmuseum
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: handwerk
-BEZEICHNUNG: Schmiede
-QUELLE: https://www.reute.de/unsere-gemeinde/gemeinde/heimatmuseum | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  beschreibung: ortsansässiges Handwerk, vorgestellt im Heimatmuseum
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: handwerk
-BEZEICHNUNG: Drechsler
-QUELLE: https://www.reute.de/unsere-gemeinde/gemeinde/heimatmuseum | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  beschreibung: ortsansässiges Handwerk, vorgestellt im Heimatmuseum
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: handwerk
-BEZEICHNUNG: Schuster
-QUELLE: https://www.reute.de/unsere-gemeinde/gemeinde/heimatmuseum | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  beschreibung: ortsansässiges Handwerk, vorgestellt im Heimatmuseum
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: gemarkungsgrenzstein
-BEZEICHNUNG: Grenzstein Bottingen
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-familie-harsch | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  lage: Grenze zu Bottingen
-  jahreszahl: 1662
-GUELTIG_AB: 1662
-IST_VERMUTLICH_AKTUELL: true
+  amtsantritt: seit 1997
+  wahl_jahr_aktuell: 2021
+  wahl_stimmenanteil: 92.26%
+  amtszeit_dauer: 8 Jahre
+GUELTIG_AB: 1997
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: gemarkungsgrenzstein
-BEZEICHNUNG: Grenzstein Bottingen
+ENTITÄT: grenzstein
+BEZEICHNUNG: Gemarkungssteine 1762
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-familie-harsch | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  lage: Grenze zu Bottingen
-  jahreszahl: 1666
-GUELTIG_AB: 1666
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: gemarkungsgrenzstein
-BEZEICHNUNG: Grenzstein Teningen/Wasser
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-familie-harsch | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  lage: Grenze zu Teningen und Wasser
-  jahreszahl: 1705
-GUELTIG_AB: 1705
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: gemarkungsgrenzstein
-BEZEICHNUNG: Grenzstein Vörstetten/Teningen/Norden
-QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-familie-harsch | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  lage: Grenze Ost zu Vörstetten und Nord zu Teningen
-  jahreszahl: 1762
-  markierung: Andreaskreuz der Harsch und R für Reute teilweise dilettantisch angebracht (Innenseite)
+  festlegung_jahr: 1762
+  grenzen_neu_definiert: Osten (Vörstetten), Norden (Teningen)
+  altere_steine_vorhanden: ja, von 1662, 1666 (Bottingen), 1705 (Teningen, Wasser)
+  inschrift: Andreaskreuz Harsch und R für Reute (teilweise dilettantisch nachträglich)
+  versteinerung_gloetter: 1766 entlang Glotter zu Vörstetten
+  aufbewahrung: Grenzprotokolle Original im Reute Archiv
 GUELTIG_AB: 1762
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.88
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: gemarkungsgrenzstein
-BEZEICHNUNG: Grenzstein Vörstetten Glotter
+ENTITÄT: archäologischer_fund
+BEZEICHNUNG: Reibstein (bandkeramisch)
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-steinzeit | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fundjahr: vor modern (L. Siegel Sammlung)
+  fundort: Gewann Salzacker
+  fundtyp: Bruchstück eines Reibsteines
+  kontext_vermutung: bandkeramische Getreidemühle (mit fehlendem Läuferstein)
+  interpretation: Hinweis auf Siedlung Jungsteinzeit
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: 30-jähriger Krieg
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/die-familie-harsch | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  lage: Grenze zu Vörstetten, meist entlang der Glotter
-  jahreszahl: 1766
-  beschreibung: erste steinerne Markierung, zuvor genügte die Glotter als Grenzmarkierung
-GUELTIG_AB: 1766
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.88
+  zeitraum: 1618-1648
+  auswirkung_reute: verheerend
+  grund_verheersuing: isoliert, umgeben von protestantischen Nachbarn
+  schwedeneinfalle: 1632
+  schloss_brand: 1634 (Harsch-Schloss in Brand gesteckt)
+  vergeltung: Langendenzlingen von Österreichern niedergebrannt
+  schaeden: 24 von 29 Häusern zerstört (5 standen noch)
+  folgen: Felderwildnis, Buchenhecken zu Bäumen gewachsen, Oberreute entvölkert
+  opfer_form: Hunger und Seuchen forderten mehr Tote als Kriegshandlungen
+GUELTIG_AB: 1618
+GUELTIG_BIS: 1648
+IST_VERMUTUM_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Napoleonische Kriege
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/reute-im-19-jh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kontext: Französische Revolution, Reformen, Militärdienst
+  besatzung_1793: Breisach durch Franzosen
+  rheinueberquerung: 1796
+  besatzungen_reute: ja, mehrfach; dritter Besuch um 1800
+  besatzung_1805: Breisgau von Franzosen besetzt
+  friedensvertrag: Pressburg
+  konsequenz: Freiburg und Reute wurden badisch
+  groherzogtum_gründung: Großherzogtum Baden durch Napoleon
+  verwaltung_reform: Zentralisierung, Ende dörfliche Herrschaft
+  mobilisierung: Reutemer Bürger in Hilfsgruppen, Winter 1813/14 verbündete Heere im Breisgau
+GUELTIG_AB: 1793
+GUELTIG_BIS: 1815
+IST_VERMUTUM_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Famine 1815/16
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/reute-im-19-jh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis: Missernte
+  folge: Hungersnot im ganzen Land
+  reaktion_reute: Bürger und Gemeinde verschuldeten sich beim Ankauf von Hafer und Roggen aus Freiburg
+  konsequenz: erste Auswanderer verlassen den Ort
+GUELTIG_AB: 1815
+GUELTIG_BIS: 1816
+IST_VERMUTUM_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Revolution 1848/49
+FACETTE: GESCHICHTE | POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/reute-im-19-jh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grund: allgemeine Unzufriedenheit, Freiheitsbestrebungen
+  unterdrückung: Preußische Truppen schlagen nieder
+GUELTIG_AB: 1848
+GUELTIG_BIS: 1849
+IST_VERMUTUM_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Elzregulierung / Grundwassersenker
+FACETTE: GESCHICHTE | INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/reute-im-19-jh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: ab 1880
+  wirkung: Grundwassersenker, Faulfieber-Abklingen
+  bedeutung_fuer_ort: Ende der Wasserkämpfe, Landwirtschaftserleichterung
+GUELTIG_AB: 1880
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Erster Weltkrieg
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/das-20-jh-die-zwei-weltkriege | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anlass: Attentat auf Erzherzog Franz Ferdinand von Österreich
+  auswirkung_reute: Dorf nicht erreicht, aber Nöte trafen den Ort
+  kriegsende: 1918
+  gefallene: 26 Männer aus der Gemeinde
+GUELTIG_AB: 1914
+GUELTIG_BIS: 1918
+IST_VERMUTUM_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Zweiter Weltkrieg
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/das-20-jh-die-zwei-weltkriege | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bombenangrift: verschont
+  schanzen_pflicht: Bevölkerung musste Schanzarbeit leisten
+  evakuierte: Kinder aus bombardierten Städten (Dortmund, Mannheim) untergebracht
+  volksdeutsche: Frühjahr 1945 aus Ungarn (Nachfahren der Auswanderer von vor 200 Jahren)
+  kriegsende: 8. Mai 1945
+  gefallene: 72 Reutemer
+GUELTIG_AB: 1939
+GUELTIG_BIS: 1945
+IST_VERMUTUM_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Wasserversorgung
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/das-20-jh-die-zwei-weltkriege | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einfuehrung_jahr: 1962
+  charakteristika: modern
+GUELTIG_AB: 1962
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Abwasserbewirtschaftung
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/das-20-jh-die-zwei-weltkriege | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einfuehrung_zeitraum: Beginn siebziger Jahre
+  vorgaenger: Dorfbach als Abwassergüter
+  massnahme: Dorfbach zugeschüttet
+GUELTIG_AB: 1970
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Barbara-Bruderschaft
+FACETTE: KULTUR | GESCHICHTE
+ORTSTEIL_BEZUG: Unterreute
+QUELLE: https://www.reute.de/unsere-gemeinde/geschichte/das-mittelalter-und-bis-zum-18jh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründer: Pfarrvikar Martin Demler
+  gründungsjahr: 1594
+  glocke_barbara_existenz: 1495 (vor Bruderschaftsgründung)
+GUELTIG_AB: 1594
+GUELTIG_BIS: 
+IST_VERMUTUM_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85

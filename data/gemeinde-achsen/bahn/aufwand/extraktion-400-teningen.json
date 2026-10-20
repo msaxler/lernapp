@@ -1,21 +1,21 @@
 {
  "stufe": "extraktion",
  "ort": "400-teningen",
- "prompt": "prompt-stufe1-v0.6.txt",
+ "prompt": "prompt-stufe1-v0.7.txt",
  "modell_wunsch": "haiku",
  "modelle": [
   "claude-haiku-4-5-20251001"
  ],
- "eingabe_zeichen": 35929,
- "token_ein": 28870,
- "token_aus": 12610,
+ "eingabe_zeichen": 104475,
+ "token_ein": 56835,
+ "token_aus": 13623,
  "usage": {
   "input_tokens": 9,
-  "cache_creation_input_tokens": 21733,
+  "cache_creation_input_tokens": 49698,
   "cache_read_input_tokens": 7128,
-  "output_tokens": 12610,
+  "output_tokens": 13623,
   "output_tokens_details": {
-   "thinking_tokens": 877
+   "thinking_tokens": 938
   },
   "server_tool_use": {
    "web_search_requests": 0,
@@ -23,19 +23,19 @@
   },
   "service_tier": "standard",
   "cache_creation": {
-   "ephemeral_1h_input_tokens": 21733,
+   "ephemeral_1h_input_tokens": 49698,
    "ephemeral_5m_input_tokens": 0
   },
   "inference_geo": "not_available",
   "iterations": [
    {
     "input_tokens": 9,
-    "output_tokens": 12610,
+    "output_tokens": 13623,
     "cache_read_input_tokens": 7128,
-    "cache_creation_input_tokens": 21733,
+    "cache_creation_input_tokens": 49698,
     "cache_creation": {
      "ephemeral_5m_input_tokens": 0,
-     "ephemeral_1h_input_tokens": 21733
+     "ephemeral_1h_input_tokens": 49698
     },
     "type": "message"
    }
@@ -43,8 +43,8 @@
   "speed": "standard",
   "fallback_credit": null
  },
- "kosten_usd": 0.1072378,
- "sekunden": 120,
+ "kosten_usd": 0.1682328,
+ "sekunden": 117,
  "fehler": false,
- "zeit": "2026-10-17T11:11:13"
+ "zeit": "2026-10-20T14:51:53"
 }

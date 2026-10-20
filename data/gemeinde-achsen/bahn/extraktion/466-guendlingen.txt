@@ -1,0 +1,233 @@
+ENTITÄT: ort
+BEZEICHNUNG: Gündlingen
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://www.tourismus.breisach.de/ort/breisach-guendlingen-82f9a565b5 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsteil_von: Breisach am Rhein
+  ortsteil_seit: 1972
+  charakterisierung: Lebenswertes Dorf zwischen Kaiserstuhl und Tuniberg
+  lage_geographisch: südlich des Kaiserstuhls, ca. 3 km vom Rhein entfernt
+  gemarkungsflaeche: 11.15 km²
+  einwohner: 1790
+  einwohner_stand: 31. Dezember 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+FACETTE: GESCHICHTE
+QUELLE: https://www.tourismus.breisach.de/ort/breisach-guendlingen-82f9a565b5 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besiedlung_urzeit: ca. 6000 v. Chr.
+  besiedlung_urzeit_genauigkeit: ca.
+  ersterwahnung_jahr: 854
+  ersterwahnung_urkunde: Schenkungsurkunde Kloster St. Gallen
+  ersterwahnung_name: Cundininga
+  minsteriales_herzoegstuehle: 11. Jahrhundert
+  herrschaftsuebertrag_1297: an Johanniterorden durch Markgrafen Baden-Hachberg
+  herrschaft_kommende: Johanniterkommende Heitersheim
+  herrschaft_dauer: bis 1805
+  eingliederung_grossherzogtum: Baden nach 1805
+GUELTIG_BIS: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: archaeologischer_fund
+BEZEICHNUNG: Gündlingen-Schwert
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Gündlingen | Wikipedia
+EIGENSCHAFTEN:
+  bedeutung_superlativ: international bedeutsam
+  besonderheit: gab diesem Schwerttyp seinen Namen
+  verbreitung: auch in anderen Gebieten Europas
+  zeitstellung: Hallstadt- bzw. Latènezeit (~ab 800 v. Chr.)
+  herkunftsort: Gündlingen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Michaelskirche
+FACETTE: GESCHICHTE | LAGE
+QUELLE: https://www.tourismus.breisach.de/ort/breisach-guendlingen-82f9a565b5 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwahnung: 926
+  architektur_original: romanisch
+  neubau_jahr: 1730
+  neubau_stil: Barockstil
+  umbau_zeitraum: 1881-1884
+  umbau_stile: neogotische und neobarocke Elemente
+  adresse: Ihringer Str. 15
+ORTSTEIL_BEZUG: Gündlingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Burg Alzenach
+FACETTE: GESCHICHTE | LAGE
+QUELLE: https://www.tourismus.breisach.de/ort/breisach-guendlingen-82f9a565b5 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwahnung: 861
+  lage: auf Gündlinger Gemarkung
+  erwerb_johanniter: 1283
+ORTSTEIL_BEZUG: Gündlingen
+GUELTIG_BIS: unbekannt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: hofgut
+BEZEICHNUNG: Hofgut Alzenach / Salzhof
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Gündlingen | Wikipedia
+EIGENSCHAFTEN:
+  aeltestes_bauwerk_im_ort: true
+  vermutung: Wasserburg mit Mauerresten
+  ursprungsname: Alzenacher Hof
+  verkauf_an: Frauenkloster Sulzburg
+  verkauf_jahr: 1347
+  besitz_vorher: Johanniter-Kommende Heitersheim
+ORTSTEIL_BEZUG: Gündlingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kriegsereignis
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Gündlingen | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Dreißigjähriger Krieg
+  rolle_gundlingen: Hauptquartier beider Konfliktparteien
+  schweden_1633: Hauptquartier protestantische Liga
+  kaiserlich_1638: Stationierung unter Herzog Bernhard von Sachsen-Weimar
+  zerstoerungsgrad: nahezu vollständig zerstört
+  vorbevölkerung_geschaetzt: ca. 4000 Einwohner
+  ueberlebende: etwas über hundert
+  belagerungen_breisach: 1633 und 1638
+GUELTIG_AB: 1633
+GUELTIG_BIS: 1638
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: anbau
+BEZEICHNUNG: Saatmaisanbau (Welschkorn)
+FACETTE: ALLTAG
+QUELLE: https://www.tourismus.breisach.de/ort/breisach-guendlingen-82f9a565b5 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  regionaler_name: Welschkorn
+  beginn: 16. Jahrhundert
+ORTSTEIL_BEZUG: Gündlingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Bockbierfest
+FACETTE: FREIZEIT
+QUELLE: https://www.tourismus.breisach.de/vielfalt/breisacher-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: traditionelles Dorffest
+  charakter: Teil der dörflichen Identität
+ORTSTEIL_BEZUG: Gündlingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sporthalle
+BEZEICHNUNG: Malteserhalle
+FACETTE: INFRA
+QUELLE: https://stadt.breisach.de/de/kultur/hallen/malteserhalle_guendlingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Hohweg 16
+  telefon: 07668/373
+ORTSTEIL_BEZUG: Gündlingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gemeindesaal
+BEZEICHNUNG: Gemeindesaal Gündlingen
+FACETTE: INFRA
+QUELLE: https://stadt.breisach.de/de/kultur_und_freizeit/hallen/gemeindesaal_guendlingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Ihringer Str. 23
+ORTSTEIL_BEZUG: Gündlingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: spielplatz
+BEZEICHNUNG: Spielplatz Spielweg
+FACETTE: INFRA
+QUELLE: https://stadt.breisach.de/de/bildung_gesellschaft_und_soziales/spielplaetze/guendlingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Spielweg
+ORTSTEIL_BEZUG: Gündlingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: spielplatz
+BEZEICHNUNG: Spielplatz Immengärten
+FACETTE: INFRA
+QUELLE: https://stadt.breisach.de/de/bildung_gesellschaft_und_soziales/spielplaetze/guendlingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Immengärten
+ORTSTEIL_BEZUG: Gündlingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: laden
+BEZEICHNUNG: Tante M - Dorfladen Gündlingen
+FACETTE: INFRA
+QUELLE: https://www.tourismus.breisach.de/attraktion/tante-m-dorfladen-guendlingen-90d948ae91 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Haupstraße 43
+  typ: Selbstbedienungsladen
+  kassentyp: Self-Checkout-Kasse
+ORTSTEIL_BEZUG: Gündlingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Anna-Kapelle
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Gündlingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Wegkapelle
+  entstehungszeit: 19. Jahrhundert
+ORTSTEIL_BEZUG: Gündlingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Fridolinkapelle
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Gündlingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Wegkapelle
+  entstehungszeit: 19. Jahrhundert
+ORTSTEIL_BEZUG: Gündlingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75

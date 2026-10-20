@@ -1,0 +1,506 @@
+ZIELORT: Breisach (Stadt)
+LAGE: 21 km westlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Breisach am Rhein
+
+GRUNDDATEN:
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 16.617  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 54,59  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 304  [berechnet aus Einwohner und Fläche]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 191 | 225 | 189 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2944800)]
+  naechste_grossstadt: Freiburg im Breisgau, 21 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 145 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Breisach  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 79206  [Wikidata P281]
+  vorwahl: 07664, 07667, 07668  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 30,3 %, AfD 18,4 %, SPD 16,2 %, GRÜNE 15,1 %, Die Linke 6,5 %, FDP 5,1 %; Wahlbeteiligung 82,3 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 83,4 % im Bundesland (Ort 82,3 %, Abstand 1,1 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+  buergermeister: Oliver Rein (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-06]
+  partnerstaedte: Saint-Louis, Pürgg-Trautenfels, Neuf-Brisach, Oświęcim  [Wikidata P190]
+
+ZEUGEN (OpenStreetMap, Gemeindegrenze; belegt nur, dass es die Sache gibt):
+  Betrieb: BBV Breisacher Bauschutt Verwertungs-GmbH
+  Betrieb: Südglas
+  Betrieb: MSW Schrott und Metall
+  Betrieb: Betonwerk Müller
+  Betrieb: Thoman Biegemaschinen
+  Betrieb: H+H Deutschland GmbH
+  Betrieb: Joos Umwelttechnik
+  Betrieb: Klärwerk Breisach am Rhein
+  Gipfel: Eckartsberg (236 m)
+  Kultur: Freilichtbühne - Festspiele Breisach
+  Kultur: Engel-Lichtspiele
+  Kultur: Kleinkunstbühne Schloss Rimsingen
+  Aussicht: Attilafelsen
+  Freizeit: Segel - Club - "Nautic" Breisach
+  Freizeit: Motorboot & Yachtclub Breisach
+  Freizeit: Sechshöferlhütte
+  Freizeit: Sportboothafen-Gemeinschaft Breisach
+  Freizeit: Geisswasser
+  Freizeit: Slipanlage Breisach
+  Freizeit: Tunibergstadion (soccer)
+  Freizeit: Breisacher Münster St. Stephan
+  Burg/Denkmal: Attila-Denkmal
+  Burg/Denkmal: Tullaturm
+  Burg/Denkmal: Burg Breisach
+  Burg/Denkmal: Denkmal am Synagogenplatz
+  Burg/Denkmal: Ehrenmal für die Opfer der Kriege und die Heimkehrer
+  Sportstätte: Tennisverein Breisach (tennis)
+  Sportstätte: Malteser-Halle
+  Sportstätte: Breisgauhalle (multi)
+  Bahnhof: Breisach
+  Museum: Museum für Stadtgeschichte
+  Museum: Blaues Haus
+  Gewässer: Möhlin
+  Gewässer: Le Rhin / Rhein
+  Klinik: Helios-Rosmann-Klinik
+  Klinik: Helios Rosmann Klinik Breisach
+  Brauerei/Winzer: Weinhof Oberrimsingen
+  Bildung: Gewerbeschule Breisach, Land- und Baumaschinentechnik
+  Schutzgebiet: Waldweiher
+  Schutzgebiet: Hochstetter Feld (seit 1985)
+  Schutzgebiet: Zwölferholz-Haid (seit 2017)
+  Bad: Waldschwimmbad Breisach
+  Radweg: Breisgau-Radwanderweg (64 km)
+  Radweg: Kaiserstuhl-Radwanderweg
+  Radweg: Oberrhein Römerradweg (200 km)
+  Wanderweg: Rheinaueweg (159 km)
+  Wanderweg: Burgunderpfad (26.5 km)
+  Wanderweg: Badischer Jakobusweg -südlicher Teil-
+
+PLAN:
+  Karte 1: FACETTE FREIZEIT (Ersatz: ALLTAG), Geschichte, A, wahre Option an Stelle 4
+  Karte 2: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 1
+  Karte 3: FACETTE ALLTAG (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 2
+  Karte 4: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, A, wahre Option an Stelle 3
+  Karte 5: FACETTE INFRA (Ersatz: LAGE), Geschichte, A, wahre Option an Stelle 4
+  Karte 6: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, B, Lüge an Stelle 1
+  Karte 7: FACETTE LAGE, Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 2
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je ein weiteres Charakteristikum, Facette frei, Familie A, B oder D, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Vogtsburg (Stadt)
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  einwohner: 6328  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 37,36  [Wikidata P2046; Altbestand staedte.json]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 302 | 218 | 210 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 3209420)]
+  naechste_grossstadt: Freiburg im Breisgau, 19 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Achkarren, Bahnhof Oberrotweil, Haltepunkt Burkheim-Bischoffingen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 40,9 %, AfD 14,5 %, GRÜNE 13,2 %, SPD 12,8 %, FDP 5,9 %; Wahlbeteiligung 87,1 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 83,4 % im Bundesland (Ort 87,1 %, Abstand 3,7 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+FAHRT: Wiehre, Waldsee, Altstadt, Stühlinger, Neuburg, Herdern, Zähringen, Brühl, Oberau, Haslach, Sankt Georgen, Vauban, Weingarten, Betzenhausen, Mooswald, Landwasser, Lehen, Rieselfeld, Dietenbach, Opfingen, Tiengen, Munzingen, Waltershofen, Ebnet, Littenweiler, Kappel, Merzhausen, Au, Horben, Günterstal, Ebringen, Schallstadt, Bad Krozingen, Staufen, Heitersheim, Müllheim, Waldkirch, Hochdorf, Gundelfingen, Denzlingen, March, Umkirch, Gottenheim, Merdingen, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Vogtsburg, Breisach, Gündlingen, Kirchzarten, Stegen, Oberried, Buchenbach, Höllental, Hinterzarten, Breitnau, Titisee, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Breitscheid, Kloster Marienhaus, Wolfenacker, Kupferdreh, Überruhr, Bergerhausen, Rellinghausen, Stadtwald, Fischlaken, Werden, Burgaltendorf, Steele, Byfang, Rüttenscheid, Bredeney, Huttrop, Kettwig
+
+FAKTEN (Zielort Breisach):
+ID: 70-breisach/001
+ENTITÄT: historische_person
+BEZEICHNUNG: Josef Alois Knittel
+FACETTE: GESCHICHTE | KULTUR
+EIGENSCHAFTEN:
+  rolle: "Freiburger Bildhauer"
+  werk: "Denkmal Pantaleon Rosmann 1856 in ehemalige Spitalkirche"
+---
+ID: 70-breisach/002
+ENTITÄT: historische_person
+BEZEICHNUNG: Peter Berlin
+FACETTE: GESCHICHTE | KULTUR
+EIGENSCHAFTEN:
+  rolle: "Straßburger Goldschmied"
+  herkunft_detail: "aus Wimpfen"
+  werk: "Reliquienschrein der Stadtpatrone Gervasius und Protasius"
+  fertigstellung: 1496
+---
+ID: 70-breisach/003
+ENTITÄT: historische_person
+BEZEICHNUNG: Bernhard Metzger
+FACETTE: GESCHICHTE | KULTUR
+EIGENSCHAFTEN:
+  geburtsort_jahr: "1951 in Colmar"
+  werk: "Tafelgemälde Pompeijanisches Grab"
+  anbringung: "2001 in ehemaliger Spitalkirche"
+---
+ID: 70-breisach/004
+ENTITÄT: historische_person
+BEZEICHNUNG: Johannes Jeger
+FACETTE: GESCHICHTE | KULTUR
+EIGENSCHAFTEN:
+  werk: "Renaissancekanzel im St. Stephansmünster"
+  jahr: 1597
+---
+ID: 70-breisach/005
+ENTITÄT: historische_person
+BEZEICHNUNG: Franz Gutmann
+FACETTE: GESCHICHTE | KULTUR
+EIGENSCHAFTEN:
+  jahr_werk: 1996
+  werk: "neuer Zelebrationsaltar im St. Stephansmünster vor Lettner"
+---
+ID: 70-breisach/006
+ENTITÄT: historische_person
+BEZEICHNUNG: Hermann Bähr
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  position: "letzter Gemeinedevorsteher jüdischer Gemeinde"
+  bezug_holocaust: "Großvater von Suzanne Carola Hochherr (knapp 3 Jahre, ermordet)"
+---
+ID: 70-breisach/007
+ENTITÄT: kirche
+BEZEICHNUNG: St. Laurentiuskirche
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: Niederrimsingen
+EIGENSCHAFTEN:
+  lage: "Kirchstraße"
+  baugeschichte: "baugeschichtlich bis in die Romanik zurückreichend"
+---
+ID: 70-breisach/008
+ENTITÄT: kirche
+BEZEICHNUNG: St. Michaelskirche
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: Gündlingen
+EIGENSCHAFTEN:
+  lage: "Ihringer Str. 15"
+  baugeschichte: "baugeschichtlich bis in die Romanik zurückreichend"
+---
+ID: 70-breisach/009
+ENTITÄT: kirche
+BEZEICHNUNG: St. Stephanus Kirche
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: Oberrimsingen
+EIGENSCHAFTEN:
+  baugeschichte: "baugeschichtlich bis in die Romanik zurückreichend"
+---
+ID: 70-breisach/010
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Bernhardskapelle mit Taubenturm
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: Grezhausen
+EIGENSCHAFTEN:
+  besonderheit: "barocker Taubenturm des Klosters Günterstal"
+  lage: "Hauser Weg 4"
+---
+ID: 70-breisach/011
+ENTITÄT: kapelle
+BEZEICHNUNG: Grüninger Kapelle
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: [neben Niederrimsingen]
+EIGENSCHAFTEN:
+  lage: "L 134"
+---
+ID: 70-breisach/012
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Jakobskapelle (ehemaliges Kloster Grüningen)
+FACETTE: LAGE | GESCHICHTE
+EIGENSCHAFTEN:
+  ort_erloschen: "Grüningen (erloschener Ort)"
+  erhaltung: "einstige Klosterkirche bis heute erhalten"
+  lage_gemarkung: "auf Breisacher Gemarkung"
+---
+ID: 70-breisach/013
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rothaus (ehemaliges Klostergut)
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: Oberrimsingen
+EIGENSCHAFTEN:
+  ursprung: "ehemaliges Klostergut"
+  status_seit: 1931
+  status: "Staatsdomäne"
+---
+ID: 70-breisach/014
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Belagerung Breisach 1638
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  start: "Juni 1638"
+  dauer: "monatelang"
+  besieger: "Herzog Bernhard von Sachsen-Weimar"
+  belagerter: "Freiherr von Reinach (Stadtkommandant)"
+  entscheidender_versuch: "August 1638"
+  niederlage_kaiserlich: "9.8.1638 Rückschlag"
+  kapitalation: "17.12.1638"
+  opfer: "Nur 150 von ca. 4000 Bewohnern überlebten Hunger und Pest"
+---
+ID: 70-breisach/015
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Belagerung Breisach 1703
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  anlass: "Spanischer Erbfolgekrieg"
+  belagerername: "Ludwig XIV. (versuchte Wiedereroberung)"
+  kommandanten: "Herzog von Burgund Louis de France, Marschall Tallard"
+  festungsexperte: "Marschall Vauban"
+  kapitulation: "6.9.1703"
+  kommandant_niederlage: "Graf Philipp von Arco"
+  reaktion_praesident: "Prinz Eugen kritisierte Schändlichkeit"
+  strafe_kommandant: "14.2.1704 Enthauptung auf Marktplatz Bregenz"
+---
+ID: 70-breisach/016
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Zerstörung Breisach 1793
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  kontext: "Revolutionskriege, Koalitionskrieg"
+  belagerenden: "Franzosen"
+  bombardement: "Kanonade 15.-19.9.1793"
+  ausmaass_gebaeude: "577 Häuser für 2700 Einwohner verschwunden"
+  bericht_quelle: "Schweizer Zeitung"
+  bericht_text: "Die Stadt Breisach hat aufgehört zu bestehen"
+---
+ID: 70-breisach/017
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Zerstörung Breisach 1945 (WWII)
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  kontext: "Alliierte überqueren Rhein"
+  zeit: "Frühjahr 1945"
+  ort: "bei Breisach"
+  destruktion_prozent: "zu 85% zerstört"
+  ursache: "Artilleriebeschuss"
+  gebäude_beschaedigung: "Münster St. Stephan schwer beschädigt"
+  wiederaufbau_bis: 1954
+---
+ID: 70-breisach/018
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Novemberpogrom 1938
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  aktion: "Zerstörung Synagoge"
+  ort: "Rheintorstraße/Im Klösterle"
+  täter: "SA-Männer"
+  festnahmen: "ca. 60 Juden"
+  kz_haft: "ca. Hälfte im KZ Dachau"
+  erinnerung: "Mahnmal und Tafel am ehemaligen Standort"
+---
+ID: 70-breisach/019
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Deportation Breisacher Juden 1940
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  datum: "22.10.1940"
+  aktion_name: "Wagner-Bürckel-Aktion"
+  ziel: "Internierungslager Gurs (Südfrankreich)"
+  status: "eine der ersten Deportationen aus Reichsdeutschland"
+  vorbereitung: "von Wagner und Bürckel geheim vorbereitet"
+  zahl: "letzte in Breisach lebenden jüdischen Deutschen"
+  ausnahmen: "Selma Ziehler geb. Bergheimer mit Kindern"
+---
+ID: 70-breisach/020
+ENTITÄT: lager
+BEZEICHNUNG: Gurs (Internierungslager)
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  lage: "Südfrankreich"
+  breisacher_deportierte: "Oktober 1940"
+  schicksal: "Häftlinge später u.a. nach Auschwitz deportiert"
+---
+ID: 70-breisach/021
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Ermordung Breisacher Juden 1942-1945
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  zeitpunkt: "Anfang 1942 Organisierung"
+  orte_zwischenlagerung: "Gurs, Les Milles"
+  ziel_endermoerdung: "Auschwitz-Birkenau"
+  verfahren: "Gaskammern"
+  gesamtzahl: ">50 Breisacher Juden"
+  beispiel_opfer: "Suzanne Carola Hochherr (knapp 3 Jahre)"
+---
+ID: 70-breisach/022
+ENTITÄT: veranstaltung_fest
+BEZEICHNUNG: Bockbierfest
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Gündlingen
+EIGENSCHAFTEN:
+  typ: "Dorffest"
+  tradition: true
+---
+ID: 70-breisach/023
+ENTITÄT: veranstaltung_fest
+BEZEICHNUNG: Verenenfest
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Hochstetten
+EIGENSCHAFTEN:
+  typ: "Dorffest"
+  tradition: true
+---
+ID: 70-breisach/024
+ENTITÄT: veranstaltung_fest
+BEZEICHNUNG: Chilbi
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Niederrimsingen
+EIGENSCHAFTEN:
+  typ: "Dorffest"
+  tradition: true
+---
+ID: 70-breisach/025
+ENTITÄT: veranstaltung_fest
+BEZEICHNUNG: Schloßparkfest
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Oberrimsingen
+EIGENSCHAFTEN:
+  typ: "Dorffest"
+  tradition: true
+  ort: "Schloss Rimsingen"
+---
+ID: 70-breisach/026
+ENTITÄT: zunft
+BEZEICHNUNG: Narrenzunft Breisach
+FACETTE: FREIZEIT | KULTUR
+EIGENSCHAFTEN:
+  sitze: "Obergeschoss Gutgesellentor, Kupfertor"
+  narrengruppen_anzahl: 2
+---
+ID: 70-breisach/027
+ENTITÄT: kunstkreis
+BEZEICHNUNG: Kunstkreis Radbrunnen Breisach
+FACETTE: KULTUR
+EIGENSCHAFTEN:
+  nutzung_seit: 1983
+  ort: "Radbrunnenturm"
+  veranstaltungen: "mehrmals im Jahr Ausstellungen"
+---
+ID: 70-breisach/028
+ENTITÄT: verein
+BEZEICHNUNG: Förderverein Ehemaliges Jüdisches Gemeindehaus Breisach e.V.
+FACETTE: KULTUR
+EIGENSCHAFTEN:
+  ziel: "Kauf, Renovierung und Nutzung des Blauen Hauses"
+  gruendung: 1999
+  kauf_grundstück: 2000
+  renovierung_start: 2002
+  einweihung: 2003
+---
+ID: 70-breisach/029
+ENTITÄT: vereinslandschaft
+BEZEICHNUNG: Breisacher Vereine
+FACETTE: ALLTAG
+EIGENSCHAFTEN:
+  anzahl_gesamt: "ca. 130"
+  anzahl_organisiert: "52 in Interessengemeinschaft"
+---
+ID: 70-breisach/030
+ENTITÄT: schule
+BEZEICHNUNG: Martin-Schongauer-Gymnasium
+FACETTE: BILDUNG
+EIGENSCHAFTEN:
+  benannt_nach: "Künstler Martin Schongauer"
+---
+ID: 70-breisach/031
+ENTITÄT: schule
+BEZEICHNUNG: Hugo-Höfler-Realschule
+FACETTE: BILDUNG
+---
+ID: 70-breisach/032
+ENTITÄT: schule
+BEZEICHNUNG: Erich-Kiehn-Schule
+FACETTE: BILDUNG
+EIGENSCHAFTEN:
+  typ: "Private Heimsonderschule für Erziehungshilfe"
+  träger: "Christophorus-Jugendwerk"
+  ortsteil_bezug: Oberrimsingen
+---
+ID: 70-breisach/033
+ENTITÄT: einrichtung
+BEZEICHNUNG: Christophorus-Jugendwerk
+FACETTE: BILDUNG | FREIZEIT
+ORTSTEIL_BEZUG: Oberrimsingen
+EIGENSCHAFTEN:
+  gruender: "Erich Kiehn"
+  rolle: "Träger der Heimsonderschule"
+---
+ID: 70-breisach/034
+ENTITÄT: zeitschrift
+BEZEICHNUNG: ReblandKurier
+FACETTE: MEDIEN
+EIGENSCHAFTEN:
+  typ: "Wochenzeitung"
+  ausgabe_breisach: "BreisachKurier"
+---
+ID: 70-breisach/035
+ENTITÄT: zeitschrift
+BEZEICHNUNG: Breisach Aktuell
+FACETTE: MEDIEN
+EIGENSCHAFTEN:
+  typ: "Zeitung"
+---
+ID: 70-breisach/036
+ENTITÄT: zeitschrift
+BEZEICHNUNG: Badische Zeitung
+FACETTE: MEDIEN
+EIGENSCHAFTEN:
+  erscheinungsort: "Freiburg im Breisgau"
+  frequenz: "täglich"
+  verbreitung: "Breisach"
+---
+ID: 70-breisach/037
+ENTITÄT: tourismusorganisation
+BEZEICHNUNG: Breisach-Touristik
+FACETTE: WIRTSCHAFT | TOURISMUS
+EIGENSCHAFTEN:
+  struktur: "Fachbereich Stadtverwaltung"
+  aufgaben: "touristisches Außen- und Innenmarketing, Gästebetreuung"
+  zusatzfunktion: "Geschäftsstelle Kaiserstuhl-Tuniberg Tourismus e.V."
+  kontaktstelle: "deutsche Kontaktstelle Grüne Straße"
+  adresse: "Marktplatz 16"
+---
+ID: 70-breisach/038
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Ausflugsschiffe Breisach
+FACETTE: FREIZEIT
+EIGENSCHAFTEN:
+  betrieb: "Ostern bis Dezember"
+  anlegestelle: "Schiffsanlegestelle Breisach"
+  touren_typ: "Schleusenrundfahrten, Tagestouren (Basel, Straßburg, Colmar), kulinarische Rundfahrten"
+---
+ID: 70-breisach/039
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bürgerbus Breisach
+FACETTE: INFRA
+EIGENSCHAFTEN:
+  betrieb: "von Montag bis Samstagnachmittag"
+  ziele: "Museum für Stadtgeschichte und Innenstadt"
+  zeiten_montag_freitag: "8.00-12.00, 14.00-18.00 Uhr"
+  zeiten_samstag: "9.00-12.30 Uhr"
+  guestekarte: "Konus-Gästekarte für Übernachtungsgäste kostenlosen Nutzung"
+---
+ID: 70-breisach/040
+ENTITÄT: tradition_geschichte
+BEZEICHNUNG: Münzfund Sandur
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  entdeckung_ort: "Färöer, Münzfund Sandur"
+  fundstück: "Breisacher Münze aus 11. Jahrhundert"
+  bedeutung: "belegt Handelsbeziehungen Breisachs"
+---
+ID: 70-breisach/041
+ENTITÄT: sakralbau_kostbarkeit
+BEZEICHNUNG: Kostbarkeiten St. Stephansmünster
+FACETTE: KULTUR
+EIGENSCHAFTEN:
+  sakramentshaus: "Steinmetzarbeit um 1520"
+  heilig_grab_nische: "1517"
+  kreuzigungsgruppe: "Ende 15. Jahrhundert, von Straßburger Meister auf Lindenholz"
+  lettner: "1496 eingebaut, spätgotisch"
+  chorgestuhl: "geschnitzt, 1525-1527"
+---
+ID: 70-breisach/042
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Stadtgestaltung 2017-2019
+FACETTE: INFRA
+EIGENSCHAFTEN:
+  objekte: "Rheinstraße, Gutgesellentorplatz, Marktplatz"
+  umgestaltung: "fußgängerfreundlich"
+  vorher_marktplatz: "Parkplatz"
+  wettbewerb_gewinner: "Faktorgruen mit K9 Architekten"
+---
+ID: 70-breisach/043
+ENTITÄT: historisches_dokument
+BEZEICHNUNG: Dreisprachige Tafeln Breisach
+FACETTE: KULTUR | LAGE
+EIGENSCHAFTEN:
+  anzahl: "ca. 100"
+  sprachen: "deutsch, französisch, englisch"
+  quelle: "vom Stadtarchiv gestaltet"
+  inhalt: "historische Gebäude und Plätze"
+

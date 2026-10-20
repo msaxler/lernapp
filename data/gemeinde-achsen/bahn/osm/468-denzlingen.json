@@ -1,0 +1,646 @@
+{
+ "ort": "468-denzlingen",
+ "gebiet": "Gemeindegrenze",
+ "kategorien": {
+  "Burg/Denkmal": [
+   {
+    "name": "Sängerdenkmal",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   }
+  ],
+  "Aussicht": [
+   {
+    "name": "Rebhäusle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "shelter",
+     "tourism": "viewpoint"
+    }
+   }
+  ],
+  "Freizeit": [
+   {
+    "name": "Storchenturm",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "church",
+     "tourism": "attraction"
+    }
+   },
+   {
+    "name": "Schwarzlichtpark Denzlingen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.schwarzlichtpark.de/",
+    "tags": {
+     "leisure": "miniature_golf"
+    }
+   },
+   {
+    "name": "Minigolf Denzlingen",
+    "zusatz": "miniature golf",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "miniature_golf",
+     "sport": "miniature_golf"
+    }
+   },
+   {
+    "name": "Severinskapelle",
+    "zusatz": "",
+    "wikipedia": "de:Severinskapelle (Denzlingen)",
+    "website": null,
+    "tags": {
+     "historic": "ruins",
+     "tourism": "attraction"
+    }
+   },
+   {
+    "name": "Einbollenstadion",
+    "zusatz": "soccer",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "stadium",
+     "sport": "soccer"
+    }
+   }
+  ],
+  "Gipfel": [
+   {
+    "name": "Wisserkopf",
+    "zusatz": "448 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   }
+  ],
+  "Bahnhof": [
+   {
+    "name": "Denzlingen",
+    "zusatz": "235 m",
+    "wikipedia": "de:Bahnhof Denzlingen",
+    "website": "https://www.bahnhof.de/denzlingen",
+    "tags": {
+     "railway": "station"
+    }
+   }
+  ],
+  "Sportstätte": [
+   {
+    "name": "Pool & Snooker Denzlingen e.V.",
+    "zusatz": "billiards",
+    "wikipedia": null,
+    "website": "https://psdenzlingen.de/",
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "billiards"
+    }
+   },
+   {
+    "name": "Gesundheitszentrum Denzlingen",
+    "zusatz": "fitness;tennis;table tennis;squash;badminton",
+    "wikipedia": null,
+    "website": "https://gesundheitszentrum-denzlingen.de/",
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "fitness;tennis;table_tennis;squash;badminton"
+    }
+   },
+   {
+    "name": "Turnhalle Mühlengasse",
+    "zusatz": "multi",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "multi"
+    }
+   },
+   {
+    "name": "Jahn-Sporthalle",
+    "zusatz": "multi",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "multi"
+    }
+   },
+   {
+    "name": "Schulsporthalle",
+    "zusatz": "multi",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "multi"
+    }
+   },
+   {
+    "name": "Ballsporthalle",
+    "zusatz": "multi",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "multi"
+    }
+   },
+   {
+    "name": "Mach' Blau - Sport- und Familienbad",
+    "zusatz": "swimming",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "swimming"
+    }
+   }
+  ],
+  "Gewässer": [
+   {
+    "name": "Glotter",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Roßgraben",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Feuerbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Waibelgraben",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Schwan",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Elz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "river"
+    }
+   },
+   {
+    "name": "Glotterbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Lossele",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Taubenbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Strüpfelgraben",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   }
+  ],
+  "Museum": [
+   {
+    "name": "Heimethues Denzlingen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "museum"
+    }
+   }
+  ],
+  "Bad": [
+   {
+    "name": "Schwimmbad Bereich",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "recreation_ground",
+     "leisure": "water_park"
+    }
+   }
+  ],
+  "Betrieb": [
+   {
+    "name": "Gewerbegebiet Steinbühl",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "industrial"
+    }
+   },
+   {
+    "name": "Gewerbegebiet Geringfeldele",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "industrial"
+    }
+   },
+   {
+    "name": "Caritaswerkstätten Sankt Georg, Zweigwerkstätte Denzlingen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.caritas-freiburg.de/",
+    "tags": {
+     "landuse": "industrial"
+    }
+   },
+   {
+    "name": "Gewerbegebiet Engematten",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "industrial"
+    }
+   }
+  ],
+  "Radweg": [
+   {
+    "name": "Elzdamm-Radweg",
+    "zusatz": "14 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "RadNETZ Freiburg - Gundelfingen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.fahrradland-bw.de/radverkehr-in-bw/radnetz/",
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Badischer Weinradweg - Etappe 2 Variante: Freiburg/Glottertal",
+    "zusatz": "seit 2020, 43 km",
+    "wikipedia": null,
+    "website": "https://www.touren-schwarzwald.info/de/tour/radfahren/badischer-weinradweg-variante-zu-etappe-2-freiburg-glottertal/32683013/",
+    "tags": {
+     "route": "bicycle"
+    }
+   }
+  ],
+  "Wanderweg": [
+   {
+    "name": "Breisgauer Weinweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Querweg Schwarzwald-Kaiserstuhl-Rhein",
+    "zusatz": "",
+    "wikipedia": "de:Schwarzwald-Querweg Schwarzwald–Kaiserstuhl–Rhein",
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Denzlingen - Furtwangen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Brühl - Wasserwerk",
+    "zusatz": "2.5 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Rebwald - Wissereck",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Wartbühl - Rebwald",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Dachslöcher - Wartbühl",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Suggental Müllerhof - Dachslöcher",
+    "zusatz": "1.0 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Suggental Suggenbad - Suggental Müllerhof",
+    "zusatz": "0.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Am Elzsteg - Weihermatten",
+    "zusatz": "2.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Am Einbollen - Waldspielplatz Denzlingen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Waldspielplatz Denzlingen - Dachslöcher",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Denzlingen Heidach - Waldspielplatz Denzlingen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Am Einbollen - Wartbühl",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Denzlingen Einbollen-Stadion - Am Einbollen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Denzlingen Neuapostolische Kirche - Denzlingen Einbollen-Stadion",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Denzlingen Bahnhof - Denzlingen Neuapostolische Kirche",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Denzlingen Raiffeisenplatz - Denzlingen Neuapostolische Kirche",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Denzlingen Bahnhof - Denzlingen Rondell Citta della Pieve",
+    "zusatz": "0.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Denzlingen Rondell Citta della Pieve - Brühl",
+    "zusatz": "1.8 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Denzlingen Raiffeisenplatz - Denzlingen Rondell Citta della Pieve",
+    "zusatz": "0.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Am Brestenberg - Denzlingen Raiffeisenplatz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Am Brestenberg - Denzlingen Mauracher Hof",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Weihermatten - Denzlingen Mauracher Hof",
+    "zusatz": "0.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hinter dem Berg - Am Brestenberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hinter dem Berg - Weihermatten",
+    "zusatz": "1.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hinter dem Berg - Elzbrücke Sexau Süd",
+    "zusatz": "0.6 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Wasser Elzbrücke - Elzmatten",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Brühl - Elzmatten",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Wartbühl - Beim Schätzlehof",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Suggental Müllerhof - Suggental Festplatz",
+    "zusatz": "0.5 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Jakobsweg Rottenburg - Thann (2)",
+    "zusatz": "",
+    "wikipedia": "en:Camino de Santiago",
+    "website": "https://www.jakobswege-europa.de/wege/rottenburg-hericourt.htm",
+    "tags": {
+     "route": "hiking"
+    }
+   }
+  ]
+ }
+}

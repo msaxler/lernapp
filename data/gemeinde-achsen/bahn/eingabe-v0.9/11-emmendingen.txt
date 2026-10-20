@@ -1,0 +1,1008 @@
+ZIELORT: Emmendingen (Stadt)
+LAGE: 14 km nördlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Emmendingen
+
+GRUNDDATEN:
+  landkreis: Emmendingen  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 29.530  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 33,78  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 874  [berechnet aus Einwohner und Fläche]
+  kfz: EM (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 201 | 207  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2930523)]
+  naechste_grossstadt: Freiburg im Breisgau, 14 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 122 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  ersterwaehnung: 1094  [dewiki, Extraktion Schicht 1 (Ortsblock)]
+  bahnhof: Bahnhof Emmendingen, Haltepunkt Kollmarsreute, Haltepunkt Teningen-Mundingen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 79312  [Wikidata P281]
+  vorwahl: 07641  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 25,6 %, GRÜNE 18,8 %, SPD 18,5 %, AfD 16,1 %, Die Linke 8,1 %; Wahlbeteiligung 82,4 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 83,4 % im Bundesland (Ort 82,4 %, Abstand 1 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+  buergermeister: Stefan Schlatterer (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-03]
+  partnerstaedte: Six-Fours-les-Plages, Newark-on-Trent, Sandomierz, Drom HaScharon, Torre Annunziata  [Wikidata P190]
+
+ZEUGEN (OpenStreetMap, Gemeindegrenze; belegt nur, dass es die Sache gibt):
+  Natur: Quellfassung
+  Betrieb: DRK Seniorenzentrum
+  Betrieb: fischerwerke GmbH & Co. KG
+  Betrieb: Messmer Pen GmbH
+  Betrieb: BAREG
+  Betrieb: Fischer-Werke
+  Betrieb: Reinbold Werk II
+  Betrieb: Wehrle-Werk AG
+  Betrieb: Trumpf Werkzeugmaschinen Teningen GmbH
+  Burg/Denkmal: 1914/1918 Gefallene Helden
+  Burg/Denkmal: Ehem. Kirche von Mundingen
+  Burg/Denkmal: Alte Synagoge
+  Burg/Denkmal: Gedenkstein
+  Burg/Denkmal: Mörderstein
+  Burg/Denkmal: Ehemalige Eichberghöfe
+  Burg/Denkmal: Hochschloss
+  Burg/Denkmal: Markgrafenschloss
+  Gipfel: Eichberg (369 m)
+  Aussicht: Hochburg
+  Freizeit: Dicke Eiche
+  Freizeit: Bismarck Eiche
+  Freizeit: Elzstadion (soccer)
+  Kultur: Schlosskeller
+  Kultur: Cinemaja
+  Kultur: Theater im Steinbruch
+  Kultur: Galerie im Tor
+  Klinik: Kreiskrankenhaus Emmendingen
+  Klinik: Klinik am Tor
+  Klinik: Zentrum für Psychiatrie Emmendingen
+  Sportstätte: Fritz-Boehle-Halle (multi)
+  Sportstätte: Elzhalle
+  Sportstätte: Turnerbund Emmendingen
+  Sportstätte: Tennis-Club "Grün-Weiss" (tennis)
+  Sportstätte: Goethe-Halle
+  Sportstätte: Sporthalle (multi)
+  Museum: Fotomuseum Hirsmüller
+  Museum: Stadtgeschichtliche Sammlung
+  Museum: Hochburgmuseum
+  Museum: Jüdisches Museum
+  Bahnhof: Emmendingen
+  Bahnhof: Kollmarsreute
+  Bahnhof: Teningen-Mundingen
+  Gewässer: Elz
+  Bad: Freibad Über der Elz
+  Bad: Kleinkinderbereich
+  Bad: Nichtschwimmerbecken
+  Bad: Mehrzweckbecken
+  Bad: Springerbecken
+  Schutzgebiet: Haselwald-Spitzmatten (seit 2021)
+  Schutzgebiet: Naturpark Südschwarzwald (seit 1999)
+  Radweg: Elzdamm-Radweg (14 km)
+  Radweg: Muehlbach-Rundweg (30 km)
+  Wanderweg: Vierburgenweg (31.5 km)
+  Wanderweg: Breisgauer Weinweg
+
+PLAN:
+  Karte 1: FACETTE FREIZEIT (Ersatz: ALLTAG), Geschichte, D, wahre Option an Stelle 3
+  Karte 2: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 4
+  Karte 3: FACETTE ALLTAG (Ersatz: FREIZEIT), Geschichte, D, wahre Option an Stelle 1
+  Karte 4: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, A, wahre Option an Stelle 2
+  Karte 5: FACETTE INFRA (Ersatz: LAGE), Geschichte, D, wahre Option an Stelle 3
+  Karte 6: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, B, Lüge an Stelle 1
+  Karte 7: FACETTE GESCHICHTE, Klassiker, EIGENSCHAFT ersterwaehnung: Jahr der ersten Erwähnung (Ersatz: Fläche der Gemarkung), C, wahre Spanne an Stelle 1
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je ein weiteres Charakteristikum, Facette frei, Familie A, B oder D, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Starzach (Gemeinde)
+  landkreis: Tübingen  [dewiki Infobox]
+  einwohner: 4340  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 27,84  [Wikidata P2046]
+  hoehe_m: 526  [Wikidata P2044; dewiki Infobox]
+  naechste_grossstadt: Reutlingen, 30 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Eyach (DB), Bahnhof Eyach Landesbahn  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 35,7 %, AfD 25,3 %, SPD 11,4 %, GRÜNE 10,2 %, FDP 5,1 %; Wahlbeteiligung 87,1 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 83,4 % im Bundesland (Ort 87,1 %, Abstand 3,7 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+FAHRT: Wiehre, Waldsee, Altstadt, Stühlinger, Neuburg, Herdern, Zähringen, Brühl, Oberau, Haslach, Sankt Georgen, Vauban, Weingarten, Betzenhausen, Mooswald, Landwasser, Lehen, Rieselfeld, Dietenbach, Opfingen, Tiengen, Munzingen, Waltershofen, Ebnet, Littenweiler, Kappel, Merzhausen, Au, Horben, Günterstal, Ebringen, Schallstadt, Bad Krozingen, Staufen, Heitersheim, Müllheim, Waldkirch, Hochdorf, Gundelfingen, Denzlingen, March, Umkirch, Gottenheim, Merdingen, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Vogtsburg, Breisach, Gündlingen, Kirchzarten, Stegen, Oberried, Buchenbach, Höllental, Hinterzarten, Breitnau, Titisee, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Breitscheid, Kloster Marienhaus, Wolfenacker, Kupferdreh, Überruhr, Bergerhausen, Rellinghausen, Stadtwald, Fischlaken, Werden, Burgaltendorf, Steele, Byfang, Rüttenscheid, Bredeney, Huttrop, Kettwig
+
+FAKTEN (Zielort Emmendingen):
+ID: 11-emmendingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Emmendingen
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Emmendingen | Wikipedia
+EIGENSCHAFTEN:
+  region: Südwesten Baden-Württembergs
+  entfernung_freiburg: 14 km nördlich
+  fluss: Elz
+  hoehe: 189-403 m
+  nachbarregionen: Schwarzwald (Norden), Kaiserstuhl (Südwesten), Rheinebene
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 11-emmendingen/002
+ENTITÄT: ort
+BEZEICHNUNG: Emmendingen
+FACETTE: GESCHICHTE
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwuehnung: 1091
+  erste_urkundliche_erwuehnung_detail: Odalrich de Anemotingen als Zeuge
+  erste_erwuehnung_ort: 1094
+  marktrecht_verliehen: 1418
+  marktrecht_verliehen_durch: König Sigismund
+  stadt_zerstoert: 1424
+  stadt_zerstoert_grund: Mühlburger Krieg durch Basel und Straßburg
+  stadtrecht_verliehen: 1. Januar 1590
+  stadtrecht_verliehen_durch: Markgraf Jakob III. von Baden-Hachberg
+  reformation_eingefuehrt: 1556
+  grosse_kreisstadt_seit: 1. Januar 1973
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 11-emmendingen/003
+ENTITÄT: ort
+BEZEICHNUNG: Emmendingen
+FACETTE: ALLTAG
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/stadtinformationen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 29554
+  einwohner_maennlich: 14457
+  einwohner_weiblich: 15097
+  evangelische: 7140
+  katholische: 6130
+  konfessionslos_sonstige: 16284
+  auslaender: 5313
+  statistik_stand: 30. Juni 2026
+GUELTIG_AB: 2026
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 11-emmendingen/004
+ENTITÄT: stadtteil
+BEZEICHNUNG: Kernstadt
+FACETTE: LAGE
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/stadtinformationen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 21461
+  unterstaedte: Unterstadt (4307), Über der Elz (342), Mittelstadt (4770), Oberstadt (2750), Bürkle (4868), Bleiche (4424)
+GUELTIG_AB: 2026
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 11-emmendingen/005
+ENTITÄT: ortschaft
+BEZEICHNUNG: Kollmarsreute
+FACETTE: LAGE
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/stadtinformationen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 2200
+  eingemeindung: 1. August 1971
+GUELTIG_AB: 2026
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 11-emmendingen/006
+ENTITÄT: ortschaft
+BEZEICHNUNG: Mundingen
+FACETTE: LAGE
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/stadtinformationen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1985
+  eingemeindung: 1. Januar 1974
+GUELTIG_AB: 2026
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 11-emmendingen/007
+ENTITÄT: ortschaft
+BEZEICHNUNG: Wasser
+FACETTE: LAGE
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/stadtinformationen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1733
+  eingemeindung: 1. Januar 1975
+GUELTIG_AB: 2026
+GUELTIG_BIS: 
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 11-emmendingen/008
+ENTITÄT: ortschaft
+BEZEICHNUNG: Windenreute
+FACETTE: LAGE
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/stadtinformationen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1776
+  eingemeindung: 1. August 1971
+GUELTIG_AB: 2026
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 11-emmendingen/009
+ENTITÄT: ortschaft
+BEZEICHNUNG: Maleck
+FACETTE: LAGE
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/stadtinformationen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 399
+  eingemeindung: 1. August 1971
+GUELTIG_AB: 2026
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 11-emmendingen/010
+ENTITÄT: archive
+BEZEICHNUNG: Stadtarchiv
+FACETTE: KULTUR_FREIZEIT
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/stadtarchiv | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  unterlagen_zeitraum: 5 Jahrhunderte
+  tageszeitung_seit: 1867
+  bestände_hochberger_bote: 1866-1901
+  bestände_breisgauer_nachrichten: 1902-1945
+  webseite: stadtarchiv.emmendingen.de
+  bedeutung_fuer_ort: Bewahrt historische Überlieferung der Stadt und ihrer Ortschaften
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 11-emmendingen/011
+ENTITÄT: preis
+BEZEICHNUNG: Kulturpreis der Stadt Emmendingen
+FACETTE: KULTUR_FREIZEIT
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/kulturpreis | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1983
+  dotierung: 3000 Euro
+  beschreibung: Würdigt herausragende Leistungen auf Musik, Literatur, Malerei und musischen Bereichen
+  berechtigung: Wohnsitz in Emmendingen oder Werk mit Bezug zur Stadt
+  bedeutung_fuer_ort: Förderung kultureller Leistungen
+GUELTIG_AB: 1983
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/012
+ENTITÄT: chronik
+BEZEICHNUNG: Emmendinger Chronik
+FACETTE: GESCHICHTE
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-chronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausgaben: 33 (2025)
+  vorgaenger: Emmendinger Heimatkalender
+  vorgaenger_jahrgaenge: 1950-1992
+  beschreibung: Jährliche Veröffentlichung, Fortführung 75-jähriger Tradition
+GUELTIG_AB: 1950
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 11-emmendingen/013
+ENTITÄT: bauwerk_burg
+BEZEICHNUNG: Hochburg
+FACETTE: GESCHICHTE
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwuehnung: 1127
+  verkauf: 1415
+  verkauf_von: Markgraf Otto II. von Hachberg
+  verkauf_an: Markgraf Bernhard I. von Baden
+  beschaedigung: 1689
+  beschaedigung_grund: Befestigungsanlagen von Franzosen gesprengt
+  superlativ: Zu den größten Burgruinen in Deutschland zählend
+GUELTIG_AB: 1127
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 11-emmendingen/014
+ENTITÄT: kloster
+BEZEICHNUNG: Tennenbach
+FACETTE: GESCHICHTE
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1158-1161
+  gruendung_durch: Zisterziensermönche aus Kloster Frienisberg
+  lage: Seitental des Brettentals, 7,5 km von Emmendingen entfernt
+  aufloesing: 1806
+  grund_aufloesing: Säkularisation
+  schaeden_bauernkrieg: 1525 in Brand geraten
+GUELTIG_AB: 1158
+GUELTIG_BIS: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 11-emmendingen/015
+ENTITÄT: versammlung
+BEZEICHNUNG: Emmendinger Religionsgespräch
+FACETTE: GESCHICHTE
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 13.-17. Juni 1590
+  ort: Kapitelsaal
+  veranlasser: Markgraf Jakob III.
+  beteiligung: Vertreter evangelischer und katholischer Kirche
+  folge: Jakob III. konvertiert zum Katholizismus
+GUELTIG_AB: 1590
+GUELTIG_BIS: 1590
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/016
+ENTITÄT: betrieb_industrie
+BEZEICHNUNG: Erste Deutsche Ramie-Gesellschaft
+FACETTE: ALLTAG
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: Aus Mechanischer Hanfspinnerei 1889
+  gruendung_hanfspinnerei: 1835
+  bestaende: Zeitweise bis zu 3000 Mitarbeiter
+  entwicklung: Wichtigster industrieller Großbetrieb nach 1. Weltkrieg
+  schliessung: 2006
+  bedeutung_fuer_ort: Größter Arbeitgeber der Stadt
+GUELTIG_AB: 1889
+GUELTIG_BIS: 2006
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/017
+ENTITÄT: betrieb_industrie
+BEZEICHNUNG: Papierfabrik Sonntag
+FACETTE: ALLTAG
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1802
+  schliessung: 1980
+  charakterisierung: Erstes Industrieunternehmen der Stadt
+GUELTIG_AB: 1802
+GUELTIG_BIS: 1980
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 11-emmendingen/018
+ENTITÄT: ereignis_krieg
+BEZEICHNUNG: Dreißigjähriger Krieg
+FACETTE: GESCHICHTE
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1618-1648
+  auswirkungen: Katastrophal für Emmendingen
+  zerstörungsgrad: Zwei Drittel der Gebäude zerstört
+  bevoelkerungsverlust: Von etwa 500 auf etwa 100 Einwohner
+GUELTIG_AB: 1618
+GUELTIG_BIS: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 11-emmendingen/019
+ENTITÄT: ereignis_krieg
+BEZEICHNUNG: Mühlburger Krieg
+FACETTE: GESCHICHTE
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 12. Juni 1424
+  akteure: Allianz aus Basel und Straßburg
+  auswirkungen: Marktflecken völlig zerstört
+GUELTIG_AB: 1424
+GUELTIG_BIS: 1424
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/020
+ENTITÄT: gemeinde_juedisch
+BEZEICHNUNG: Jüdische Gemeinde Emmendingen
+FACETTE: GESCHICHTE
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_1716: 5 Familien aufgenommen
+  gruendung_1716_beschreibung: Schutzbürger-Status
+  synagoge_alt_erbaut: Etwa 1763
+  synagoge_neu_erbaut: 1823
+  synagoge_zerstoert: 10. November 1938
+  zerstoerung_grund: Novemberpogrome
+  deportation: 22. Oktober 1940
+  deportation_ziel: Lager Gurs, Südfrankreich
+  neuggruendung: 12. Februar 1995
+  mitglieder_2025: Etwa 360
+GUELTIG_AB: 1716
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/021
+ENTITÄT: institution_bildung
+BEZEICHNUNG: Goethe-Gymnasium
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Emmendingen | Wikipedia
+EIGENSCHAFTEN:
+  herkunft: Aus Lateinschule 1667 gegründet
+  entwicklung: Lateinschule → Höhere Bürgerschule (1840-1891) und Realschule → Realprogymnasium → Oberschule für Jungen
+  status_heute: Gymnasium seit 1974
+GUELTIG_AB: 1667
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 11-emmendingen/022
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: Bahnhof Emmendingen
+FACETTE: INFRA
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1. August 1845
+  lage: Zentral in der Stadt
+  bahnstrecke: Mannheim-Basel
+  bedeutung_fuer_ort: Erste Zugverbindung durch die Stadt
+GUELTIG_AB: 1845
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/023
+ENTITÄT: betrieb_gesundheit
+BEZEICHNUNG: Zentrum für Psychiatrie Emmendingen
+FACETTE: INFRA
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1884
+  ursprungname: Heil- und Pflegeanstalt
+  opfer_euthanasie: März 1940 - Juni 1941 etwa 800 Patienten ermordet
+  status_heute: Modernes psychiatrisches Fachkrankenhaus
+GUELTIG_AB: 1884
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 11-emmendingen/024
+ENTITÄT: archive
+BEZEICHNUNG: Deutsches Tagebucharchiv
+FACETTE: KULTUR_FREIZEIT
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1998
+  sitz: Altes Rathaus
+  aufgabe: Sammlung von Tagebüchern, Lebenserinnerungen und Briefwechsel
+  museum_seit: 2014
+  beschreibung: Einzigartig in Deutschland
+  bedeutung_fuer_ort: Dokumentation von Zeitgeschichte durch persönliche Aufzeichnungen
+GUELTIG_AB: 1998
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 11-emmendingen/025
+ENTITÄT: museum
+BEZEICHNUNG: Fotomuseum Hirsmüller
+FACETTE: KULTUR_FREIZEIT
+QUELLE: https://www.emmendingen.de/kultur-freizeit/kultureinrichtungen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 2003
+  lage: Markgrafenschloss, 2. Obergeschoss
+  bestand: Etwa 100000 Fotografien
+  sammlungsumfang: Firmen- und Familiengeschichte des Fotohauses 1861-1993
+  ausstellungen: Studio-, Labor-, Betriebsräume und Ladengeschäft mit Originalobjekten
+GUELTIG_AB: 2003
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 11-emmendingen/026
+ENTITÄT: museum
+BEZEICHNUNG: Jüdisches Museum Emmendingen
+FACETTE: KULTUR_FREIZEIT
+QUELLE: https://www.emmendingen.de/kultur-freizeit/kultureinrichtungen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 13. April 1997
+  attraktion: Restauriertes, denkmalgeschütztes Ritualbad Mikwe im Keller
+  ausstellungen: Geschichte Israelitische Gemeinde 1716-1940, jüdischer Kultus und Alltag, Feste
+  besonderheit: Lese- und Seminarraum mit Literatur und Videos
+  bedeutung_fuer_ort: Ort des Erinnerns, Gedenkens und Lernens
+GUELTIG_AB: 1997
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 11-emmendingen/027
+ENTITÄT: museum
+BEZEICHNUNG: Stadtmuseum Emmendingen
+FACETTE: KULTUR_FREIZEIT
+QUELLE: https://www.emmendingen.de/kultur-freizeit/kultureinrichtungen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Markgrafenschloss, 1. Obergeschoss
+  chronologie: Stadtgeschichte von 1094 bis neuere Zeit
+  themen: Handwerk, Zunftwesen, Industrialisierung, Emmendingen im 18. Jahrhundert
+  highlights: Badische Revolution 1848/1849, Sturm-und-Drang-Dichter, Persönlichkeiten wie Schlosser und Meerwein
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 11-emmendingen/028
+ENTITÄT: museum
+BEZEICHNUNG: Hochburg-Museum
+FACETTE: KULTUR_FREIZEIT
+QUELLE: https://www.emmendingen.de/kultur-freizeit/kultureinrichtungen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1990
+  lage: Ehemaliger Wein- und Vorratskeller der Oberburg
+  ausstellung: Fundstücke aus Freilegungsarbeiten und geschichtliche Entwicklung der Burg
+GUELTIG_AB: 1990
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 11-emmendingen/029
+ENTITÄT: fest
+BEZEICHNUNG: Breisgauer Weinfest
+FACETTE: KULTUR_FREIZEIT
+QUELLE: https://www.emmendingen.de/kultur-freizeit/jaehrliche-feste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  termin: Jährlich drittes Augustwochenende
+  ort: Emmendinger Altstadt
+  anzahl_winzer: Über 20 Breisgauer Winzergenossenschaften und Weingüter
+  anzahl_weine: Über 300 verschiedene Weine und Sekten
+  besucher: Tausende
+  charakterisierung: Ein Ort der Begegnung des Genusses und Geselligkeit
+  bedeutung_fuer_ort: Regionale Weinkultur, Stärkung des Miteinanders, Höhepunkt des Veranstaltungskalenders
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 11-emmendingen/030
+ENTITÄT: fest
+BEZEICHNUNG: Emmendinger Fasnet
+FACETTE: KULTUR_FREIZEIT
+QUELLE: https://www.emmendingen.de/kultur-freizeit/emmendinger-fasnet | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  termin: Von Donnerstag bis Dienstag vor Aschermittwoch
+  characterisierung: Tief verwurzelte Tradition mit großer Anzahl Narrenzünfte
+  highlights: Hemdglunkerumzug am Schmutzigen Dunschdig, Großer Internationaler Fasnachtsumzug am Fasnachtssonntag
+  umzugsgruppen: Über 100 Gruppen aus Deutschland und benachbartem Ausland
+  location: Schlossplatz als Narrendorf
+  begruessungsformel: AJO!
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/031
+ENTITÄT: fest
+BEZEICHNUNG: Hochburgfest
+FACETTE: KULTUR_FREIZEIT
+QUELLE: https://www.emmendingen.de/kultur-freizeit/jaehrliche-feste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  termin: Jährlich erster Sonntag im September
+  ort: Hochburg
+  charakter: Zeitreise ins Mittelalter
+  aktivitaeten: Schaukämpfe, mittelalterliche Musik, Handwerksvorfuehrungen
+  zielgruppe: Ganze Familie
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 11-emmendingen/032
+ENTITÄT: fest
+BEZEICHNUNG: Emmendinger Stadtlauf
+FACETTE: KULTUR_FREIZEIT
+QUELLE: https://www.emmendingen.de/kultur-freizeit/jaehrliche-feste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  termin: Meistens letzter Freitag im Juni
+  route: Durch Emmendinger Altstadt, Schloss, Stadtkirche, Stadttor, Goethepark zum Marktplatz
+  beteiligung: Etwa 3000 Läufer, etwa 5000 Zuschauer
+  teilnehmergruppen: Schulen, Kitas, Vereine, Firmen, Hobbyläufer
+  charakterisierung: Bewegungsevent, das Generationen verbindet
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 11-emmendingen/033
+ENTITÄT: fest
+BEZEICHNUNG: I EM MUSIC!
+FACETTE: KULTUR_FREIZEIT
+QUELLE: https://www.emmendingen.de/kultur-freizeit/jaehrliche-feste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  termin: Jährlich Mitte Juli
+  ort: Schlossplatz als Open-Air-Festival
+  gaeste: Nationale und internationale Stars (Rock-, Pop-Künstler)
+  beispiele: Chris de Burgh, Billy Idol, Santiano, Max Raabe
+  atmosphaere: Besondere Atmosphäre des Schlossplatzes
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 11-emmendingen/034
+ENTITÄT: fest
+BEZEICHNUNG: African Music Festival
+FACETTE: KULTUR_FREIZEIT
+QUELLE: https://www.emmendingen.de/kultur-freizeit/jaehrliche-feste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  termin: Im August
+  ort: Schlossplatz
+  programm: Tagsüber Basar, Tanz- und Trommelworkshops; abends Auftritte internationaler Stars
+  musik_genre: Reggae, Salsa und andere
+  motto: Jährlich wechselnd
+  charakterisierung: Gelebte Weltoffenheit
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 11-emmendingen/035
+ENTITÄT: infrastruktur_freizeit
+BEZEICHNUNG: Freibad Über der Elz
+FACETTE: FREIZEIT
+QUELLE: https://www.emmendingen.de/kultur-freizeit/baeder-seen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausstattung: Große Rutsche, Sprungturm bis 5 Meter, Kindererlebnislandschaft, Beachvolleyballplatz, Trampolin, Spielplatz
+  becken: Beheizt, mit Sprungturm
+  liegeflaeche: Große Liegewiese mit altem Baumbestand
+  gastronomie: Vorhanden
+  parkplatz: Gebührenfrei
+  erreichbarkeit: 10 Minuten zu Fuß vom Bahnhof
+  renovierung: Neu saniert
+  bedeutung_fuer_ort: Beliebte Badestelle, charakteristisches Freizeitangebot
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 11-emmendingen/036
+ENTITÄT: theater
+BEZEICHNUNG: Theater im Steinbruch
+FACETTE: KULTUR_FREIZEIT
+QUELLE: https://www.emmendingen.de/kultur-freizeit/kultureinrichtungen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 2002
+  vorgaenger: Volksbühne Emmendingen (seit 1962)
+  ort: Ehemaliger Steinbruch hinter stillgelegter Schuhfabrik Maja
+  programm: Sommerstuecke für Erwachsene und Kinder, teilweise Winterstück
+  plaetze: 315 überdachte Sitzplätze
+  verband: Mitglied Verband Deutscher Freilichtbühnen und Bund Deutscher Amateurtheater
+  weitere_veranstaltungen: Open-Air-Konzerte
+GUELTIG_AB: 2002
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 11-emmendingen/037
+ENTITÄT: einrichtung_kultur
+BEZEICHNUNG: Schlosskeller
+FACETTE: KULTUR_FREIZEIT
+QUELLE: https://www.emmendingen.de/kultur-freizeit/kultureinrichtungen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nutzung: Kleinkunstveranstaltungen, Künstler-Auftritte
+  preis: Kleinkunstpreis „Emmendinger Nadel"
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 11-emmendingen/038
+ENTITÄT: einrichtung_kultur
+BEZEICHNUNG: Anwesen Leonhardt
+FACETTE: KULTUR_FREIZEIT
+QUELLE: https://www.emmendingen.de/kultur-freizeit/kultureinrichtungen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Ältestes erhaltenes Ackerbürgerhaus Emmendingens, Kulturdenkmal
+  ensemble: Vorderhaus, Alte Metzig, Magazin, Scheune
+  lage: Marktplatz
+  uebergabe_stadt: 2001 von Kunstmalerin Gertrud Leonhardt
+  nutzung: Kulturelle Veranstaltungen, Hof-Konzerte, Atelier mit Kursen
+  bedeutung_fuer_ort: Erhalt historischer Substanz, Kulturort in der Altstadt
+GUELTIG_AB: 2001
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 11-emmendingen/039
+ENTITÄT: markt
+BEZEICHNUNG: Wochenmarkt Emmendingen
+FACETTE: ALLTAG
+QUELLE: https://www.emmendingen.de/kultur-freizeit/wochenmarkt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frequenz: Dreimal pro Woche
+  ort: Marktplatz im Herzen der Stadt
+  staende: 20-30 Stände
+  angebot: Obst, Gemüse, Wurst, Käse, Blumen, Öle, Backwaren, regionale Produkte
+  besonderheit: Regionale und saisonale Köstlichkeiten
+  charakterisierung: Beliebter Treffpunkt der Bürger
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 11-emmendingen/040
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Markgraf Jakob III.
+FACETTE: GESCHICHTE
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Markgraf von Baden-Hachberg
+  lebensdaten: 1562-1590
+  alter_at_death: 28 Jahre
+  hauptleistung: Verleihung des Stadtrechts an Emmendingen
+  stadtrecht_datum: 1. Januar 1590
+  ereignis_1590: Emmendinger Religionsgespräch
+  konversion: Zum Katholizismus nach Religionsgespräch
+  todesursache: Vermutlich Arsenvergiftung
+  wappendarstellung: Auf Emmendinger Stadtwappen, geharnischter Mann mit Schwert und Zepter
+  bedeutung_fuer_ort: Gründer des modernen Emmendingen als Stadt, Namensgeber vieler Straßen
+GUELTIG_AB: 1590
+GUELTIG_BIS: 1590
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/041
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Johann Georg Schlosser
+FACETTE: GESCHICHTE
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensdaten: 1739-1799
+  position: Oberamtmann der Markgrafschaft
+  amtszeit: 1774-1787
+  ehefrau: Cornelia Goethe (Schwester von J.W. von Goethe)
+  leistungen: Reformen in Landwirtschaft, Handel und Gewerbe
+  kulturelle_bedeutung: Machte sein Haus zu Treffpunkt junger Schriftsteller
+  besucher_sein_haus: J.W. Goethe (1775, 1779), Jakob Michael Reinhold Lenz u.a.
+  bedeutung_fuer_ort: Kultureller Leuchtturm, Zentrum aufklärerischer Ideen
+GUELTIG_AB: 1774
+GUELTIG_BIS: 1787
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/042
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Cornelia Schlosser
+FACETTE: GESCHICHTE
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensdaten: 1750-1777
+  beziehung: Schwester von Johann Wolfgang von Goethe
+  lebensstationen: Lebte in Emmendingen (mit Ehemann J.G. Schlosser)
+  todestag: 31.3.1777 (nach Wikipedia-Quelle widersprüchlich - wird als 1777 und auch als "31.3.1894" in anderer Quelle genannt)
+  beerdigung: Alter Friedhof Emmendingen
+GUELTIG_AB: 1774
+GUELTIG_BIS: 1777
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 11-emmendingen/043
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Carl Friedrich Meerwein
+FACETTE: GESCHICHTE
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensdaten: 1737-1810
+  profession: Baumeister, Buch-Autor
+  bekannt_fuer: Flugmaschinen-Entwürfe
+  veroeffentlichung: 1784 Buch „Der Mensch! sollte der nicht auch mit Fähigkeiten zum Fliegen geboren sein?"
+  inhalt_buch: Flugmodell-Entwurf und Berechnungen
+  bedeutung_fuer_ort: Flugpionier, frühe Aviation-Geschichte
+GUELTIG_AB: 1784
+GUELTIG_BIS: 1810
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 11-emmendingen/044
+ENTITÄT: landkreis
+BEZEICHNUNG: Landkreis Emmendingen
+FACETTE: POLITIK
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 15. Juni 1939
+  vorgeschichte: Bezirksamt Emmendingen seit 1809
+  charakterisierung: Emmendingen ist Sitz der Kreisverwaltung
+  staetebund: Verwaltungsgemeinschaft mit Freiamt, Malterdingen, Sexau, Teningen seit 1975
+GUELTIG_AB: 1939
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/045
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Städtepartnerschaft mit Six-Fours-les-Plages
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Emmendingen | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  departement: Var
+  beginn: 1978
+  charakterisierung: Gelebte internationale Beziehung
+GUELTIG_AB: 1978
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 11-emmendingen/046
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Städtepartnerschaft mit Newark-on-Trent
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Emmendingen | Wikipedia
+EIGENSCHAFTEN:
+  land: England
+  grafschaft: Nottinghamshire
+  beginn: 1983
+  charakterisierung: Gelebte internationale Beziehung
+GUELTIG_AB: 1983
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 11-emmendingen/047
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Städtepartnerschaft mit Sandomierz
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Emmendingen | Wikipedia
+EIGENSCHAFTEN:
+  land: Polen
+  woiwodschaft: Heiligkreuz
+  beginn: 1990
+  charakterisierung: Gelebte internationale Beziehung
+GUELTIG_AB: 1990
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 11-emmendingen/048
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: Badische Hauptbahn
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Emmendingen | Wikipedia
+EIGENSCHAFTEN:
+  strecke: Mannheim–Basel
+  verkehr: Regional-Express-Züge stündlich nach Basel und Offenburg
+  bedienung_emmendingen: Zentral gelegener Bahnhof, Haltestellen in Kollmarsreute und Teningen-Mundingen
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 11-emmendingen/049
+ENTITÄT: verein_ehrenamt
+BEZEICHNUNG: Ehrenamtsforum Emmendingen
+FACETTE: POLITIK
+QUELLE: https://www.emmendingen.de/kultur-freizeit/ehrenamt-vereine/ehrenamtsforum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angebot: Unterstützung ehrenamtlichen Engagements in Vereinen oder Initiativen
+  zielgruppe: Aktive Vereinsvorstände und interessierte Ehrenamtliche
+  fokus: Fachliche Inputs, Austausch und Vernetzung
+  bedeutung_fuer_ort: Stärkung des Zusammenhalts und bürgerschaftlichen Engagements
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 11-emmendingen/050
+ENTITÄT: vereine_anzahl
+BEZEICHNUNG: Vereinsleben Emmendingen
+FACETTE: KULTUR_FREIZEIT
+QUELLE: https://www.emmendingen.de/kultur-freizeit/ehrenamt-vereine/vereinsverzeichnis/seite-1/suche-none | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl_vereine: Über 220
+  kategorien: Bürgerschaftliches Engagement, Kultur, Sport, Soziales, Kirchenarbeit, Flüchtlingshilfe, Feuerwehr, Rettungsdienste, Umwelt- und Klimaschutz
+  gesellschaftlicher_beitrag: Wichtiger gesellschaftlicher Beitrag
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 11-emmendingen/051
+ENTITÄT: bauwerk_kirche
+BEZEICHNUNG: Evangelische Stadtkirche
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Emmendingen | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1236
+  urspruenglicher_name: Martinskirche
+  patrozinium_alt: 11. November
+  wiederaufbau_nach_1424: 1430-1434
+  erweiterung_1813_1815: Umgebaut
+  turmneubau: 1858/59 (Klassizistischer Turm durch neugotischen ersetzt)
+  weitere_erweiterungen: 1903-1905
+GUELTIG_AB: 1236
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 11-emmendingen/052
+ENTITÄT: bauwerk_kirche
+BEZEICHNUNG: Katholische Kirche St. Bonifatius
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Emmendingen | Wikipedia
+EIGENSCHAFTEN:
+  erbauung: Ab 1863
+  erweiterung: 1894-1896 und 1911-1913
+  architektur: Neugotik
+  architekt: Max Meckel (Freiburg)
+  besonderheit: Spätgotischer Flügelaltar 1473 von Friedrich Herlin
+  orgel: 1938 Orgel von M. Welte & Söhne
+GUELTIG_AB: 1863
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 11-emmendingen/053
+ENTITÄT: radweg
+BEZEICHNUNG: Elzdamm-Radweg
+FACETTE: FREIZEIT
+QUELLE: (aus ZEUGEN)
+EIGENSCHAFTEN:
+  laenge: 14 km
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 11-emmendingen/054
+ENTITÄT: radweg
+BEZEICHNUNG: Mühlbach-Rundweg
+FACETTE: FREIZEIT
+QUELLE: (aus ZEUGEN)
+EIGENSCHAFTEN:
+  laenge: 30 km
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 11-emmendingen/055
+ENTITÄT: wanderweg
+BEZEICHNUNG: Vierburgenweg
+FACETTE: FREIZEIT
+QUELLE: (aus ZEUGEN)
+EIGENSCHAFTEN:
+  laenge: 31.5 km
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 11-emmendingen/056
+ENTITÄT: wanderweg
+BEZEICHNUNG: Breisgauer Weinweg
+FACETTE: FREIZEIT
+QUELLE: (aus ZEUGEN)
+EIGENSCHAFTEN:
+  charakterisierung: Weinweg durch Breisgau
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 11-emmendingen/057
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Haselwald-Spitzmatten
+FACETTE: LAGE
+QUELLE: (aus ZEUGEN)
+EIGENSCHAFTEN:
+  kategorie: Naturschutzgebiet
+  seit: 2021
+GUELTIG_AB: 2021
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 11-emmendingen/058
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Naturpark Südschwarzwald
+FACETTE: LAGE
+QUELLE: (aus ZEUGEN)
+EIGENSCHAFTEN:
+  kategorie: Naturpark
+  seit: 1999
+GUELTIG_AB: 1999
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+

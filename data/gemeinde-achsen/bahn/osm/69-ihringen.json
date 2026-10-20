@@ -1,0 +1,872 @@
+{
+ "ort": "69-ihringen",
+ "gebiet": "Gemeindegrenze",
+ "kategorien": {
+  "Aussicht": [
+   {
+    "name": "Lenzenberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "viewpoint"
+    }
+   },
+   {
+    "name": "Schwarzwaldblick",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "viewpoint"
+    }
+   }
+  ],
+  "Museum": [
+   {
+    "name": "Heimatmuseum",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.heimatmuseum-ihringen.de/",
+    "tags": {
+     "tourism": "museum"
+    }
+   },
+   {
+    "name": "Naturzentrum Kaiserstuhl",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://naturzentrum-kaiserstuhl.de/",
+    "tags": {
+     "tourism": "museum"
+    }
+   }
+  ],
+  "Gipfel": [
+   {
+    "name": "Gagenhart",
+    "zusatz": "380 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   },
+   {
+    "name": "Böselsberg",
+    "zusatz": "340 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   },
+   {
+    "name": "Brenntenbuck",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   }
+  ],
+  "Freizeit": [
+   {
+    "name": "Arboretum Liliental",
+    "zusatz": "",
+    "wikipedia": "de:Liliental",
+    "website": null,
+    "tags": {
+     "tourism": "attraction"
+    }
+   },
+   {
+    "name": "Tourist Info",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "attraction"
+    }
+   },
+   {
+    "name": "Jüdischer Friedhof",
+    "zusatz": "",
+    "wikipedia": "de:Jüdischer Friedhof (Ihringen)",
+    "website": null,
+    "tags": {
+     "landuse": "cemetery",
+     "tourism": "attraction"
+    }
+   }
+  ],
+  "Brauerei/Winzer": [
+   {
+    "name": "Weingut Konstanzer",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "craft": "winery"
+    }
+   },
+   {
+    "name": "Weingut Stigler",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "craft": "winery"
+    }
+   },
+   {
+    "name": "Weingut Maienbrunnen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://weingut-maienbrunnen.de/",
+    "tags": {
+     "craft": "winery"
+    }
+   },
+   {
+    "name": "Weingut Lena Flubacher",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.weingut-lena-flubacher.de/",
+    "tags": {
+     "craft": "winery"
+    }
+   },
+   {
+    "name": "Staatsweingut Freiburg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://staatsweingut-freiburg.de",
+    "tags": {
+     "craft": "winery",
+     "landuse": "farmyard"
+    }
+   }
+  ],
+  "Bahnhof": [
+   {
+    "name": "Ihringen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.bahnhof.de/ihringen",
+    "tags": {
+     "railway": "halt"
+    }
+   },
+   {
+    "name": "Wasenweiler",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.bahnhof.de/wasenweiler",
+    "tags": {
+     "railway": "halt"
+    }
+   }
+  ],
+  "Gewässer": [
+   {
+    "name": "Riedkanal (Murr)",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Krebsbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Mühlbächle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Neugraben",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   }
+  ],
+  "Bad": [
+   {
+    "name": "Kaiserstuhlbad",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "recreation_ground",
+     "leisure": "water_park"
+    }
+   }
+  ],
+  "Burg/Denkmal": [
+   {
+    "name": "Synagogenplatz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "parking",
+     "historic": "memorial"
+    }
+   }
+  ],
+  "Sportstätte": [
+   {
+    "name": "Schützenhaus Ihringen",
+    "zusatz": "shooting",
+    "wikipedia": null,
+    "website": "https://www.schuetzenverein-ihringen.de/",
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "shooting"
+    }
+   }
+  ],
+  "Radweg": [
+   {
+    "name": "Kaiserstuhl-Radwanderweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Tuniberg-Tour",
+    "zusatz": "34.5 km",
+    "wikipedia": null,
+    "website": "http://www.ebike-kaiserstuhl.de/",
+    "tags": {
+     "route": "bicycle"
+    }
+   }
+  ],
+  "Wanderweg": [
+   {
+    "name": "Hohrainbuck-Hütte - Hohrain",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hasenbeinmatte - Hohrain",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hasenbeinmatte - Gagenhartwald",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hasenbeinmatte - Sautalweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Sautalweg - Hüttenweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Sautalweg - Fasanenweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Fasanenweg - Unterer Wetzentalweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Adlerhorstsattel - Fasanenweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Unterer Wetzentalweg - Hüttenweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Stalleck-Gasse - Unterer Wetzentalweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hüttenweg - Gasthaus Lilie",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Gasthaus Lilie - Unterer Fischweier",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Unterer Fischweier - Gagenhart",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Beim dreieckigen Bannstein - Beim Neunlindenturm",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Gagenhartwald - Schöne Aussicht",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Wasenweiler Neunkircherstraße - ?",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Rossläger - Adlerhorstsattel",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kreuzenbuck Jägerdenkmal - Bachenbückle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kreuzenbuck Jägerdenkmal - Gierstein",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Pöppital - Kreuzenbuck Jägerdenkmal",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ihringen Vogelgasse - Ihringen Wiegentalweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ihringen Bahnhof - Ihringen Turnhalle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ihringen Bahnhof - Ihringen Volksbank",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ihringen Volksbank - Ihringen Vogelgasse",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ihringen Turnhalle - Ihringen Hinterhöf",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ihringen Hinterhöf - Ihringen Kirchplatz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ihringen Vogelgasse - Ihringen Hinterhöf",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ihringen Vogelgasse - Ihringen Kirchplatz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ihringen Kirchplatz - Ihringen Schlichten",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ihringen Schlichten - Ihringen Friedhof",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ihringen Friedhof - Ihringen Lenzenbergstraße",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ihringen Schlichten - Pöppital",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ihringen Lenzenbergstraße - Obere Dulltalgasse",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Am Lenzenberg - Pöppital",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Obere Dulltalgasse - Am Lenzenberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Am Lenzenberg - Himmelburg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Himmelburg - Stalleck-Gasse",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Himmelburg - Gasthaus Lenzenberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Gasthaus Lenzenberg - Gierstein",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Gierstein - Adlerhorstsattel",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Adlerhorstsattel - Beim Neunlindenturm",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Beim Neunlindenturm - Neunlindenturm",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Neunlindenturm - Herrenweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Herrenweg - Adlerhorstsattel",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Herrenweg - Gagenhartwald",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Adlerhorstsattel - Adlerhorstsattel",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hohrain - Gagenhart",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Gagenhart - Gagenhart",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Wasenweiler Neunkircherstraße - Bahnhof Wasenweiler",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Wasenweiler Dorfbrunnen - Wasenweiler Neunkircherstraße",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Lindenplatz - Wasenweiler Dorfbrunnen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kastanienplatz - Lindenplatz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Gagenhart - Kastanienplatz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Am Hochbuck - Kohlplatz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kohlplatz - Im Buchwald",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kohlplatz - Hinter-Winklen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hinter-Winklen - Böhmischberg-Kreuz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Am Deichelebuck - Kreuzenbuck-Pass",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Am Deichelebuck - Bitzenberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Fohrenbuck - Am Deichelebuck",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Badischer Winzerkeller - Winkler Ebene",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Winkler Ebene - Blankenhornsberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Blankenhornsberg - Am Hochbuck",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Wilde Steige - Am Hochbuck",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Gute-Eck - Wilde Steige",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Gute-Eck - Kreuzenbuck-Pass",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kreuzenbuck-Pass - Kreuzenbuck Jägerdenkmal",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   }
+  ]
+ }
+}

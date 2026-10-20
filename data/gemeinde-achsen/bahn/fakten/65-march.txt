@@ -1,304 +1,799 @@
 ID: 65-march/001
-ENTITÄT: ort
+ENTITÄT: gemeinde
 BEZEICHNUNG: March
-QUELLE: https://www.march.de/4782 | Gemeinde-Webseite
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  fusionsjahr: 1973
-  fusionsdatum: 1.12.1973
-  fusionierungsorte: Buchheim, Holzhausen, Hugstetten, Neuershausen
-  eigenschaft_gemeinde: Einheitsgemeinde
-  namensherkunft: "March" bedeutet "umgrenztes Gebiet", existierte bereits im Mittelalter
-  entfernung_freiburg: ca. 8 km, nordwestlich
-  referenzpunkt: Marchhügel
-  hoehenlage: 199-204 m NN
-  einwohnerzahl: 9504
-  einwohnerzahl_stand: 31.10.2025
+  lage: etwa 8 km nordwestlich von Freiburg im Breisgau
+  region: südliche Oberrheinebene, Breisgau
   gemarkungsflaeche: 1779 ha
-  historische_dorf_bezeichnung: seit alters her "Marchdörfer"
-GUELTIG_AB: 1973
+  hoehenlage: 199-204 m NN (durchschnittlich), 253,6 m ü. NN (höchster Punkt auf Gemarkung Nimburg-Bottingen), 188 m ü. NHN (niedrigster Punkt Flussbett Dreisam an Grenze Nimburg)
+  landschaftszone: Mooswaldzone zwischen Kaiserstuhl und Schwarzwälder Vorbergzone innerhalb der Freiburger Bucht
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 65-march/002
-ENTITÄT: ort
-BEZEICHNUNG: March
-QUELLE: https://www.march.de/4782 | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  haushaltsvolumen_2026_ergebnis: 31809529 Euro
-  haushaltsvolumen_2026_investition: 2508500 Euro
-  schulden_31_12_2024: 10195673.19 Euro
-  schulden_pro_kopf: 1094.54 Euro
-GUELTIG_AB: 2024
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 65-march/003
-ENTITÄT: gemeindewappen
-BEZEICHNUNG: Gemeindewappen March
+ENTITÄT: gemeinde
+FACETTE: GESCHICHTE | IDENTITÄT
 QUELLE: https://www.march.de/de/Leben-Wohnen/Mein-March/Historisches | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  verliehen: 1975
-  design_gestaltung: gespalten Schild
-  design_vorn: Silber mit rotem geschliffenem Nagelkreuz (Kloster Lorsch)
-  design_hinten: Rot mit silbernem Bären (Kloster St. Gallen)
-  symbolik: vereinigt die Wappen der beiden frühesten in der March nachgewiesenen Grundherrschaften
-  superlativ: repräsentiert die beiden frühesten Grundherrschaften
-GUELTIG_AB: 1975
+  gruendungsjahr: 1973
+  gruendungsanlass: Fusionsvertrag Zusammenschluss der bis dahin selbstständigen Gemeinden Buchheim, Holzhausen, Hugstetten und Neuershausen
+  namensherkunft: "die March" (umgrenztes Gebiet) und ihre Dörfer existierten bereits im Mittelalter; Gemarkungspläne erstmals im 18. Jahrhundert angefertigt
+  gemeindewappen_verliehen: 1975
+  gemeindewappen_beschreibung: gespaltenem Schild vorn in Silber ein rotes geschliffenes Nagelkreuz (Kloster Lorsch), hinten in Rot einen silbernen Bären (Kloster St. Gallen)
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 65-march/003
+ENTITÄT: gemeinde
+FACETTE: POLITIK | DEMOGRAFIE
+QUELLE: https://www.march.de/4782 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 9504
+  einwohnerzahl_stand: 31. Oktober 2025
+  haushaltsvolumen_ergebnis: 31809529 Euro
+  haushaltsvolumen_jahr: 2026
+  haushaltsvolumen_investition: 2508500 Euro
+  schulden_betrag: 10195673.19 Euro
+  schulden_stand: 31.12.2024
+  schulden_pro_kopf: 1094.54 Euro
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 65-march/004
-ENTITÄT: ortsteil
-BEZEICHNUNG: Buchheim
-QUELLE: https://www.march.de/4782 | Gemeinde-Webseite
+ENTITÄT: gemeinde
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://www.march.de/sehenswertes | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  status_vor_fusion: selbstaendige Gemeinde
-  fusiondatum: 1.12.1973
-  fusiongemeinde: March
-GUELTIG_AB: 1973
+  beschreibung: Kirchen und Schlösser prägen neben anderen Kunstdenkmälern den Charakter der Ortsbilder und stellen Bezüge zur Gemeinde dar
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 0.90
 ---
 ID: 65-march/005
-ENTITÄT: ortsteil
-BEZEICHNUNG: Holzhausen
-QUELLE: https://www.march.de/4782 | Gemeinde-Webseite
+ENTITÄT: klima
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  status_vor_fusion: selbstaendige Gemeinde
-  fusiondatum: 1.12.1973
-  fusiongemeinde: March
-GUELTIG_AB: 1973
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+  klassifizierung: warm- und feucht-gemäßigt mit vergleichsweise milden Wintern und warmen bis heißen Sommern
+  sonnenschein_taglich: 5.1 Stunden
+  sonnenstunden_jaehrlich: 1950
+  jahresmitteltemperatur: 11.3 Celsius
+  niederschlag_jaehrlich: 797 mm
+  charakteristika: atlantisch-ozeanische Klimaeinflüsse durch Burgundische Pforte, Regenschatten der Vogesen; stellenweise mediterranes Klima im Kaiserstuhl-Bereich
+  temperaturrekord_2015: 38.8 Celsius am 7. August 2015
+  temperaturrekord_national: 40.2 Celsius am 13. August 2003 (damals Rekord in Deutschland, geteilt mit Gärmersdorf, Freiburg und Karlsruhe)
+GUELTIG_BIS: 2003
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
 ---
 ID: 65-march/006
-ENTITÄT: ortsteil
-BEZEICHNUNG: Hugstetten
-QUELLE: https://www.march.de/4782 | Gemeinde-Webseite
+ENTITÄT: nimberg
+BEZEICHNUNG: Marchhügel
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  status_vor_fusion: selbstaendige Gemeinde
-  fusiondatum: 1.12.1973
-  fusiongemeinde: March
-GUELTIG_AB: 1973
+  charakterisierung: welliger, knapp 7 km lang gestreckter, lößbedeckter Hügelrücken
+  hoehengefaelle: 25 bis 65 m
+  hoechster_punkt: 253.6 m ü. NN
+  geologische_beschaffenheit: aus verschiedenen Teilen bestehende, von verdeckten Verwerfungen bzw. Erosionsrändern begrenzte, isolierte Vorbergscholle von Tertiär und Mesozoikum
+  landnutzung: vielgewannige, schmalstreifig parzellierte und intensiv genutzte Ackerbaulandschaft mit Streuobstbeständen und Weinbau
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 0.93
 ---
 ID: 65-march/007
-ENTITÄT: ortsteil
-BEZEICHNUNG: Neuershausen
-QUELLE: https://www.march.de/4782 | Gemeinde-Webseite
+ENTITÄT: gewaesser
+BEZEICHNUNG: Dreisam
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  status_vor_fusion: selbstaendige Gemeinde
-  fusiondatum: 1.12.1973
-  fusiongemeinde: March
-GUELTIG_AB: 1973
+  klassifizierung: Landesgewässer 1. Ordnung
+  charakteristika: fließt westlich der Siedlungsfläche von Hugstetten, Buchheim und Neuershausen
+  regulierung_zeitraum: 1837-1841
+  regulierung_verantwortlicher: Johann Gottfried Tulla (Pläne)
+  regulierung_massnahmen: Hochwasserdämme, Kanalisierung
+  niedrigster_punkt_gemeinde: 188 m ü. NHN (Flussbett Dreisam im Gewann "Töbismatt" an Grenze zu Nimburg)
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 0.92
 ---
 ID: 65-march/008
-ENTITÄT: partnergemeinde
-BEZEICHNUNG: Holzhausen/Sachsen
-QUELLE: https://www.march.de/4782 | Gemeinde-Webseite
+ENTITÄT: ortsteil
+BEZEICHNUNG: Buchheim
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  land: Sachsen, Deutschland
-  status: Stadtteil von Leipzig
-  einwohnerzahl: 6287
-  eingemeindung_leipzig: 1.1.1999
-GUELTIG_AB: 1999
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+  einwohnerzahl: 1216
+  einwohnerzahl_stand: nach 1945
+  ersterwaehnung: 769 im Lorscher Codex
+  bedeutung: zu den ältesten Orten im Breisgau überhaupt
+  namensherkunft_vermutung: Endung "heim" deutet auf Besiedlung bereits um 500 n. Chr.
+GUELTIG_AB: 769
+VERTRAUEN_EXTRAKTION: 0.90
 ---
 ID: 65-march/009
-ENTITÄT: kirche
-BEZEICHNUNG: Evangelische Kirchengemeinde
-ORTSTEIL_BEZUG: Buchheim
-QUELLE: https://www.march.de/de/Leben-Wohnen/Kirchen,Soziales,Gesundheit/Kirchen | Gemeinde-Webseite
+ENTITÄT: ortsteil
+BEZEICHNUNG: Holzhausen
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  adresse: Konrad-Stürtzel-Straße 27, 79232 March
-  konfession: evangelisch
-GUELTIG_AB: 1900
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+  einwohnerzahl: 873
+  einwohnerzahl_stand: nach 1945
+  ersterwaehnung: 849
+GUELTIG_AB: 849
+VERTRAUEN_EXTRAKTION: 0.90
 ---
 ID: 65-march/010
-ENTITÄT: kirche
-BEZEICHNUNG: Römisch-katholische Kirchengemeinde March-Gottenheim
-ORTSTEIL_BEZUG: Hugstetten
-QUELLE: https://www.march.de/de/Leben-Wohnen/Kirchen,Soziales,Gesundheit/Kirchen | Gemeinde-Webseite
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hugstetten
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  adresse: Engelgasse 25, 79232 March
-  konfession: katholisch
-GUELTIG_AB: 1900
+  einwohnerzahl: 1602
+  einwohnerzahl_stand: nach 1945
+  ersterwaehnung: 1291
+  bahnhof_errichtung: 1871
+  bedeutung_bahnhof: Haltestation an Eisenbahnlinie Freiburg-Breisach
+GUELTIG_AB: 1291
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.92
 ---
 ID: 65-march/011
-ENTITÄT: museum
-BEZEICHNUNG: kunsthalle messmer
-QUELLE: https://www.march.de/de/Erholung-Genuss/Sehenswertes/Museen | Gemeinde-Webseite
+ENTITÄT: ortsteil
+BEZEICHNUNG: Neuershausen
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  stiftung_gruendung: 2005
-  stifter: Jürgen A. Messmer
-  anlass: "in Erinnerung an seine verstorbene Tochter Petra Kerstin"
-  museum_eroeffnung: 2009
-  gebaeude: ehemaliger Riegeler Brauerei-Gebäudekomplex
-  traeger: messmer foundation (gemeinnützige Stiftung)
-  adresse: Großherzog-Leopold-Platz 1, 79359 Riegel
-  lage: unweit von Freiburg
-  ausstellungen_pro_jahr: bis zu drei hochkarätige Wechselausstellungen
-  ausstellungsbeispiele: Victor Vasarely, Salvador Dalí
-  telefon: 07642 92016-20
-  website: www.kunsthallemessmer.de
-GUELTIG_AB: 2009
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+  einwohnerzahl: 766
+  einwohnerzahl_stand: nach 1945
+  ersterwaehnung: 789
+GUELTIG_AB: 789
+VERTRAUEN_EXTRAKTION: 0.90
 ---
 ID: 65-march/012
-ENTITÄT: kunstsammlung
-BEZEICHNUNG: Kunstsammlung Messmer
-QUELLE: https://www.march.de/de/Erholung-Genuss/Sehenswertes/Museen | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  sammlunschwerpunkt: konkret-konstruktive Kunst
-  kuenstler: Max Bill, Georges Braque, Salvador Dalí, Otto Dix, André Evard, Günter Fruhtrunk, Francois Morellet, A.R. Penck, Pablo Picasso, Victor Vasarely
-  erwerbung_evard_nachlass: 1978
-  evard_lebensdaten: 1876-1972
-  evard_beschreibung: Schweizer Maler der Moderne
-  sammeltaetigkeit_ab: 1970er Jahre
-  status: wird stetig erweitert
-GUELTIG_AB: 1978
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 65-march/013
-ENTITÄT: person
-BEZEICHNUNG: Jürgen A. Messmer
-QUELLE: https://www.march.de/de/Erholung-Genuss/Sehenswertes/Museen | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  geburtsjahr: 1941
-  geburtsort: Villingen-Schwenningen
-  profession: Unternehmer, Kunstsammler
-  sammeltaetigkeit_start: 1970er Jahre
-  frueherer_beruf: Produzent exklusiver Schreibgeräte (messmer pen)
-  gruendung_stiftung: 2005
-  gruendung_museum: 2009
-  preis_gruendung: Internationaler André Evard-Preis
-GUELTIG_AB: 1941
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 65-march/014
-ENTITÄT: preis
-BEZEICHNUNG: Internationaler André Evard-Preis für konkret-konstruktive Kunst
-QUELLE: https://www.march.de/de/Erholung-Genuss/Sehenswertes/Museen | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  gruender: Jürgen A. Messmer
-  traeger: messmer foundation
-  zielgruppe: Gegenwartskuenstler aus dem konkret-konstruktiven Bereich
-  veroeffentlichung_ergebnisse: Gruppenschau
-GUELTIG_AB: 2005
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 65-march/015
-ENTITÄT: brauerei
-BEZEICHNUNG: Riegeler Bier (Brauerei Wilhelm Meyer & Söhne)
-QUELLE: https://www.march.de/de/Erholung-Genuss/Sehenswertes/Museen | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  gruendungsjahr: 1876
-  gruender: Silvester Meyer (Sohn des Firmengründers)
-  standort: Riegel, am Fuße des Michaelisbergs
-  absatzgebiet_bis_1915: Baden und Elsass
-  betriebsdauer: ca. 125 Jahre
-  produktionsstilllegung: 2002
-  architektur: zahlreiche Gebäude mit außergewöhnlicher Architektur, teilweise verdeckte Fassaden
-  umnutzung: Lofts und Büros
-  museum_nachnutzung: 2009 kunsthalle messmer in ehemaliger Schwenkhalle
-GUELTIG_AB: 1876
-GUELTIG_BIS: 2002
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 65-march/016
-ENTITÄT: seniorenzentrum
-BEZEICHNUNG: Seniorenzentrum March
-ORTSTEIL_BEZUG: Hugstetten
-QUELLE: https://www.march.de/de/Leben-Wohnen/Kirchen,Soziales,Gesundheit/Seniorenzentrum | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  adresse: Schwarzwaldstraße 18, 79232 March
-  traeger: Deutsches Rotes Kreuz, Kreisverband Freiburg
-  leiter: Peter Baake
-  gemeinde_belegungsrecht: 19 Wohnungen auf 30 Jahre
-  begegnungsstaette: "Cafe Vis a Vis"
-  pflegetrakt: 67 Pflegeplätze mit 13 Demenzstationen
-  ansprechpartner_pflege: Frau Kern
-  telefon: 07665 9345-100
-  email: info-pflegeheim(at)drk-freiburg.de
-GUELTIG_AB: 1970
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 65-march/017
-ENTITÄT: muetterzentrum
-BEZEICHNUNG: Mütterzentrum March-Reute e.V.
-QUELLE: https://www.march.de/de/Leben-Wohnen/Kirchen,Soziales,Gesundheit/Muetterzentrum | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  charakter: selbstorganisierter Treffpunkt, Form der nachbarschaftlichen Selbsthilfe
-  zielgruppe: Frauen und Kinder aller Konfessionen und Nationalitäten, Väter willkommen
-  dachverband: Mütterforum mit ca. 45 Mütterzentren landesweit
-  foerderung: örtliche Pfarrgemeinden und Bildungswerk Freiburg
-  programm: Kurse, Gesprächskreise, Vorträge, Alleinerziehenden-Treff, PEKiP, Baby-Club, Sport, kreative Angebote
-  website: www.muetterzentrum-march-reute.de
-GUELTIG_AB: 2000
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 65-march/018
-ENTITÄT: hospizgruppe
-BEZEICHNUNG: Hospizbewegung Breisgau-Hochschwarzwald e.V.
-QUELLE: https://www.march.de/de/Leben-Wohnen/Kirchen,Soziales,Gesundheit/Hospizgruppe | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  aktionsgebiet: Stadtkreis Freiburg und Landkreis Breisgau-Hochschwarzwald
-  ehrenamtliche: ueber 150
-  adresse: Albert-Schweizer-Straße 5, 79119 Kirchzarten
-  telefon: 07661 391108
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 65-march/019
-ENTITÄT: caritas_familienpflege
-BEZEICHNUNG: Caritas Haus- und Familienpflege
-QUELLE: https://www.march.de/de/Leben-Wohnen_/Kirchen-Soziales-Gesundheit/Caritas- | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  traeger: Caritasverband für den Landkreis Breisgau-Hochschwarzwald e.V.
-  einzugsgebiet: Gemeinde March und Landkreis Breisgau-Hochschwarzwald
-  einsatzleiterin: Barbara Möhring
-  telefon: 0761 89654-51
-  email: cv-familienpflege(at)caritas-bh.de
-  website: www.caritas-bh.de
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 65-march/020
-ENTITÄT: kleiderstube
-BEZEICHNUNG: Kleiderstube March
-ORTSTEIL_BEZUG: Buchheim
-QUELLE: https://www.march.de/de/Leben-Wohnen_/Kirchen-Soziales-Gesundheit/Kleiderstube-March | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  adresse: Schulbergstrasse 1, March-Buchheim (ehemaliges Rathaus)
-  angebot: Kleidung und Haushaltsartikel
-  zielgruppe: bedürftige Menschen aus der Gemeinde
-  ansprechperson: Petra Engler
-  telefon: 07665-912584
-  email: Kleiderstube-March(at)gmx.de
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 65-march/021
-ENTITÄT: weinanbau
+ENTITÄT: weinanbaugebiet
+FACETTE: WIRTSCHAFT | ALLTAG
 QUELLE: https://www.march.de/4782 | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  gebiet: Kaiserstuhl (vulkanisches Gebirge)
-  lagen: "Rebstuhl/Buchheim", "Steingrube/Neuershausen"
-  gemeinde_zugehoerigkeit: March gehört zum Weinanbaugebiet Kaiserstuhl
+  gehoert_zu: vulkanisches Gebirge Kaiserstuhl
+  weinlagen: "Rebstuhl/Buchheim" und "Steingrube/Neuershausen"
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 65-march/013
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Holzhausen
+FACETTE: POLITIK | DEMOGRAFIE
+QUELLE: https://www.march.de/4782 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Sachsen
+  einwohnerzahl: 6287
+  status: Stadtteil von Leipzig
+  status_gueltig_ab: 1. Januar 1999 (Eingemeindung nach Leipzig)
+GUELTIG_AB: 1999
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 65-march/014
+ENTITÄT: kirche
+BEZEICHNUNG: St. Georgskirche Buchheim
+ORTSTEIL_BEZUG: Buchheim
+FACETTE: KULTUR | FREIZEIT | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+  bauzeit: 1757
+  architektur: spätgotischer Chor, barockes Langhaus
+  turm_alter_teil: 16. Jahrhundert, Turmunterbau datiert auf 1586
+  turm_neue_spitze: zweite Hälfte 19. Jahrhundert
+  superlativ: früheste erwähnte Kirche im gesamten Breisgau
+  superlativ_bezugsraum: im Jahr 769 erwähnt
+GUELTIG_AB: 1757
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 65-march/015
+ENTITÄT: kapelle
+BEZEICHNUNG: Buchheimer Friedhofskapelle
+ORTSTEIL_BEZUG: Buchheim
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 19. Jahrhundert
+  merkmale: kleines Glockentürmchen, wertvoller neobarocker Altar
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 65-march/016
+ENTITÄT: gemeindezentrum
+BEZEICHNUNG: Evangelisches Gemeindezentrum Buchheim
+ORTSTEIL_BEZUG: Buchheim
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Konrad-Stürtzel-Straße
+  bauzeit: Sommer 1976
+  architektur: zwei getrennte Gebäude (Gemeindehaus, Pfarrhaus), sechseckige Grundstruktur, spätmoderne Plattenbauweise, Beton-Fertigteile
+  ausstattung: Metallkonstruktion als Glockentürmchen mit Glocke an Westfassade des Gemeindehauses (seit einigen Jahren)
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 65-march/017
+ENTITÄT: kirche
+BEZEICHNUNG: St. Pankratiuskirche Holzhausen
+ORTSTEIL_BEZUG: Holzhausen
+FACETTE: KULTUR | FREIZEIT | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+  fertigstellung: 1781
+  glockenturm_bauzeit: 1471-1472
+  glockenturm_charakterisierung: wehrhafte Bauweise, mit Abstand ältestes Gebäude in March
+  taufstein: gestiftet einst durch Ortsherrschaft von Harsch, aus Jahr 1614, stand bereits in Vorgängerkirche
+  kelch: barocker Messkelch, gestiftet durch Familie von Harsch, ehemals zur Pfarrkirche von Buchsweiler gehörig
+  glockengeschichte: Original-Glocken von 1472 längst verschwunden; 1756 neues dreistimmiges Geläut; 1917 eine Glocke für Kriegszwecke abgeliefert; 1934 neues Geläut (eine Glocke überstand Krieg nicht); 1960 aktuelles vierstimmiges Geläut
+GUELTIG_AB: 1781
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 65-march/018
+ENTITÄT: pfarrhaus
+BEZEICHNUNG: Holzhauser Pfarrhaus
+ORTSTEIL_BEZUG: Holzhausen
+FACETTE: KULTUR | FREIZEIT | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1687
+  bauherr_verantwortung: Markgraf von Baden als Hauptzehntherr, daher Baupflicht
+  beschreibung: prächtige Bauweise
+  renovation: Mitte der 1990er Jahre
+GUELTIG_AB: 1687
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 65-march/019
+ENTITÄT: kapelle
+BEZEICHNUNG: Holzhauser Friedhofskapelle
+ORTSTEIL_BEZUG: Holzhausen
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1914
+  ausstattung: kleines Dachreiter-Glockentürmchen, "Vanottigruft" (Pfarrer Theodor Siegfried Vanotti † 1911 begraben), großes Altargemälde
+  angebaut: 1983 Aussegnungshalle
+GUELTIG_AB: 1914
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 65-march/020
+ENTITÄT: kirche
+BEZEICHNUNG: Martin-Luther-Kirche Hugstetten
+ORTSTEIL_BEZUG: Hugstetten
+FACETTE: KULTUR | FREIZEIT | GESCHICHTE
+EIGENSCHAFTEN:
+  urspruenglicher_name: St. Gallus
+  konfession_urspruenglich: katholisch
+  bauzeit_katholisch: 1772
+  architektur_katholisch: barocke Zwiebelturm
+  aenderung_1878: um eine Fensterachse verlängert, neuer Dachreiterturm mit Glockenstube
+  konfession_neu: 1966 an evangelische Kirchengemeinde
+  renovation: 1967 gründliche Renovierung, neuer modern geformter Dachreiterturm ohne Glockenstube
+ORTSTEIL_BEZUG: Hugstetten
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 65-march/021
+ENTITÄT: kirche
+BEZEICHNUNG: St. Galluskirche Hugstetten
+ORTSTEIL_BEZUG: Hugstetten
+FACETTE: KULTUR | FREIZEIT | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+  neubau_bauzeit: 1960-1963
+  architekt: Anton Lips (Hugstetter Architekt)
+  altarausstattung: neuzeitlich, enthält wiederverwendete Relikte aus ehemaliger St.-Gallus-Kirche
+  fenster: hochformatige Fenster mit Motiven aus jüdischer Bibel in Bleiverglasung, geschaffen vom Kirchenkünstler und Maler Wilfrid Perraudin (lebte bis Anfang 1990er Jahre in Freiburg)
+  orgel: 1978 geweiht, Freiburger Orgelbau Hartwig und Tilmann Späth, zwei Manuale, Pedal, 25 klingende Register
+  glockengelaet: vierstimmig (e' – fis' – gis' – h'), 1965 gegossen von F. W. Schilling Heidelberg
+  status_2023: am 6. Dezember 2023 geschlossen, Einsturzgefahr beim Kirchendach festgestellt
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 65-march/022
+ENTITÄT: pfarrhaus
+BEZEICHNUNG: Hugstetter Pfarrhaus
+ORTSTEIL_BEZUG: Hugstetten
+FACETTE: KULTUR | FREIZEIT | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1777
+  erbauer: Johann Baptist Häring (Freiburger Stadtbaumeister)
+  architektur: barock
+  ankauf_durch_gemeinde: 1984
+  aktuelle_nutzung: Rathaus II der Gemeindeverwaltung, beherbergt Grundbuchamt von March und Trauzimmer des Standesamtes
+GUELTIG_AB: 1777
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 65-march/023
+ENTITÄT: kapelle
+BEZEICHNUNG: Hugstetter Dreifaltigkeitskapelle
+ORTSTEIL_BEZUG: Hugstetten
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: am alten Weg nach Hochdorf, nahe alte herrschaftliche Schlossmühle
+  besonderheit: benannt nach dem Andlau-Wappen (ursprünglicher Standort bei heutigem Gasthaus Zum Roten Kreuz)
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 65-march/024
+ENTITÄT: kirche
+BEZEICHNUNG: St. Vincentiuskirche Neuershausen
+ORTSTEIL_BEZUG: Neuershausen
+FACETTE: KULTUR | FREIZEIT | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+  fertigstellung: 1765
+  urspruengliches_aussehen: mit Zwiebelturm gekrönt
+  schaeden: Zwiebelturm 1787 wegen Baufälligkeit abgetragen, durch Turmhaube mit Laterne ersetzt
+  renovation: Anfang 1970er Jahre von außen und innen renoviert, unter Beteiligung von Josef Henger (Bildhauer aus Ravensburg) und Michael Bauernfeind (Restaurator aus Freiburg)
+GUELTIG_AB: 1765
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 65-march/025
+ENTITÄT: pfarrhaus
+BEZEICHNUNG: Neuershauser Pfarrhaus
+ORTSTEIL_BEZUG: Neuershausen
+FACETTE: KULTUR | FREIZEIT | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1749
+  bauführer_kirchenneu: Johann Martin Vonderlew aus Bregenz, beteiligt auch am Pfarrhaus-Bau
+GUELTIG_AB: 1749
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 65-march/026
+ENTITÄT: kapelle
+BEZEICHNUNG: Dreifaltigkeitskapelle Neuershausen
+ORTSTEIL_BEZUG: Neuershausen
+FACETTE: KULTUR | FREIZEIT | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: an Verbindungsstraße nach Holzhausen
+  vorlaeufer: bereits im 17. Jahrhundert Kapellenbau vorhanden
+  bauzeit: um 1780
+  bauherr: Franz Brunner (Neuershauser Chirurg)
+  ausstattung: Altargemälde mit Kopie des berühmten Dreifaltigkeitsbildes von Raffael
+GUELTIG_AB: 1780
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 65-march/027
+ENTITÄT: schloss
+BEZEICHNUNG: Altes Schloss Hugstetten
+ORTSTEIL_BEZUG: Hugstetten
+FACETTE: KULTUR | FREIZEIT | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: um 1670
+  lage: gegenüber heutigem Bauhof
+  bauherr: Familie Konrad Stürtzel von Buchheim (Ortsherrschaft)
+  urspruengliche_nutzung: Wohnhaus
+  spaetere_nutzung: lange Jahre als Verwaltungsgebäude des Hugstetter Schlosses
+  mutmassung: am Standort des heutigen Schlosses stand vermutlich die ältere Burg Hugstetten
+GUELTIG_AB: 1670
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 65-march/028
+ENTITÄT: schloss
+BEZEICHNUNG: Hugstetter Schloss
+ORTSTEIL_BEZUG: Hugstetten
+FACETTE: KULTUR | FREIZEIT | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: um 1805
+  architektur: dreigeschossiger klassizistischer Putzbau mit sieben Fensterachsen
+  anbau: 1907
+  erbauer_hinweis: Wappen über Giebelfeld der Hofseite zeigt Conrad Karl Friedrich von Andlau-Birseck (späterer großherzoglich-badischer Staatsminister)
+  park_bauzeit: 1820-1830
+  park_stil: englischer Garten
+  park_anleger: Conrad von Andlau
+  park_bedeutung: im 19. Jahrhundert so bekannt, dass Felix Mendelssohn Bartholdy 1837 während Aufenthalt in Freiburg ihn besuchte
+  park_zugaenglichkeit: teilweise der Öffentlichkeit zugänglich
+  schloss_besichtigung: nicht zu besichtigen
+  schloss_besitzer: Freiherren von Mentzingen (über Erbfolge)
+  schlossareal_bestandteile: "Belvedere" Aussichtsturm, Gutshof (heutiger Bauhof), Grundstück ehemalige katholische Kirche, Park, Teehäuschen, Antonius-Statue am Fuß der Anhöhe, Gärtnerhaus, Schloss-Mühle von 1790 (zeitweise Gasthaus), Brennhaus mit Staffelgiebel von 1855, Brücke über Mühlgraben zur Insel
+  besonderheit_gaertnerhaus: einer der Drehorte des Films "Jesus liebt mich" von 2012
+GUELTIG_AB: 1805
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 65-march/029
+ENTITÄT: aussichtspunkt
+BEZEICHNUNG: Belvedere
+ORTSTEIL_BEZUG: Hugstetten
+FACETTE: FREIZEIT
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  lage: im Schlosspark Hugstetter Schloss
+  art: Aussichtsturm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 65-march/030
+ENTITÄT: schloss
+BEZEICHNUNG: Buchheimer Schloss
+ORTSTEIL_BEZUG: Buchheim
+FACETTE: KULTUR | FREIZEIT | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  hauptgebaeude_bauzeit: 18. Jahrhundert
+  wirtschaftshof_bauzeit: 16. und 18. Jahrhundert
+  besonderheit_keller: im Keller des ursprünglichen Wirtschaftshauses entlang der Schlossstraße befand sich in 1960er Jahren historisches Verlies
+  urspruengliche_bestandteile: Mühle (später abgetrennt), Gärtnerei im Norden (später verkauft), einzelne Grundstücke für Wohnhäuser
+  herrschaftssitz_bis_1790: Sitz der Ortsherrschaft der Stürtzel von Buchheim
+  herrschaftssitz_1790_bis_sp: Freiherren von Schackmin bis zu deren Umzug nach Hugstetten
+  eigentuemer_1921: Tochter eines Basler Baumwollhändlers kaufte das Schloss
+  eigentuemer_1986: nach Tod der Eigentümerin 1986 Areal aufgeteilt, Hauptgebäude und Gärtnerhaus an jetzige Eigentümer verkauft
+  besonderheit_grundstein: Sockelstein mit Jahreszahl 1595 auf Westseite des Hauptgebäudes deutet auf Vorgängerbau hin
+  besonderheit_taufstein: bei Pflanzarbeiten in 1960er Jahren großer achteckiger Taufstein aus Sandstein gefunden, viele Jahre als Pflanzbeet den Hauszugang schmückend
+  spekulation_taufstein: Vermutung, ob an dieser Stelle mal ein Kloster gestanden haben könnte
+  besonderheit_fenster: zwei Bruchstücke einer Fensterumrahmung aus Sandstein, viele Jahre Brücke zum Hauszugang schmückend
+  besonderheit_weiher: Teich mit kleiner Insel "Weiher" genannt, wo sich Buchheimer Jugend im Winter beim Schlittschuhlaufen traf
+  privatbesitz: nicht öffentlich zugänglich
+GUELTIG_AB: 1595
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 65-march/031
+ENTITÄT: schloss
+BEZEICHNUNG: Holzhauser Schloss
+ORTSTEIL_BEZUG: Holzhausen
+FACETTE: KULTUR | FREIZEIT | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1756
+  bauherr_anlass: kurz nach dem Schloss-Brand der Familie von Harsch in Reute als Ersatz-Sitz errichtet
+  eigentuemer_1874: Carl von Harsch (letzter Nachkomme) kinderlos gestorben, Schloss ging an ehemaligen Gutsverwalter und späteren Bürgermeister Ferdinand Köllinger
+  eigentuemer_aktuell: Nachkommen Köllingers, die das Schloss noch heute besitzen und bewohnen
+  architektur: relativ bescheidenes Herrenhaus
+  schadensfall: 1962 wegen Baufälligkeit abgebrochen
+  wiederaufbau: in alten Formen und Proportionen erneut aufgebaut
+GUELTIG_AB: 1756
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 65-march/032
+ENTITÄT: schloss
+BEZEICHNUNG: Neuershauser Schloss
+ORTSTEIL_BEZUG: Neuershausen
+FACETTE: KULTUR | FREIZEIT | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  fertigstellung: 1783
+  superlativ: "das stattlichstes und eindrucksvollstes Herrenhaus des Breisgaus in der Ebene" vor Freiburg zur damaligen Zeit
+  architektur_einfluss: weitestgehend nach französischen Vorbildern gestaltet
+  ausstattung: schön angelegter Park mit Schlossweiher
+  bauherrin: Gräfin Elisabeth von Schauenburg-Hennin
+  eigentuemer_aktuell: Familie Marschall von Bieberstein
+GUELTIG_AB: 1783
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 65-march/033
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum
+ORTSTEIL_BEZUG: Hugstetten
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  eroffnung: 27. Mai 1988
+  traegerschaft: Heimatverein March e. V.
+  lage: vier Gebäude Am Felsenkeller in Hugstetten
+  gebaeude_1_name: alte Pfarrscheune
+  gebaeude_1_inhalt: alte Geräte aus Landwirtschaft und Handwerk
+  gebaeude_2_name: Brennhaus (ehemaliges Waschhaus des Pfarrhauses)
+  gebaeude_2_inhalt: Brenngeschirr und Keltergeräte
+  gebaeude_3_name: Backhaus (ehemaliges Waschhaus des Schlosses)
+  gebaeude_3_inhalt: Küche eingerichtet mit großem Holzofen zum Brotbacken
+  gebaeude_4_name: Rathaus II (altes Pfarrhaus)
+  gebaeude_4_inhalt: Ausstellungsraum, im Treppenhaus alte Gegenstände und Marcher Tracht
+  tracht_info: wird seit einigen Jahren wieder von Heimatverein-Mitgliedern an Festtagen getragen
+  oeffnungszeiten: April bis Oktober, erster Sonntag im Monat von 14 bis 18 Uhr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 65-march/034
+ENTITÄT: museum
+BEZEICHNUNG: Gerspachs Ofenmuseum
+ORTSTEIL_BEZUG: Hugstetten
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Industriestraße, wenige Schritte vom Bahnhof entfernt
+  bestand: über 300 historische Öfen, darunter seltene Sammlerstücke
+  besonderheit: auf Wunsch Führungen mit badischem Bauernvesper möglich (telefonische Anmeldung erforderlich)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 65-march/035
+ENTITÄT: sternwarte
+BEZEICHNUNG: Sternwarte March
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  eroffnung: 2. Mai 2008
+  lage: auf Marchhügel zwischen Buchheim und Holzhausen
+  betreiber: Volkshochschule March
+  charakterisierung: einzige Sternwarte im Rheintal zwischen Karlsruhe und Basel
+  angebote: Beobachtungsabende immer am zweiten Dienstag im Monat
+  themenweg: Marcher Planetenweg beginnt vom Observatorium aus, erläutert das Sonnensystem mit seinen acht Planeten
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 65-march/036
+ENTITÄT: markt
+BEZEICHNUNG: Marcher Wochenmarkt
+ORTSTEIL_BEZUG: Buchheim
+FACETTE: WIRTSCHAFT | ALLTAG | FREIZEIT
+QUELLE: https://www.march.de/de/Erholung-Genuss/Marcher-Wochenmarkt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Sportplatzstraße 14, Ortsteil Buchheim
+  oeffnungszeiten: Jeden Freitag, ausgenommen Feiertage, von 13.30 bis 17.30 Uhr
+  angebot: regionale und saisonale Ware von Beschickern aus March und Umgebung
+  produkte: frisches Obst, Gemüse, Kräuter, Eier, Wurstspezialitäten, Milch- und Käseprodukte, Antipasti, Imkereiprodukte, Backwaren, alkoholfreie Getränke, Smoothies, Kaffeespezialitäten, Marktwurst, Pommes, Süßwaren, selbstgebrautes Bier
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 65-march/037
+ENTITÄT: wanderweg
+BEZEICHNUNG: Burgunderpfad
+FACETTE: FREIZEIT
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  laenge: 26.5 km
+  charakterisierung: Fernwanderweg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 65-march/038
+ENTITÄT: wanderweg
+BEZEICHNUNG: Dreisamniederungspfad
+FACETTE: FREIZEIT
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  charakterisierung: Themenweg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 65-march/039
+ENTITÄT: marcher_planetenweg
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Themenweg, erläutert das Sonnensystem mit seinen acht Planeten
+  startpunkt: vom Observatorium der Sternwarte March
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 65-march/040
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Neuershausener Mooswald
+ORTSTEIL_BEZUG: Neuershausen
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  status_seit: 1979
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 65-march/041
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Mühlmatten
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  status_seit: 1998
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 65-march/042
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Hugstetten
+ORTSTEIL_BEZUG: Hugstetten
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  eroffnung: 1871
+  strecke: Breisacher Bahn (Breisgau-S-Bahn)
+  haltepunkt_kategorie: Preiskategorie 6
+  elektrifizierung_ab: 15. Dezember 2019 (Strecke Freiburg-Gottenheim)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 65-march/043
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bundesautobahn 5
+FACETTE: INFRA | LAGE
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  strecke: Frankfurt am Main – Basel
+  bauzeit: 1960-1962
+  verlauf_durch_march: 0.7 km
+  anschlussstellen_zu_march: Anschlussstelle Freiburg-Nord (via L 187, 1.5 km bis OT-Holzhausen), Anschlussstelle Freiburg-Mitte (via B 31a und L 116, 3.5 km bis OT-Hugstetten), Anschlussstelle Nimburg-Teningen (via L 114 und L 116, 7.0 km bis OT-Neuershausen)
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 65-march/044
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Breisacher Bahn
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: Freiburg – Gottenheim – Breisach
+  verlauf_durch_march: 3.5 km
+  elektrifizierung_freiburg_gottenheim: 1. Februar bis Ende November 2019 elektrifiziert, in Betrieb seit 15. Dezember 2019
+  elektrifizierung_gottenheim_breisach: elektrifiziert Februar 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 65-march/045
+ENTITÄT: ereignis
+BEZEICHNUNG: Zugunglück von Hugstetten
+ORTSTEIL_BEZUG: Hugstetten
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  datum: 3. September 1882
+  lage: Mooswald nahe Hugstetten (heute Tierhygienisches Institut)
+  zug: Sonderzug Freiburg – Colmar
+  beschreibung: Zug sprang aus den Schienen
+  todesopfer: 69 Tote
+  verletzte: über 200
+  bedeutung: schwerste und folgenreichste Eisenbahnunglück im Deutschen Reich, behielt diesen Titel bis zur Kollision zweier D-Züge im Bahnhof Genthin am 21. Dezember 1939 mit damals ca. 180 Todesopfern
+  bedeutung_fuer_ort: gemeinde erlangte damit traurige Berühmtheit
+GUELTIG_AB: 1882
+GUELTIG_BIS: 1882
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 65-march/046
+ENTITÄT: ereignis
+BEZEICHNUNG: Brandanschlag auf Asylheim
+ORTSTEIL_BEZUG: Neuershausen
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  datum: November 1991
+  ziel: Asylheim in March-Neuershausen
+  art: Brandanschlag
+GUELTIG_AB: 1991
+GUELTIG_BIS: 1991
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 65-march/047
+ENTITÄT: beamte
+BEZEICHNUNG: Konrad Stürtzel
+FACETTE: GESCHICHTE | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1435-1509
+  position: Rektor der Freiburger Universität
+  herrschaft_ab: ab 1491 Ortsherr in den Marchorten
+  aktion: 1500 um Wohnhaus "Basler Hof" in Freiburg erbaut, heute Sitz des Regierungspräsidenten
+  bedeutung_fuer_march: Namensgeber der "Konrad-Stürtzel-Straße" in Buchheim
+  besonderheit: um 1506 stiftete er die Pfarrei "St. Pankratius" in Holzhausen
+GUELTIG_AB: 1491
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 65-march/048
+ENTITÄT: grabhügel
+BEZEICHNUNG: Bürgle
+ORTSTEIL_BEZUG: Buchheim
+FACETTE: GESCHICHTE | LAGE
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  zeitalter: jüngere Steinzeit oder Hallstatt-Periode
+  zeitalter_hallstatt: 800-450 v. Chr.
+  beschreibung: Überrest einer ganzen Gruppe von Grabhügeln
+  durchmesser: 120 Meter
+  superlativ: größter Grabhügel im sog. Westhallstattkreis
+  hoehe_heute: knapp 4 Meter aus der Ebene
+GUELTIG_AB: -800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 65-march/049
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Helmut Mursa
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  amtsbeginn: 30. März 2015
+  wahl: 25. Januar 2015, im Alter von 34 Jahren, im ersten Wahlgang gewählt
+  bestaetigung: 29. Januar 2023 im ersten Wahlgang im Amt bestätigt
+  partei: parteilos
+  kreistag: Mitglied der christdemokratischen Fraktion des Kreistags des Landkreises Breisgau-Hochschwarzwald, Vertreter des Wahlkreis 4 March seit 26. Mai 2019
+  beruf_vorher: Rechtsanwalt in großem Unternehmen im Bereich Geld- und Werttransport mit Sitz in Schallstadt
+  geburtsort: Mosbach (Nordbaden)
+  ausbildung: Abitur, Grundwehrdienst, Rechtswissenschaften-Studium, Referendariat beim Regierungspräsidium Freiburg
+  familie: verheiratet, fünf Kinder, lebt im Ortsteil Buchheim
+  positionen_davor: Amtsverweser 1973-1974 (Herbert Doll), Bürgermeister 1974-1982 (Rudolf Sontheimer), Bürgermeister 1982-2015 (Josef Hügele)
+  bedeutung_fuer_ort: erst der dritte Bürgermeister, aber das vierte Gemeindeoberhaupt der Gemeinde March
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 65-march/050
+ENTITÄT: wuestung
+BEZEICHNUNG: Wüstung Buchsweiler
+ORTSTEIL_BEZUG: Holzhausen
+FACETTE: GESCHICHTE
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  lage: nördlich von Holzhausen, Gewann Oberer Kapellenacker
+  zeit: Spätmittelalter abgegangen
+  funde: römische Ziegelreste und römische Münzen gefunden
+  vermutung: Siedlung geht wahrscheinlich bis in die Römerzeit zurück
+  kirche_frueheres: im Mittelalter Kirche, im 17. Jahrhundert Bruderhaus mit Kapelle, beide spätestens um 1800 abgerissen
+GUELTIG_AB: 1200
+GUELTIG_BIS: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 65-march/051
+ENTITÄT: wuestung
+BEZEICHNUNG: Hagenbuch
+ORTSTEIL_BEZUG: Hugstetten
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/March_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: westlich von Hugstetten, Gewann Steinacker/Hagenbuch
+  zeit: Spätmittelalter abgegangen
+GUELTIG_AB: 1200
+GUELTIG_BIS: 1500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 65-march/052
+ENTITÄT: handwerk_oder_gewerbe
+BEZEICHNUNG: Brauerei Hirtler
+FACETTE: WIRTSCHAFT | ALLTAG
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  beschreibung: Charakteristikum der Gemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 65-march/053
+ENTITÄT: gewerbegebiet
+BEZEICHNUNG: Gewerbegebiet March-Holzhausen
+ORTSTEIL_BEZUG: Holzhausen
+FACETTE: WIRTSCHAFT | INFRA
+QUELLE: https://www.march.de/de/Wirtschaft/Gewerbeflaechen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  groesse: ca. 9 ha Gewerbeflächen
+  lage: südlich des Ortsteils Holzhausen in unmittelbarer Nähe zur Bundesautobahn BAB 5
+  besonderheit: Fläche schließt nicht unmittelbar an bestehende Bebauung an, sondern lässt ca. 100 m Abstand
+  umgebung: von landwirtschaftlicher Fläche umgeben
+  erschliessung_west: Anbindung an bestehende Benzhauser Straße
+  entfernung_autobahn: ca. 50-100 m Abstand zur Autobahn im Osten
+  planung_konflikt: Konflikt mit Bundesvorhaben für Tank- und Rastanlage auf Großteil der Fläche
+  status: Erschließung und Verkauf derzeit nicht weiter betrieben
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85

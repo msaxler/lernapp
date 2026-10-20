@@ -1,0 +1,543 @@
+ID: 465-merdingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Merdingen
+FACETTE: LAGE | GESCHICHTE | ALLTAG | FREIZEIT | INFRA | POLITIK
+QUELLE: https://www.merdingen.de/gemeinde+_+info/gemeindeportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  landkreis: Breisgau-Hochschwarzwald
+  bundesland: Baden-Württemberg
+  lage: westliche Steilkante des Tunibergs
+  hoehenlage_von: 189 m
+  hoehenlage_bis: 292 m
+  hoehenlage_mittel: 208 m
+  klima: mild
+  bodentyp: Lössböden
+  landnutzung: Weinanbau, Obst- und Spargelanbau
+  rebflaeche_ha: 250
+  gemarkungsflaeche_ha: 1440
+  beschreibung: "Dorf voller Geschichte und Traditionen"
+  wettbewerb_unser_dorf_soll_schoener_werden: Goldmedaille Land Baden-Württemberg 1989, Goldmedaille Bundesrepublik Deutschland 1989
+  besonderheit_ausblick: Schwarzwald und Vogesen
+  groesste_weinanbaugemeinde_am_tuniberg: true
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 465-merdingen/002
+ENTITÄT: ort
+BEZEICHNUNG: Merdingen
+FACETTE: GESCHICHTE
+QUELLE: https://www.merdingen.de/gemeinde+_+info/geschichte+_+tradition/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter_siedlung: unter den ältesten Siedlungen des Breisgaus
+  besiedlung_kelten: vermutlich besiedelt
+  roemer_gutshoefen: ab 1. Jahrhundert n. Chr., Obst- und Gemüseanbau
+  roemer_badegebaude: nachgewiesen nördlich von Merdingen Richtung Wasenweiler
+  alemannische_gruendung: 5. oder 6. Jahrhundert
+  reihengräber: auf Fluren Schönberg, Hütstel, auf der Gans, Emletweg
+  erste_urkundliche_erwaehnung: 1139, päpstliche Bulle für Fürstbistum Basel
+  weitere_urkundliche_erwaehnung: 1137 und 1154 im Rahmen Güterschenkung Kloster St. Peter
+  ortsherrschaft_kageneck_ab: 1666 (ein Drittel)
+  ortsherrschaft_deutscher_orden_ab: 1716 (zwei Drittel, nach Verkauf durch Freiherren von Wessenberg)
+  verwuestung_dreissigjähriger_krieg: ja, mehrfach gebrandschatzt
+  verwuestung_franzoesische_feldzuege: 16. und 17. Jahrhundert
+  wiederaufbau_beginn: zweite Hälfte 17. Jahrhundert
+  wirtschaftliche_erholung: 18. Jahrhundert
+  beschreibung_1754: "eins von den grösten Dörffern in Breysgau"
+  bluetezeit: 18. Jahrhundert
+GUELTIG_AB: 1139
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 465-merdingen/003
+ENTITÄT: kirche
+BEZEICHNUNG: St. Remigius
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://www.merdingen.de/freizeit+_+tourismus/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stil: spätbarock
+  baumeister: Johann Caspar Bagnato (Deutschordensbaumeis)
+  bauzeit: 1738-1741
+  stuck: Francesco Pozzi
+  altar_kanzel: Joseph Anton Feuchtmayer
+  deckenfresken_altarblaetter: Franz Joseph Spiegler
+  immaculata_skulptur: Johann Christian Wentzinger
+  denkmalschutz: ja
+  denkmal_des_monats: Juli 2006 (Denkmalstiftung Baden-Württemberg)
+  innenausstattung: zu den schönsten Barockkirchen Südbadens gehörig
+  orgel_figuren_schnitzereien: ja, mit Weinthema
+  bedeutung_fuer_ort: sichtbares Zeichen wirtschaftlicher erfolgreicher Politik des Deutschen Ordens, Wahrzeichen
+  superlativ: zu den schönsten Barockkirchen Südbadens gehörig
+GUELTIG_AB: 1738
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 465-merdingen/004
+ENTITÄT: pfarrhaus
+BEZEICHNUNG: Pfarrhaus St. Remigius
+FACETTE: GESCHICHTE
+QUELLE: https://www.merdingen.de/freizeit+_+tourismus/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baumeister: Johann Caspar Bagnato
+  erbaut: 1754
+GUELTIG_AB: 1754
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 465-merdingen/005
+ENTITÄT: brunnen
+BEZEICHNUNG: Stockbrunnen
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://www.merdingen.de/freizeit+_+tourismus/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stil: barock
+  errichtet: 1739
+  baukosten_traeger: Gemeinde
+  beschreibung: mit Masken von Quellgeistern und zwei wasserspeienden Röhren
+  form: achteckiges Brunnenbecken
+  dekoration: einfache Barockornamenten
+  urspruengliche_ausstattung: aufgesetzte Kugel
+  verlosung_1756: Wendelinusstatue von Johann Baptist Sellinger
+  steinplatten_herkunft: Andreas Natter (Vorarlberg)
+  beziehung_zum_ort_geschichte: Zeugnis bäuerliche und gewerbliche Vergangenheit
+  bacchusmotiv: ja
+GUELTIG_AB: 1739
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 465-merdingen/006
+ENTITÄT: scheuer
+BEZEICHNUNG: Zehntscheuer
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://www.merdingen.de/freizeit+_+tourismus/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter: ca. 300 Jahre alt
+  eigentuemer_ursprung: Deutscher Orden
+  urspruenglicher_zweck: Sammlung und Lagerung von Zehntabgaben
+  bautyp: Ökonomiegebäude
+  umbau_19_20_jh: ja, verschiedene Zwecke
+  restaurierung_umgestaltung: Gemeinde-, Fest- und Kulturscheune
+  erstmalige_nutzung_nach_restaurierung: 16.-19. Mai 1988 Internationaler Kongress "Das Dorf im Wandel"
+  aktuelle_nutzung: Festlichkeiten Merdinger Vereine und Gemeinde
+  zugehoeriges_gebaeude: Zehnthof
+GUELTIG_AB: 1700
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 465-merdingen/007
+ENTITÄT: fachwerkhaus
+BEZEICHNUNG: Haus Saladin
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://www.merdingen.de/freizeit+_+tourismus/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Langgasse 21
+  erbaut: 1666
+  baumeister: Michael Kohler (Vorarlberg)
+  baustoff_fachwerk: Eichholz
+  holzbauweise: fraenkisch
+  besonderheit_holz: Eichholz selten am Tuniberg
+  merkmale: reich verzierte Brüstungsverstrebungen, schöner Erker mit geschnittenen Eckpfosten
+  dachschutz: zwei vorkragende Holzdächlein am rückwärtigen Giebel
+  rang: zu den schönsten und bekanntesten Fachwerkhäusern am Tuniberg zählend
+  initialen_baumeister: M.K.
+GUELTIG_AB: 1666
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 465-merdingen/008
+ENTITÄT: weinpressen_schopf
+BEZEICHNUNG: Trottschopf
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.merdingen.de/freizeit+_+tourismus/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtet: 1984
+  lage: Ecke Sellingerstraße / Löschgraben
+  vorgaenger: ehemalige Zigarrenfabrik
+  inhalt: Baumtrotte mit Pressbaum und Spindel, altes Fass
+  bedeutung: Erinnerung an ehemalige Keltermethoden heimischen Weinbaus
+  beschreibung: offener Schopf
+GUELTIG_AB: 1984
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 465-merdingen/009
+ENTITÄT: roemer_bad
+BEZEICHNUNG: Römerbad
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://www.merdingen.de/freizeit+_+tourismus/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: nördlich von Merdingen, nahe dem Wald, Richtung Wasenweiler
+  zeitperiode: 1. Jahrhundert n. Chr.
+  kontext: Teil der Merdinger "Villa", römischer Gutshof mit mehreren Gebäuden
+  gebaeudekomplex_teile: Bad, Wohnhaus, Speicher
+  erstuebersicht_vorkriegszeit: teilweise aufgedeckt, fehlinterpretiert als Wohnbau
+  archaeologische_untersuchung: 1977 und 1978, Grundriss freigelegt
+  schutzeinrichtung_ab: 1981 schützende Dachkonstruktion über Mauern und Böden
+  verbleib_wohnhaus_speicher: nur noch flache Erhebungen im Gelände
+  verbleib_bad: noch sichtbar
+GUELTIG_AB: 100
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 465-merdingen/010
+ENTITÄT: fest
+BEZEICHNUNG: Merdinger Fasnet
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://www.merdingen.de/freizeit+_+tourismus/merdinger+fasnet | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristikum: ja
+  tradition_seit: mindestens Mitte 19. Jahrhundert
+  bekanntheitsgrad: regional bekannt
+  groesster_umzug: Großer Fasnetsumzug mit rund 100 Gruppen
+  bedeutung_fuer_ort: Veranstaltungshighlight im Jahr, regional bekannt
+GUELTIG_AB: 1850
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 465-merdingen/011
+ENTITÄT: verein
+BEZEICHNUNG: Zwulcher Narrenzunft Merdingen e.V.
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://www.merdingen.de/freizeit+_+tourismus/merdinger+fasnet | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 11. März 1975
+  funktion: vertritt Merdingen während der Närrischen Zeit, hält Brauch aufrecht
+  verbandsaufnahme_gast: 2. / 3. Oktober 1982 beim Konvent Schonach in Oberreihnischer Narrenzünfte e.V.
+  verbandsaufnahme_vollmitglied: 28. / 29. September 1985 beim Konvent Rheinfelden
+GUELTIG_AB: 1975
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 465-merdingen/012
+ENTITÄT: tradition
+BEZEICHNUNG: Rekruten (Fasnet)
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://www.merdingen.de/freizeit+_+tourismus/merdinger+fasnet | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  altersgruppe: Jahrgang, der im Fasnetsjahr 20 Jahre alt wird
+  status: Rekrüdde
+  zeremonie_eroeffnung: traditionelle Schlüsselübergabe am Schmutzigen Donnerstag
+  privileg: erhalten Macht über das Rathaus
+  aufgaben: leiten gemeinsam mit Narrenzunft durch die Fasnet, vertreten an allen Veranstaltungen
+  bedeutung: Highlight für viele Merdinger Jugendliche
+GUELTIG_AB: 1800
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 465-merdingen/013
+ENTITÄT: fest
+BEZEICHNUNG: Gassenweinfest
+FACETTE: FREIZEIT | KULTUR | ALLTAG
+QUELLE: https://www.merdingen.de/freizeit+_+tourismus/weinbau+_+weinfest/gassenweinfest | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristikum: ja
+  rhythmus: alle zwei Jahre
+  ort: denkmalgeschützter Ortskern
+  organisation: Vereine und Gemeinde
+  angebot: Weinsortiment, kulinarisches Angebot, Festprogramm
+  dauer_naechste_veranstaltung: 2027
+GUELTIG_AB: 1800
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 465-merdingen/014
+ENTITÄT: weinanbau
+FACETTE: ALLTAG | WIRTSCHAFT
+QUELLE: https://www.merdingen.de/freizeit+_+tourismus/weinbau+_+weinfest | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristikum: ja
+  rebflaeche_ha: 250
+  rebflaeche_prozent_gemarkung: ca. 20 %
+  lage_region: Rheinebene, Westrand Tuniberg
+  bodentyp: kalkhaltigen Lössböden
+  klima_besonderheit: mildes Klima in Mitte der Rheinebene
+  besonderheit_weine: einzigartige Weine möglich
+  history_erste_belege: 1261
+  history_preisfestsetzung: mittelalter
+  history_zahlung_kuenstler: mit Wein
+  bedeutung_kultur: zentrale Bestandteile Merdinger Kultur, Themen Fasnet und Kunst
+  bedeutung_gebaeude: Stockbrunnen mit Bacchusmotiven, Barockkirche mit Orgel-Figuren und Schnitzereien
+  bedeutung_winzerhoefte: zahlreiche historische Winzerhöfe im denkmalgeschützten Ortskern
+  geschichtliche_verbundenheit: seit jeher mit Weinanbau verbunden
+GUELTIG_AB: 1261
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 465-merdingen/015
+ENTITÄT: berg
+BEZEICHNUNG: Tuniberg
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://www.merdingen.de/freizeit+_+tourismus/weinbau+_+weinfest | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristikum: ja
+  form: flacher Bergrücken
+  hoehenlage_bis: 120 m
+  vergleich: "Insel" in Rheinebene, "kleiner Bruder des Kaiserstuhls", "Weingarten von Freiburg"
+  rebflaeche_ha: 1063
+  superlativ: kleinstes Weinanbaugebiet Badens
+  geologie: Lössböden
+  flora: Wälder mit botanischen Besonderheiten
+  aktivitaeten: Wandern auf gepflegten Wegen
+GUELTIG_AB: 2026
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 465-merdingen/016
+ENTITÄT: gewerbeausstellung
+BEZEICHNUNG: Merdinger Gewerbeausstellung (MeGa)
+FACETTE: WIRTSCHAFT | FREIZEIT
+QUELLE: https://www.merdingen.de/wirtschaft+_+bauen/gewerbeverein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  initiator: Gewerbeverein Merdingen e.V.
+  rhythmus: alle 5 Jahre
+  zweck: Repräsentation zugehöriger Firmen in Merdingen und Region
+GUELTIG_AB: 1970
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 465-merdingen/017
+ENTITÄT: gewerbeverein
+BEZEICHNUNG: Merdinger Gewerbeverein e.V.
+FACETTE: WIRTSCHAFT
+QUELLE: https://www.merdingen.de/wirtschaft+_+bauen/gewerbeverein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1959
+  mitglieder: knapp 70 Firmen
+  bereiche: Handwerk, Handel, andere Gewerbebereiche
+  funktion: vertritt die Gewerbetreibenden
+GUELTIG_AB: 1959
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 465-merdingen/018
+ENTITÄT: radfernweg
+BEZEICHNUNG: Badischer Weinradweg
+FACETTE: FREIZEIT | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Merdingen | Wikipedia
+EIGENSCHAFTEN:
+  charakteristikum: ja
+  kategorie: Landes-Radfernweg
+  verlauf_von: Grenzach-Wyhlen (Hochrhein)
+  verlauf_bis: Laudenbach (Norden Baden-Württembergs)
+  varianten_ab: Schallstadt zwei Varianten
+  varianten_detail: eine über Munzingen, Niederrimsingen, an Merdingen vorbei, nach Ihringen
+  verbindung_kaiserstuhl: über Kaiserstuhl nach Sasbach
+GUELTIG_AB: 2026
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 465-merdingen/019
+ENTITÄT: radweg
+BEZEICHNUNG: Tuniberghöhenweg
+FACETTE: FREIZEIT | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Merdingen | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: von Gottenheim nach Munzingen und Niederrimsingen
+GUELTIG_AB: 2026
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 465-merdingen/020
+ENTITÄT: radweg
+BEZEICHNUNG: Kaiserstuhlradweg
+FACETTE: FREIZEIT | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Merdingen | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: rund um den Kaiserstuhl
+  verbindungen: Merdingen mit Ihringen und Gottenheim
+GUELTIG_AB: 2026
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 465-merdingen/021
+ENTITÄT: radweg
+BEZEICHNUNG: Breisgau-Radweg
+FACETTE: FREIZEIT | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Merdingen | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: von Breisach nach Herbolzheim
+GUELTIG_AB: 2026
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 465-merdingen/022
+ENTITÄT: radweg
+BEZEICHNUNG: Europäischer Radwanderweg
+FACETTE: FREIZEIT | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Merdingen | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: von Freiburg nach Colmar
+GUELTIG_AB: 2026
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 465-merdingen/023
+ENTITÄT: radweg
+BEZEICHNUNG: Radweg Tunibergsattel
+FACETTE: FREIZEIT | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Merdingen | Wikipedia
+EIGENSCHAFTEN:
+  erweiterung: August 2024
+  verlauf_neu: bis zum Tunibergsattel über Tuniberg nach Waltershofen
+GUELTIG_AB: 2024
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 465-merdingen/024
+ENTITÄT: burgermeister
+BEZEICHNUNG: Martin Rupp
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Merdingen | Wikipedia
+EIGENSCHAFTEN:
+  amtsantritt: 2014
+  parteizugehoerigkeit: parteilos
+  wiederwahl_2022: 23. Januar 2022
+  wiederwahl_stimmenanteil: 90,57 %
+GUELTIG_AB: 2014
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 465-merdingen/025
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Sainte-Croix-en-Plaine
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Merdingen | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: Elsass
+  lage: sieben Kilometer südlich von Colmar
+  charakteristikum: ja
+GUELTIG_AB: 2026
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 465-merdingen/026
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Jan Ullrich
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Merdingen | Wikipedia
+EIGENSCHAFTEN:
+  geboren: 1973
+  beruf: deutscher Radrennfahrer
+  wohnort_merdingen: 1994-2002, seit 2019
+  ehre: Straße nach ihm benannt
+GUELTIG_AB: 1973
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 465-merdingen/027
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hermann Brommer
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Merdingen | Wikipedia
+EIGENSCHAFTEN:
+  geboren: 1926
+  gestorben: 2012
+  berufe: Lehrer, Kunsthistoriker
+  tätigkeit_merdingen: unterrichtete 1956 bis 1980 in Merdingen
+GUELTIG_AB: 1926
+GUELTIG_BIS: 2012
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 465-merdingen/028
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Anton Gillmann
+FACETTE: KULTUR | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Merdingen | Wikipedia
+EIGENSCHAFTEN:
+  geboren: 1904
+  gestorben: 1967
+  berufe: Landwirt, Politiker (CDU)
+  herkunft: in Merdingen geboren
+GUELTIG_AB: 1904
+GUELTIG_BIS: 1967
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 465-merdingen/029
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Christian Wentzinger
+FACETTE: KULTUR
+QUELLE: https://www.merdingen.de/freizeit+_+tourismus/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Bildhauer (Barock)
+  werk: Immaculata-Skulptur über Hauptportal Pfarrkirche St. Remigius
+  beziehung_merdingen: Verwandtschaft in Merdingen
+GUELTIG_AB: 1700
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 465-merdingen/030
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Baptist Sellinger
+FACETTE: KULTUR
+QUELLE: https://www.merdingen.de/freizeit+_+tourismus/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Bildhauer (Barock)
+  werk: Wendelinusstatue auf Stockbrunnen (1756)
+  geburtsort: Gasthaus zur Sonne in Merdingen
+GUELTIG_AB: 1700
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 465-merdingen/031
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Kaspar Bagnato
+FACETTE: KULTUR
+QUELLE: https://www.merdingen.de/freizeit+_+tourismus/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Deutschordensbaumeister
+  werke: Pfarrkirche St. Remigius (1738-1741), Pfarrhaus (1754)
+GUELTIG_AB: 1700
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 465-merdingen/032
+ENTITÄT: sportzentrum
+BEZEICHNUNG: Sportzentrum Kleinsteinen
+FACETTE: FREIZEIT | INFRA
+QUELLE: https://www.merdingen.de/freizeit+_+tourismus/freizeitangebote+_+erlebnisse/freizeit-+_+sportstaetten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtet: 2018
+  kooperation: ASV Merdingen, HC Merdingen, TV Merdingen, Hermann-Brommer-Schule
+  konzept: nachhaltig, Jugendförderung und Sportförderung
+  anlagen: Fußball-Rasenplatz, Fußball-Kunstrasenplatz, Inline-Hockey-Platz, Beachvolleyballfelder, Leichtathletik-Anlage, Boule-Platz, Multifunktionsfeld
+GUELTIG_AB: 2018
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 465-merdingen/033
+ENTITÄT: halle
+BEZEICHNUNG: Turn- und Festhalle
+FACETTE: FREIZEIT | INFRA
+QUELLE: https://www.merdingen.de/freizeit+_+tourismus/freizeitangebote+_+erlebnisse/freizeit-+_+sportstaetten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nutzer_tagsüber: Hermann-Brommer-Schule (Sportunterricht)
+  nutzer_nachmittags_abends: TV Merdingen
+  nutzung_wochenende_ferien: öffentliche Veranstaltungen
+GUELTIG_AB: 2026
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 465-merdingen/034
+ENTITÄT: verwaltungsgemeinschaft
+BEZEICHNUNG: Verwaltungsgemeinschaft Breisach am Rhein
+FACETTE: INFRA | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Merdingen | Wikipedia
+EIGENSCHAFTEN:
+  mitglieder: Merdingen, Ihringen, Stadt Breisach am Rhein
+  bildung: 1. Juli 1975
+GUELTIG_AB: 1975
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 465-merdingen/035
+ENTITÄT: wappen
+FACETTE: SYMBOL | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Merdingen | Wikipedia
+EIGENSCHAFTEN:
+  blasonierung: "In Gold (Gelb) eine blaubesamte rote Rose mit grünen Kelchblättern"
+GUELTIG_AB: 2026
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8

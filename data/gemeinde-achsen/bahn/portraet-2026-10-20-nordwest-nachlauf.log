@@ -1,0 +1,32 @@
+Orte: 69-ihringen 70-breisach 466-guendlingen
+== OSM-Zeugen 15:53:40
+  Overpass: HTTP Error 502: Bad Gateway - warte
+69-ihringen              Gemeindegrenze  93 Objekte, 23 Zeugen im Block
+70-breisach              Gemeindegrenze  75 Objekte, 48 Zeugen im Block
+466-guendlingen          Gemeindegrenze  10 Objekte,  7 Zeugen im Block
+== Gemeinde-Webseiten 15:57:33
+69-ihringen          20 Gemeinde-Seiten, 0 Portal,  50662 Zeichen,  52 s 
+70-breisach          11 Gemeinde-Seiten, 0 Portal,  38423 Zeichen,  19 s 
+466-guendlingen      20 Gemeinde-Seiten, 0 Portal, 171916 Zeichen,  40 s 
+== Extraktion v0.7 (Haiku) 15:59:23
+69-ihringen          extraktion ein  43589  aus  15443   0.15 USD   137 s  claude-haiku-4-5-20251001
+70-breisach          extraktion ein 133077  aus  36522   0.34 USD   359 s  claude-haiku-4-5-20251001
+466-guendlingen      extraktion ein  94338  aus   7161   0.21 USD    53 s  claude-haiku-4-5-20251001
+zusammen: 20211 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+== Eingabe v0.9 16:05:23
+69-ihringen        41865 Zeichen
+70-breisach        22400 Zeichen
+466-guendlingen    16064 Zeichen
+== Karten v0.9 (claude-opus-5-5) 16:05:23
+69-ihringen          karten     ein  53206  aus  60809   1.59 USD   536 s  claude-opus-5-5
+70-breisach          karten     ein  42364  aus  32745   0.94 USD   276 s  claude-opus-5-5
+466-guendlingen      karten     ein  38558  aus  39529   1.05 USD   353 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 16:14:20
+69-ihringen          pruefung   ein  83566  aus  12378   0.86 USD   105 s  claude-opus-5-5
+70-breisach          pruefung   ein  63411  aus  10834   0.67 USD    93 s  claude-opus-5-5
+466-guendlingen      pruefung   ein 134553  aus  13443   1.29 USD   118 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 16:16:18
+69-ihringen          stufe2     ein 605676  aus   9854   1.03 USD   185 s  claude-opus-5-5,claude-haiku-4-5-20251001
+70-breisach          stufe2     ein 233981  aus   7396   0.78 USD   108 s  claude-opus-5-5,claude-haiku-4-5-20251001
+466-guendlingen      stufe2     ein 170844  aus   3138   0.36 USD   124 s  claude-opus-5-5,claude-haiku-4-5-20251001
+Fertig 16:19:24

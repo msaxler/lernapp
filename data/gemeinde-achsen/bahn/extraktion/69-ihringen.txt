@@ -1,822 +1,793 @@
 ENTITÄT: ort
-BEZEICHNUNG: Ihringen
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+FACETTE: LAGE | GESCHICHTE | ALLTAG | FREIZEIT | INFRA
 EIGENSCHAFTEN:
-  landkreis: Breisgau-Hochschwarzwald
-  bundesland: Baden-Württemberg
-  lage: Südwesten Baden-Württembergs, westlich von Freiburg im Breisgau
-  kaiserstuhl_lage: Südhang des Kaiserstuhls
-  besonderheit_weinanbau: true
-  jahresmitteltemperatur: 12, einheit: °C, genauigkeit: "ca."
-  superlativ: einer der wärmsten Orte in Deutschland
   urkundliche_ersterwähnung: 962
-  urkundliche_ersterwähnung_name: Uringa
-  herkunft: Markgrafschaft Baden-Durlach → Großherzogtum Baden
-  seit_1952_bundesland: Baden-Württemberg
-  konfession_tradition: evangelisch seit Reformation
-  einwohner_evangelisch: 3200, genauigkeit: "ca."
+  name_ersterwähnung: Uringa
+  charakterisierung: Weinanbauort
+  lage: Westlich von Freiburg, am Südhang des Kaiserstuhls
+  bundesland: Baden-Württemberg
+  regierungsbezirk: Freiburg
+  landkreis: Breisgau-Hochschwarzwald
+  jahresmitteltemperatur: ca. 12
+  temperatur_einheit: °C
+  klima_charakterisierung: einer der wärmsten Orte Deutschlands mit mediterranem und subtropischem Einfluss
+  hoechster_punkt_hoehe: 557
+  hoechster_punkt_hoehe_einheit: m ü.N.N.
+  hoechster_punkt_name: Totenkopf
+  tiefster_punkt_hoehe: 189
+  tiefster_punkt_hoehe_einheit: m ü.N.N.
+  hoechstes_gebaeude_hoehe: 61
+  hoechstes_gebaeude_hoehe_einheit: m
+  hoechstes_gebaeude_name: Evangelische Kirche
+  gesamtflaeche: 2300
+  gesamtflaeche_einheit: ha
+  siedlungsflaeche: 171
+  siedlungsflaeche_einheit: ha
+  vegetationsflaeche: 1931
+  vegetationsflaeche_einheit: ha
+  landwirtschaftsflaeche: 1279
+  landwirtschaftsflaeche_einheit: ha
+  waldflaeche: 552
+  waldflaeche_einheit: ha
+  einwohner_1900: 3629
+  einwohner_1950: 4254
+  einwohner_1975: 4559
+  einwohner_1980: 4564
+  einwohner_1990: 4996
+  einwohner_2000: 5904
+  einwohner_2010: 5912
+  einwohner_2020: 6209
+  einwohner_2024: 6308
+  besiedlung_zeitraum: ur- und frühgeschichtlich
+  keltische_hoehensiedlung: datiert 600-500 v. Chr.
+  keltische_grabthuegel: ca. 850-250 v. Chr.
+  merowingerzeitliche_graeber: 7. Jahrhundert n. Chr.
+  strategische_bedeutung: wichtiger Punkt durch Nähe zur französischen Grenze
+  konfessionelle_ausrichtung: evangelisch seit Reformation
+QUELLE: https://www.ihringen.de/unser-ihringen/daten+und+fakten | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
 ---
 
 ENTITÄT: ort
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  markgrafschaft_abtretung: ca. 1414
+  markgraf: Markgrafen von Baden-Durlach
+  uebergang_grossherzogtum: zum Großherzogtum Baden via Markgrafschaft Baden-Durlach
+  kriegerische_auseinandersetzungen: mehrfach, Anfang 19. Jahrhundert
+  bluetenphase: Anfang 19. Jahrhundert nach Anschluss an Markgrafschaft Baden-Durlach
+  badentrittweise_geschichte: seit 1952 zu Baden-Württemberg
+  weinbautradition: seit 962 belegt
+  bedeutung_weinbau: beachtliche Rebengemeinde bereits im Jahr 962
+QUELLE: https://www.ihringen.de/unser-ihringen/gemeindeportrait/dorfchronik | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
 BEZEICHNUNG: Wasenweiler
-ORTSTEIL_BEZUG: Wasenweiler
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+FACETTE: GESCHICHTE
 EIGENSCHAFTEN:
-  urkundliche_ersterwahnung: 1000
-  urkundliche_ersterwahnung_name: Uuasenuuilara
-  herrschaftsverhältnisse: Deutscher Orden (1297/1298-1806)
-  herrschafter: Deutschordenskommende Freiburg, Teil Vorderösterreich
-  konfession_tradition: römisch-katholisch
-  einwohner_katholisch: 1600, genauigkeit: "ca."
-  eingemeindet_nach: Ihringen
-  eingemeindet_datum: 1974-07-01
-  ortsrat: true
-  ortsvorsteher: true
+  urkundliche_ersterwähnung: 1025
+  name_ersterwähnung: Uuasenuuilara
+  deutsch_orden: Deutschordenskommende Freiburg hatte Obervogteirechte
+  deutsch_orden_zeitraum: 1297/1298-1806
+  deutsch_orden_region: Teil von Vorderösterreich
+  eingemeindung_in_ihringen: 1974-07-01
+  gemeindereform: Baden-württembergische Gemeindereform
+  konfessionelle_ausrichtung: römisch-katholisch
+  taufstein: aus 9. Jahrhundert, heute im Badischen Landesmuseum Karlsruhe
+  taufstein_ehemaliger_ort: Kapelle St. Vitus
+  frühmittelalterliche_besiedlung: vor 1025
+QUELLE: https://www.ihringen.de/unser-ihringen/gemeindeportrait/dorfchronik | Gemeinde-Webseite
+GUELTIG_AB: 1025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
 ---
 
-ENTITÄT: berg
-BEZEICHNUNG: Totenkopf
-ORTSTEIL_BEZUG:
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wasenweiler
+FACETTE: POLITIK
 EIGENSCHAFTEN:
-  lage: direkte Umgebung Ihringen
-  superlativ: höchste Erhebung des Kaiserstuhls
----
-
-ENTITÄT: kirche
-BEZEICHNUNG: Evangelische Kirche Ihringen
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  bauzeit: 1874-1877
-  konfession: evangelisch
-  baumeister_fenster: Valentin Peter Feuerstein aus Neckarsteinach
-  baumeister_fenster_jahr: 1975-1976
-  fensterstil: erinnert an Chagall
-  orgelbauer: Karl Heinrich Schäfer
-  orgel_besonderheit: komplexe Pedalenmechanik, ermöglicht Blick zum Altar während des Spielens
-  nordschiff_themen: zehn alttestamentliche Themen von Schöpfung bis zu Propheten
-  südschiff_themen: zwölf Evangelienfenster
-  chorraum_ost_themen: Dreifaltigkeitsfenster
-  empore_west_themen: zwei Fenster mit Darstellungen aus Offenbarung des Johannes
+  status: Ortschaft im Sinne der baden-württembergischen Gemeindeordnung
+  eigenstaendige_verwaltung: hat eigenem Ortschaftsrat
+  ortsvorsteher: ja
+  ortschaftsrat_beschreibung: Ortschaftsrat mit Ortsvorsteher als Vorsitzendem
+QUELLE: https://www.ihringen.de/unser-ihringen/gemeindeportrait/ortsteile | Gemeinde-Webseite
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
----
 
-ENTITÄT: kirche
-BEZEICHNUNG: Mariä Himmelfahrt
-ORTSTEIL_BEZUG: Wasenweiler
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  konfession: römisch-katholisch
-  erbaut_jahr: 1823
-  baumeister: Christoph Arnold
-  architekturstil: Friedrich Weinbrenners
-  besonderheit: enthält ältere, vor allem barocke Skulpturen
-GUELTIG_AB: 1823
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-
-ENTITÄT: kapelle
-BEZEICHNUNG: St. Vitus
-ORTSTEIL_BEZUG: Wasenweiler
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  architekturstil: spätgotisch
-  funktion: Friedhofskapelle
-  superlativ: ältestes monumentales Gebäude Ihrings
-  chor_ausstattung: Wandgemälde der Apostel
-  schiff_ausstattung: Wandgemälde mit Szenen aus dem Leben des heiligen Vitus
-  sakramentshäuschen_jahr: 1507
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-
-ENTITÄT: kapelle
-BEZEICHNUNG: St. Anton-Kapelle
-ORTSTEIL_BEZUG: Wasenweiler
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  lage: östlicher Ortsrand von Wasenweiler
-  funktion: Gedenkstätte für Opfer beider Weltkriege
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-
-ENTITÄT: synagoge
-BEZEICHNUNG: Synagoge Ihringen
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  erbaut: 1864
-  zerstört: 1938 Pogromnacht
-  zerstört_art: Brandstiftung durch SA-Männer
-  adresse: Bachenstraße 15/17
-  gemeinde_gründung: 1925
-  gemeinde_mitglieder: 125
-  gemeinde_anteil_prozent: 3.7
-  friedhof: westlich von Ihringen
-  friedhof_schändung: 1990 und 2007
-GUELTIG_AB: 1864
-GUELTIG_BIS: 1938
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-
-ENTITÄT: gedenkstein
-BEZEICHNUNG: Gedenkstein Synagogenplatz
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  lage: unweit früherer Synagogen-Standort
-  anlass: erinnert an beim Novemberpogrom 1938 zerstörtes jüdisches Gotteshaus
-  gründung: nach 1938
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-
-ENTITÄT: rathaus
-BEZEICHNUNG: Rathaus Ihringen
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  adresse: Bachenstraße
-  einrichtungen: Einwohnermeldeamt, Standesamt, Gewerberegister, Tourist-Information
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-
-ENTITÄT: museum
-BEZEICHNUNG: Ihringer Heimatmuseum
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  schwerpunkt: Geschichte des dörflichen Lebens der Weinbaugemeinde
-  sammlung: Kleinfunde aus römischer Zeit
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
----
-
-ENTITÄT: schule
-BEZEICHNUNG: Neunlindenschule
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  schultyp: Grund- und Gemeinschaftsschule
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
----
-
-ENTITÄT: schule
-BEZEICHNUNG: Mambergschule
-ORTSTEIL_BEZUG: Wasenweiler
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  schultyp: Grundschule
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
----
-
-ENTITÄT: schule
-BEZEICHNUNG: Albertschule
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  schultyp: Förderschule
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
----
-
-ENTITÄT: winzergenossenschaft
-BEZEICHNUNG: Kaiserstühler Winzergenossenschaft Ihringen eG
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  funktion: Vermarktung und Verwaltung von Weinbau
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-
-ENTITÄT: winzergenossenschaft
-BEZEICHNUNG: Wasenweiler Winzer eG
-ORTSTEIL_BEZUG: Wasenweiler
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  gegründet: 1935
-  mitglieder: 200, genauigkeit: "ca."
-  rebfläche: 70, einheit: Hektar
-  hauptrebsorte: Spätburgunder
-GUELTIG_AB: 1935
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-
-ENTITÄT: industriebetrieb
-BEZEICHNUNG: Sauerburger
-ORTSTEIL_BEZUG: Wasenweiler
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  branche: Landmaschinenhersteller
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
 ---
 
 ENTITÄT: wappen
 BEZEICHNUNG: Wappen Ihringen
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+FACETTE: GESCHICHTE
 EIGENSCHAFTEN:
-  blasonierung: In gespaltenem Schild vorn in Gold ein roter Schrägbalken, hinten in Rot über silbernem Rebmesser eine gestürzte goldene Weintraube am Stiel
-  symbol_1_bedeutung: roter Schrägbalken in Gold: Herrschaft Markgrafen von Baden-Durlach
-  symbol_2_bedeutung: Traube und Rebmesser: Weinbaugemeinde
+  beschreibung: gespaltenem Schild vorn in Gold ein roter Schrägbalken, hinten in Rot über einem silbernen Rebmesser eine gestürzte goldene Weintraube am Stiel
+  traube_und_rebmesser_seit: frühes 15. Jahrhundert
+  traube_und_rebmesser_fundort: Siegel der Ihringer Schultheißen
+  gerichtssiegel_seit: 1480
+  schraegbalken_bedeutung: Zeichen der Ortsherrschaft der Markgrafen von Baden
+  schraegbalken_seit: 1414
+  tingierung_festlegung: 1965
+  offizielles_verleihen: 1965-07-12
+  innenministerium: Baden-Württemberg
+  gueltig_nach_eingemeindung: Wappen behielt Aussagekraft nach Eingemeindung Wasenweilers 1974
+  quelle_beschreibung: Leo-Bw.de
+QUELLE: https://www.ihringen.de/unser-ihringen/gemeindeportrait/dorfchronik | Gemeinde-Webseite
+GUELTIG_AB: 1480
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.95
+
 ---
 
 ENTITÄT: wappen
 BEZEICHNUNG: Wappen Wasenweiler
-ORTSTEIL_BEZUG: Wasenweiler
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+FACETTE: GESCHICHTE
 EIGENSCHAFTEN:
-  hauptsymbol: schwarzes Kruckenkreuz auf silbernem Grund
-  hauptsymbol_bedeutung: Ortsherrschaft des Deutschen Ordens (Jahrhunderte)
-  herzschild: blaue Traube am grünen Stil auf goldenem Grund
-  herzschild_bedeutung: lange Weinbautradition
+  beschreibung: Deutschordenskreuz auf Deutschordensheraldik, Weintraube
+  deutschordenskreuz_bedeutung: erinnert an Herrschaftsverhältnisse vor 1805
+  weintraube_bedeutung: auf seit jeher bedeutenden Weinbau hinweisend
+  siegel_vogt_schaber: 1772 geschnitten, mit Traube geziert
+  farbgebung_seit_1902: natürliche Farbe, später nach heraldischer Farbregel tingiert
+  quelle_wappenbuch: Landkreis Brsg.-Hochschwarzwald
+QUELLE: https://www.ihringen.de/unser-ihringen/gemeindeportrait/dorfchronik | Gemeinde-Webseite
+GUELTIG_AB: 1772
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.92
+
 ---
 
-ENTITÄT: partnerschaft
-BEZEICHNUNG: Munster (Haut-Rhin)
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  partner_gemeinde_von: Ihringen
-  lage_partner: Elsass (Frankreich)
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
----
-
-ENTITÄT: partnerschaft
-BEZEICHNUNG: Ruhpolding
-ORTSTEIL_BEZUG:
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  partner_gemeinde_von: Ihringen
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
----
-
-ENTITÄT: partnerschaft
-BEZEICHNUNG: Wattwiller
-ORTSTEIL_BEZUG:
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  partner_gemeinde_von: Ihringen
-  lage_partner: Elsass (Frankreich)
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
----
-
-ENTITÄT: bürgermeister
+ENTITÄT: buergermeister
 BEZEICHNUNG: Artur Köbele
-ORTSTEIL_BEZUG:
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+FACETTE: POLITIK
 EIGENSCHAFTEN:
-  amtszeit: 1957-1993
+  amtszeit_von: 1957
+  amtszeit_bis: 1993
+QUELLE: https://www.ihringen.de/unser-ihringen/gemeindeportrait/dorfchronik | Gemeinde-Webseite
 GUELTIG_AB: 1957
 GUELTIG_BIS: 1993
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.98
+
 ---
 
-ENTITÄT: bürgermeister
+ENTITÄT: buergermeister
 BEZEICHNUNG: Martin Obert
-ORTSTEIL_BEZUG:
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+FACETTE: POLITIK
 EIGENSCHAFTEN:
-  amtszeit: 1993-2017
+  amtszeit_von: 1993
+  amtszeit_bis: 2017
+QUELLE: https://www.ihringen.de/unser-ihringen/gemeindeportrait/dorfchronik | Gemeinde-Webseite
 GUELTIG_AB: 1993
 GUELTIG_BIS: 2017
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.98
+
 ---
 
-ENTITÄT: bürgermeister
+ENTITÄT: buergermeister
 BEZEICHNUNG: Benedikt Eckerle
-ORTSTEIL_BEZUG:
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+FACETTE: POLITIK
 EIGENSCHAFTEN:
-  amtszeit: seit 2017
+  amtszeit_seit: 2017
+QUELLE: https://www.ihringen.de/unser-ihringen/gemeindeportrait/dorfchronik | Gemeinde-Webseite
 GUELTIG_AB: 2017
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.98
+
 ---
 
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Adolf Willareth
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum
+FACETTE: KULTUR
 EIGENSCHAFTEN:
-  geburtsort: Ihringen
-  geburtsjahr: 1874
-  todesjahr: 1953
-  todesort: Heidelberg
-  beruf: Pädagoge, Handelsschul-Direktor
-GUELTIG_AB: 1874
-GUELTIG_BIS: 1953
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
----
-
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Jakob Schneider
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  geburtsort: Ihringen
-  geburtsjahr: 1994
-  beruf: Ruderer
-  auszeichnungen: Welt- und Europameister
+  sammlungstyp: kulturgeschichtliche und volkskundliche Sammlung
+  zielsetzung: Darstellung der historischen Entwicklung eines Ortes und Regionalgeschichte anhand von Exponaten und Dokumenten
+  verein_gruendung: 1984
+  verein_name: Heimatmuseumsverein Ihringen
+  gemeinnuetzig_anerkannt: true
+  finanzierung: Mitgliederbeitrag und Spenden
+  schwerpunkt_zeitraum: Zeit vor der Industrialisierung
+  ausstellung_inhalt: bäuerlich geprägte Leben, Küche, Stube, Keller, Handwerker wie Schusterei und Fassmacher
+  beschreibung: Schatzkammer an Gegenständen aus der Zeit vor der Industrialisierung
+  bedeutung_fuer_ort: vermittelt lebendiges Bild der Vergangenheit von Ihringen
+QUELLE: https://www.ihringen.de/unser-ihringen/gemeindeportrait/heimatmuseum | Gemeinde-Webseite
+GUELTIG_AB: 1984
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.92
+
 ---
 
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Karl Heinrich Schäfer
-ORTSTEIL_BEZUG:
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+ENTITÄT: sage
+BEZEICHNUNG: Salomonisches Urteil (vom Ihringer Esel)
+FACETTE: GESCHICHTE
 EIGENSCHAFTEN:
-  geburtsjahr: 1838
-  todesjahr: 1922
-  beruf: Orgelbauer
-  werk: Orgel der evangelischen Kirche Ihringen
-GUELTIG_AB: 1838
-GUELTIG_BIS: 1922
+  zeit_erzaehlung: um 1500
+  thema: Bauer klagt, Esel eines Müllers entlaufen und hat Trauben in Weingarten gefressen
+  gericht_entscheidung_regel_1: wenn Esel niedergesessen und Schaden bewiesen, Müller büßt
+  gericht_entscheidung_regel_2: wenn Esel nur vorbeigegangen und Trauben gekostet, gilt als Ehrtrinkle
+  ausgang: Kläger konnte nicht beweisen, ob Esel gesessen oder passando gegangen
+  bedeutung: satirisches Urteil über lokale Justiz
+  ueberlokale_bekanntheit: Name "Salomonisches Urteil" bekannt
+QUELLE: https://www.ihringen.de/unser-ihringen/gemeindeportrait/salomonisches+urteil | Gemeinde-Webseite
+GUELTIG_AB: 1500
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.88
+
 ---
 
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Adolph Blankenhorn
-ORTSTEIL_BEZUG:
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+ENTITÄT: arboretum
+BEZEICHNUNG: Liliental (Forstliches Arboretum)
+FACETTE: FREIZEIT | KULTUR
 EIGENSCHAFTEN:
-  geburtsjahr: 1843
-  geburtsort: Müllheim (Baden)
-  todesjahr: 1906
-  todesort: Konstanz
-  beruf: Önologe
-  werk: Habilitation über Geschichte und Bewirtschaftung des Rebgutes Blankenhornsberg bei Ihringen
-GUELTIG_AB: 1843
-GUELTIG_BIS: 1906
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
----
-
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Gustav Großklaus
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1882
-  todesjahr: 1963
-  beruf: Winzer
-  auszeichnung: Pionier des Genossenschaftswesens in Deutschland
-GUELTIG_AB: 1882
-GUELTIG_BIS: 1963
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
----
-
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Arnold Fanck
-ORTSTEIL_BEZUG:
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1889
-  geburtsort: Frankenthal/Pfalz
-  todesjahr: 1974
-  todesort: Freiburg im Breisgau
-  berufe: Geologe, Fotograf, Kameramann, Autor, Filmregisseur, Filmproduzent
-  wohnort: Lilienhof bei Ihringen
-GUELTIG_AB: 1889
-GUELTIG_BIS: 1974
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
----
-
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Ernst Petersen
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1906
-  geburtsort: Freiburg im Breisgau
-  todesjahr: 1959
-  todesort: Ihringen
-  berufe: Architekt, Schauspieler
-GUELTIG_AB: 1906
-GUELTIG_BIS: 1959
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
----
-
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Hermann Brommer
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1926
-  geburtsort: Bühl
-  todesjahr: 2012
-  todesort: Waldkirch
-  berufe: Lehrer, Kunsthistoriker
-  funktion: Schulleiter in Ihringen
-GUELTIG_AB: 1926
-GUELTIG_BIS: 2012
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
----
-
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Wolfgang Trust
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1926
-  geburtsort: Karlsruhe
-  todesjahr: 1986
-  todesort: Baden-Baden
-  berufe: Grafiker, Bildhauer
-  werk: begehbare Brunnenanlage in Ihringen
-GUELTIG_AB: 1926
-GUELTIG_BIS: 1986
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
----
-
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Helga Axt
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1937
-  geburtsort: Bad Ems
-  berufe: Schachspielerin, Lehrerin
-  wohnort: Ihringen
+  typ: forstliches Arboretum, botanischer Garten
+  besonderheit: botanische Raritäten
+  charakteristikum_hauptattraktion: Mammutbaumwald
+  charakterisierung: Kleinod am Kaiserstuhl
+  gesamteindruck: ursprüngliche und verzauberte botanische Märchenwelt
+  infrastruktur: Wanderwege, Wiesen, Waldflächen, Erholungsräume
+  stauden_und_orchideenflora: besondere Stauden- und Orchideenflora in letzten Jahren entwickelt
+  orchideenvielfalt: über 20 verschiedene kostbare Orchideen Arten
+  zugang: jederzeit begehbar
+  bedeutung_fuer_ort: exotisches Waldparadies in einer Weinregion, Anziehungspunkt für Wanderer und Botanik-Interessierte
+  botanik_lehrpfade: ja
+QUELLE: https://www.ihringen.de/kultur-und-freizeit/liliental | Gemeinde-Webseite
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
+VERTRAUEN_EXTRAKTION: 0.93
+
 ---
 
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Helmut Buhsfeld
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+ENTITÄT: bad
+BEZEICHNUNG: Kaiserstuhlbad
+FACETTE: FREIZEIT | INFRA
 EIGENSCHAFTEN:
-  geburtsjahr: 1951
-  berufe: Fußballspieler, Fußballtrainer
-  wohnort: Ihringen
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
----
-
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Reinhold Pix
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1955
-  geburtsort: Stuttgart
-  funktion: Abgeordneter im Landtag von Baden-Württemberg
-  wohnort: Ihringen
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Hugo Rendler
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1957
-  geburtsort: Stühlingen
-  berufe: Hörspielautor, Drehbuchautor, Romanautor, Theaterautor
-  wohnort: Ihringen
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-
-ENTITÄT: grabhügelgruppe
-BEZEICHNUNG: Keltische Grabhügelgruppe Ihringen
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  lage: Niederterrasse etwa 500m südwestlich des Ortes
-  superlativ: größte keltische Grabhügelgruppe der südbadischen Oberrheinebene
-  gräber_bronzezeit: ab ca. 1500 v.Chr. (mittlere Bronzezeit)
-  gräber_keltisch: ca. 850-250 v.Chr.
-  zeitraum: 1500-250 v.Chr., beschreibung: Bronzezeit bis Keltische Zeit
-GUELTIG_AB: -1500
-GUELTIG_BIS: -250
+  eroeffnung: 1962
+  typ: Freibad
+  geburtstag_2022: 60. Geburtstag
+  infrastruktur: 1m- und 3m-Sprunganlage, Kleinkinderrutsche im Planschbecken, Edelstahlrutsche im Nichtschwimmerbereich
+  spielplaetze: kleiner Spielplatz mit großem Sandkasten
+  weitere_ausstattung: 2 Tischtennisplatten
+  beachvolleyballplatz: seit 2015 neu gestaltet
+  energieversorgung_seit_2014: mobiles Blockheizkraftwerk in Sommermonaten
+  funktion_blockheizkraftwerk: ermöglicht angenehme Wassertemperatur auch an kühleren Tagen
+  verbundpartner: Hansefit und Urban Sports Club
+  ausfall_2026: wird zur Badesaison 2026 nicht öffnen
+  grund_ausfall_2026: weitere Untersuchungen notwendig, Sanierungskosten zu bewerten, Folie muss entfernt werden
+  bedeutung_fuer_ort: Anziehungspunkt für Familien, gepflegter Zustand nach regelmäßigen Investitionen
+QUELLE: https://www.ihringen.de/leben-in-ihringen/oeffentliche+einrichtungen/kaiserstuhlbad | Gemeinde-Webseite
+GUELTIG_AB: 1962
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.92
+
 ---
 
-ENTITÄT: höhensiedlung
-BEZEICHNUNG: Befestigte keltische Höhensiedlung Kaiserstuhl
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  lage: Kuppe des Kaiserstuhls etwa 500m nordwestlich des Ortes, an drei Seiten durch steile Hänge geschützt
-  entdeckung: 1974 während Flurbereinigung
-  datierung: 600-500 v.Chr.
-  interpretation: Herrensitz
-  besonderheit: zahlreiche Funde
-  beziehung_grabhügel: höchstwahrscheinlich Zusammenhang mit großem Grabhügelfeld in Sichtweite
-GUELTIG_AB: -600
-GUELTIG_BIS: -500
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
----
-
-ENTITÄT: gräber_merowinger
-BEZEICHNUNG: Merowingerzeitliche Gräber Ihringen
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  zeitstellung: 7. Jahrhundert n.Chr.
-  lage: verschiedene Stellen von Ihringen
-  bedeutung: deuten auf frühe Gründung des Ortes und seiner im Mittelalter abgegangenen Ortsteile hin
-GUELTIG_AB: 600
-GUELTIG_BIS: 700
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
----
-
-ENTITÄT: veranstaltung
+ENTITÄT: fest
 BEZEICHNUNG: Ihringer Weintage
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+FACETTE: FREIZEIT | KULTUR
 EIGENSCHAFTEN:
-  zeitpunkt: Frühsommer, Wochenende nach Fronleichnam
-  ort: Bachenstraße (geschlossene Höfe)
-  regelmäßigkeit: jährlich
-  beschreibung: Veranstalter nutzen Fronleichnamstag zum Aufbau
+  termin_regelmaessig: Wochenende nach Fronleichnam (jedes Jahr)
+  dauer: vier Tage
+  schauplatz: Bachenstraße, Höfe und Lauben
+  oeffnung_uhrzeit: Freitag 18:00 Uhr
+  eroeffnung: feierliche Eröffnung durch Bürgermeister
+  programm: Ihringer Weine, kulinarische Köstlichkeiten, Geselligkeit, Musik, Tanz, Unterhaltung
+  vereine: Ihringer Vereinsgemeinschaft kredenzt das Beste aus Küche und Keller
+  rummel: für jüngere Gäste
+  bahnhofsanbindung: Ihringer Bahnhof grenzt direkt an das Weinfest
+  hoehepunkte_freitag: Eröffnung mit Festwein
+  hoehepunkte_samstag_frueh: Bayrischer Frühschoppen Fassanstich mit Weißwurst, bayrische Livemusik mit Ruhpoldinger Partnergemeinde
+  hoehepunkte_samstag_nachmittag: Traditionelle Winzerolympiade
+  winzerolympiade_beschreibung: heimische Vereine und Gästemannschaften in winzerlichen Disziplinen
+  bedeutung_fuer_ort: Wahrzeichen des Ortes und Anziehungspunkt für Besucher
+  ueberortsbekanntheit: ja
+QUELLE: https://www.ihringen.de/kultur-und-freizeit/veranstaltungen/ihringer+weintage | Gemeinde-Webseite
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
+VERTRAUEN_EXTRAKTION: 0.94
+
 ---
 
-ENTITÄT: veranstaltung
-BEZEICHNUNG: Weihnachtskonzert Musikverein Ihringen
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+ENTITÄT: radweg
+BEZEICHNUNG: Kaiserstuhl-Radweg
+FACETTE: FREIZEIT | INFRA
 EIGENSCHAFTEN:
-  zeitpunkt: letzter Adventssonntag vor Heiligabend
-  ort: evangelische Kirche
-  akteure: Musikverein Ihringen e.V., evangelischer Kirchenchor
-  regelmäßigkeit: jährlich traditionell
+  typ: Radwanderweg, Fernwegenetz
+  auszeichnung: rotes Schild Ka
+  charakterisierung: Pflichtprogramm eines radelnden Besuchers
+  gesamtradwegenetz: ca. 200 km ausgeschildertes Radwegenetz in Region Ihringen
+  fuer_jeden_geschmack: ja
+  charakteristika_route: faszinierende Naturschönheiten, romantische Dörfchen und Städtchen
+  panorama: tolle Panorama-Ausblicke auf Rheinebene, Schwarzwald, Vogesen
+  bedeutung_fuer_ort: Anziehungspunkt für Radsportler im Frühjahr, Fernwegenetz prägt Freizeitangebot
+QUELLE: https://www.ihringen.de/kultur-und-freizeit/sport+_+aktiv/radfahren | Gemeinde-Webseite
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
+VERTRAUEN_EXTRAKTION: 0.92
+
 ---
 
-ENTITÄT: musikgruppe
-BEZEICHNUNG: Fanfarenzug Kaiserstühler Herolde Ihringen
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+ENTITÄT: themenpfad
+BEZEICHNUNG: Professor-Blankenhorn-Weinlehrpfad
+FACETTE: FREIZEIT | KULTUR
 EIGENSCHAFTEN:
-  beschreibung: Orchester
+  betreiber: Staatsweingut Freiburg
+  lage: Blankenhornsberg
+  inhalt: Spitzenlage Blankenhornsberg Doktorgarten
+  typ: Weinlehrpfad
+  besonderheit: einzigartige Aussichten
+  bedeutung_fuer_ort: ermöglicht Einblick in Weinbau und Geschichte des Kaiserstuhls
+QUELLE: https://www.ihringen.de/leben-in-ihringen/wein-_+obstbau/staatsweingut+freiburg | Gemeinde-Webseite
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.7
+VERTRAUEN_EXTRAKTION: 0.9
+
 ---
 
-ENTITÄT: musikgruppe
-BEZEICHNUNG: Musikverein Ihringen
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+ENTITÄT: themenpfad
+BEZEICHNUNG: Bienenfresser-Pfad
+FACETTE: FREIZEIT | KULTUR
 EIGENSCHAFTEN:
-  beschreibung: Orchester
+  beschreibung: Themenpfad-Wegenetz zum Verfolgen der Spuren des Bienenfressers
+  fauna_charakterisierung: seltene wärmeliebende Tiere wie Bienenfresser halten sich gerne an Weinberghängen auf
+QUELLE: https://www.ihringen.de/kultur-und-freizeit/sport+_+aktiv/wandern | Gemeinde-Webseite
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.7
+VERTRAUEN_EXTRAKTION: 0.85
+
 ---
 
-ENTITÄT: musikgruppe
-BEZEICHNUNG: Posaunenchor der Ev. Gemeinschaft
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+ENTITÄT: themenpfad
+BEZEICHNUNG: Wiedehopf-Pfad
+FACETTE: FREIZEIT | KULTUR
 EIGENSCHAFTEN:
+  beschreibung: Themenpfad-Wegenetz zum Verfolgen der Spuren des Wiedehopf
+  charakterisierung: Wendelin Wiedehopf durch den Weinberg folgen für Familien
+  fauna_charakterisierung: seltene wärmeliebende Tiere wie Wiedehopf halten sich gerne an Weinberghängen auf
+QUELLE: https://www.ihringen.de/kultur-und-freizeit/sport+_+aktiv/wandern | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche (Ihringen)
+FACETTE: KULTUR | LAGE
+EIGENSCHAFTEN:
+  baujahr: 1874-1877
+  baumeister: Valentin Peter Feuerstein aus Neckarsteinach
+  glaeserfenster_periode: 1975-1976
+  glaeserfenster_stil: an Chagall erinnernd
+  glaeserfenster_inhalte_nordschiff: zehn alttestamentliche Themen von der Schöpfung bis zu den Propheten
+  glaeserfenster_inhalte_suedschiff: zwölf Evangelienfenster
+  glaeserfenster_inhalte_chor: Dreifaltigkeitsfenster im östlichen Chorraum
+  glaeserfenster_inhalte_empoere: zwei Fenster mit Darstellungen aus der Offenbarung des Johannes
+  orgel: komplexe Mechanik der Pedale ermöglicht Blick zum Altar während des Spielens
+  hoehe_gebaeude: 61
+  hoehe_gebaeude_einheit: m
+  hoechste_gebaeude_gemeinde: ja
   konfession: evangelisch
+  bedeutung_fuer_ort: Hauptkirche des evangelischen Ortes, künstlerisch bedeutsam durch Fenster und Orgel
+QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+GUELTIG_AB: 1874
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.7
+VERTRAUEN_EXTRAKTION: 0.95
+
 ---
 
-ENTITÄT: musikgruppe
-BEZEICHNUNG: Winzerkapelle
-ORTSTEIL_BEZUG: Wasenweiler
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche Mariä Himmelfahrt (Wasenweiler)
+FACETTE: KULTUR | LAGE
 EIGENSCHAFTEN:
-  beschreibung: Orchester
+  baujahr: 1823
+  baumeister: Christoph Arnold
+  baustil: Weinbrennerstil (Friedrich Weinbrenner)
+  ausstattung_skulpturen: ältere, vor allem barocke Skulpturen
+  konfession: römisch-katholisch
+  lage: am Berg in Wasenweiler
+  bedeutung_fuer_ort: Hauptkirche des katholischen Ortsteils Wasenweiler
+QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+GUELTIG_AB: 1823
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.7
+VERTRAUEN_EXTRAKTION: 0.95
+
 ---
 
-ENTITÄT: musikgruppe
-BEZEICHNUNG: Männergesangsverein Ihringen
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+ENTITÄT: kapelle
+BEZEICHNUNG: Friedhofskapelle St. Vitus (Wasenweiler)
+FACETTE: KULTUR | GESCHICHTE
 EIGENSCHAFTEN:
-  beschreibung: Gesangsverein
+  baustil: spätgotisch
+  ort_im_ortsteil: Ortsteil Wasenweiler
+  ausstattung_chor: Wandgemälde der Apostel
+  ausstattung_schiff: Wandgemälde mit Szenen aus dem Leben des heiligen Vitus
+  sakramentshaeuschen: von 1507
+  sakramentshaeuschen_lage: Chorraum
+  zeitliche_rolle: spiegelt frühe Geschichte von Wasenweiler wider
+  bedeutung_fuer_ort: ältestes monumentales Gebäude der Gemeinde, belegt frühe Besiedlung ab 9. Jahrhundert
+QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.7
+VERTRAUEN_EXTRAKTION: 0.95
+
 ---
 
-ENTITÄT: musikschule
-BEZEICHNUNG: Jugendmusikschule Westlicher Kaiserstuhl-Tuniberg e.V.
-ORTSTEIL_BEZUG:
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Anton-Kapelle
+FACETTE: GESCHICHTE | KULTUR
 EIGENSCHAFTEN:
-  träger_beteiligung: Gemeinde Ihringen
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
----
-
-ENTITÄT: verkehrslinie
-BEZEICHNUNG: Breisacher Bahn
-ORTSTEIL_BEZUG:
+  lage: östlicher Ortsrand von Wasenweiler
+  zweck: Gedenkstätte für Opfer der beiden Weltkriege
+  bedeutung_fuer_ort: Mahnung und Gedenken an lokale Kriegstote
 QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  ort_verbindung: verbindet beide Ortsteile Ihringens
-  takt_tagsüber: Halbstundentakt
-  betreiber: Breisgau-S-Bahn mit elektrischen Triebzügen
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-
-ENTITÄT: radroute
-BEZEICHNUNG: Badischer Weinradweg
-ORTSTEIL_BEZUG:
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  verlauf: Landes-Radfernweg durch Ihringen
-  anfang: Grenzach-Wyhlen am Hochrhein
-  ende: Laudenbach im Norden Baden-Württembergs
-  besonderheit: zwei Varianten ab Schallstadt
-  route_variante_ihringen: über Munzingen am Tuniberg, Merdingen, Kaiserstuhl, Bickensohl, Oberrotweil nach Sasbach am Kaiserstuhl
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-
-ENTITÄT: radroute
-BEZEICHNUNG: Kaiserstuhlradweg
-ORTSTEIL_BEZUG:
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  verbindung: Ihringen zu Vogtsburg
-  varianten: zwei Routen - westlich des Kaiserstuhls oder direkt über den Kaiserstuhl
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
----
-
-ENTITÄT: nachbarort
-BEZEICHNUNG: Vogtsburg
-ORTSTEIL_BEZUG:
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  lage_zu_ihringen: Norden
-  verwaltungsform: Stadt
-  landkreis: Breisgau-Hochschwarzwald
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-
-ENTITÄT: nachbarort
-BEZEICHNUNG: Bötzingen
-ORTSTEIL_BEZUG:
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  lage_zu_ihringen: Nordosten
-  landkreis: Breisgau-Hochschwarzwald
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-
-ENTITÄT: nachbarort
-BEZEICHNUNG: Gottenheim
-ORTSTEIL_BEZUG:
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  lage_zu_ihringen: Osten
-  landkreis: Breisgau-Hochschwarzwald
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-
-ENTITÄT: nachbarort
-BEZEICHNUNG: Merdingen
-ORTSTEIL_BEZUG:
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  lage_zu_ihringen: Südosten
-  landkreis: Breisgau-Hochschwarzwald
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-
-ENTITÄT: nachbarort
-BEZEICHNUNG: Breisach am Rhein
-ORTSTEIL_BEZUG:
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  lage_zu_ihringen: Süden und Westen
-  verwaltungsform: Stadt
-  landkreis: Breisgau-Hochschwarzwald
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-
-ENTITÄT: klima_besonderheit
-BEZEICHNUNG: Klimatische Bedingungen Ihringen
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  geschützte_lage: Kaiserstuhl
-  sonnenstunden: hohe Anzahl
-  winter_charakteristik: mild, wenige Eistage
-  folge_weinbau: begünstigt den Weinbau
-  folge_flora: Mandelbäume, Palmenarten, Kakteen, Südfrüchte gedeihen
-  klimaklassifikation_köppen_geiger: ozeanisch (Cfb)
-  niederschläge: ganzjährig ausreichend
-  temperatur_juli_august: knapp unter 22, einheit: °C
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
+
 ---
 
-ENTITÄT: fauna
-BEZEICHNUNG: Seltene Tierarten Ihringen
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+ENTITÄT: friedhof
+BEZEICHNUNG: Jüdischer Friedhof
+FACETTE: GESCHICHTE | KULTUR
 EIGENSCHAFTEN:
-  beschreibung: Gottesanbeterinnen, Smaragdeidechsen, Bienenfresser kommen vor und fühlen sich wohl
+  lage: westlich von Ihringen
+  juedinggemeinde_groesse_1925: 125 Personen (3,7% der Gesamtbevölkerung)
+  synagoge_fertigstellung: 1864
+  synagoge_zerstoerung: Pogromnacht (1938) durch Brandstiftung zerstört
+  synagoge_vorgaenger: ersetzte einen älteren Vorgängerbau
+  friedhof_schaendungen: 1990 und 2007 stark geschändet
+  schaendung_urheber_verdacht: Neonazi-Kreise
+  schaendung_inhalt: Beschädigungen, nationalsozialistische Parolen und Symbole
+  geschichtsrolle: Gedenkort an jüdische Geschichte und NS-Verbrechen
+  bedeutung_fuer_ort: Mahnung und Erinnerung an jüdische Gemeinde und Shoah
+QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: gedenkort
+BEZEICHNUNG: Synagogenplatz
+FACETTE: GESCHICHTE | KULTUR
+EIGENSCHAFTEN:
+  lage: Bachenstraße 15/17 in Ihringen
+  anlass_benennung: Erinnerung an Synagoge, die 1938 von SA-Männern zerstört wurde
+  zeitliche_bezogenheit: Novemberpogrom 1938
+  aktuelle_nutzung: Wochenmarkt jeden Freitag
+  bedeutung_fuer_ort: Gedenkstätte für jüdische Geschichte und NS-Verbrechen, Ort des dörflichen Marktes
+QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: weingut
+BEZEICHNUNG: Staatsweingut Freiburg (Standort Blankenhornsberg)
+FACETTE: WIRTSCHAFT | KULTUR | FREIZEIT
+EIGENSCHAFTEN:
+  teil_von: Staatliches Weinbauinstitut Freiburg
+  ministerium: Ministerium für Ernährung, Ländlichen Raum und Verbraucherschutz Baden-Württemberg
+  aufgabe: praxisorientierte Forschung im Weinbau und Önologie
+  ziel_forschung: Optimierung der Weinqualität, Steigerung der Wirtschaftlichkeit, Verbesserung der Nachhaltigkeit
+  gesamte_rebflaeche: 37
+  gesamte_rebflaeche_einheit: ha
+  rebflaeche_kaiserstuhl_ihringen: 24
+  rebflaeche_kaiserstuhl_ihringen_einheit: ha
+  rebflaeche_freiburg_erbringen: 13
+  rebflaeche_freiburg_erbringen_einheit: ha
+  hauptort_kaiserstuhl: Ihringen am Blankenhornsberg
+  gutsgebaeude: historisch mit Vinothek in einmaliger Lage
+  ausblick_gutsgebaeude: unvergleichlicher Ausblick auf Vogesen und Schwarzwald
+  gewaelbekeller: historisch, entstanden 1847
+  gewaelbekeller_nutzung: noch heute zum traditionellen Holzfassausbau genutzt
+  anbau_methoden: neueste Forschungsergebnisse und Weiterentwicklungen
+  anbau_spezialitaet: ECOVIN-Weine nach ökologischen Richtlinien
+  weinlehrpfad: Professor-Blankenhorn-Weinlehrpfad durch Spitzenlage Blankenhornsberg Doktorgarten
+  bedeutung_fuer_ort: größter Arbeitgeber im Weinbau, Forschungszentrum mit touristischer Anziehungskraft
+  ueberortsbekanntheit: ja
+QUELLE: https://www.ihringen.de/leben-in-ihringen/wein-_+obstbau/staatsweingut+freiburg | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+
+---
+
+ENTITÄT: organisation
+BEZEICHNUNG: Fanfarenzug Kaiserstühler Herolde Ihringen
+FACETTE: KULTUR | FREIZEIT
+EIGENSCHAFTEN:
+  typ: Musik- und Blasmusikverein
+  gruendung: 1953
+  mitglieder_aktiv: ca. 40
+  mitglieder_passiv: ca. 300
+  instrumente: Fanfaren, Mellophone, Landsknechts- und Marschtrommeln, Pauken, Fahnenschwinger
+  repertoire: klassische, historische Fanfarenmusik, Bearbeitungen barocker Werke
+  aktivitaeten: wöchentliche Proben, Auftritte bei kulturellen Veranstaltungen und Festen
+  besonderheit_weintage: bewirtschaftet Hof bei Ihringer Weintagen
+  auftritte: Maiwecken, Herbstausklang, Gottesdienst 1. Advent, Umzüge im Elsass, Cannstatter Wasen
+  musikleitung: Joachim Graf Zugführer, Dennis Probst stellvertretender Dirigent, Anna Lagarde 1. Vorsitzende
+  vorsitzende: Anna Lagarde
+  bedeutung_fuer_ort: kultureller Verein mit überörtlicher Bekanntheit und Verbindung zu Partnergemeinden
+  ueberortsbekanntheit: ja
+QUELLE: https://www.ihringen.de/kultur-und-freizeit/vereine | Gemeinde-Webseite
+GUELTIG_AB: 1953
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: organisation
+BEZEICHNUNG: Musikverein Wasenweiler
+FACETTE: KULTUR | FREIZEIT
+EIGENSCHAFTEN:
+  typ: Blasmusikverein, Winzerkapelle
+  gruendung: 1925
+  gründungsmotivation: Liebe zur Blasmusik und Freude am gemeinsamen Musizieren
+  hauptveranstaltung: Jahreskonzert (großer Höhepunkt im Vereinsjahr)
+  auftritte: Gottesdienst, Fasnetumzug, Ihringer Weintage, Zwiebelkuchenfest, Frühschoppen, Kirchenkonzert
+  repertoire: traditionelle Blasmusik und moderne Musikstücke, Filmmusik, moderne Medleys
+  wertung_gemeinde: aus Gemeinde nicht wegzudenken
+QUELLE: https://www.ihringen.de/kultur-und-freizeit/vereine | Gemeinde-Webseite
+GUELTIG_AB: 1925
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: organisation
+BEZEICHNUNG: Kaiserstuhl Touristik e.V.
+FACETTE: FREIZEIT | WIRTSCHAFT
+EIGENSCHAFTEN:
+  gruendung: 1972
+  urspruenglicher_name: Fremdenverkehrsverein Ihringen
+  zweck: Förderung und Vermehrung des örtlichen Fremdenverkehrs
+  mitglieder: gewerbliche und private Leistungsanbieter von Zimmern, Ferienwohnungen, Camping, Gastronomie, Weinbetriebe, Handel, Gewerbe, Förderer
+  leistungen: Beratung und Verwaltung, Veröffentlichung und Auslage von Leistungsangeboten, Ansprechstelle für Gäste, Bearbeitung von Anfragen, Prospektversand, Ausarbeitung von Angeboten
+  veranstaltungsorganisation: Weintage, Gipfeltreffen, Kaiserstuhltage
+  kooperationen: Naturgarten Kaiserstuhl
+  kooperations_bereiche: Themenpfade, Radwegenetz, regionales Marketing
+  bedeutung_fuer_ort: zentrale Tourismusorganisation und Vermarkter des Ortes
+  ueberortsbekanntheit: ja
+QUELLE: https://www.ihringen.de/kultur-und-freizeit/vereine | Gemeinde-Webseite
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Ruhpolding
+FACETTE: FREIZEIT | POLITIK
+EIGENSCHAFTEN:
+  land: Deutschland
+  bundesland: Bayern
+  region: Chiemgauer Alpen
+  partnerschaf_seit: 1979
+  einwohner: nicht angegeben
+  charakterisierung: Dorf im Herzen der Chiemgauer Alpen
+  aktivitaeten_sommer: Radfahren, Mountainbiken, Spaziergang, Wanderung
+  aktivitaeten_winter: Wintersport
+  wandertouren: unterschiedlichste Arten, schönste Aussichten
+  besonderheit_rauschberg: 600 Alpengipfel und Chiemsee sichtbar von 360° Panorama
+  kulturelle_attraktion: Biathlon Weltcup (alle fünf Tage regelmäßig veranstaltet)
+  bedeutung_partnerschaft: kulturelle und möglicherweise wirtschaftliche Austauschbeziehung
+QUELLE: https://www.ihringen.de/kultur-und-freizeit/partnerschaften/ruhpolding | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Munster
+FACETTE: FREIZEIT | POLITIK
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: Elsass
+  departement: Haut-Rhin
+  partnerschaf_seit: 1990
+  einwohner: ca. 5000
+  lage: im Herzen der Vogesen
+  naturschutz: Regionaler Naturpark Ballons des Vosges
+  nationalpark_verwaltung_sitz: Munster (mit angeschlossenem Ausstellungszentrum)
+  berg_hohneck: Gipfel des Berges Hohneck (1362 m) erhebt sich im Westen
+  fluss: Fecht fließt in der Ebene Richtung Colmar (ca. 20 km entfernt)
+  beruchtigung: Munsterkäse
+  geschichte_kloester: um 660 nach Christus St. Gregor-Kloster (Monasterium) von Benediktiner-Mönchen gegründet
+  geschichte_namensursprung: Stadt und Tal benannt nach Kloster (Monasterium)
+  charakterisierung: kleine Stadt, historisches Örtchen, lohnenswert zu besuchen
+  bedeutung_partnerschaft: kulturelle und möglicherweise wirtschaftliche Austauschbeziehung
+QUELLE: https://www.ihringen.de/kultur-und-freizeit/partnerschaften/munster+_f_ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Wattwiller
+FACETTE: FREIZEIT | POLITIK
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: Elsass
+  departement: Haut-Rhin
+  partnerschaf_seit: 1965
+  partnerschaf_ortsteil_bezug: Ortsteil Wasenweiler
+  besonderheit_namensgleiheit: Namensgleichheit Wasenweiler/Wattwiller
+  lage_hoehe: 630 m
+  lage_region: zwischen Südvogesen und Elsässischer Ebene
+  berg_molkenrain: Gipfel des Molkenrains (1125 m), gemeindeeigenes Berggasthaus
+  einwohner: 1780
+  charakterisierung: grüne Umgebung und ruhiger Wohnstandort
+  kirche_sehenswert: Denkmale geschützte Kirche aus 15. Jahrhundert in Ortsmitte
+  mineralwasser: Mineralwasserfabrik international bekannt
+  campingplatz: attraktiver Campingplatz international bekannt
+  weltkrieg_gedenkort: Hartmannswillerkopf (nahe gelegen), Kriegsschauplatz im Ersten Weltkrieg, Gedenkstätte für gefallene Soldaten an Zufahrtsstraße
+  bedeutung_partnerschaft: kulturelle und möglicherweise wirtschaftliche Austauschbeziehung
+QUELLE: https://www.ihringen.de/kultur-und-freizeit/partnerschaften/wattwiller++_f_ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: stadtlandpartnerschaft
+BEZEICHNUNG: Freiburg - Rieselfeld
+FACETTE: FREIZEIT | POLITIK
+EIGENSCHAFTEN:
+  partnerschaft_seit: 2008
+  typ: Stadt-Land-Partnerschaft
+  stadtteil: Rieselfeld in Freiburg
+  flaeche_stadtteil: 78
+  flaeche_stadtteil_einheit: ha
+  bauzeit_stadtteil: 1992-2013
+  infrastruktur_stadtteil: zentrale Straßenbahnlinie mit Restlicher Stadt vernetzt
+  charakteristika_stadtteil: intensive Bürgerbeteiligung, gelungene soziale Durchmischung, familienfreundliche Atmosphäre, umweltorientiertes Wohnen, hohe Freizeitqualität
+  bedeutung_partnerschaft: Gelegenheit zum Kennenlernen spannender moderner Stadtentwicklung und sozialen Lebens
+QUELLE: https://www.ihringen.de/kultur-und-freizeit/partnerschaften/freiburg+-+rieselfeld | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: naturzentrum
+BEZEICHNUNG: Naturzentrum Kaiserstuhl
+FACETTE: FREIZEIT | KULTUR
+EIGENSCHAFTEN:
+  beschreibung: umfassendes Programm zu Besonderheiten der Region
+  fokus: Naturvielfalt, Fauna und Flora
+  zielgruppe: Große und Kleine
+  bedeutung_fuer_ort: Bildungszentrum und Freizeitattraktion zur Naturvermittlung
+QUELLE: https://www.ihringen.de/kultur-und-freizeit/sport+_+aktiv/wandern | Gemeinde-Webseite
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.8
+
 ---
 
-ENTITÄT: ehrenamt
-BEZEICHNUNG: Adolf Hitler Ehrenbürgerschaft Ihringen
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+ENTITÄT: landschaft
+BEZEICHNUNG: Vulkanfelsgarten
+FACETTE: LAGE | FREIZEIT
 EIGENSCHAFTEN:
-  verliehen: Juli 1932
-  verliehen_zeitrahmen: noch vor Machtergreifung der Nationalsozialisten
-  erloschen: mit Tod
-  bestätigung_erloschenenheit: 15. April 1991 einstimmiger Gemeineratsbeschluss
-  besonderheit: wurde als nicht mehr gültig erklärt
-GUELTIG_AB: 1932
-GUELTIG_BIS: 1945
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-
-ENTITÄT: gericht
-BEZEICHNUNG: Amtsgericht Breisach
-ORTSTEIL_BEZUG:
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  zuständigkeit: Gemeinde Ihringen gehört zum Bezirk
+  charakterisierung: geologische Besonderheit
+  inhalt: 15 Millionenjahre Vulkangeschichte mit Lavaströmen, Tephrite und andere geologische Besonderheiten
+  bedeutung_fuer_ort: Zeugnis der geologischen Geschichte des Kaiserstuhls als Vulkanmassiv
+QUELLE: https://www.ihringen.de/kultur-und-freizeit/sport+_+aktiv/wandern | Gemeinde-Webseite
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
+
 ---
 
-ENTITÄT: film
-BEZEICHNUNG: Herbstausklang am Kaiserstuhl
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+ENTITÄT: garten
+BEZEICHNUNG: Duft- und Kräutergarten
+FACETTE: FREIZEIT | KULTUR
 EIGENSCHAFTEN:
-  erscheinungsjahr: 2014
-  dokumenttyp: Dokumentarfilm
-  herkunftsland: Deutschland
-  laufzeit: 29:43
-  buch: Olaf Jahnke, Frank Müller, Frank Siemoneit
-  kamera: Gerd Bleichert, Konrad Frick, Siegfried Maier
-  moderation: Eva Gnädig
-  produktion: SWR
-  reihe: Treffpunkt
-  erstsendung: 26. Oktober 2014 bei SWR
-GUELTIG_AB: 2014
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
----
-
-ENTITÄT: film
-BEZEICHNUNG: Rebland (Schwarzwald-Tatort)
-ORTSTEIL_BEZUG: Ihringen
-QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
-EIGENSCHAFTEN:
-  drehorte: in und um Ihringen
-  drehzeit: September 2019
-  erstausstrahlung: ein Jahr nach Drehzeit (ca. 2020)
-GUELTIG_AB: 2019
-IST_VERMUTLICH_AKTUELL: false
+  besucher: Große und Kleine
+  beschreibung: Garten mit aromatischen Pflanzen und Kräutern
+  erlebnis_faktoren: Entdeckung der Naturvielfalt
+  bedeutung_fuer_ort: Gartenerlebnis für Familie und Erholung
+QUELLE: https://www.ihringen.de/kultur-und-freizeit/sport+_+aktiv/wandern | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: marktvorgehen
+BEZEICHNUNG: Wochenmarkt
+FACETTE: ALLTAG | INFRA
+EIGENSCHAFTEN:
+  termin_regelmaessig: jeden Freitag
+  uhrzeit: 16:00 Uhr
+  ort: Synagogenplatz
+  pausierung: Sommer- und Winterpausen (werden im Gemeindeblatt bekannt gegeben)
+  produkte: heimische Produkte
+  charakterisierung: lustige Lebensart Dorfbewohner, gesellige Stunden
+  bedeutung_fuer_ort: Zentrum des dörflichen Alltags, Angebot regional-nachhaltiger Produkte
+QUELLE: https://www.ihringen.de/leben-in-ihringen/oeffentliche+einrichtungen/wochenmarkt | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Hella Gutmann Solutions GmbH
+FACETTE: WIRTSCHAFT
+EIGENSCHAFTEN:
+  sitz_kaiserstuhl: Ihringen
+  mitarbeiter: über 500 (gesamte Gruppe)
+  standorte_gruppe: vier Standorte verteilt
+  gruendung_ursprung: 1968 erste Werkstatt von Kurt Gutmann
+  gruendung_messtechnik: Achtziger Jahre - Gutmann Messtechnik gegründet
+  gruendung_mega_macs: 1995 mega macs 55 auf Markt gebracht (Multimarkendiagnose)
+  auszeichnung_mega_macs: 1996 Innovationspreis der Automechanika
+  zusammenschluss: 2008 Joint Venture mit HELLA KGaA
+  spezialisierung: Multimarkendiagnose und Werkstattausrüstung
+  kunden: über 40000 Werkstätten in 24 Ländern
+  angebot: Werkstattausrüstung, Daten-Services, technische Serviceleistungen
+  besonderheit: praxisnahe Unterstützung von Profis, durchdachte Technik
+  bedeutung_fuer_ort: bedeutender Arbeitgeber und Technologieunternehmen mit überörtlicher Reichweite
+  ueberortsbekanntheit: ja
+QUELLE: https://www.ihringen.de/leben-in-ihringen/handel+_+gewerbe | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: F.X.S. Sauerburger Traktoren und Gerätebau GmbH
+FACETTE: WIRTSCHAFT
+EIGENSCHAFTEN:
+  ortsteil: Wasenweiler
+  spezialisierung: Traktoren- und Gerätebau
+  vision: zuverlässige, komfortable und nachhaltige Produkte für spezifische Einsatzbereiche
+  kernwerte: Zuverlässigkeit, Nachhaltigkeit, komfortable Anwendbarkeit
+  kernkompetenz: hohe Qualitätsstandards und persönlicher Support
+  innovationen_beispiel_1: Doppelmessermähwerke insektenschonend mit niedrigem Energieaufwand
+  innovationen_beispiel_2: GRIP 4-70 Fahrzeugklasse mit einzigartiger Übersichtlichkeit und Gesundheitskomfort
+  innovationen_beispiel_3: Mulchgeräte, weltweit einziger Hersteller mit 9,5 Metern Arbeitsbreite
+  bedeutung_fuer_ort: prägender Betrieb und bedeutender Arbeitgeber in Wasenweiler
+  ueberortsbekanntheit: ja
+QUELLE: https://www.ihringen.de/leben-in-ihringen/handel+_+gewerbe | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Totenkopf
+FACETTE: LAGE
+EIGENSCHAFTEN:
+  hoehe: 557
+  hoehe_einheit: m ü.N.N.
+  charakterisierung: höchste Erhebung des Kaiserstuhls
+  lage_umgebung: in direkter geographischer Umgebung von Ihringen
+  bedeutung_fuer_ort: geologisches Wahrzeichen und Aussichtspunkt
+QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: winzergenossenschaft
+BEZEICHNUNG: Kaiserstühler Winzergenossenschaft Ihringen eG
+FACETTE: WIRTSCHAFT
+EIGENSCHAFTEN:
+  standort: Ihringen
+  typ: Winzergenossenschaft für Weinvermarktung und -verarbeitung
+  zentrale_rolle: zentrale Rolle in der Weinbaugemeinde bei der Vermarktung des Weines
+  bedeutung_fuer_ort: wichtiger Akteur der Wirtschaft und Weinbaukultur, Zusammenschluss lokaler Winzer
+QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: winzergenossenschaft
+BEZEICHNUNG: Wasenweiler Winzer eG
+FACETTE: WIRTSCHAFT
+EIGENSCHAFTEN:
+  standort: Wasenweiler
+  bestand_seit: 1935
+  beschreibung: Zusammenschluss von rund 200 Winzerfamilien
+  rebflaeche: 70
+  rebflaeche_einheit: ha
+  hauptrebsorte: Spätburgunder
+  zentrale_rolle: zentrale Rolle in der Weinbaugemeinde bei der Vermarktung des Weines
+  bedeutung_fuer_ort: wichtiger Akteur der Wirtschaft und Weinbaukultur von Wasenweiler
+QUELLE: https://de.wikipedia.org/wiki/Ihringen | Wikipedia
+GUELTIG_AB: 1935
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92

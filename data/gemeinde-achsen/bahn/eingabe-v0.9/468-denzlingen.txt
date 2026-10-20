@@ -1,0 +1,975 @@
+ZIELORT: Denzlingen (Gemeinde)
+LAGE: 8 km nördlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Denzlingen
+
+GRUNDDATEN:
+  landkreis: Emmendingen  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 13.734  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 16,94  [Wikidata P2046]
+  dichte_ew_km2: 811  [berechnet aus Einwohner und Fläche]
+  kfz: EM (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 234 | 232  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2938190)]
+  naechste_grossstadt: Freiburg im Breisgau, 8 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 124 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Denzlingen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 79211  [Wikidata P281]
+  vorwahl: 07666  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 27,4 %, GRÜNE 19,8 %, SPD 19 %, AfD 13,5 %, Die Linke 7,3 %; Wahlbeteiligung 85,8 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 83,4 % im Bundesland (Ort 85,8 %, Abstand 2,4 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+  buergermeister: Fabian Nitz (parteilos) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-20]
+  partnerstaedte: Saint-Cyr-sur-Mer, North Hykeham, Città della Pieve, Konstancin-Jeziorna  [Wikidata P190]
+
+ZEUGEN (OpenStreetMap, Gemeindegrenze; belegt nur, dass es die Sache gibt):
+  Burg/Denkmal: Sängerdenkmal
+  Aussicht: Rebhäusle
+  Freizeit: Storchenturm
+  Freizeit: Schwarzlichtpark Denzlingen
+  Freizeit: Minigolf Denzlingen (miniature golf)
+  Freizeit: Severinskapelle
+  Freizeit: Einbollenstadion (soccer)
+  Gipfel: Wisserkopf (448 m)
+  Bahnhof: Denzlingen (235 m)
+  Sportstätte: Pool & Snooker Denzlingen e.V. (billiards)
+  Sportstätte: Gesundheitszentrum Denzlingen (fitness;tennis;table tennis;squash;badminton)
+  Sportstätte: Turnhalle Mühlengasse (multi)
+  Sportstätte: Jahn-Sporthalle (multi)
+  Sportstätte: Schulsporthalle (multi)
+  Sportstätte: Ballsporthalle (multi)
+  Gewässer: Elz
+  Museum: Heimethues Denzlingen
+  Bad: Schwimmbad Bereich
+  Betrieb: Gewerbegebiet Steinbühl
+  Betrieb: Gewerbegebiet Geringfeldele
+  Betrieb: Caritaswerkstätten Sankt Georg, Zweigwerkstätte Denzlingen
+  Betrieb: Gewerbegebiet Engematten
+  Radweg: Elzdamm-Radweg (14 km)
+  Wanderweg: Breisgauer Weinweg
+
+PLAN:
+  Karte 1: FACETTE FREIZEIT (Ersatz: ALLTAG), Geschichte, D, wahre Option an Stelle 3
+  Karte 2: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 4
+  Karte 3: FACETTE ALLTAG (Ersatz: FREIZEIT), Geschichte, D, wahre Option an Stelle 1
+  Karte 4: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, A, wahre Option an Stelle 2
+  Karte 5: FACETTE INFRA (Ersatz: LAGE), Geschichte, D, wahre Option an Stelle 3
+  Karte 6: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, B, Lüge an Stelle 1
+  Karte 7: FACETTE LAGE, Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 1
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je ein weiteres Charakteristikum, Facette frei, Familie A, B oder D, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Gundelfingen (Gemeinde)
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  einwohner: 12.146  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 14,29  [Wikidata P2046]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 266 | 235 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2913713)]
+  naechste_grossstadt: Freiburg im Breisgau, 5 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Haltepunkt Gundelfingen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,3 %, GRÜNE 25,2 %, SPD 18,2 %, AfD 10,1 %, Die Linke 8,2 %; Wahlbeteiligung 87,7 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 83,4 % im Bundesland (Ort 87,7 %, Abstand 4,3 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+FAHRT: Wiehre, Waldsee, Altstadt, Stühlinger, Neuburg, Herdern, Zähringen, Brühl, Oberau, Haslach, Sankt Georgen, Vauban, Weingarten, Betzenhausen, Mooswald, Landwasser, Lehen, Rieselfeld, Dietenbach, Opfingen, Tiengen, Munzingen, Waltershofen, Ebnet, Littenweiler, Kappel, Merzhausen, Au, Horben, Günterstal, Ebringen, Schallstadt, Bad Krozingen, Staufen, Heitersheim, Müllheim, Waldkirch, Hochdorf, Gundelfingen, Denzlingen, March, Umkirch, Gottenheim, Merdingen, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Vogtsburg, Breisach, Gündlingen, Kirchzarten, Stegen, Oberried, Buchenbach, Höllental, Hinterzarten, Breitnau, Titisee, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Breitscheid, Kloster Marienhaus, Wolfenacker, Kupferdreh, Überruhr, Bergerhausen, Rellinghausen, Stadtwald, Fischlaken, Werden, Burgaltendorf, Steele, Byfang, Rüttenscheid, Bredeney, Huttrop, Kettwig
+
+FAKTEN (Zielort Denzlingen):
+ID: 468-denzlingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Denzlingen
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.denzlingen.de/p/zahlen-daten-und-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  landkreis: Emmendingen
+  regierungsbezirk: Freiburg
+  bundesland: Baden-Württemberg
+  lage_zu_freiburg: ca. 10 km nördlich
+  höhenlage: 234 m
+  höchster_punkt: 490 m
+  tiefster_punkt: 208 m
+  postleitzahl: 79211
+  gesamtfläche: 1694 ha
+  gemarkung_flächentypen: Siedlung 283 ha; Landwirtschaft 973 ha; Wald 264 ha; Gewässer 17 ha
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 468-denzlingen/002
+ENTITÄT: ort
+BEZEICHNUNG: Denzlingen
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.denzlingen.de/p/denzlingens-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_besiedlung: Neolithikum, genauigkeit: "ca.", zeitraum: 5500-2200 v. Chr., entdeckungsort: Benzenbühl
+  gründung_typ: Alemannische Siedlung -ingen-Bildung
+  gründungszeitraum: 5./6. Jahrhundert
+  namensherkunft: "Stammesfürst Denzilo (5. Jahrhundert); Bedeutung: bei den Leuten des Denzilo"
+  erste_urkundliche_erwähnung: 27. Oktober 984 (König Otto III., Urkunde, Kloster Einsiedeln)
+  zerstörung_dreißigjähriger_krieg: 1635, fast vollständig zerstört; nur 22 von 140 Bürgern kehrten zurück
+  eisenbahn_anschluss: 31. Juli 1845
+  elztalbahn_anschluss: 1875
+  industrialisierung_beginn: Mitte 19. Jahrhundert, tabakfabriken und zigarrenfabriken
+GUELTIG_AB: 984
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 468-denzlingen/003
+ENTITÄT: ort
+BEZEICHNUNG: Denzlingen
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.denzlingen.de/p/zahlen-daten-und-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 13665
+  einwohner_stand: 30. September 2025
+  bevölkerungsentwicklung_1980: 10129
+  bevölkerungsentwicklung_2020: 13585
+  anteil_evangelisch: 23.5%
+  anteil_katholisch: 30.7%
+  anteil_konfessionslos: 45.8%
+  konfessionsstat_stand: 31. Dezember 2022
+GUELTIG_AB: 2025
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 468-denzlingen/004
+ENTITÄT: gemeindewappen
+BEZEICHNUNG: Denzlinger Wappen
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.denzlingen.de/p/denzlinger-wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  blasonierung: "In gespaltenem Schild vorn in Gold ein roter Schrägbalken, hinten in Blau eine silberne Pflugschar"
+  siegel_seit: 1458
+  schräg_balken_bedeutung: Zugehörigkeit zur Markgrafschaft Hachberg
+  pflugschar_bedeutung: Dorfzeichen
+  farben_festlegung: Mai 1900
+  farben_beschluss_durch: Gemeinderat auf Vorschlag des Generallandesarchivs
+GUELTIG_AB: 1458
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 468-denzlingen/005
+ENTITÄT: kirche
+BEZEICHNUNG: St. Georg
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.denzlingen.de/p/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  erste_erwähnung: 1302
+  konfessionswechsel: 1556 (Reformation in Markgrafschaft)
+  älteste_erhaltene_teile_zeit: 14. Jahrhundert
+  turmhelm_erbauung: 1547
+  turmhelm_auftraggeber: Markgraf Ernst I. von Baden
+  besonderheit_spiraltreppe: "älteste Spiraltreppe auf einem Kirchturm; kunsthistorisch bedeutsam"
+  wandgemälde_freilegung: 1961
+  erweiterung: 1756
+  kirchenraum_umgestaltung: 1959-1961
+  turm_neuverputz: 2002
+  storchennest_dach: seit 2006
+  bedeutung_fuer_ort: "Charakteristikum; Wahrzeichen mit historischem Hintergrund"
+GUELTIG_AB: 1302
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 468-denzlingen/006
+ENTITÄT: kirchenturm
+BEZEICHNUNG: Storchenturm
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.denzlingen.de/p/denzlingens-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  teil_von_kirche: St. Michael (ursprünglich), ab 1457 St. Georg
+  erste_erwähnung_kirche: 1275
+  benennung_storchenturm: 1908
+  turmgestaltung: offener Turmhelm mit Spiraltreppe von außen sichtbar
+  storchennest_seit: 1983
+  videobeobachtung_seit: 1995
+  künstler_malerei: Theodor Zeller (1978 Südseite ausgemalt)
+  sonnenuhr_anbringung: 2002
+  bedeutung_fuer_ort: "Charakteristikum; markantes Wahrzeichen; Erkennungszeichen der Ortsmitte"
+GUELTIG_AB: 1275
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 468-denzlingen/007
+ENTITÄT: kirche
+BEZEICHNUNG: St. Josef
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.denzlingen.de/p/denzlingens-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+  bauzeit: 1912-1913
+  geweiht: 1913
+  geweiht_durch: Freiburger Weihbischof Justus Knecht
+  ursprung_gebäude: St. Bonifatius-Kirche Emmendingen (seit 1863)
+  besonderheit: "Stein für Stein abgetragen, mit Ochsenkarren nach Denzlingen transportiert, wieder aufgebaut"
+  architektur_turm: Turm statt Dachreiter, halbrunde Chorapsis
+  altar_künstler: Gebrüder Moroder (Hochaltar, Marienaltar, Josefsaltar)
+  glocken_anzahl: vier
+  deckengemälde: Zwölf Apostel
+  kirchenfenster: Heiliger Severin und Heiliger Bonifatius
+  orgel_herkunft: Schonach
+  pfarrhaus_erbauung: 1912-1913
+  rettung_kirche: "Bürger setzten sich erfolgreich gegen Abriss ein; Bildung Pflegschaft St. Josef"
+  stiftung_gründung: 2000 (Stiftung St. Josef für Spendensammlung)
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 468-denzlingen/008
+ENTITÄT: kirche
+BEZEICHNUNG: St. Jakobus
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.denzlingen.de/p/denzlingens-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+  bauzeit: 1975-1976
+  geweiht: 1976
+  location: Stuttgarter/Berliner Straße
+  architekt: Heinz Baron (Freiburg)
+  innengestaltung_künstler: Theodor Zeller (Maler) und Helmut Lutz (Bildhauer)
+  jakobus_skulptur: Helmut Lutz (Außenwand)
+  bedeutung_fuer_ort: "Verlagerte katholisches Leben in Gemeinde nach Osten"
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 468-denzlingen/009
+ENTITÄT: kirchenruine
+BEZEICHNUNG: Sankt Severin
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.denzlingen.de/p/denzlingens-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Mauracher Berg
+  jahreszahl_portal: 1497
+  patrozinium_erste_erwähnung: 1488
+  bauherren_vermutung: Waldkircher Chorherren (Margarethen-Stift)
+  reliefplatte_stein: Darstellung des heiligen Severin (Buntsandstein, in St. Jakobus-Kirche)
+  archäologische_grabung: August 2011
+  bedeutung_fuer_ort: "Charakteristikum; Ausflugsziel mit Ausblick; Wahrzeichen"
+  beschreibung: "Ruine mit tollen Ausblick und idyllischer Umgebung"
+GUELTIG_AB: 1497
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 468-denzlingen/010
+ENTITÄT: rathaus
+BEZEICHNUNG: Altes Rathaus
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.denzlingen.de/p/denzlingens-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung: 1909
+  ort: gegenüber Gasthaus Krone
+  sanierung: 1998 (grundlegend)
+  bauform: "historisierender Baustil"
+  nutzung_aktuell: "Gemeinderat tagt dort; Galerie für Kunstausstellungen; Trauzimmer"
+  location_beschreibung: "unweit der Georgskirche"
+GUELTIG_AB: 1909
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 468-denzlingen/011
+ENTITÄT: rathaus
+BEZEICHNUNG: Neues Rathaus
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.denzlingen.de/p/sehenswertes-in-denzlingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung: 1996
+  hauptstraße: 110
+  funktion: "Verwaltungsgebäude für Gemeindeverwaltungsverband Denzlingen-Vörstetten-Reute"
+  rathausplatz_gestaltung: "neugestaltet mit Brunnen und Bächle"
+  bedeutung_fuer_ort: "Wahrzeichen der modernen Ortsmitte"
+GUELTIG_AB: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 468-denzlingen/012
+ENTITÄT: kulturzentrum
+BEZEICHNUNG: Kultur- & Bürgerhaus (KuB)
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.denzlingen.de/p/freizeit-brkultur | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 2003
+  architektur_bewertung: "Meisterwerk zeitgenössischer Architektur (Frankfurter Allgemeine Zeitung 2003)"
+  förderung: Deutsche Bundesstiftung Umwelt (DBU)
+  entstehung: "aus europaweitem Wettbewerb"
+  bauform: "langgestreckt, leicht gebogenes Dach, horizontal gegliederter Fassade"
+  umgebung: "künstlicher See"
+  ausstattung: "Großer Saal mit Bühne und Empore, Kleiner Saal, Foyer mit Galerie, Restaurant"
+  veranstaltungen: "Kulturprogramm, Kammerkonzerte, Jazz-Festival"
+  kulturwoche_turnus: "zweiährlich seit 2003"
+  kulturpreis_verleihung: "seit 2003 in Kulturwoche"
+  bedeutung_fuer_ort: "Charakteristikum; überregionaler Anziehungspunkt im nördlichen Breisgau"
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 468-denzlingen/013
+ENTITÄT: kulturzentrum
+BEZEICHNUNG: Rocca-Areal
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.denzlingen.de/p/historie-der-zigarrenfabrik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung_original: 1891-1894
+  ursprung: Getreidemühle
+  erste_nutzung: Wollenweberei
+  zweite_nutzung_zeit: 1911-1960
+  zweite_nutzung: Zigarrenfabrik (Otto Möllinger)
+  zweite_nutzung_arbeiter: ca. 100 Arbeiter
+  dritte_nutzung_zeit: 1960-1999
+  dritte_nutzung: Rocca KG (bauchemische Produkte)
+  gemeinde_kauf: 1996
+  sanierungszweck: "Ortskernsanierung; Gewerbebetriebe aus Ortsmitte verlagern"
+  sanierungszeit: 2002-2004
+  sanierungsmaßnahmen: "Fabrikgebäude saniert, Teilabriss, Neubau Treppenhausturm mit Versorgungseinrichtungen"
+  aktuelle_nutzung: "Kulturzentrum mit Mediathek, Kulturcafé, Veranstaltungssaal; Weltladen; Malkreis"
+  mediathek_bestände: "ca. 17.000 Medien (Bücher, Zeitschriften, Hörbücher, CDs, Lernsoftware, Spiele)"
+  glotterrad: "Wasserrad (Durchmesser 1,80 m, Leistung 4,0 kW, Jahresertrag ca. 20.000 kWh); erneubare Energie"
+  glotterrad_bedeutung: "An Stelle der ersten Elektrizitätserzeugung Denzlingens (1911 Saaler Turbine)"
+  fischtreppe: "ermöglicht Fischen das Kraftwerk unbeschadet zu passieren"
+  bedeutung_fuer_ort: "Charakteristikum; Ortskernsanierung; Kultureinrichtung"
+GUELTIG_AB: 1894
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 468-denzlingen/014
+ENTITÄT: historisches_gebäude
+BEZEICHNUNG: Stapflehues
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.denzlingen.de/p/sehenswertes-in-denzlingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung: 1597
+  ortsgeschichte: "eines der wenigen Gebäude, das den Dreißigjährigen Krieg überstanden hat"
+  älteste_gebäude_denzlingens: true
+  handwerkszeichen: "Zeichen der Bäckerzunft am Bogenscheitelstein"
+  bedeutung_fuer_ort: "Charakteristikum; Wahrzeichen der frühen Ortsmitte"
+GUELTIG_AB: 1597
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 468-denzlingen/015
+ENTITÄT: museum
+BEZEICHNUNG: Heimethues
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.denzlingen.de/p/sehenswertes-in-denzlingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  träger: Heimat- und Geschichtsverein Denzlingen
+  gebäude: "bäuerliche Hofanlage mit Wohnhaus, Scheune, Stall und Keller"
+  inhalte: "Otto-Raupp-Stube; Sammlung landwirtschaftlicher Geräte; Lebens- und Arbeitsverhältnisse vergangener Zeiten"
+  festplatz: "seit 2011 neu geschaffen am Heimethues; Dorfplatz mit Glotterbach-Öffnung"
+  nutzung_festplatz: "zahlreiche gemütliche Hocks der Denzlinger Vereine"
+  bedeutung_fuer_ort: "Charakteristikum; Ortshistorie; Treffpunkt"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 468-denzlingen/016
+ENTITÄT: bahnhof
+BEZEICHNUNG: Denzlingen
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.denzlingen.de/p/zahlen-daten-und-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  höhenlage: 235 m
+  zugverbindungen_täglich: über 120
+  bahnstrecke_rheintalbahn: Offenburg-Basel
+  bahnstrecke_elztalbahn: nach Elzach
+  erste_zugfahrt: 31. Juli 1845
+  bahnhof_gebäude_erbauung: 1846
+  bahnhof_gebäude_charakteristikum: "ältestes Zeugnis der Eisenbahngeschichte im Ort; seltenes Beispiel früher Bahnhofsarchitektur; denkmalgeschützt"
+  bahnhof_gebäude_nutzung: "heute Wohngebäude"
+  industrie_bedeutung: "markierte Beginn des Zeitalters der Industrialisierung (1845)"
+GUELTIG_AB: 1845
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 468-denzlingen/017
+ENTITÄT: bad
+BEZEICHNUNG: MACH' BLAU (Sport- und Familienbad)
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.denzlingen.de/p/denzlingens-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung_original: 1973-1974
+  sanierung_renovierung: Oktober 2008 - Mai 2010
+  wiedereröffnung: 21. Mai 2010
+  lage: Mauracher Berg
+  becken_außen: 4 (Schwimm-, Sprung-, Nichtschwimmer-, Kinderbecken)
+  becken_innen: 3 (Schwimm-, Nichtschwimmer-, Kinderbecken)
+  sprunganlage: 10-Meter-Sprungturm
+  ganzjahresbecken: mit Innen- und Außenbereich
+  saunabereich: erweitert
+  renovierungskosten: ca. 10 Mio. €
+  bedeutung_fuer_ort: "Charakteristikum; eine der größten Freizeiteinrichtungen in der Region; Wellnesslandschaft"
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 468-denzlingen/018
+ENTITÄT: stadion
+BEZEICHNUNG: Einbollenstadion
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.denzlingen.de/p/denzlingens-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fußballstadion_verein: FC Denzlingen
+  kunstrasenplatz_weihe: Herbst 2008
+  spielfelder_anzahl: 1 großes + 2 kleinere
+  größe_spielfeld_kunstrasen: für Jugendarbeit
+  bedeutung_fuer_ort: "Sporteinrichtung; Charakteristikum"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 468-denzlingen/019
+ENTITÄT: sportverein
+BEZEICHNUNG: FC Denzlingen
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Denzlingen | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1928
+  spielort: Einbollenstadion
+  liga_herren: Oberliga Baden-Württemberg
+  erfolg_herren_pokal: Südbadischer Pokalsieger 1998
+  erfolg_herren_meister: Südbadischer Meister 1999, 2009, 2023, 2025
+  erfolg_frauen: Südbadische Meisterschaft 2010, 2011
+  veranstaltung_hallenfußball: Denzlinger Nacht seit 1988 (Januar)
+  bedeutung_fuer_ort: "Charakteristikum; überörtliche Bekanntheit; erfolgreichster Sportverein"
+GUELTIG_AB: 1928
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 468-denzlingen/020
+ENTITÄT: weingut
+BEZEICHNUNG: Rebhäusle
+FACETTE: FREIZEIT
+ORTSTITEL_BEZUG: 
+QUELLE: https://www.denzlingen.de/p/denzlingens-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung: 1872
+  lage: Südwesthang des Einbollens
+  rebberg_anlage: 1869-1872 (Südwesthang gerodet)
+  vergabe: als Bürgernutzen
+  charakter_landmarkewissenschaft: "weithin sichtbar; Wahrzeichen"
+  weinbau_tradition: "lange Tradition in Denzlingen; im Mittelalter am Mauracher Berg Rebanlagen im Gewann Weingarten"
+  bedeutung_fuer_ort: "Charakteristikum; Aussichtspunkt; Zeichen von Weinbau-Tradition"
+GUELTIG_AB: 1872
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 468-denzlingen/021
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Saint-Cyr-sur-Mer
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Denzlingen | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: Provence, Côte d'Azur
+  partnerschaft_seit: 1974
+  entfernung: ca. 835 km
+  anlass_partnerschaft: "unter anderem im Zeichen des Élysée-Vertrages"
+  superlativ: "älteste Städtepartnerschaft Denzlingens"
+  bedeutung_fuer_ort: "Charakteristikum; internationale Beziehung; 50-Jahr-Jubiläum 2024"
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 468-denzlingen/022
+ENTITÄT: partnerstadt
+BEZEICHNUNG: North Hykeham
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Denzlingen | Wikipedia
+EIGENSCHAFTEN:
+  land: Großbritannien
+  region: Lincolnshire (Mittelengland)
+  partnerschaft_seit: 1988
+  entfernung: ca. 1100 km
+  kreisverkehr_mittelinsel_gestaltung: "im Industriegebiet nahe der Fischerwerke"
+  bedeutung_fuer_ort: "Charakteristikum; internationale Beziehung"
+GUELTIG_AB: 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 468-denzlingen/023
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Città della Pieve
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Denzlingen | Wikipedia
+EIGENSCHAFTEN:
+  land: Italien
+  region: Umbrien (Grenze zur Toskana, Mittelitalien)
+  partnerschaft_seit: 1993 oder 1994
+  entfernung: ca. 860 km
+  kreisverkehr_mittelinsel_gestaltung: "in der Nähe des Bahnhofes"
+  bedeutung_fuer_ort: "Charakteristikum; internationale Beziehung"
+GUELTIG_AB: 1993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 468-denzlingen/024
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Konstancin-Jeziorna
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Denzlingen | Wikipedia
+EIGENSCHAFTEN:
+  land: Polen
+  stadt_lage: "unweit von Warschau"
+  partnerschaft_seit: 2011
+  partnerschaft_datum: 19. Juni 2011
+  erste_verbindung_vorher: "schulische Ebene zwischen Erasmus-Gymnasium und Partnerschule in Warschau"
+  superlativ: "erste Städtepartnerschaft mit Stadt im Osten"
+  bedeutung_fuer_ort: "Charakteristikum; internationale Beziehung; europäische Vernetzung"
+GUELTIG_AB: 2011
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 468-denzlingen/025
+ENTITÄT: fest
+BEZEICHNUNG: Europafest
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.denzlingen.de/p/europafest-2024 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristika: "Fest mit Partnerstädten; Kulturwoche; Jubiläumsfest"
+  häufigkeit: "größere Feste mit Partnerstädten (2019, 2024)"
+  ziel: "Völkerverständigung; Grenzenüberwindung; europäische Vernetzung"
+  anlass_2024: "50 Jahre Partnerschaft mit Saint-Cyr-sur-Mer"
+  kunstwerk_2024: "Wand der Partnerschaften mit Künstlerarbeiten"
+  bedeutung_fuer_ort: "Charakteristikum; überörtliches Fest; Identität"
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 468-denzlingen/026
+ENTITÄT: fest
+BEZEICHNUNG: Herbstfest
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.denzlingen.de/p/herbstfest | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristika: "Kunst und Handwerk; Kunsthandwerksmarkt; Musikprogramm; Familie"
+  häufigkeit: "alljährlich (letzte Erwähnung: 26.-27. September 2026)"
+  dauer: "Wochenende (Samstag-Sonntag)"
+  angebote: "lokale/regionale Kunsthandwerk; Musik; Gastronomie; Kinderaktionen; Mitmachangebote"
+  bedeutung_fuer_ort: "Charakteristikum; lokale Kultur und Kreativität"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 468-denzlingen/027
+ENTITÄT: markt
+BEZEICHNUNG: Wochenmarkt
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.denzlingen.de/p/wochenmarkt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  orte: "Kohlerhof und Kauftreff"
+  wochenmarkt_kohlerhof_tage: "Dienstag und Freitag"
+  wochenmarkt_kohlerhof_zeiten: "08:00-12:00 Uhr"
+  wochenmarkt_kauftreff_tag: "Freitag"
+  wochenmarkt_kauftreff_zeiten: "14:00-18:00 Uhr"
+  weihnachtsmarkt: "jährlich am 3. Adventswochenende am Rathaus"
+  bedeutung_fuer_ort: "Charakteristikum; lokales Einkaufsangebot; Marktplatz"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 468-denzlingen/028
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Christian Meyer
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Denzlingen | Wikipedia
+EIGENSCHAFTEN:
+  geb_jahr: 1969
+  beruf: Radrennfahrer
+  erfolg: Olympiasieger 1992 (Goldmedaille)
+  wohnort: Denzlingen
+  superlativ: "erfolgreichster Denzlinger Sportler (Olympiasieger)"
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 468-denzlingen/029
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Mike Kluge
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Denzlingen | Wikipedia
+EIGENSCHAFTEN:
+  geb_jahr: 1962
+  beruf: Radrennfahrer (ehemaliger Radprofi)
+  erfolg: Cyclocross-Weltmeister 1992
+  wohnort: Denzlingen
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 468-denzlingen/030
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Mark Pinger
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Denzlingen | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Schwimmer
+  erfolg: Bronzemedaille Olympische Spiele 1992
+  bedeutung: "Olympionike aus Denzlingen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 468-denzlingen/031
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Theodor Zeller
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Denzlingen | Wikipedia
+EIGENSCHAFTEN:
+  lebenszeit: 1900-1986
+  beruf: Maler und Künstler
+  ansässigkeit_seit: 1929
+  werke_ortsgestaltung: "Malereien in St. Michael; Innengestaltung St. Jakobus-Kirche; Malerei Südseite Storchenturm (1978)"
+  bedeutung_fuer_ort: "Künstler; kulturelles Engagement; Stadtgestaltung"
+GUELTIG_AB: 1929
+GUELTIG_BIS: 1986
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 468-denzlingen/032
+ENTITÄT: gewerbebetrieb
+BEZEICHNUNG: Schölly Fiberoptic GmbH
+FACETTE: WIRTSCHAFT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristika: "international bekannte Firma"
+  tätigkeit: Entwicklung und Produktion chemischer Befestigungssysteme
+  produkte_anwendung: Bauindustrie
+  standorte: "Werk in Denzlingen mit 160 Mitarbeitern (Stand 2020)"
+  bedeutung_fuer_ort: "Charakteristikum; großer Arbeitgeber; Wirtschaftsstandort"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 468-denzlingen/033
+ENTITÄT: gewerbebetrieb
+BEZEICHNUNG: Fischerwerke (Fischer-Gruppe)
+FACETTE: WIRTSCHAFT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Denzlingen | Wikipedia
+EIGENSCHAFTEN:
+  tätigkeit: "Entwicklung und Produktion chemischer Befestigungssysteme"
+  produkte_anwendung: Bauindustrie
+  standort: Denzlingen (Werk)
+  mitarbeiter: 160 (Stand 2020)
+  bedeutung_fuer_ort: "Charakteristikum; großer Arbeitgeber; Wirtschaftsstandort"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 468-denzlingen/034
+ENTITÄT: zigarrenfabrik
+BEZEICHNUNG: Zigarrenproduktion Denzlingen
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.denzlingen.de/p/denzlingens-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_fabrik_gründung: 1867
+  anzahl_fabriken_peak: bis zu 7 Zigarrenfabriken gleichzeitig
+  beschäftigte_rocca_fabrik: ca. 100 Arbeiter (1911-1960)
+  betriebszeitraum_rocca: 1911-1960
+  betreiber_rocca: Otto Möllinger (ab 1911)
+  elektrizität_erste: 1911 Otto Möllinger Saaler Turbine aus Teningen
+  bedeutung_fuer_ort: "Industrialisierung; Arbeitgeber; Charakteristikum der Industrialisierung"
+GUELTIG_AB: 1867
+GUELTIG_BIS: 1960
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 468-denzlingen/035
+ENTITÄT: gewässer
+BEZEICHNUNG: Glotter
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Denzlingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Fließgewässer
+  lage: fließt durch den Ort von Ost nach West
+  ursprung: aus Glottertal (Schwarzwald)
+  länge_teil: öffnet sich in weitem Winkel nach Westen
+  bedeutung: "Lebensader Denzlingens; historische Mühlenenergie"
+  historische_brücken: "historische Brücken"
+  brunnen_bei_glotter: "Sackträgerbrunnen; Glotterbach"
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 468-denzlingen/036
+ENTITÄT: gewässer
+BEZEICHNUNG: Elz
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Denzlingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Fließgewässer
+  lage: fließt im Norden der Gemeinde
+  richtung: "Elztal im Nordosten erreichbar"
+  bedeutung: "Teil der Gemarkung Denzlingen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 468-denzlingen/037
+ENTITÄT: erhebung
+BEZEICHNUNG: Mauracher Berg
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Denzlingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: "geologisch interessante Erhebung der Vorbergzone"
+  lage: "in der Ebene von Elz und Glotter im Norden der Gemeinde"
+  charakteristika: "Wahrzeichen; Ausflugsziel; archäologischer Fundort"
+  siedlung_muron: "römische Siedlung am Fuße des Berges"
+  klosterruine: "Kirchenruine St. Severin (1497)"
+  grillplatz: "schattiger Grillplatz mit Ausblick"
+  bedeutung_fuer_ort: "Charakteristikum; Erholung; Geschichte"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 468-denzlingen/038
+ENTITÄT: erhebung
+BEZEICHNUNG: Einbollen
+FACETTE: LAGE
+ORTSTITEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Denzlingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: "Schwarzwald-Abhang"
+  charakteristika: "Wahrzeichen; Weinanbau; Ausflugsziel"
+  rebhäusle: "weithin sichtbares Rebhäusle (1872)"
+  weinanbau: "Rebberg seit 1869-72; Bürgernutzen"
+  eisenbergbau_frühe: "Eisenerzbergbau in früher Neuzeit"
+  pingen: "zahlreiche Pingen (Bergbaudenkmäler)"
+  bedeutung_fuer_ort: "Charakteristikum; Wahrzeichen; Weinbau-Tradition"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 468-denzlingen/039
+ENTITÄT: gipfel
+BEZEICHNUNG: Wisserkopf
+FACETTE: LAGE
+ORTSTITEL_BEZUG: 
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  höhe: 448 m
+  lage: "auf Denzlinger Gemarkung"
+  bedeutung: "Schwarzwald-Gipfel"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 468-denzlingen/040
+ENTITÄT: verwaltungsgemeinschaft
+BEZEICHNUNG: Gemeindeverwaltungsverband Denzlingen-Vörstetten-Reute
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.denzlingen.de/p/denzlingens-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_denzlingen_vörstetten: 1972
+  erweiterung_um_reute: 1974
+  sitz: Denzlingen
+  funktion: "gemeinsame Erledigung von Verwaltungsangelegenheiten"
+  träger_schulen: "Schulträger der beteiligten Gemeinden"
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 468-denzlingen/041
+ENTITÄT: schule
+BEZEICHNUNG: Erasmus-Gymnasium
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Denzlingen | Wikipedia
+EIGENSCHAFTEN:
+  schulart: Gymnasium
+  lage: "Bildungszentrum Denzlingen"
+  internationales_engagement: "Partnerschaft mit Partnerschule in Warschau (Polen)"
+  schülerzahl: 540 (im Schuljahr 2017/18 prozentualer Anteil 29,65%)
+  schulgebäude_erweiterung: 2007
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 468-denzlingen/042
+ENTITÄT: schule
+BEZEICHNUNG: Ruth-Cohn-Schule
+FACETTE: INFRA
+ORTSTITEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Denzlingen | Wikipedia
+EIGENSCHAFTEN:
+  schulart: Verbundschule (Werkrealschule + Realschule)
+  lage: "Bildungszentrum Denzlingen"
+  gründung: Schuljahr 2019/20 (Zusammenlegung)
+  namengebung: ab 2020
+  schülerzahl_werkrealschule: 183 (Schuljahr 2017/18, 10,05%)
+  schülerzahl_realschule: 560 (Schuljahr 2017/18, 30,75%)
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 468-denzlingen/043
+ENTITÄT: brunnen
+BEZEICHNUNG: Sackträgerbrunnen
+FACETTE: LAGE
+ORTSTITEL_BEZUG: 
+QUELLE: https://www.denzlingen.de/p/sehenswertes-in-denzlingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Hauptstraße kurz vor dem Ortsausgang in Richtung Glottertal"
+  geschichte: "ehemalige Öl- und Senfmühle an dieser Stelle"
+  künstler: "Breisacher Bildhauer Helmut Lutz (1974)"
+  material_original: "Mahltrog und Mahlstein der ehemaligen Mühle"
+  name_bedeutung: "benannt nach der schweren Arbeit des Müllers (Öler genannt)"
+  beschreibung: "lädt zum Verweilen unmittelbar an der Glotter ein"
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 468-denzlingen/044
+ENTITÄT: brunnen
+BEZEICHNUNG: Europabrunnen
+FACETTE: SYMBOL
+ORTSTITEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Denzlingen | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Nähe St. Jakobus-Kirche"
+  einweihung: 2008
+  provisionelle_aufstellung_vorher: "Walpurgisnacht 2005 (als Maischerz)"
+  namengebung: "Zeichen der Städtepartnerschaften mit Città della Pieve, North Hykeham, Saint-Cyr-sur-Mer"
+  skulptor: "Breisacher Bildhauer Helmut Lutz"
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 468-denzlingen/045
+ENTITÄT: radweg
+BEZEICHNUNG: Elzdamm-Radweg
+FACETTE: FREIZEIT
+ORTSTITEL_BEZUG: 
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  länge: 14 km
+  charakteristika: "Radweg für Freizeit und Verkehr"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 468-denzlingen/046
+ENTITÄT: wanderweg
+BEZEICHNUNG: Breisgauer Weinweg
+FACETTE: FREIZEIT
+ORTSTITEL_BEZUG: 
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  charakteristika: "Themenweg; Weinkultur"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 468-denzlingen/047
+ENTITÄT: sportstätte
+BEZEICHNUNG: Turnhalle Mühlengasse
+FACETTE: FREIZEIT
+ORTSTITEL_BEZUG: 
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  typ: Sporthalle (Mehrzweck)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 468-denzlingen/048
+ENTITÄT: sportstätte
+BEZEICHNUNG: Jahn-Sporthalle
+FACETTE: FREIZEIT
+ORTSTITEL_BEZUG: 
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  typ: Sporthalle (Mehrzweck)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 468-denzlingen/049
+ENTITÄT: sportstätte
+BEZEICHNUNG: Schulsporthalle
+FACETTE: FREIZEIT
+ORTSTITEL_BEZUG: 
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  typ: Sporthalle (Mehrzweck)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 468-denzlingen/050
+ENTITÄT: sportstätte
+BEZEICHNUNG: Ballsporthalle
+FACETTE: FREIZEIT
+ORTSTITEL_BEZUG: 
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  typ: Sporthalle (Mehrzweck)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 468-denzlingen/051
+ENTITÄT: sportstätte
+BEZEICHNUNG: Gesundheitszentrum Denzlingen
+FACETTE: FREIZEIT
+ORTSTITEL_BEZUG: 
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  einrichtungen: Fitness, Tennis, Tischtennis, Squash, Badminton
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 468-denzlingen/052
+ENTITÄT: sportstätte
+BEZEICHNUNG: Pool & Snooker Denzlingen
+FACETTE: FREIZEIT
+ORTSTITEL_BEZUG: 
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  typ: Billardclub (billiards)
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 468-denzlingen/053
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Fabian Egle
+FACETTE: POLITIK
+ORTSTITEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Denzlingen | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit_von: 2025
+  parteiaffiliation: parteilos
+  zeitgenössisch: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 468-denzlingen/054
+ENTITÄT: stadt
+BEZEICHNUNG: Denzlingen
+FACETTE: POLITIK
+ORTSTITEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Denzlingen | Wikipedia
+EIGENSCHAFTEN:
+  ist_kreisstadt: false
+  status: "Unterzentrum"
+  lage: "im Städtedreieck Freiburg, Emmendingen, Waldkirch"
+  einwohner_umland: ca. 30.000 (unmittelbares Einzugsgebiet)
+  entfernung_freiburg: ca. 10 km
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+

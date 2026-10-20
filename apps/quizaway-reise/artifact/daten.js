@@ -14561,153 +14561,476 @@ window.QA_DATEN = {
 "km_vom_vorigen": 4.8
 },
 {
+"slug": "468-denzlingen",
+"name": "Denzlingen",
+"lat": 48.06833,
+"lon": 7.8825,
+"karten": [
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Ganzjahresbad mit 10-Meter-Sprungturm",
+"rang": 2,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Denzlingen",
+"steckbrief": "Rund 13.700 Einwohner, 8 km nördlich von Freiburg im Breisgau.",
+"frage": "Welche dieser vier Dinge gibt es in Denzlingen?",
+"optionen": [
+"eine Sommerrodelbahn",
+"ein Wildgehege",
+"ein Bad mit 10-Meter-Sprungturm",
+"eine Kartbahn"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das Sport- und Familienbad MACH' BLAU hat Sprungtürme bis 10 Meter Höhe und Becken drinnen wie draußen. Eine Rodelbahn oder ein Wildgehege liegen nahe, weil der Schwarzwald so nah ist. Für eine Gemeinde mit knapp 14.000 Einwohnern ist ein ganzjährig nutzbares Bad mit Sprungturm und Sauna viel. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.denzlingen.de/de/aktuelles/show.php?id=1554",
+"faktencheck": "korrigiert",
+"id": "468-denzlingen/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "umgezogene Kirche aus Emmendingen",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Denzlingen",
+"steckbrief": "Rund 13.700 Einwohner, 8 km nördlich von Freiburg im Breisgau.",
+"frage": "Was ist das Besondere an der katholischen Kirche St. Josef in Denzlingen?",
+"optionen": [
+"Sie wurde ganz aus Holz gebaut.",
+"Bürger errichteten sie in einer einzigen Woche.",
+"Ein Papst hat sie persönlich geweiht.",
+"Sie stand vorher schon in einem anderen Ort."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. St. Josef stand zuvor als St. Bonifatius in Emmendingen. Man trug sie Stein für Stein ab, fuhr die Steine mit Ochsenkarren nach Denzlingen und baute sie wieder auf. Ein Papst klingt nach der großen Besonderheit, geweiht hat sie aber der Freiburger Weihbischof Justus Knecht. Die Denzlinger hängen an ihr: Als ein Abriss drohte, setzte sich die Pfarrgemeinde für sie ein, seither kümmert sich die Pflegschaft St. Josef um ihren Erhalt. Richtig war 4.",
+"quelle": "Kath. Kirchengemeinde, www.an-der-glotter.de; Gemeinde-Webseite, www.denzlingen.de/p/denzlingens-geschichte",
+"faktencheck": "korrigiert",
+"id": "468-denzlingen/v0.9/2",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Bürger-Rebberg mit weithin sichtbarem Rebhäusle",
+"rang": 6,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Denzlingen",
+"steckbrief": "Rund 13.700 Einwohner, 8 km nördlich von Freiburg im Breisgau.",
+"frage": "Welche dieser vier Dinge gibt es in Denzlingen?",
+"optionen": [
+"ein Rebhäusle am Rebberg der Bürger",
+"eine Brauerei mit eigenem Bier",
+"eine Sektkellerei",
+"eine Kurklinik"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Am Südwesthang des Einbollens wurde ein Rebberg angelegt und als Bürgernutzen vergeben, also den Bürgern zur Nutzung überlassen. Den Kaiserstuhl tippt man leicht, weil er als Weinland bekannt ist. Er liegt aber weiter westlich, Denzlingen dagegen am Rand des Schwarzwalds. Wein hat in Denzlingen lange Tradition, schon im Mittelalter standen Reben am Mauracher Berg. Das Rebhäusle am Rebberg sieht man weithin. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.denzlingen.de/p/denzlingens-geschichte; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "468-denzlingen/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Schwarzwaldbach Glotter mitten durchs Dorf",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Denzlingen",
+"steckbrief": "Rund 13.700 Einwohner, 8 km nördlich von Freiburg im Breisgau.",
+"frage": "Die Glotter fließt mitten durch Denzlingen. Woher kommt sie?",
+"optionen": [
+"Sie fließt vom Kaiserstuhl herüber.",
+"Sie kommt aus einem Schwarzwaldtal im Osten.",
+"Sie entspringt einer Quelle im Ortskern.",
+"Sie zweigt im Westen vom Rhein ab."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Glotter kommt aus dem Glottertal im Schwarzwald und fließt von Osten nach Westen durch den Ort. Auf den Rhein tippt man leicht, weil Denzlingen in der Rheinebene liegt. Von der Glotter zweigte man den Dorfbach ab, der zur Lebensader Denzlingens wurde und Mühlen antrieb. Am Sackträgerbrunnen im Oberdorf sitzt man direkt am Wasser. Richtig war 2.",
+"quelle": "LEO-BW (Ortslexikon Glottertal, St. Peter); Gemeinde-Webseite, www.denzlingen.de/p/sehenswertes",
+"faktencheck": "korrigiert",
+"id": "468-denzlingen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Bahnhof an Rheintal- und Elztalbahn",
+"rang": 7,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Denzlingen",
+"steckbrief": "Rund 13.700 Einwohner, 8 km nördlich von Freiburg im Breisgau.",
+"frage": "Welche dieser vier Dinge gibt es in Denzlingen?",
+"optionen": [
+"eine Kreisklinik",
+"ein Wasserschloss",
+"ein Bahnhof an zwei Bahnstrecken",
+"ein Naturschutzgebiet"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Am Bahnhof Denzlingen zweigt die Bahn ins Elztal von der Rheintalbahn ab. Eine Kreisklinik klingt für einen Ort dieser Größe naheliegend. Die Eisenbahn kam früh, schon 1845, und mit ihr begann die Industrialisierung. 1875 folgte die Linie ins Elztal. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.denzlingen.de/p/denzlingens-geschichte",
+"faktencheck": "korrigiert",
+"id": "468-denzlingen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Sportjahr 1992 mit drei Denzlingern",
+"rang": 4,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Denzlingen",
+"steckbrief": "Rund 13.700 Einwohner, 8 km nördlich von Freiburg im Breisgau.",
+"frage": "Drei Sportler mit Bezug zu Denzlingen, ein Jahr: 1992. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Mike Kluge wurde 1992 Weltmeister im Skilanglauf.",
+"Christian Meyer wurde 1992 Olympiasieger im Radsport.",
+"Mark Pinger holte 1992 olympisches Bronze im Schwimmen."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gelogen ist der Skilanglauf: Der Denzlinger Mike Kluge, ehemaliger Radprofi, wurde 1992 Weltmeister im Cyclocross, dem Querfeldeinrennen mit dem Rad. Langlauf liegt nahe, weil der Schwarzwald vor der Tür liegt. Wahr sind Christian Meyers Olympiasieg im Mannschaftszeitfahren des Radsports und Mark Pingers Staffel-Bronze im Schwimmen. Die Lüge war 1.",
+"quelle": "Bike-Magazin; Olympedia",
+"faktencheck": "korrigiert",
+"id": "468-denzlingen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "dicht besiedelt, viel Feld und Wald",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Denzlingen",
+"steckbrief": "Rund 13.700 Einwohner, 8 km nördlich von Freiburg im Breisgau.",
+"frage": "Wie viele Einwohner kommen in Denzlingen im Schnitt auf einen Quadratkilometer?",
+"optionen": [
+"unter 1.000",
+"1.000 bis unter 1.500",
+"1.500 bis unter 2.500",
+"2.500 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Auf einem Quadratkilometer leben in Denzlingen im Schnitt 811 Menschen. Wer nur den geschlossenen Ort sieht, schätzt leicht höher. Doch zur Gemarkung gehören auch viel Landwirtschaft und Wald. Knapp 14.000 Einwohner auf knapp 17 Quadratkilometern: Für eine Gemeinde ist das dicht, aber noch kein Stadtwert. Richtig war 1.",
+"quelle": "GRUNDDATEN, berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "468-denzlingen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Zigarrenfabrik, heute Kulturzentrum im Ortskern",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Denzlingen",
+"steckbrief": "Rund 13.700 Einwohner, 8 km nördlich von Freiburg im Breisgau.",
+"frage": "Das Rocca-Areal in Denzlingen war früher eine Fabrik. Was wurde dort zwischen 1911 und 1960 hergestellt?",
+"optionen": [
+"Dort setzte man Kuckucksuhren zusammen.",
+"Dort schöpfte man Papier aus Lumpen.",
+"Dort rollten Arbeiter Zigarren.",
+"Dort brannte man Ziegel und Fliesen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. In dieser Zeit war das Gebäude die Zigarrenfabrik von Otto Möllinger. Uhren liegen nahe, weil man sie mit dem Schwarzwald verbindet. Vorher arbeitete dort eine Wollenweberei, danach stellte die Rocca KG bauchemische Produkte her. Mit der Industrialisierung zog vor allem die Tabakfabrikation Arbeiter aus der näheren und weiteren Umgebung nach Denzlingen; das sanierte Areal mitten im Ortskern erinnert daran. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.denzlingen.de/p/historie-der-zigarrenfabrik; www.denzlingen.de/p/denzlingens-geschichte",
+"faktencheck": "korrigiert",
+"id": "468-denzlingen/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Wappen: Markgrafenbalken und Pflugschar",
+"rang": 8,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Denzlingen",
+"steckbrief": "Rund 13.700 Einwohner, 8 km nördlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Balken im Wappen steht für ein Kloster.",
+"Der Ortsname geht auf einen Denzilo zurück.",
+"Im Dreißigjährigen Krieg wurde Denzlingen fast völlig zerstört."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gelogen ist das Kloster: Der rote Schrägbalken auf Gold steht für die Zugehörigkeit zur Markgrafschaft Hachberg, die silberne Pflugschar daneben ist das Dorfzeichen. Ein Kloster liegt nahe, weil viele Wappen geistliche Herren zeigen. Wahr sind Denzilo, nach dessen Leuten der Ort heißt, und die Zerstörung im Dreißigjährigen Krieg. So zeigt das Wappen beides: markgräfliche Herrschaft und das Dorf am Pflug. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.denzlingen.de/p/denzlinger-wappen",
+"faktencheck": "bestätigt",
+"id": "468-denzlingen/v0.9/9",
+"tisch": false
+}
+],
+"anschluss_von": "438-gundelfingen",
+"anschluss": [
+"Denzlingen hat rund 1.600 Einwohner mehr als Gundelfingen.",
+"Gundelfingen gehört zu Breisgau-Hochschwarzwald, Denzlingen zum Kreis Emmendingen."
+],
+"anschluesse": {
+"438-gundelfingen": [
+"Denzlingen hat rund 1.600 Einwohner mehr als Gundelfingen.",
+"Gundelfingen gehört zu Breisgau-Hochschwarzwald, Denzlingen zum Kreis Emmendingen."
+]
+},
+"ags": "08316009",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 13.700 Einwohner auf knapp 17 km², 234 Meter hoch, 8 km nördlich von Freiburg, an Glotter und Elz."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Alemannische Gründung, benannt nach den Leuten des Denzilo; im Dreißigjährigen Krieg fast ganz zerstört."
+},
+{
+"facette": "ALLTAG",
+"text": "Früher Tabak und Zigarren, heute Gewerbegebiete Steinbühl, Geringfeldele und Engematten; Wochenmarkt am Kohlerhof und beim Kauftreff."
+},
+{
+"facette": "FREIZEIT",
+"text": "Kultur- und Bürgerhaus am See, Heimethues, Storchenturm, Severinsruine, Schwarzlichtpark, Minigolf, Einbollenstadion, Elzdamm-Radweg und Breisgauer Weinweg."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof an Rheintal- und Elztalbahn, Erasmus-Gymnasium und Ruth-Cohn-Schule im Bildungszentrum; vier Partnerstädte in Frankreich, England, Italien, Polen."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU vorn vor Grünen und SPD, Wahlbeteiligung 85,8 Prozent, über dem Landeswert."
+}
+],
+"km_vom_vorigen": 3.1
+},
+{
 "slug": "65-march",
 "name": "March",
 "lat": 48.05611,
 "lon": 7.78194,
 "karten": [
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Gemeinde aus vier Dörfern, alter Gebietsname",
+"rang": 6,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "March",
-"steckbrief": "Rund 9.300 Einwohner, 8 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Den Namen March gab es schon im Mittelalter, lange vor der heutigen Gemeinde. Was bedeutet er laut Gemeinde?",
+"steckbrief": "Gemeinde mit gut 9.300 Einwohnern, 8 km nordwestlich von Freiburg im Breisgau.",
+"frage": "March entstand 1973 als Zusammenschluss von vier Dörfern. Woher stammt der Name der Gemeinde?",
 "optionen": [
-"Er erinnert an einen alten Markt im März.",
-"Er bedeutet „umgrenztes Gebiet“.",
-"Er meint feuchtes, sumpfiges Marschland.",
-"Er stammt von einem Bach, der hindurchfließt."
+"Er bezeichnet feuchtes Marschland an der Dreisam.",
+"Er bezeichnet ein schon im Mittelalter umgrenztes Gebiet.",
+"Er erinnert an einen alten Dorfmarkt.",
+"Er stammt von einem römischen Gutsherrn Marcus."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach dem englischen Wort für März, da liegt ein alter Frühjahrsmarkt nahe. Doch die Gemeinde erklärt ihn anders: „March“ bedeutet „umgrenztes Gebiet“, und den Namen gab es schon im Mittelalter. Die Dörfer wurden seit alters her „Marchdörfer“ genannt. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.march.de/4782",
-"faktencheck": "korrigiert",
-"id": "65-march/v0.8/1",
+"rueckseite": "Du hattest [Option] getippt. Marschland liegt nahe, denn Dreisam und Mooswald klingen nach nassem Boden. Doch „die March“ meint ein umgrenztes Gebiet, und dieses Gebiet mit seinen Dörfern gab es schon im Mittelalter. Buchheim, Holzhausen, Hugstetten und Neuershausen nahmen den alten Namen bei ihrem Zusammenschluss auf. Wer vorbeifährt, sieht deshalb keine Stadt March, sondern vier Dörfer mit zusammen gut 9.300 Einwohnern. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.march.de/de/Leben-Wohnen/Mein-March/Historisches; Einwohner: Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "65-march/v0.9/1",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "FREIZEIT",
+"charakteristikum": "Schlosspark mit Aussichtsturm Belvedere",
+"rang": 4,
+"familie": "D",
+"sorte": "Geschichte",
 "ort": "March",
-"steckbrief": "Liegt 8 km nordwestlich von Freiburg im Breisgau, auf einer Gemarkung von knapp 18 km².",
-"frage": "Wie viele Einwohner hat die Gemeinde March?",
+"steckbrief": "Gemeinde mit gut 9.300 Einwohnern in der Ebene, 8 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge gibt es in March?",
 "optionen": [
-"unter 4.000",
-"4.000 bis unter 8.000",
-"8.000 bis unter 12.000",
-"12.000 und mehr"
+"ein Freibad mit Sprungturm",
+"ein Krankenhaus mit Notaufnahme",
+"ein Schlosspark mit Aussichtsturm",
+"ein Hallenbad mit Sauna"
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Wer bei einer Gemeinde vor Freiburg an ein Dorf denkt, schätzt leicht zu niedrig. Zum Stand Ende 2025 zählte March 9.337 Einwohner. Richtig war 3.",
-"quelle": "Wikidata P1082, Stand 2025-12-31",
-"faktencheck": "bestätigt",
-"id": "65-march/v0.8/2",
+"rueckseite": "Du hattest [Option] getippt. Ein Bad läge nahe, denn viele Orte dieser Größe haben eins. Belegt ist aber ein Schlosspark: Conrad von Andlau legte beim Hugstetter Schloss einen englischen Garten an, in dem der Aussichtsturm Belvedere steht. Im 19. Jahrhundert war der Park so bekannt, dass Felix Mendelssohn Bartholdy ihn besuchte. Für einen Ort mit gut 9.300 Einwohnern ist das ungewöhnlich; Schlösser prägen mehrere Ortsbilder. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/March_(Breisgau); OpenStreetMap; Gemeinde-Webseite, www.march.de/sehenswertes; Einwohner: Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "unsicher",
+"id": "65-march/v0.9/2",
 "tisch": false
 },
 {
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "March",
-"steckbrief": "Rund 9.300 Einwohner, 8 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Die Gemeinde March gehört zum Weinanbaugebiet Markgräflerland.",
-"Im Ortsteil Buchheim liegt die Weinlage Rebstuhl.",
-"Die Partnergemeinde Holzhausen ist heute Stadtteil von Leipzig."
-],
-"art": "luege",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Das Markgräflerland ist als Weingegend südlich von Freiburg bekannt, und Wein wächst in March tatsächlich. Doch die Gemeinde gehört zum Weinanbaugebiet Kaiserstuhl. Ihre Lagen sind Rebstuhl in Buchheim und Steingrube in Neuershausen. Die Lüge war 1.",
-"quelle": "Gemeinde-Webseite, www.march.de/4782",
-"faktencheck": "bestätigt",
-"id": "65-march/v0.8/3",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "March",
-"steckbrief": "Rund 9.300 Einwohner, 8 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in March nach Zweitstimmen zweitstärkste Kraft?",
-"optionen": [
-"SPD",
-"GRÜNE",
-"AfD",
-"CDU"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Im Freiburger Umland liegen die Grünen als Tipp nahe, und es war knapp: Die SPD kam auf 17,3 Prozent, die Grünen auf 17 Prozent. Vorn lag die CDU mit 31,4 Prozent, die AfD erreichte 14,5 Prozent. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "65-march/v0.8/4",
-"tisch": false
-},
-{
+"facette": "LAGE",
+"charakteristikum": "Marchhügel, Gesteinsscholle mitten in der Ebene",
+"rang": 5,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "March",
-"steckbrief": "Rund 9.300 Einwohner, 8 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Das Gemeindewappen zeigt ein rotes Kreuz und einen silbernen Bären. Wofür stehen die beiden Hälften?",
+"steckbrief": "Gemeinde mit gut 9.300 Einwohnern in der Ebene, 8 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Aus der Ebene bei March erhebt sich ein langer, welliger Hügelrücken, der Marchhügel. Was ist er?",
 "optionen": [
-"Sie zeigen die Städte Freiburg und Bern.",
-"Sie zeigen die Klöster Lorsch und St. Gallen.",
-"Sie zeigen die Bistümer Konstanz und Basel.",
-"Sie zeigen die Ortsteile Hugstetten und Buchheim."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ein rotes Kreuz auf Silber kennt man aus dem Freiburger Wappen, einen Bären aus Bern, das liegt nahe. Doch das Wappen vereint zwei früh in der March nachgewiesene Grundherrschaften: das Kloster Lorsch mit dem Nagelkreuz und das Kloster St. Gallen mit dem Bären. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.march.de/de/Leben-Wohnen/Mein-March/Historisches",
-"faktencheck": "bestätigt",
-"id": "65-march/v0.8/5",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "March",
-"steckbrief": "Rund 9.300 Einwohner, 8 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Zu welchem Landkreis gehört die Gemeinde March?",
-"optionen": [
-"Landkreis Emmendingen",
-"Ortenaukreis",
-"Landkreis Breisgau-Hochschwarzwald",
-"Landkreis Lörrach"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Nördlich von Freiburg denkt man schnell an den Landkreis Emmendingen. March gehört aber zum Landkreis Breisgau-Hochschwarzwald; das Hauptkennzeichen ist FR. Richtig war 3.",
-"quelle": "dewiki Infobox; Kennzeichen: Wikidata P395",
-"faktencheck": "bestätigt",
-"id": "65-march/v0.8/6",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "March",
-"steckbrief": "Rund 9.300 Einwohner, 8 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Die Gemeinde March gibt es erst seit 1973. Wie ist sie entstanden?",
-"optionen": [
-"Sie wurde als Neubausiedlung für Pendler gegründet.",
-"Sie spaltete sich von einer Nachbarstadt ab.",
-"Ein älteres Dorf erhielt einen neuen Namen.",
-"Mehrere selbständige Gemeinden schlossen sich zusammen."
+"Er ist ein Ausläufer des Kaiserstuhl-Vulkans.",
+"Er ist eine Endmoräne der Eiszeit.",
+"Er ist ein alter Uferwall des Rheins.",
+"Er ist eine isolierte Scholle des Vorberglands."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Eine so junge Gemeinde vor den Toren Freiburgs klingt nach Neubaugebiet. Doch die Dörfer gab es längst: Buchheim, Holzhausen, Hugstetten und Neuershausen waren selbständige Gemeinden und schlossen sich zur Einheitsgemeinde March zusammen, also zu einer einzigen Gemeinde. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.march.de/4782",
+"rueckseite": "Du hattest [Option] getippt. Der Kaiserstuhl liegt nahe, denn March liegt zwischen dem Vulkan und der Schwarzwälder Vorbergzone. Der Marchhügel ist aber eine isolierte Vorbergscholle: ein Block aus Gestein des Erdmittelalters und Tertiärs, begrenzt von verdeckten Verwerfungen oder Erosionsrändern. Beim Vorbeifahren sieht man einen welligen, lößbedeckten Rücken mit schmalen Äckern, Streuobst und Reben. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/March_(Breisgau)",
+"faktencheck": "korrigiert",
+"id": "65-march/v0.9/3",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Heimatmuseum in vier alten Gebäuden",
+"rang": 9,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "March",
+"steckbrief": "Gemeinde mit gut 9.300 Einwohnern, 8 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge findet man im Marcher Ortsteil Hugstetten?",
+"optionen": [
+"ein Heimatmuseum in vier alten Gebäuden",
+"ein Thermalbad mit Saunalandschaft",
+"eine Kurklinik für Rehabilitation",
+"ein Erlebnisbad mit Wasserrutsche"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Bad oder eine Kurklinik liegt nahe, denn um Freiburg gibt es etliche Kurorte. Belegt ist in Hugstetten aber das Heimatmuseum in vier Gebäuden: alte Pfarrscheune, Brennhaus, Backhaus mit Holzofen und altes Pfarrhaus. Im Treppenhaus zeigt es die Marcher Tracht. Für die gut 9.300 Marcher ist es das Gedächtnis ihrer Dörfer: Es zeigt Geräte aus Landwirtschaft und Handwerk. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/March_(Breisgau); OpenStreetMap; Einwohner: Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "unsicher",
+"id": "65-march/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Schweres Eisenbahnunglück von Hugstetten",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "March",
+"steckbrief": "Gemeinde mit gut 9.300 Einwohnern, 8 km nordwestlich von Freiburg im Breisgau.",
+"frage": "1882 entgleiste bei Hugstetten ein Sonderzug – das Unglück gilt als das schwerste im Deutschen Reich bis 1939. Wohin sollte der Zug fahren?",
+"optionen": [
+"Er sollte nach Basel fahren.",
+"Er sollte nach Colmar fahren.",
+"Er sollte nach Straßburg fahren.",
+"Er sollte nach Mülhausen fahren."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Basel liegt nahe, denn dorthin führt die große Strecke durchs Rheintal. Doch der Sonderzug sollte Ausflügler aus dem Elsass von Freiburg zurück nach Colmar bringen, als er im Mooswald nahe Hugstetten aus den Schienen sprang. Es gilt als schwerstes Eisenbahnunglück im Deutschen Reich, bis 1939 das Unglück von Genthin folgte. Die Gemeinde erlangte damit traurige Berühmtheit. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/March_(Breisgau)",
+"faktencheck": "korrigiert",
+"id": "65-march/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Autobahn quert kurz die Gemarkung",
+"rang": 7,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "March",
+"steckbrief": "Gemeinde mit gut 9.300 Einwohnern, 8 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Haltepunkt Hugstetten liegt an der Breisacher Bahn.",
+"Die Autobahn Frankfurt–Basel meidet die Marcher Gemarkung.",
+"Partnergemeinde ist Holzhausen, heute ein Leipziger Stadtteil."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Gelogen ist die Autobahn: Die Strecke Frankfurt–Basel quert die Marcher Gemarkung auf einem kurzen Stück. Glaubhaft klang das Gegenteil, weil man die Ortsteile über Anschlussstellen wie Freiburg-Nord erreicht. Kurios, aber wahr: Die Partnergemeinde Holzhausen liegt in Sachsen, und March hat selbst einen Ortsteil Holzhausen. Für eine Gemeinde mit gut 9.300 Einwohnern liegt March damit an Schiene und Autobahn zugleich. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/March_(Breisgau); Gemeinde-Webseite, www.march.de/4782; Einwohner: Wikidata P1082, Stand 2025-12-31",
 "faktencheck": "bestätigt",
-"id": "65-march/v0.8/7",
+"id": "65-march/v0.9/6",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "dicht besiedelte Gemeinde vor Freiburg",
+"rang": 10,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "March",
+"steckbrief": "Gemeinde in der Ebene 8 km nordwestlich von Freiburg im Breisgau, knapp 18 km² groß.",
+"frage": "Wie viele Einwohner hat die Gemeinde March?",
+"optionen": [
+"unter 4.000",
+"4.000 bis unter 6.000",
+"6.000 bis unter 9.000",
+"9.000 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer in der Ebene vor Freiburg nur Dörfer erwartet, schätzt leicht zu niedrig. Ende 2025 zählte March 9.337 Einwohner. Auf knapp 18 Quadratkilometern sind das rund 525 Menschen je Quadratkilometer, für eine Gemeinde aus Dörfern eine dichte Besiedlung. Richtig war 4.",
+"quelle": "Wikidata P1082, Stand 2025-12-31; Fläche: Wikidata P2046; Dichte berechnet",
+"faktencheck": "bestätigt",
+"id": "65-march/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "riesiger vorgeschichtlicher Grabhügel „Bürgle“",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "March",
+"steckbrief": "Gemeinde mit gut 9.300 Einwohnern, 8 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Bei Buchheim liegt in der flachen Ebene das „Bürgle“, eine breite Kuppe von rund 120 Metern Durchmesser. Was ist es?",
+"optionen": [
+"Es ist der Rest einer mittelalterlichen Burg.",
+"Es ist Aushub vom Bau der Autobahn.",
+"Es ist ein vorgeschichtlicher Grabhügel.",
+"Es ist der Wall eines Römerlagers."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Burg liegt nahe, denn „Bürgle“ klingt nach kleiner Burg. Doch der Hügel ist ein vorgeschichtliches Grab, wohl aus der Hallstattzeit, der Rest einer ganzen Gruppe von Grabhügeln. Bei der Grabung 1884 war er rund vier Meter hoch; man fand Steinsetzungen und Gräber mit eisernen Lanzenspitzen. Wer an Buchheim vorbeifährt, sieht ihn als flache, breite Kuppe in der Ebene. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/March_(Breisgau)",
+"faktencheck": "korrigiert",
+"id": "65-march/v0.9/9",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Weinlagen zählen zum Kaiserstuhl",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "March",
+"steckbrief": "Gemeinde mit gut 9.300 Einwohnern in der Ebene, 8 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Marchs Weinlagen „Rebstuhl“ in Buchheim und „Steingrube“ in Neuershausen gehören zu einem bekannten Weinbaugebiet. Zu welchem?",
+"optionen": [
+"Sie zählen zum Markgräflerland.",
+"Sie zählen zum Kaiserstuhl.",
+"Sie zählen zum Tuniberg.",
+"Sie zählen zur Ortenau."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Tuniberg liegt nahe, denn er ist das Weinland direkt vor Freiburg. Doch die Gemeinde zählt ihre Lagen zum Kaiserstuhl, dem vulkanischen Gebirge in der Nachbarschaft. So gehört March mit gut 9.300 Einwohnern auch zum Weinland Kaiserstuhl; die Reben stehen bei Buchheim und Neuershausen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.march.de/4782; Einwohner: Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "65-march/v0.9/10",
 "tisch": false
 }
 ],
-"anschluss_von": "438-gundelfingen",
-"anschluss": [],
+"anschluss_von": "468-denzlingen",
+"anschluss": [
+"March hat mehr Fläche als Denzlingen, aber weniger Einwohner.",
+"March und Denzlingen liegen beide 8 km von Freiburg."
+],
 "anschluesse": {
 "387-ebnet": [
 "Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, March zum Landkreis Breisgau-Hochschwarzwald.",
@@ -14809,11 +15132,41 @@ window.QA_DATEN = {
 "12-herbolzheim": [
 "Kreisgrenze: Herbolzheim gehört zum Landkreis Emmendingen, March zum Landkreis Breisgau-Hochschwarzwald.",
 "Herbolzheim hat rund 1.400 Einwohner mehr als March."
+],
+"468-denzlingen": [
+"March hat mehr Fläche als Denzlingen, aber weniger Einwohner.",
+"March und Denzlingen liegen beide 8 km von Freiburg."
 ]
 },
 "ags": "08315132",
 "ortsteil": false,
-"km_vom_vorigen": 6.4
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "In der Freiburger Bucht, 8 km nordwestlich von Freiburg; Dreisam, Marchhügel, Schutzgebiete Neuershausener Mooswald und Mühlmatten."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Seit 1973 eine Gemeinde aus Buchheim, Holzhausen, Hugstetten und Neuershausen; im Wappen Nagelkreuz und Bär."
+},
+{
+"facette": "ALLTAG",
+"text": "Gut 9.300 Einwohner auf knapp 18 km², rund 525 je km²; Brauerei Hirtler, Weinlagen, Wochenmarkt in Buchheim."
+},
+{
+"facette": "FREIZEIT",
+"text": "Heimatmuseum, Ofenmuseum, Sternwarte, Schlosspark mit Belvedere, Eremitage, Matthias-Ginter-Sportpark, Burgunderpfad und Dreisamniederungspfad."
+},
+{
+"facette": "INFRA",
+"text": "Haltepunkt Hugstetten an der Breisacher Bahn, kurzes Stück Autobahn A5, Partnergemeinde Holzhausen bei Leipzig."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU vorn mit 31,4 Prozent, Wahlbeteiligung 84,5 Prozent, im Land 83,4 Prozent."
+}
+],
+"km_vom_vorigen": 7.6
 },
 {
 "slug": "437-umkirch",
@@ -15030,202 +15383,209 @@ window.QA_DATEN = {
 "lon": 7.72889,
 "karten": [
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Hahlerai, das Weinfest des Musikvereins",
+"rang": 8,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Gottenheim",
-"steckbrief": "Gottenheim zählt rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
-"frage": "1726 wurden für die Kirche St. Stephan in Gottenheim Glocken gegossen. Wo geschah das?",
+"steckbrief": "Gottenheim hat rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Der Musikverein Gottenheim richtet die „Hahlerai“ aus. Was ist das?",
 "optionen": [
-"Sie wurden direkt in Gottenheim gegossen.",
-"Sie wurden in einer Freiburger Gießerei gegossen.",
-"Sie wurden in einer Basler Gießerei gegossen.",
-"Sie wurden in einer Straßburger Gießerei gegossen."
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Eine Gießerei in einer Stadt liegt nahe. Doch schwere Glocken über schlechte Wege zu fahren war mühsam, und Glockengießer reisten oft zu ihren Kunden. So gossen die Gebrüder Rossier die Glocken für St. Stephan direkt vor Ort in Gottenheim. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.gottenheim.de/Geschichte/Kirche/",
-"faktencheck": "bestätigt",
-"id": "66-gottenheim/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Gottenheim",
-"steckbrief": "Gottenheim zählt rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Wie groß ist die Fläche der Gemeinde Gottenheim?",
-"optionen": [
-"unter 5 km²",
-"5 bis unter 10 km²",
-"10 bis unter 20 km²",
-"20 km² und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Bei gut dreitausend Einwohnern liegt eine größere Gemarkung nahe, denn viele Landgemeinden haben reichlich Wald und Feld. Gottenheim kommt aber nur auf 8,75 Quadratkilometer. Für eine Landgemeinde wohnen die Menschen hier also recht dicht. Richtig war 2.",
-"quelle": "Wikidata P2046",
-"faktencheck": "bestätigt",
-"id": "66-gottenheim/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Gottenheim",
-"steckbrief": "Gottenheim zählt rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Der Friedhof lag früher rund um die Kirche.",
-"Die Winzergenossenschaft baut vor allem Riesling an.",
-"Das Haus des Frühmessers wurde später Armenhaus."
-],
-"art": "luege",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Riesling gilt vielen als typisch deutscher Wein, daher klingt die Aussage glaubhaft. Doch die Gottenheimer Winzer bauen überwiegend Spätburgunder an, dazu weitere Burgundersorten. Wahr ist: Der Friedhof lag früher um die Kirche, und das Haus des Frühmessers, des Priesters für die Frühmesse, wurde später Armenhaus. Die Lüge war 2.",
-"quelle": "Gemeinde-Webseite, www.gottenheim.de/WG/Geschichte/",
-"faktencheck": "korrigiert",
-"id": "66-gottenheim/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Gottenheim",
-"steckbrief": "Die Weinbaugemeinde Gottenheim zählt rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Wie hoch war die Wahlbeteiligung in Gottenheim bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 75 %",
-"75 bis unter 80 %",
-"80 bis unter 85 %",
-"85 % und mehr"
+"Die Hahlerai ist ein Fasnachtsumzug mit Holzmasken.",
+"Die Hahlerai ist ein Pferdemarkt mit Fohlenprämierung.",
+"Die Hahlerai ist ein Kirchweihmarkt an der Pfarrkirche.",
+"Die Hahlerai ist ein Wein- und Straßenfest."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Eine mittlere Spanne liegt nahe, weil bei Bundestagswahlen meist ein spürbarer Teil der Berechtigten zu Hause bleibt. In Gottenheim gaben aber 89 Prozent ihre Stimme ab. Stärkste Kraft bei den Zweitstimmen wurde die CDU, vor SPD und Grünen. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "66-gottenheim/v0.8/4",
+"rueckseite": "Du hattest [Option] getippt. Der fremd klingende Name und ein Musikverein als Veranstalter lassen an Fasnacht denken, die am Oberrhein groß gefeiert wird. Die Hahlerai ist aber ein Wein- und Straßenfest; der Musikverein richtet dafür den Hof einer Musikerfamilie ein, bewirtet die Gäste und spielt auf. Es verbindet, was Gottenheim ausmacht: Wein und Musik. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gottenheim.de/Musikverein/Geschichte/",
+"faktencheck": "korrigiert",
+"id": "66-gottenheim/v0.9/1",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Ortsname nach einem Gott-Personennamen",
+"rang": 9,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Gottenheim",
-"steckbrief": "Gottenheim zählt rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
-"frage": "1517 begann die Reformation, doch Gottenheim blieb katholisch. Welchen Grund nennt die Ortsgeschichte?",
+"steckbrief": "Gottenheim hat rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Woher hat Gottenheim nach der Ortsgeschichte vermutlich seinen Namen?",
 "optionen": [
-"Der Ort gehörte zu Vorderösterreich.",
-"Der Ort gehörte zu Bayern.",
-"Der Ort gehörte zu Lothringen.",
-"Der Ort gehörte zu Savoyen."
+"Er geht auf einen altgermanischen Personennamen zurück.",
+"Er erinnert an ein heidnisches Götterheiligtum.",
+"Er stammt von einem Flurnamen für Sumpfland.",
+"Er beschreibt eine gute Lage für Weinberge."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Bayern liegt nahe, denn es gilt als katholisches Kernland. Doch Gottenheim gehörte zu Vorderösterreich, den Besitzungen der Habsburger im Südwesten. Die katholischen Habsburger hielten ihre Gebiete beim alten Glauben. Später kam der Ort an Baden. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.gottenheim.de/Geschichte/Kirche/",
+"rueckseite": "Du hattest [Option] getippt. Wer „Gott“ im Ortsnamen hört, denkt schnell an eine Kirche oder ein altes Heiligtum. Die Ortsgeschichte deutet Gottenheim aber vermutlich als „Heim des Gotten“, also eines Mannes mit einem Namen wie Gottfried, Gotthard, Gottwin oder Gottbert. Besiedelt war die Gegend schon früh: erst Kelten, dann Römer, dann Alemannen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gottenheim.de/Geschichte/Fruehzeit/",
 "faktencheck": "bestätigt",
-"id": "66-gottenheim/v0.8/5",
+"id": "66-gottenheim/v0.9/2",
 "tisch": false
 },
 {
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Gottenheim",
-"steckbrief": "Gottenheim zählt rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Welches Kennzeichen tragen die meisten Autos in Gottenheim?",
-"optionen": [
-"EM",
-"FR",
-"LÖ",
-"OG"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Wer FR nur für Freiburg hält, tippt leicht auf einen Nachbarkreis wie EM. Doch Gottenheim gehört zum Landkreis Breisgau-Hochschwarzwald, und dessen Hauptkennzeichen ist ebenfalls FR. Richtig war 2.",
-"quelle": "Wikidata P395; dewiki Infobox (Landkreis)",
-"faktencheck": "bestätigt",
-"id": "66-gottenheim/v0.8/6",
-"tisch": false
-},
-{
+"facette": "ALLTAG",
+"charakteristikum": "Europäischer Großrecycler im Weindorf",
+"rang": 1,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Gottenheim",
-"steckbrief": "Gottenheim zählt rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Das Wasenweiler Ried zwischen Kaiserstuhl und Tuniberg wurde vom Mittelalter bis in die Neuzeit überschwemmt. Welche Ursache nennt eine Freiburger Doktorarbeit?",
+"steckbrief": "Gottenheim hat rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Zwischen 2010 und 2012 verlegte die Gemeinde Gottenheim ihr Sportgelände. Welchen Anlass nennt die Ortsgeschichte?",
 "optionen": [
-"Ein alter Rheinarm führte wieder Wasser.",
-"Ein Erdbeben ließ den Boden absinken.",
-"Der Grundwasserspiegel stieg an.",
-"Ein Vulkanausbruch am Kaiserstuhl staute das Wasser auf."
+"Archäologen fanden dort Reste eines römischen Gutshofs.",
+"Ein Metallrecycling-Betrieb wollte massiv erweitern.",
+"Die Fläche wurde für neue Rebterrassen gebraucht.",
+"Auf dem Gelände sollte ein Solarpark entstehen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. In einem Weindorf liegt der Gedanke an neue Reben nahe. Tatsächlich wünschte sich die Metallverwertungsgesellschaft MVG im Gewerbegebiet Viehweid 2009 eine massive Erweiterung, und die Gemeinde verlegte daraufhin ihr Sportgelände. Der Betrieb mit damals sieben Standorten in Deutschland war zu der Zeit der größte Gewerbesteuerzahler im Ort – für ein Dorf mit rund 3.200 Einwohnern bemerkenswert. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gottenheim.de/Geschichte/Gewerbegebiet/",
+"faktencheck": "korrigiert",
+"id": "66-gottenheim/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Moor aus eiszeitlichen Rheinrinnen",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gottenheim",
+"steckbrief": "Gottenheim hat rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Zwischen Kaiserstuhl und Tuniberg liegt bei Gottenheim ein Ried mit schwarzem Torf. Wie ist es entstanden?",
+"optionen": [
+"Ein Vulkankrater des Kaiserstuhls lief voll Wasser.",
+"Mönche stauten Fischteiche auf, die später zuwuchsen.",
+"Rinnen des Rheins aus der späten Eiszeit verlandeten.",
+"Ein Bergsturz am Tuniberg staute einen Bach."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein alter Rheinarm liegt nahe, und genau das vermutete man früher auch: Der Ostrhein, ein eiszeitlicher Rheinlauf durch diese Senke, sei wieder aktiv geworden. Eine Freiburger Doktorarbeit stellt richtig: Ursache war der steigende Grundwasserspiegel. Das Ried liegt an einer Engstelle, durch die Grundwasser abfließen muss; dort bildete sich schwarzer Torf. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.gottenheim.de/Geschichte/Ried/ (nach Lechner, Dissertation Universität Freiburg)",
+"rueckseite": "Du hattest [Option] getippt. Beim Kaiserstuhl denkt man an Vulkane, und ein Krater als Wasserbecken klingt einleuchtend. Das Wasenweiler-Gottenheimer Ried entstand aber dort, wo in der Eiszeit der Ostrhein floss: Seine Rinnen verlandeten und vermoorten, später versumpfte die Senke bei steigendem Grundwasser. Selbst im Sommer gibt es dort Feucht- und Nasswiesen, und Gottenheimer sahen mehrfach eine Wildkatze, einmal sogar auf der Wildkamera. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gottenheim.de/Geschichte/Ried/",
 "faktencheck": "korrigiert",
-"id": "66-gottenheim/v0.8/7",
+"id": "66-gottenheim/v0.9/4",
 "tisch": false
 },
 {
+"facette": "INFRA",
+"charakteristikum": "Über hundertjähriges Stellwerk bis 2019",
+"rang": 2,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Gottenheim",
-"steckbrief": "Gottenheim zählt rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Anfang des 19. Jahrhunderts wurde das alte Schulhaus umgebaut und erweitert. Wohin wich der Unterricht in dieser Zeit aus?",
+"steckbrief": "Gottenheim hat rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Bis Januar 2019 stellte ein Fahrdienstleiter im Bahnhof Gottenheim selbst die Weichen. Welche Technik nutzte er?",
 "optionen": [
-"Der Unterricht fand im Pfarrhaus statt.",
-"Der Unterricht fand in einem Gasthaus statt.",
-"Der Unterricht fand im Rathaus statt.",
-"Der Unterricht fand in der Sakristei statt."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Pfarrhaus oder Rathaus liegen nahe, weil Schule, Kirche und Gemeinde damals eng verbunden waren. Tatsächlich zog der Unterricht während des Umbaus ins Gasthaus Sternen, gegen Miete. Noch früher, vor dem Schulhaus, hatte man in der Wohnstube des Sigristen, also des Mesners, unterrichtet. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.gottenheim.de/Geschichte/Schule/",
-"faktencheck": "bestätigt",
-"id": "66-gottenheim/v0.8/8",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Gottenheim",
-"steckbrief": "Gottenheim zählt rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
-"frage": "1946 wurde die Freiwillige Feuerwehr Gottenheim neu gegründet. Welchen Grund dafür nennt ihre Chronik?",
-"optionen": [
-"Ein Großbrand hatte ihre Ausrüstung vernichtet.",
-"Sie war mit einer Nachbarwehr zusammengelegt worden.",
-"Ihre Mitglieder hatten sie selbst aufgelöst.",
-"Die Besatzungsmacht hatte sie aufgelöst."
+"Er nutzte ein Computerstellwerk aus dem Jahr 2010.",
+"Er nutzte ein Relaisstellwerk aus den Sechzigerjahren.",
+"Er nutzte ein Gleisbildstellwerk aus den Achtzigerjahren.",
+"Er nutzte ein über hundertjähriges mechanisches Stellwerk."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Nach dem Krieg liegt eine zerstörte Ausrüstung nahe. Doch die Chronik nennt einen anderen Grund: Die französische Besatzung hatte alle Vereine aufgelöst, auch die Feuerwehren. Ein viel früherer Gründungsversuch hatte übrigens aus Geldmangel keine Ausrüstung vom Gemeinderat bekommen. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.gottenheim.de/Feuerwehr/Geschichte/",
+"rueckseite": "Du hattest [Option] getippt. An einem Bahnknoten erwartet man moderne Technik, deshalb liegen jüngere Stellwerke nahe. In Gottenheim legte Fahrdienstleiter Klaus Melcher aber bis zuletzt Hebel an einem mechanischen Stellwerk um, die per Seilzug die Weichen stellten – über 100 Jahre alt und nach seinen Worten sehr zuverlässig. Mit seiner letzten Schicht endete der besetzte Bahnhof; seit der Elektrifizierung ist Gottenheim nur noch ein Haltepunkt, die Weichen stellt ein elektronisches Stellwerk in Freiburg. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gottenheim.de/Geschichte/Eisenbahn/",
 "faktencheck": "korrigiert",
-"id": "66-gottenheim/v0.8/9",
+"id": "66-gottenheim/v0.9/5",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Katholisch geblieben als Teil Vorderösterreichs",
+"rang": 7,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Gottenheim",
+"steckbrief": "Gottenheim hat rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Zur Reformationszeit trat Gottenheim zum evangelischen Glauben über und blieb dabei.",
+"Im Dreißigjährigen Krieg zerstörten Schweden die Kapelle bis auf den Chorturm.",
+"Ein Pfarrer des Dorfs komponierte eine Messe und das „Gottenheimer Lied“."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Viele Orte in Baden wurden evangelisch, deshalb klingt der Glaubenswechsel glaubhaft. Gottenheim gehörte damals aber zu Vorderösterreich und blieb katholisch. Wahr sind die Zerstörung der Kirche durch die Schweden, die nur den Chorturm stehen ließen, und die Musik von Pfarrer Carl Frey: Er komponierte die St.-Stephans-Messe, und von ihm stammt das Gottenheimer Lied. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.gottenheim.de/Geschichte/Kirche/ und www.gottenheim.de/Geschichte/Pfarrer/",
+"faktencheck": "korrigiert",
+"id": "66-gottenheim/v0.9/6",
+"tisch": false
+},
+{
+"facette": "POLITIK",
+"charakteristikum": "Wahlbeteiligung deutlich über Landesschnitt",
+"rang": 5,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gottenheim",
+"steckbrief": "Gottenheim hat rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Bei der Bundestagswahl 2025 lag die Wahlbeteiligung in Baden-Württemberg bei 83,4 %. Wie hoch war sie in Gottenheim?",
+"optionen": [
+"unter 83,4 %",
+"83,4 bis unter 90 %",
+"90 bis unter 95 %",
+"95 % oder mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Wert dicht am Landesschnitt wirkt für ein Dorf vor Freiburg am wahrscheinlichsten. Tatsächlich gingen in Gottenheim 89 % zur Wahl, 5,6 Punkte mehr als im Land. Fast neun von zehn Wahlberechtigten gaben im Dorf ihre Stimme ab. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23; Landeswert: Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes",
+"faktencheck": "bestätigt",
+"id": "66-gottenheim/v0.9/7",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Alter Rebberg mit Rebhisli",
+"rang": 6,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Gottenheim",
-"steckbrief": "Gottenheim zählt rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Am 31. Januar 2019 ging das mechanische Stellwerk in Gottenheim außer Betrieb. Was geschah danach mit seiner Technik?",
+"steckbrief": "Gottenheim hat rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Im alten Rebberg von Gottenheim mit seinen Hohlgassen stehen noch „Rebhisli“. Was sind das?",
 "optionen": [
-"Sie wurde als Ersatzteilquelle für andere Stellwerke abgebaut.",
-"Sie kam vollständig in ein Eisenbahnmuseum.",
-"Sie blieb als Schaustück an Ort und Stelle.",
-"Sie wurde an einen Sammler versteigert."
+"Es sind kleine Hütten im Weinberg.",
+"Es sind Bildstöcke mit Heiligenfiguren am Weg.",
+"Es sind Holzgestelle zum Trocknen der Trauben.",
+"Es sind gemauerte Becken für Spritzwasser."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein Museum liegt nahe, denn mechanische Stellwerke sind heute selten und bei Eisenbahnfreunden beliebt. Doch die Deutsche Bahn baute die Technik ab, um die gut erhaltenen Teile bei Bedarf für Reparaturen der wenigen verbliebenen mechanischen Stellwerke zu nutzen. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.gottenheim.de/Geschichte/Eisenbahn/",
+"rueckseite": "Du hattest [Option] getippt. Am Rand von Weinbergen stehen im Breisgau oft Bildstöcke, deshalb liegt diese Deutung nahe. Rebhisli sind aber Weinberghütten. Sie stehen im alten Rebberg, der nicht flurbereinigt wurde und seine jahrhundertealte Form mit Hohlgassen bewahrt hat. Der Gottenheimer Wein trägt durchweg die Lagebezeichnung Kirchberg, überwiegend ist es Spätburgunder. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gottenheim.de/WG/Geschichte/",
+"faktencheck": "bestätigt",
+"id": "66-gottenheim/v0.9/8",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Hanfanbau, heute Flurname Hanfreetze",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gottenheim",
+"steckbrief": "Gottenheim hat rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Bis etwa 1880 bauten die Gottenheimer Hanf an. Welchen Grund für das Ende nennt die Ortsgeschichte?",
+"optionen": [
+"Die Großherzogin verbot den Anbau wegen Brandgefahr.",
+"Ein Pilzbefall aus dem Elsass vernichtete die Felder.",
+"Nach dem Gotthard-Durchbruch kam Hanf aus Italien.",
+"Ein Rheinhochwasser zerstörte die Gruben zum Wässern."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Feuchter Hanf konnte sich selbst entzünden, und tatsächlich verbot eine großherzogliche Verordnung nach einem Scheunenbrand im Dorf das Hecheln in geschlossenen Gebäuden – angebaut wurde aber weiter. Das Ende kam erst, als nach dem Gotthard-Durchbruch italienischer Hanf auf den Markt drängte. An die Wassergruben, die Hanfreetzen, erinnert der Flurname Hanfreetze; im Winter holte man aus ihnen Eis zum Kühlen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gottenheim.de/Geschichte/Landwirtschaft/",
 "faktencheck": "korrigiert",
-"id": "66-gottenheim/v0.8/10",
+"id": "66-gottenheim/v0.9/9",
 "tisch": false
 }
 ],
@@ -15329,7 +15689,287 @@ window.QA_DATEN = {
 },
 "ags": "08315043",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 3.200 Einwohner auf 8,75 Quadratkilometern, 11 km nordwestlich von Freiburg, zwischen Kaiserstuhl und Tuniberg, mit Schutzgebiet Humbrühl-Rohrmatten."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 1086 erwähnt, im Gründungsbericht des Klosters St. Georgen; früher vorderösterreichisch und katholisch, Wahrzeichen ist die Kirche St. Stephan."
+},
+{
+"facette": "ALLTAG",
+"text": "Ein Weindorf mit Winzergenossenschaft, vor allem Spätburgunder; dazu Metallverwerter MVG, SensoPart Industriesensorik und ein Säge- und Palettenwerk."
+},
+{
+"facette": "FREIZEIT",
+"text": "Musikverein mit Hahlerai-Fest, Heimat- und Trachtengruppe, der Burgunderpfad mit 26,5 Kilometern und der Kaiserstuhl-Radwanderweg."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof an der Breisacher Bahn, heute unbesetzt; Autokennzeichen FR, Vorwahl 07665, Postleitzahl 79288."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 wurde die CDU mit 33,8 Prozent stärkste Partei, vor SPD und Grünen."
+}
+],
 "km_vom_vorigen": 3.2
+},
+{
+"slug": "465-merdingen",
+"name": "Merdingen",
+"lat": 48.01778,
+"lon": 7.68833,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Straße für Radprofi Jan Ullrich",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Merdingen",
+"steckbrief": "Merdingen hat rund 2.700 Einwohner und liegt 12 km westlich von Freiburg im Breisgau.",
+"frage": "Radprofi Jan Ullrich hat mehrere Jahre in Merdingen gelebt. Wie hat der Ort ihn geehrt?",
+"optionen": [
+"Die Grundschule des Orts trägt seinen Namen.",
+"Das Sportzentrum trägt seinen Namen.",
+"Eine Straße wurde nach ihm benannt.",
+"Die Festhalle trägt seinen Namen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Radprofi liegt das Sportzentrum nahe. Es heißt aber Sportzentrum Kleinsteinen, die Grundschule heißt Hermann-Brommer-Schule und die Halle Turn- und Festhalle. Geehrt wurde Jan Ullrich 1998, ein Jahr nach seinem Sieg bei der Tour de France, mit einer Straße in seinem damaligen Wohnort. Für ein Weindorf mit rund 2.700 Einwohnern ist das etwas Besonderes. An der Jan-Ullrich-Straße steht heute die Turn- und Festhalle. Richtig war 3.",
+"quelle": "radsport-news.com/sport/sportnews_34903.htm; Gemeinde Merdingen, merdingen.de",
+"faktencheck": "korrigiert",
+"id": "465-merdingen/v0.9/1",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Zwanzigjährige übernehmen zur Fasnet das Rathaus",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Merdingen",
+"steckbrief": "Merdingen hat rund 2.700 Einwohner und liegt 12 km westlich von Freiburg im Breisgau.",
+"frage": "Zur Merdinger Fasnet erhält ein Jahrgang am Schmutzigen Donnerstag bei einer Schlüsselübergabe die Macht über das Rathaus. Welcher?",
+"optionen": [
+"Der Jahrgang, der 18 Jahre alt wird.",
+"Der Jahrgang, der 30 Jahre alt wird.",
+"Der Jahrgang, der 50 Jahre alt wird.",
+"Der Jahrgang, der 20 Jahre alt wird."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Volljährigkeit liegt als Schwelle nahe. In Merdingen sind es aber die Rekruten, die „Rekrüdde“: der Jahrgang, der im Fasnetsjahr 20 wird. Mit der Schlüsselübergabe am Schmutzigen Donnerstag wird die Fasnet eröffnet. Die Rekruten erhalten die Macht über das Rathaus und leiten mit der Zwulcher Narrenzunft durch die Fasnet. Der große Umzug zählt zu den Höhepunkten im Merdinger Jahr, und für viele Jugendliche ist die Rekrutenzeit ein Highlight. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.merdingen.de/freizeit+_+tourismus/merdinger+fasnet",
+"faktencheck": "korrigiert",
+"id": "465-merdingen/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Weindorf am „kleinen Bruder“ des Kaiserstuhls",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Merdingen",
+"steckbrief": "Merdingen hat rund 2.700 Einwohner und liegt 12 km westlich von Freiburg im Breisgau.",
+"frage": "Den Tuniberg, an dessen westlicher Steilkante Merdingen liegt, nennt man den „kleinen Bruder“ eines größeren Nachbarn. Wessen?",
+"optionen": [
+"Er ist der kleine Bruder des Kaiserstuhls.",
+"Er ist der kleine Bruder des Feldbergs.",
+"Er ist der kleine Bruder des Schauinslands.",
+"Er ist der kleine Bruder des Belchens."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Feldberg oder Schauinsland liegen nahe, weil sie bekannte Gipfel des Schwarzwalds sind. Gemeint ist aber der Kaiserstuhl. Der Tuniberg ragt als „Insel“ aus der Rheinebene, ein flacher Bergrücken mit Lössböden und Reben. Er heißt auch „Weingarten von Freiburg“. Merdingen liegt an seiner westlichen Steilkante; von dort reicht der Blick zum Schwarzwald und zu den Vogesen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.merdingen.de/gemeinde+_+info/gemeindeportrait",
+"faktencheck": "korrigiert",
+"id": "465-merdingen/v0.9/3",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Weinpresse, wo einst Zigarren entstanden",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Merdingen",
+"steckbrief": "Merdingen hat rund 2.700 Einwohner und liegt 12 km westlich von Freiburg im Breisgau.",
+"frage": "Merdingen erinnert im Trottschopf an alte Keltermethoden. Was stand dort, bevor der Schopf 1984 errichtet wurde?",
+"optionen": [
+"Dort stand eine ehemalige Ölmühle.",
+"Dort stand eine ehemalige Zigarrenfabrik.",
+"Dort stand eine ehemalige Dorfschmiede.",
+"Dort stand eine ehemalige Brennerei."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im Weindorf liegt eine Brennerei oder Ölmühle nahe. An der Ecke Sellingerstraße und Löschgraben stand aber eine ehemalige Zigarrenfabrik. Heute zeigt dort der offene Schopf eine Baumtrotte, eine alte Weinpresse mit Pressbaum und Spindel, dazu ein altes Fass. So erinnert Merdingen, seit jeher mit dem Weinbau verbunden, im Dorf an die früheren Keltermethoden. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.merdingen.de/freizeit+_+tourismus/sehenswertes",
+"faktencheck": "bestätigt",
+"id": "465-merdingen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "sichtbares Bad eines römischen Gutshofs",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Merdingen",
+"steckbrief": "Merdingen hat rund 2.700 Einwohner und liegt 12 km westlich von Freiburg im Breisgau.",
+"frage": "Nördlich von Merdingen stand im 1. Jahrhundert ein römischer Gutshof mit mehreren Gebäuden. Was ist heute davon noch zu sehen?",
+"optionen": [
+"Vom Wohnhaus sind noch Mauern sichtbar.",
+"Vom Speicher sind noch Mauern sichtbar.",
+"Vom Bad sind noch Mauern sichtbar.",
+"Von keinem Gebäude sind Mauern sichtbar."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das Wohnhaus liegt nahe, und man hielt den Bau bei ersten Grabungen in der Vorkriegszeit für einen Wohnbau. Spätere Untersuchungen legten den Grundriss frei: Es war das Bad. Ein Dach schützt heute seine Mauern und Böden. Vom Wohnhaus und vom Speicher, die wohl zum Hof gehörten, blieben nur flache Erhebungen. Schon damals bauten die Römer hier Obst und Gemüse an, heute wachsen in Merdingen Reben, Obst und Spargel. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.merdingen.de/freizeit+_+tourismus/sehenswertes",
+"faktencheck": "korrigiert",
+"id": "465-merdingen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Partnergemeinde jenseits des Rheins im Elsass",
+"rang": 7,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Merdingen",
+"steckbrief": "Merdingen hat rund 2.700 Einwohner und liegt 12 km westlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Merdingen gehört zur Verwaltungsgemeinschaft Breisach am Rhein.",
+"Merdingens Partnergemeinde liegt in der Schweiz.",
+"Das Sportzentrum Kleinsteinen hat einen Inline-Hockey-Platz."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Schweiz ist von Merdingen nicht weit, doch die Partnergemeinde ist seit 1968 Sainte-Croix-en-Plaine im Elsass. Wahr sind die beiden anderen: Merdingen bildet mit Ihringen und Breisach eine Verwaltungsgemeinschaft, und im Sportzentrum Kleinsteinen gibt es einen Inline-Hockey-Platz. Von der Steilkante des Tunibergs reicht der Blick bis zu den Vogesen, ins Land der Partner. Die Lüge war 2.",
+"quelle": "Gemeinde Merdingen, merdingen.de; Gemeinde Ihringen, ihringen.de",
+"faktencheck": "korrigiert",
+"id": "465-merdingen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "POLITIK",
+"charakteristikum": "Wahlbeteiligung deutlich über dem Landesschnitt",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Merdingen",
+"steckbrief": "Merdingen hat rund 2.700 Einwohner und liegt 12 km westlich von Freiburg im Breisgau.",
+"frage": "Bei der Bundestagswahl 2025 lag die Wahlbeteiligung in Baden-Württemberg bei 83,4 Prozent. Wie hoch war sie in Merdingen?",
+"optionen": [
+"87 Prozent oder mehr",
+"83 bis unter 87 Prozent",
+"79 bis unter 83 Prozent",
+"unter 79 Prozent"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Landeswert wirkt wie der sichere Tipp, denn ohne weiteres Wissen setzt man auf den Durchschnitt. In Merdingen gingen bei der Bundestagswahl 2025 aber 88,8 Prozent wählen, 5,4 Punkte mehr als in ganz Baden-Württemberg. In dem Weindorf mit rund 2.700 Einwohnern gaben damit fast neun von zehn Wahlberechtigten ihre Stimme ab. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23; Landeswert: Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes",
+"faktencheck": "bestätigt",
+"id": "465-merdingen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Dorf des Deutschen Ordens",
+"rang": 9,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Merdingen",
+"steckbrief": "Merdingen hat rund 2.700 Einwohner und liegt 12 km westlich von Freiburg im Breisgau.",
+"frage": "Ab 1716 gehörten zwei Drittel der Ortsherrschaft über Merdingen einem neuen Herrn. Wer kaufte sie?",
+"optionen": [
+"Die Stadt Straßburg kaufte sie.",
+"Das Kloster Salem kaufte sie.",
+"Der Deutsche Orden kaufte sie.",
+"Die Fürsten von Fürstenberg kauften sie."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Kloster oder Fürstenhaus läge nahe, solche Herren besaßen viele Dörfer. Doch die Freiherren von Wessenberg verkauften ihre zwei Drittel an die Freiburger Kommende des Deutschen Ordens. Unter dem Orden blühte das Dorf auf. Sein Baumeister Bagnato errichtete die spätbarocke Kirche St. Remigius, bis heute sichtbares Zeichen der erfolgreichen Ordenspolitik. In der einstigen Zehntscheuer des Ordens feiert Merdingen heute seine Feste. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.merdingen.de/gemeinde+_+info/geschichte+_+tradition/historisches",
+"faktencheck": "korrigiert",
+"id": "465-merdingen/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Golddorf im Bundeswettbewerb",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Merdingen",
+"steckbrief": "Merdingen hat rund 2.700 Einwohner und liegt 12 km westlich von Freiburg im Breisgau.",
+"frage": "Merdingen trat 1989 im Wettbewerb „Unser Dorf soll schöner werden“ an. Wie schnitt das Dorf ab?",
+"optionen": [
+"Merdingen holte Bronze im Landeswettbewerb.",
+"Merdingen holte Silber im Bundeswettbewerb.",
+"Merdingen holte Gold, aber nur im Land.",
+"Merdingen holte Gold im Land und Bund."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Gold im Land wäre für ein Dorf schon ein großer Erfolg, deshalb liegt ein Halt auf Landesebene nahe. Merdingen holte aber Gold in Baden-Württemberg und dazu Gold auf Bundesebene. Wer durch den denkmalgeschützten Ortskern mit seinen historischen Winzerhöfen fährt, sieht, warum sich die Gemeinde ein „Dorf voller Geschichte und Traditionen“ nennt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.merdingen.de/gemeinde+_+info/gemeindeportrait",
+"faktencheck": "bestätigt",
+"id": "465-merdingen/v0.9/9",
+"tisch": false
+}
+],
+"anschluss_von": "66-gottenheim",
+"anschluss": [
+"Gottenheim hat mehr Einwohner als Merdingen, aber viel weniger Fläche.",
+"Der Kaiserstuhlradweg verbindet Merdingen mit Gottenheim."
+],
+"anschluesse": {
+"66-gottenheim": [
+"Gottenheim hat mehr Einwohner als Merdingen, aber viel weniger Fläche.",
+"Der Kaiserstuhlradweg verbindet Merdingen mit Gottenheim."
+]
+},
+"ags": "08315072",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Merdingen liegt mit rund 2.700 Einwohnern an der Westkante des Tunibergs, 12 Kilometer westlich von Freiburg."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Römische Gutshöfe, alemannische Gründung, später Dorf des Deutschen Ordens; heute denkmalgeschützter Ortskern mit Barockkirche St. Remigius."
+},
+{
+"facette": "ALLTAG",
+"text": "Größte Weinbaugemeinde am Tuniberg mit rund 250 Hektar Reben, dazu Obst- und Spargelanbau auf Lössböden."
+},
+{
+"facette": "FREIZEIT",
+"text": "Fasnet mit großem Umzug, Gassenweinfest, Römerbad, Fachwerkhaus Saladin, barocker Stockbrunnen und der Badische Weinradweg."
+},
+{
+"facette": "INFRA",
+"text": "Sportzentrum Kleinsteinen, Turn- und Festhalle, Hermann-Brommer-Schule, Verwaltungsgemeinschaft mit Breisach und Ihringen."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 wurde die CDU mit 40,5 Prozent klar stärkste Kraft."
+}
+],
+"km_vom_vorigen": 4.7
 },
 {
 "slug": "67-boetzingen",
@@ -15338,170 +15978,214 @@ window.QA_DATEN = {
 "lon": 7.72556,
 "karten": [
 {
+"facette": "ALLTAG",
+"charakteristikum": "Autozulieferer als größter Arbeitgeber im Weindorf",
+"rang": 1,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Bötzingen",
-"steckbrief": "Bötzingen zählt rund 5.500 Einwohner und liegt 13 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Im Bötzinger Ortsteil Oberschaffhausen entstand Ende des 15. Jahrhunderts die St.-Albans-Kapelle. Warum wurde sie gebaut?",
+"steckbrief": "Weinbaugemeinde mit gut 5.500 Einwohnern, 13 km nordwestlich von Freiburg.",
+"frage": "Das Unternehmen SMP, früher Peguform, sitzt in Bötzingen. Was stellt es her?",
 "optionen": [
-"Ein Adliger stiftete sie als Grabkapelle seiner Familie.",
-"Die Winzer dankten Gott für eine Rekordernte.",
-"Sie war Raststation für Pilger nach Santiago.",
-"Sie erfüllte ein Gelübde aus der Pestzeit."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Eine Adelsstiftung liegt nahe, denn viele Kapellen gehen auf reiche Stifter zurück. Hier stand aber ein Pest-Gelübde dahinter: „Wir errichten eine Kapelle, wenn wir vor noch größerem Schaden verschont bleiben.“ Errichtet wurde sie zu Ehren des Pestheiligen Alban von Mainz; sie heißt auch Pestkapelle. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, boetzingen.de/start/tourismus/sehenswertes.html",
-"faktencheck": "bestätigt",
-"id": "67-boetzingen/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Bötzingen",
-"steckbrief": "Bötzingen zählt rund 5.500 Einwohner und liegt 13 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Wie groß ist die Fläche der Gemeinde Bötzingen?",
-"optionen": [
-"unter 15 km²",
-"15 bis unter 25 km²",
-"25 bis unter 40 km²",
-"40 km² und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Größere Schätzungen liegen nahe, weil Landgemeinden oft weite Felder und Wälder umfassen. Bötzingen misst aber nur 13 Quadratkilometer und ist damit dicht besiedelt. Richtig war 1.",
-"quelle": "Wikidata P2046",
-"faktencheck": "bestätigt",
-"id": "67-boetzingen/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Bötzingen",
-"steckbrief": "Bötzingen zählt rund 5.500 Einwohner und liegt 13 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Der erste Feuerwehrhauptmann war von Beruf Löwenwirt.",
-"Die Linde am Lindenplatz musste aus Sicherheitsgründen weichen.",
-"Das Staffelgiebelhaus heißt nach seinem Erbauer Staffel."
-],
-"art": "luege",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Der Löwenwirt als erster Hauptmann der Freiwilligen Feuerwehr klingt erfunden, stimmt aber. Gelogen ist die Herkunft des Staffelgiebelhauses: Es heißt nach den Stufen, den Staffeln, in seinen Giebeln. Ein Erbauer namens Staffel liegt nahe, weil viele Häuser nach Erbauern benannt sind. Die alte Linde wurde übrigens durch eine Neupflanzung ersetzt. Die Lüge war 3.",
-"quelle": "Gemeinde-Webseite, boetzingen.de/start/ffw/chronik.html und boetzingen.de/start/tourismus/sehenswertes.html",
-"faktencheck": "korrigiert",
-"id": "67-boetzingen/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Bötzingen",
-"steckbrief": "Bötzingen zählt rund 5.500 Einwohner und liegt 13 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Bei der Bundestagswahl 2025 wurde die CDU in Bötzingen stärkste Partei. Wie viel Prozent der Zweitstimmen erhielt sie?",
-"optionen": [
-"unter 25 %",
-"25 bis unter 32 %",
-"32 bis unter 40 %",
-"40 % und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Über 40 Prozent liegt nahe, weil die CDU auf dem badischen Land traditionell stark ist. In Bötzingen kam sie auf 36,8 Prozent der Zweitstimmen, vor SPD und AfD. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "67-boetzingen/v0.8/4",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Bötzingen",
-"steckbrief": "Bötzingen zählt rund 5.500 Einwohner und liegt 13 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Laut Gemeinde besuchte Johann Wolfgang von Goethe ein Bötzinger Herrenhaus und genoss den Bötzinger Wein. Wo steht dieses Haus?",
-"optionen": [
-"Es thront auf einer Anhöhe über den Reben.",
-"Es steht am Waldrand hoch über dem Ort.",
-"Es steht auf einer Felskuppe über dem Dorf.",
-"Es steht bei der ehemaligen Mühle."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Eine Anhöhe über den Reben liegt nahe, denn wer an Wein denkt, denkt an Weinberge. Das Herrenhaus steht aber bei der ehemaligen Mühle, die direkt am Mühlbach liegt. Es war Herrschaftssitz des Kammerrats Enderlin. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, boetzingen.de/start/tourismus/sehenswertes.html",
-"faktencheck": "korrigiert",
-"id": "67-boetzingen/v0.8/5",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Bötzingen",
-"steckbrief": "Bötzingen zählt rund 5.500 Einwohner und liegt 13 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Wie weit ist Bötzingen in Luftlinie von der Landeshauptstadt Stuttgart entfernt?",
-"optionen": [
-"unter 140 km",
-"140 bis unter 170 km",
-"170 bis unter 200 km",
-"200 km und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Eine größere Entfernung liegt nahe, denn auf der Straße ist der Weg nach Stuttgart deutlich länger. In Luftlinie trennen Bötzingen und die Landeshauptstadt aber nur 133 Kilometer. Richtig war 1.",
-"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
-"faktencheck": "bestätigt",
-"id": "67-boetzingen/v0.8/6",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Bötzingen",
-"steckbrief": "Bötzingen zählt rund 5.500 Einwohner und liegt 13 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Der Fußboden der evangelischen Kirche in Bötzingen ist dem einer anderen Kirche nachempfunden. Welcher?",
-"optionen": [
-"Er ist dem Freiburger Münster nachempfunden.",
-"Er ist der Berliner Kaiser-Wilhelm-Gedächtniskirche nachempfunden.",
-"Er ist dem Straßburger Münster nachempfunden.",
-"Er ist der Dresdner Frauenkirche nachempfunden."
+"Es keltert und füllt Wein für Winzer ab.",
+"Es fertigt Kunststoffteile für die Autoindustrie.",
+"Es baut Maschinen für den Weinbau.",
+"Es produziert Bauteile für Solaranlagen."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Das Freiburger Münster liegt nahe, es ist das große Kirchenvorbild der Region. Der Fußboden der evangelischen Kirche ist aber der Berliner Kaiser-Wilhelm-Gedächtniskirche nachempfunden. Ihren Kirchenturm erhielt die Kirche erst bei späteren Umbauten. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, boetzingen.de/start/tourismus/sehenswertes.html",
-"faktencheck": "bestätigt",
-"id": "67-boetzingen/v0.8/7",
+"rueckseite": "Du hattest [Option] getippt. In einer Weinbaugemeinde liegt ein Weinbetrieb nahe. Doch SMP, früher Peguform, fertigt Kunststoffteile für Autos, etwa Cockpits, Türverkleidungen und Stoßfänger. Die Gemeinde zählt das Werk zu ihren vier größten Gewerbebetrieben: Bötzingen lebt nicht nur vom Wein. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, boetzingen.de/start/wirtschaft.html und boetzingen.de/start/wirtschaft/Unternehmen.html",
+"faktencheck": "korrigiert",
+"id": "67-boetzingen/v0.9/1",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Pestkapelle aus einem Gelübde",
+"rang": 5,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Bötzingen",
-"steckbrief": "Bötzingen zählt rund 5.500 Einwohner und liegt 13 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Der erste urkundliche Beleg für Bötzingen von 769 hält eine Schenkung fest. Wer bekam sie?",
+"steckbrief": "Gemeinde mit gut 5.500 Einwohnern, 13 km nordwestlich von Freiburg.",
+"frage": "Im Ortsteil Oberschaffhausen steht die spätgotische St.-Albans-Kapelle. Warum wurde sie laut Ortsgeschichte gebaut?",
 "optionen": [
-"Sie ging an das Kloster St. Gallen.",
-"Sie ging an das Kloster Reichenau.",
-"Sie ging an das Kloster Lorsch.",
-"Sie ging an das Bistum Straßburg."
+"Ein Ritter stiftete sie nach einem Kreuzzug.",
+"Winzer dankten mit ihr für eine Rekordernte.",
+"Sie geht auf ein Gelübde in Pestjahren zurück.",
+"Sie ersetzte eine vom Hochwasser zerstörte Kirche."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. St. Gallen liegt nahe, denn das Kloster besaß früh Güter im nahen Breisgau. Die Schenkung in der „Betzinger marca“ ging aber an das Kloster Lorsch. Aus derselben Urkunde geht hervor, dass in Bötzingen schon damals Wein angebaut wurde; der Ort gilt als älteste Weinbaugemeinde der Region. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, boetzingen.de/start/gemeinde.html; LEO-BW",
+"rueckseite": "Du hattest [Option] getippt. In einem Weindorf liegt der Dank für eine gute Ernte nahe. Doch die Kapelle geht auf ein Gelübde in Pestjahren zurück, zum Schutz vor größerem Schaden; geweiht ist sie dem Pestheiligen Alban. Zu sehen sind Fresken aus der Bauzeit, eine symbolische Darstellung der Pest und ein überlebensgroßes Pestkreuz. Auf der Gemeinde-Webseite heißt sie auch Pestkapelle. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, boetzingen.de/start/tourismus/sehenswertes.html",
 "faktencheck": "korrigiert",
-"id": "67-boetzingen/v0.8/8",
+"id": "67-boetzingen/v0.9/2",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Freibad mit 50-Meter-Bahnen",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bötzingen",
+"steckbrief": "Weinbaugemeinde mit gut 5.500 Einwohnern, 13 km nordwestlich von Freiburg.",
+"frage": "Das Freibad Bötzingen hat im Schwimmerbereich sechs Bahnen. Was gilt für ihre Länge?",
+"optionen": [
+"Alle sechs Bahnen sind 25 Meter lang.",
+"Alle sechs Bahnen sind 33 Meter lang.",
+"Zwei der Bahnen sind 100 Meter lang.",
+"Drei der Bahnen sind 50 Meter lang."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. 25 Meter sind in Dorfbädern üblich, und drei Bahnen haben tatsächlich diese Länge. Die anderen drei aber messen 50 Meter. Dazu kommen ein Becken mit Edelstahlauskleidung, Rutschen, Sprungbretter und Minigolf. Geöffnet ist das Freibad von Mitte Mai bis Mitte September. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, boetzingen.de/start/tourismus/Freibad.html und boetzingen.de/start/tourismus/Freizeit.html",
+"faktencheck": "korrigiert",
+"id": "67-boetzingen/v0.9/3",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "zwei Halte der Kaiserstuhlbahn",
+"rang": 8,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Bötzingen",
+"steckbrief": "Gemeinde mit gut 5.500 Einwohnern, 13 km nordwestlich von Freiburg.",
+"frage": "Welche dieser vier Dinge gibt es in Bötzingen?",
+"optionen": [
+"Einen Bahnhof",
+"Ein Hallenbad",
+"Ein Krankenhaus",
+"Eine Brauerei"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Hallenbad läge nahe, Bötzingen hat aber nur ein Freibad. Dafür hat der Ort einen Bahnhof an der Kaiserstuhlbahn: Die Züge der Breisgau-S-Bahn halten in Bötzingen und verbinden den Ort mit Freiburg. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, boetzingen.de/start/tourismus/Touristeninformationen.html",
+"faktencheck": "korrigiert",
+"id": "67-boetzingen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Reben auf Vulkanboden",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bötzingen",
+"steckbrief": "Gemeinde mit gut 5.500 Einwohnern, 13 km nordwestlich von Freiburg.",
+"frage": "Bötzingen liegt am Kaiserstuhl. Welchen Ursprung hat der Untergrund, auf dem seine Reben wachsen?",
+"optionen": [
+"Er ist Urgestein wie im nahen Schwarzwald.",
+"Er ist vulkanischen Ursprungs wie der Kaiserstuhl.",
+"Er ist Schiefer wie an der Mosel.",
+"Er ist Buntsandstein wie im Odenwald."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Urgestein liegt nahe, der Schwarzwald ist ja in Sichtweite. Doch der Kaiserstuhl ist vulkanischen Ursprungs, und die Bötzinger Reben wachsen auf fruchtbarem, mineralhaltigem Vulkanboden. Am Kaiserstuhl wachsen dank mildem Klima sogar Feigen und Kiwis. Der Boden gilt als ideal für Wein, und Bötzinger Wein ist über die Grenzen Badens bekannt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, boetzingen.de/start/wirtschaft/Wein_+Obst_+Gemuesebau.html und boetzingen.de/start/wirtschaft/boetzinger+eg.html",
+"faktencheck": "korrigiert",
+"id": "67-boetzingen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Wein seit den ersten Urkunden",
+"rang": 2,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bötzingen",
+"steckbrief": "Gemeinde mit gut 5.500 Einwohnern am Kaiserstuhl, 13 km nordwestlich von Freiburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Goethe genoss Bötzinger Wein im Herrenhaus am Mühlbach.",
+"Das Fachwerkhaus der Familie Schaffner war Gasthaus Löwen.",
+"Den Weinbau brachte erst die Neuzeit nach Bötzingen."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Goethe als Weingast klingt nach Anekdote, wird aber in der Ortsgeschichte so erzählt; auch das frühere Gasthaus Löwen im Fachwerkhaus stimmt. Gelogen ist der späte Weinbau: Schon die erste Erwähnung 769, eine Schenkungsurkunde an das Kloster Lorsch, zeigt, dass in Bötzingen Wein angebaut wurde. Wein ist so alt wie die schriftliche Geschichte des Orts. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, boetzingen.de/start/gemeinde.html und boetzingen.de/start/tourismus/sehenswertes.html",
+"faktencheck": "korrigiert",
+"id": "67-boetzingen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "dicht besiedeltes Weindorf",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bötzingen",
+"steckbrief": "Gemeinde mit gut 5.500 Einwohnern am Kaiserstuhl, 13 km nordwestlich von Freiburg.",
+"frage": "Wie viele Menschen wohnen in Bötzingen rechnerisch auf einem Quadratkilometer?",
+"optionen": [
+"unter 150",
+"150 bis unter 250",
+"250 bis unter 350",
+"350 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Weindorf stellt man sich locker bebaut vor, mit viel Platz für Reben. Doch auf 13 Quadratkilometern leben gut 5.500 Menschen, rechnerisch 424 je Quadratkilometer. Das passt eher zur Nähe Freiburgs als zum Bild vom stillen Weindorf. Richtig war 4.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "67-boetzingen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Fango-Hersteller für halb Europa",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bötzingen",
+"steckbrief": "Weinbaugemeinde mit gut 5.500 Einwohnern, 13 km nordwestlich von Freiburg.",
+"frage": "Der Betrieb Hans G. Hauri zählt zu den vier größten Gewerbebetrieben in Bötzingen. Was stellt er unter anderem her?",
+"optionen": [
+"Hauri stellt Naturfango her.",
+"Hauri fertigt Holzfässer für Weinkeller.",
+"Hauri brennt Obstbrände aus Kaiserstühler Kirschen.",
+"Hauri presst Öl aus Traubenkernen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Am Kaiserstuhl denkt man zuerst an Wein und Obst. Doch Hauri baut in Bötzingen das Vulkangestein Phonolith ab und macht daraus unter anderem Naturfango, einen Mineralschlamm für Wärmepackungen. Die Gemeinde zählt das Mineralstoffwerk zu den vier größten Gewerbebetrieben im Ort. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, boetzingen.de/start/wirtschaft.html; Badische Zeitung; hauri.de",
+"faktencheck": "korrigiert",
+"id": "67-boetzingen/v0.9/8",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Kirchenboden nach Berliner Vorbild",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bötzingen",
+"steckbrief": "Gemeinde mit gut 5.500 Einwohnern am Kaiserstuhl, 13 km nordwestlich von Freiburg.",
+"frage": "Die evangelische Kirche Bötzingen hat einen ungewöhnlichen Fußboden. Welche Kirche war dafür das Vorbild?",
+"optionen": [
+"Das Straßburger Münster stand dafür Pate.",
+"Der Aachener Dom stand dafür Pate.",
+"Die Kaiser-Wilhelm-Gedächtniskirche in Berlin stand Pate.",
+"Der Markusdom in Venedig stand dafür Pate."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Straßburg mit seinem Münster liegt viel näher. Doch der Fußboden lehnt sich an die Kaiser-Wilhelm-Gedächtniskirche in Berlin an. Die Kirche selbst geht auf einen kleineren gotischen Bau zurück und hat ihren ursprünglichen Hallencharakter zurückbekommen; dazu kommt eine Mühleisen-Orgel. Wer anhält, sollte also auch nach unten schauen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, boetzingen.de/start/tourismus/sehenswertes.html",
+"faktencheck": "bestätigt",
+"id": "67-boetzingen/v0.9/9",
 "tisch": false
 }
 ],
-"anschluss_von": "66-gottenheim",
-"anschluss": [
-"Bötzingen hat gut anderthalbmal so viele Einwohner wie Gottenheim.",
-"Gottenheim und Bötzingen gehören beide zum Gemeindeverwaltungsverband Kaiserstuhl-Tuniberg."
-],
+"anschluss_von": "465-merdingen",
+"anschluss": [],
 "anschluesse": {
 "387-ebnet": [
 "Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Bötzingen zum Landkreis Breisgau-Hochschwarzwald.",
@@ -15596,7 +16280,33 @@ window.QA_DATEN = {
 },
 "ags": "08315013",
 "ortsteil": false,
-"km_vom_vorigen": 3.0
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Bötzingen liegt auf 192 Metern an der Südostseite des Kaiserstuhls, 13 Kilometer nordwestlich von Freiburg; im Ort fließt der Mühlbach."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Seit 1838 eine Gemeinde mit Oberschaffhausen; dazu gehören die abgegangenen Burgen Kranzenau und Seelenberg und die Kirche St. Laurentius."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 5.500 Einwohner, etwa 340 Hektar Reben, Winzergenossenschaft Bötzinger eG, Weingüter Höfflin und Josef Ambs; mehr Ein- als Auspendler."
+},
+{
+"facette": "FREIZEIT",
+"text": "Freibad, Weinlehrpfad, Brunnenpfad, Lösshohlweg, Kaiserstuhl-Radwanderweg und die Hohrainbuckhütte mit Blick über Rheinebene und Schwarzwald."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof Bötzingen und Haltepunkt Bötzingen Mühle; Kennzeichen FR, Postleitzahl 79268, Vorwahl 07663."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU 36,8 Prozent vor SPD und AfD; Wahlbeteiligung 82,2 Prozent, knapp unter dem Landeswert."
+}
+],
+"km_vom_vorigen": 7.1
 },
 {
 "slug": "68-eichstetten",
@@ -15605,182 +16315,232 @@ window.QA_DATEN = {
 "lon": 7.74444,
 "karten": [
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Aussichtsturm auf dem Hausberg",
+"rang": 7,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Eichstetten",
+"steckbrief": "Eichstetten, knapp 3.800 Einwohner, liegt 14 km nordwestlich von Freiburg im Breisgau am Ostrand des Kaiserstuhls.",
+"frage": "Welches dieser vier Dinge gibt es in Eichstetten?",
+"optionen": [
+"ein Aussichtsturm",
+"ein Freibad",
+"ein Golfplatz",
+"eine Sommerrodelbahn"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Freibad läge bei einem Ort dieser Größe nahe, doch Eichstetten hat etwas anderes: den Eichelspitzturm auf seinem Hausberg. Von oben reicht der Blick über Kaiserstuhl und Schwarzwald bis zu den Vogesen und bei guter Sicht bis zum Straßburger Münster. Für ein Dorf mit knapp 3.800 Einwohnern ist das ein großer Bau; Eichstetten hat ihn gemeinsam mit Bötzingen, Vogtsburg, Bahlingen, einem Förderverein, einer Firma und dem Land gestemmt. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.eichstetten.de/freizeit-kultur-tourismus/bewegung-erholung/eichelspitzturm; OpenStreetMap; Einwohner: Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "korrigiert",
+"id": "68-eichstetten/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Dorf mit altem Marktrecht",
+"rang": 8,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Eichstetten",
-"steckbrief": "Eichstetten hat rund 3.800 Einwohner und liegt 14 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Das Dorfmuseum hat eine Vorgeschichte: Hier stand die St. Jakobskapelle, im Dreißigjährigen Krieg zerstört. Wozu errichtete man 1765 an ihrer Stelle einen Neubau?",
+"steckbrief": "Eichstetten, Winzerdorf mit knapp 3.800 Einwohnern, 14 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Eichstettens Jahrmarkt geht auf ein Marktrecht von 1418 zurück. Welcher Herrscher verlieh es?",
 "optionen": [
-"Er wurde ein Kelterhaus für die Winzer.",
-"Er wurde das Rathaus des Dorfs.",
-"Er wurde das Schulhaus des Dorfs.",
-"Er wurde ein Gasthaus mit Saal."
+"Karl IV. verlieh es.",
+"Sigismund verlieh es.",
+"Maximilian I. verlieh es.",
+"Friedrich III. verlieh es."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Karl IV. liegt nahe, denn er ist ein bekannter Kaiser des Spätmittelalters; er starb aber schon 1378. Sein Sohn Sigismund war 1418 römisch-deutscher König; zum Kaiser wurde er erst 1433 gekrönt. Er verlieh das Marktrecht an Markgraf Bernhard von Baden. Aus einem zweitägigen Krämermarkt mit Vieh- und Holzverkauf wurde der heutige halbtägige Jahrmarkt. Für ein Dorf mit knapp 3.800 Einwohnern ist das ein Stück Mittelalter, das im Kalender geblieben ist. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.eichstetten.de/freizeit-kultur-tourismus/maerkte-feste/jahrmarkt",
+"faktencheck": "korrigiert",
+"id": "68-eichstetten/v0.9/2",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "von Winzern gegrabener Lössstollen",
+"rang": 3,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Eichstetten",
+"steckbrief": "Eichstetten, knapp 3.800 Einwohner, liegt 14 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge gibt es in Eichstetten?",
+"optionen": [
+"eine Brauerei",
+"eine Molkerei",
+"ein begehbarer Lössstollen",
+"ein Sägewerk"
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein Kelterhaus läge im Winzerdorf nahe, und Kirchengrund wurde oft weltlich genutzt. Der Neubau an der Stelle der Jakobskapelle entstand aber als Schulhaus. Lange wurde darin unterrichtet; nach der Sanierung zog das Dorfmuseum ein. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.eichstetten.de/freizeit-kultur-tourismus/dorfmuseum",
-"faktencheck": "korrigiert",
-"id": "68-eichstetten/v0.8/1",
+"rueckseite": "Du hattest [Option] getippt. Eine Brauerei läge nahe, viele Dörfer hatten eine; Eichstetten ist aber ein Winzerdorf. Eine Winzerfamilie grub einen Stollen in den Löss, um ihr höher gelegenes Rebgrundstück besser zu erreichen. Heute ist er begehbar und eine Station des Geopfads. Der Stollen zeigt, wie sehr die Reben das Dorf prägen: Für den Weg in den Weinberg grub man sich sogar durch den Hang. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.eichstetten.de/freizeit-kultur-tourismus/bewegung-erholung/geopfad; OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "68-eichstetten/v0.9/3",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "LAGE",
+"charakteristikum": "Dorf am Fuß eines Vulkans",
+"rang": 9,
+"familie": "A",
+"sorte": "Geschichte",
 "ort": "Eichstetten",
-"steckbrief": "Eichstetten hat rund 3.800 Einwohner und liegt 14 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Eichstetten liegt am Ostrand des Kaiserstuhls. Auf welcher Höhe über dem Meer liegt der Ort?",
+"steckbrief": "Eichstetten, knapp 3.800 Einwohner, liegt 14 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Eichstetten liegt am Ostrand des Kaiserstuhls in der Rheinebene. Wie ist dieser Höhenzug entstanden?",
 "optionen": [
-"unter 120 m",
-"120 bis unter 150 m",
-"150 bis unter 180 m",
-"180 bis unter 220 m"
+"Er ist eine Endmoräne eiszeitlicher Gletscher.",
+"Er ist ein abgebrochenes Stück des Schwarzwalds.",
+"Der Rhein hat ihn aus Kies aufgeschüttet.",
+"Er ist ein ehemaliger Vulkan."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Der Kaiserstuhl ist ein kleines Gebirge, und Weinberge denkt man sich hoch oben. Der Ort selbst liegt aber niedriger, als der Name der Landschaft vermuten lässt: Die Quellen nennen 192 und 193 Meter. Richtig war 4.",
-"quelle": "Wikidata P2044; dewiki Infobox",
+"rueckseite": "Du hattest [Option] getippt. Ein Stück Schwarzwald liegt nahe, weil das Gebirge gleich gegenüber liegt. Der Kaiserstuhl ist aber ein ehemaliger Vulkan, reich an seltenen Mineralien und voller sonniger Reblagen. Vom Gipfel der Eichelspitze reicht Eichstettens Tal durch Reben und Gemüsefelder bis zur Niederung der Dreisam. Wer vorbeifährt, sieht also ein Dorf am Fuß eines erloschenen Vulkans. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.eichstetten.de/unsere-gemeinde/gemeinde-eichstetten/kurzportrait",
 "faktencheck": "bestätigt",
-"id": "68-eichstetten/v0.8/2",
+"id": "68-eichstetten/v0.9/4",
 "tisch": false
 },
 {
+"facette": "INFRA",
+"charakteristikum": "Umspannwerk mit Leitung nach Frankreich",
+"rang": 5,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Eichstetten",
+"steckbrief": "Eichstetten, knapp 3.800 Einwohner, liegt 14 km nordwestlich von Freiburg im Breisgau am Kaiserstuhl.",
+"frage": "Welches dieser vier Dinge steht in Eichstetten?",
+"optionen": [
+"ein Umspannwerk",
+"ein Krankenhaus",
+"ein Hallenbad",
+"eine Rehaklinik"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Klinik liegt nahe, denn rund um Freiburg gibt es viele. Eichstetten aber hat ein Umspannwerk des Übertragungsnetzbetreibers TransnetBW, von dem eine Höchstspannungsleitung bis zur französischen Grenze führt. Für ein Winzerdorf mit knapp 3.800 Einwohnern ist das ein ungewöhnlicher Nachbar: Hier steht ein Stück Stromnetz, das über die Grenze hinweg reicht. Richtig war 1.",
+"quelle": "Regierungspräsidium Freiburg, Planfeststellung Umspannwerk Eichstetten; Netzentwicklungsplan Strom, Projekt TNG-P176; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "68-eichstetten/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "einst bedeutende jüdische Gemeinde",
+"rang": 4,
 "familie": "B",
 "sorte": "Geschichte",
 "ort": "Eichstetten",
-"steckbrief": "Eichstetten hat rund 3.800 Einwohner und liegt 14 km nordwestlich von Freiburg im Breisgau.",
+"steckbrief": "Eichstetten, knapp 3.800 Einwohner, liegt 14 km nordwestlich von Freiburg im Breisgau.",
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Das Eichstetter Wappen zeigt einen Rebzweig mit Traube.",
-"Unter dem Speicherboden des Dorfmuseums lagen Revolutionsakten.",
-"Bei der Sanierung des Dorfmuseums fand man einen Schlussstein mit Jakobsmuschel."
+"Die Synagoge des Dorfs steht bis heute.",
+"Stolpersteine erinnern an Holocaust-Opfer aus dem Dorf.",
+"Die jüdische Gemeinde entstand durch Zuwanderung."
 ],
 "art": "luege",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein Rebzweig läge im Winzerdorf nahe. Das Wappen zeigt aber einen grünen Eichenzweig mit Eichel, daneben einen roten Schrägbalken. Die Revolutionsakten lagen wirklich unter dem Speicherboden, der Schlussstein mit Jakobsmuschel deutet auf den Jakobspilgerweg. Die Lüge war 1.",
-"quelle": "Gemeinde-Webseite, www.eichstetten.de/unsere-gemeinde/wissenswertes/wappen-logo; www.eichstetten.de/freizeit-kultur-tourismus/dorfmuseum",
+"rueckseite": "Du hattest [Option] getippt. Manche Dorfsynagogen in Baden blieben erhalten, das macht die erste Aussage glaubhaft. Die Eichstetter Synagoge aber steckten in der Reichspogromnacht auswärtige SA- und SS-Männer in Brand; danach wurde sie abgerissen. Eichstetten hatte eine bedeutende jüdische Gemeinde; die Deportation führte ins Lager Gurs. Im Ortsbild erinnern heute die Stolpersteine an diesen Teil der Dorfgeschichte. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.eichstetten.de/freizeit-kultur-tourismus/dorfmuseum",
 "faktencheck": "korrigiert",
-"id": "68-eichstetten/v0.8/3",
+"id": "68-eichstetten/v0.9/6",
 "tisch": false
 },
 {
-"familie": "A",
+"facette": "INFRA",
+"charakteristikum": "Winzerdorf mit fast 4.000 Einwohnern",
+"rang": 10,
+"familie": "C",
 "sorte": "Klassiker",
 "ort": "Eichstetten",
-"steckbrief": "Eichstetten hat rund 3.800 Einwohner und liegt 14 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Eichstetten bei den Zweitstimmen zweitstärkste Kraft?",
+"steckbrief": "Eichstetten ist ein Winzerdorf am Ostrand des Kaiserstuhls, 14 km nordwestlich von Freiburg im Breisgau, mit gut 12 km² Fläche.",
+"frage": "Wie viele Einwohner hat Eichstetten?",
 "optionen": [
-"SPD",
-"AfD",
-"GRÜNE",
-"CDU"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Hinter der CDU erwartet man im Weinort am Kaiserstuhl leicht SPD oder Grüne. Zweite wurde aber die AfD, knapp vor der SPD; die Grünen landeten auf Platz vier. Die CDU lag klar vorn. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "68-eichstetten/v0.8/4",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Eichstetten",
-"steckbrief": "Eichstetten hat rund 3.800 Einwohner und liegt 14 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Eichstettens Weinfest heißt Schwiboge-Wifescht. Wonach ist es benannt?",
-"optionen": [
-"Es ist nach einem alten Winzertanz benannt.",
-"Es ist nach einer alten Bachbrücke benannt.",
-"Es ist nach den Bögen der Hoftore benannt.",
-"Es ist nach einem geschwungenen Rebweg benannt."
+"unter 1.500",
+"1.500 bis unter 3.000",
+"3.000 bis unter 5.000",
+"5.000 und mehr"
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Wer bei Schwiboge an Schwung denkt, landet beim Tanz oder beim geschwungenen Weg durch die Reben. Gemeint sind aber die Schwibögen: Rundbögen aus Sandstein an den Hofeinfahrten der Winzerhöfe. Durch sie fällt der Blick in die Innenhöfe. Ein Schwibogen steht auch im Gemeinde-Logo. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.eichstetten.de/unsere-gemeinde/wissenswertes/daten-fakten",
-"faktencheck": "bestätigt",
-"id": "68-eichstetten/v0.8/5",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Eichstetten",
-"steckbrief": "Eichstetten hat rund 3.800 Einwohner und liegt 14 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Wie weit ist es von Eichstetten in der Luftlinie bis zur Landeshauptstadt Stuttgart?",
-"optionen": [
-"unter 60 km",
-"60 bis unter 90 km",
-"90 bis unter 120 km",
-"120 km und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Baden-Württemberg wirkt kompakt, und vom Kaiserstuhl aus schätzt man Stuttgart leicht näher. Dazwischen liegt aber der ganze Schwarzwald: Bis zur Landeshauptstadt sind es 130 Kilometer Luftlinie. Richtig war 4.",
-"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
-"faktencheck": "bestätigt",
-"id": "68-eichstetten/v0.8/6",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Geschichte",
-"ort": "Eichstetten",
-"steckbrief": "Eichstetten hat rund 3.800 Einwohner und liegt 14 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Der Dreißigjährige Krieg traf Eichstetten schwer. Wie viele Einwohner zählte der Ort im Jahr 1659?",
-"optionen": [
-"unter 200 Einwohner",
-"200 bis unter 500 Einwohner",
-"500 bis unter 1.000 Einwohner",
-"1.000 Einwohner und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Wer die heutige Größe kennt, rechnet mit einigen hundert Überlebenden. 1659 lebten aber nur noch 110 Menschen im Ort. Viele Häuser waren verloren, und von den Alteingesessenen fehlten die meisten. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.eichstetten.de/freizeit-kultur-tourismus/dorfmuseum",
+"rueckseite": "Du hattest [Option] getippt. Beim Wort Winzerdorf denkt man schnell an weniger als 3.000 Menschen. Eichstetten zählte aber 3.757 Einwohner, Stand 31.12.2025. Auf gut 12 Quadratkilometern sind das rund 305 je Quadratkilometer. Mit eigenem Bahnhof der Breisgau-S-Bahn ist das Winzerdorf per S-Bahn an Freiburg angebunden. Richtig war 3.",
+"quelle": "Wikidata P1082, Stand 2025-12-31; Fläche Wikidata P2046; Bahnhof: Gemeinde-Webseite, www.eichstetten.de/freizeit-kultur-tourismus/bewegung-erholung/eichelspitzturm",
 "faktencheck": "korrigiert",
-"id": "68-eichstetten/v0.8/7",
+"id": "68-eichstetten/v0.9/7",
 "tisch": false
 },
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Schwibögen und Weinfest",
+"rang": 1,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Eichstetten",
-"steckbrief": "Eichstetten hat rund 3.800 Einwohner und liegt 14 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Auf der Eichelspitze, Eichstettens Hausberg, fand man mittelalterliche Ofenkacheln, Pilgermünzen und eine Maultrommel. Wer lebte dort oben?",
+"steckbrief": "Eichstetten, knapp 3.800 Einwohner, liegt 14 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Das Weinfest von Eichstetten heißt Schwiboge-Wifescht. Wonach ist es benannt?",
 "optionen": [
-"Dort oben stand die Burg eines Ritters.",
-"Dort oben hatten Eremiten ihre Bleibe.",
-"Dort oben wohnte der Wärter des Aussichtsturms.",
-"Dort oben hüteten Hirten ihr Vieh."
+"Nach einer alten Rebsorte der Gegend.",
+"Nach den Torbögen der Winzerhöfe.",
+"Nach den Bögen einer Brücke im Ort.",
+"Nach einem alten Tanz der Winzer."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Verzierte Ofenkacheln klingen nach Burg, und heute steht oben ein Aussichtsturm. Die Funde sind aber mittelalterlich und erzählen vom Alltag von Eremiten, also Einsiedlern, die auf dem Hausberg lebten. Unter den Funden waren auch Werkzeuge. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.eichstetten.de/freizeit-kultur-tourismus/dorfmuseum",
-"faktencheck": "korrigiert",
-"id": "68-eichstetten/v0.8/8",
+"rueckseite": "Du hattest [Option] getippt. Die Fünf-Bogen-Brücke liegt nahe, Bögen hat sie ja genug. Gemeint sind aber die Schwibögen: Rundbögen aus Sandstein über den Einfahrten der Winzerhöfe. Ein solcher Bogen steckt auch im Gemeindelogo. Wer durch Eichstetten fährt, sieht die Bögen an vielen Höfen; für ein Dorf mit knapp 3.800 Einwohnern ist das Fest laut Gemeinde weit über Südbaden hinaus bekannt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.eichstetten.de/freizeit-kultur-tourismus/maerkte-feste/weinfest",
+"faktencheck": "bestätigt",
+"id": "68-eichstetten/v0.9/8",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Einsiedler auf dem Hausberg",
+"rang": 2,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Eichstetten",
-"steckbrief": "Eichstetten hat rund 3.800 Einwohner und liegt 14 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Im Jahr 1052 wurde in Eichstetten eine Kirche zu Ehren Marias, des Petrus und aller Heiligen geweiht. Welcher Bischof weihte sie?",
+"steckbrief": "Eichstetten, knapp 3.800 Einwohner, liegt 14 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Auf der Eichelspitze, Eichstettens Hausberg, fand man mittelalterliche Ofenkacheln, Pilgermünzen und eine Maultrommel. Wer lebte dort oben?",
 "optionen": [
-"Es war der Bischof von Straßburg.",
-"Es war der Bischof von Basel.",
-"Es war der Bischof von Speyer.",
-"Es war der Bischof von Konstanz."
+"Hirten verbrachten dort den Sommer.",
+"Förster wohnten dort in einem Forsthaus.",
+"Bergleute suchten dort nach Mineralien.",
+"Einsiedler lebten dort in einer Klause."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Basel und Straßburg liegen viel näher, darum tippt man gern auf sie. Geweiht hat aber der Bischof von Konstanz, auf Veranlassung des Edelfreien Hesso, eines freien Adligen. Die Kirche stand im Bereich der heutigen evangelischen Kirche. Richtig war 4.",
+"rueckseite": "Du hattest [Option] getippt. Hirten liegen nahe, eine Maultrommel klingt nach Musik auf der Weide. Die Funde erzählen aber vom Alltag von Eremiten, also Einsiedlern; die Pilgermünzen passen zu Menschen, die fromm und abgeschieden lebten. Heute heißt eine Station des Geopfads dort oben Bruderhäusle. Über den Reben des Winzerdorfs trägt der Hausberg so eine stille Geschichte, die man vom Tal aus nicht ahnt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.eichstetten.de/freizeit-kultur-tourismus/dorfmuseum; www.eichstetten.de/freizeit-kultur-tourismus/bewegung-erholung/geopfad",
+"faktencheck": "korrigiert",
+"id": "68-eichstetten/v0.9/9",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Dorfmuseum in alter Kapelle",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eichstetten",
+"steckbrief": "Eichstetten, knapp 3.800 Einwohner, liegt 14 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Eichstettens Dorfmuseum steht an der Stelle einer alten Kapelle und war lange Schulhaus. Was lag unter dem Fußboden seines Speichers verborgen?",
+"optionen": [
+"Dort lagen Akten badisch-rheinpfälzischer Revolutionstruppen.",
+"Dort lag ein Beutel mit Silbermünzen.",
+"Dort lagen Schmuggelwaren aus dem Elsass.",
+"Dort lag ein Fass mit altem Wein."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Münzschatz liegt nahe, in alten Häusern wurde oft Geld versteckt. Gefunden wurden aber Akten badisch-rheinpfälzischer Revolutionstruppen; sie kamen ans Generallandesarchiv Karlsruhe. An dieser Stelle stand einst die St.-Jakobs-Kapelle; das heutige Gebäude wurde als Schulhaus gebaut und ist heute Museum. Ein Schlussstein mit Jakobsmuschel deutet auf einen Bezug zum Jakobspilgerweg. Für ein Dorf mit knapp 3.800 Einwohnern bündelt dieser Ort Glaube, Schule und Revolution. Richtig war 1.",
 "quelle": "Gemeinde-Webseite, www.eichstetten.de/freizeit-kultur-tourismus/dorfmuseum",
 "faktencheck": "korrigiert",
-"id": "68-eichstetten/v0.8/9",
+"id": "68-eichstetten/v0.9/10",
 "tisch": false
 }
 ],
@@ -15883,6 +16643,32 @@ window.QA_DATEN = {
 },
 "ags": "08315030",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Winzerdorf am Ostrand des Kaiserstuhls, 14 km nordwestlich von Freiburg; Hausberg Eichelspitze, 521 m, unten fließt die Alte Dreisam."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 737 in einer Urkunde des Klosters Murbach belegt, seit 1416 badisch, Marktrecht seit 1418."
+},
+{
+"facette": "ALLTAG",
+"text": "Knapp 3.800 Einwohner auf gut 12 km²; Reben, Gemüsefelder und Weingüter wie Köbelin, Bürk und Weishaar."
+},
+{
+"facette": "FREIZEIT",
+"text": "Dorfmuseum, Eichelspitzturm, Geopfad, Kaiserstuhl-Radwanderweg, MTB-Parcours, Reithalle und die „Scheune in Bewegung“."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof an der Kaiserstuhlbahn mit S-Bahn nach Freiburg, Umspannwerk am Ortsrand, Partnergemeinde Saint-André in Frankreich."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag die Wahlbeteiligung bei 87,5 Prozent, gut vier Punkte über dem Landesschnitt."
+}
+],
 "km_vom_vorigen": 2.4
 },
 {
@@ -15892,189 +16678,124 @@ window.QA_DATEN = {
 "lon": 7.84917,
 "karten": [
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Name aus der weiten Niederung",
+"rang": 5,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Vörstetten",
 "steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 8 km nördlich von Freiburg im Breisgau.",
-"frage": "Woher kommt der Ortsname Vörstetten nach der Ortsgeschichte der Gemeinde?",
+"frage": "Woher hat Vörstetten nach der Ortsgeschichte der Gemeinde seinen Namen?",
 "optionen": [
-"Der Name meint ein Dorf vor der Stadt.",
-"Der Name meint einen Ort bei Föhren.",
-"Der Name meint eine Stätte in weiter Niederung.",
-"Der Name meint eine Siedlung an einer Furt."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Vor der Stadt liegt nahe, denn Freiburg ist nur wenige Kilometer entfernt und der heutige Name klingt danach. Nach Auffassung der Historiker, die die Ortsgeschichte der Gemeinde wiedergibt, deutet der Name aber auf eine Stätte oder einen Platz in der sich weithin ausdehnenden Niederung. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, voerstetten.de/p/geschichte",
-"faktencheck": "korrigiert",
-"id": "398-voerstetten/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Vörstetten",
-"steckbrief": "Gemeinde im Landkreis Emmendingen, 8 km nördlich von Freiburg im Breisgau, mit 7,88 km² Gemarkung.",
-"frage": "Wie viele Menschen wohnen in Vörstetten?",
-"optionen": [
-"unter 1.000",
-"1.000 bis unter 2.000",
-"2.000 bis unter 3.000",
-"3.000 bis unter 4.000"
+"Er meint die Siedlung vor Freiburgs Toren.",
+"Er geht auf einen alten Forst zurück.",
+"Er erinnert an Höfe eines Klosters.",
+"Er meint eine Stätte in weiter Niederung."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Zwischen 2.000 und 3.000 liegt nahe, denn Vörstetten wirkt mit seiner kleinen Gemarkung wie ein Dorf. Doch Ende 2025 zählte die Gemeinde 3.180 Einwohner. Richtig war 4.",
-"quelle": "Wikidata P1082, Stand 2025-12-31",
-"faktencheck": "bestätigt",
-"id": "398-voerstetten/v0.8/2",
+"rueckseite": "Du hattest [Option] getippt. „Vör“ klingt nach „vor“, und Freiburg liegt gleich im Süden – die Siedlung vor den Toren der Stadt liegt da nahe. Nach Auffassung der Historiker, so die Gemeinde, deutet der Name aber auf eine Stätte, die vom Altsiedelland aus gesehen in der Ferne lag: in der weithin ausgedehnten Niederung. So liegt Vörstetten bis heute da: ein Dorf in der Niederung, rund 8 Kilometer vor Freiburg. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, voerstetten.de/p/geschichte",
+"faktencheck": "korrigiert",
+"id": "398-voerstetten/v0.9/1",
 "tisch": false
 },
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Alamannen-Museum im Dorf",
+"rang": 1,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Vörstetten",
+"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 8 km nördlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge gibt es in Vörstetten?",
+"optionen": [
+"Ein Museum über Römer und Alamannen",
+"Ein Hallenbad mit Sprungturm",
+"Ein Gipfel mit Aussichtsturm",
+"Eine Brauerei mit Biergarten"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Hallenbad wäre für ein Dorf dieser Größe bei Freiburg nicht abwegig, doch Vörstetten hat das Alamannen-Museum. Es erzählt von Römern und Alamannen der Region Freiburg vor 1600 Jahren. Das passt zum Boden: Die Gemeinde nennt eine frühalamannische Siedlung auf dem heutigen Gemeindegebiet. Für rund 3.200 Einwohner ist ein solches Museum ein Aushängeschild. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, alamannen-museum.de/; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "398-voerstetten/v0.9/2",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Verwaltungsverband mit Denzlingen und Reute",
+"rang": 8,
 "familie": "B",
 "sorte": "Geschichte",
 "ort": "Vörstetten",
-"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 8 km nördlich von Freiburg im Breisgau.",
+"steckbrief": "Gemeinde im Landkreis Emmendingen mit rund 3.200 Einwohnern, 8 km nördlich von Freiburg im Breisgau.",
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Die mittelalterliche Burg stand auf einem Berg.",
-"Ein Mühlstein stammt aus einer ehemaligen Mühle.",
-"Ein hölzerner Schieber bewässerte früher die Wiesen."
+"Vörstetten pflegt Partnerschaften mit zwei französischen Gemeinden.",
+"Vörstetten bildet mit Freiburg einen Verwaltungsverband.",
+"Vörstetten hat eine eigene Grundschule und Gemeindebücherei."
 ],
 "art": "luege",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein Berg liegt nahe, denn Burgen denkt man sich meist auf Anhöhen. Die Burg in Vörstetten war aber eine Tiefburg, also eine Burg in der Ebene. Sie stand südlich des Mühlbachs auf Höhe der unteren Mühle; ein Luftbild mit konzentrischen Kreisen wies sie nach. Die Lüge war 1.",
-"quelle": "Gemeinde-Webseite, voerstetten.de/p/geschichte",
-"faktencheck": "korrigiert",
-"id": "398-voerstetten/v0.8/3",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Vörstetten",
-"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 8 km nördlich von Freiburg im Breisgau.",
-"frage": "Welche Partei holte bei der Bundestagswahl 2025 in Vörstetten die zweitmeisten Zweitstimmen?",
-"optionen": [
-"AfD",
-"Grüne",
-"SPD",
-"Die Linke"
-],
-"art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Die AfD liegt nahe, denn sie wurde 2025 vielerorts zweitstärkste Kraft. In Vörstetten kamen aber die Grünen mit 20,4 Prozent knapp vor der SPD mit 19 Prozent auf Platz zwei, hinter der CDU. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "398-voerstetten/v0.8/4",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Vörstetten",
-"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 8 km nördlich von Freiburg im Breisgau.",
-"frage": "Ausgrabungen in Vörstetten legten eine Siedlung aus dem 4. und 5. Jahrhundert n. Chr. frei. Wer lebte dort?",
-"optionen": [
-"Dort lebten Kelten.",
-"Dort lebten Franken.",
-"Dort lebten Alamannen.",
-"Dort lebten Burgunder."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Kelten liegen nahe, denn sie gelten als frühe Bewohner des Oberrheingebiets. Die Grabungen von 1998 bis 2000 zeigten aber eine frühalamannische Siedlung. Nach Angaben der Gemeinde ist sie bisher die einzige ihrer Art. Heute zeigt das Alamannen-Museum im Ort, wie man dort lebte. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, voerstetten.de/p/geschichte",
-"faktencheck": "korrigiert",
-"id": "398-voerstetten/v0.8/5",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Vörstetten",
-"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 8 km nördlich von Freiburg im Breisgau.",
-"frage": "Welches Kennzeichen tragen die meisten Autos in Vörstetten?",
-"optionen": [
-"FR",
-"OG",
-"LÖ",
-"EM"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. FR liegt nahe, denn Freiburg ist nur wenige Kilometer entfernt. Vörstetten gehört aber zum Landkreis Emmendingen, und dessen Hauptkennzeichen ist EM. Richtig war 4.",
-"quelle": "Wikidata P395; Landkreis: dewiki Infobox",
-"faktencheck": "bestätigt",
-"id": "398-voerstetten/v0.8/6",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Vörstetten",
-"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 8 km nördlich von Freiburg im Breisgau.",
-"frage": "Im Jahr 993 verschenkte Graf Birchtilo Vörstetten samt anderen Gütern. Wer bekam die Schenkung?",
-"optionen": [
-"Sie ging an eine Kirche in Sulzburg.",
-"Sie ging an das Kloster Reichenau.",
-"Sie ging an den Dom zu Konstanz.",
-"Sie ging an das Kloster St. Gallen."
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Das Kloster Reichenau liegt nahe, denn große Klöster erhielten damals viele solche Schenkungen. Graf Birchtilo gab Vörstetten mit anderen Gütern aber der Kirche des Heiligen Cyriak in Sulzburg. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, voerstetten.de/p/geschichte",
-"faktencheck": "bestätigt",
-"id": "398-voerstetten/v0.8/7",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Vörstetten",
-"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 8 km nördlich von Freiburg im Breisgau.",
-"frage": "Wie entstand der Vörstetter Baggersee?",
-"optionen": [
-"Er war früher ein Seitenarm des Rheins.",
-"Er entstand mit dem Bau der Autobahn.",
-"Er wurde als Hochwasserbecken angelegt.",
-"Er entstand in einer alten Ziegelei-Lehmgrube."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ein alter Rheinarm liegt nahe, denn in der Oberrheinebene gibt es viele solche Altwasser. Der Vörstetter Baggersee entstand aber mit dem Bau der Autobahn; das Wort Baggersee verrät die Baggerarbeit. Heute ist er Fischgewässer des Angelsportclubs Vörstetten. Richtig war 2.",
+"rueckseite": "Du hattest [Option] getippt. Freiburg liegt gleich südlich, da klingt eine gemeinsame Verwaltung plausibel. Vörstetten bildet seinen Verwaltungsverband aber mit den Nachbarn Denzlingen und Reute; der Verband übernimmt Verwaltung, Schulträgerschaft und Bauhof. Für eine Gemeinde mit rund 3.200 Einwohnern ist das typisch: Vieles erledigt man gemeinsam, Schule und Bücherei bleiben im Dorf. Die Lüge war 2.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Vörstetten",
 "faktencheck": "unsicher",
-"id": "398-voerstetten/v0.8/8",
+"id": "398-voerstetten/v0.9/6",
 "tisch": false
 },
 {
+"facette": "POLITIK",
+"charakteristikum": "Wahlbeteiligung weit über Landesschnitt",
+"rang": 6,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Vörstetten",
+"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 8 km nördlich von Freiburg im Breisgau.",
+"frage": "Bundestagswahl 2025: Im Land Baden-Württemberg gingen 83,4 Prozent wählen. Wie weit lag die Wahlbeteiligung in Vörstetten darüber oder darunter?",
+"optionen": [
+"mindestens 8 Punkte darüber",
+"4 bis unter 8 Punkte darüber",
+"0 bis unter 4 Punkte darüber",
+"unter dem Landeswert"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Wert knapp über dem Land liegt nahe, denn auch im Land war die Beteiligung schon hoch. Vörstetten kam aber auf 89,1 Prozent, also 5,7 Prozentpunkte mehr. Fast neun von zehn Wahlberechtigten gaben in der Gemeinde mit rund 3.200 Einwohnern vor Freiburg ihre Stimme ab. Stand: Bundestagswahl vom 23. Februar 2025. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23; Landeswert: Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes",
+"faktencheck": "bestätigt",
+"id": "398-voerstetten/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "preisgekröntes Dorfbild mit Fachwerk",
+"rang": 7,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Vörstetten",
 "steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 8 km nördlich von Freiburg im Breisgau.",
-"frage": "1803 wurde die evangelische Kirche in Vörstetten erweitert. Nach welchem Baumeister ist ihr Baustil benannt? 1. Nach Karl Friedrich Schinkel. 2. Nach Leo von Klenze. 3. Nach Nikolaus von Thouret. 4. Nach Friedrich Weinbrenner.",
+"frage": "1992 holte Vörstetten in einem Wettbewerb den Sieg im Landkreis Emmendingen, 1993 Silber im Land. Worum ging es?",
 "optionen": [
-"Sie stammte von Karl Friedrich Schinkel.",
-"Sie stammte von Leo von Klenze.",
-"Sie stammte von Nikolaus von Thouret.",
-"Sie stammte von Friedrich Weinbrenner."
+"Es ging darum, das Dorf schöner zu machen.",
+"Es ging um vorbildliche Radwege im Ort.",
+"Es ging um sparsame Energie im Rathaus.",
+"Es ging um die beste Kinderbetreuung."
 ],
 "art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Schinkel liegt nahe, denn sein Name steht für den deutschen Klassizismus. Die Kirche von 1803 ist aber im Weinbrennerstil gebaut, benannt nach dem badischen Baumeister Friedrich Weinbrenner. Die Orgel baute Mathias Martin 1803/04. Richtig war 4.",
-"quelle": "LEO-BW, Denkmalliste Evangelische Kirche Vörstetten",
-"faktencheck": "korrigiert",
-"id": "398-voerstetten/v0.8/9",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei Preisen für Gemeinden denkt man heute oft an Klima oder Radverkehr. Vörstetten gewann aber 1992 als schönste Gemeinde im Landkreis Emmendingen den Wettbewerb „Unser Dorf soll schöner werden“ und holte 1993 Silber im Land. Beim Durchfahren fällt das Ortsbild auf: Ein schlanker Kirchturm und Fachwerkhäuser prägen es. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, voerstetten.de/p/geschichte",
+"faktencheck": "unsicher",
+"id": "398-voerstetten/v0.9/9",
 "tisch": false
 }
 ],
 "anschluss_von": "68-eichstetten",
 "anschluss": [
-"Kreisgrenze: In Eichstetten steht FR am Auto, in Vörstetten EM.",
-"Bundestagswahl 2025: Grüne in Vörstetten 20,4, in Eichstetten 13,3 Prozent."
+"Das Hauptkennzeichen wechselt: Eichstetten hat FR, Vörstetten EM.",
+"In Vörstetten holten die Grünen deutlich mehr als in Eichstetten."
 ],
 "anschluesse": {
 "387-ebnet": [
@@ -16125,8 +16846,8 @@ window.QA_DATEN = {
 "Bötzingen hat gut anderthalbmal so viele Einwohner wie Vörstetten."
 ],
 "68-eichstetten": [
-"Kreisgrenze: In Eichstetten steht FR am Auto, in Vörstetten EM.",
-"Bundestagswahl 2025: Grüne in Vörstetten 20,4, in Eichstetten 13,3 Prozent."
+"Das Hauptkennzeichen wechselt: Eichstetten hat FR, Vörstetten EM.",
+"In Vörstetten holten die Grünen deutlich mehr als in Eichstetten."
 ],
 "399-reute": [
 "Reute und Vörstetten sind fast gleich groß: rund 3.000 und 3.200 Einwohner.",
@@ -16178,6 +16899,32 @@ window.QA_DATEN = {
 },
 "ags": "08316045",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 3.200 Einwohner auf knapp 8 Quadratkilometern, 8 km nördlich von Freiburg; Schobbach und Grittbach fließen durchs Gemeindegebiet."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Besiedelt seit 5000 vor Christus, erstmals 993 erwähnt; im Wappen ein Krebs neben dem badischen Schrägbalken."
+},
+{
+"facette": "ALLTAG",
+"text": "350 Arbeitsplätze im Ort, Gewerbegebiet Langacker, dazu Betriebe für Holzverarbeitung und Industrieelektronik."
+},
+{
+"facette": "FREIZEIT",
+"text": "Alamannen-Museum, Heinz-Ritter-Halle, Baggersee der Angler, Breisgau-Radweg; Gumbiswinkelfest und Rettichfest wechseln sich ab."
+},
+{
+"facette": "INFRA",
+"text": "Grundschule, vier gemeindeeigene Kindergärten, Gemeindebücherei; Partnergemeinden L'Étrat und La Tour-en-Jarez in Frankreich."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU vorn mit 29,1 Prozent, dann Grüne und SPD; Wahlbeteiligung 89,1 Prozent."
+}
+],
 "km_vom_vorigen": 8.5
 },
 {
@@ -16187,189 +16934,216 @@ window.QA_DATEN = {
 "lon": 7.82556,
 "karten": [
 {
+"facette": "ALLTAG",
+"charakteristikum": "Sensorenhersteller mit etwa 700 Beschäftigten",
+"rang": 1,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Reute",
 "steckbrief": "Rund 3.000 Einwohner, 10 km nördlich von Freiburg im Breisgau.",
-"frage": "1757 brannte das Schloss der Familie Harsch in Reute. Welche Ursache nennt die Ortsgeschichte?",
+"frage": "Im Gewerbegebiet von Reute betreibt ein Unternehmen ein Werk mit Hunderten von Beschäftigten. Was stellt das Unternehmen her?",
 "optionen": [
-"Ein Blitz schlug in den Dachstuhl ein.",
-"Herdfeuer sprang beim Kochen ins Pfannenfett.",
-"Ein Knecht schlief mit brennender Pfeife ein.",
-"Funken aus der Dorfschmiede flogen aufs Dach."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ein Blitz liegt nahe, denn er traf früher oft große Dächer. Laut Ortsgeschichte bereitete man aber ein Gastmahl vor, und das Herdfeuer sprang ins Pfannenfett. Dabei wurden Lagebücher und Steuerregister vernichtet; die Herrschaft zog nach Holzhausen. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.reute.de/unsere-gemeinde/geschichte/die-familie-harsch",
-"faktencheck": "bestätigt",
-"id": "399-reute/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Reute",
-"steckbrief": "Gemeinde mit rund 3.000 Einwohnern, 10 km nördlich von Freiburg im Breisgau.",
-"frage": "Wie groß ist die Fläche der Gemeinde Reute?",
-"optionen": [
-"unter 2 km²",
-"2 bis unter 4 km²",
-"4 bis unter 7 km²",
-"7 km² und mehr"
+"Es baut Kuckucksuhren.",
+"Es fertigt Solarmodule.",
+"Es stellt Sensoren her.",
+"Es baut Fahrräder."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Bei einem Dorf in der Rheinebene erwartet man viel Feld drumherum, also eine größere Gemarkung. Reute ist aber eng bemessen: Die Gemeinde umfasst 4,79 Quadratkilometer. Richtig war 3.",
-"quelle": "Wikidata P2046",
-"faktencheck": "bestätigt",
-"id": "399-reute/v0.8/2",
+"rueckseite": "Du hattest [Option] getippt. Bei Freiburg denkt man schnell an Solartechnik, im Schwarzwald an Uhren. Doch in Reute steht ein Werk der Sick AG aus Waldkirch, die Sensoren herstellt. Schon 2017 arbeiteten hier rund 800 Menschen. Damals war Reute nach Waldkirch der zweitgrößte Standort der Firma. Richtig war 3.",
+"quelle": "SICK AG, Pressemitteilung vom 01.03.2017, sick.com",
+"faktencheck": "korrigiert",
+"id": "399-reute/v0.9/1",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Nachfahren der Ungarn-Auswanderer kehren 1945 zurück",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Reute",
+"steckbrief": "Rund 3.000 Einwohner, 10 km nördlich von Freiburg im Breisgau.",
+"frage": "Im Frühjahr 1945 kamen Volksdeutsche aus Ungarn nach Reute. Was sagt die Ortsgeschichte über sie?",
+"optionen": [
+"Sie waren als Landarbeiter zwangsverpflichtet worden.",
+"Sie kamen verwundet mit einem Lazarettzug.",
+"Sie gehörten zu einer ungarischen Armeeeinheit.",
+"Ihre Vorfahren waren einst aus dem Breisgau ausgewandert."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei Kriegsende denkt man zuerst an Zwangsarbeit oder Soldaten. Die Ortsgeschichte erzählt aber von einem Kreis: Generationen zuvor waren die Vorfahren dieser Menschen aus dem Breisgau nach Ungarn ausgewandert. Unter Maria Theresia wurde die Auswanderung nach Ungarn stark gefördert; wer ging, zahlte Abzugsgeld, auch an die Herrschaft. So führt ein Faden aus dem Breisgau nach Ungarn und wieder zurück. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.reute.de/unsere-gemeinde/geschichte/das-20-jh-die-zwei-weltkriege",
+"faktencheck": "korrigiert",
+"id": "399-reute/v0.9/2",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Pflegestation für Weißstörche",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Reute",
+"steckbrief": "Rund 3.000 Einwohner, 10 km nördlich von Freiburg im Breisgau.",
+"frage": "In einem Garten in Reute steht eine Voliere, betreut von einem Verein. Wozu dient sie?",
+"optionen": [
+"Dort werden Weißstörche gepflegt und aufgezogen.",
+"Dort züchtet der Verein Brieftauben.",
+"Dort brütet der Verein Fasane für Jäger aus.",
+"Dort hält der Verein exotische Papageien."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Voliere, also ein großer Vogelkäfig, im Garten lässt an Taubenzüchter denken. Doch hier pflegen die Storchenfreunde Reute (S.O.S. Weißstorch Breisgau) Weißstörche und ziehen sie auf. Den Storch in Reute wieder heimisch zu machen, ist ihnen gelungen. Nun geht es um den ganzen Breisgau. In mehrere Storchennester kann man über Kameras direkt hineinsehen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.reute.de/leben-freizeit/sehenswertes",
+"faktencheck": "korrigiert",
+"id": "399-reute/v0.9/3",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "altes Rathaus, vermutlich von einer Frau gestiftet",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Reute",
+"steckbrief": "Rund 3.000 Einwohner, 10 km nördlich von Freiburg im Breisgau.",
+"frage": "An der Hauptstraße steht Reutes erstes Rathaus, über der Eingangstür die Jahreszahl 1602. Wer stiftete es vermutlich?",
+"optionen": [
+"Die Familie Harsch, die neuen Ortsherren, stiftete es.",
+"Margarethe Held aus der Ortsherrenfamilie stiftete es.",
+"Pfarrvikar Martin Demler stiftete es.",
+"Der frühere Ortsherr Albrecht von Anweil stiftete es."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Harsch liegen nahe, sie prägten das Dorf lange. Die Ortsgeschichte nennt als vermutliche Stifterin aber Margarethe Held. Sie verwaltete als Letzte der Familie Held den Ort. Das Haus ist noch heute an der Hauptstraße zu sehen, gegenüber dem einstigen Weiher. Die Verwaltung sitzt heute im Rathaus in Oberreute. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.reute.de/unsere-gemeinde/geschichte/die-adelsfamilie-held-von-arl",
+"faktencheck": "korrigiert",
+"id": "399-reute/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "einst wasserreichster Ort des Breisgaus",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Reute",
+"steckbrief": "Rund 3.000 Einwohner, 10 km nördlich von Freiburg im Breisgau.",
+"frage": "Reute hatte einst viel mit Wasser zu kämpfen: Das Grundwasser stand knapp unter der Oberfläche. Was ließ es laut Ortsgeschichte sinken?",
+"optionen": [
+"Ein Pumpwerk förderte Grundwasser nach Freiburg.",
+"Ein Rückhaltebecken fing das Glotter-Hochwasser auf.",
+"Die Elz wurde reguliert.",
+"Eine Dürreperiode ließ die Bäche austrocknen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei Wasserproblemen denkt man an Dämme und Becken. Doch die Ortsgeschichte nennt die Regulierung der Elz: Durch sie sank das Grundwasser, und das Faulfieber klang ab. Außerdem sorgten Glotter, Elz und Waldbächlein im Frühjahr und Herbst oft für Überschwemmungen. Die Glotter fließt bis heute am südlichen Dorfrand vorbei. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.reute.de/unsere-gemeinde/geschichte/reute-im-19-jh",
+"faktencheck": "korrigiert",
+"id": "399-reute/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Dorf im Dreißigjährigen Krieg fast ausgelöscht",
+"rang": 2,
 "familie": "B",
 "sorte": "Geschichte",
 "ort": "Reute",
 "steckbrief": "Rund 3.000 Einwohner, 10 km nördlich von Freiburg im Breisgau.",
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Früher wurde in Reute Hanf angebaut.",
-"Im Ersten Weltkrieg wurde in Reute selbst gekämpft.",
-"Früher lief das Abwasser durch den Dorfbach."
+"Ein Ortsherr verfügte das Ende der Leibeigenschaft.",
+"Nach einem Schlossbrand zogen die Ortsherren nach Holzhausen.",
+"Den Dreißigjährigen Krieg überstand das Dorf fast unversehrt."
 ],
 "art": "luege",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Hanf klingt heute nach Rauschmittel, ist aber belegt; später ersetzte ihn der Tabak. Auch das Abwasser lief durch den Dorfbach, bis man ihn zuschüttete. Gelogen ist der Kampf: Laut Ortsgeschichte hat der Erste Weltkrieg Reute nicht erreicht. Männer aus dem Dorf fielen trotzdem. Die Lüge war 2.",
-"quelle": "Gemeinde-Webseite, www.reute.de/unsere-gemeinde/geschichte/das-20-jh-die-zwei-weltkriege",
-"faktencheck": "bestätigt",
-"id": "399-reute/v0.8/3",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Reute",
-"steckbrief": "Rund 3.000 Einwohner, 10 km nördlich von Freiburg im Breisgau.",
-"frage": "Die Kirche in Oberreute ist St. Felix und Regula geweiht. Wie kam laut Ortsgeschichte die Verehrung dieser Heiligen wahrscheinlich nach Reute?",
-"optionen": [
-"Pilger brachten Reliquien aus Rom mit.",
-"Ein Pfarrer des Dorfes war zugleich Chorherr in Zürich.",
-"Ein Kreuzritter brachte sie aus dem Heiligen Land.",
-"Ein Kaufmann aus Venedig brachte ihren Kult mit."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Reliquien aus Rom liegen nahe, denn so kamen viele Heiligenkulte über die Alpen. In Reute war es wahrscheinlich ein Pfarrer namens Hugo: Er ist als Pfarrer des Dorfes belegt und zugleich als Chorherr, also Stiftsgeistlicher, an St. Felix und Regula in Zürich, dem Großmünster. Laut Ortsgeschichte hat er ihre Verehrung wahrscheinlich in Reute eingeführt. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.reute.de/unsere-gemeinde/geschichte/das-mittelalter-und-bis-zum-18jh",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wahr ist: Philipp Held verfügte, seine Untertanen aus der Leibeigenschaft zu entlassen. Ob das umgesetzt wurde, ist offen. Und nach einem Schlossbrand zog die Familie Harsch nach Holzhausen. Bei einem kleinen Dorf klingt Verschonung plausibel. Doch Reute lag isoliert zwischen protestantischen Nachbarn, und der Krieg hatte verheerende Folgen. Nach einer Überlieferung standen nur noch wenige Häuser, die Felder waren überwuchert. Hunger und Seuchen töteten mehr Menschen als die Kämpfe. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.reute.de/unsere-gemeinde/geschichte/die-familie-harsch",
 "faktencheck": "korrigiert",
-"id": "399-reute/v0.8/5",
+"id": "399-reute/v0.9/6",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "kleine, dicht besiedelte Gemarkung",
+"rang": 9,
 "familie": "C",
 "sorte": "Klassiker",
 "ort": "Reute",
 "steckbrief": "Rund 3.000 Einwohner, 10 km nördlich von Freiburg im Breisgau.",
-"frage": "Wie weit liegt Reute in Luftlinie von Stuttgart entfernt?",
+"frage": "Wie groß ist die Gemarkung von Reute?",
 "optionen": [
-"unter 60 km",
-"60 bis unter 100 km",
-"100 bis unter 150 km",
-"150 km und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Wer im Breisgau wohnt, empfindet Stuttgart oft als fern, über Autobahn und Schwarzwald ist der Weg lang. In Luftlinie liegen zwischen Reute und der Landeshauptstadt 126 Kilometer. Richtig war 3.",
-"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
-"faktencheck": "bestätigt",
-"id": "399-reute/v0.8/6",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Reute",
-"steckbrief": "Gemeinde mit rund 3.000 Einwohnern, 10 km nördlich von Freiburg im Breisgau.",
-"frage": "Ab 1880 war in Reute das Faulfieber abgeklungen. Womit bringt die Ortsgeschichte das in Verbindung?",
-"optionen": [
-"Ein Arzt ließ sich im Dorf nieder.",
-"Eine Wasserleitung brachte sauberes Trinkwasser.",
-"Man impfte die Dorfbewohner gegen das Fieber.",
-"Ein Fluss in der Nähe wurde reguliert."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Sauberes Leitungswasser liegt nahe, doch die moderne Wasserversorgung kam erst viel später. Die Ortsgeschichte nennt im selben Satz die Regulierung der Elz: Durch sie sank das Grundwasser, das der Kaiserstuhl aufstaute und das lange knapp unter der Oberfläche stand. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.reute.de/unsere-gemeinde/geschichte/reute-im-19-jh und www.reute.de/unsere-gemeinde/geschichte/die-steinzeit",
-"faktencheck": "korrigiert",
-"id": "399-reute/v0.8/7",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Reute",
-"steckbrief": "Rund 3.000 Einwohner, 10 km nördlich von Freiburg im Breisgau.",
-"frage": "Im Frühjahr 1945 kamen Volksdeutsche aus Ungarn nach Reute. Was erzählt die Ortsgeschichte über sie?",
-"optionen": [
-"Sie hatten zuvor als Erntehelfer in Reute gearbeitet.",
-"Reute hatte eine Patenschaft für ihr Dorf.",
-"Ihre Vorfahren waren einst aus dem Breisgau ausgewandert.",
-"Ein Soldat aus Reute hatte sie hergeholt."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Erntehelfer liegen nahe, denn Erntearbeit führt oft Fremde aufs Land. Die Ortsgeschichte erzählt es anders: Die Volksdeutschen, also deutschsprachige Menschen aus Ungarn, waren Nachfahren von Auswanderern, die einst aus dem Breisgau nach Ungarn gezogen waren. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.reute.de/unsere-gemeinde/geschichte/das-20-jh-die-zwei-weltkriege",
-"faktencheck": "korrigiert",
-"id": "399-reute/v0.8/8",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Reute",
-"steckbrief": "Gemeinde mit rund 3.000 Einwohnern, 10 km nördlich von Freiburg im Breisgau.",
-"frage": "Wer hat laut Ortsgeschichte vermutlich Reutes erstes Rathaus an der Hauptstraße gestiftet?",
-"optionen": [
-"Eine Adelige, die den Ort verwaltete, stiftete es.",
-"Die Bauern legten das Geld dafür zusammen.",
-"Der Dorfpfarrer stiftete es aus eigenem Vermögen.",
-"Ein reicher Kaufmann aus der Stadt stiftete es."
+"unter 6 km²",
+"6 bis unter 10 km²",
+"10 bis unter 20 km²",
+"20 km² und mehr"
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Gemeinsam bezahlte Rathäuser klingen nach Dorfgemeinschaft, deshalb liegen die Bauern nahe. Laut Ortsgeschichte dürfte es aber Margarethe Held gestiftet haben. Nach dieser Quelle war sie die Letzte der Adelsfamilie Held, die den Ort verwaltete. Das Rathaus steht an der Hauptstraße, gegenüber dem ehemaligen Weiher. Richtig war 1. /",
-"quelle": "Gemeinde-Webseite, www.reute.de/unsere-gemeinde/geschichte/die-adelsfamilie-held-von-arl",
-"faktencheck": "korrigiert",
-"id": "399-reute/v0.8/9",
+"rueckseite": "Du hattest [Option] getippt. Bei rund 3.000 Einwohnern im Umland einer Großstadt schätzt man leicht eine größere Fläche. Reute misst aber nur 4,79 Quadratkilometer. Auf jeden Quadratkilometer kommen damit gut 600 Menschen, für ein Dorf in der Freiburger Bucht dicht besiedelt. Richtig war 1.",
+"quelle": "Wikidata P2046; Dichte berechnet aus Wikidata P1082 (Stand 2025-12-31) und Fläche",
+"faktencheck": "bestätigt",
+"id": "399-reute/v0.9/7",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Rodungsname",
+"rang": 8,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Reute",
 "steckbrief": "Rund 3.000 Einwohner, 10 km nördlich von Freiburg im Breisgau.",
-"frage": "Reute ist 772/73 erstmals schriftlich belegt. In welcher Quelle?",
+"frage": "Wie erklärt die Ortsgeschichte den Namen Reute?",
 "optionen": [
-"Der Ort steht in einer St. Galler Urkunde.",
-"Der Ort steht im Lorscher Codex.",
-"Der Ort steht in einer Reichenauer Urkunde.",
-"Der Ort steht in einer Straßburger Bischofsurkunde."
+"Mit Reitern, die hier früher auf der Durchreise rasteten.",
+"Mit dem Roden, also dem Urbarmachen von Land.",
+"Mit einem adligen Gründer.",
+"Mit dem Ried, also sumpfigem Schilfland."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. St. Gallen oder Reichenau liegen nahe, denn sie besaßen viel im Südwesten. Belegt ist Reute, damals „Reuden“, aber im Lorscher Codex. Darin hat das Kloster Lorsch Abschriften seiner Urkunden gesammelt. Er verzeichnet eine Schenkung von Besitz im Ort an das Kloster. Der Name verweist auf Rodung. Richtig war 2. /",
-"quelle": "Gemeinde-Webseite, www.reute.de/unsere-gemeinde/geschichte/wappen; LEO-BW, Ortslexikon Oberreute",
+"rueckseite": "Du hattest [Option] getippt. Beim Klang denkt man schnell an Reiter oder an Ried. Die Ortsgeschichte erklärt den Namen aber mit der Urbarmachung. Er steckt auch im heute noch üblichen Wort „roden“. Eine nach Reute benannte Adelsfamilie ist dagegen nicht nachweisbar. Heute besteht das Dorf aus Oberreute und Unterreute. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.reute.de/unsere-gemeinde/geschichte/das-mittelalter-und-bis-zum-18jh",
 "faktencheck": "korrigiert",
-"id": "399-reute/v0.8/10",
+"id": "399-reute/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Römerweg im Allmendwald",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Reute",
+"steckbrief": "Rund 3.000 Einwohner, 10 km nördlich von Freiburg im Breisgau.",
+"frage": "Ein Fundbericht von 1980 meldet Reste eines römischen Wegs im Allmendwald. Wie kam man ihm auf die Spur?",
+"optionen": [
+"Holzfäller gaben den entscheidenden Hinweis.",
+"Ein Luftbild zeigte eine gerade Schneise im Wald.",
+"Beim Bau einer Wasserleitung stieß ein Bagger darauf.",
+"Schüler fanden römische Münzen am Waldrand."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Römerwege verraten sich oft aus der Luft, weil sie schnurgerade laufen. In Reute brachten Holzfäller L. Siegel auf die Spur. Im Allmendwald ist der Weg abschnittsweise erhalten: ein Wall mit seitlichen Gruben, aus denen das Material stammt, die Fahrbahn war gekiest. Er quert die Gemarkung von Nordnordwest nach Südsüdost. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.reute.de/unsere-gemeinde/geschichte/die-roemer",
+"faktencheck": "korrigiert",
+"id": "399-reute/v0.9/9",
 "tisch": false
 }
 ],
 "anschluss_von": "398-voerstetten",
 "anschluss": [
-"Bundestagswahl 2025: In Vörstetten wählten anteilig mehr als in Reute.",
-"Die Glotter bildet meist die Grenze zwischen Reute und Vörstetten."
+"Reute und Vörstetten bilden mit Denzlingen einen Verwaltungsverband.",
+"Vörstetten hat 7,88 km² Fläche, Reute nur 4,79 km²."
 ],
 "anschluesse": {
 "387-ebnet": [
@@ -16421,8 +17195,8 @@ window.QA_DATEN = {
 "Eichstetten hat rund 800 Einwohner mehr als Reute."
 ],
 "398-voerstetten": [
-"Bundestagswahl 2025: In Vörstetten wählten anteilig mehr als in Reute.",
-"Die Glotter bildet meist die Grenze zwischen Reute und Vörstetten."
+"Reute und Vörstetten bilden mit Denzlingen einen Verwaltungsverband.",
+"Vörstetten hat 7,88 km² Fläche, Reute nur 4,79 km²."
 ],
 "400-teningen": [
 "Teningen hat viermal so viele Einwohner wie Reute.",
@@ -16475,6 +17249,32 @@ window.QA_DATEN = {
 },
 "ags": "08316036",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 3.000 Einwohner auf 4,79 km² in der Freiburger Bucht, zwischen Kaiserstuhl und Schwarzwald; die Glotter fließt am Südrand."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Der Name kommt von Rodung, erstmals belegt im Lorscher Codex; Ortsherren waren die Held, dann die Harsch."
+},
+{
+"facette": "ALLTAG",
+"text": "Der Sensorenhersteller Sick hat etwa 700 Beschäftigte; das Heimatmuseum erzählt von Tabakanbau und Seegrasernte."
+},
+{
+"facette": "FREIZEIT",
+"text": "Storchenstation, Heimatmuseum im Försterhaus, Fasnet mit Rosenmontagsumzug und Narrenbrunnen."
+},
+{
+"facette": "INFRA",
+"text": "Eichmattenschule, zwei Kindergärten, Rathaus in Oberreute, Verwaltungsverband mit Denzlingen und Vörstetten."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag die CDU bei 38,1 %; die Wahlbeteiligung war mit 87,6 % höher als im Land."
+}
+],
 "km_vom_vorigen": 2.8
 },
 {
@@ -16484,209 +17284,193 @@ window.QA_DATEN = {
 "lon": 7.81028,
 "karten": [
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Doppelburg Landeck mit Graben",
+"rang": 4,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Teningen",
-"steckbrief": "Teningen hat rund 12.000 Einwohner und liegt 15 km nördlich von Freiburg im Breisgau.",
-"frage": "Die Malerin Hilla von Rebay brachte später den Bau des Guggenheim-Museums auf den Weg. Ihre Eltern ließen sich 1919 in Teningen nieder. Wer vermittelte ihnen dort den Kauf ihres Hauses?",
+"steckbrief": "Gemeinde im Landkreis Emmendingen mit rund 12.000 Einwohnern, 15 km nördlich von Freiburg im Breisgau.",
+"frage": "In Landeck, heute ein Teil von Teningen, steht die Burgruine Landeck. Wie ist die Anlage gegliedert?",
 "optionen": [
-"Ein Fabrikant vermittelte ihnen das Haus.",
-"Ein Kunsthändler vermittelte ihnen das Haus.",
-"Ein Pfarrer vermittelte ihnen das Haus.",
-"Ein Bürgermeister vermittelte ihnen das Haus."
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Bei einer Künstlerin liegt ein Kunsthändler als Vermittler nahe. Doch das Haus in Teningen vermittelte der Fabrikant Tscheulin. Hilla von Rebay lebte und arbeitete vor ihrer Übersiedlung in die USA immer wieder in Teningen und schenkte das Haus später der Gemeinde. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten",
-"faktencheck": "korrigiert",
-"id": "400-teningen/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Teningen",
-"steckbrief": "Teningen hat rund 12.000 Einwohner und liegt 15 km nördlich von Freiburg im Breisgau.",
-"frage": "Wie groß ist die Fläche der Gemeinde Teningen mit all ihren Ortsteilen?",
-"optionen": [
-"unter 25 km²",
-"25 bis unter 50 km²",
-"50 bis unter 100 km²",
-"100 km² und mehr"
+"Sie besteht nur aus einem einzelnen Wohnturm.",
+"Ein Graben trennt eine obere und untere Burg.",
+"Ein runder Mauerring umschließt einen einzigen Hof.",
+"Sie steht auf einer Insel im Fluss."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Wer nur an den Kernort denkt, schätzt leicht zu klein. Zur Gemeinde gehören aber auch Köndringen mit Landeck, Heimbach sowie Nimburg mit Bottingen, dazu viel Wald. Zusammen sind es 40,26 Quadratkilometer. Richtig war 2.",
-"quelle": "Wikidata P2046",
-"faktencheck": "bestätigt",
-"id": "400-teningen/v0.8/2",
+"rueckseite": "Du hattest [Option] getippt. Bei einer Burgruine denkt man oft an einen einzelnen Turm. Landeck ist aber doppelt: Eine obere und eine untere Burg trennt ein Graben. Den Bau begann Walter I. von Geroldseck, im Bauernkrieg wurde sie stark beschädigt. Erhalten sind spätromanische und frühgotische Bauteile, dazu eine Kapelle mit Maßwerkfenstern. Die Oberburg bezieht den Kalkfelsen ein, auf dem sie ruht. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten",
+"faktencheck": "korrigiert",
+"id": "400-teningen/v0.9/1",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Spur von Teningen zum Guggenheim",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Teningen",
+"steckbrief": "Gemeinde im Landkreis Emmendingen mit rund 12.000 Einwohnern, 15 km nördlich von Freiburg im Breisgau.",
+"frage": "In Teningen erinnert eine Gedenkstätte an die Künstlerin Hilla von Rebay. Ihre Eltern kauften 1919 das Haus, in dem sie heute ist. Wer vermittelte den Kauf laut Gemeinde?",
+"optionen": [
+"Der Bürgermeister von Teningen",
+"Ein Freiburger Kunsthändler",
+"Ein Teninger Fabrikant",
+"Der evangelische Ortspfarrer"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Hauskauf denkt man eher an den Bürgermeister oder den Pfarrer. Die Gemeinde nennt aber den Fabrikanten Tscheulin als Vermittler. Die Tochter wurde in New York Gründungsdirektorin der Guggenheim-Stiftung. Das Haus schenkte sie später der Gemeinde, und heute ist dort die Gedenkstätte. So führt von einem Ort mit rund 12.000 Einwohnern eine Spur bis zum Guggenheim-Museum. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten NEGATIVNACHWEISE (neu): 1, 2 und 4 sind falsch, weil die Gemeinde allein Tscheulin als Vermittler nennt und die Frage ausdrücklich „laut Gemeinde“ fragt.",
+"faktencheck": "korrigiert",
+"id": "400-teningen/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Buntsandstein fürs Freiburger Münster",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Teningen",
+"steckbrief": "Gemeinde mit rund 12.000 Einwohnern, 15 km nördlich von Freiburg im Breisgau.",
+"frage": "Aus den Heimbacher Steinbrüchen kam Buntsandstein für Reparaturen am Freiburger Münster. Was sprach laut Gemeinde für diesen Stein?",
+"optionen": [
+"Er hielt der Witterung besser stand.",
+"Er ließ sich leichter behauen.",
+"Er staubte beim Bearbeiten weniger.",
+"Er glänzte poliert fast wie Marmor."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Leichte Bearbeitung klingt nach einem guten Grund für einen Baustein. Der Heimbacher Buntsandstein war aber schwerer zu bearbeiten und staubte stärker; dafür widerstand er der Witterung besser als Stein vom Allmendsberg. Heimbacher Steinmetze fertigten daraus auch Portale, Torbögen und Fensterwände im nördlichen Breisgau. Die alten Steinbrüche sind heute Natur- und Kulturdenkmal. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten",
+"faktencheck": "bestätigt",
+"id": "400-teningen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Waldgericht im Vierdörferwald",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Teningen",
+"steckbrief": "Gemeinde mit rund 12.000 Einwohnern und dem Ortsteil Heimbach, 15 km nördlich von Freiburg im Breisgau.",
+"frage": "Am Hermannsbrunnen kamen früher jedes Jahr am Ostermontag Abgesandte der vier Dörfer des Vierdörferwalds zusammen. Wozu?",
+"optionen": [
+"Sie zogen in einer Osterprozession zur Quelle.",
+"Ein Waldgericht verlas die Waldordnung und strafte Frevler.",
+"Sie hielten am Brunnen einen Viehmarkt ab.",
+"Die vier Dörfer feierten ein Schützenfest."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Am Ostermontag denkt man zuerst an Kirche und Prozession. Am Hermannsbrunnen tagte aber das Waldgericht: Waldrichter und Stabhalter kamen zusammen, die Waldordnung wurde verlesen, und Waldfrevler wurden bestraft. Heimbach, Köndringen, Malterdingen und Mundingen nutzten den Vierdörferwald in den Schwarzwald-Vorbergen gemeinsam für Holz und Weide, bis er aufgeteilt wurde. Der wiedererrichtete Brunnen ist heute ein Symbol der Tradition und des Rechts. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten; www.teningen.de/unsere-gemeinde/ortsteile+der+gemeinde",
+"faktencheck": "korrigiert",
+"id": "400-teningen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "badisch und evangelisch geprägtes Dorf",
+"rang": 9,
 "familie": "B",
 "sorte": "Geschichte",
 "ort": "Teningen",
-"steckbrief": "Teningen hat rund 12.000 Einwohner und liegt 15 km nördlich von Freiburg im Breisgau.",
-"frage": "Es geht um die Bergkirche im Ortsteil Nimburg. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"steckbrief": "Gemeinde mit rund 12.000 Einwohnern, 15 km nördlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Der Antoniterorden ließ die heutige Kirche erbauen.",
-"Ein Teil ihrer Wandmalereien wurde nach der Reformation übermalt.",
-"Die heutige Kirche ist nach Osten ausgerichtet."
+"Das Dorf Teningen blieb nach der Reformation beim alten Glauben.",
+"Im Mittelalter brannten Freiburger Bürger Teningen nieder.",
+"Baden erwarb Teningen einst durch Kauf von Hachberg."
 ],
 "art": "luege",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Kirchen sind traditionell nach Osten ausgerichtet, darum wirkt diese Aussage harmlos. Doch der Vorgängerbau war geostet, die heutige Kirche ist gesüdet: Ihr Chor liegt im Süden. Errichtet hat sie der Antoniterorden, der in Nimburg ein Ordenshaus mit Hospital besaß. Ein Teil ihrer Fresken wurde nach der Reformation übermalt oder neu geschaffen. Die Lüge war 3.",
-"quelle": "Gemeinde-Webseite, www.teningen.de/leben-und-wohnen/kirchen",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Freiburg und sein Umland gelten als katholisch geprägt, darum klingt der alte Glaube plausibel. Das Dorf Teningen gehörte aber zur Markgrafschaft Baden und wurde mit ihr evangelisch; nur im damals vorderösterreichischen Heimbach unterblieb die Reformation. Freiburger Bürger brannten den Ort tatsächlich nieder, im Streit der Grafen von Freiburg mit ihrer Stadt, und Baden kaufte ihn von Hachberg. Heute sind in der Gemeinde mehr Menschen evangelisch als katholisch. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.teningen.de/unsere-gemeinde/ortsteile+der+gemeinde; www.teningen.de/leben-und-wohnen/kirchen; www.teningen.de/unsere-gemeinde/zahlen+_+fakten",
 "faktencheck": "korrigiert",
-"id": "400-teningen/v0.8/3",
+"id": "400-teningen/v0.9/6",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "tief gelegen vor dem Schwarzwald",
+"rang": 8,
 "familie": "C",
 "sorte": "Klassiker",
 "ort": "Teningen",
-"steckbrief": "Teningen hat rund 12.000 Einwohner und liegt 15 km nördlich von Freiburg im Breisgau.",
-"frage": "Bei der Bundestagswahl 2025 wurde die CDU in Teningen stärkste Partei. Wie hoch war ihr Zweitstimmenanteil?",
+"steckbrief": "Gemeinde mit rund 12.000 Einwohnern, 15 km nördlich von Freiburg im Breisgau.",
+"frage": "Wie hoch über dem Meeresspiegel liegt Teningen?",
 "optionen": [
-"unter 18 %",
-"18 bis unter 24 %",
-"24 bis unter 29 %",
-"29 % und mehr"
+"300 m und mehr",
+"250 bis unter 300 m",
+"200 bis unter 250 m",
+"unter 200 m"
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Die Nähe zur Großstadt Freiburg, wo die Grünen traditionell stark sind, spricht scheinbar für einen niedrigen Wert. Teningen wählte aber anders: Die CDU kam auf 30,3 Prozent, vor SPD und AfD; die Grünen landeten auf Platz vier. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"rueckseite": "Du hattest [Option] getippt. Wer an Freiburg und den nahen Schwarzwald denkt, schätzt leicht zu hoch. Teningen liegt je nach Quelle auf 188 oder 190 Metern; auch das Rathaus steht laut Gemeinde auf gut 188 Metern. Zum Gemeindegebiet gehören aber auch Gipfel wie Fronberg und Nimberg. Richtig war 4.",
+"quelle": "Wikidata P2044; dewiki Infobox; Gemeinde-Webseite, www.teningen.de/unsere-gemeinde/zahlen+_+fakten; OpenStreetMap",
 "faktencheck": "bestätigt",
-"id": "400-teningen/v0.8/4",
+"id": "400-teningen/v0.9/7",
 "tisch": false
 },
 {
+"facette": "ALLTAG",
+"charakteristikum": "Wohlstand aus dem Hanf",
+"rang": 6,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Teningen",
-"steckbrief": "Teningen hat rund 12.000 Einwohner und liegt 15 km nördlich von Freiburg im Breisgau.",
-"frage": "Bei seiner ersten Erwähnung 972 gehörte Teningen dem Kloster Einsiedeln. Wie kam das Kloster nach der Ortsgeschichte wohl an diesen Besitz?",
+"steckbrief": "Gemeinde mit rund 12.000 Einwohnern, 15 km nördlich von Freiburg im Breisgau.",
+"frage": "Die sehenswerten Gebäude am Teninger Rathausplatz zeugen von einstigem Wohlstand. Woher kam laut Gemeinde dieser Wohlstand im 18. Jahrhundert?",
 "optionen": [
-"Der König übertrug ihm Güter eines Verräters.",
-"Ein kinderloser Graf vermachte ihn dem Kloster.",
-"Das Kloster kaufte ihn von freien Bauern.",
-"Ein Bischof tauschte ihn gegen andere Klostergüter."
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Schenkungen frommer Adliger waren der übliche Weg, auf dem Klöster zu Land kamen. Hier lief es wohl anders: König Otto I. hatte dem hochverräterischen Grafen Guntram ein Breisgauer Gut entzogen und dem Kloster übereignet. Deninga, wie Teningen damals hieß, gehörte offenbar dazu. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.teningen.de/unsere-gemeinde/ortsteile+der+gemeinde",
-"faktencheck": "korrigiert",
-"id": "400-teningen/v0.8/5",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Teningen",
-"steckbrief": "Teningen hat rund 12.000 Einwohner und liegt 15 km nördlich von Freiburg im Breisgau.",
-"frage": "Wie weit ist Teningen in Luftlinie von der Landeshauptstadt Stuttgart entfernt?",
-"optionen": [
-"unter 90 km",
-"90 bis unter 140 km",
-"140 bis unter 200 km",
-"200 km und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Aus dem Breisgau wirkt Stuttgart fern, wie am anderen Ende des Landes. Doch die Luftlinie von Teningen zur Landeshauptstadt beträgt 124 Kilometer. Richtig war 2.",
-"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
-"faktencheck": "bestätigt",
-"id": "400-teningen/v0.8/6",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Teningen",
-"steckbrief": "Teningen hat rund 12.000 Einwohner und liegt 15 km nördlich von Freiburg im Breisgau.",
-"frage": "Teningens Rathaus wurde 1850 von der Gemeinde gekauft. Wozu diente das Gebäude vor dem Kauf?",
-"optionen": [
-"Es diente als Pfarrhaus des Ortes.",
-"Es diente als Gutshof der Markgrafen.",
-"Es diente als Gasthaus im Ort.",
-"Es diente als Zehntscheuer des Ortes."
+"Silberbergbau in den Vorbergen brachte Wohlstand.",
+"Eine Salzquelle am Ort brachte Wohlstand.",
+"Der Anbau von Hanf brachte Wohlstand.",
+"Eine Glashütte im Gemeindewald brachte Wohlstand."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Bei einem alten Rathaus vermutet man eher ein früheres Pfarr- oder Herrenhaus. Tatsächlich war es das Gasthaus „Zur Sonne“. Nach dem Kauf brachte die Gemeinde dort zuerst Arme unter; später kamen Schulzimmer, Lehrerwohnung und Ratszimmer dazu. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten",
-"faktencheck": "bestätigt",
-"id": "400-teningen/v0.8/7",
+"rueckseite": "Du hattest [Option] getippt. Bergbau liegt nahe, weil im Schwarzwald einst nach Erz gegraben wurde. In Teningen war es aber der Hanf: Er brachte der Gemeinde und einigen Bauernfamilien Wohlstand, bis seine Bedeutung mit der Industrialisierung nachließ. Zum Heimatmuseum Menton, einer großen bäuerlichen Hofanlage im Ortskern, gehört noch eine alte Hanfreibe. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.teningen.de/unsere-gemeinde/ortsteile+der+gemeinde; www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten",
+"faktencheck": "korrigiert",
+"id": "400-teningen/v0.9/8",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "selbst entworfenes Schloss in Heimbach",
+"rang": 7,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Teningen",
-"steckbrief": "Teningen hat rund 12.000 Einwohner und liegt 15 km nördlich von Freiburg im Breisgau.",
-"frage": "Heimbacher Buntsandstein wurde für Arbeiten am Freiburger Münster verwendet. Welchen Vorteil gegenüber Allmendsberger Stein nennt die Ortsgeschichte?",
+"steckbrief": "Gemeinde mit rund 12.000 Einwohnern und dem Ortsteil Heimbach, 15 km nördlich von Freiburg im Breisgau.",
+"frage": "Das Neue Schloss in Heimbach fällt durch Ecktürme und eine eigenwillige Gestaltung auf. Wer entwarf es?",
 "optionen": [
-"Er hielt der Witterung besser stand.",
-"Er war weicher und leichter zu behauen.",
-"Beim Behauen entstand deutlich weniger Staub.",
-"Er hatte eine hellere, gleichmäßigere Farbe."
+"Der Bauherr entwarf es als Amateur-Architekt selbst.",
+"Ein Hofbaumeister des Landesherrn lieferte die Pläne.",
+"Ein Schüler eines berühmten Klassizisten entwarf es.",
+"Ein Festungsbaumeister plante es als Wehrbau."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Leichte Bearbeitung klingt nach dem Hauptargument jedes Steinmetzen. Beim Heimbacher Stein war es umgekehrt: Er war härter, schwerer zu bearbeiten und staubte stark. Dafür trotzte er Witterungseinflüssen besser. Die Brüche waren wichtig für das Bauen im nördlichen Breisgau und sind heute Kultur- und Naturdenkmal. Richtig war 1.",
+"rueckseite": "Du hattest [Option] getippt. Ein Hofbaumeister liegt nahe, denn Schlösser ließ man meist von Fachleuten planen. Freiherr Maximilian von Duminique entwarf sein Schloss aber selbst, mit Elementen von Klassizismus und früher Romantik. Innen gibt es einen Salon in Gestalt eines ionischen Rundtempelchens und ein Felsenzimmer, außen einen englischen Garten. Außer dem Alten Schloss hat der Ortsteil Heimbach damit ein weiteres Schloss. Richtig war 1.",
 "quelle": "Gemeinde-Webseite, www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten",
 "faktencheck": "bestätigt",
-"id": "400-teningen/v0.8/8",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Teningen",
-"steckbrief": "Teningen hat rund 12.000 Einwohner und liegt 15 km nördlich von Freiburg im Breisgau.",
-"frage": "Am Hermannsbrunnen im Ortsteil Heimbach tagte im Mittelalter jedes Jahr ein Gericht. Worüber wurde dort gerichtet?",
-"optionen": [
-"Es schlichtete Streit um das Brunnenwasser.",
-"Es bestrafte Frevel im gemeinsam genutzten Wald.",
-"Es urteilte über Diebstahl auf Märkten.",
-"Es entschied Erbstreitigkeiten unter Bauern."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Bei einem Brunnen denkt man zuerst an Wasserrechte. Doch hier tagte das Waldgericht für den Vierdörferwald, den Heimbach, Köndringen, Malterdingen und Mundingen gemeinsam nutzten. Jedes Jahr am Ostermontag wurde die Waldordnung verlesen, und Waldfrevler wurden bestraft. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten",
-"faktencheck": "bestätigt",
-"id": "400-teningen/v0.8/9",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Teningen",
-"steckbrief": "Teningen hat rund 12.000 Einwohner und liegt 15 km nördlich von Freiburg im Breisgau.",
-"frage": "Das Neue Schloss im Ortsteil Heimbach entstand 1803 bis 1806 mit Ecktürmen und eigenwilliger Gestalt. Wer hat es entworfen?",
-"optionen": [
-"Ein badischer Hofbaumeister entwarf das Schloss.",
-"Ein Pariser Architekt entwarf das Schloss.",
-"Ein Freiburger Stadtbaumeister entwarf das Schloss.",
-"Der Bauherr entwarf das Schloss selbst."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Ein Schloss jener Zeit verbindet man mit einem Hof- oder Stadtbaumeister. Doch Freiherr Maximilian von Duminique war Amateur-Architekt und entwarf seinen Bau selbst. Heraus kam ein eigenwilliges Schloss zwischen Klassizismus und früher Romantik, mit einem Rundtempelchen als Salon, einem Felsenzimmer und englischem Garten. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten",
-"faktencheck": "bestätigt",
-"id": "400-teningen/v0.8/10",
+"id": "400-teningen/v0.9/9",
 "tisch": false
 }
 ],
 "anschluss_von": "399-reute",
 "anschluss": [
-"Bundestagswahl 2025: CDU in Reute 38,1 Prozent, in Teningen 30,3.",
-"Gemeindefläche: Teningen ist gut achtmal so groß wie Reute."
+"Teningens Fläche ist gut achtmal so groß wie Reutes.",
+"Die Wahlbeteiligung 2025 lag in Reute höher als in Teningen."
 ],
 "anschluesse": {
 "387-ebnet": [
@@ -16742,8 +17526,8 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: Auf Platz zwei kam in Vörstetten die Grünen, in Teningen die SPD."
 ],
 "399-reute": [
-"Bundestagswahl 2025: CDU in Reute 38,1 Prozent, in Teningen 30,3.",
-"Gemeindefläche: Teningen ist gut achtmal so groß wie Reute."
+"Teningens Fläche ist gut achtmal so groß wie Reutes.",
+"Die Wahlbeteiligung 2025 lag in Reute höher als in Teningen."
 ],
 "401-bahlingen": [
 "Teningen hat gut zweieinhalbmal so viele Einwohner wie Bahlingen."
@@ -16779,6 +17563,32 @@ window.QA_DATEN = {
 },
 "ags": "08316043",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 12.000 Einwohner, 15 Kilometer nördlich von Freiburg, 188 bis 190 Meter hoch, mit Dreisam und Naturpark Südschwarzwald."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Seit dem Mittelalter badisch, mit der Reformation evangelisch geworden; dazu gehören Köndringen, Landeck, Nimburg, Bottingen und Heimbach."
+},
+{
+"facette": "ALLTAG",
+"text": "Industriegemeinde mit etwa 4.500 Arbeitsplätzen, Werken von Amcor Flexibles, Trumpf und FRAKO, dazu Weingüter wie Wickersheim und Pracht."
+},
+{
+"facette": "FREIZEIT",
+"text": "Freizeitbad mit Riesenrutsche, Burgruine Landeck, Heimatmuseum Menton, Vierburgenweg, Breisgauer Weinweg und Breisgau-Radwanderweg."
+},
+{
+"facette": "INFRA",
+"text": "Haltepunkte Köndringen und Nimburg; Partnerschaften mit La Ravoire in Savoyen, Zeithain in Sachsen und Freiburg-Betzenhausen."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag die CDU mit 30,3 Prozent vorn, die Wahlbeteiligung betrug 83,8 Prozent."
+}
+],
 "km_vom_vorigen": 5.0
 },
 {
@@ -17586,141 +18396,186 @@ window.QA_DATEN = {
 "lon": 7.6475,
 "karten": [
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Ihringen",
-"steckbrief": "Ihringen hat rund 6.300 Einwohner und liegt 16 km westlich von Freiburg im Breisgau.",
-"frage": "Wie viele Einwohner leben in Ihringen rechnerisch auf einem Quadratkilometer?",
-"optionen": [
-"unter 100",
-"100 bis unter 200",
-"200 bis unter 350",
-"350 und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Bei einer Gemeinde dieser Größe auf dem Land rechnet man leicht mit dünner Besiedlung. Doch auf jedem Quadratkilometer Gemeindefläche wohnen rechnerisch 273 Menschen. Richtig war 3.",
-"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
-"faktencheck": "bestätigt",
-"id": "69-ihringen/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Ihringen",
-"steckbrief": "Ihringen mit dem Ortsteil Wasenweiler hat rund 6.300 Einwohner und liegt 16 km westlich von Freiburg im Breisgau.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Im Ihringer Wappen sind Weintraube und Rebmesser abgebildet.",
-"Wasenweiler gehörte jahrhundertelang den Markgrafen von Baden-Durlach.",
-"Ihringen ist evangelisch geprägt, Wasenweiler dagegen katholisch."
-],
-"art": "luege",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Die Lüge klingt glaubhaft, denn Ihringen selbst gehörte den Markgrafen von Baden-Durlach. Wasenweiler aber unterstand von 1297/98 bis 1806 dem Deutschen Orden in Freiburg. Den Glauben bestimmte damals meist der Landesherr; die Konfessionen waren also ein Hinweis. Die Lüge war 2.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Ihringen",
-"faktencheck": "korrigiert",
-"id": "69-ihringen/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Ihringen",
-"steckbrief": "Ihringen hat rund 6.300 Einwohner und liegt 16 km westlich von Freiburg im Breisgau.",
-"frage": "Wie weit ist Ihringen in Luftlinie von der Landeshauptstadt Stuttgart entfernt?",
-"optionen": [
-"unter 80 km",
-"80 bis unter 120 km",
-"120 bis unter 160 km",
-"160 km und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Auf der Straße ist der Weg nach Stuttgart deutlich länger als die gerade Linie, deshalb schätzen viele zu hoch. In Luftlinie liegen zwischen Ihringen und der Landeshauptstadt 140 Kilometer. Richtig war 3.",
-"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
-"faktencheck": "bestätigt",
-"id": "69-ihringen/v0.8/6",
-"tisch": false
-},
-{
+"facette": "GESCHICHTE",
+"charakteristikum": "Spottsage vom Ihringer Traubenesel",
+"rang": 4,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Ihringen",
 "steckbrief": "Ihringen hat rund 6.300 Einwohner und liegt 16 km westlich von Freiburg im Breisgau.",
-"frage": "Im September 2019 drehte der Schwarzwald-Tatort in und um Ihringen. Wie hieß diese Folge?",
+"frage": "Der Sage nach klagte um 1500 ein Weinbergbesitzer, weil der Esel eines Müllers Trauben gefressen hatte. Worauf kam es im Urteil an?",
 "optionen": [
-"Die Folge hieß „Spätlese“.",
-"Die Folge hieß „Kaiserstuhl“.",
-"Die Folge hieß „Trockenmauer“.",
-"Die Folge hieß „Rebland“."
+"Es zählte, ob der Esel nachts kam.",
+"Es zählte, ob der Esel sich hinsetzte.",
+"Es zählte, ob der Weinberg eingezäunt war.",
+"Es zählte, ob der Müller davon wusste."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein heutiges Gericht fragte wohl, ob der Müller Schuld trug. Der Sage nach zählte aber, ob der Esel sich im Weinberg niedergesetzt hatte: Dann sollte der Müller büßen, sofern der Schaden bewiesen war. Kostete er nur im Vorbeigehen, galt das als „Ehrtrinkle“. Der Kläger konnte nicht beweisen, ob der Esel gesessen hatte. Die Überlieferung selbst nennt es ein „närrisches Urteil“. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.ihringen.de/unser-ihringen/gemeindeportrait/salomonisches+urteil",
+"faktencheck": "korrigiert",
+"id": "69-ihringen/v0.9/1",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Mammutbaumwald zwischen den Reben",
+"rang": 3,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Ihringen",
+"steckbrief": "Ihringen hat rund 6.300 Einwohner und liegt 16 km westlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge gibt es in Ihringen?",
+"optionen": [
+"ein Hallenbad",
+"eine Rehaklinik",
+"ein Wald aus Mammutbäumen",
+"eine historische Wassermühle"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Hallenbad wäre für einen Ort dieser Größe nicht ungewöhnlich, doch Ihringens Bad, das Kaiserstuhlbad, ist ein Freibad. Überraschender ist das Arboretum Liliental, eine forstliche Baumsammlung mit botanischen Raritäten und einem Wald aus Mammutbäumen. Mitten in der Weinregion wirkt es wie ein exotisches Waldparadies und zieht Wanderer und Botanik-Interessierte an. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.ihringen.de/kultur-und-freizeit/liliental; OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "69-ihringen/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Weinort am Südhang eines Vulkans",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ihringen",
+"steckbrief": "Ihringen hat rund 6.300 Einwohner und liegt 16 km westlich von Freiburg im Breisgau.",
+"frage": "Ihringen gilt als einer der wärmsten Orte Deutschlands und liegt am Südrand des Kaiserstuhls. Wie ist dieses Bergland entstanden?",
+"optionen": [
+"Eiszeit-Gletscher schoben es aus Geröll zusammen.",
+"Der Rhein schüttete es als Kiesberg auf.",
+"Ein Meteorit warf es als Kraterrand auf.",
+"Es ist ein altes Vulkanmassiv."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. „Spätlese“ klingt passend, denn Ihringen ist eine Weinbaugemeinde. Doch die Folge heißt „Rebland“ und wurde in und um Ihringen gedreht. Richtig war 4.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Ihringen",
-"faktencheck": "bestätigt",
-"id": "69-ihringen/v0.8/7",
+"rueckseite": "Du hattest [Option] getippt. Weil der Rhein so nah ist, denken viele an Flussgeröll. Der Kaiserstuhl ist aber ein Vulkanmassiv, ein Bergland aus erloschenen Vulkanen: Rund um Ihringen zeugen Lavaströme und Tephrit, ein vulkanisches Gestein, von dieser Vulkangeschichte. Ihringen liegt am Südrand dieses alten Vulkans; beim Vorbeifahren sieht man die Weinberghänge über dem Ort aufsteigen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.ihringen.de/kultur-und-freizeit/sport+_+aktiv/wandern; www.ihringen.de/unser-ihringen/daten+und+fakten",
+"faktencheck": "korrigiert",
+"id": "69-ihringen/v0.9/3",
 "tisch": false
 },
 {
+"facette": "ALLTAG",
+"charakteristikum": "Forschungsweingut des Landes am Blankenhornsberg",
+"rang": 5,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Ihringen",
+"steckbrief": "Ihringen, rund 6.300 Einwohner, liegt 16 km westlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge gibt es in Ihringen?",
+"optionen": [
+"ein Forschungsweingut des Landes",
+"ein Thermalbad",
+"ein Krankenhaus",
+"eine Ölmühle"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Thermalbad klingt plausibel, denn im warmen Südwesten gibt es viele Badeorte. Ihringen hat stattdessen das Staatsweingut Freiburg am Blankenhornsberg. Es gehört nicht der Stadt Freiburg, sondern zum Weinbauinstitut des Landes, und forscht zu Weinbau und Weinbereitung; im historischen Gewölbekeller reift Wein noch im Holzfass. Für einen Weinort dieser Größe ist das besonders: Hier wird Wein nicht nur gemacht, sondern erforscht. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.ihringen.de/leben-in-ihringen/wein-_+obstbau/staatsweingut+freiburg; OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "69-ihringen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Wappen aus Wein und Baden",
+"rang": 7,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Ihringen",
 "steckbrief": "Ihringen hat rund 6.300 Einwohner und liegt 16 km westlich von Freiburg im Breisgau.",
-"frage": "Nordwestlich von Ihringen lag auf einer Kuppe eine befestigte keltische Höhensiedlung. Wie wurde sie entdeckt?",
+"frage": "Das Ihringer Wappen zeigt eine Traube, ein Rebmesser und einen Schrägbalken. Wofür steht der Schrägbalken?",
 "optionen": [
-"Man stieß bei einer Flurbereinigung darauf.",
-"Ein Sturm entwurzelte Bäume über den Mauern.",
-"Kinder fanden beim Spielen Scherben und Münzen.",
-"Ein Pfarrer las davon in alten Kirchenbüchern."
+"Er steht für den Rhein als Grenzfluss.",
+"Er steht für die frühere Herrschaft Badens.",
+"Er steht für den Krebsbach im Ort.",
+"Er steht für eine Römerstraße am Kaiserstuhl."
 ],
 "art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Kinder oder Spaziergänger als Finder klingen plausibel, denn so tauchen manche Fundstellen auf. Hier war es eine Flurbereinigung, also eine Neuordnung von Grundstücken und Wegen: Dabei kam die Siedlung zum Vorschein. Gedeutet wird sie als Herrensitz, durch steile Hänge geschützt. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Ihringen",
-"faktencheck": "unsicher",
-"id": "69-ihringen/v0.8/8",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Band durch den Schild erinnert an einen Fluss, und der Rhein ist nah. Gemeint ist aber das Zeichen der Ortsherrschaft, die die Markgrafen von Baden innehatten. Traube und Rebmesser finden sich schon in den Siegeln der Ihringer Schultheißen, der früheren Dorfvorsteher. So zeigt das Wappen beides, was Ihringen prägt: den Wein und die lange Zugehörigkeit zu Baden. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.ihringen.de/unser-ihringen/gemeindeportrait/dorfchronik",
+"faktencheck": "korrigiert",
+"id": "69-ihringen/v0.9/5",
 "tisch": false
 },
 {
+"facette": "INFRA",
+"charakteristikum": "zwei Bahnhalte, Bahnhof am Weinfest",
+"rang": 8,
 "familie": "B",
 "sorte": "Geschichte",
 "ort": "Ihringen",
 "steckbrief": "Ihringen hat rund 6.300 Einwohner und liegt 16 km westlich von Freiburg im Breisgau.",
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"In Ihringen gedeihen Mandelbäume und sogar Kakteen.",
-"In Ihringen kommen Gottesanbeterinnen und Smaragdeidechsen vor.",
-"Ihringens Winter sind streng, mit vielen Eistagen."
+"Ihringen hat eine Partnergemeinde in den Vogesen.",
+"Der Hauptort Ihringen hat keinen eigenen Bahnhalt.",
+"Der Ortsteil Wasenweiler hat einen eigenen Bahnhalt."
 ],
 "art": "luege",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Mandelbäume und Kakteen klingen nach Übertreibung, viele Eistage, an denen es ganztags friert, dagegen nach gewöhnlichem deutschem Winter. Doch Ihringen liegt geschützt am Kaiserstuhl: Die Winter sind mild, Eistage gibt es wenige, Sonnenstunden viele. Das begünstigt auch den Weinbau. Die Lüge war 3.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Ihringen",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Weinort am Kaiserstuhl wirkt abgelegen, deshalb glaubt man die Lüge leicht. Doch die Gemeinde hat zwei Haltepunkte, Ihringen und Wasenweiler; der Ihringer Bahnhof grenzt sogar direkt an die Ihringer Weintage. Die Partnergemeinde in den Vogesen ist Munster im Elsass. Für einen Ort mit rund 6.300 Einwohnern sind zwei Bahnhalte viel, und zum Weinfest fährt man direkt mit dem Zug. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.ihringen.de/kultur-und-freizeit/veranstaltungen/ihringer+weintage; Wikidata (Bahnhöfe); OpenStreetMap; Einwohner: Wikidata P1082, Stand 2025-12-31",
 "faktencheck": "bestätigt",
-"id": "69-ihringen/v0.8/9",
+"id": "69-ihringen/v0.9/6",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "große Gemarkung mit viel Feld",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ihringen",
+"steckbrief": "Ihringen hat rund 6.300 Einwohner und liegt 16 km westlich von Freiburg im Breisgau.",
+"frage": "Endingen misst knapp 27 km². Wie groß ist die Gemarkung von Ihringen samt Wasenweiler?",
+"optionen": [
+"unter 10 km²",
+"10 bis unter 15 km²",
+"15 bis unter 20 km²",
+"20 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ihringen hat weniger Einwohner als Endingen, darum schätzt man die Fläche leicht kleiner. Tatsächlich misst die Gemarkung 23 km², kaum weniger als Endingen. Nur ein kleiner Teil ist Siedlung; mehr als die Hälfte ist Landwirtschaftsfläche, fast ein Viertel Wald. Mit rund 270 Einwohnern je km² bleibt viel offenes Land um den Ort. Richtig war 4.",
+"quelle": "Wikidata P2046; Flächenanteile: Gemeinde-Webseite, www.ihringen.de/unser-ihringen/daten+und+fakten; Dichte berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche",
+"faktencheck": "bestätigt",
+"id": "69-ihringen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Autodiagnose-Weltfirma im Weindorf",
+"rang": 1,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Ihringen",
 "steckbrief": "Ihringen hat rund 6.300 Einwohner und liegt 16 km westlich von Freiburg im Breisgau.",
-"frage": "Südwestlich von Ihringen liegt eine Gruppe von Grabhügeln. Wer wurde dort bestattet?",
+"frage": "Ein Unternehmen mit Sitz in Ihringen hat Kunden in vielen Ländern. Womit beliefert es sie?",
 "optionen": [
-"Dort liegen Gefallene des Dreißigjährigen Kriegs.",
-"Dort liegen Menschen aus Bronze- und Keltenzeit.",
-"Dort liegen Opfer einer mittelalterlichen Pest.",
-"Dort liegen Soldaten eines römischen Lagers."
+"Es liefert Pumpen und Tanks für Weinkeller.",
+"Es liefert Solarmodule für Hausdächer.",
+"Es liefert Diagnosegeräte für Autowerkstätten.",
+"Es liefert Hörgeräte an Fachgeschäfte."
 ],
 "art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Bei Hügeln in der Ebene denkt man schnell an Kriegsgräber oder Pestfriedhöfe. Die Gräber sind aber weit älter: Sie reichen von der mittleren Bronzezeit bis in die keltische Zeit. Richtig war 2.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Ihringen",
-"faktencheck": "unsicher",
-"id": "69-ihringen/v0.8/10",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. In einem Weinort denkt man zuerst an Kellertechnik. Hella Gutmann Solutions baut aber Geräte, die Autos vieler Marken auf Fehler prüfen, dazu Werkstattausrüstung; seine Kunden sind Werkstätten. Angefangen hat es mit einer Werkstatt von Kurt Gutmann. Für einen Ort mit rund 6.300 Einwohnern ist ein Technikunternehmen mit Kunden in vielen Ländern ungewöhnlich. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.ihringen.de/leben-in-ihringen/handel+_+gewerbe; Einwohner: Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "korrigiert",
+"id": "69-ihringen/v0.9/8",
 "tisch": false
 }
 ],
@@ -17810,7 +18665,218 @@ window.QA_DATEN = {
 },
 "ags": "08315059",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Am Südhang des Kaiserstuhls, 16 km westlich von Freiburg; die Gemarkung reicht von 189 bis 557 Meter am Totenkopf."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Seit 962 als Rebengemeinde belegt, lange badisch und evangelisch; das katholische Wasenweiler unterstand dem Deutschen Orden, kam 1974 dazu."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 6.300 Einwohner auf 23 km²; Wein prägt den Ort: Winzergenossenschaften, Staatsweingut, Weingüter, dazu Hella Gutmann und Traktorenbau Sauerburger."
+},
+{
+"facette": "FREIZEIT",
+"text": "Ihringer Weintage, Freibad Kaiserstuhlbad, Arboretum Liliental, Heimatmuseum, Naturzentrum Kaiserstuhl, Weinlehrpfad und Kaiserstuhl-Radweg."
+},
+{
+"facette": "INFRA",
+"text": "Zwei Bahnhalte, Ihringen und Wasenweiler; Partnergemeinden Ruhpolding, Munster und Wattwiller, dazu eine Partnerschaft mit Freiburg-Rieselfeld."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: Wahlbeteiligung 87,8 Prozent, klar über dem Landeswert von 83,4; die CDU lag mit 33,4 Prozent vorn."
+}
+],
 "km_vom_vorigen": 11.7
+},
+{
+"slug": "467-vogtsburg",
+"name": "Vogtsburg",
+"lat": 48.08917,
+"lon": 7.63167,
+"karten": [
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Korkenziehermuseum in der Weinstadt",
+"rang": 1,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Vogtsburg",
+"steckbrief": "Stadt am Kaiserstuhl mit rund 6.300 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Museen gibt es in Vogtsburg?",
+"optionen": [
+"Ein Uhrenmuseum",
+"Ein Puppenmuseum",
+"Ein Korkenziehermuseum",
+"Ein Fastnachtsmuseum"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Uhrenmuseum liegt nahe, denn der Schwarzwald ist nicht weit und für Uhren bekannt. Vogtsburg aber hat ein Korkenziehermuseum: Im Ortsteil Burkheim zeigt das Korkenziehermuseum Kaiserstuhl eine Sammlung von Korkenziehern. In einer Weinstadt am Kaiserstuhl passt das Werkzeug zum Entkorken bestens ins Bild. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Vogtsburg_im_Kaiserstuhl; OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "467-vogtsburg/v0.9/3",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Solarpark in Bürgerhand",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vogtsburg",
+"steckbrief": "Stadt am Kaiserstuhl mit rund 6.300 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Für den Solarpark in Vogtsburg gibt es eine Bürgerenergiegenossenschaft. Wer hielt laut Stadt drei Viertel ihrer Anteile?",
+"optionen": [
+"Ein großer Energiekonzern.",
+"Die Stadt Vogtsburg selbst.",
+"Ein Zusammenschluss der Winzer.",
+"Bürgerinnen und Bürger."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Energiekonzern liegt nahe, denn große Solarparks gehören oft Investoren. In Vogtsburg sicherten sich aber Bürgerinnen und Bürger 75 Prozent der Anteile an der Bürgerenergiegenossenschaft, den Rest hielt der Investor F & S Solar. Die Stadt nennt den Park ein Vorzeigeprojekt der Energiewende auf dem Weg zur energieautarken Kommune. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.vogtsburg.de/de-de/wirtschaft/solarpark",
+"faktencheck": "korrigiert",
+"id": "467-vogtsburg/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Waldgipfel mit Fernsehturm statt Reben",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vogtsburg",
+"steckbrief": "Stadt am Kaiserstuhl mit rund 6.300 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Der Totenkopf ist die höchste Erhebung des Kaiserstuhls. Womit ist der Berg bedeckt?",
+"optionen": [
+"Weitgehend mit geschlossenem Mischwald.",
+"Mit Reben bis hinauf zum Gipfel.",
+"Mit einer baumlosen Schafweide.",
+"Mit einer kahlen Felskuppe."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Reben liegen nahe, denn am Kaiserstuhl ziehen sie sich weit die Hänge hinauf. Der Totenkopf aber ist wegen seiner Höhe nicht mit Reben bepflanzt, sondern weitgehend von geschlossenem Mischwald bedeckt. Ein Stück unterhalb des Gipfels stehen der Fernsehturm Vogtsburg und der Neunlindenturm. Zahlreiche Wanderwege führen aus den Vogtsburger Stadtteilen hinauf. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.vogtsburg.de/de-de/tourismus/natur-urlaub-aktiv/traumhafte-aussicht-en; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "467-vogtsburg/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Schlossruine in Winzerhand",
+"rang": 5,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Vogtsburg",
+"steckbrief": "Stadt am Kaiserstuhl mit Ortsteilen wie Burkheim und Oberbergen, rund 6.300 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Schriftsteller Jörg Wickram war Stadtschreiber in Burkheim.",
+"Der Theologe Eugen Biser wurde in Oberbergen geboren.",
+"Die Burkheimer Schlossruine gehört heute der Stadt Vogtsburg."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Dass eine Stadt ihr Wahrzeichen besitzt, liegt nahe, und viele Burgruinen gehören tatsächlich Gemeinden oder dem Land. Die Burkheimer Schlossruine aber ist Familienbesitz der Endinger Weingüter L. Bastian und L. Schätzle, mitsamt Reblage. Wickram und Biser stimmen. Die Ruine überragt die Altstadt Burkheims und ist von weitem zu sehen: ein Wahrzeichen in Winzerhand. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.vogtsburg.de/de-de/tourismus/kunst-kultur/altstadt-historisches",
+"faktencheck": "bestätigt",
+"id": "467-vogtsburg/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "locker besiedelte Stadt aus Dörfern",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Vogtsburg",
+"steckbrief": "Stadt am Kaiserstuhl mit rund 6.300 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Wie viele Einwohner leben in Vogtsburg rechnerisch auf einem Quadratkilometer?",
+"optionen": [
+"unter 80",
+"80 bis unter 140",
+"140 bis unter 200",
+"200 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an Weinberge denkt, schätzt leicht zu niedrig. Gut 6.300 Einwohner auf gut 37 Quadratkilometern ergeben 169 je Quadratkilometer. Die Einwohner verteilen sich auf mehrere Dörfer am Kaiserstuhl, nicht auf eine geschlossene Stadt. Richtig war 3.",
+"quelle": "Wikidata P1082 (Stand 2025-12-31) und P2046, Dichte berechnet",
+"faktencheck": "bestätigt",
+"id": "467-vogtsburg/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Herrschaft Burkheim als Kriegslohn",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vogtsburg",
+"steckbrief": "Stadt am Kaiserstuhl mit rund 6.300 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Der Feldherr Lazarus von Schwendi wurde Herr über Burkheim. Wie kam er laut Stadt zu dieser Herrschaft?",
+"optionen": [
+"Er eroberte sie in einer Fehde.",
+"Er erbte sie von seiner Familie.",
+"Er erhielt sie durch eine Heirat.",
+"Er bekam sie für Verdienste im Krieg."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Fehde liegt nahe, denn Herrschaften wechselten oft mit Gewalt den Besitzer. Lazarus von Schwendi, Feldherr und Diplomat der Habsburger, erhielt Burkheim aber laut Stadt als Geschenk für seine Verdienste in den Feldzügen in Ungarn gegen die Türken. Rechtlich war er Pfandherr: Die Habsburger blieben Landesherren. Er baute das Burkheimer Schloss neu auf. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.vogtsburg.de/de-de/tourismus/kunst-kultur/altstadt-historisches; Deutsche Biographie, www.deutsche-biographie.de/sfz79756.html",
+"faktencheck": "korrigiert",
+"id": "467-vogtsburg/v0.9/8",
+"tisch": false
+}
+],
+"anschluss_von": "69-ihringen",
+"anschluss": [
+"Vogtsburg und Ihringen haben fast gleich viele Einwohner, je rund 6.300.",
+"Die CDU war 2025 in Vogtsburg stärker als in Ihringen."
+],
+"anschluesse": {
+"69-ihringen": [
+"Vogtsburg und Ihringen haben fast gleich viele Einwohner, je rund 6.300.",
+"Die CDU war 2025 in Vogtsburg stärker als in Ihringen."
+]
+},
+"ags": "08315133",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Weinstadt am Kaiserstuhl, 19 km nordwestlich von Freiburg, nach Westen zum Rhein offen; höchster Berg ist der Totenkopf."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Seit 1975 eine Gemeinde aus sieben Winzerdörfern, darunter Burkheim mit mittelalterlicher Altstadt und Schlossruine."
+},
+{
+"facette": "ALLTAG",
+"text": "Gut 6.300 Einwohner auf gut 37 Quadratkilometern; dazu Winzergenossenschaften, Weingüter, Löffel Mühle und der Erzeugergroßmarkt Südbaden."
+},
+{
+"facette": "FREIZEIT",
+"text": "Weinbaumuseum, Korkenziehermuseum, Freibad in Oberrotweil, Baggersee Burkheim, Kaiserstuhl-Radwanderweg, Rheinaueweg und Badischer Jakobusweg."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhöfe Achkarren und Oberrotweil, Haltepunkt Burkheim-Bischoffingen, AMEOS Klinikum Kaiserstuhl, Solarpark; Autokennzeichen FR."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU vorn mit 40,9 Prozent, Wahlbeteiligung 87,1 Prozent, über dem Landeswert von 83,4."
+}
+],
+"km_vom_vorigen": 5.3
 },
 {
 "slug": "70-breisach",
@@ -17819,190 +18885,191 @@ window.QA_DATEN = {
 "lon": 7.58,
 "karten": [
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "FREIZEIT",
+"charakteristikum": "Blaues Haus, früheres jüdisches Gemeindehaus",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
 "ort": "Breisach",
-"steckbrief": "Stadt am Oberrhein an der Grenze zu Frankreich, 21 km westlich von Freiburg im Breisgau.",
-"frage": "Wie viele Einwohner hat Breisach?",
+"steckbrief": "Stadt mit rund 16.600 Einwohnern, 21 km westlich von Freiburg im Breisgau.",
+"frage": "In Breisach kümmert sich ein Förderverein um das „Blaue Haus“. Was war das Gebäude früher?",
 "optionen": [
-"unter 10.000",
-"10.000 bis unter 20.000",
-"20.000 bis unter 40.000",
-"40.000 und mehr"
+"Es war das Zollhaus an der Rheinbrücke.",
+"Es war das Pfarrhaus des Münsters.",
+"Es war eine Färberei, daher der Name.",
+"Es war das Gemeindehaus der jüdischen Gemeinde."
 ],
 "art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Unter 10.000 läge nahe, denn das Städtchen auf dem Berg am Rhein wirkt eher klein. Zur Stadt gehören aber auch mehrere eingemeindete Dörfer. Ende 2025 zählte Breisach 16.617 Einwohner. Richtig war 2.",
-"quelle": "Wikidata P1082, Stand 2025-12-31",
-"faktencheck": "bestätigt",
-"id": "70-breisach/v0.8/2",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name lässt an eine Färberei denken, der Rhein an ein Zollhaus. Doch das Blaue Haus war das Gemeindehaus der jüdischen Gemeinde. Ein Förderverein hat es gekauft und renoviert, heute ist es als Museum verzeichnet. Für eine Stadt mit gut 16.600 Einwohnern ist ein erhaltenes jüdisches Gemeindehaus bemerkenswert; sein Name macht es leicht wiederzuerkennen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite (stadt.breisach.de, Sehenswürdigkeiten und Das Blaue Haus); OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "70-breisach/v0.9/1",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Festungsstadt, fast ausgehungert 1638",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Breisach",
+"steckbrief": "Stadt am Rhein mit rund 16.600 Einwohnern, 21 km westlich von Freiburg im Breisgau.",
+"frage": "Breisach wurde 1638 monatelang belagert, bis die Stadt im Dezember kapitulierte. Wie viele der etwa 4000 Bewohner überlebten Hunger und Pest?",
+"optionen": [
+"Nur 150 Bewohner überlebten die Belagerung.",
+"Etwa 1.000 Bewohner überlebten die Belagerung.",
+"Etwa 2.000 Bewohner überlebten die Belagerung.",
+"Etwa 3.500 Bewohner überlebten die Belagerung."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Festungsstadt mit Vorräten, so die naheliegende Vermutung, hält eine Belagerung durch. Doch Herzog Bernhard von Sachsen-Weimar schloss Breisach monatelang ein, und von etwa 4000 Bewohnern überlebten nur 150 Hunger und Pest. Zum Vergleich: Heute leben gut 16.600 Menschen in Breisach. Das Bild der umkämpften Festung am Rhein gehört zu Breisach. Richtig war 1.",
+"quelle": "Art unbekannt (Fakt 70-breisach/014 ohne QUELLE-Zeile)",
+"faktencheck": "unsicher",
+"id": "70-breisach/v0.9/2",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Klostergut, heute Staatsdomäne",
+"rang": 9,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Breisach",
+"steckbrief": "Stadt mit rund 16.600 Einwohnern und mehreren Ortsteilen, 21 km westlich von Freiburg im Breisgau.",
+"frage": "Auf Breisacher Gemarkung liegt das Rothaus, einst ein Klostergut. Was ist es seit 1931?",
+"optionen": [
+"Es ist ein Hotel mit Gasthaus.",
+"Es ist eine Staatsdomäne.",
+"Es ist ein Freilichtmuseum.",
+"Es ist ein Gestüt in Privatbesitz."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Alte Klosterhöfe sind heute oft Gasthäuser oder Hotels, das liegt nahe. Das Rothaus aber ist seit 1931 eine Staatsdomäne, also ein landwirtschaftliches Gut im Besitz des Staates. Es zeigt, dass Breisach mehr ist als seine Altstadt: Auf der Gemarkung von knapp 55 Quadratkilometern liegen auch Dörfer und Güter wie dieses. Richtig war 2.",
+"quelle": "Gemeinde-Webseite (stadt.breisach.de, Ortsinfo Stadtteile)",
+"faktencheck": "korrigiert",
+"id": "70-breisach/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "dreisprachige Tafeln an der Grenze",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Breisach",
+"steckbrief": "Stadt am Rhein mit rund 16.600 Einwohnern, 21 km westlich von Freiburg im Breisgau.",
+"frage": "In Breisach erklären etwa 100 Tafeln des Stadtarchivs historische Gebäude und Plätze. In welchen Sprachen?",
+"optionen": [
+"Die Tafeln sind deutsch, englisch und italienisch.",
+"Die Tafeln sind deutsch und alemannisch.",
+"Die Tafeln sind deutsch, französisch und englisch.",
+"Die Tafeln sind deutsch, französisch und niederländisch."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Alemannisch liegt nahe, denn der Dialekt gehört zum Oberrhein, und Italienisch klingt nach Urlaubsgästen. Beschriftet sind die Tafeln aber deutsch, französisch und englisch. Das passt zur Lage an der Grenze: Auf der gegenüberliegenden Rheinseite liegt die Festungsstadt Neuf-Brisach. Wer durch Breisach geht, liest Stadtgeschichte gleich für die Gäste von drüben mit. Richtig war 3.",
+"quelle": "Gemeinde-Webseite (stadt.breisach.de, Sehenswürdigkeiten; tourismus.breisach.de, Stadtgeschichte)",
+"faktencheck": "korrigiert",
+"id": "70-breisach/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "immer wieder umkämpfte Rheinfestung",
+"rang": 5,
 "familie": "B",
 "sorte": "Geschichte",
 "ort": "Breisach",
-"steckbrief": "Stadt mit rund 16.600 Einwohnern, 21 km westlich von Freiburg im Breisgau.",
+"steckbrief": "Grenzstadt am Rhein mit rund 16.600 Einwohnern, 21 km westlich von Freiburg im Breisgau.",
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Fußballtorwart Oliver Baumann stammt aus Breisach.",
-"Widerstandskämpfer Julius Leber ging in Breisach zur Schule.",
-"Maler Martin Schongauer entwarf das Breisacher Rheintor."
+"1945 blieb das Münster St. Stephan fast unbeschädigt.",
+"1703 kapitulierte Breisach vor den Truppen Ludwigs XIV.",
+"1793 lag Breisach tagelang unter französischem Beschuss."
 ],
 "art": "luege",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Schongauer passt gut zu Breisach: Er malte im Münster das Jüngste Gericht und starb hier. Das barocke Rheintor aber baute der französische Festungsbauer Jacques Tarade, lange nach Schongauers Tod. Baumann stammt wirklich aus Breisach, Leber ging hier zur Schule. Die Lüge war 3.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Breisach_am_Rhein",
-"faktencheck": "bestätigt",
-"id": "70-breisach/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Breisach",
-"steckbrief": "Stadt mit rund 16.600 Einwohnern, 21 km westlich von Freiburg im Breisgau.",
-"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte in Breisach die stärkste Partei?",
-"optionen": [
-"unter 20 %",
-"20 bis unter 25 %",
-"25 bis unter 30 %",
-"30 % und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Unter 30 Prozent läge nahe, denn AfD, SPD und Grüne holten zusammen fast die Hälfte der Zweitstimmen. Trotzdem lag die CDU deutlich vorn: Sie kam auf 30,3 Prozent. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "70-breisach/v0.8/4",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Breisach",
-"steckbrief": "Stadt mit rund 16.600 Einwohnern am Rhein, 21 km westlich von Freiburg im Breisgau.",
-"frage": "Auf der anderen Rheinseite baute Vauban die Stadt Neuf-Brisach. Welchen Grund nennt die Ortsgeschichte?",
-"optionen": [
-"Sie ersetzte Breisach nach einem Friedensvertrag.",
-"Sie diente als Zollstation für den Rheinhandel.",
-"Sie war als Residenz eines Fürsten gedacht.",
-"Sie ersetzte ein vom Rhein zerstörtes Dorf."
-],
-"art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein Zollposten am Rhein läge nahe, denn der Fluss war ein wichtiger Handelsweg. Die Ortsgeschichte nennt aber den Frieden von Rijswijk: Danach baute Vauban Neuf-Brisach als Ersatz für Breisach, in Sichtweite auf der anderen Rheinseite. Heute ist die Stadt Breisachs Partnerstadt. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Breisach_am_Rhein",
-"faktencheck": "unsicher",
-"id": "70-breisach/v0.8/5",
+"rueckseite": "Du hattest [Option] getippt. Kirchen überstehen manchen Krieg, darum klingt die Münster-Aussage glaubhaft. Doch beim Artilleriebeschuss von Februar bis April 1945 wurde Breisach zu 85 Prozent zerstört, und auch das Münster wurde schwer beschädigt. Die beiden anderen Aussagen zeigen: Die Stadt am Rhein wurde immer wieder umkämpft und musste sich neu aufbauen. Die Lüge war 1.",
+"quelle": "Art unbekannt (Fakt 70-breisach/017 ohne QUELLE-Zeile)",
+"faktencheck": "korrigiert",
+"id": "70-breisach/v0.9/6",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "Kleinstadt mit viel Umland",
+"rang": 8,
 "familie": "C",
 "sorte": "Klassiker",
 "ort": "Breisach",
 "steckbrief": "Stadt mit rund 16.600 Einwohnern, 21 km westlich von Freiburg im Breisgau.",
-"frage": "Wie viele Einwohner leben in Breisach durchschnittlich auf einem Quadratkilometer?",
+"frage": "Breisach umfasst neben der Kernstadt mehrere Ortsteile. Wie viele Einwohner kommen auf einen Quadratkilometer?",
 "optionen": [
-"unter 200",
-"200 bis unter 400",
-"400 bis unter 800",
-"800 und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Für eine Stadt mit Altstadt und Festungstoren läge ein höherer Wert nahe. Doch zur Stadt gehört eine weite Gemarkung mit mehreren Dörfern. So kommen auf einen Quadratkilometer nur 304 Einwohner. Richtig war 2.",
-"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
-"faktencheck": "bestätigt",
-"id": "70-breisach/v0.8/6",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Geschichte",
-"ort": "Breisach",
-"steckbrief": "Stadt mit rund 16.600 Einwohnern, 21 km westlich von Freiburg im Breisgau.",
-"frage": "Während der Belagerung 1638 lebten in Breisach etwa 4.000 Menschen. Wie viele von ihnen überlebten?",
-"optionen": [
-"unter 50",
-"50 bis unter 100",
-"100 bis unter 1.000",
+"unter 150",
+"150 bis unter 400",
+"400 bis unter 1.000",
 "1.000 und mehr"
 ],
 "art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Gut 16.600 Einwohner klingen nach einer dicht bebauten Kleinstadt. Doch Breisach umfasst knapp 55 Quadratkilometer mit mehreren Ortsteilen, dazu Schutzgebiete wie das Hochstetter Feld. So kommen 304 Einwohner auf einen Quadratkilometer. Breisach ist also eine Stadt mit viel Umland, nicht nur die Altstadt am Rhein. Richtig war 2.",
+"quelle": "GRUNDDATEN, berechnet aus Wikidata P1082 (Stand 2025-12-31) und Wikidata P2046; OpenStreetMap",
+"faktencheck": "bestätigt",
+"id": "70-breisach/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Breisacher Münze auf den Färöern",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Breisach",
+"steckbrief": "Stadt am Rhein mit rund 16.600 Einwohnern, 21 km westlich von Freiburg im Breisgau.",
+"frage": "In einem Münzfund namens Sandur steckte eine Breisacher Münze aus dem 11. Jahrhundert. Wo wurde der Fund entdeckt?",
+"optionen": [
+"Der Fund lag auf der Insel Gotland.",
+"Der Fund lag in Nordnorwegen.",
+"Der Fund lag auf den Färöern.",
+"Der Fund lag in Irland."
+],
+"art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Mehr als tausend läge nahe, denn hinter Festungsmauern fühlen sich Belagerte sicher. Doch Bernhard von Sachsen-Weimar belagerte Breisach monatelang; Hunger und Pest töteten fast alle. Nur etwa 150 Bewohner überlebten. Richtig war 3.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Breisach_am_Rhein",
+"rueckseite": "Du hattest [Option] getippt. Der Name Sandur klingt nordisch, und Gotland ist für Wikingerschätze bekannt. Gefunden wurde die Breisacher Münze aber auf den Färöern; sie belegt Handelsbeziehungen der Stadt. Für einen Ort am Rhein ist das ein weiter Weg: Breisacher Geld gelangte bis zu Inseln im Nordatlantik. Richtig war 3.",
+"quelle": "Art unbekannt (Fakt 70-breisach/040 ohne QUELLE-Zeile)",
 "faktencheck": "unsicher",
-"id": "70-breisach/v0.8/7",
+"id": "70-breisach/v0.9/8",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Stadtpatrone Gervasius und Protasius",
+"rang": 7,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Breisach",
 "steckbrief": "Stadt mit rund 16.600 Einwohnern, 21 km westlich von Freiburg im Breisgau.",
-"frage": "Was war das Blaue Haus in Breisach, bevor die jüdische Gemeinde es 1829 kaufte?",
+"frage": "Ein Straßburger Goldschmied schuf einen Reliquienschrein für die beiden Breisacher Stadtpatrone. Wer sind sie?",
 "optionen": [
-"Es war eine Gastwirtschaft.",
-"Es war eine Färberei für blaue Stoffe.",
-"Es war die Wache der Festungssoldaten.",
-"Es war ein Kornspeicher der Stadt."
+"Die Stadtpatrone sind Gervasius und Protasius.",
+"Die Stadtpatrone sind Stephanus und Laurentius.",
+"Die Stadtpatrone sind Felix und Regula.",
+"Die Stadtpatrone sind Cosmas und Damian."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Der Name lässt an eine Färberei denken, die mit blauer Farbe arbeitete. Das Haus war aber rund 140 Jahre lang eine Gastwirtschaft. 1829 kaufte die jüdische Gemeinde es als Schulhaus. Heute ist es ein Ort des Gedenkens und Lernens zur jüdischen Geschichte. Richtig war 1.",
-"quelle": "Stadt Breisach, stadt.breisach.de/de/kultur/sehenswuerdigkeiten/das_blaue_haus",
-"faktencheck": "korrigiert",
-"id": "70-breisach/v0.8/8",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Breisach",
-"steckbrief": "Stadt mit rund 16.600 Einwohnern, 21 km westlich von Freiburg im Breisgau.",
-"frage": "1703 ergab sich Breisach nach kurzer Belagerung einem französischen Heer. Was geschah danach mit dem Festungskommandanten?",
-"optionen": [
-"Er trat in französische Dienste über.",
-"Er wurde für seine Verteidigung ausgezeichnet.",
-"Er zog sich auf seine Güter zurück.",
-"Ein Kriegsgericht verurteilte ihn, er wurde hingerichtet."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Eine Auszeichnung läge nahe, denn Verteidiger einer Festung galten oft als Helden. Doch ein Kriegsgericht verurteilte den Kommandanten Graf Philipp von Arco zum Tode; er wurde 1704 in Bregenz enthauptet. Richtig war 4.",
-"quelle": "Neue Deutsche Biographie, deutsche-biographie.de/sfz1182.html",
-"faktencheck": "korrigiert",
-"id": "70-breisach/v0.8/9",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Breisach",
-"steckbrief": "Stadt mit rund 16.600 Einwohnern, 21 km westlich von Freiburg im Breisgau.",
-"frage": "Woher stammt der Name Breisach?",
-"optionen": [
-"Er stammt aus dem Keltischen.",
-"Er ist deutsch und bedeutet „breite Ach“, also breites Wasser.",
-"Er stammt von einem fränkischen Königshof.",
-"Er erinnert an einen alemannischen Heerführer."
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. „Breit“ und „Ach“ für Wasser liegen nahe, denn Breisach liegt am Rhein. Der Name ist aber keltisch und schon 369 als „Brisiacus“ belegt. Gedeutet wird er als „Wasserbrecher“ für den Felsen im Rhein oder als Landgut eines Brîsios. Richtig war 1.",
-"quelle": "Stadt Breisach, stadt.breisach.de/de/stadtinfo/zahlen_daten_fakten/geschichte",
-"faktencheck": "korrigiert",
-"id": "70-breisach/v0.8/10",
+"rueckseite": "Du hattest [Option] getippt. Stephanus liegt nahe, denn nach ihm heißt das Breisacher Münster. Stadtpatrone sind aber Gervasius und Protasius; ihren Reliquienschrein schuf der Straßburger Goldschmied Peter Berlin. Zwei Heilige, die außerhalb kaum jemand kennt, als Schutzpatrone einer Stadt mit gut 16.600 Einwohnern: Das gibt Breisach neben seinem Münster eine eigene Note. Richtig war 1.",
+"quelle": "Art unbekannt (Fakt 70-breisach/002 ohne QUELLE-Zeile); OpenStreetMap",
+"faktencheck": "bestätigt",
+"id": "70-breisach/v0.9/9",
 "tisch": false
 }
 ],
-"anschluss_von": "69-ihringen",
-"anschluss": [
-"Breisach hat gut zweieinhalbmal so viele Einwohner wie Ihringen.",
-"Breisach ist eine Stadt, Ihringen eine Gemeinde; beide bilden eine Verwaltungsgemeinschaft."
-],
+"anschluss_von": "467-vogtsburg",
+"anschluss": [],
 "anschluesse": {
 "389-merzhausen": [
 "Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Breisach die CDU.",
@@ -18065,7 +19132,237 @@ window.QA_DATEN = {
 },
 "ags": "08315015",
 "ortsteil": false,
-"km_vom_vorigen": 5.3
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Stadt am Rhein, 21 km westlich von Freiburg, rund 16.600 Einwohner auf knapp 55 Quadratkilometern, mit Eckartsberg."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Festungsstadt, belagert 1638, 1703 und 1793, 1945 zu 85 Prozent zerstört; jüdische Gemeinde 1940 nach Gurs deportiert."
+},
+{
+"facette": "ALLTAG",
+"text": "Betriebe wie Südglas, ein Betonwerk und Thoman Biegemaschinen, dazu der Weinhof Oberrimsingen und rund 130 Vereine."
+},
+{
+"facette": "FREIZEIT",
+"text": "Münster St. Stephan, Freilichtbühne der Festspiele, Museum für Stadtgeschichte, Waldschwimmbad, Rheinaueweg und Burgunderpfad."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof Breisach, Helios-Rosmann-Klinik, Gewerbeschule; Partnerstädte Neuf-Brisach, Saint-Louis, Pürgg-Trautenfels und Oświęcim."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU 30,3 Prozent vor AfD 18,4 Prozent, Wahlbeteiligung 82,3 Prozent, knapp unter Landesschnitt."
+}
+],
+"km_vom_vorigen": 7.7
+},
+{
+"slug": "466-guendlingen",
+"name": "Gündlingen",
+"lat": 48.0164,
+"lon": 7.64083,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "jahrhundertelang Dorf des Johanniterordens",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gündlingen",
+"steckbrief": "Rund 1.800 Einwohner, Stadtteil von Breisach am Rhein, 16 km westlich von Freiburg im Breisgau.",
+"frage": "Über fünfhundert Jahre, bis 1805, hatte Gündlingen denselben Herrn. Wer war es?",
+"optionen": [
+"Das Dorf gehörte dem Bischof von Straßburg.",
+"Das Dorf gehörte dem Deutschen Orden.",
+"Das Dorf gehörte dem Johanniterorden.",
+"Das Dorf gehörte zu Württemberg."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Deutsche Orden liegt nahe, denn auch er war ein Ritterorden mit Besitz im Südwesten. Doch die Markgrafen von Baden-Hachberg übertrugen Gündlingen dem Johanniterorden; das Dorf gehörte zur Johanniterkommende Heitersheim und kam erst danach an Baden. Gündlingen war damit jahrhundertelang ein Ordensdorf, ehe es badisch wurde. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.tourismus.breisach.de/ort/breisach-guendlingen-82f9a565b5",
+"faktencheck": "bestätigt",
+"id": "466-guendlingen/v0.9/1",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Bockbierfest statt Weinfest",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gündlingen",
+"steckbrief": "Rund 1.800 Einwohner, Stadtteil von Breisach am Rhein, 16 km westlich von Freiburg im Breisgau.",
+"frage": "Gündlingen liegt zwischen Kaiserstuhl und Tuniberg, zwei Rebgebieten. Welches traditionelle Dorffest nennt die Stadt Breisach für Gündlingen?",
+"optionen": [
+"Die Stadt nennt ein Weinfest.",
+"Die Stadt nennt ein Zwiebelkuchenfest.",
+"Die Stadt nennt ein Kürbisfest.",
+"Die Stadt nennt ein Bockbierfest."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Das Weinfest liegt nahe, denn Kaiserstuhl und Tuniberg sind bekannte Weinbaugebiete. Die Stadt Breisach nennt für Gündlingen aber das Bockbierfest, ein Fest mit Bockbier, einem besonders starken Bier. Laut Stadt hat jeder Breisacher Stadtteil sein eigenes traditionelles Dorffest. Gündlingen setzt so am Rand des Weinlands einen eigenen Akzent. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.tourismus.breisach.de/vielfalt/breisacher-stadtteile",
+"faktencheck": "korrigiert",
+"id": "466-guendlingen/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Dorf zwischen Kaiserstuhl und Tuniberg",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gündlingen",
+"steckbrief": "Rund 1.800 Einwohner, Stadtteil von Breisach am Rhein, 16 km westlich von Freiburg im Breisgau.",
+"frage": "Die Stadt Breisach beschreibt Gündlingen als lebenswertes Dorf zwischen zwei Höhen. Zwischen welchen?",
+"optionen": [
+"Zwischen Kaiserstuhl und Tuniberg.",
+"Zwischen Tuniberg und Schwarzwald.",
+"Zwischen Blauen und Belchen.",
+"Zwischen Kaiserstuhl und Feldberg."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Schwarzwald liegt nahe, weil er die Rheinebene im Osten begrenzt. Die Stadt Breisach beschreibt Gündlingen aber als lebenswertes Dorf zwischen Kaiserstuhl und Tuniberg. Wer vorbeifährt, hat also zwei Rebhöhen vor Augen: den Kaiserstuhl und den Tuniberg. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.tourismus.breisach.de/ort/breisach-guendlingen-82f9a565b5",
+"faktencheck": "korrigiert",
+"id": "466-guendlingen/v0.9/3",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Saatmais, hier „Welschkorn“ genannt",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gündlingen",
+"steckbrief": "Rund 1.800 Einwohner, Stadtteil von Breisach am Rhein, 16 km westlich von Freiburg im Breisgau.",
+"frage": "Laut Stadt Breisach begann in Gündlingen schon im 16. Jahrhundert der Anbau von „Welschkorn“. Was verbirgt sich hinter dem regionalen Namen?",
+"optionen": [
+"Gemeint ist Buchweizen.",
+"Gemeint ist Mais.",
+"Gemeint ist Dinkel.",
+"Gemeint ist Hirse."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Buchweizen liegt nahe, denn auch er kam als fremdes Korn ins Land, und „welsch“ heißt so viel wie fremd. Gemeint ist aber Mais: Die Stadt Breisach nennt den Gündlinger Saatmaisanbau „Welschkorn“, also den Anbau von Mais, der als Saatgut dient. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.tourismus.breisach.de/ort/breisach-guendlingen-82f9a565b5",
+"faktencheck": "korrigiert",
+"id": "466-guendlingen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Namensgeber eines europäischen Schwerttyps",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gündlingen",
+"steckbrief": "Rund 1.800 Einwohner, Stadtteil von Breisach am Rhein, 16 km westlich von Freiburg im Breisgau.",
+"frage": "Ein Fund aus Gündlingen gab einem Typ den Namen, den Archäologen von Britannien bis Skandinavien kennen. Was wurde gefunden?",
+"optionen": [
+"Es war ein Helm aus Bronze.",
+"Es war eine Gewandspange.",
+"Es war ein Schwert.",
+"Es war ein Tongefäß."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Gewandspange liegt nahe, weil Archäologen viele Typen nach Schmuckfunden benennen. Gefunden wurde aber ein Schwert: 1885 kam es in einem Grabhügel im Brandholz zutage. Nach ihm heißt ein Schwerttyp der frühen Hallstattzeit, den man von Britannien bis Skandinavien kennt. So ist der Dorfname weit über den Breisgau hinaus ein Begriff, zumindest unter Archäologen. Richtig war 3.",
+"quelle": "Badisches Landesmuseum, data.landesmuseum.de/id/baedd53a-c504-4ffe-891d-7e178c5c7e11; Suffolk HER, MSF21038",
+"faktencheck": "korrigiert",
+"id": "466-guendlingen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Dorfladen mit Selbstbedienungskasse",
+"rang": 4,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Gündlingen",
+"steckbrief": "Rund 1.800 Einwohner, Stadtteil von Breisach am Rhein, 16 km westlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"In Gündlingen steht eine Halle namens Malteserhalle.",
+"Im Dorfladen „Tante M“ kassiert eine Verkäuferin.",
+"In Gündlingen gibt es einen eigenen Gemeindesaal."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Verkäuferin klingt nach dem klassischen Tante-Emma-Laden, an den der Name erinnert. Doch „Tante M“ ist ein Selbstbedienungsladen: Wer einkauft, bezahlt an einer Self-Checkout-Kasse. Malteserhalle und Gemeindesaal gibt es dagegen wirklich. Für ein Dorf dieser Größe ist ein eigener Laden keine Selbstverständlichkeit. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.tourismus.breisach.de/attraktion/tante-m-dorfladen-guendlingen-90d948ae91",
+"faktencheck": "bestätigt",
+"id": "466-guendlingen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "knapp 1.800 Einwohner, dörfliche Dichte",
+"rang": 7,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gündlingen",
+"steckbrief": "Stadtteil von Breisach am Rhein mit gut 11 km² Gemarkung, 16 km westlich von Freiburg im Breisgau.",
+"frage": "Wie viele Menschen leben in Gündlingen?",
+"optionen": [
+"unter 2.000",
+"2.000 bis unter 4.000",
+"4.000 bis unter 7.000",
+"7.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer Gündlingen als Stadtteil einer Stadt kennt, schätzt leicht höher. Ende 2021 lebten hier 1.790 Menschen auf gut 11 Quadratkilometern. Das sind rund 160 je Quadratkilometer, eine dörfliche Dichte. Richtig war 1.",
+"quelle": "dewiki Infobox (Einwohner, Stand 2021-12-31); Wikidata P2046 (Fläche)",
+"faktencheck": "bestätigt",
+"id": "466-guendlingen/v0.9/7",
+"tisch": false
+}
+],
+"anschluss_von": "70-breisach",
+"anschluss": [
+"Breisach zählt gut neunmal so viele Einwohner wie Gündlingen.",
+"Gündlingen gehört seit 1972 als Stadtteil zu Breisach."
+],
+"anschluesse": {
+"70-breisach": [
+"Breisach zählt gut neunmal so viele Einwohner wie Gündlingen.",
+"Gündlingen gehört seit 1972 als Stadtteil zu Breisach."
+]
+},
+"ags": "08315015",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Südlich des Kaiserstuhls, etwa drei Kilometer vom Rhein, mit der Möhlin; 16 km westlich von Freiburg."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Seit 854 als Cundininga belegt, bis 1805 Johanniterdorf, seit 1972 Stadtteil von Breisach am Rhein."
+},
+{
+"facette": "ALLTAG",
+"text": "Saatmais, hier Welschkorn genannt, seit dem 16. Jahrhundert; dazu ein Betonwerk und ein Schrott- und Metallbetrieb."
+},
+{
+"facette": "FREIZEIT",
+"text": "Bockbierfest, Sechshöferlhütte, Breisgau-Radwanderweg mit 64 km, Schutzgebiet Zwölferholz-Haid."
+},
+{
+"facette": "INFRA",
+"text": "Rund 1.800 Einwohner auf gut 11 km², Malteserhalle, Gemeindesaal, Selbstbedienungs-Dorfladen „Tante M“, Vorwahl 07668."
+}
+],
+"km_vom_vorigen": 4.7
 },
 {
 "slug": "433-kirchzarten",
@@ -18280,7 +19577,7 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "70-breisach",
+"anschluss_von": "466-guendlingen",
 "anschluss": [],
 "anschluesse": {},
 "ags": "08315064",
@@ -18311,7 +19608,7 @@ window.QA_DATEN = {
 "text": "Bei der Bundestagswahl 2025 lag die CDU mit 29,2 Prozent vor den Grünen mit 25,7 Prozent."
 }
 ],
-"km_vom_vorigen": 28.4
+"km_vom_vorigen": 23.7
 },
 {
 "slug": "71-stegen",
@@ -33018,207 +34315,240 @@ window.QA_DATEN = {
 "lon": 7.84917,
 "karten": [
 {
-"familie": "A",
+"facette": "FREIZEIT",
+"charakteristikum": "Theaterbühne in einem alten Steinbruch",
+"rang": 5,
+"familie": "D",
 "sorte": "Geschichte",
 "ort": "Emmendingen",
-"steckbrief": "Stadt mit rund 29.500 Einwohnern, 14 km nördlich von Freiburg.",
-"frage": "In der Nähe von Emmendingen gründeten Mönche im 12. Jahrhundert ein Kloster. Woher kamen sie?",
+"steckbrief": "Stadt mit knapp 30.000 Einwohnern an der Elz, 14 km nördlich von Freiburg im Breisgau.",
+"frage": "Welche dieser vier Freizeitstätten gibt es in Emmendingen?",
 "optionen": [
-"Aus dem Elsass",
-"Aus der Schweiz",
-"Aus Oberbayern",
-"Aus dem Schwarzwald"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Das Kloster Tennenbach wurde von Zisterziensern aus Kloster Frienisberg im Kanton Bern gegründet. Die Schweizer Herkunft überrascht, doch Zisterzienserklöster gründeten oft Tochterhäuser in der Ferne. Nach der Säkularisation wurde das Kloster aufgelöst. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte",
-"faktencheck": "bestätigt",
-"id": "11-emmendingen/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Emmendingen",
-"steckbrief": "Große Kreisstadt im Breisgau, 14 km nördlich von Freiburg.",
-"frage": "Wie viele Einwohner hat Emmendingen?",
-"optionen": [
-"Unter 15.000",
-"15.000 bis unter 25.000",
-"25.000 bis unter 35.000",
-"35.000 bis unter 50.000"
+"Eine Sommerrodelbahn am Stadtrand",
+"Ein Tierpark mit heimischen Wildtieren",
+"Eine Theaterbühne in einem alten Steinbruch",
+"Eine Eissporthalle für Schlittschuhläufer"
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Als Große Kreisstadt und Sitz der Kreisverwaltung hat Emmendingen rund 29.500 Einwohner. Die Nähe zu Freiburg macht die Stadt größer, als mancher vermutet. Richtig war 3.",
-"quelle": "Wikidata P1082, Stand 2025-12-31",
-"faktencheck": "bestätigt",
-"id": "11-emmendingen/v0.8/2",
+"rueckseite": "Du hattest [Option] getippt. Das Theater im Steinbruch spielt in einem ehemaligen Steinbruch hinter der stillgelegten Schuhfabrik Maja. Rodelbahn, Tierpark oder Eishalle lägen am Rand des Schwarzwalds nahe, doch Emmendingen hat stattdessen Sommertheater für Erwachsene und Kinder. Für eine Stadt mit knapp 30.000 Einwohnern ist eine eigene Steinbruchbühne ungewöhnlich; sie gehört dem Verband Deutscher Freilichtbühnen an. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.emmendingen.de/kultur-freizeit/kultureinrichtungen; OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "11-emmendingen/v0.9/1",
 "tisch": false
 },
 {
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Emmendingen",
-"steckbrief": "Stadt mit rund 29.500 Einwohnern, 14 km nördlich von Freiburg.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Die Hochburg wurde im Dreißigjährigen Krieg zerstört.",
-"Die Stadt erhielt im Jahr 1590 das Stadtrecht.",
-"Der Bahnhof wurde im Jahr 1845 eröffnet."
-],
-"art": "luege",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Die Befestigungsanlagen der Hochburg wurden im Pfälzer Erbfolgekrieg zerstört, nicht im Dreißigjährigen Krieg. Der Dreißigjährige Krieg verwüstete zwar Emmendingen schwer, doch die Burg überstand ihn. Die Lüge war 1.",
-"quelle": "Gemeinde-Webseite, www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte",
-"faktencheck": "bestätigt",
-"id": "11-emmendingen/v0.8/3",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Emmendingen",
-"steckbrief": "Stadt mit rund 29.500 Einwohnern, 14 km nördlich von Freiburg.",
-"frage": "Welche Partei erreichte bei der Bundestagswahl 2025 in Emmendingen die zweitmeisten Zweitstimmen?",
-"optionen": [
-"GRÜNE",
-"SPD",
-"AfD",
-"Die Linke"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Die GRÜNEN kamen auf 18,8 Prozent der Zweitstimmen, knapp vor der SPD mit 18,5 Prozent. Stärkste Partei war die CDU. In der Nähe zu Freiburg schneiden die GRÜNEN traditionell stark ab. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "11-emmendingen/v0.8/4",
-"tisch": false
-},
-{
+"facette": "GESCHICHTE",
+"charakteristikum": "Goethes Schwager als Oberamtmann",
+"rang": 1,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Emmendingen",
-"steckbrief": "Große Kreisstadt, 14 km nördlich von Freiburg im Breisgau.",
-"frage": "Welche Verbindung hatte Johann Wolfgang von Goethe zu Emmendingen?",
+"steckbrief": "Große Kreisstadt mit knapp 30.000 Einwohnern, 14 km nördlich von Freiburg im Breisgau.",
+"frage": "Johann Wolfgang von Goethe kam 1775 und 1779 nach Emmendingen. Bei wem war er zu Gast?",
 "optionen": [
-"Er erholte sich hier von einer Krankheit",
-"Seine Schwester lebte und starb hier",
-"Er suchte hier Stoff für ein Theaterstück",
-"Er leitete hier den Straßenbau"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Goethes Schwester Cornelia war mit dem Oberamtmann Johann Georg Schlosser verheiratet und lebte in Emmendingen. Goethe besuchte sie dort. Emmendingen war weder Kurort noch Schauplatz seiner Werke; der Bezug war rein familiär. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte",
-"faktencheck": "bestätigt",
-"id": "11-emmendingen/v0.8/5",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Emmendingen",
-"steckbrief": "Stadt mit rund 29.500 Einwohnern, 14 km nördlich von Freiburg.",
-"frage": "Zu welchem Landkreis gehört Emmendingen?",
-"optionen": [
-"Breisgau-Hochschwarzwald",
-"Ortenaukreis",
-"Emmendingen",
-"Lörrach"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Emmendingen ist Kreisstadt und gibt dem Landkreis seinen Namen. Wer die Stadt nahe Freiburg verortet, tippt vielleicht auf Breisgau-Hochschwarzwald, doch Emmendingen hat einen eigenen Landkreis. Richtig war 3.",
-"quelle": "dewiki Infobox",
-"faktencheck": "bestätigt",
-"id": "11-emmendingen/v0.8/6",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Emmendingen",
-"steckbrief": "Stadt im Breisgau, rund 29.500 Einwohner, 14 km nördlich von Freiburg.",
-"frage": "Welche besondere Sammlung beherbergt das Alte Rathaus von Emmendingen?",
-"optionen": [
-"Schwarzwälder Kuckucksuhren",
-"Alemannische Fastnachtsmasken",
-"Historische Weinpressen",
-"Tagebücher und Lebenserinnerungen"
+"Er war Gast eines Verlegers der Stadt.",
+"Er war Gast eines Weinhändlers der Altstadt.",
+"Er war Gast des Direktors der Heilanstalt.",
+"Er war Gast seines Schwagers, des Oberamtmanns."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Im Alten Rathaus sitzt das Deutsche Tagebucharchiv, das Tagebücher, Lebenserinnerungen und Briefwechsel sammelt. Die Nähe zum Schwarzwald legt Kuckucksuhren nahe, doch die stehen in Furtwangen. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte",
-"faktencheck": "bestätigt",
-"id": "11-emmendingen/v0.8/7",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Emmendingen",
-"steckbrief": "Stadt mit rund 29.500 Einwohnern, 14 km nördlich von Freiburg.",
-"frage": "Carl Friedrich Meerwein, Landbaumeister in Emmendingen, veröffentlichte 1784 eine ungewöhnliche Schrift. Worüber?",
-"optionen": [
-"Über unterirdische Wasservorkommen",
-"Über essbare Wildpflanzen der Region",
-"Über den Bau einer Flugmaschine",
-"Über die Vermessung des Schwarzwalds"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Meerwein entwarf ein Flugmodell und berechnete, wie ein Mensch fliegen könnte. Sein Titel: „Der Mensch! sollte der nicht auch mit Fähigkeiten zum Fliegen geboren sein?\" Für einen Landbaumeister ein überraschender Gegenstand. Richtig war 3.",
+"rueckseite": "Du hattest [Option] getippt. Goethes Schwester Cornelia war mit Johann Georg Schlosser verheiratet, der als Oberamtmann von Emmendingen aus die Markgrafschaft verwaltete. Ein Verleger oder Weinhändler liegt bei einem reisenden Dichter nahe, doch Schlosser machte sein Haus zum Treffpunkt junger Schriftsteller; auch Jakob Michael Reinhold Lenz kam. Das Stadtmuseum erinnert heute an die Sturm-und-Drang-Dichter. Richtig war 4.",
 "quelle": "Gemeinde-Webseite, www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte",
 "faktencheck": "korrigiert",
-"id": "11-emmendingen/v0.8/8",
+"id": "11-emmendingen/v0.9/2",
 "tisch": false
 },
 {
-"familie": "A",
+"facette": "FREIZEIT",
+"charakteristikum": "Museum eines alten Fotohauses",
+"rang": 9,
+"familie": "D",
 "sorte": "Geschichte",
 "ort": "Emmendingen",
-"steckbrief": "Stadt im Breisgau, rund 29.500 Einwohner, 14 km nördlich von Freiburg.",
-"frage": "Der Stadtgründer Emmendingens, Markgraf Jakob III., starb 1590 im Alter von 28 Jahren. Was gilt als vermutliche Todesursache?",
+"steckbrief": "Kreisstadt mit knapp 30.000 Einwohnern, 14 km nördlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Museen gibt es in Emmendingen?",
 "optionen": [
-"Arsenvergiftung",
-"Pest",
-"Reitunfall",
-"Duell"
+"Ein Museum über ein altes Fotohaus",
+"Ein Museum für Schwarzwälder Uhren",
+"Ein Museum für historisches Spielzeug",
+"Ein Museum für Oldtimer-Autos"
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Markgraf Jakob III. starb vermutlich an einer Arsenvergiftung. Im selben Jahr hatte er noch ein Religionsgespräch veranstaltet und war zum katholischen Glauben übergetreten. Die Pest hätte ins Jahrhundert gepasst, trifft hier aber nicht zu. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte",
-"faktencheck": "bestätigt",
-"id": "11-emmendingen/v0.8/9",
+"rueckseite": "Du hattest [Option] getippt. Das Fotomuseum Hirsmüller zeigt die Firmen- und Familiengeschichte eines Emmendinger Fotohauses: Atelier, Labor, Betriebsräume und Teile des Ladengeschäfts mit historischen Originalobjekten. Ein Uhrenmuseum läge am Rand des Schwarzwalds näher, doch hier steht ein Fotogeschäft im Mittelpunkt. Es liegt im Markgrafenschloss, ein Stockwerk über dem Stadtmuseum. Für eine Stadt mit knapp 30.000 Einwohnern ist ein eigenes Museum für ein Fotohaus ungewöhnlich. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.emmendingen.de/kultur-freizeit/kultureinrichtungen; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "11-emmendingen/v0.9/3",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "Ortschaft mit dem Namen Wasser",
+"rang": 8,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Emmendingen",
-"steckbrief": "Große Kreisstadt, 14 km nördlich von Freiburg im Breisgau.",
-"frage": "Im Mühlburger Krieg wurde Emmendingen 1424 vollständig zerstört. Wer griff die Stadt an?",
+"steckbrief": "Stadt mit knapp 30.000 Einwohnern, 14 km nördlich von Freiburg im Breisgau.",
+"frage": "Zu Emmendingen gehören fünf eingemeindete Ortschaften. Welche dieser vier ist eine davon?",
 "optionen": [
-"Raubritter aus dem Schwarzwald",
-"Eine Allianz oberrheinischer Städte",
-"Söldner des französischen Königs",
-"Der Herzog von Württemberg"
+"Die Ortschaft Sexau gehört zu Emmendingen.",
+"Die Ortschaft Wasser gehört zu Emmendingen.",
+"Die Ortschaft Malterdingen gehört zu Emmendingen.",
+"Die Ortschaft Freiamt gehört zu Emmendingen."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Eine Allianz mehrerer oberrheinischer Städte, darunter Basel und Straßburg, nahm Emmendingen ein und zerstörte es. Der Name „Mühlburger Krieg\" klingt nach einer einzelnen Burg, doch es war ein größerer Konflikt. Richtig war 2.",
+"rueckseite": "Du hattest [Option] getippt. Wasser klingt erfunden, ist aber eine der Ortschaften, neben Kollmarsreute, Mundingen, Windenreute und Maleck. Sexau, Malterdingen und Freiamt gehören mit Emmendingen zu einer Verwaltungsgemeinschaft, darum wirken sie vertraut, sind aber eigene Gemeinden. Die meisten der knapp 30.000 Einwohner leben in der Kernstadt; die Ortschaften sind deutlich kleiner. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.emmendingen.de/stadt-emmendingen/stadtinformationen/zahlen-daten-fakten",
+"faktencheck": "bestätigt",
+"id": "11-emmendingen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "psychiatrisches Fachkrankenhaus mit dunkler Geschichte",
+"rang": 6,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Emmendingen",
+"steckbrief": "Kreisstadt mit knapp 30.000 Einwohnern, 14 km nördlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge gibt es in Emmendingen?",
+"optionen": [
+"Ein Thermalbad mit Kurbetrieb",
+"Eine eigene Bierbrauerei",
+"Ein psychiatrisches Fachkrankenhaus",
+"Ein Besucherbergwerk"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das Zentrum für Psychiatrie entstand als Heil- und Pflegeanstalt und ist heute ein modernes psychiatrisches Fachkrankenhaus. Ein Thermalbad läge im bäderreichen Baden näher. Zur Geschichte der Anstalt gehört, dass die Nationalsozialisten viele ihrer Patienten ermordeten. Für eine Kreisstadt mit knapp 30.000 Einwohnern ist ein eigenes psychiatrisches Fachkrankenhaus neben dem Kreiskrankenhaus bemerkenswert. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte; OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "11-emmendingen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Stadtgründer-Markgraf im Stadtwappen",
+"rang": 7,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Emmendingen",
+"steckbrief": "Stadt mit knapp 30.000 Einwohnern, 14 km nördlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Stadtwappen zeigt den heiligen Martin.",
+"Ein Markgraf verlieh Emmendingen das Stadtrecht.",
+"Nach dem Emmendinger Religionsgespräch wurde der Markgraf katholisch."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der geharnischte Mann mit Schwert und Zepter im Stadtwappen ist Markgraf Jakob III. von Baden-Hachberg, der Emmendingen das Stadtrecht verlieh. Der heilige Martin liegt nahe, weil Heilige oft Stadtwappen zieren. Jakob hatte das Emmendinger Religionsgespräch selbst veranlasst und trat wenige Wochen danach zum katholischen Glauben über. Vorlage des Wappens ist das Siegel der Stadtrechtsurkunde. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "11-emmendingen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Ort aus dem Hochmittelalter",
+"rang": 10,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Emmendingen",
+"steckbrief": "Große Kreisstadt mit knapp 30.000 Einwohnern, 14 km nördlich von Freiburg im Breisgau.",
+"frage": "Namen auf -ingen gelten als alt. Wann ist Emmendingen erstmals urkundlich belegt?",
+"optionen": [
+"vor 1100",
+"1100 bis vor 1250",
+"1250 bis vor 1400",
+"ab 1400"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der erste Beleg stammt von 1094. Viele schätzen später, weil Emmendingen erst lange danach Stadt wurde; der Ort ist deutlich älter als seine Stadtrechte. Die heutige Kreisstadt mit knapp 30.000 Einwohnern reicht damit bis ins Hochmittelalter zurück; das Stadtmuseum erzählt ihre Geschichte ab diesem Jahr. Richtig war 1.",
+"quelle": "dewiki, Extraktion Schicht 1 (Ortsblock)",
+"faktencheck": "bestätigt",
+"id": "11-emmendingen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Hochburg, eine der größten Burgruinen",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Emmendingen",
+"steckbrief": "Stadt mit knapp 30.000 Einwohnern, 14 km nördlich von Freiburg im Breisgau.",
+"frage": "Zu Emmendingen gehört die Ruine der Hochburg. Wie kam die Burg an die Markgrafen von Baden?",
+"optionen": [
+"Ein badischer Markgraf erbte sie durch Heirat.",
+"Baden eroberte sie nach langer Belagerung.",
+"Baden ertauschte sie gegen ein anderes Amt.",
+"Ein Markgraf von Hachberg verkaufte sie."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Markgraf Otto II. von Hachberg verkaufte Burg und Herrschaft Hachberg an Markgraf Bernhard I. von Baden. Heirat oder Eroberung liegen bei Burgen nahe, doch die Burg wurde schlicht verkauft. 1689 musste sie an die Franzosen übergeben werden, danach wurden die Befestigungen gesprengt. Im ehemaligen Wein- und Vorratskeller der Oberburg zeigt heute ein Museum Fundstücke. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "11-emmendingen/v0.9/8",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Faserriese mit bis zu 3.000 Beschäftigten",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Emmendingen",
+"steckbrief": "Kreisstadt mit knapp 30.000 Einwohnern, 14 km nördlich von Freiburg im Breisgau.",
+"frage": "Ein Emmendinger Industriebetrieb hatte zeitweise bis zu 3.000 Mitarbeiter. Woraus ist er hervorgegangen?",
+"optionen": [
+"Er ging aus einer Papierfabrik hervor.",
+"Er ging aus einer Hanfspinnerei hervor.",
+"Er ging aus einer Zigarrenfabrik hervor.",
+"Er ging aus einer Uhrenwerkstatt hervor."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Aus der Mechanischen Hanfspinnerei wurde die Erste Deutsche Ramie-Gesellschaft; Ramie ist eine Pflanzenfaser aus der Familie der Brennnesseln. Eine Papierfabrik liegt nahe, denn auch die Papierfabrik Sonntag gehört zur Industriegeschichte der Stadt. Für eine Stadt mit heute knapp 30.000 Einwohnern war das ein riesiger Arbeitgeber; inzwischen ist der Betrieb geschlossen. Richtig war 2.",
 "quelle": "Gemeinde-Webseite, www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte",
 "faktencheck": "bestätigt",
-"id": "11-emmendingen/v0.8/10",
+"id": "11-emmendingen/v0.9/9",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Deutsches Tagebucharchiv im Alten Rathaus",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Emmendingen",
+"steckbrief": "Stadt mit knapp 30.000 Einwohnern, 14 km nördlich von Freiburg im Breisgau.",
+"frage": "Im Alten Rathaus von Emmendingen sitzt ein Archiv, das die Stadt einzigartig in Deutschland nennt. Was sammelt es?",
+"optionen": [
+"Es sammelt Masken der alemannischen Fasnet.",
+"Es sammelt Kochrezepte aus badischen Familien.",
+"Es sammelt Tagebücher, Lebenserinnerungen und Briefe.",
+"Es sammelt Texte alter Volkslieder."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das Deutsche Tagebucharchiv sammelt Tagebücher, Lebenserinnerungen und Briefwechsel und zeigt so Geschichte in Tagebüchern; inzwischen gehört auch ein Museum dazu. Fasnetsmasken lägen nahe, denn die Emmendinger Fasnet ist tief verwurzelt. Dass ausgerechnet eine Stadt mit knapp 30.000 Einwohnern das Deutsche Tagebucharchiv beherbergt, ist bemerkenswert. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "11-emmendingen/v0.9/10",
 "tisch": false
 }
 ],
 "anschluss_von": "95-starzach",
-"anschluss": [],
+"anschluss": [
+"Emmendingen hat fast siebenmal so viele Einwohner wie Starzach.",
+"Starzach liegt gut 300 Meter höher als Emmendingen."
+],
 "anschluesse": {
 "387-ebnet": [
 "Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Emmendingen zum Landkreis Emmendingen.",
@@ -33305,10 +34635,40 @@ window.QA_DATEN = {
 "12-herbolzheim": [
 "Emmendingen hat gut zweieinhalbmal so viele Einwohner wie Herbolzheim.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Herbolzheim die AfD, in Emmendingen die Grünen."
+],
+"95-starzach": [
+"Emmendingen hat fast siebenmal so viele Einwohner wie Starzach.",
+"Starzach liegt gut 300 Meter höher als Emmendingen."
 ]
 },
 "ags": "08316011",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Kreisstadt an der Elz, 14 km nördlich von Freiburg, rund 200 Meter hoch; Eichberg 369 Meter, Naturpark Südschwarzwald."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 1094 erwähnt, Stadtrecht 1590 durch Markgraf Jakob III., darüber die Ruine der Hochburg, Alte Synagoge."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 29.500 Einwohner auf knapp 34 km²; Betriebe wie Fischer-Werke, Wehrle-Werk und Messmer Pen; Wochenmarkt am Marktplatz."
+},
+{
+"facette": "FREIZEIT",
+"text": "Freibad Über der Elz, Jüdisches Museum, Hochburgmuseum, Vierburgenweg, Elzdamm-Radweg; Fasnet, Breisgauer Weinfest und Hochburgfest."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof an der Strecke Mannheim–Basel, Haltepunkte Kollmarsreute und Teningen-Mundingen; Kreiskrankenhaus und Zentrum für Psychiatrie."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU vorn mit 25,6 Prozent vor Grünen und SPD, Wahlbeteiligung 82,4 Prozent."
+}
+],
 "km_vom_vorigen": 79.3
 },
 {

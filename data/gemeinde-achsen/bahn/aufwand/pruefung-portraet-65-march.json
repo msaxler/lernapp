@@ -1,0 +1,50 @@
+{
+ "stufe": "pruefung-portraet",
+ "ort": "65-march",
+ "prompt": "prompt-pruefung-v0.2.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 103023,
+ "token_ein": 76485,
+ "token_aus": 11373,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 69581,
+  "cache_read_input_tokens": 6902,
+  "output_tokens": 11373,
+  "output_tokens_details": {
+   "thinking_tokens": 7248
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 69581,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 11373,
+    "cache_read_input_tokens": 6902,
+    "cache_creation_input_tokens": 69581,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 69581
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.7854964,
+ "sekunden": 102,
+ "fehler": false,
+ "zeit": "2026-10-20T15:33:55"
+}

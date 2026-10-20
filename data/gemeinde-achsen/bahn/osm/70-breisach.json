@@ -1,0 +1,719 @@
+{
+ "ort": "70-breisach",
+ "gebiet": "Gemeindegrenze",
+ "kategorien": {
+  "Betrieb": [
+   {
+    "name": "BBV Breisacher Bauschutt Verwertungs-GmbH",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "man_made": "works"
+    }
+   },
+   {
+    "name": "Südglas",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "man_made": "works"
+    }
+   },
+   {
+    "name": "MSW Schrott und Metall",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "industrial"
+    }
+   },
+   {
+    "name": "Betonwerk Müller",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "industrial"
+    }
+   },
+   {
+    "name": "Thoman Biegemaschinen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "industrial",
+     "man_made": "works"
+    }
+   },
+   {
+    "name": "H+H Deutschland GmbH",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "industrial"
+    }
+   },
+   {
+    "name": "Joos Umwelttechnik",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "industrial"
+    }
+   },
+   {
+    "name": "Klärwerk Breisach am Rhein",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "industrial",
+     "man_made": "wastewater_plant"
+    }
+   }
+  ],
+  "Gipfel": [
+   {
+    "name": "Eckartsberg",
+    "zusatz": "236 m",
+    "wikipedia": "de:Eckartsberg (Breisach am Rhein)",
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   }
+  ],
+  "Kultur": [
+   {
+    "name": "Freilichtbühne - Festspiele Breisach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.festspiele-breisach.de/",
+    "tags": {
+     "amenity": "theatre"
+    }
+   },
+   {
+    "name": "Engel-Lichtspiele",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.kino-breisach.de",
+    "tags": {
+     "amenity": "cinema"
+    }
+   },
+   {
+    "name": "Kleinkunstbühne Schloss Rimsingen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.hosp.de/",
+    "tags": {
+     "amenity": "theatre"
+    }
+   }
+  ],
+  "Aussicht": [
+   {
+    "name": "Attilafelsen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "viewpoint"
+    }
+   }
+  ],
+  "Freizeit": [
+   {
+    "name": "Segel - Club - \"Nautic\" Breisach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.scnbreisach.de/",
+    "tags": {
+     "leisure": "marina"
+    }
+   },
+   {
+    "name": "Motorboot & Yachtclub Breisach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.myc-breisach.de/",
+    "tags": {
+     "leisure": "marina"
+    }
+   },
+   {
+    "name": "Sechshöferlhütte",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "attraction"
+    }
+   },
+   {
+    "name": "Sportboothafen-Gemeinschaft Breisach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "marina"
+    }
+   },
+   {
+    "name": "Geisswasser",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "slipway"
+    }
+   },
+   {
+    "name": "Slipanlage Breisach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "slipway"
+    }
+   },
+   {
+    "name": "Tunibergstadion",
+    "zusatz": "soccer",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "stadium",
+     "sport": "soccer"
+    }
+   },
+   {
+    "name": "Breisacher Münster St. Stephan",
+    "zusatz": "",
+    "wikipedia": "de:Breisacher Stephansmünster",
+    "website": "https://www.st-stephan-breisach.de/",
+    "tags": {
+     "amenity": "place_of_worship",
+     "tourism": "attraction"
+    }
+   },
+   {
+    "name": "Minigolf",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "miniature_golf"
+    }
+   },
+   {
+    "name": "Jüdischer Friedhof",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "cemetery",
+     "tourism": "attraction"
+    }
+   },
+   {
+    "name": "Ehem. Spitalkirche St. Martin",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "attraction"
+    }
+   },
+   {
+    "name": "Möhlinstadion",
+    "zusatz": "multi",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "stadium",
+     "sport": "multi"
+    }
+   }
+  ],
+  "Burg/Denkmal": [
+   {
+    "name": "Attila-Denkmal",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Tullaturm",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "monument"
+    }
+   },
+   {
+    "name": "Burg Breisach",
+    "zusatz": "",
+    "wikipedia": "de:Burg Breisach",
+    "website": null,
+    "tags": {
+     "historic": "ruins"
+    }
+   },
+   {
+    "name": "Denkmal am Synagogenplatz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Ehrenmal für die Opfer der Kriege und die Heimkehrer",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   }
+  ],
+  "Sportstätte": [
+   {
+    "name": "Tennisverein Breisach",
+    "zusatz": "tennis",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "tennis"
+    }
+   },
+   {
+    "name": "Malteser-Halle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_hall"
+    }
+   },
+   {
+    "name": "Breisgauhalle",
+    "zusatz": "multi",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_hall",
+     "sport": "multi"
+    }
+   }
+  ],
+  "Bahnhof": [
+   {
+    "name": "Breisach",
+    "zusatz": "",
+    "wikipedia": "de:Bahnhof Breisach",
+    "website": "https://www.bahnhof.de/breisach",
+    "tags": {
+     "railway": "station"
+    }
+   }
+  ],
+  "Museum": [
+   {
+    "name": "Museum für Stadtgeschichte",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "museum"
+    }
+   },
+   {
+    "name": "Blaues Haus",
+    "zusatz": "",
+    "wikipedia": "de:Blaues Haus (Breisach)",
+    "website": null,
+    "tags": {
+     "tourism": "museum"
+    }
+   }
+  ],
+  "Gewässer": [
+   {
+    "name": "Möhlin",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "river"
+    }
+   },
+   {
+    "name": "Seltenbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Krebsbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Blauwasser",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Le Rhin / Rhein",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "river"
+    }
+   },
+   {
+    "name": "Vieux Rhin / Altrhein",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "river"
+    }
+   },
+   {
+    "name": "Vieux Rhin / Rhein",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "river"
+    }
+   },
+   {
+    "name": "Waldschlut",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "river"
+    }
+   },
+   {
+    "name": "Rappennestgießen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "river"
+    }
+   },
+   {
+    "name": "Brunnengraben",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   }
+  ],
+  "Klinik": [
+   {
+    "name": "Helios-Rosmann-Klinik",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.helios-kliniken.de/klinik/breisach.html",
+    "tags": {
+     "amenity": "hospital"
+    }
+   },
+   {
+    "name": "Helios Rosmann Klinik Breisach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.helios-gesundheit.de/standorte-angebote/kliniken/breisach/",
+    "tags": {
+     "amenity": "hospital"
+    }
+   }
+  ],
+  "Brauerei/Winzer": [
+   {
+    "name": "Weinhof Oberrimsingen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "craft": "winery"
+    }
+   }
+  ],
+  "Bildung": [
+   {
+    "name": "Gewerbeschule Breisach, Land- und Baumaschinentechnik",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "college"
+    }
+   }
+  ],
+  "Schutzgebiet": [
+   {
+    "name": "Waldweiher",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {}
+   },
+   {
+    "name": "Hochstetter Feld",
+    "zusatz": "seit 1985",
+    "wikipedia": "de:Liste der Naturschutzgebiete im Landkreis Breisgau-Hochschwarzwald",
+    "website": "https://www2.lubw.baden-wuerttemberg.de/public/abt2/dokablage/oac_12/vo/3/3141.htm",
+    "tags": {}
+   },
+   {
+    "name": "Zwölferholz-Haid",
+    "zusatz": "seit 2017",
+    "wikipedia": "de:Zwölferholz-Haid",
+    "website": "https://rips-dienste.lubw.baden-wuerttemberg.de/rips/ripsservices/apps/naturschutz/schutzgebiete/steckbrief.aspx?id=909001000283",
+    "tags": {
+     "leisure": "nature_reserve"
+    }
+   }
+  ],
+  "Bad": [
+   {
+    "name": "Waldschwimmbad Breisach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "water_park"
+    }
+   }
+  ],
+  "Radweg": [
+   {
+    "name": "Europäischer Radwanderweg Freiburg-Colmar",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Breisgau-Radwanderweg",
+    "zusatz": "64 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Kaiserstuhl-Radwanderweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Tuniberg-Tour",
+    "zusatz": "34.5 km",
+    "wikipedia": null,
+    "website": "http://www.ebike-kaiserstuhl.de/",
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Grüne Straße - Route Verte",
+    "zusatz": "250 km",
+    "wikipedia": null,
+    "website": "http://www.gruene-strasse.de/",
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "EuroVelo 15 - Rheinradweg - Variante Tuniberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Oberrhein Römerradweg",
+    "zusatz": "200 km",
+    "wikipedia": null,
+    "website": "https://www.oberrhein-roemerradweg.de/",
+    "tags": {
+     "route": "bicycle"
+    }
+   }
+  ],
+  "Wanderweg": [
+   {
+    "name": "Querweg Schwarzwald-Kaiserstuhl-Rhein",
+    "zusatz": "",
+    "wikipedia": "de:Schwarzwald-Querweg Schwarzwald–Kaiserstuhl–Rhein",
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Rheinaueweg",
+    "zusatz": "159 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Voie de Breisach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Burgunderpfad",
+    "zusatz": "26.5 km",
+    "wikipedia": null,
+    "website": "https://www.tourismus-bw.de/Media/Touren/Burgunderpfad",
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Jakobsweg Grezhausen - Breisach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.badische-jakobusgesellschaft.de/",
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Badischer Jakobusweg -südlicher Teil-",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.badische-jakobusgesellschaft.de/",
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Möhlinbrücke - Jägerhof",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Jägerhof - Messersgrün",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ziegelfeld - Jägerhof",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Breisach Bahnhof - Möhlinbrücke",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Badischer Winzerkeller - Breisach Bahnhof",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Bahnhof Achkarren - Badischer Winzerkeller",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Badischer Winzerkeller - Winkler Ebene",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Jakobsweg Rottenburg - Thann (2)",
+    "zusatz": "",
+    "wikipedia": "en:Camino de Santiago",
+    "website": "https://www.jakobswege-europa.de/wege/rottenburg-hericourt.htm",
+    "tags": {
+     "route": "hiking"
+    }
+   }
+  ]
+ }
+}

@@ -1,33 +1,25 @@
 ENTITÄT: ort
 BEZEICHNUNG: Teningen
+FACETTE: LAGE | GESCHICHTE | ALLTAG
 QUELLE: https://www.teningen.de/unsere-gemeinde/zahlen+_+fakten | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  gemarkungsgroesse: 4027 [ha]
-  hoehe_rathaus: 188.066 [m ü. d. M.]
-  einwohner_2024: 12945
-  einwohner_weiblich_2024: 6433
-  einwohner_maennlich_2024: 6512
-  religion_katholisch_2024: 3075
-  religion_evangelisch_2024: 4647
-  religion_sonstige_ohne_angaben_2024: 5223
-  siedlungs_verkehrsfläche: 622 [ha]
+  bevölkerung: 12945 [Stand 01.12.2024]
+  bevölkerung_kernort: 6255
+  bevölkerung_köndringen_mit_landeck: 2968
+  bevölkerung_nimburg_mit_bottingen: 2438
+  bevölkerung_heimbach: 1284
+  gemarkungsgröße: 4027 [ha]
+  gemarkungsgröße_kernort: 1604 [ha]
+  gemarkungsgröße_heimbach: 507 [ha]
+  gemarkungsgröße_köndringen: 909 [ha]
+  gemarkungsgröße_nimburg: 1007 [ha]
   waldfläche: 1468 [ha]
+  siedlungs_verkehrsfläche: 622 [ha]
   industriefläche: 75 [ha]
-GUELTIG_AB: 2024
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: ort
-DESIGNNUNG: Teningen
-ORTSTEIL_BEZUG: Kernort Teningen
-QUELLE: https://www.teningen.de/unsere-gemeinde/zahlen+_+fakten | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  gemarkungsgroesse_ortsteil: 1604 [ha]
-  einwohner_2024: 6255
-  waldfläche: 771 [ha]
-GUELTIG_AB: 2024
+  höhenlage_rathaus: 188.066 [m]
+  konfession_evangelisch: 4647 [4647 Personen, 35.9%]
+  konfession_katholisch: 3075 [3075 Personen, 23.8%]
+  konfession_sonstige_ohne: 5223 [5223 Personen, 40.3%]
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 
@@ -36,553 +28,27 @@ VERTRAUEN_EXTRAKTION: 0.95
 ENTITÄT: ort
 BEZEICHNUNG: Heimbach
 ORTSTEIL_BEZUG: Heimbach
-QUELLE: https://www.teningen.de/unsere-gemeinde/zahlen+_+fakten | Gemeinde-Webseite
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://www.teningen.de/unsere-gemeinde/ortsteile+der+gemeinde | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  gemarkungsgroesse_ortsteil: 507 [ha]
-  einwohner_2024: 1284
-  waldfläche: 261 [ha]
-GUELTIG_AB: 2024
-IST_VERMUTUUM_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+  ersterwähnung: 759 [Urkunde Kloster St. Gallen]
+  integration_in_teningen: 1975
+GUELTIG_BIS: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
 ENTITÄT: ort
 BEZEICHNUNG: Köndringen
 ORTSTEIL_BEZUG: Köndringen
-QUELLE: https://www.teningen.de/unsere-gemeinde/zahlen+_+fakten | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  gemarkungsgroesse_ortsteil: 909 [ha]
-  einwohner_mit_landeck_2024: 2968
-  waldfläche: 215 [ha]
-GUELTIG_AB: 2024
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: ort
-BEZEICHNUNG: Nimburg
-ORTSTEIL_BEZUG: Nimburg
-QUELLE: https://www.teningen.de/unsere-gemeinde/zahlen+_+fakten | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  gemarkungsgroesse_ortsteil: 1007 [ha]
-  einwohner_mit_bottingen_2024: 2438
-  waldfläche: 200 [ha]
-GUELTIG_AB: 2024
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: kirche
-BEZEICHNUNG: Evangelische Kirche Teningen
-QUELLE: https://www.teningen.de/leben-und-wohnen/kirchen | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  konfession: evangelisch
-  mittelalterliche_vorgaenger: zwei kirchen bezeugt
-  bauzeit_chor_und_turm: 1450-1500er
-  fresko_markus_mit_loewe: vorhanden
-  wappen_markgrafschaft_baden: vorhanden
-  reformationsgeschichte: evangelisch seit 1556
-  langhaus_erweiterungen: zweimalig nach 30-jaehrigem Krieg
-  renovation_1828: klassischer Stil, Karlsruher Stadtbaumeis Weinbrenner
-  kruzifix: barock
-  orgelprospekt_1801: von Matthias Bürcklin, denkmalgeschützt
-  orgel_1971: 17 Register, aus Bautzen DDR
-  farbfenster_1968: biblische Thematik, H. Uhrig
-  glocken_1774: zwei kleine aus Straßsburg gegossen
-  aussenrenovation_1987: vorhanden
-  adresse: Martin-Luther-Straße 8a, 79331 Teningen
-GUELTIG_AB: 1556
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: kirche
-BEZEICHNUNG: Evangelische Kirche Köndringen
-QUELLE: https://www.teningen.de/leben-und-wohnen/kirchen | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  konfession: evangelisch
-  ortsteil_bezug: Köndringen
-  stil: neugotik
-  turm_hoehe: 60 [m]
-  ist_wahrzeichen: true
-  wahrzeichen_rang: "Wahrzeichen Köndringens"
-  vorgaengerkirche_gotisch: mittelalterlich
-  vorgaengerkirche_abgerissen: 1861
-  neubau_bauzeit: 1861-1865
-  neubau_baumeister: Architekt Arnold
-  neubau_steinarbeiten: Steinhauermeister Köllhofer
-  eingangshalle_erhalten: vom Vorgängerbau
-  turm_zweites_geschoss_erhalten: vom Vorgängerbau
-  figuren_16_jh: 16 Jahrhundert im Kreuzrippengewölbe Eingangshalle
-  orgel_alt: aus Vorgängerbau übernommen
-  orgel_neu_1884: 16 Stimmen, Weigle Stuttgart, "eine der schönsten im Land" damals
-  glocken_weltkrieg_beschlagnahmt: beide Weltkriege
-  glocken_wieder_vollstaendig: seit 1964
-  chorfenster_1945_zerstört: Artilleriefeuer
-  chorfenster_ersetzt_1955: mit Spendengeldern
-  turm_renovation_1974: vorhanden
-  kirche_renovation_1984: vorhanden
-  pfarrhaus_1752: repräsentativ, Initiative Nikolaus Christian Sender
-  adresse: Bahnhofstraße 6, 79331 Teningen
-GUELTIG_AB: 1556
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: kirche
-BEZEICHNUNG: Evangelische Kirche Mundingen-Landeck
-QUELLE: https://www.teningen.de/leben-und-wohnen/kirchen | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  konfession: evangelisch
-  adresse: Dorfstrasse 42, 79312 Emmendingen-Mundingen
-GUELTIG_AB: unbekannt
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.6
-
----
-
-ENTITÄT: kirche
-BEZEICHNUNG: Evangelische Bergkirche Nimburg
-ORTSTEIL_BEZUG: Nimburg
-QUELLE: https://www.teningen.de/leben-und-wohnen/kirchen | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  konfession: evangelisch
-  patrozinium_johannis_taeufter: 1318 bezeugt
-  ecclesia_10_jh: vermutlich vorhanden
-  genauigkeit_10_jh: vermutlich
-  erster_nachweis: 1318
-  antoniterkloster_seit: 1456
-  kirche_bauzeit_antoniter: 1517-1545
-  kirche_bau_grund: ersetzt frühere Kirche, erbaut vom Antoniterorden
-  kirche_ausrichtung_neu: gesüdet
-  kirche_ausrichtung_alt: geosted
-  umbauten_18_jh: Fenster, Emporen verändern spätgotischen Charakter
-  triumphbogen_entfernt: ursprünglich für Antoniter reservierter Chor
-  fresken_entdeckung_1952_54: Jüngstes Gericht, Engel, alt- und neutestamentliche Figuren, Johannes Täufer
-  fresken_antoniterzeit: manche vermutlich, genauigkeit: vermutlich
-  fresken_reformation_uebermalung: um 1680 und 1718
-  orgel_1911: Steinmeyer, 14 klingende Register + 8 Nebenregister
-  orgel_versetzung_1954: auf hintere Empore, überholt
-  turm_umbau_um_1950: Obergeschoss holz durch stein ersetzt, eichener Glockenstuhl für 3 Glocken
-  taufstein_1672: vorhanden, vor Altarstufen
-  adresse: Breisacher Straße 24, 79331 Teningen
-GUELTIG_AB: 1318
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: kirche
-BEZEICHNUNG: Katholische Pfarrkirche St. Gallus
-ORTSTEIL_BEZUG: Heimbach
-QUELLE: https://www.teningen.de/leben-und-wohnen/kirchen | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  konfession: katholisch
-  vorgaengerkirche: gotische Marienkirche
-  vorgaengerkirche_bauzeit: 1747-1777
-  neubau_stil: barock
-  patrozinium_neubau: St. Gallus
-  patrozinium_grund: älteste Heimbacher Pfarrkirche
-  westturm_erhalten: gotischer Westturm teilweise wiederverwendet
-  taufstein_alt: von älterer Kirche, Maßwerkornament, unterhalb Pfarrhaus
-  hochaltar_1776: vermutlich von Joseph Amman (Endingen)
-  genauigkeit_hochaltar: vermutlich
-  altarblatt_1776: von Johann Pfunner (Freiburg)
-  altarblatt_restoration_1975: spätbarockes Werk
-  orgel_1752: vorhanden
-  oelgemaelde_kruzifixus_1650: "Der einsame Kruzifixus", von Schlossherrin 1858 gestiftet
-  oelgemaelde_herkunft: 1650 aus Nürnberg, Seite des Christus durchstochen mit heiliger Lanze
-  oelgemaelde_besonderheit: nur ein weiteres so durchstochenes Großgemälde bekannt in Wien
-  symbolische_bilder_1893: 10 Bilder angebracht
-  symbolische_bilder_entfernt_1953: zugunsten barocken Gewandes
-  orgel_neu_1978: Mönch & Prachtel Überlingen
-  adresse: Zehnthof 1, 79331 Teningen
-GUELTIG_AB: 1747
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: kirche
-BEZEICHNUNG: Katholische Kirche St. Marien
-ORTSTEIL_BEZUG: Köndringen
-QUELLE: https://www.teningen.de/leben-und-wohnen/kirchen | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  konfession: katholisch
-  adresse: Tscheulinstraße 16a, 79331 Teningen
-GUELTIG_AB: unbekannt
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.6
-
----
-
-ENTITÄT: religioese_gemeinschaft
-BEZEICHNUNG: Liebenzeller Gemeinschaft
-ORTSTEIL_BEZUG: Köndringen
-QUELLE: https://www.teningen.de/leben-und-wohnen/kirchen | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  adresse: Am Kindergarten 8, 79331 Teningen
-GUELTIG_AB: unbekannt
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.6
-
----
-
-ENTITÄT: schloss
-BEZEICHNUNG: Altes Schloss Heimbach
-ORTSTEIL_BEZUG: Heimbach
-QUELLE: https://www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  architektur: Staffelgiebel
-  frueheste_datierung: 1578
-  bauherr_urspruenglich: Familie Stürtzel von Buchheim
-  bauherr_grund: Verwaltungssitz
-  nebengebaeude_u_form: ursprünglich zahlreich
-  nebengebaeude_abgetragen: 1804
-  besitzer_1670: Hans Wilhelm von Goll, kaiserlicher Rat
-  besitzer_grund_goll: Verdienste beim Friedensschluss von Münster (30-jähriger Krieg)
-  gemeinde_erwerb: 1978
-  renovation: 1984
-  nutzung_heute: Feuerwehrgerätehaus
-GUELTIG_AB: 1578
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: burgruine
-BEZEICHNUNG: Burgruine Landeck
-ORTSTEIL_BEZUG: Landeck
-QUELLE: https://www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  superlativ: "schönste aller Burgen im Breisgau"
-  struktur: obere und untere Burg durch Graben getrennt
-  baubeginn: um 1250/60
-  bauherr_initial: Walter I. von Geroldseck
-  nachfolgerburg_unsicher: genauigkeit: unsicher
-  unterburg_1279_unsicher: genauigkeit: unsicher
-  umbauten_snewelin: um- und Einbauten 1300 bis 1511
-  charakter_veraenderung: von Wehrbau zu repräsentativem Wohnsitz
-  bauteile: sorgfältig gearbeitete Bauteile aus spätromanik und Frühgotik
-  burgkapelle: gotische Chorbogen, Fenster mit Maßwerk, Kreuzrippengewölbe mit Konsolfiguren
-  palas_unterburg: Reste von Kaminen an Nordwand
-  oberburg: nutzt teilweise Kalkfelsen
-  teilung_1488: Brüder Antony und Bastian teilten Anlage, Burgfriedensvertrag
-  finanzielle_probleme_snewelin: wiederholte Verpfändung
-  verkauf_markgrafen_baden: 1511 und 1538 kauf je eines Teils
-  zerstoerung_bauernkrieg_1525: stark zerstört
-  verfallsgrund: Abtragung und Verfall zur Ruine
-GUELTIG_AB: 1250
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: museum
-BEZEICHNUNG: Heimatmuseum Menton
-QUELLE: https://www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  benannt_nach: letzte Eigentümerfamilie
-  gebaeude_typ: bäuerliche Hofanlage
-  bauzeit_gesamt: zweite Hälfte 18. Jahrhundert
-  wohnhaus_1781: vorhanden
-  scheuer_staelle_1819: Wagen- und Tabakschopf
-  wasch_backhaus_1695: vorhanden
-  hanfreibe_1790: vorhanden
-  gelaende: Bauern- und Obstgarten, Dorfbach als Grundstücksgrenze
-  dauerausstellung: örtliche Sozial- und Wirtschaftsgeschichte, altes Dorfhandwerk
-  adresse: Kirchstraße 2, 79331 Teningen
-  oeffnungszeiten_regulär: 1. Sonntag im Monat 14-17 Uhr, März bis Oktober
-  winterpause: November bis Februar
-GUELTIG_AB: 1695
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: steinbruch
-BEZEICHNUNG: Heimbacher Steinbrüche
-ORTSTEIL_BEZUG: Heimbach
-QUELLE: https://www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  material: Buntsandstein
-  betrieb_zeitraum: 14. bis 19. Jahrhundert
-  verwendung_liebfrauenmuenster_freiburg: Stein für Aufbau- und Reparaturarbeiten
-  vorteile_heimbacher_stein: gegen Witterungseinflüsse widerstandsfähiger als Allmendsberger Material
-  nachteile: schwieriger zu bearbeiten, größere Härte, starke Staubentwicklung
-  bedeutung_regional: wichtig für Bautätigkeit nördlicher Breisgau
-  produkte: Tür- und Fensterwände, Torbogen, Bruchsteine, Portale, Kirchen- und Kapellenbauten
-  steinmetzen_heimbacher: teilweise von Heimbacher Handwerkern angefertigt
-  status_heute: Kultur- und Naturdenkmal
-GUELTIG_AB: 1300
-GUELTIG_BIS: 1900
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: brunnen
-BEZEICHNUNG: Hermannsbrunnen
-ORTSTEIL_BEZUG: Heimbach
-QUELLE: https://www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  vierdoerferwaldverbindung: steht mit Vierdörferwald eng in Verbindung
-  vierdoerferwald_nutzer: Heimbach, Köndringen, Malterdingen, Mundingen
-  mittelalterliche_funktion: Waldgericht
-  waldgericht_termin: jährlich Ostermontag
-  waldgericht_teilnehmer: 24 Waldrichter (je 6 pro Gemeinde), 4 Stabhalter
-  waldgericht_ablauf: Waldordnung verlesen, Strafen gegen Waldfrevler verhängt
-  rekonstruktion_1975: zum Abschluss Rebflurbereinigung
-  bedeutung_heute: Symbol der Tradition und des Rechtes
-GUELTIG_AB: Mittelalter
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Hilla Rebay von Ehrenwiesen
-QUELLE: https://www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  geburt: 1890
-  tod: 1967
-  beruf: Malerin
-  kunstrichtung: gegenstandslose Kunst
-  bekanntwerdung: 1914 in Berliner avantgardistischer Kunstszene
-  wohnort_new_york_ab: 1927
-  bekanntschaften: Solomon R. Guggenheim
-  funktion_guggenheim_foundation: Gründungsdirektorin 1937-1952
-  funktion_guggenheim_museum: Leitete ab 1943 Bau des heutigen Museums
-  eltern_teningen: 1919 niedergelassen
-  eltern_vermittler: Fabrikant Tscheulin
-  hilla_teningen_aufenthalte: vor Übersiedlung USA immer wieder
-  buergerrecht_teningen_bis: 1938
-  haus_schenkung: 1938 an Gemeinde Teningen
-GUELTIG_AB: 1890
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: gedenkstaette
-BEZEICHNUNG: Hilla von Rebay Haus
-QUELLE: https://www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  adresse: Emmendinger Straße 11, 79331 Teningen
-  traeger_gemeinde: Gemeinde Teningen
-  traeger_kulturverein: Kulturverein Teningen
-  traeger_schulprojekt: Theodor-Frank-Realschule Teningen
-  inhalt: Leben der Künstlerin und ihrer Eltern, persönliche Gegenstände und Werke
-  oeffnungszeiten: Sonntags 14-17 Uhr und auf Anfrage
-  sonderführungen: auf Wunsch möglich
-  sonderführung_kosten_klein: mindestens 10 Euro bis 10 Personen
-  sonderführung_kosten_gross: mindestens 20 Euro über 10 Personen
-GUELTIG_AB: 1938
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: muehle
-BEZEICHNUNG: Mühle Heimbach
-ORTSTEIL_BEZUG: Heimbach
-QUELLE: https://www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  ursprung: gehörte früher zum Schloss
-  gruendung: Zeitpunkt ungewiss
-  besitz_seit_1680: Familie Bär
-  erbfolge: in Familie weitergegeben
-  technische_umbauten: im Laufe der Jahrhunderte mehrere
-  betrieb_zweiter_weltkrieg: geschlossen, Einrichtung für Kriegsmaterial
-  wasserrad_neu_1942: eingebaut
-  umbau_letzter_1953: vorhanden
-  produktion_ende_1958: letzte Mehlherstellung
-  produktion_tagesleistung_1958: 3 Doppelzentner
-  mahllohn_1958: 6 Mark pro Doppelzentner
-  wasserrad_ueberholung_1980: vorhanden
-  schrotgang_heute: noch angetrieben durch Wasserrad
-  besonderheit: einzige Mühle in Gemeinde Teningen mit Müllertradition bis heute
-  superlativ: "einzige" Mühle mit alter Tradition in der Gemeinde
-GUELTIG_AB: 1680
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: schloss
-BEZEICHNUNG: Neues Schloss Heimbach
-ORTSTEIL_BEZUG: Heimbach
-QUELLE: https://www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  bauzeit: 1803-1806
-  bauherr: Freiherr Maximilian von Duminique
-  bauherr_funktion: Amateur-Architekt, eigentwurf
-  besonderheiten_architektur: Ecktürme, Eigenwilligkeit der Gestaltung
-  stilelemente: zwischen Klassizismus und früher Romantik
-  salon: ionisches Rundtempelchen
-  zimmer_besonderheit: Felsenzimmer
-  gesamtanlage: englischer Garten
-  umfassung: Sandsteinmauer
-  besitz_heute: Familie von Elverfeldt
-GUELTIG_AB: 1803
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: gebaeude_rathaus
-BEZEICHNUNG: Rathaus Teningen
-QUELLE: https://www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  vorher_gasthaus: "Zur Sonne"
-  vorher_datierung: 1767 (Sonnensymbol mit Jahreszahl)
-  gemeinde_ankauf: 1850
-  erste_nutzung_nach_kauf: Armenhaus
-  schulzimmer_einbau: 1880 Obergeschoss
-  lehrerwohnung_einbau: 1880 Obergeschoss
-  ratszimmer_archiv: 1880 Erdgeschoss
-  tuermchen_mit_glocke: 1885-1887
-  turmuhr: 1885-1887
-  feuerwehrgeraetehaus_anbau: 1925 mit 15m hohem Schlauchturm
-  letzter_umbau: 1979-1983
-  grund_umbau: steigende Bevölkerungszahl, mehr Verwaltungsräume nötig
-  adresse: Riegeler Straße 12 (für Höhenmessung relevant)
-GUELTIG_AB: 1767 (als Gasthaus), 1850 (als Rathaus)
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: gebaeude_nebengebaeude
-BEZEICHNUNG: Stubenwirtshaus (ehemals Metzgerei Engler)
-ORTSTEIL_BEZUG: Kernort Teningen
-QUELLE: https://www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  ort: Nordseite Rathausplatz (links)
-  bauzeit: 1751 durch Gemeinde
-  ausstattung: barocke Gedenktafel
-  gedenktafel_inhalt: dralle Justitia, Namen von Vogt und Dorfgericht, Gemeindewappen
-GUELTIG_AB: 1751
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: gebaeude
-BEZEICHNUNG: Staffelgiebelhaus (ältestes weltliches Gebäude Teningens)
-ORTSTEIL_BEZUG: Kernort Teningen
-QUELLE: https://www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  stil_architektur: spätgotisch
-  ort: Nordseite Rathausplatz (rechts)
-  funktion_urspruenglich: Rats- und Trinkstube
-  funktion_alt: enthielt auch Gemeinde-Metzig
-  datierung: vor 1583 (Kellerbogen mit Teninger Wappen und Jahreszahl)
-  beschreibung: ältestes erhaltenes weltliches Gebäude Teningens
-GUELTIG_AB: 1583
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: gebaeude_zehntscheuer
-BEZEICHNUNG: Bürgerhaus Zehntscheuer Teningen
-QUELLE: https://www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  adresse: Bahlinger Straße 30 (Richtung Nimburg)
-  funktion_urspruenglich: Aufbewahrung Getreidezehnten seit 1415
-  struktur_original: zwei Scheunen (Weizen und Roggen)
-  vorgaengerbau_datierung: 1587 (Sandsteinrelief mit Wappen und Jahreszahl)
-  vorgaengerbau_brandschaeden: 1688 abgebrannt
-  neubau_1711: Staffelgiebel eventuell erhalten oder kopiert
-  neubau_datierung: 1711 (Jahreszahl im Scheitel des Rundbogens)
-  staffelgiebel_unsicher: vielleicht erhalten oder kopiert vom Vorgängerbau
-  zehntabloesungspause: 1833
-  status_nach_zehntabloessung: verpachtet, dann verkauft
-  verkauf_1841: von Herrschaft erfolgt
-  gemeinde_erwerb: 1974
-  sanierungen: 1974 umfangreiche Sanierungen
-  nutzung_seit_1979: Bürgerhaus mit Gemeindebücherei im Obergeschoss
-GUELTIG_AB: 1587
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: ort
-BEZEICHNUNG: Teningen
+FACETTE: LAGE | GESCHICHTE
 QUELLE: https://www.teningen.de/unsere-gemeinde/ortsteile+der+gemeinde | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  ersterwähnung: 972
-  ersterwahnung_name: "Deninga"
-  ersterwahnung_kontext: Besitzort des Klosters Einsiedeln (Zürich)
-  besitzvorgaben_koenig_otto_i: 952 von Graf Guntram entzogen
-  besitzvorgaben_grund: hoher Verrat
-  besitzvergabe_kloster_einsiedeln: 952 übereignet
-  breisgauer_gut: gehörte dazu
-  besiedlung_alemannisch: 5./6. Jahrhundert (nach -ingen-Name)
-  11_12_jh_zugehoerigkeit: Kernort gräflich nimburgischer Herrschaft
-  um_1120_ortsadel: bezeugt
-  ortsadel_beziehungen: an Grafen und Herzöge von Zähringen angeschlossen
-  nach_1250_lehen: Straßburger Lehen, Grafen von Freiburg
-  1306_brand: durch Freiburger Bürgerschaft niedergebrannt
-  grund_brand_1306: Auseinandersetzungen Freiburg mit ihrer Stadt
-  1356_ortsherren: Markgrafen von Hachberg erscheinen
-  1415_erwerb: von Markgrafen von Baden
-  grund_1415: Kauf
-  zehntscheuer_grund: für Aufbewahrung Zehnten zur Markgrafschaft
-  reformation_1556: nach Markgrafschaft Baden evangelisch
-  kriege_17_18_jh: 30-jähriger Krieg und folgende Kriegszeiten schwerer Rückschlag
-  aufschwung_18_jh: durch Hanfanbau (Hauptproduzent)
-  hanfanbau_wohlstand: sichtbar in Rathausplatz-Gebäuden und Heimatmuseum Menton
-  grossherzogtum_baden_1806: altbadische Gemeinde, Oberamt Emmendingen
-  hammerschmiede_1771: vorhanden
-  hammerschmiede_entwicklung: zu Eisen- und Hammerwerk und Maschinenfabrik
-  status_industrialisierung: Vorreiter Industrialisierung Kreis Emmendingen
-  status_heute_industrie: zweitgrößte Industriegemeinde Landkreis
-  aluminiumwerk_tscheulin_1913: Ansiedlung
-  frako_frankfurter_kondensatorenfabrik_1932: Ansiedlung
-  zweiter_weltkrieg_folge: rasche Veränderung Wirtschafts- und Bevölkerungsstruktur, Infrastrukturmaßnahmen
-GUELTIG_AB: 952
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: ort
-BEZEICHNUNG: Köndringen
-QUELLE: https://www.teningen.de/unsere-gemeinde/ortsteile+der+gemeinde | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  ersterwahnung: 977
-  ersterwahnung_name: "Chuniringa"
-  ersterwahnung_quelle: Urkunde Kloster Murbach (gefälscht, aber glaubhaft für Namennennung)
-  besiedlung_alemannisch: 5./6. Jahrhundert (nach -ingen-Form)
-  archaeologische_funde: römische Besiedlung, vorgeschichtliche Zeit
-  freiadelige_herren: 1111-1150 bezeugt
-  freiadelige_herren_umkreis: Herzöge von Zähringen, Grafen von Nimburg
-  herrensitz: Burg südöstlich Dorf (Gewann "Bürgle")
-  ritterliche_dienstleute_spaet_12_jh: von Köndringen (Grafen von Nimburg)
-  geroldseck_13_14_jh: vielleicht Herrschaftsrechte
-  geroldseck_zeitraum: bis 1300 Herren Burg Landeck
-  geroldseck_funktion: Vögte Kloster Schuttern
-  kloster_schuttern_1136: Besitzer Pfarrkirche St. Martin (heutige evangelische Kirche)
-  snewlin_von_landeck: vorderösterreichische Ritterstandsmitglieder
-  snewlin_herrschaft_ab: ca. 1428
-  snewlin_verlust_markgrafen_baden: endgültig 1538
-  reformation_1556: mit Markgrafschaft evangelisch
-  kriegszeiten_17_18_jh: fast permanente Kriegszeiten, besonders 30-jähriger Krieg 1618-1648
-  kirchturm_episode: in Grimmelshausens Simplizissimus, ob Köndringen oder Denzlingen umstritten
-  stubenwirtshaus_16_jh: "Stubenwirtshaus" später "Gasthaus Rebstock", Dorfgemeinde Zeugnis
-  vierdoerferwaldgenossenschaft: Köndringen, Heimbach, Malterdingen, Mundingen bis 1787
-  vierdoerferwaldgenossenschaft_zentrum: Hermannsbrunnen
-  grossherzogtum_baden_1806: altbadische Gemeinde, Oberamt Emmendingen
-  wirtschaft_geschichte: Weinbau und Landwirtschaft geprägt
-GUELTIG_AB: 977
+  ersterwähnung_urkunde: 977 [gefälschte, aber namensmäßig glaubwürdig, Kloster Murbach]
+  integration_in_teningen: 1975
+  besiedlung_zeitraum: 5./6. Jahrhundert [alemannisch, -ingen-Form]
+GUELTIG_BIS: 1974
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.85
 
@@ -590,26 +56,14 @@ VERTRAUEN_EXTRAKTION: 0.85
 
 ENTITÄT: ort
 BEZEICHNUNG: Landeck
+ORTSTEIL_BEZUG: Landeck
+FACETTE: LAGE | GESCHICHTE
 QUELLE: https://www.teningen.de/unsere-gemeinde/ortsteile+der+gemeinde | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  burg_erbaut: um 1250/60
-  burg_bauherr: Herren von Geroldseck
-  burg_funktion: regionale politische Interessen, Schutz Klosterbesitz in Heimbach, Köndringen, Mundingen/Wöpplinsberg
-  staedtlein: im 13. und frühen 14. Jahrhundert bei Burg, Lage/Größe/Rechte/Bedeutung ungeklärt
-  aspan_kleinsiedlung: oberhalb Landeck im Vierdörferwald, abgegangen im 15. Jahrhundert
-  aspan_bedeutung: "bei den Espen"
-  familienfehde_geroldseck: Streitigkeiten um 1300
-  snewlin_erwerb_burg: 1300 Johann Snewlin (Freiburger Ritter) erworben
-  snewlin_grund: Geroldsecker Familienstreitigkeiten
-  snewlin_von_landeck: Familienzweig begründet
-  bastian_von_landeck_verkauf: 1511 Teil der Burg mit Teil Köndringen an Markgraf Christoph Baden
-  bauernkrieg_1525: Burg stark beschädigt
-  markgraf_ernst_1538: erwarb zweiten Teil
-  wiederaufbau: Burg nicht wieder aufgebaut
-  verfall: zur Ruine verfallen
-  wohnort_landeck: klein, mit Köndringen in Gemeinde vereinigt
-  wohnort_vertreter: Stabhalter für Interessen
-GUELTIG_AB: 1250
+  integration_in_köndringen: 1935
+  integration_in_teningen: 1975
+  ersterwähnung: 1260
+GUELTIG_BIS: 1974
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.85
 
@@ -617,105 +71,828 @@ VERTRAUEN_EXTRAKTION: 0.85
 
 ENTITÄT: ort
 BEZEICHNUNG: Nimburg
+ORTSTEIL_BEZUG: Nimburg
+FACETTE: LAGE | GESCHICHTE
 QUELLE: https://www.teningen.de/unsere-gemeinde/ortsteile+der+gemeinde | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  ersterwahnung: 977 (vermutlich)
-  ersterwahnung_quelle: vgl. Köndringen
-  archaeologische_funde: römische Besiedlung nahe Bergkirche
-  schriftliche_erwaehnung_zuerst_sicher: 1052
-  erwaehnung_1052_kontext: Gut in "Nuemburc" von Hesso seiner Kirchenstiftung in Eichstetten
-  erlewin_von_niumborch: Sohn Hessos, Begründer Nimburger Grafenhauses
-  burg_nimburg: südlich unmittelbar über Dorf, heute bis auf Geländeformen verschwunden
-  burg_halsgraben: Süden
-  strassenplan_verlagerung: um 1100 vom ursprünglichen Platz bei Bergkirche zur Burg verlegt
-  grafen_von_nimburg_herrschaft: nördlicher Breisgau mit Nimburg, Bottingen, weitere Ortschaften, Teningen, vielleicht Köndringen
-  grafen_von_nimburg_vogtei: über Klöster Sölden und St. Ulrich
-  grafen_aussterben: um 1200
-  erbschaftsstreit: langdauernd
-  bistum_strassburg_nachfolge: 1245 gesetzt sich durch
-  lehen_strassburg_grafen_freiburg: seit 1262
-  lehen_strassburg_grafen_tuebingen: seit 1368 (Burg Lichteneck)
-  markgraf_karl_i_baden_erwerb: 1465 gemeindlich vereinigte Dörfer Nimburg und Bottingen
-  amt_hachberg: eingegliederit (Hochburg bei Emmendingen)
-  grossherzogtum_baden_1806: altbadischer Bestand
-  antoniterorden_erlaubnis: 1456 von Markgraf Karl I. für Klosterbau mit Hospital südlich Bergkirche
-  antoniter_verbleib: bis 1556 (kurz vor Reformation)
-  kloster_nutzung: landesherrliches Kranken- und Altenspital
-  kloster_zerstoerung: 30-jähriger Krieg 1631
-  meiergut_fiskus: nach 1648 errichtet
-  meiergut_abtraegung: um 1850 endgültig
-  reformation_1556: evangelisch
-GUELTIG_AB: 1052
+  ersterwähnung: 977 [Urkunde Kaiser Otto II.]
+  integration_in_teningen: 1975
+  besiedlung_zeitraum: römische Zeit [archäologisch belegt]
+GUELTIG_BIS: 1974
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
 ENTITÄT: ort
-BEZEICHNUNG: Bottingen
-QUELLE: https://www.teningen.de/unsere-gemeinde/ortsteile+der+gemeinde | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  ortsname_endung: alemannische Gründung 5./6. Jahrhundert
-  archaeologische_vorfunde: römische Gutshöfe (villae) auf Gemarkung
-  st_gallen_urkunden: 8. Jahrhundert erwähnungen zweifelhaft
-  schriftliche_erwaehnung_sicher: 1209
-  erwaehnung_1209_kontext: Besitzschwerpunkt Kloster Tennenbach (bei Emmendingen)
-  kloster_tennenbach_besitz: zwei Höfe bis ins 18. Jahrhundert
-  grafen_von_nimburg_11_12_jh: Bottingen gehörte zur Herrschaft
-  spatestem_13_jh: dem Herrschaftssitz Nimburg angeschlossen
-  gemeinde_vereinigung: mit Nimburg Gemeinde bildend
-  politisches_schicksal: teilte mit Nimburg unter Grafen Freiburg, Grafen Tübingen-Lichteneck, seit 1465 Markgrafen Baden
-  kirchliche_zugehoerigkeit: früh zu Nimburg
-  kapelle_heiliger_german: heutzutage abgegangen
-  kapelle_standort: Hügel von Süden gegen Dorf vorspringend
-GUELTIG_AB: 1209
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: ort
-BEZEICHNUNG: Heimbach
-QUELLE: https://www.teningen.de/unsere-gemeinde/ortsteile+der+gemeinde | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  ersterwahnung: 759 und 817
-  ersterwahnung_kontext: Kloster St. Gallen Besitz
-  bezug_unserer_ort: St. Gallus-Kirche im Nordwestbereich alten Dorfkerns
-  st_gallus_kirche: 1810 abgebrochen
-  marienkirche_14_jh: auf Veranlassung Ortenau-Kloster Schuttern, Filiale Köndringen
-  marienkirche_pfarrechte: 1505 erhalten von Galluskirche
-  marienkirche_patrozinium: nach Neubau 1774-77 auch Patrozinium der Galluskirche
-  vierdoerferwaldrecht: seit Mittelalter mit Köndringen, Malterdingen, Mundingen
-  vierdoeferwald_nutzung: Waldallmend Schwarzwald-Vorbergen
-  vierdoeferwald_regelung: jährliches Waldgericht am Hermannsbrunnen
-  vierdoeferwald_aufteilung: 1787 durch Streitigkeiten
-  heimbacher_waldanteil: Steinbrüche als Kultur- und Naturdenkmal
-  steinbruch_tradition: ins Mittelalter zurückreichende Steinhauertradition
-  kloster_schuttern_teilherr_bis: 1527
-  ortsherrschaft_hachberg_markgrafen: um 1279
-  ortsherrschaft_hachberg_markgrafen_ab: um 1279
-  ortsherrschaft_baden_markgrafen_ab: seit 1415
-  ortsherren_spaeter: vorderösterreichische Standesherren
-  ortsherren_1482: Caspar Gebel
-  ortsherren_1505: Bastian von Landeck
-  ortsherren_1527_bis_1582: Stürtzel von Buchheim
-  ortsherren_1700_ab: Familie Duminique (Neues Schloss)
-  vorderösterreich_zugehoerigkeit_bis: 1805
-  vorderösterreich_folge: Reformation nicht durchgeführt (im Gegensatz zu anderen Ortsteilen)
-  adlige_herrschaftsrechte_aufhebung: im Großherzogtum Baden
-  oberamt_emmendingen_ab: 1813
-GUELTIG_AB: 759
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: ortsteil_bottingen
 BEZEICHNUNG: Bottingen
 ORTSTEIL_BEZUG: Bottingen
-QUELLE: https://www.teningen.de/unsere-gemeinde/zahlen+_+fakten | Gemeinde-Webseite
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://www.teningen.de/unsere-gemeinde/ortsteile+der+gemeinde | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  einwohner_zusammen_mit_nimburg_2024: 2438
-GUELTIG_AB: 2024
+  ersterwähnung_schriftlich: 1209
+  besiedlung_zeitraum: 5./6. Jahrhundert [alemannisch, -ingen-Form]
+  integration_in_nimburg: vor 1974
+  integration_in_teningen: 1975
+GUELTIG_BIS: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Altes Schloss Heimbach
+ORTSTEIL_BEZUG: Heimbach
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1578 [früheste Jahreszahl, möglicherweise älter]
+  erbauer: Stürtzel von Buchheim [Vermutung]
+  funktion_original: Verwaltungssitz [ortsherrlich]
+  weitere_jahreszahl: 1670 [späterer Besitzer Hans Wilhelm von Goll]
+  nebengebäude_abgetragen: 1804
+  gemeinde_erwerb: 1978
+  renovierung: 1984
+  funktion_heute: Feuerwehrgerätehaus
+GUELTIG_AB: 1578
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Burgruine Landeck
+ORTSTEIL_BEZUG: Landeck
+FACETTE: LAGE | GESCHICHTE | FREIZEIT
+QUELLE: https://www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: schönste aller Burgen im Breisgau
+  struktur: obere und untere Burg, durch Graben getrennt
+  baubeginn: 1250-1260 [um 1250/60]
+  erbauer: Walter I. von Geroldseck
+  umbauten_besitzer: Snewelin von Landeck [1300-1511]
+  besitzer_wechsel_1488: Antony und Bastian [Brüder teilten sich]
+  burgfriedensvertrag: 1488
+  markgrafen_baden_erwerb: 1511 und 1538 [in Teilen]
+  zerstörung_bauernkrieg: 1525 [stark beschädigt]
+  bauteile_erhaltung: sorgfältig gearbeitete spätromanische und frühgotische Bauteile
+  kapelle: gotische Chorbogen, Fenster mit Maßwerk, Kreuzrippengewölbe
+  bedeutung_fuer_ort: prägende Burganlage, Ausflugsziel
+GUELTIG_AB: 1250
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum Menton
+FACETTE: LAGE | ALLTAG | FREIZEIT
+QUELLE: https://www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Kirchstraße 2, Ortskern Teningen
+  benannt_nach: letzte Eigentümerfamilie
+  gebäude_typ: bäuerliche Hofanlage
+  bauzeit: zweite Hälfte des 18. Jahrhunderts [überdurchschnittlich groß]
+  wohnhaus_baujahr: 1781
+  wasch_backhaus_baujahr: 1695
+  hanfreibe_baujahr: 1790
+  scheuer_ställe_baujahr: 1819
+  schwerpunkt_ausstellung: örtliche Sozial- und Wirtschaftsgeschichte
+  dokumentation: altes Dorfhandwerk
+  öffnungszeiten: jeden 1. Sonntag im Monat 14-17 Uhr von März bis Oktober
+  betreiber: Förderverein Anwesen Menton
+GUELTIG_AB: 1800 [Dauerausstellung]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: steinbruch
+BEZEICHNUNG: Heimbacher Steinbrüche
+ORTSTEIL_BEZUG: Heimbach
+FACETTE: LAGE | GESCHICHTE | ALLTAG
+QUELLE: https://www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  material: Buntsandstein
+  nutzungszeitraum: 14.-19. Jahrhundert
+  verwendung_liebfrauenmünster: Stein für Aufbau- und Reparaturarbeiten Liebfrauenmünster Freiburg
+  material_eigenschaften: gegen Witterungseinflüsse widerstandsfähiger als Allmendsberger Material
+  bearbeitung_schwierigkeit: schwieriger, stärkere Staubentwicklung
+  bedeutung_regional: wichtig für Bautätigkeit nördlicher Breisgau
+  produkte: Tür- und Fensterwände, Torbogen, Bruchsteine, Portale an Bürgerhäusern, Kirchen- und Kapellenbauten
+  handwerker: Heimbacher Steinmetze
+  kulturdenkmale: Natur- und Kulturdenkmal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: brunnen
+BEZEICHNUNG: Hermannsbrunnen
+ORTSTEIL_BEZUG: Heimbach
+FACETTE: LAGE | GESCHICHTE | FREIZEIT
+QUELLE: https://www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verbindung: Vierdörferwald [Heimbach, Köndringen, Malterdingen, Mundingen]
+  funktion_mittelalter: Waldgericht
+  waldgericht_frequenz: jährlich am Ostermontag
+  teilnehmer: 24 Waldrichter [6 je Gemeinde], 4 Stabhalter
+  waldgericht_funktion: Verlesung Waldordnung, Verhängung Strafen gegen Waldfrevler
+  wiederrichtung: 1975 [zum Abschluss der Rebflurbereinigung]
+  symbolik: Symbol der Tradition und des Rechtes
+  bedeutung_fuer_ort: Zeugnis der Waldgenossenschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: künstler
+BEZEICHNUNG: Hilla von Rebay
+FACETTE: LAGE | GESCHICHTE | FREIZEIT
+QUELLE: https://www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensjahre: 1890-1967
+  name_vollständig: Hilla Rebay von Ehrenwiesen
+  künstlerische_laufbahn_start: 1914 [Berliner avantgardistische Kunstszene]
+  kunstrichtung: gegenstandslose Kunst
+  wohnort_ab: 1927 [New York]
+  bekannte_verbindung: Solomon R. Guggenheim [befreundet]
+  funktion: 1937-1952 Gründungsdirektorin der Solomon R. Guggenheim Foundation
+  museum_bau: ab 1943 Leitung Bau Solomon R. Guggenheim Museum
+  teninger_verbindung: Eltern ließen sich 1919 nieder [Vermittlung Fabrikant Tscheulin]
+  wohnsitz_teningen: 1919-1938 [Bürgerrecht bis 1938]
+  haus_schenkung: 1938 an Gemeinde Teningen [Gedenkstätte]
+  bedeutung_fuer_ort: internationale Künstlerpersönlichkeit mit lokaler Verbindung
+GUELTIG_AB: 1927
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gedenkstätte
+BEZEICHNUNG: Hilla-von-Rebay-Erinnerungsstätte
+FACETTE: LAGE | GESCHICHTE | FREIZEIT
+QUELLE: https://www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Emmendinger Straße 11, Teningen
+  träger: Gemeinde Teningen, Kulturverein Teningen, Projektgruppe Theodor-Frank-Realschule
+  ausstattung: persönliche Gegenstände und Werke Hilla von Rebays
+  dokumentation: Leben der Künstlerin und ihrer Eltern
+  öffnungszeiten: Sonntags 14-17 Uhr und auf Anfrage
+  sonderführungen_preis: mindestens 10 Euro [bis 10 Personen], mindestens 20 Euro [über 10 Personen]
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: mühle
+BEZEICHNUNG: Mühle Heimbach
+ORTSTEIL_BEZUG: Heimbach
+FACETTE: LAGE | GESCHICHTE | ALLTAG
+QUELLE: https://www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: früher zum Schloss gehörig, Gründungszeitpunkt ungewiss
+  besitz_seit: 1680 [Familie Bär]
+  betrieb: kontinuierlich in Erbfolge
+  technische_umbauten: verschiedene über Jahrhunderte
+  kriegsschließung: Zweiter Weltkrieg [Einrichtung für Kriegsmaterial verwendet]
+  wasserrad_neubau: 1942
+  letzter_umbau: 1953
+  mehlproduktion_einstellung: 1958 [letzte Herstellung]
+  tagesleistung_1958: 3 Doppelzentner
+  mahllohn_1958: 6 Mark pro Doppelzentner
+  wasserrad_überholung: 1980
+  betrieb_heute: Schrotgang wird noch angetrieben
+  superlativ: einzige Mühle in Gemeinde Teningen, die Tradition des Müllerhandwerks bewahrt
+  bedeutung_fuer_ort: Bewahrer des Müllerhandwerks
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Neues Schloss Heimbach
+ORTSTEIL_BEZUG: Heimbach
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1803-1806
+  erbauer: Freiherr Maximilian von Duminique
+  erbauer_rolle: Amateur-Architekt, selbst entworfen
+  architektur_merkmale: Ecktürme, Eigenwilligkeit der Gestaltung
+  stilelemente: Klassizismus und frühe Romantik
+  innenraum_besonderheit: Salon in Gestalt eines ionischen Rundtempelchens, Felsenzimmer
+  umfassung: englischer Garten mit Sandsteinmauer
+  besitzer_heute: Familie von Elverfeldt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus Teningen
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorgänger_funktion: Gasthaus Zur Sonne
+  vorgänger_baujahr: 1767
+  markierung: Sonnensymbol mit Jahreszahl 1767 über Eingangsportal
+  gemeinde_erwerb: 1850
+  erste_nutzung_gemeinde: Armenhaus
+  umgestaltung_1880: Schulzimmer und Lehrerwohnung Obergeschoss, Ratszimmer und Archiv Erdgeschoss
+  türmchen_bau: 1885-1887 [mit Gemeindeglocke und Turmuhr]
+  feuerwehrgerätehaus_anbau: 1925 [15 m hoher Schlauchturm]
+  großer_umbau: 1979-1983
+GUELTIG_AB: 1767
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gebäude
+BEZEICHNUNG: Stubenwirtshaus
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1751
+  erbauer: Gemeinde
+  ort: Rathausplatz Teningen, Nordseite, links [ehemals Metzgerei Engler]
+  dekoration: barocke Gedenktafel mit bäuerlicher "Justitia", Namen von Vogt und Dorfgericht, Gemeindewappen
+  funktion_ursprünglich: Stubenwirtshaus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebäude
+BEZEICHNUNG: Staffelgiebelhaus
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architektur: spätgotisch
+  superlativ: ältestes erhaltenes weltliches Gebäude Teningens
+  ort: Rathausplatz Teningen, Nordseite, rechts
+  markierung: Teninger Wappen mit Jahreszahl 1583 an Kellerbogen Westseite
+  funktion_ursprünglich: Rats- und Trinkstube der Gemeinde, enthielt Gemeinde-Metzig
+GUELTIG_AB: 1583
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebäude
+BEZEICHNUNG: Bürgerhaus Zehntscheuer
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Bahlinger Straße 30, Teningen [Richtung Nimburg von Ortsmitte]
+  funktion: Aufbewahrung Getreidezehnten [seit 1415 markgräflich-badisch]
+  struktur_original: zwei Scheunen [Weizen und Roggen]
+  reliefstein: Sandstein mit badischem Wappen und Jahreszahl 1587 [Vorgängerbau, Original innen]
+  vorgängerbau_brand: 1688
+  vorgängerbau_merkmal: möglicherweise erhaltene oder kopierte Staffelgiebel
+  neubau: 1711 [Jahreszahl im Scheitel des Rundbogens]
+  funktionsende: 1833 [Zehntablösung]
+  verkauf: 1841 [nach Verpachtung]
+  gemeinde_erwerb: 1974
+  sanierung: umfangreich durchgeführt [1974 nach Erwerb]
+  nutzung_seit_1979: Bürgerhaus, Gemeindebücherei Obergeschoss
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: bad
+BEZEICHNUNG: Freizeitbad Teningen
+FACETTE: FREIZEIT | INFRA
+QUELLE: https://www.teningen.de/freizeit-und-kultur/freizeitbad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  becken_ausstattung: Wettkampfbecken, teilweise überdachtes Nichtschwimmer- und Schwimmerbecken
+  rutsche: 70-Meter-Riesenrutsche
+  weiteres: Sprungturmbecken, große Liegewiese, Kinderspielplatz, Kinderparadies
+  saisonalität: Mai bis September [Hauptsaison]
+  bewertung: eines der schönsten und beliebtesten Bäder im Landkreis
+  standort: Badstr. 1, Teningen
+  bedeutung_fuer_ort: beliebtes Freizeitangebot
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Teningen
+FACETTE: LAGE | GESCHICHTE | FREIZEIT
+QUELLE: https://www.teningen.de/leben-und-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Gotische Chorturmkirche
+  funktion_heute: evangelisches Gotteshaus [seit 1556, Reformation]
+  ursprung: eine von zwei mittelalterlichen Kirchen in Teningen
+  chor_merkmal: Kreuzrippengewölbe, markgräflich badisches Wappen, Malereien 14./15. Jahrhundert
+  fresken: Tierfresken am Triumphbogen [vermutlich 14. Jahrhundert]
+  erweiterung: 18. Jahrhundert [nach 30-jährigem Krieg]
+  renovation_1826_1828: von Christoph Arnold [Schüler Friedrich Weinbrenners], Weinbrenner-Stil
+  renovierung_außen: 1987
+  renovierung_innen: 1968 [Umgestaltung]
+  glocken: 1774 in Straßburg gegossen [2 von 3 Glocken]
+  orgel_prospekt: 1801, Matthias Bürcklin [Teninger Schreinermeister], unter Denkmalschutz
+  orgel_heute: 1971 [17 Register, aus Bautzen DDR]
+  fenster: Farbfenster mit biblischer Thematik von H. Uhrig [1968]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Köndringen
+FACETTE: LAGE | GESCHICHTE | FREIZEIT
+QUELLE: https://www.teningen.de/leben-und-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architektur: Sandsteinkirche im neugotischen Stil
+  turm_höhe: 60 Meter
+  bedeutung_fuer_ort: Wahrzeichen Köndringens
+  vorgängerkirche_abbruch: 1861 [mittelalterliche gotische Kirche]
+  neukirche_baujahr: 1861-1865
+  erbauer_architekten: Architekt Arnold [Bauleitung], Steinhauermeister Köllhofer [Sandsteinarbeiten]
+  vorgängerkirche_reste: Eingangshalle und 2. Turmgeschoss [von alter gotischer Kirche erhalten]
+  figuren: Figuren aus 16. Jahrhundert zieren Kreuzrippengewölbe in Eingangshalle
+  übernahmen_von_alt: Glocken, Orgel und Uhr
+  orgel_neubau: 1884 [16 Stimmen von Weigle/Stuttgart, damals eine der schönsten im Land]
+  glocken_beschlagnahme: beiden Weltkriegen
+  glockengeläute_vollständig: seit 1964
+  chorfenster_zerstörung: 1945 [Artilleriefeuer]
+  chorfenster_ersatz: 1955 [mit Spendengeldern]
+  kirchturm_renovation: 1974
+  kirche_renovation: 1984
+  pfarrhaus_baujahr: 1752
+  pfarrhaus_besonderheit: ungewöhnlich repräsentativ gestaltet, großzügige Freitreppe
+  pfarrhaus_anlass: Initiative Pfarrer Nikolaus Christian Sender [markgräflicher Kirchenrat, Dekan]
+GUELTIG_AB: 1861
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Bergkirche Nimburg
+FACETTE: LAGE | GESCHICHTE | FREIZEIT
+QUELLE: https://www.teningen.de/leben-und-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  patrozinium: Johannis der Täufer
+  ersterwähnung_patrozinium: 1318
+  vorgängerkirche: 10. Jahrhundert [möglicherweise ecclesia]
+  architektur_ausrichtung: "gesüdete" Kirche [neuere, südlich ausgerichtet]
+  bauzeit: 1517-1545
+  erbauer: Antoniterorden [seit 1456 Kloster am Ort]
+  erbauer_anlass: Ersatz für frühere, geoste [östlich ausgerichtete] Kirche
+  vorgängerkirche_reste: Chorbereiche erhalten in heutiger Sakristei
+  renovierung_1952_54: bei Renovierung Fresken entdeckt
+  fresken_darstellungen: Jüngstes Gericht, Engel, alt- und neutestamentliche Figuren, Johannes der Täufer
+  fresken_herkunft_unsicher: möglicherweise teilweise Antoniterzeit, teils nach Reformation [um 1680 und 1718]
+  fresken_übermalt_neu: teilweise neu geschaffen, mit Bildunterschriften [volkstümliche protestantische Kirchenausmalung]
+  umbauten_18_jh: Fenster, Emporen [spätgotischen Charakter verändert]
+  triumphbogen_entfernung: zwischen südlichem Chor [ursprünglich Antonitern] und Langhaus
+  orgel_neubau: 1911 [14 klingende Register + 8 Nebenregister, Steinmeyer]
+  orgel_umbau_1954: auf hintere Empore versetzt und überholt
+  turmoberbau: um 1950 [hölzernes Obergeschoss durch erhöhtes steinernes ersetzt]
+  glockenstuhl: eichener Glockenstuhl für 3 Glocken [um 1950]
+  taufstein_baujahr: 1672 [schön, vor Altarstufen platziert]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Gallus
+ORTSTEIL_BEZUG: Heimbach
+FACETTE: LAGE | GESCHICHTE | FREIZEIT
+QUELLE: https://www.teningen.de/leben-und-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vollständiger_name: Katholische Pfarrkirche St. Gallus Heimbach
+  vorgängerkirche: gotische Marienkirche
+  neuumbau_zeitraum: 1747-1777
+  baustil_neu: Barockstil
+  patrozinium_wechsel: von Marienkiche zu St. Gallus [älteste Heimbacher Pfarrkirche]
+  bestehender_turm_wiederverwendung: großer Westturm [gotisch, größtenteils]
+  taufstein_material: schöner Taufstein mit Maßwerkornament [aus älterer Kirche]
+  hochaltar_baujahr: 1776
+  hochaltar_künstler: Bildhauer Joseph Amman aus Endingen [Vermutung]
+  altarblätter: schöne Altarblätter von 1776
+  altarblatt_maler: Johann Pfunner aus Freiburg
+  altarblatt_stil: spätbarock
+  altarblatt_restaurierung: 1975 [gründliche Restaurierung]
+  orgel_baujahr: 1752
+GUELTIG_AB: 1747
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Der einsame Kruzifixus
+ORTSTEIL_BEZUG: Heimbach
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://www.teningen.de/leben-und-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Ölgemälde
+  baujahr: 1650
+  standort: St. Gallus Kirche Heimbach
+  herkunft: aus Nürnberg [von Schlossherrin 1858 gestiftet]
+  herkunft_geschichte: Hans Wilhelm von Goll [Ortsherr] brachte 1650 aus Nürnberg mit
+  darstellung_christus_wunde: Seite des Christus feierlich mit heiliger Lanze durchstochen
+  besonderheit: außer Heimbacher nur eines weiteres bekanntes solches Großgemälde [in Wien]
+  renovation_1953: 10 symbolische Bilder entfernt [zugunsten ursprünglichen Barockgewandes]
+  symbolische_bilder_angebracht: 1893
+  orgel_neubau_1978: von Mönch & Prachtel Überlingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Marien
+ORTSTEIL_BEZUG: Köndringen
+FACETTE: LAGE | GESCHICHTE | FREIZEIT
+QUELLE: https://www.teningen.de/leben-und-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Katholische Kirche
+  charakteristikum: Schlichtheit
+  nachkriegsjahre_bau: in Baugeschichte der Nachkriegsjahre nach Zweitem Weltkrieg eingebettet
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: wirtschaft
+BEZEICHNUNG: Gewerbe- und Industriesektor
+FACETTE: ALLTAG | INFRA
+QUELLE: https://www.teningen.de/leben-und-wohnen/gewerbe/gewerbegebiet | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  handels_handwerks_gewerbebetriebe: ca. 800
+  arbeitsplätze: ca. 4500
+  entwicklung: von landwirtschaftlich zu Industrie- und Wohngemeinde
+  bedeutung: zweitgrößte Industriegemeinde des Landkreises Emmendingen
+  regierungsplan_status: als Industrie- und Gewerbestandort ausgewiesen
+  mittelzentrum_zugehörigkeit: zum Mittelzentrum Emmendingen gehörig
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: betrieb
+BEZEICHNUNG: Aluminiumwerk Tscheulin
+FACETTE: ALLTAG | INFRA
+QUELLE: https://www.teningen.de/unsere-gemeinde/ortsteile+der+gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ansiedlung: 1913 [als Aluminium GmbH gegründet]
+  besonderheit: eine der ersten Fabriken in Deutschland Aluminiumfolie produziert [später: Amcor Flexibles]
+  bedeutung_fuer_ort: wichtiger Arbeitgeber, Industrialisierung
+GUELTIG_AB: 1913
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: betrieb
+BEZEICHNUNG: FRAKO
+FACETTE: ALLTAG | INFRA
+QUELLE: https://www.teningen.de/unsere-gemeinde/ortsteile+der+gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vollständiger_name: Frankfurter Kondensatorenfabrik
+  ansiedlung: 1932
+  produkt: Kondensatoren
+  standort_nachträgliche_probleme: PCB-haltige Kondensatoren [Umweltproblem ab 1954]
+  bedeutung_fuer_ort: wichtiger Arbeitgeber, Industrialisierung
+GUELTIG_AB: 1932
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gremium
+BEZEICHNUNG: Gemeinderat Teningen
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Teningen | Wikipedia
+EIGENSCHAFTEN:
+  gemeinderatswahl: 9. Juni 2024
+  wahlbeteiligung: 63.7%
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: funktion
+BEZEICHNUNG: Bürgermeister Teningen
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Teningen | Wikipedia
+EIGENSCHAFTEN:
+  amtsträger_2025: Berthold Schuler [parteilos]
+  amtsantritt: 1. August 2025
+  wahl_2025: 11. Mai 2025
+  wahl_ergebnis_schuler: 69.1% [1. Wahlgang]
+  vorgänger: Heinz-Rudolf Hagenacker [CDU, 2009-2025]
+  vorgänger_ergebnis: 29.7%
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Partnerschaft La Ravoire
+FACETTE: POLITIK | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Teningen | Wikipedia
+EIGENSCHAFTEN:
+  partner_gemeinde: La Ravoire [Savoyen, Frankreich]
+  seit: 1984
+  typ: partnerschaftliche Beziehung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Partnerschaft Zeithain
+FACETTE: POLITIK | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Teningen | Wikipedia
+EIGENSCHAFTEN:
+  partner_gemeinde: Zeithain [Sachsen, Deutschland]
+  seit: 1990
+  typ: partnerschaftliche Beziehung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Stadt-Land-Partnerschaft Betzenhausen
+FACETTE: POLITIK | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Teningen | Wikipedia
+EIGENSCHAFTEN:
+  partner: Stadtteil Betzenhausen [Freiburg]
+  seit: 2012
+  typ: Stadt-Land-Partnerschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Mediathek Teningen
+FACETTE: INFRA | FREIZEIT
+QUELLE: https://www.teningen.de/freizeit-und-kultur/mediathek | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Ludwig-Jahn-Str. 2, Schulzentrum Teningen
+  öffnungszeiten_regulär: Dienstag 14-17 Uhr, Mittwoch 14-17 Uhr, Donnerstag 16-19 Uhr
+  öffnungszeiten_samstag: jeden 3. Samstag im Monat 10-13 Uhr
+  schulintern_montag_donnerstag: 12-14 Uhr
+  winterpause: Weihnachtsferien [geschlossen]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: landschaft
+BEZEICHNUNG: Vierdörferwald
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://www.teningen.de/unsere-gemeinde/ortsteile+der+gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemeindschaften: Heimbach, Köndringen, Malterdingen, Mundingen
+  typ: große Waldallmend
+  lage: Schwarzwald-Vorberge
+  nutzung: Holzversorgung und Weide
+  verwaltung: alljährliches Waldgericht am Hermannsbrunnen
+  aufteilung: 1787
+  konflikte: häufige Streitigkeiten vor Aufteilung
+GUELTIG_BIS: 1787
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Naturpark Südschwarzwald
+FACETTE: LAGE | FREIZEIT
+QUELLE: [Zeugen OpenStreetMap]
+EIGENSCHAFTEN:
+  gültig_ab: 1999
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Teninger Unterwald
+FACETTE: LAGE | FREIZEIT
+QUELLE: [Zeugen OpenStreetMap]
+EIGENSCHAFTEN:
+  gültig_ab: 1982
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Neuershausener Mooswald
+FACETTE: LAGE | FREIZEIT
+QUELLE: [Zeugen OpenStreetMap]
+EIGENSCHAFTEN:
+  gültig_ab: 1979
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Vierburgenweg
+FACETTE: LAGE | FREIZEIT
+QUELLE: [Zeugen OpenStreetMap]
+EIGENSCHAFTEN:
+  länge: 31.5 [km]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Breisgau-Radwanderweg
+FACETTE: LAGE | FREIZEIT
+QUELLE: [Zeugen OpenStreetMap]
+EIGENSCHAFTEN:
+  länge: 64 [km]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Elzdamm-Radweg
+FACETTE: LAGE | FREIZEIT
+QUELLE: [Zeugen OpenStreetMap]
+EIGENSCHAFTEN:
+  länge: 14 [km]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Mühlbach-Rundweg
+FACETTE: LAGE | FREIZEIT
+QUELLE: [Zeugen OpenStreetMap]
+EIGENSCHAFTEN:
+  länge: 30 [km]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Emil Tscheulin
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Teningen | Wikipedia
+EIGENSCHAFTEN:
+  geburtsort: Teningen
+  geburtstag: 1884
+  todesjahr: 1951
+  todesort: Teningen
+  beruf: Industrieller, Wehrwirtschaftsführer
+  unternehmen: Aluminiumwerk
+  ehrenbürger: ja
+GUELTIG_AB: 1884
+GUELTIG_BIS: 1951
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Theodor Frank
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Teningen | Wikipedia
+EIGENSCHAFTEN:
+  geburtsort: Teningen
+  geburtstag: 1826
+  todesjahr: 1889
+  todesort: Teningen
+  beruf: Bürgermeister, badischer Landtagsabgeordneter
+  amtszeit_bürgermeister: 1864-1875
+  ehrenbürger: ja
+  schulname_träger: Theodor-Frank-Realschule Teningen
+GUELTIG_AB: 1826
+GUELTIG_BIS: 1889
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Otto Krayer
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Teningen | Wikipedia
+EIGENSCHAFTEN:
+  geburtsort: Köndringen
+  geburtstag: 1899
+  todesjahr: 1982
+  todesort: Tucson, Arizona
+  beruf: Pharmakologe
+  haltung_politisch: Opponent gegen nationalsozialistischen Rassismus
+  ehrenbürger_köndringen: 1957
+  bedeutung_fuer_ort: symbolisch für innere Haltung gegen NS-Regime
+GUELTIG_AB: 1899
+GUELTIG_BIS: 1982
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Jens Schöngarth
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Teningen | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1988
+  wohnort_aufwachsen: Teningen
+  sport: Handball
+  erfolge: Juniorenweltmeister 2009, Pokalsieger 2016, Europapokalsieger 2017
+  bundesliga: ja
+  bedeutung_fuer_ort: erfolgreicher Sportler aus Teningen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: fest_brauch
+BEZEICHNUNG: Waldgericht am Hermannsbrunnen
+FACETTE: LAGE | GESCHICHTE | FREIZEIT
+QUELLE: https://www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  häufigkeit: jährlich
+  termin: Ostermontag
+  ort: Hermannsbrunnen
+  teilnehmer: 24 Waldrichter [6 je Gemeinde Vierdörferwald], 4 Stabhalter
+  funktion: Verlesung Waldordnung, Verhängung Strafen gegen Waldfrevler
+  zeitraum_durchführung: Mittelalter bis 1787
+  bedeutung_fuer_ort: Zeugnis der Waldgenossenschaft und der Rechtspraxis
+GUELTIG_BIS: 1787
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: geschichte_ereignis
+BEZEICHNUNG: Reformation in Teningen
+FACETTE: GESCHICHTE
+QUELLE: https://www.teningen.de/unsere-gemeinde/ortsteile+der+gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1556
+  markgrafschaft: Baden
+  folge: evangelische Kirche erhielt als einzige beide mittelalterliche Kirchen, andere kam zu Wohnhaus
+  grund: Markgraf-Entscheidung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: geschichte_ereignis
+BEZEICHNUNG: Brand Teningen 1306
+FACETTE: GESCHICHTE
+QUELLE: https://www.teningen.de/unsere-gemeinde/ortsteile+der+gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1306
+  täter: Freiburger Bürgerschaft
+  grund: Auseinandersetzungen Grafen von Freiburg mit ihrer Stadt
+  folge: Teningen niedergebrannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: geschichte_ereignis
+BEZEICHNUNG: Markgrafschaft Baden Übernahme Teningen
+FACETTE: GESCHICHTE
+QUELLE: https://www.teningen.de/unsere-gemeinde/ortsteile+der+gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1415
+  käufer: Markgrafen von Baden
+  verkäufer: Markgrafen von Hachberg
+  form: Kauf
+  folge: Teningen verbleibt in Territorialverband Baden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wirtschaft
+BEZEICHNUNG: Hanfanbau Teningen
+FACETTE: ALLTAG | GESCHICHTE
+QUELLE: https://www.teningen.de/unsere-gemeinde/ortsteile+der+gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 18. Jahrhundert [Aufschwung]
+  bedeutung: Hauptproduzent
+  wohlstand: Wohlstand der Gemeinde und bäuerlicher Familien
+  ende: Anfang 20. Jahrhundert [mit Industrialisierung]
+  beschreibung: wirtschaftliches Zeichen sind sehenswerte Gebäude am Rathausplatz und Heimatmuseum Menton
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80

@@ -1,0 +1,956 @@
+ZIELORT: Bötzingen (Gemeinde)
+LAGE: 13 km nordwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Bötzingen
+
+GRUNDDATEN:
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 5517  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 13  [Wikidata P2046]
+  dichte_ew_km2: 424  [berechnet aus Einwohner und Fläche]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 192  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2945740)]
+  naechste_grossstadt: Freiburg im Breisgau, 13 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 133 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Bötzingen, Haltepunkt Bötzingen Mühle  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 79268  [Wikidata P281]
+  vorwahl: 07663  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 36,8 %, SPD 17,4 %, AfD 14,6 %, GRÜNE 12,3 %, Die Linke 5,5 %, FDP 5 %; Wahlbeteiligung 82,2 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 83,4 % im Bundesland (Ort 82,2 %, Abstand 1,2 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+  buergermeister: Dieter Schneckenburger — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-06]
+
+ZEUGEN (OpenStreetMap, Gemeindegrenze; belegt nur, dass es die Sache gibt):
+  Aussicht: Hohrainbuck
+  Aussicht: Tuniberg Schwarzwald
+  Aussicht: Freiburg Schauinsland
+  Aussicht: Panoramastein
+  Bahnhof: Bötzingen Mühle
+  Bahnhof: Bötzingen
+  Sportstätte: Karate Team Wiesler (karate)
+  Sportstätte: Freibad Bötzingen (swimming)
+  Sportstätte: Adam-Treiber-Halle (multi)
+  Freizeit: Lösshohlweg
+  Brauerei/Winzer: Weingut Höfflin
+  Brauerei/Winzer: Weingut Josef Ambs
+  Gewässer: Mühlbach
+  Gewässer: Riedkanal (Murr)
+  Betrieb: Samvardhana Motherson Peguform (SMP)
+  Betrieb: Bauhof Gemeinde Bötzingen
+  Radweg: Kaiserstuhl-Radwanderweg
+
+PLAN:
+  Karte 1: FACETTE ALLTAG (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 2
+  Karte 2: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 3
+  Karte 3: FACETTE FREIZEIT (Ersatz: ALLTAG), Geschichte, A, wahre Option an Stelle 4
+  Karte 4: FACETTE INFRA (Ersatz: LAGE), Geschichte, D, wahre Option an Stelle 1
+  Karte 5: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, A, wahre Option an Stelle 2
+  Karte 6: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, B, Lüge an Stelle 3
+  Karte 7: FACETTE LAGE, Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 4
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je ein weiteres Charakteristikum, Facette frei, Familie A, B oder D, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Merdingen (Gemeinde)
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  einwohner: 2661  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 14,39  [Wikidata P2046]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 251 | 193 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2871831)]
+  naechste_grossstadt: Freiburg im Breisgau, 12 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 40,5 %, SPD 15,7 %, GRÜNE 13,9 %, AfD 13,1 %; Wahlbeteiligung 88,8 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 83,4 % im Bundesland (Ort 88,8 %, Abstand 5,4 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+FAHRT: Wiehre, Waldsee, Altstadt, Stühlinger, Neuburg, Herdern, Zähringen, Brühl, Oberau, Haslach, Sankt Georgen, Vauban, Weingarten, Betzenhausen, Mooswald, Landwasser, Lehen, Rieselfeld, Dietenbach, Opfingen, Tiengen, Munzingen, Waltershofen, Ebnet, Littenweiler, Kappel, Merzhausen, Au, Horben, Günterstal, Ebringen, Schallstadt, Bad Krozingen, Staufen, Heitersheim, Müllheim, Waldkirch, Hochdorf, Gundelfingen, Denzlingen, March, Umkirch, Gottenheim, Merdingen, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Vogtsburg, Breisach, Gündlingen, Kirchzarten, Stegen, Oberried, Buchenbach, Höllental, Hinterzarten, Breitnau, Titisee, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Breitscheid, Kloster Marienhaus, Wolfenacker, Kupferdreh, Überruhr, Bergerhausen, Rellinghausen, Stadtwald, Fischlaken, Werden, Burgaltendorf, Steele, Byfang, Rüttenscheid, Bredeney, Huttrop, Kettwig
+
+FAKTEN (Zielort Bötzingen):
+ID: 67-boetzingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Bötzingen
+FACETTE: LAGE | GESCHICHTE | ALLTAG | POLITIK
+QUELLE: https://boetzingen.de/start/tourismus.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Deutschland
+  bundesland: Baden-Württemberg
+  landkreis: Breisgau-Hochschwarzwald
+  lage_zu_kaiserstuhl: südöstliche Seite des Kaiserstuhles, ca. 15 km westlich von Freiburg
+  entfernung_freiburg: 15 km
+  erste_urkundliche_erwaehnung: 769
+  erste_erwaehnung_grund: Schenkung an Kloster Lorsch incl. Weingärten
+  beiname_seit: Weinbaugemeinde
+  beiname_gueltig_ab: 2022
+  buergermeister: Dieter Schneckenburger
+  buergermeister_seit: 2003
+  ortsteil: Oberschaffhausen
+  gebiet_breisgau_auszeichnung: familienfreundlichste Gemeinde des Landkreises 2007
+  gemeinde_gliederung: Dorf Bötzingen, Ort Oberschaffhausen, abgegangene Burgen Kranzenau und Seelenberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 67-boetzingen/002
+ENTITÄT: ort
+BEZEICHNUNG: Bötzingen
+FACETTE: ALLTAG | FREIZEIT
+QUELLE: https://boetzingen.de/start/wirtschaft/Standortdaten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 5528
+  einwohner_stand: 31.03.2026
+  auslaenderanteil_prozent: 14.7
+  durchschnittliche_familiengroesse: 2.6
+  haushalte: 2300
+  gemarkungsflaeche_ha: 1299
+  erholungsflaeche_ha: 11
+  siedlungs_verkehrsflaeche_ha: 271
+  landwirtschaftliche_flaeche_ha: 459
+  rebflaeche_ha: 340
+  wald_ha: 161
+  wassersflaeche_ha: 12
+  sozialversicherungspflichtig_beschaeftigte: 3160
+  auspendler: 1697
+  einpendler: 2630
+  arbeitslose: 137
+  arbeitslose_stand: 30.09.2026
+  religionsgehaeltnis_evangelisch_prozent: 33.5
+  religionsgehaeltnis_katholisch_prozent: 24.2
+  religionsgehaeltnis_sonstige_prozent: 42.3
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 67-boetzingen/003
+ENTITÄT: kirche
+BEZEICHNUNG: St. Laurentius
+FACETTE: GESCHICHTE | FREIZEIT
+ORTSTEIL_BEZUG: Bötzingen
+QUELLE: https://boetzingen.de/start/tourismus/sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  baustil: Spätgotik
+  bauzeit_anfang: 1275
+  alter_mindestalter: über 725 Jahre
+  besonderheit: Wehrturm asymmetrisch eingefügt
+  hochaltar_künstler: Hans Wyditz
+  hochaltar_künstler_einfluss: Schüler von Hans Baldung Grien, Mitarbeit am Freiburger Münster
+  sanierung: 2000-2002
+  sanierung_detail: Umgestaltung Chor- und Altarbereich durch Bernard Jensch
+  fresco_fragment: vermutliches Fragment Hl. Michael beim Weltgericht
+  bedeutung_fuer_ort: bedeutende Kirche im Kaiserstuhl, architektonisch einmalig
+  superlativ: bedeutende Kirche im Kaiserstuhl mit Keramikeinrichtungen
+  geburtstag_750: 20.07.2025
+GUELTIG_AB: 1275
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 67-boetzingen/004
+ENTITÄT: kirche
+BEZEICHNUNG: St. Albans Kapelle
+FACETTE: GESCHICHTE | FREIZEIT
+ORTSTEIL_BEZUG: Oberschaffhausen
+QUELLE: https://boetzingen.de/start/tourismus/sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustil: spätgotisch
+  bauzeit: 1473-1481
+  alter: 500 Jahre
+  anlass: Gelübde während Pestjahren 1473-1481 zum Schutz vor größerem Schaden
+  widmung: Pestheiliger Alban von Mainz
+  fresken: wertvolle Fresken und Wandmalereien aus Erbauungszeit
+  fresken_freilegung: 1962-1965
+  sehenswertes: Marienkrönung, symbolische Darstellung der Pest, überlebensgroßes Holzkreuz (Pestkreuz)
+  superlativ: berühmt für mittelalterliche Fresken
+  bedeutung_fuer_ort: wichtiges Baudenkmal der Gemeinde
+GUELTIG_AB: 1473
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 67-boetzingen/005
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche
+FACETTE: GESCHICHTE | FREIZEIT
+ORTSTEIL_BEZUG: Bötzingen
+QUELLE: https://boetzingen.de/start/tourismus/sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  baustil_original: kleinerer gotischer Bau
+  baustil_epoche_original: Reformationsjahrhundert
+  nutzung_ab: 1583
+  umbauten_detail: Verlängerung Kirchenschiff, Kirchenturmneubau nach 1847
+  innenrenovierung: 1994-1995
+  innenrenovierung_durchfuehrer: staatliches Vermögens- und Hochbauamt Freiburg
+  wiederherstellung_detail: ursprünglicher Hallencharakter wiederhergestellt
+  orgel_seit: 1997
+  orgel_typ: Mühleisen-Orgel mit 30 Registern
+  nutzung_besonderheit: verstärkt für geistliche Konzerte wie Bach in der Regio und Chorkonzerte
+  besonderheit_fussboden: ungewöhnlicher und sehenswerter Fußboden in Anlehnung an Kaiser-Wilhelm-Gedächtniskirche Berlin
+GUELTIG_AB: 1583
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 67-boetzingen/006
+ENTITÄT: freibad
+BEZEICHNUNG: Freibad Bötzingen
+FACETTE: FREIZEIT | INFRA
+QUELLE: https://boetzingen.de/start/tourismus/Freibad.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sanierung_kombibecken: 2013-2014
+  sanierung_kombibecken_detail: vollständige Neuauskleidung mit Edelstahl
+  schwimmerbereich_50m_bahnen: 3
+  schwimmerbereich_25m_bahnen: 3
+  nichtschwimmerbereich: groß mit zwei Wasserspeiern
+  wasserrutschbahn_gross: 17 Meter lang
+  wasserrutschbahn_breit: 12 Meter lange Breitwellenrutschbahn
+  sprungbereich_1m_brett: 1
+  sprungbereich_3m_brett: 1
+  kinderbecken_anlage: 2009 neu angelegt
+  kinderbecken_ebenen: zwei mit Rutsche verbunden
+  kinderbecken_sonnensegel: großes Sonnensegel
+  kinderbecken_ausstattung: Spritz-Igel, Spritz-Schlange, Rainbow-Rutsche, Seehund-Kinderdusche
+  freizeitvergnuegen_spielbereich: Sandkasten, Federtier-Wippen, Rutsche, Klettergerüst
+  minigolf: 18 Bahnen
+  tischtennisplatten: 3 davon 2 überdacht
+  beach_volleyballfelder: 2
+  fussballfeld: 1
+  tischkicker: 1
+  barrierefreiheit_zugaenge: barrierefrei
+  barrierefreiheit_umkleidekaebine: barrierefrei
+  barrierefreiheit_kombibecken: barrierefrei
+  barrierefreiheit_kiosk: barrierefrei
+  barrierefreiheit_becken_lifter: mobiler Becken-Lifter
+  barrierefreiheit_behinderten_wc: vorhanden
+  barrierefreiheit_parkplaetze: ausgewiesene Behindertenparkplätze
+  oeffnung_saison: Mitte Mai bis Mitte September
+  bedeutung_fuer_ort: wichtiges Freizeitangebot für Familien und Bevölkerung
+GUELTIG_AB: 2013
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 67-boetzingen/007
+ENTITÄT: bauwerk
+BEZEICHNUNG: Stockbrunnen
+FACETTE: GESCHICHTE | LAGE
+QUELLE: https://boetzingen.de/start/tourismus/sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Brunnen
+  lage: vor der katholischen Kirche
+  lage_detail: Kreuzung Hauptstraße und Sieglestraße
+  alter: vermutlich 8. Jahrhundert
+  genauigkeit: vermutlich
+GUELTIG_AB: 800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.68
+---
+ID: 67-boetzingen/008
+ENTITÄT: bauwerk
+BEZEICHNUNG: Herrenhaus bei der ehemaligen Mühle
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://boetzingen.de/start/tourismus/sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1578-1771
+  funktion: Herrschaftssitz
+  besitzer: Kammerrat Enderlin
+  geschichtliche_bedeutung: ja
+  besucher_notabel: Johann Wolfgang von Goethe
+  besucher_grund: genoss Bötzinger Wein
+  lage: direkt am Mühlbach
+  historische_funktion_muehle: Mühlbach lieferte Energie zum Betrieb der Mühle
+GUELTIG_AB: 1578
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 67-boetzingen/009
+ENTITÄT: bauwerk
+BEZEICHNUNG: Staffelgiebelhaus
+FACETTE: GESCHICHTE | LAGE
+QUELLE: https://boetzingen.de/start/tourismus/sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1605
+  umbauten: mehrfache Umbauten
+  besonderheit: in Giebeln integrierte Stufen (Staffeln)
+  namensursprung: Stufen in den Giebeln
+  nachbar_denkmal: Lindenplatz im Vordergrund
+  linde_erwaehnung: ursprünglich ältester Baum der Gemeinde
+  linde_pflanzung: 1870
+  linde_ersatz: 1996 durch Neupflanzung ersetzt (Sicherheit)
+GUELTIG_AB: 1605
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 67-boetzingen/010
+ENTITÄT: bauwerk
+BEZEICHNUNG: Fachwerkhaus der Familie Schaffner
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://boetzingen.de/start/tourismus/sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1533
+  renovierung: 1983
+  lage: Hauptstraße
+  historische_funktion: Gasthaus Löwen
+  erkennungszeichen: benachbarte Löwenstrauße noch heute erkennbar
+GUELTIG_AB: 1533
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 67-boetzingen/011
+ENTITÄT: platz
+BEZEICHNUNG: Dorfplatz Oberschaffhausen
+FACETTE: ALLTAG | FREIZEIT
+ORTSTEIL_BEZUG: Oberschaffhausen
+QUELLE: https://boetzingen.de/start/tourismus/sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erwerb_jahr: 1990
+  ausgestaltung: Erhaltung alte Scheune
+  scheune_nutzung: Aufbewahrung alter landwirtschaftlicher Geräte
+  funktion: Kommunikationszentrum
+  veranstaltungen: Hocks und Treffs
+  verwaltung: Verein Oberschaffhausner Dorfplatz e.V.
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 67-boetzingen/012
+ENTITÄT: platz
+BEZEICHNUNG: Platz der Generationen
+FACETTE: ALLTAG | FREIZEIT
+QUELLE: https://boetzingen.de/start/tourismus/platz+der+generationen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 2021
+  lage: Ortszentrum, Hauptstraße zwischen Rathaus und Tagespflegeeinrichtung
+  funktionen: Verweilen, Treffen mit Freunden, Outdoor-Fitnessgeräte
+  nachbar: Demenzgarten der Kirchlichen Sozialstation Nördlicher Breisgau e.V.
+  charakteristika: grüne Lunge der Ortsmitte
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 67-boetzingen/013
+ENTITÄT: faehigkeit
+BEZEICHNUNG: Freiwillige Feuerwehr Bötzingen
+FACETTE: INFRA | ALLTAG
+QUELLE: https://boetzingen.de/start/ffw/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grund_feuerloesch_ordnung: 1864 Feuerlöschordnung durch Großherzogliches Oberamt Emmendingen
+  grund_feuerloesch_ordnung_ausruestung: 2 Wagenspritzen, 1 Handspritze
+  grund_feuerloesch_ordnung_personal: 26 Männer
+  gruendung: 1903
+  gruendung_initiator: Bürgermeister Heinrich Lay
+  gruendung_initial_mitglieder: 94 Männer
+  gruendung_erster_hauptmann: Wilhelm Meier (Löwenwirt)
+  geraetehaus_erbau: 1912
+  geraetehaus_standort: Nähe damaliges Rathaus
+  loeschfahrzeug_LF8: 1963 neues modernes Fahrzeug
+  loeschfahrzeug_LF16: 1969 in Betrieb
+  sirenen_installation: 1954
+  funkgeraete: 1973
+  geraetehaus_neu: 1978 Allmendweg
+  feuerwehrfahne_neu: 1978
+  kreisfeuerwehrtag: 1978 erste in diesem Landkreis
+  fahrzeug_TLF16: 1979
+  fahrzeug_ausruestung_rettungssatz: 1979 Rettungssatz für Verkehrsunfälle
+  kooperationsvertrag_peguform: 1988 mit Peguform-Werken
+  drehleiter_magirus: 12.11.1991
+  drehleiter_uebergabe: Erste Landesbeamtin Frau Heute-Blum an Feuerwehrkommandant Helmut Kanzinger
+  geraetehaus_erweiterung: 1992 mit Eigenleistung
+  fahrzeug_LF16_8: 2000
+  geraetehaus_erneuerung: 2015-2016
+  geraetehaus_erneuerung_kosten: 3 Millionen Euro
+  geraetehaus_erneuerung_eigenleistung_stunden: 6000
+  fahrzeughalle_fuer_fahrzeuge: 5
+  funkzentrale_neu: erweiterte Funkzentrale
+  jugendraum_flaeche: 53 qm
+  bedeutung_fuer_ort: Brandschutz und Sicherheit der Gemeinde
+GUELTIG_AB: 1903
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 67-boetzingen/014
+ENTITÄT: verein
+BEZEICHNUNG: Förderverein der Freiwilligen Feuerwehr Bötzingen
+FACETTE: ALLTAG | FREIZEIT
+QUELLE: https://boetzingen.de/start/ffw/foerderverein.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 12.04.2005
+  zweck: ideelle und finanzielle Unterstützung der Feuerwehr
+  gemeinnuetzigkeit: ja
+  schwerpunkte: Jugendfeuerwehr, Ehrenabteilung, Lehrgänge, Öffentlichkeitsarbeit, Kameradschaft, Events, Hilfe
+  mitgliedsbeitrag_privatperson_euro_pro_jahr: 10
+  mitgliedsbeitrag_betriebe_vereine_euro_pro_jahr: 30
+  vorsitzender_aktuell: Gerd Kanzinger
+  vorsitzender_gewahl: 23.04.2022
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 67-boetzingen/015
+ENTITÄT: verein
+BEZEICHNUNG: Angelfreunde Bötzingen
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://boetzingen.de/start/Vereine.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 01.11.1979
+  zweck: Fischerei und Pachten von Fließgewässern
+  vereinsgelaende_bereitstellung: 1980 von Gemeinde Gewann Wolfert
+  vereinsgelaende_ausbau: Weiher mit Biotop angelegt in mehreren Bauabschnitten
+  initial_aktivitaeten: Hege und Pflege Fischbestand
+  besonderheit_ig_dreisam: Mitbegründer IG Dreisam 2000 zur Renaturierung
+  weitere_aktivitaeten: Fisch & Wein Wochenende, Dorf- und Weinfest
+  mitgliedschaft_voraussetzung_aktiv: Fischereiprüfung und Fischereischein
+  mitgliedschaft_jugendliche: 12-16 Jahre keine Prüfung, nach 16 Jahren Prüfung erforderlich
+  vereinsweiher_fischarten_karpfen: Schuppen- und Spiegelkarpfen
+  vereinsweiher_fischarten_weitere: Schleie, Zander
+  fliessgewaesser_fischarten: Bachforelle, Karpfen, Aal, Hecht, Barbe, Barsch, Döbel, Rotauge
+  vorsitzender_name: Uwe Schneider
+GUELTIG_AB: 1979
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 67-boetzingen/016
+ENTITÄT: verein
+BEZEICHNUNG: Bläserjugend Bötzingen
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://boetzingen.de/start/Vereine.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 15.06.2000
+  ursprung: aus Musikverein Bötzingen hervorgegangen
+  erster_vorsitzender: Daniel Weigele
+  zweiter_vorsitzender: Ariane Bernauer
+  hauptaufgabe: Ausbildung beim Erlernen neuer Instrumente
+  unterricht: Musikschule im Breisgau e.V.
+  jugendorchester: ja
+  jugendorchester_dirigent: Dirigent des Musikvereins Bötzingens
+  probe_freitag_uhrzeit: 18:45 Uhr vor Musikverein-Probe
+  veranstaltungen: Platzkonzert, Jahreskonzert Musikverein, Dorffest
+  altersklasse: ca. 7 bis 18 Jahre
+  mitgliedsbeitrag_einzelunterricht_30min: 60.75 euro monatlich
+  mitgliedsbeitrag_einzelunterricht_20min: 40.50 euro monatlich
+  mitgliedsbeitrag_zusatz: 12 euro Jahresbeitrag
+  mitgliedsbeitrag_passiv_jaehrlich: 10 euro
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 67-boetzingen/017
+ENTITÄT: verein
+BEZEICHNUNG: Arbeiterwohlfahrt Ortsverein Bötzingen
+FACETTE: ALLTAG | KULTUR
+QUELLE: https://boetzingen.de/start/Vereine.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 06.11.1975
+  initial_mitglieder: 2
+  initial_wachstum_januar_1976: 8 Mitglieder
+  mitgliederzahl_stand_februar_2014: ca. 50
+  ursprung_uebergeordnet: Arbeiterwohlfahrt 1919 Berlin durch Marie Juchacz
+  aktivitaeten_kindererholungen: Ferienfahrten seit 1976
+  aktivitaeten_kindererholungen_1976: 19 Kinder
+  aktivitaeten_kindererholungen_1977: 27 Kinder
+  aktivitaeten_kindererholungen_1978: 57 Kinder
+  aktivitaeten_weiteres: Mutter-Kind-Kuren, Familienerholungen
+  mobiler_sozialer_hilfsdienst: 1985 gestartet mit 2 Zivildienstleistenden
+  mobiler_sozialer_hilfsdienst_ende: 2007 aufgelöst
+  mobiler_sozialer_hilfsdienst_gesamtzahl_zivis: 72 junge Männer 1985-2007
+  ferienaktion_start: 1991
+  aktivitaeten_weitere: Kaffeenachmittag monatlich im Seniorenheim
+  adventsfenster_init: 2009
+  jahresbeitrag_ab: 36 euro
+  vorsitzende: Sabine Balazs-Ziser
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 67-boetzingen/018
+ENTITÄT: badischer_landwirtschaftlicher_verband
+BEZEICHNUNG: BLHV Ortsverein Bötzingen
+FACETTE: ALLTAG | WIRTSCHAFT
+QUELLE: https://boetzingen.de/start/Vereine.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  uebergeordnet: Badischer Landwirtschaftlicher Hauptverband
+  mitglieder_ortsverein: 76
+  vorstandschaft_mitglieder: 6
+  repraesentierte_bereiche: Ackerbau, Tierhaltung, Wein- und Obstbau, Wald, Hofladen, Ferienbauernhof
+  sitz_hauptgeschaeftsstelle: Freiburg im Breisgau
+  bezirksgeschaeftsstellen_suedbaden: 7
+  versicherung_verwaltung: Landwirtschaftliche Sozialversicherung Baden-Württemberg
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.78
+---
+ID: 67-boetzingen/019
+ENTITÄT: winzergenossenschaft
+BEZEICHNUNG: Bötzinger eG
+FACETTE: WIRTSCHAFT | ALLTAG
+QUELLE: https://boetzingen.de/start/wirtschaft/boetzinger+eg.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1935
+  gruender_anzahl: 64 Winzer
+  charakteristikum_aelteste_weinbaugemeinde: älteste Weinbaugemeinde Badens
+  entwicklung: vom Betrieb zu einem der größten und modernsten der Region
+  gesamtrebflaeche_ha: 360
+  winzer_aktuell: etwa 300 Winzerinnen und Winzer
+  bodentyp: fruchtbar, mineralhaltig, vulkanischer Untergrund
+  sonnenstunden_vergleich: im Südwesten unvergleichlich viele Stunden
+  rebsorten_hauptrebsorten_prozent_burgunder: ca. 70%
+  rebsorten_hauptrebsorten: Weißburgunder, Grauburgunder, Spätburgunder
+  rebsorten_weitere: Chardonnay, Silvaner, Müller-Thurgau, Sauvignon Blanc, Gewürztraminer, Muskateller, Riesling, Scheurebe
+  fassungsvermoegen_liter: mehr als 10 Millionen
+  fassungsvermoegen_eichenholzfaesser_liter: 250.000
+  nachhaltigkeit_piwi: einige Winzer mit pilzwiderstandsfähigen Rebsorten
+  nachhaltigkeit_vorteil: weniger Pflanzenschutz, weniger CO2-Ausstoß
+  handwerk_detail: viele Trauben von Hand gelesen, Rote auf Maische vergoren im Holzfass, Weißweine im Edelstahl oder Barrique
+  marketing: Weinfeste Region, Weinwanderung April, Vinothek ganzjährig, Online-Bestellung
+  oeffnungszeiten_januar_dezember: Montag-Freiag 8:30-12:30 und 14:00-17:00 Uhr
+  oeffnungszeiten_april_dezember_zusatz: Samstag 09:00-13:00 Uhr
+  bedeutung_fuer_ort: prägender Wirtschaftsfaktor, kulturelles Erbe, Wahrzeichen der Region
+GUELTIG_AB: 1935
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 67-boetzingen/020
+ENTITÄT: weingut
+BEZEICHNUNG: Weingut Josef Ambs
+FACETTE: WIRTSCHAFT
+QUELLE: https://boetzingen.de/start/wirtschaft/weingueter.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Weingartenhof 1, 79268 Bötzingen
+  telefon: 07663 / 2020
+  website: www.weingut-ambs.de
+GUELTIG_AB: 0
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 67-boetzingen/021
+ENTITÄT: weingut
+BEZEICHNUNG: Weingut Thomas Brodbeck
+FACETTE: WIRTSCHAFT
+QUELLE: https://boetzingen.de/start/wirtschaft/weingueter.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Wasenweilerstraße 17-19, 79268 Bötzingen
+  telefon: 07663 / 6565
+  website: www.weingut-brodbeck.de
+GUELTIG_AB: 0
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 67-boetzingen/022
+ENTITÄT: weingut
+BEZEICHNUNG: Weingut Höfflin
+FACETTE: WIRTSCHAFT
+QUELLE: https://boetzingen.de/start/wirtschaft/weingueter.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Schambachhof, 79268 Bötzingen
+  telefon: 07663 / 1474
+  website: www.weingut-hoefflin.de
+GUELTIG_AB: 0
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 67-boetzingen/023
+ENTITÄT: weingut
+BEZEICHNUNG: Weingut Thomas Schaffner (biologisch)
+FACETTE: WIRTSCHAFT
+QUELLE: https://boetzingen.de/start/wirtschaft/weingueter.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Hauptstraße 82, 79268 Bötzingen
+  telefon: 07663 / 4417
+  website: www.weingut-schaffner.de
+  anbauweise: biologisch
+GUELTIG_AB: 0
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 67-boetzingen/024
+ENTITÄT: unternehmen
+BEZEICHNUNG: Samvardhana Motherson Peguform (SMP Deutschland GmbH)
+FACETTE: WIRTSCHAFT | INFRA
+QUELLE: https://boetzingen.de/start/wirtschaft/Unternehmen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegenwaertiger_name: SMP Deutschland GmbH
+  früherer_name: Badische Plastikwerke, Peguform-Werke
+  produkttyp: Kunststoffteile für Automobilindustrie
+  arbeitspläetze: ca. 1350
+  bedeutung_fuer_ort: größter Arbeitgeber Bötzingens, überregional bekannt
+  kooperation_feuerwehr: Kooperationsvertrag mit Feuerwehr seit 1988
+  superlativ: größter Arbeitgeber
+GUELTIG_AB: 1935
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 67-boetzingen/025
+ENTITÄT: unternehmen
+BEZEICHNUNG: Hans G. Hauri KG Mineralstoffwerke
+FACETTE: WIRTSCHAFT | INFRA
+QUELLE: https://boetzingen.de/start/wirtschaft.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  produkt: Naturfango
+  marktstellung: größter Hersteller und Lieferant im deutschsprachigen Raum
+  kunden_regionen: Deutschland, Schweiz, Österreich, Italien, Luxemburg
+  bedeutung_fuer_ort: bedeutender regionaler Arbeitgeber
+  superlativ: größter Naturfango-Hersteller deutschsprachiger Raum
+GUELTIG_AB: 1935
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.83
+---
+ID: 67-boetzingen/026
+ENTITÄT: unternehmen
+BEZEICHNUNG: Liveo Research GmbH
+FACETTE: WIRTSCHAFT
+QUELLE: https://boetzingen.de/start/wirtschaft/Unternehmen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  früherer_name: Bilcare
+  adresse: Schloßmattenstraße 2
+GUELTIG_AB: 1935
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 67-boetzingen/027
+ENTITÄT: unternehmen
+BEZEICHNUNG: Zimmerlin Edelstahltechnik GmbH
+FACETTE: WIRTSCHAFT
+QUELLE: https://boetzingen.de/start/wirtschaft/Unternehmen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Frohmattenstraße 19
+GUELTIG_AB: 1935
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 67-boetzingen/028
+ENTITÄT: erlebnispfad
+BEZEICHNUNG: Weinlehrpfad
+FACETTE: FREIZEIT
+QUELLE: https://boetzingen.de/start/tourismus/erlebnispfade.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge_km: 10
+  typ: Rundwanderweg
+  thema: Weinlehrpfad
+  initiator: Gemeinschaftsaktion Bötzinger Winzerkreis und Gemeinde
+  start: Bahnhof / Rathaus
+  strecke: Untere Leimengasse, Ueben- und Fuchsbuck, Vogelsang, Gemeindewald, Flurbereinigung, Seelenbergweg
+  dauer_stunden: 2.5
+  wegweiser: Traubensymbole
+  aussichten: Schwarzwald, Freiburg, Rheinebene
+  informationstafeln: ja
+  informationstafeln_themen: Bötzingen, Flora und Fauna des Kaiserstuhles, Weinbau
+  ortspläne: Bahnhof, Rathaus, Vogelsang
+  gefuehrte_wanderung: möglich
+  gefuehrte_wanderung_optionen: mit oder ohne Weinprobe
+GUELTIG_AB: 0
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 67-boetzingen/029
+ENTITÄT: erlebnispfad
+BEZEICHNUNG: Bötzinger Brunnenpfad
+FACETTE: FREIZEIT
+QUELLE: https://boetzingen.de/start/tourismus/erlebnispfade.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge_km: 7
+  typ: familienfreundlicher Rundwanderweg
+  thema: Wasser ist Leben
+  start: Ortsmitte am Bahnhof
+  haltestellen_bruennen: 12 Laufbrunnen
+  sehenswuerdigkeiten: Buntehahle-Hohlgasse, Oberschaffhausner Dorfplatz, St. Albankapelle, beide Kirchen
+  abkuerzung_alternative: Seelenbergpfad am Bachrain
+  abkuerzung_steigung: geringere Steigung
+  dauer_stunden: 2.5
+  informationstafeln: 17 Thementafeln
+  informationstafeln_themen: Bedeutung Wasser für Mensch und Tier, Obst- und Weinbau, Gewerbe, Feuerwehr
+  attraktion_kinder: Wasser-Matsch-Bereich am Spielplatz Im Grün
+  pausenplatz: Platz der Begegnung an der Bergstraße vor Wilhelm-August-Lay Schule
+  pausenplatz_ausstattung: Bötzinger Wappentier Bär, neues Klettergerüst
+  foerderung: PLENUM Naturgarten Kaiserstuhl, Kaiserstühler Themenpfade
+  projektziel: Bewusstsein für Natur, Umwelt und Nachhaltigkeit
+  flyer: Infotafel am Bahnhof oder Rathaus Zimmer 0.01
+GUELTIG_AB: 0
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.84
+---
+ID: 67-boetzingen/030
+ENTITÄT: erlebnispfad
+BEZEICHNUNG: Bötzinger Schambach-Erlebnispfad
+FACETTE: FREIZEIT | LAGE
+QUELLE: https://boetzingen.de/start/tourismus/erlebnispfade.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge_km: 1.7
+  typ: Rundweg
+  kinderwagenfaehig: ja
+  start_bahnhof: von Bahnhof Wegweisung Brunnenpfad bis Station 10
+  ausstattung_trockenmauer: aus Steinen alten Bötzinger Bauernhofes
+  ausstattung_trockenmauer_funktion: Unterschlupf Eidechsen und Blindschleichen
+  ausstattung_guckloch: Perspektive Eidechse
+  bluehstreifen: neu angelegt aus Kaiserstühler Trockenwiesen
+  biodiversitaet: Insektenhotels, Hecken, Totholz, Stein- und Reisighaufen
+  fauna_zielarten: Schmetterlinge, Wildbienen, Mauswiesel, Maikäfer
+  audiogenerator: Sonnenenergie-betriebenes Wiedergabegerät
+  audiogenerator_thema: Kaiserstühler Vogelstimmen
+  infografik: Schmetterlingspanorama, Schaubienenkasten
+  projektname: Natur im Schambachtal erleben
+  projektbeteiligte: Wilhelm-August-Lay-Schule Bötzingen, Lehrer, Schüler, Grundstückseigentümer
+  foerderung: PLENUM Naturgarten Kaiserstuhl
+  informationsmaterial: Ortsplan, Quiz, Flyer
+GUELTIG_AB: 0
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.84
+---
+ID: 67-boetzingen/031
+ENTITÄT: erlebnispfad
+BEZEICHNUNG: Bötzinger Walderlebnispfad
+FACETTE: FREIZEIT | LAGE
+QUELLE: https://boetzingen.de/start/tourismus/erlebnispfade.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  protagonist: Ameise Fridolin
+  lage: Spielplatz Erlenschachenwald
+  kinderwagenfaehig: ja
+  route: Weg durch den Wald mit Informationstafeln
+  stationen: Sprungweiten-Vergleiche Waldtiere, Ameisennest zum Klettern, Barfußpfad
+  lernthemen: Waldmaus, Frosch, Hase, Reh Sprungweiten
+  waldklassenzimmer: ja
+  raetsel_anzahl: 2
+  raetsel_themen: Wasserkreislauf, Körperbau der Ameise
+  lernstation_baumhoehe: Förster-Methode, Selbstausprobiermöglichkeit
+  lernstation_kraft: Kraftvergleich Ameisen vs. Menschen
+  ausgangs_endpunkt: Waldspielplatz Erlenschachen
+  ausgangs_endpunkt_funktion: Picknick
+  projektbeteiligte: Wilhelm-August-Lay-Schule Bötzingen, Lehrer, Schüler, Gemeinde
+  foerderung: Innovationsfonds Klima- und Wasserschutz badenova AG & Co. KG, PLENUM Naturgarten Kaiserstuhl
+  informationsmaterial: Faltblatt im Rathaus, PDF
+GUELTIG_AB: 0
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.83
+---
+ID: 67-boetzingen/032
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Kaiserstuhlbahn
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  betrieb_staerkung: S-Bahn-Anbindung gute Qualität
+  haltestellen: Bötzingen, Bötzingen Mühle
+  takt_werktags: Halbstunden-Takt
+  fahrzeit_freiburg: ca. 15 Minuten zum Stadtzentrum Freiburg
+  elektrifizierung: 2019 vollständig elektrifiziert
+  bedeutung_fuer_ort: wichtige Verkehrsanbindung zur Metropole
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 67-boetzingen/033
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Kaiserstuhlradweg
+FACETTE: INFRA | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Radweg
+  route: rund um den Kaiserstuhl
+  verbindungen: Bötzingen mit Gottenheim und Eichstetten
+  anschluss_freiburg: über March
+  bedeutung_fuer_ort: wichtige Freizeitanbindung in der Region
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 67-boetzingen/034
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Frelo Fahrradverleihsystem
+FACETTE: INFRA | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  start: März 2026
+  station_standort: Bahnhof
+  bedeutung_fuer_ort: Verbesserung Verkehrsmobilität in der Region
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 67-boetzingen/035
+ENTITÄT: freizeitstaette
+BEZEICHNUNG: Hohrainbuckhütte
+FACETTE: FREIZEIT
+QUELLE: https://boetzingen.de/start/tourismus/Freizeitplaetze.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_hoehe: Hohrainbuck, 365 m ü. M.
+  aussicht: Blick auf Rheinebene und südlichen Schwarzwald
+  aussicht_berge: Blauen, Belchen, Schauinsland, Feldberg, Kandel
+  funktion: Grillplatz, Veranstaltungsort
+  spielplatz_kinder: Kinderspielplatz errichtet
+  nutzungsregelung: Anmietung erforderlich
+  vermietung_saison: April bis September
+  vermietung_gebuehr_euro: 30
+  vermietung_bedingung: nur an Bötzinger Einwohner, Bötzinger Vereine und Organisationen
+  rastplaetze: Verweilen für Wanderer und Radfahrer gestattet
+  bedeutung_fuer_ort: beliebter Ausflugsort mit Panoramablick
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.86
+---
+ID: 67-boetzingen/036
+ENTITÄT: freizeitstaette
+BEZEICHNUNG: Multifunktionsfeld "Im Ried"
+FACETTE: FREIZEIT
+QUELLE: https://boetzingen.de/start/tourismus/Freizeitplaetze.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: Sommer 2020
+  zielgruppe: Kinder und Jugendliche
+  ballsportarten: Basketball, Volleyball, Fußball
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 67-boetzingen/037
+ENTITÄT: freizeitstaette
+BEZEICHNUNG: Bolzplatz "Im Grün"
+FACETTE: FREIZEIT
+QUELLE: https://boetzingen.de/start/tourismus/Freizeitplaetze.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Gewann Im Grün ruhig gelegen direkt an asphaltierten Landwirtschaftsweg
+  groesse: mittelgroß
+  zielgruppe: Kinder und Jugendliche Bolzspezialisten
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 67-boetzingen/038
+ENTITÄT: freizeitstaette
+BEZEICHNUNG: Skateplatz
+FACETTE: FREIZEIT
+QUELLE: https://boetzingen.de/start/tourismus/Freizeitplaetze.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: Sommer 2020
+  zielgruppe: Kinder und Jugendliche
+  sportarten: Skateboard, BMX, Inliner, Scooter
+  design: abwechslungsreiche Ausstattung
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 67-boetzingen/039
+ENTITÄT: freizeitstaette
+BEZEICHNUNG: Bouleplatz "Im Grün"
+FACETTE: FREIZEIT
+QUELLE: https://boetzingen.de/start/tourismus/Freizeitplaetze.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: ruhig gelegen über Baugebiet Im Grün sehr gut erreichbar
+  besonderheit: unter Mithilfe engagierter Bürger angelegt
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 67-boetzingen/040
+ENTITÄT: museum
+BEZEICHNUNG: Old- und Youngtimer-Museum
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 2013
+  vorgeschichte: Oldtimermuseum des DAVC
+  ausstellung: alte Automobile und Motorräder
+  bedeutung_fuer_ort: kulturelle Attraktion für Besucher
+GUELTIG_AB: 2013
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 67-boetzingen/041
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Bötzinger Dorf- und Weinfest
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  rhythmus: zweijährlich
+  zeitpunkt: 2. Septemberwochenende
+  zeitpunkt_jahre: nur gerade Jahre
+  charakteristikum: Fest mit Regionsbezug und Traditionen
+  bedeutung_fuer_ort: wichtiges Kulturfest der Gemeinde
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.83
+---
+ID: 67-boetzingen/042
+ENTITÄT: ort
+BEZEICHNUNG: Bötzingen
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung: 769
+  erste_erwaehnung_anlass: Schenkung an Kloster Lorsch (Lorscher Codex)
+  erste_erwaehnung_detail: Odilrat schenkte landwirtschaftliche Einrichtungen incl. Weingärten in Betzinger marca
+  erste_erwaehnung_zweite: 878-879 Kloster Schuttern erhält Hofreite
+  oberschaffhausen_erste_erwaehnung: 12. Jahrhundert
+  oberschaffhausen_grund: Papst Eugen III. bestätigt Besitzungen Kloster St. Ulrich Schwarzwald 1143
+  vereinigung_gemeinde: 1838 Bötzingen und Oberschaffhausen zur Gemeinde vereinigt
+  weltkrieg_erste: Menschen konfrontiert mit Mangel und Hunger trotz Selbversorger-Möglichkeit
+  weltkrieg_erste_detail: landwirtschaftliche Erzeugnisse zur Versorgung Freiburg herangezogen
+  beiname_verleihung: 1. Oktober 2022
+  beiname: Weinbaugemeinde
+  superlativ_wein: älteste Weinbaugemeinde Badens mit erster urkundlicher Erwähnung 769
+GUELTIG_AB: 769
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 67-boetzingen/043
+ENTITÄT: region
+BEZEICHNUNG: Kaiserstuhl
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://boetzingen.de/start/wirtschaft/Wein_+Obst_+Gemuesebau.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: zwischen Schwarzwald und Vogesen in Oberrheinischer Tiefebene
+  geologie: vulkanischer Ursprung
+  klima_charakteristika: mild
+  klima_auszeichnung: wärmste und sonnenreichste Region Deutschlands
+  besonderheit_fruechte: Feigen und Kiwis wachsen
+  bodenqualitaet: ideal für Weinanbau
+  flaeche_rebanbau_ha: 340 in Bötzingen
+  fauna_pflanze_besonderheit: Orchideen
+  fauna_tier_besonderheit: Eidechsen, Gottesanbeterinnen, Schmetterlinge, spezielle Vogel- und Insektenarten
+  kulinarisches_besonderheit: Bötzinger Wein über Grenzen Badens bekannt
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 67-boetzingen/044
+ENTITÄT: gewässer
+BEZEICHNUNG: Mühlbach
+FACETTE: LAGE | WIRTSCHAFT
+QUELLE: https://boetzingen.de/start/tourismus/sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  historische_funktion: Energiequelle für Mühle-Betrieb
+  bekannter_ort: fließt an Herrenhaus bei ehemaligen Mühle vorbei
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 67-boetzingen/045
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Phonolith in Bötzingen
+FACETTE: WIRTSCHAFT | LAGE
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  material: Phonolith (Gestein)
+  eigenschaft_wertvoll: besonders wertvoll
+  anwendung_klimaschutz: Zementgehalt im Beton kann verringert werden
+  anwendung_klimaschutz_effekt: CO2-Ausstoß kann gesenkt werden
+  bedeutung_fuer_ort: Rohstoffquelle mit Umweltbedeutung
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.78
+---
+ID: 67-boetzingen/046
+ENTITÄT: person
+BEZEICHNUNG: Dieter Schneckenburger
+FACETTE: POLITIK
+QUELLE: https://boetzingen.de/start/tourismus.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Bürgermeister
+  amt_seit: September 2003
+  wahlperioden: 2. Amtszeit 2011, 3. Amtszeit 2019
+  charakterisierung_schreiben_qualitaeten: leitend, engagiert für Tourismus und Wirtschaft
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 67-boetzingen/047
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Meier
+FACETTE: ALLTAG | GESCHICHTE
+QUELLE: https://boetzingen.de/start/ffw/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Löwenwirt
+  funktion: erster Feuerwehrhauptmann
+  funktion_erwaehlung: Gründungsversammlung 1903
+  zeit_aktiv: 1903
+GUELTIG_AB: 1903
+GUELTIG_BIS: 1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.82
+
