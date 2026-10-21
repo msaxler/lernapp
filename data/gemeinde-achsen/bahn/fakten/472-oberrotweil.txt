@@ -1,0 +1,425 @@
+ID: 472-oberrotweil/001
+ENTITÄT: ort
+BEZEICHNUNG: Oberrotweil
+FACETTE: LAGE | GESCHICHTE | ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Oberrotweil | Wikipedia
+EIGENSCHAFTEN:
+  einwohnerzahl: 1600 (ca.)
+  ortsteil_von: Vogtsburg
+  eigenstaendige_gemeinde_bis: 1975
+  zentrale_lage: größter und zentral liegender Ortsteil von Vogtsburg
+  bestandteile: Oberrotweil und Niederrotweil
+  sitzt_stadtverwaltung: true
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 472-oberrotweil/002
+ENTITÄT: ort
+BEZEICHNUNG: Oberrotweil
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Oberrotweil | Wikipedia
+EIGENSCHAFTEN:
+  gemarkungsgroesse: 3736 ha
+  lage: Krottenbachtal, öffnet sich nach Westen gegen Rhein (5 km entfernt)
+  rheinentfernung: 5 km
+  form: lang und schmal (Dorf in Tal eingezwängt)
+  hoechster_punkt_kaiserstuhl: Totenkopf (557 m)
+  hoechster_punkt_oberrotweil: Totenkopf
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 472-oberrotweil/003
+ENTITÄT: ort
+BEZEICHNUNG: Oberrotweil
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Oberrotweil | Wikipedia
+EIGENSCHAFTEN:
+  urkundliche_erstuerwaehnungsjahr: 972
+  urkundliche_ersterwaehnung: Rótuuila
+  fruehe_siedlung_jungsteinzeit: true
+  fruehe_siedlung_bronzezeit: true
+  fruehe_siedlung_eisenzeit: true
+  roemische_siedlung: Niederrotweil (Ziegelfeld)
+  alemannische_besiedlung_ab: 7. Jahrhundert (vermutlich)
+  alemannisches_reihengraeberfund_oberrotweil: 1925 (unterer Ortseingang)
+  alemannisches_steinkistengrab_niederrotweil: 1930
+  unterstellung_zehntherrschaft: Kloster St. Blasien (mehrere Jahrhunderte)
+  zehnthofkauf_dischinger: 1680
+  zugehoerigkeit_habsburger: seit 1330 (Herrschaft Burkheim)
+  charakterisierung_habsburger_zeit: vorderösterreichisch
+  integration_badisches_grossherzogtum: 1806
+  namensaenderung_rothweil_oberrotweil: 1906
+  erste_weltkrieg_versorgung: Freiburg
+  eingliederung_oberbergen: 1973
+  gemeindereform: 1975 (Zusammenfassung mit 6 weiteren Gemeinden zu Vogtsburg)
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 472-oberrotweil/004
+ENTITÄT: flurbereinigung
+BEZEICHNUNG: Flurbereinigung Kaiserstuhl
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Oberrotweil | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: 1970er
+  umfang: größte Flurbereinigung des Kaiserstuhls (im Norden)
+  auswirkung_vorher: kleinräumige Terrassenlandschaft mit vielen kleinen Tälern und Hügeln
+  auswirkung_nachher: große zusammenhängende Terrassen mit maschinellem Einsatz
+  betroffene_orte_badenberg_mondhalde: true
+  konsequenz_biotope_vernichtet: true
+  konsequenz_hohlgassen_zerstoert: true
+  konsequenz_gewanne_nicht_unterscheidbar: true
+  konsequenz_frostgefaehrdung: erhöht durch Kälteseen
+  vorteil_rationalisierung: Maschineneinsatz möglich
+  vorteil_zugang: asphaltiertes Wegesystem
+  vorteil_weinlese: erheblich vereinfacht (Wegfall steiler Flächen)
+  bewertung_befuerworter: Grund für Erhalt hauptberuflicher Winzer
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 472-oberrotweil/005
+ENTITÄT: kirche
+BEZEICHNUNG: St. Michael
+FACETTE: GESCHICHTE | KULTUR
+ORTSTEIL_BEZUG: Niederrotweil
+QUELLE: https://de.wikipedia.org/wiki/Oberrotweil | Wikipedia
+EIGENSCHAFTEN:
+  ort: Niederrotweil
+  typ: älteste Kirche Oberrotweils
+  bautyp_kern: frühromanisch
+  erste_urkundliche_erwaehnung: um 1157
+  umbau_stil: gotischer Stil
+  wandmalereien_chor: 14. Jahrhundert
+  altar_meister: HL
+  altar_entstehung: 20er Jahre des 16. Jahrhunderts
+  altar_typ: Schnitzaltar mit Schrein und zwei Flügeln
+  altar_zentrum: Maria (von Gott und Jesus gerahmt)
+  altar_auftraggeber: Kloster St. Blasien
+  altar_besonderheit: Meisterstück oberrheinischer Spätgotik
+  altar_vergleich: wie Altar im Breisacher Stephansmünster (gleicher Meister)
+  organ_jahr: 1759
+  organ_besonderheit: älteste bespielbare Orgel des Breisgaus
+  organ_meister: Adrien Joseph Pottier
+  bedeutung_ueberregional: true
+  superlativ: älteste bespielbare Orgel des Breisgaus
+GUELTIG_AB: 1157
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 472-oberrotweil/006
+ENTITÄT: kirche
+BEZEICHNUNG: St. Pantaleon
+FACETTE: KULTUR | GESCHICHTE
+ORTSTEIL_BEZUG: Niederrotweil
+QUELLE: https://de.wikipedia.org/wiki/Oberrotweil | Wikipedia
+EIGENSCHAFTEN:
+  ort: Niederrotweil (am Talrand)
+  lage: direkt an Reben angrenzend
+  baufertigstellung: 1741
+  groesse: klein
+  ziel: spezieller Wallfahrt
+  wallfahrtstag: Sonntag nach Gedenktag des heiligen Pantaleon
+  heiliger: heiliger Pantaleon (einer der 14 Nothelfer)
+  wallfahrts_historische_bedeutung: früher sehr groß
+  pilger_herkunft: früher aus Elsass und entfernten Ecken des Breisgaus
+  wunderheilungen_ueberlieferung: Votivtafeln belegen Heilungen
+  brauch_pferdesegen: jährlich bis heute
+  pferdesegen_moderne_ausfuehrung: Reitpferde (früher Arbeitspferde)
+GUELTIG_AB: 1741
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 472-oberrotweil/007
+ENTITÄT: kirche
+BEZEICHNUNG: St. Johannes Baptist
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Oberrotweil | Wikipedia
+EIGENSCHAFTEN:
+  lage: Oberrotweil (oberer Ortsteil)
+  typ: Pfarrkirche
+  bauzeit: 1835-1838
+  planer: Hans Voss (Weinbrenner-Schüler), Vorentwürfe Heinrich Hübsch
+  stil: Weinbrenner-Stil
+  ausmalung: überregionale Beachtung
+  orgel_typ: Merklin-Orgel
+  orgel_jahr: 1839
+  orgel_zustand: weitestgehend original erhalten
+  orgel_wertigkeit: kostbar
+GUELTIG_AB: 1835
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 472-oberrotweil/008
+ENTITÄT: aussichtspunkt
+BEZEICHNUNG: Mondhalde
+FACETTE: LAGE | FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.vogtsburg.de/de-de/tourismus/natur-urlaub-aktiv/traumhafte-aussicht-en | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 370 m
+  beschreibung: im Herzen des Kaiserstuhls gelegen
+  weglaenge: 2 km
+  informationstafeln: vorhanden (viersprachig) mit Weinsorten-Information
+  aussicht_rheintal: ja
+  aussicht_burgundische_pforte: ja
+  erreichbarkeit_fahrrad: möglich (Serpentinenstraße)
+  erreichbarkeit_ebike: empfohlen
+  bedeutung_fuer_ort: Panoramablick, Aussichtspunkt im Herzen des Kaiserstuhls
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 472-oberrotweil/009
+ENTITÄT: bad
+BEZEICHNUNG: Freibad Vogtsburg (Oberrotweil)
+FACETTE: FREIZEIT | ALLTAG
+ORTSTEIL_BEZUG: Oberrotweil
+QUELLE: https://www.vogtsburg.de/de-de/leben-wohnen/foerderverein-freibad-vogtsburg-e-v/informationen-zum-foerderverein-freibad-vogtsburg-e-v | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Freibad
+  charakteristik: Familienbad
+  beliebtheit_grund: gemütliche Atmosphäre und überschaubare Größe
+  bedeutung_freizeit: wertvolles Freizeitangebot für Kinder und Jugendliche
+  bedeutung_sozial: sozialer Treffpunkt
+  bedeutung_touristisch: touristischer Bedeutung
+  sanierung_status: in Planung
+  foerderverein: gegründet
+  beschreibung: beliebtes Bad im inneren Kaiserstuhl
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 472-oberrotweil/010
+ENTITÄT: bahnhof
+BEZEICHNUNG: Oberrotweil
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.vogtsburg.de/de-de/tourismus/natur-urlaub-aktiv/freizeitangebote-erlebnisse/erlebnisreiche-touren | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Oberrotweil
+  funktion: Treffpunkt für Naturschutzgebiet-Touren
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 472-oberrotweil/011
+ENTITÄT: weingut
+BEZEICHNUNG: Weingut Salwey
+FACETTE: ALLTAG | WIRTSCHAFT
+ORTSTEIL_BEZUG: 
+QUELLE: ZEUGEN | OpenStreetMap
+EIGENSCHAFTEN:
+  typ: Weingut
+  ansaessigkeit: Oberrotweil
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.60
+---
+ID: 472-oberrotweil/012
+ENTITÄT: weingut
+BEZEICHNUNG: Weingut Freiherr von Gleichenstein
+FACETTE: GESCHICHTE | WIRTSCHAFT | ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Oberrotweil | Wikipedia
+EIGENSCHAFTEN:
+  typ: Weingut
+  namensursprung: Familie von Gleichenstein
+  familiengeschichte: Nachkommen von Johann Jakob von Dischinger (Zehntherrn ab 1680)
+  ansaessigkeit_heute: noch ansässig
+  bedeutung_fuer_ort: heute noch ansässige Familie
+GUELTIG_AB: 1680
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 472-oberrotweil/013
+ENTITÄT: gewässer
+BEZEICHNUNG: Krottenbach
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Oberrotweil | Wikipedia
+EIGENSCHAFTEN:
+  lokalname_althochalemannisch: Grottenbach
+  lokalname_hochdeutsch: Krötenbach
+  lage: Krottenbachtal
+  talbenennung_nach: Gewässer
+  kantalisierung_teilweise: ja
+  oberirdischer_verlauf: ja (obere Bachstraße, Firobe, außerhalb des Dorfs)
+  wasserfuehrung: ganzjährig
+  urspruenglicher_verlauf: durch Niederrotweil
+  umleitung_jahr: ca. 1930 (ab Bahnhof nach Westen)
+  speisung_nordnebenbäche: Äschigbächli (aus Bickensohl), Ellebuechbächli
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 472-oberrotweil/014
+ENTITÄT: betrieb
+BEZEICHNUNG: Erzeugergroßmarkt Südbaden eG
+FACETTE: WIRTSCHAFT | ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: ZEUGEN | OpenStreetMap
+EIGENSCHAFTEN:
+  rechtsform: Genossenschaft
+  standort: Oberrotweil
+  funktion: Großmarkt für Obst und regionale Erzeugnisse
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 472-oberrotweil/015
+ENTITÄT: dialekt
+BEZEICHNUNG: Oberrotweiler Dialekt
+FACETTE: ALLTAG | GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Oberrotweil | Wikipedia
+EIGENSCHAFTEN:
+  sprachgruppe: Oberrheinalemannisch
+  einfluss_elsaess: stark
+  besonderheit_palatalisierten_formen: Hüüs, Fraü, Boi (elsässisch)
+  besonderheit_hochalemann_ch: Birchedal, Kalch, Wärchdig
+  besonderheit_substantiv_endung_ig: nur vier Wörter (Maria Ablesig, Noohaltig, Holzsteigerig, Rächnig)
+  besonderheit_b_erhaltung: -b- nach l, r und zwischen Vokal (Räbe, färbe, dälbe, gäbe)
+  besonderheit_personalpronomen: verlängert (ihrini, ihrene, ihrenem)
+  verwendung_oeffentlich: selten (Hochdeutsch bei offiziellen Anlässen üblich)
+  verwendung_alltag: primär
+  verwendung_vereinsleben: überwiegend Hochdeutsch
+  ausnahme_heimatverein: nutzt Dialekt bei Veranstaltungen
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 472-oberrotweil/016
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Faustin Ens
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Oberrotweil | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1782
+  geburt_ort: Oberrotweil
+  tod_jahr: 1858
+  beruf: Gymnasiallehrer und Landvermesser
+  bedeutung: Gründer des Schlesischen Landesmuseums in Troppau
+  verbindung_oberrotweil: hier geboren
+GUELTIG_AB: 1782
+GUELTIG_BIS: 1858
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 472-oberrotweil/017
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Rolf Dammann
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Oberrotweil | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1929
+  tod_jahr: 2012
+  beruf: Musikwissenschaftler
+  arbeitort: Universität Freiburg im Breisgau
+  wohnort: Oberrotweil
+  sterbort: Oberrotweil
+GUELTIG_AB: 1929
+GUELTIG_BIS: 2012
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 472-oberrotweil/018
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Arno Landerer
+FACETTE: GESCHICHTE | POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Oberrotweil | Wikipedia
+EIGENSCHAFTEN:
+  amt: Ortsvorsteher
+  amtszeit_beginn: 1992
+  amtszeit_ende: 2019 (Tod)
+  sprache_oeffentlich: Oberrotweiler Dialekt
+GUELTIG_AB: 1992
+GUELTIG_BIS: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 472-oberrotweil/019
+ENTITÄT: vereinsleben
+BEZEICHNUNG: Vereinsgemeinschaft Oberrotweil
+FACETTE: ALLTAG | KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Oberrotweil | Wikipedia
+EIGENSCHAFTEN:
+  charakteristik: reichhaltiges Vereinsleben
+  mitgliedschaftsgrad: großer Prozentsatz der Bevölkerung in mindestens einem Verein
+  bedeutung_kultur: große Rolle
+  bedeutung_gesellschaft: entscheidende Rolle
+  bedeutung_wirtschaft: entscheidende Rolle
+  bedeutung_politik: entscheidende Rolle
+  vereinstypen: Musikverein, Männergesangverein, Kirchenchor, Sportverein
+  kulturelle_aktivitaet_weihnachtsfeier: alemannisches Theaterstück
+  veranstaltung_fruhlingsweinfest: alle zwei Jahre (von Vereinen organisiert)
+  fruehjahrsweinfest_effekt: Weinabsatz-Förderung
+  freiwilligenarbeit: umfangreiche Projekte realisiert
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 472-oberrotweil/020
+ENTITÄT: ort
+BEZEICHNUNG: Oberrotweil
+FACETTE: ALLTAG
+ORTSTIEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Oberrotweil | Wikipedia
+EIGENSCHAFTEN:
+  name_lokal: Rotweil
+  dialekt_sprechweise: Rootwiil
+  namenserklarung: alemannisch, Wila (villa rustica) + Rotweil (rote Erde oder rote Ziegelreste)
+  besiedlung_charakteristik: Alemannen wichen römischen Zivilisationsresten aus
+  besiedlung_periode: erst später auch auf gutem römischem Boden
+  landnutzung_historisch_talsoehle: Obstbäume
+  landnutzung_historisch_westen: Gemüseanbau
+  landnutzung_wandel_rebflaeche_1880_1930: ca. 200 ha (unverändert)
+  landnutzung_wandel_rebflaeche_heute: 400 ha (doppelt)
+  zersiedelung_status: bislang verschont geblieben
+  bevoelkerung_langzeit_veraenderung: seit 1500 unwesentlich
+  industrie: fast komplett fehlend
+  ehemaliger_steinbruch_status: zunehmend von Natur zurückerobert
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 472-oberrotweil/021
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Steinbruch Niederrotweil
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Niederrotweil
+QUELLE: ZEUGEN | OpenStreetMap
+EIGENSCHAFTEN:
+  status: Schutzgebiet
+  seit: 1991
+  ehemaliger_zweck: Schottergewinnung
+  heutiger_status: zunehmend von Natur zurückerobert
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 472-oberrotweil/022
+ENTITÄT: wanderweg
+BEZEICHNUNG: Badischer Jakobusweg -südlicher Teil-
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: ZEUGEN | OpenStreetMap
+EIGENSCHAFTEN:
+  typ: Fernwanderweg
+  verlauf: südlicher Teil durch Oberrotweil
+  zweck: Jakobsweg
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65

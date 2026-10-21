@@ -17598,209 +17598,239 @@ window.QA_DATEN = {
 "lon": 7.73667,
 "karten": [
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Musterdorf einer französischen Wirtschaftslehre",
+"rang": 1,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Bahlingen",
 "steckbrief": "Bahlingen hat rund 4.600 Einwohner und liegt 16 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Von 1771 bis 1776 diente Bahlingen als Musterdorf für einen Versuch. Was wurde erprobt?",
+"frage": "Im 18. Jahrhundert war Bahlingen einige Jahre lang ein Musterdorf des Markgrafen. Was wurde hier ausprobiert?",
 "optionen": [
-"Im Dorf wurden gar keine Steuern erhoben.",
-"Alle Felder wurden gemeinsam vom Dorf bewirtschaftet.",
-"Alle Kinder mussten eine Winzerschule besuchen.",
-"Im Dorf galt nur noch eine einzige Steuer."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Steuerfreiheit klingt nach einem verlockenden Versuch. Erprobt wurde aber der Physiokratismus, eine Wirtschaftstheorie: Bisherige Abgaben wurden durch eine Einsteuer ersetzt, französisch impôt unique. Der Nationalökonom Schlettwein soll Markgraf Karl Friedrich davon überzeugt haben. Bahlingen war eines von drei badischen Versuchsdörfern, neben Dietlingen und Teningen. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.bahlingen.de/unsere-gemeinde/gemeinde-bahlingen/historie; Deutsche Biographie, www.deutsche-biographie.de/sfz78475.html",
-"faktencheck": "korrigiert",
-"id": "401-bahlingen/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Bahlingen",
-"steckbrief": "Bahlingen hat rund 4.600 Einwohner und liegt 16 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Wie viele Einwohner leben in Bahlingen durchschnittlich auf einem Quadratkilometer?",
-"optionen": [
-"unter 400",
-"400 bis unter 600",
-"600 bis unter 900",
-"900 und mehr"
+"Man erprobte eine Wirtschaftslehre mit nur einer Steuer.",
+"Man siedelte hier planmäßig Glaubensflüchtlinge an.",
+"Man erprobte Fabrikarbeit nach englischem Vorbild.",
+"Man erprobte eine Steuer allein auf den Handel."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Freiburg lässt an einen dicht bebauten Vorort denken. Doch 4.556 Einwohner auf 12,66 Quadratkilometern ergeben nur rund 360 je Quadratkilometer. Stand der Einwohnerzahl: 31. Dezember 2025. Richtig war 1.",
-"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
-"faktencheck": "bestätigt",
-"id": "401-bahlingen/v0.8/2",
+"rueckseite": "Du hattest [Option] getippt. Fabriken liegen als Antwort nahe, denn Musterorte sollten oft Gewerbe voranbringen. Doch der Nationalökonom Johann August Schlettwein soll Markgraf Karl Friedrich von einer französischen Lehre überzeugt haben, dem Physiokratismus: Reichtum entsteht allein in der Landwirtschaft. Also galt eine „Einsteuer“. Nach wenigen Jahren war der Versuch vorbei. So wurde ein Dorf am Kaiserstuhl zum Versuchslabor für Wirtschaftstheorie. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.bahlingen.de/unsere-gemeinde/gemeinde-bahlingen/historie",
+"faktencheck": "korrigiert",
+"id": "401-bahlingen/v0.9/1",
 "tisch": false
 },
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Steinskulpturen im ganzen Dorf verteilt",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bahlingen",
+"steckbrief": "Bahlingen hat rund 4.600 Einwohner und liegt 16 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Bei einem Kunstsymposium entstanden über 20 Kunstwerke, die im Ort verteilt stehen. Wer schuf sie?",
+"optionen": [
+"Kunststudierende aus Straßburg schufen sie gemeinsam.",
+"Steinbildhauer-Meisterschüler einer Freiburger Gewerbeschule schufen sie.",
+"Bildhauer aus Frankreich schufen sie beim Austausch.",
+"Holzschnitzer aus dem Schwarzwald schufen sie."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Austausch über die Grenze liegt nahe, Frankreich ist nicht weit. Tatsächlich kam die Steinbildhauer-Meisterklasse der Friedrich-Weinbrenner-Gewerbeschule aus Freiburg. Der Leitspruch des Symposiums: „Bahlingen am Kaiserstuhl – Mensch und Dorf im Wandel der Zeit“. Wer durch Bahlingen fährt, sieht die Werke nicht im Museum, sondern im Ort verteilt: Das Dorf selbst ist die Ausstellung. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.bahlingen.de/freizeit-erlebnis/kunst",
+"faktencheck": "korrigiert",
+"id": "401-bahlingen/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Weindorf am ehemaligen Vulkan Kaiserstuhl",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bahlingen",
+"steckbrief": "Bahlingen hat rund 4.600 Einwohner und liegt 16 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Der Kaiserstuhl, nach dem sich Bahlingen nennt, ragt wie eine Insel aus dem Oberrheintal. Was war er ursprünglich?",
+"optionen": [
+"Er war eine Moräne der Eiszeitgletscher.",
+"Er entstand als Wall eines Meteoriteneinschlags.",
+"Er war einst ein feuerspeiender Vulkan.",
+"Er war eine vom Rhein aufgeschüttete Kiesinsel."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Insel im Oberrheintal legt nahe, der Rhein habe sie aufgeschüttet, so flach ist die Ebene ringsum. Doch der Kaiserstuhl ist ein ehemaliger Vulkan. Mit mediterranem Klima und Rebterrassen prägt er die Landschaft um Bahlingen: Wer vorbeifährt, sieht eine Weininsel zwischen Schwarzwald und Vogesen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.bahlingen.de/freizeit-erlebnis/aktiv-unterwegs/radfahren",
+"faktencheck": "bestätigt",
+"id": "401-bahlingen/v0.9/3",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Werkzeug- und Formenbau im Winzerdorf",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bahlingen",
+"steckbrief": "Bahlingen hat rund 4.600 Einwohner und liegt 16 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Bahlingen lebt nicht nur vom Wein: Seit Jahrzehnten gibt es hier auch Industrie. Worauf ist sie vor allem spezialisiert?",
+"optionen": [
+"Sie baut vor allem Landmaschinen für Winzer.",
+"Sie stellt vor allem Weinflaschen aus Glas her.",
+"Sie verarbeitet vor allem Obst zu Säften.",
+"Sie baut vor allem Werkzeuge und Formen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In einem Weindorf liegt Industrie rund um den Weinbau nahe, etwa Maschinen für die Rebberge. Der Schwerpunkt liegt aber im Werkzeug- und Formenbau. Zu den größten Arbeitgebern gehört die Firma Männer, die Spritzgießwerkzeuge für Kunststoffteile baut und weltweit tätig ist. So ist das Winzerdorf zugleich ein Industrieort. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl",
+"faktencheck": "korrigiert",
+"id": "401-bahlingen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Winzermesser und Pflugschar im Wappen",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bahlingen",
+"steckbrief": "Bahlingen hat rund 4.600 Einwohner und liegt 16 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Das Bahlinger Wappen zeigt auf einer Seite den badischen Schrägbalken. Was ist auf der anderen Hälfte zu sehen?",
+"optionen": [
+"Dort steht ein Winzermesser über einer Pflugschar.",
+"Dort steht eine Weintraube über einem Fass.",
+"Dort steht ein Mühlrad unter einer Ähre.",
+"Dort steht eine Kirche auf einem Berg."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Traube wäre das naheliegende Weinsymbol. Das Wappen zeigt aber in Blau ein silbernes Winzermesser über einer gestürzten, also umgedrehten, Pflugschar. Das Rebmesser ist schon in einem Gerichtssiegel des 15. Jahrhunderts belegt, der badische Schrägbalken erinnert an die Zugehörigkeit zu Baden. Wein und Ackerbau: Beides trägt der Ort im Schild. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl",
+"faktencheck": "unsicher",
+"id": "401-bahlingen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Mehrzweckhalle als Kulturgemeindezentrum",
+"rang": 10,
 "familie": "B",
 "sorte": "Geschichte",
 "ort": "Bahlingen",
 "steckbrief": "Bahlingen hat rund 4.600 Einwohner und liegt 16 km nordwestlich von Freiburg im Breisgau.",
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"In der Reformation blieb Bahlingen weiterhin katholisch.",
-"Ab dem Spätmittelalter gehörte Bahlingen zu Baden.",
-"Im Dreißigjährigen Krieg wurde Bahlingen fast völlig zerstört."
+"Der Bahnhof Bahlingen am Kaiserstuhl liegt an der Kaiserstuhlbahn.",
+"Die Silberberghalle ist das Hallenbad des Orts.",
+"Am Bahlinger Bahnhof hält die Breisgau-S-Bahn."
 ],
 "art": "luege",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Katholisch läge nahe, denn große Teile des Breisgaus waren habsburgisch und blieben katholisch. Bahlingen aber gehörte zur Markgrafschaft Baden und wurde in der Reformation protestantisch. Zerstört wurde der Ort nicht nur im Dreißigjährigen Krieg, sondern auch in den Kriegen Ludwigs XIV. Die Lüge war 1.",
-"quelle": "Gemeinde-Webseite, www.bahlingen.de/unsere-gemeinde/gemeinde-bahlingen/historie",
-"faktencheck": "bestätigt",
-"id": "401-bahlingen/v0.8/3",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Bahlingen",
-"steckbrief": "Bahlingen hat rund 4.600 Einwohner und liegt 16 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Welche Partei holte bei der Bundestagswahl 2025 in Bahlingen die zweitmeisten Zweitstimmen?",
-"optionen": [
-"AfD",
-"GRÜNE",
-"SPD",
-"Die Linke"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Freiburg lässt an die Grünen denken, doch sie landeten mit 15,6 Prozent nur auf Platz vier. Zweite wurde die SPD mit 17,2 Prozent, knapp vor der AfD mit 16,5 Prozent. Die CDU lag vorn. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "401-bahlingen/v0.8/4",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Bahlingen",
-"steckbrief": "Bahlingen hat rund 4.600 Einwohner und liegt 16 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Woher stammt der Name Bahlingen vermutlich?",
-"optionen": [
-"Er beschreibt eine sumpfige Niederung am Fluss.",
-"Er erinnert an eine längst verschwundene Burg.",
-"Er stammt von einer römischen Straßenstation.",
-"Er bedeutet etwa: bei den Leuten eines Mannes."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. In der Ebene vor dem Kaiserstuhl liegen Sumpf oder Ufer als Namensquelle nahe. Die Gemeinde leitet den Namen aber vermutlich von „Baldinga“ ab, etwa „bei den Leuten des Baldo“. Die Endung -ingen ist typisch für alemannische Sippensiedlungen, als die Bahlingen wohl entstand. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.bahlingen.de/unsere-gemeinde/gemeinde-bahlingen/historie",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer „Halle“ hört, denkt vielleicht ans Hallenbad. Die Silberberghalle ist aber eine Mehrzweckhalle: Hier hat die Silberbergschule Schulsport, der Turnverein Bahlingen ist hier zu Hause, dazu kommen Sport- und Kulturveranstaltungen. So dient die Halle einem Ort mit rund 4.600 Einwohnern für Sport und Kultur zugleich. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.bahlingen.de/freizeit-erlebnis/silberberghalle",
 "faktencheck": "korrigiert",
-"id": "401-bahlingen/v0.8/5",
+"id": "401-bahlingen/v0.9/6",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "dicht besiedelt auf kleiner Gemarkung",
+"rang": 9,
 "familie": "C",
 "sorte": "Klassiker",
 "ort": "Bahlingen",
 "steckbrief": "Bahlingen hat rund 4.600 Einwohner und liegt 16 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Wie weit ist es von Bahlingen in Luftlinie bis zur Landeshauptstadt Stuttgart?",
+"frage": "Wie viele Einwohner leben in Bahlingen rechnerisch auf einem Quadratkilometer?",
 "optionen": [
-"unter 140 km",
-"140 bis unter 170 km",
-"170 bis unter 200 km",
-"200 km und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Wer die Strecke mit dem Auto kennt, schätzt leicht zu hoch, denn die Straße umfährt den Schwarzwald. In Luftlinie liegen zwischen Bahlingen und Stuttgart nur 129 Kilometer. Richtig war 1.",
-"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
-"faktencheck": "bestätigt",
-"id": "401-bahlingen/v0.8/6",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Bahlingen",
-"steckbrief": "Bahlingen hat rund 4.600 Einwohner und liegt 16 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Wonach ist das Bahlinger Hoselipsfest benannt?",
-"optionen": [
-"Nach einem Räuber, der einst Weinberge plünderte.",
-"Nach einer Holzfigur, die Winzern Glück bringen soll.",
-"Nach einer alten Rebsorte vom Kaiserstuhl.",
-"Nach einem Bach, der durchs Dorf fließt."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach einem Schelm, deshalb denken viele an eine Person. Gemeint ist aber eine kleine Holzfigur namens Hoselips, die den Bahlinger Winzern seit je Glück bringen soll. Richtig war 2.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl",
-"faktencheck": "bestätigt",
-"id": "401-bahlingen/v0.8/7",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Bahlingen",
-"steckbrief": "Bahlingen hat rund 4.600 Einwohner und liegt 16 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Das Bahlinger Wappen zeigt vorn einen roten Schrägbalken. Was ist in der hinteren, blauen Hälfte zu sehen?",
-"optionen": [
-"Eine goldene Weintraube hängt über einem Fass.",
-"Ein silbernes Mühlrad steht über einem Wellenband.",
-"Ein Winzermesser steht über einer gestürzten Pflugschar.",
-"Ein schwarzer Adler hält einen Rebstock."
+"unter 150",
+"150 bis unter 250",
+"250 bis unter 400",
+"400 und mehr"
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Eine Traube wäre im Weinort das naheliegende Zeichen. Bahlingen zeigt aber ein silbernes Winzermesser mit schwarzem Griff über einer gestürzten, also kopfstehenden, silbernen Pflugschar. Schon ein altes Siegel trug den badischen Schrägbalken und ein Rebmesser. Richtig war 3.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl",
+"rueckseite": "Du hattest [Option] getippt. Ein Weindorf am Kaiserstuhl wirkt ländlich, darum liegt eine niedrige Zahl nahe. Doch die Gemeindefläche ist klein: Auf 12,66 Quadratkilometern lebten Ende 2025 4.556 Menschen, rechnerisch rund 360 je Quadratkilometer. Für ein Dorf ist das erstaunlich dicht. Richtig war 3.",
+"quelle": "Wikidata P1082 (Stand 2025-12-31) und P2046, Dichte berechnet",
 "faktencheck": "bestätigt",
-"id": "401-bahlingen/v0.8/8",
+"id": "401-bahlingen/v0.9/7",
 "tisch": false
 },
 {
+"facette": "ALLTAG",
+"charakteristikum": "Rebberge nach Reblausbefall neu geordnet",
+"rang": 5,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Bahlingen",
 "steckbrief": "Bahlingen hat rund 4.600 Einwohner und liegt 16 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Karl Alfred von Zittel ist ein Sohn der Gemeinde Bahlingen. Was war er von Beruf?",
+"frage": "Nach dem Zweiten Weltkrieg wurden Bahlingens Rebberge über Jahrzehnte neu geordnet. Welches Problem der alten Weinberge nennt die Gemeinde?",
 "optionen": [
-"Er war Geologe und Paläontologe.",
-"Er war Komponist von Kirchenmusik.",
-"Er war Rebenzüchter und Weinbauforscher.",
-"Er war Arzt und Seuchenforscher."
+"Bombentreffer hatten viele Rebterrassen zerstört.",
+"Die Reblaus hatte die alten Bestände befallen.",
+"Die Weinberge waren im Krieg verwildert.",
+"Erdrutsche hatten die Lössterrassen abgetragen."
 ],
 "art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. In einem Weinort liegt ein Rebenzüchter nahe. Karl Alfred von Zittel war aber Geologe und Paläontologe, also Forscher für Gesteine, Erdgeschichte und Fossilien. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl",
-"faktencheck": "bestätigt",
-"id": "401-bahlingen/v0.8/9",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Kriegsschäden liegen nahe, weil die Neuordnung bald nach dem Krieg begann. Die Gemeinde berichtet aber von großen Problemen durch die Reblaus in den alten Beständen. Hauptinitiator der Neuordnung war August Bürkin. Gearbeitet wurde größtenteils mit einfachen Geräten und viel Handarbeit, so blieb das alte Bild des Kaiserstuhls erhalten. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.bahlingen.de/freizeit-erlebnis/wein-aus-bahlingen/weinbau",
+"faktencheck": "korrigiert",
+"id": "401-bahlingen/v0.9/8",
 "tisch": false
 },
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Fest um eine glückbringende Holzfigur",
+"rang": 4,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Bahlingen",
 "steckbrief": "Bahlingen hat rund 4.600 Einwohner und liegt 16 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Seit wann trägt Bahlingen amtlich den Namenszusatz „am Kaiserstuhl“?",
+"frage": "Alle zwei Jahre feiert Bahlingen das Hoselipsfest. Wer oder was ist der Hoselips?",
 "optionen": [
-"Der Zusatz gilt seit 1806.",
-"Der Zusatz gilt seit 1936.",
-"Der Zusatz gilt seit 1971.",
-"Der Zusatz gilt seit 1996."
+"Er war ein Räuber, der Weinfässer stahl.",
+"Er ist ein Hefegebäck zur Weinlese.",
+"Er war ein Nachtwächter mit lauter Glocke.",
+"Er soll als Holzfigur den Winzern Glück bringen."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Der Zusatz klingt nach alter Tradition, er ist aber jung: Erst seit dem 1. September 1996 heißt der Ort amtlich „Bahlingen am Kaiserstuhl“. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.bahlingen.de/unsere-gemeinde/gemeinde-bahlingen/historie",
-"faktencheck": "bestätigt",
-"id": "401-bahlingen/v0.8/10",
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach einem Dorforiginal, und Feste nach Ortsfiguren gibt es viele. Der Hoselips ist aber eine Symbolfigur, die einst ein Weinfass im Rathaus schmückte. Nach der Überlieferung garantierte sie den Bahlinger Winzern guten Wein. In einem Winzerdorf ist ein solcher Glücksbringer der passende Namenspatron eines Fests. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl",
+"faktencheck": "korrigiert",
+"id": "401-bahlingen/v0.9/9",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "vier elsässische Partnergemeinden zugleich",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bahlingen",
+"steckbrief": "Bahlingen hat rund 4.600 Einwohner und liegt 16 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Bahlingen hat nicht eine Partnergemeinde, sondern gleich vier. Wo liegen sie?",
+"optionen": [
+"Alle vier liegen im Elsass.",
+"Alle vier liegen in der Nordschweiz.",
+"Alle vier liegen in Luxemburg.",
+"Alle vier liegen in Südtirol."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Schweiz liegt vom Breisgau aus ebenfalls nah und wäre eine naheliegende Wahl. Die vier Partnerorte Bischwihr, Holtzwihr, Riedwihr und Wickerschwihr liegen aber alle im Elsass, jenseits des Rheins in Frankreich. Seit 1996 ist Bahlingen mit allen vier zugleich verbunden. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl",
+"faktencheck": "korrigiert",
+"id": "401-bahlingen/v0.9/10",
 "tisch": false
 }
 ],
 "anschluss_von": "400-teningen",
 "anschluss": [
-"Physiokratie-Versuch: Bahlingen und Teningen waren beide markgräfliche Musterdörfer.",
-"Bundestagswahl 2025: Bahlingen und Teningen wählten die AfD gleich stark."
+"Teningen war wie Bahlingen ein Musterdorf des Physiokratismus.",
+"Bahlingen wählte den Bundestag 2025 eifriger als Teningen."
 ],
 "anschluesse": {
 "387-ebnet": [
@@ -17856,8 +17886,8 @@ window.QA_DATEN = {
 "Reute liegt rund 740 Meter höher als Bahlingen."
 ],
 "400-teningen": [
-"Physiokratie-Versuch: Bahlingen und Teningen waren beide markgräfliche Musterdörfer.",
-"Bundestagswahl 2025: Bahlingen und Teningen wählten die AfD gleich stark."
+"Teningen war wie Bahlingen ein Musterdorf des Physiokratismus.",
+"Bahlingen wählte den Bundestag 2025 eifriger als Teningen."
 ],
 "402-riegel": [
 "Bahlingen hat rund 600 Einwohner mehr als Riegel.",
@@ -17890,6 +17920,32 @@ window.QA_DATEN = {
 },
 "ags": "08316002",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Weindorf am Nordostrand des Kaiserstuhls an der Alten Dreisam, 16 km nordwestlich von Freiburg, knapp 13 Quadratkilometer."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 762 erwähnt, seit 1415 badisch und evangelisch, im 17. Jahrhundert zweimal fast völlig zerstört."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 4.600 Einwohner; Weinbau am Silberberg ist Hauptwirtschaftszweig, mehrere Weingüter; dazu Werkzeug- und Formenbau."
+},
+{
+"facette": "FREIZEIT",
+"text": "Hoselipsfest, Mühlenfest an der Adler Mühle, Skulpturenweg, KunstAcker im Wihltal, Breisgau- und Kaiserstuhl-Radwanderweg, Kaiserstuhlstadion."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhalte Bahlingen am Kaiserstuhl und Bahlingen-Riedlen, Kaiserstuhlbahn mit S-Bahn nach Freiburg, Silberbergschule und Silberberghalle."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag die CDU mit 31,3 Prozent vorn; die Wahlbeteiligung lag bei 86,7 Prozent."
+}
+],
 "km_vom_vorigen": 5.5
 },
 {
@@ -17899,149 +17955,193 @@ window.QA_DATEN = {
 "lon": 7.75,
 "karten": [
 {
+"facette": "ALLTAG",
+"charakteristikum": "stillgelegte Brauerei, neu genutzt",
+"rang": 5,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Riegel",
-"steckbrief": "Gemeinde mit rund 4.000 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Die Gemeinde nennt Riegel „sozusagen das Freiburg der Antike“. Worauf spielt der Vergleich an?",
+"steckbrief": "Rund 4.000 Einwohner, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Lange braute die Riegeler Brauerei im Ort das Riegeler Bier. Was wurde aus ihr?",
 "optionen": [
-"Riegel hatte in der Römerzeit eine Hochschule.",
-"In der Römerzeit saß in Riegel ein Bischof.",
-"In der Römerzeit war Riegel Verwaltungszentrum der Region.",
-"In der Römerzeit stand in Riegel ein Münster."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Bei Freiburg denkt man an Universität, Münster und Erzbischof – darum liegen diese Theorien nahe. Der Vergleich meint aber die Römerzeit: Damals war Riegel das Verwaltungszentrum der Region. In dieser Epoche hatte der Ort große Bedeutung. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/Geschichte",
-"faktencheck": "korrigiert",
-"id": "402-riegel/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Riegel",
-"steckbrief": "Gemeinde mit rund 4.000 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Wie viele Einwohner kommen in Riegel auf einen Quadratkilometer?",
-"optionen": [
-"unter 100",
-"100 bis unter 160",
-"160 bis unter 210",
-"210 und mehr"
+"Sie braut das Riegeler Bier bis heute im Ort.",
+"Ihre Gebäude wurden komplett abgerissen.",
+"Sie zog in ein Gewerbegebiet am Ortsrand.",
+"Sie schloss, Kunst und Wohnungen zogen ein."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Rund 4.000 Einwohner klingen nach Dorf, darum schätzen viele niedrig. Gerechnet auf die Gemeindefläche kommen in Riegel aber 217 Einwohner auf einen Quadratkilometer – dichter, als viele erwarten. Richtig war 4.",
-"quelle": "Grunddaten, berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
-"faktencheck": "bestätigt",
-"id": "402-riegel/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Riegel",
-"steckbrief": "Gemeinde mit rund 4.000 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Ein Dominikanerinnenkloster beteiligte sich einst an der Finanzierung der Pfarrkirche.",
-"Die Pfarrkirche überstand den Zweiten Weltkrieg ganz unversehrt.",
-"Neben der Schleuse am Leopoldskanal steht ein Obelisk."
-],
-"art": "luege",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Viele Dorfkirchen kamen glimpflich durch den Krieg, darum klingt die Aussage glaubhaft. St. Martin aber wurde im Krieg teilweise zerstört, nachdem schon ein verheerender Brand die Innenausstattung fast ganz vernichtet hatte. Nach Kriegsende baute man die Kirche wieder auf. Kloster und Obelisk stimmen. Die Lüge war 2.",
-"quelle": "Gemeinde-Webseite, www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/St.Martinskirche; www.gemeinde-riegel.de/de/Tourismus-Freizeit/Geschichte-Geschichten/Geschichten-",
+"rueckseite": "Du hattest [Option] getippt. Naheliegend ist, dass eine Biermarke mit Ortsnamen auch im Ort gebraut wird. Doch die Brauerei kam 2000 zu Fürstenberg und stellte wenige Jahre später den Betrieb in Riegel ein; das Riegeler Bier ist heute eine Marke der Fürstenberg-Brauerei in Donaueschingen. In die alten Gebäude zogen ab 2006 Lofts, eine Kleinbrauerei und später die Kunsthalle Messmer. Ihre Dächer sieht man vom Michaelsberg aus. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Riegel_am_Kaiserstuhl",
 "faktencheck": "korrigiert",
-"id": "402-riegel/v0.8/3",
+"id": "402-riegel/v0.9/1",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "römisches Verwaltungszentrum Regula",
+"rang": 2,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Riegel",
-"steckbrief": "Gemeinde mit rund 4.000 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
-"frage": "In Riegel stand in römischer Zeit eine monumentale Basilika. Wozu diente sie?",
+"steckbrief": "Rund 4.000 Einwohner, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Welche Rolle spielte Riegel in der Römerzeit für die Region?",
 "optionen": [
-"Sie war eine frühe christliche Kirche.",
-"Sie war ein großes römisches Badehaus.",
-"Sie war eine Markt- und Mehrzweckhalle.",
-"Sie war der Palast eines Statthalters."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Heute denkt man bei einer Basilika an eine Kirche – das liegt nahe. Bei den Römern war eine Basilika aber eine große Halle. Die in Riegel war eine Marktbasilika, eine monumentale Mehrzweckhalle. Ihr Modell ist das Glanzstück des Archäologischen Museums. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.gemeinde-riegel.de/de/Tourismus-Freizeit/Geschichte-Geschichten/Geschichten-",
-"faktencheck": "bestätigt",
-"id": "402-riegel/v0.8/5",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Riegel",
-"steckbrief": "Gemeinde mit rund 4.000 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Wie groß ist die Gemeindefläche von Riegel?",
-"optionen": [
-"unter 8 km²",
-"8 bis unter 12 km²",
-"12 bis unter 16 km²",
-"16 km² und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Bei rund 4.000 Einwohnern rechnen viele mit einer kleinen Gemarkung. Riegel umfasst aber 18,33 Quadratkilometer. Richtig war 4.",
-"quelle": "Grunddaten, Wikidata P2046",
-"faktencheck": "bestätigt",
-"id": "402-riegel/v0.8/6",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Riegel",
-"steckbrief": "Gemeinde mit rund 4.000 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
-"frage": "In Riegel ist eine Straße nach Anton Anreith benannt. In welchem Land ist er eine Berühmtheit?",
-"optionen": [
-"Anreith ist in Südafrika eine Berühmtheit.",
-"Anreith ist in Brasilien eine Berühmtheit.",
-"Anreith ist in Kanada eine Berühmtheit.",
-"Anreith ist in Russland eine Berühmtheit."
+"Es war das Verwaltungszentrum der ganzen Region.",
+"Es war nur ein einzelner römischer Gutshof.",
+"Es war ein Wachposten ohne zivile Siedlung.",
+"Die Römer ließen die Flussniederung unbesiedelt."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Bei Übersee denkt man zuerst an Amerika – darum liegen Brasilien und Kanada nahe. Anton Anreith aber ist eine Berühmtheit in Südafrika. In Riegel erinnert ein Straßenname an ihn. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.gemeinde-riegel.de/de/Tourismus-Freizeit/Geschichte-Geschichten/Geschichten-",
-"faktencheck": "bestätigt",
-"id": "402-riegel/v0.8/7",
+"rueckseite": "Du hattest [Option] getippt. Ein einzelner Gutshof liegt nahe, denn heute ist Riegel ein Dorf. Doch die Römer legten hier zunächst Kastelle an, später wuchs eine Kleinstadt mit großen öffentlichen Bauten. Sie war Verwaltungszentrum für die ganze Region, die Gemeinde spricht vom „Freiburg der Antike“. Wer an dem Ort mit rund 4.000 Einwohnern vorbeifährt, passiert ein einstiges Zentrum; ein archäologischer Rundweg führt zu den Fundstellen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/Geschichte",
+"faktencheck": "korrigiert",
+"id": "402-riegel/v0.9/2",
 "tisch": false
 },
 {
+"facette": "INFRA",
+"charakteristikum": "Kleinkunsttheater im alten Bahnhof",
+"rang": 3,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Riegel",
+"steckbrief": "Rund 4.000 Einwohner, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Riegel hat zwei Bahnhöfe. Welches dieser vier Dinge gibt es in Riegel?",
+"optionen": [
+"ein Hallenbad",
+"eine Rehaklinik",
+"ein Bahnhofstheater",
+"ein Freibad"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Freibad liegt nahe, viele Dörfer der Rheinebene haben eines. Riegel aber hat ein Bahnhofstheater: Das Kleinkunsttheater Kumedi, gegründet in einer Scheune in Nimburg, kaufte der Gemeinde das Empfangsgebäude des Bahnhofs Riegel Ort ab und baute es um. Für einen Ort mit rund 4.000 Einwohnern sind zwei Bahnhöfe viel; der Theaterbahnhof liegt an der Kaiserstuhlbahn. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-riegel.de/de/Tourismus-Freizeit/Kunst-Kultur/Theater-kumedi-; OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "402-riegel/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Zusammenfluss von drei Flüssen",
+"rang": 7,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Riegel",
-"steckbrief": "Gemeinde mit rund 4.000 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Auf dem archäologischen Rundweg in Riegel steht die Freilichtanlage eines römischen Tempels. Welchem Gott war er geweiht?",
+"steckbrief": "Rund 4.000 Einwohner, am Nordostrand des Kaiserstuhls, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Rund 4.000 Einwohner, am Ostrand des Kaiserstuhls, 19 km nordwestlich von Freiburg im Breisgau.",
 "optionen": [
-"Der Tempel war Jupiter geweiht.",
-"Der Tempel war Mithras geweiht.",
-"Der Tempel war Merkur geweiht.",
-"Der Tempel war Mars geweiht."
+"Elz, Kinzig und Dreisam fließen zusammen.",
+"Glotter, Möhlin und Elz fließen zusammen.",
+"Dreisam, Wiese und Glotter fließen zusammen.",
+"Dreisam, Elz und Glotter fließen zusammen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Kinzig liegt nahe, sie ist ein bekannter Schwarzwaldfluss, mündet aber weiter nördlich in den Rhein. Bei Riegel treffen Dreisam, Elz und Glotter zusammen; der Leopoldskanal bündelt dort ihr Wasser und leitet es zum Schutz vor Hochwasser in den Rhein. Riegel liegt am Ostrand des Kaiserstuhls, wo er fast an den Schwarzwald stößt: Hier sammeln sich die Flüsse aus dem Schwarzwald. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-riegel.de/de/Tourismus-Freizeit/Kunst-Kultur/Kunsthalle-Messmer",
+"faktencheck": "korrigiert",
+"id": "402-riegel/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Barockkirche, nach Brand rekonstruiert",
+"rang": 8,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Riegel",
+"steckbrief": "Rund 4.000 Einwohner, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Um die Michaelskapelle kümmerten sich früher einmal Einsiedler.",
+"In Riegel fand man einen keltischen Goldmünzschatz.",
+"St. Martin blieb von Brand und Krieg verschont."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Einsiedler klingen nach Legende, doch um die Michaelskapelle kümmerten sich tatsächlich Eremiten. Erfunden ist Aussage 3: Ein Feuersturm zerstörte die kostbare Innenausstattung der Kirche St. Martin bis auf wenige Reste, im Zweiten Weltkrieg wurde sie teilweise zerstört. Ihre barocke Ausstattung wurde danach vollständig rekonstruiert. Die Barockkirche zieht im Ortskern die Blicke auf sich; vieles, was man drinnen sieht, ist Wiederaufbau. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/St.Martinskirche",
+"faktencheck": "korrigiert",
+"id": "402-riegel/v0.9/6",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "knapp 4.000 Einwohner, viel Kultur",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Riegel",
+"steckbrief": "Gemeinde im Landkreis Emmendingen, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Wie viele Einwohner hat die Gemeinde Riegel?",
+"optionen": [
+"unter 2.500",
+"2.500 bis unter 5.000",
+"5.000 bis unter 10.000",
+"10.000 und mehr"
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Bei römischen Tempeln denkt man an Jupiter, Merkur oder Mars, die großen Götter des Staates. In Riegel aber war es ein Mithras-Tempel. Mithras war ein aus dem Osten stammender Gott, dessen Kult in geheimen Gemeinschaften gepflegt wurde. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/Geschichte",
-"faktencheck": "bestätigt",
-"id": "402-riegel/v0.8/8",
+"rueckseite": "Du hattest [Option] getippt. Zwei Bahnhöfe, eine Kunsthalle und ein eigenes Theater lassen an eine Kleinstadt denken. Ende 2025 zählte Riegel aber 3.982 Einwohner. Auf gut 18 Quadratkilometern sind das rund 217 Menschen je Quadratkilometer, ein Dorf mit ungewöhnlich viel Kultur. Richtig war 2.",
+"quelle": "Wikidata P1082, Stand 2025-12-31; Fläche Wikidata P2046",
+"faktencheck": "korrigiert",
+"id": "402-riegel/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Riegeler Bildhauer, berühmt in Südafrika",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Riegel",
+"steckbrief": "Rund 4.000 Einwohner, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Der Bildhauer Anton Anreith stammte aus Riegel, wo heute nur eine Straße an ihn erinnert. Wo ist er berühmt?",
+"optionen": [
+"In Russland ist er eine Berühmtheit.",
+"In den USA ist er eine Berühmtheit.",
+"In Südafrika ist er eine Berühmtheit.",
+"In Brasilien ist er eine Berühmtheit."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die USA liegen nahe, denn dorthin wanderten viele Menschen aus Baden aus. Anton Anreith aber wirkte vor allem in Kapstadt; in Südafrika ist er eine Berühmtheit, in Riegel erinnert nur ein Straßenname an ihn. So reicht die Spur eines Orts mit rund 4.000 Einwohnern bis ans Kap der Guten Hoffnung. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Riegel_am_Kaiserstuhl",
+"faktencheck": "korrigiert",
+"id": "402-riegel/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "römischer Mithras-Tempel",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Riegel",
+"steckbrief": "Rund 4.000 Einwohner, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "In Riegel wurde die Ruine eines antiken Heiligtums freigelegt. Wer betete dort zu wem?",
+"optionen": [
+"Römische Soldaten verehrten dort einen Lichtgott.",
+"Frühe Christen feierten dort heimlich Gottesdienst.",
+"Keltische Druiden opferten dort ihren Göttern.",
+"Römische Kaufleute verehrten dort einen Handelsgott."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Frühe Christen liegen nahe, denn der Mithraskult hatte manches mit dem Christentum gemeinsam. Doch hier verehrten römische Soldaten den Lichtgott Mithras; er galt als unbesiegbar wie die Sonne und als Lieblingsgott der Soldaten. Heute ist die Ruine als Freilichtanlage „Mithras Tempel“ eine Station des Archäologischen Rundwegs, passend zu den römischen Kastellen von Riegel. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/Mithras-Tempel",
+"faktencheck": "korrigiert",
+"id": "402-riegel/v0.9/9",
 "tisch": false
 }
 ],
 "anschluss_von": "401-bahlingen",
 "anschluss": [
-"Riegel hat mehr Fläche als Bahlingen, aber weniger Einwohner.",
-"Bundestagswahl 2025: SPD-Anteil in Riegel und Bahlingen exakt gleich."
+"Riegel hat weniger Einwohner als Bahlingen, aber mehr Fläche.",
+"Der Breisgau-Radweg führt von Riegel weiter nach Bahlingen."
 ],
 "anschluesse": {
 "396-waldkirch": [
@@ -18081,8 +18181,8 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: Auf Platz zwei kam in Teningen die SPD, in Riegel die AfD."
 ],
 "401-bahlingen": [
-"Riegel hat mehr Fläche als Bahlingen, aber weniger Einwohner.",
-"Bundestagswahl 2025: SPD-Anteil in Riegel und Bahlingen exakt gleich."
+"Riegel hat weniger Einwohner als Bahlingen, aber mehr Fläche.",
+"Der Breisgau-Radweg führt von Riegel weiter nach Bahlingen."
 ],
 "403-endingen": [
 "Endingen hat gut zweieinhalbmal so viele Einwohner wie Riegel."
@@ -18108,6 +18208,32 @@ window.QA_DATEN = {
 },
 "ags": "08316037",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 4.000 Einwohner am Nordostrand des Kaiserstuhls, gut 180 Meter hoch, an Dreisam und Elz, 19 km nordwestlich von Freiburg."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Besiedelt seit der Jungsteinzeit; Römerort Regula mit Mithras-Tempel; Wahrzeichen sind die Michaelskapelle auf dem Michaelsberg und St. Martin."
+},
+{
+"facette": "ALLTAG",
+"text": "Alte Brauerei mit Kleinbrauerei Römerbräu, Weinhof Hassler, Verpackungsfirma Herbert Hipp und Gewerbegebiet Oberwald."
+},
+{
+"facette": "FREIZEIT",
+"text": "Museum Riegel, Kunsthalle Messmer, Theater Kumedi, Archäologischer Rundweg, Naturpfad, Oberrhein-Römerradweg und Kaiserstuhl-Radwanderweg."
+},
+{
+"facette": "INFRA",
+"text": "Zwei Bahnhöfe: Riegel Ort an der Kaiserstuhlbahn und Riegel-Malterdingen; Landkreis Emmendingen, Kennzeichen EM."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU 29,1 Prozent vor AfD 20,4; Wahlbeteiligung 84,5 Prozent, etwas über dem Landeswert von 83,4."
+}
+],
 "km_vom_vorigen": 3.3
 },
 {
@@ -18117,209 +18243,239 @@ window.QA_DATEN = {
 "lon": 7.70639,
 "karten": [
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Fasnetsmuseum im alten Stadttor",
+"rang": 5,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Endingen",
+"steckbrief": "Stadt am Kaiserstuhl mit rund 10.500 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge gibt es in Endingen?",
+"optionen": [
+"Ein Hallenbad mit Sprungturm",
+"Eine Sommerrodelbahn am Staffelberg",
+"Ein Fasnetsmuseum in einem Stadttor",
+"Ein Kletterwald am Katharinenberg"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Am Königschaffhauser Tor, dem „Torli“, führte früher eine Zugbrücke über den Stadtgraben; drinnen diente eine Arrestzelle als Stadtgefängnis. Heute ist es Zunfthaus der Narrenzunft und zeigt Narrenfiguren. Ein Hallenbad läge bei gut 10.500 Einwohnern nahe, zum Baden gibt es aber den Badeweiher im Erletal. Das Torli passt zu einer Stadt, die zu den Hochburgen der alemannischen Fasnet zählt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.endingen.de/tourismus-freizeit/sehenswertes/museen; OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "403-endingen/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "falscher Heimkehrer, NS-Propaganda blamiert",
+"rang": 3,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Endingen",
 "steckbrief": "Stadt am Kaiserstuhl mit rund 10.500 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
-"frage": "In Endingen trat 1932 ein Mann auf: Er sei Oskar Daubmann, nach 16 Jahren französischer Kriegsgefangenschaft heimgekehrt. Was stellte sich heraus?",
+"frage": "1932 wurde in Endingen ein Mann gefeiert, der nach angeblich 16 Jahren französischer Kriegsgefangenschaft heimkehrte. Was stellte sich heraus?",
 "optionen": [
-"Er sagte über seine Gefangenschaft die Wahrheit.",
-"Er war ein Kleinkrimineller mit falscher Identität.",
-"Er war ein französischer Spion mit Auftrag.",
-"Er spielte die Rolle für eine Wette."
+"Er war tatsächlich der totgeglaubte Soldat.",
+"Er war ein französischer Spion.",
+"Er war der Bruder des Vermissten.",
+"Er war ein Hochstapler unter fremdem Namen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Mann gab sich als Oskar Daubmann aus, war aber der Kleinkriminelle Ignaz Hummel; der echte Daubmann war gefallen. Die echte Heimkehr lag nahe, weil die Nationalsozialisten ihn öffentlich feierten und für antifranzösische Propaganda nutzten. Der Fall ging durch die internationale Presse. Als die Sache aufflog, traf der Spott Endingen und besonders die Nationalsozialisten. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.endingen.de/stadt-wirtschaft/stadt-endingen/stadtchronik",
+"faktencheck": "korrigiert",
+"id": "403-endingen/v0.9/2",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Käserei-Tradition in der Weinstadt",
+"rang": 6,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Endingen",
+"steckbrief": "Stadt am Kaiserstuhl mit rund 10.500 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Museen gibt es in der Weinstadt Endingen?",
+"optionen": [
+"Ein Käsereimuseum",
+"Ein Ölmühlenmuseum",
+"Ein Senfmuseum",
+"Ein Spargelmuseum"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. An der Rempartstraße erinnert ein Museum an die Endinger Käserei und ihre alemannischen Käsesorten. Ein Spargelmuseum läge in der Rheinebene näher, denn Käse verbindet man eher mit dem Allgäu. In einer Stadt, die man mit Reben verbindet, war die Käserei ein unerwarteter Betrieb neben dem Wein. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.endingen.de/tourismus-freizeit/sehenswertes/museen; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "403-endingen/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Lössdecke am Vulkangebirge",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Endingen",
+"steckbrief": "Stadt am Kaiserstuhl mit rund 10.500 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Auf der Endinger Gemarkung liegt eine bis zu 30 Meter dicke Decke. Woraus besteht sie?",
+"optionen": [
+"Sie besteht aus Vulkanasche.",
+"Sie besteht aus Löss.",
+"Sie besteht aus Rheinkies.",
+"Sie besteht aus Muschelkalk."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Die Geschichte passte den Nationalsozialisten, sie nutzten sie für antifranzösische Propaganda. Doch der echte Oskar Daubmann war längst gefallen. Der Heimkehrer war der Kleinkriminelle Ignaz Hummel. Die internationale Presse berichtete, und der Spott traf Endingen und besonders die Nationalsozialisten. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.endingen.de/stadt-wirtschaft/stadt-endingen/stadtchronik",
+"rueckseite": "Du hattest [Option] getippt. Die Decke ist Löss, feiner Staub, den einst der Wind herantrug. Vulkanasche liegt nahe, weil der Kaiserstuhl ein alter Vulkan ist; vulkanisches Gestein findet sich aber erst in den höheren Lagen um den Katharinenberg. Beim Vorbeifahren sieht man unten die Rebhänge, oben geschlossenen Laubwald, vor allem Buchen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.endingen.de/stadt-wirtschaft/stadt-endingen/stadtportrait-geschichte",
 "faktencheck": "bestätigt",
-"id": "403-endingen/v0.8/1",
+"id": "403-endingen/v0.9/4",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "INFRA",
+"charakteristikum": "Betriebsmittelpunkt der Kaiserstuhlbahn",
+"rang": 7,
+"familie": "D",
+"sorte": "Geschichte",
 "ort": "Endingen",
-"steckbrief": "Kleinstadt am Kaiserstuhl mit drei Ortsteilen, 19 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Wie viele Menschen leben in der Stadt Endingen samt ihren Ortsteilen?",
+"steckbrief": "Stadt am Kaiserstuhl mit rund 10.500 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Was davon findet man in Endingen?",
 "optionen": [
-"unter 5.000",
-"5.000 bis unter 8.000",
-"8.000 bis unter 12.000",
-"12.000 und mehr"
+"Einen Halt für ICE-Züge",
+"Ein Krankenhaus des Landkreises Emmendingen",
+"Den Betriebsmittelpunkt der Kaiserstuhlbahn",
+"Eine Rehaklinik am Katharinenberg"
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Die Kernstadt allein wirkt wie ein Landstädtchen, da schätzt man leicht zu niedrig. Doch Amoltern, Kiechlinsbergen und Königschaffhausen zählen mit. Ende 2025 lebten in Endingen 10.517 Menschen. Richtig war 3.",
-"quelle": "Wikidata P1082, Stand 2025-12-31",
-"faktencheck": "bestätigt",
-"id": "403-endingen/v0.8/2",
+"rueckseite": "Du hattest [Option] getippt. Der Bahnhof Endingen ist der Betriebsmittelpunkt der Kaiserstuhlbahn. Ein ICE-Halt liegt nahe, weil Züge bis Freiburg fahren; doch es halten S-Bahnen, nach Breisach, nach Riegel-Malterdingen und über Gottenheim nach Freiburg. Für eine Stadt mit gut 10.500 Einwohnern ist das viel Bahn: Von hier aus wird die Kaiserstuhlbahn betrieben. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.endingen.de/tourismus-freizeit/gaesteservice/anreise; OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "403-endingen/v0.9/5",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "üsenbergische Stadt, habsburgisch geprägt",
+"rang": 9,
 "familie": "B",
 "sorte": "Geschichte",
 "ort": "Endingen",
 "steckbrief": "Stadt am Kaiserstuhl mit rund 10.500 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Endingen gehörte lange Zeit zum habsburgischen Vorderösterreich.",
-"Die Endinger Schützengesellschaft ging aus einer Bürgerwehr hervor.",
-"Das Endinger Stadtwappen zeigt eine Weinrebe und Kirschen."
+"Die Stadtrechte verlieh der Bischof von Straßburg.",
+"Endingen gehörte über Jahrhunderte zum Haus Habsburg.",
+"Das Stadtwappen zeigt einen Flügel der Üsenberger."
 ],
 "art": "luege",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Am Kaiserstuhl mit viel Rebland liegt eine Weinrebe im Wappen nahe. Doch das Wappen zeigt Herrschaft: das rot-weiße Wappen Österreichs und den silbernen Flügel der Üsenberger auf Blau. Die Üsenberger verliehen Endingen das Stadtrecht, danach kam die Stadt an Habsburg. Die Lüge war 3.",
-"quelle": "Gemeinde-Webseite, www.endingen.de/stadt-wirtschaft/stadt-endingen/stadtportrait-geschichte",
-"faktencheck": "bestätigt",
-"id": "403-endingen/v0.8/3",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Nach Angaben der Stadt verliehen die Herren von Üsenberg die Stadtrechte, eine Gründungsurkunde gibt es aber nicht; ihr silberner Flügel steht rechts im Wappen, links das österreichische Zeichen. Der Bischof von Straßburg liegt nahe, denn sein Bistum war am Oberrhein mächtig. Später gehörte Endingen bis zum Wechsel an Baden zu Habsburg. Daran erinnert heute ein eigenes Vorderösterreich-Museum im Üsenberger Hof. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.endingen.de/stadt-wirtschaft/stadt-endingen/stadtchronik",
+"faktencheck": "korrigiert",
+"id": "403-endingen/v0.9/6",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "kleine, dicht besiedelte Gemarkung",
+"rang": 10,
 "familie": "C",
 "sorte": "Klassiker",
 "ort": "Endingen",
-"steckbrief": "Weinbaustadt am Kaiserstuhl mit rund 10.500 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Welchen Zweitstimmenanteil erreichte die stärkste Partei in Endingen bei der Bundestagswahl 2025?",
+"steckbrief": "Stadt am Kaiserstuhl mit rund 10.500 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Wie groß ist die Gemarkung der Stadt Endingen samt ihrer Ortsteile?",
 "optionen": [
-"unter 35 %",
-"35 bis unter 40 %",
-"40 bis unter 45 %",
-"45 % und mehr"
+"unter 30 km²",
+"30 bis unter 45 km²",
+"45 bis unter 60 km²",
+"60 km² und mehr"
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. In einer Weinbau-Kleinstadt rechnet man oft mit einer übermächtigen CDU. Sie wurde stärkste Partei, blieb aber mit 34,3 Prozent knapp in der untersten Spanne. Dahinter folgten AfD und SPD. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"rueckseite": "Du hattest [Option] getippt. Die Stadt misst rund 26,7 km². Mehr liegt nahe, weil drei Ortsteile dazugehören und die Gemarkung bis auf den Katharinenberg reicht. Doch den kleinen Kaiserstuhl teilen sich viele Gemeinden. Mit knapp 400 Einwohnern je km² ist Endingen für eine Landstadt dicht besiedelt. Richtig war 1.",
+"quelle": "Wikidata P2046 (Fläche); Dichte berechnet aus Wikidata P1082, Stand 2025-12-31",
 "faktencheck": "bestätigt",
-"id": "403-endingen/v0.8/4",
+"id": "403-endingen/v0.9/7",
 "tisch": false
 },
 {
+"facette": "FREIZEIT",
+"charakteristikum": "großer Büchermarkt in der Weinstadt",
+"rang": 2,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Endingen",
 "steckbrief": "Stadt am Kaiserstuhl mit rund 10.500 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Wilhelm Jensens Roman „Die Heiligen von Amoltern“ spielt vor allem im Pfarrhaus des Endinger Ortsteils. Worauf beruht die Geschichte?",
+"frage": "Seit 2006 zieht ein Markt regelmäßig über 10.000 Besucher nach Endingen. Was wird dort gehandelt?",
 "optionen": [
-"Er beruht auf einem Streit um gestohlene Reliquien.",
-"Er beruht auf einem Versuch mit Gemeinschaftsbesitz.",
-"Er beruht auf einer angeblichen Marienerscheinung.",
-"Er beruht auf der Heiligsprechung eines Dorfpfarrers."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Der Titel lässt an Reliquien oder Heilige denken. Doch Jensen griff einen Versuch auf: Pater Romuald wollte mit Pfarrer Ganter eine Gemeinschaft mit gemeinsamem Besitz, gemeinsamer Arbeit und gemeinsamen Erträgen schaffen, gegen die Armut. Das Vorhaben scheiterte an der Obrigkeit, die darin einen Versuch sah, die Ständeordnung aufzuheben. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.endingen.de/stadt-wirtschaft/ortsteile/amoltern",
-"faktencheck": "korrigiert",
-"id": "403-endingen/v0.8/5",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Endingen",
-"steckbrief": "Weinbaustadt am Kaiserstuhl mit rund 10.500 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Wie viele Einwohner kommen in Endingen auf einen Quadratkilometer?",
-"optionen": [
-"unter 150",
-"150 bis unter 300",
-"300 bis unter 500",
-"500 und mehr"
+"Dort handeln Sammler mit Modelleisenbahnen.",
+"Dort wechseln Weinfässer und Kellergeräte den Besitzer.",
+"Dort werden gebrauchte und antiquarische Bücher gehandelt.",
+"Dort werden Pferde und Vieh gehandelt."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Reben und darüber Laubwald prägen die Gemarkung, da schätzt man leicht zu niedrig. Doch auf 26,7 Quadratkilometern kommen rund 10.500 Einwohner: 394 je Quadratkilometer. Richtig war 3.",
-"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
-"faktencheck": "bestätigt",
-"id": "403-endingen/v0.8/6",
+"rueckseite": "Du hattest [Option] getippt. Gehandelt werden antiquarische und gebrauchte Bücher und alles aus Papier, dazu Schallplatten und CDs. Angestoßen hat den Markt 2006 die Endinger Buchhandlung Vollherbst-Koch. Weinfässer lägen in einer Weinstadt näher, doch die Händler reisen bis aus dem Elsass und der Schweiz an. Er gilt als größter Büchermarkt Badens; schon 2007 kamen rund 10.000 Besucher, fast so viele, wie die Stadt Einwohner hat. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.endingen.de/stadt-wirtschaft/stadt-endingen/stadtchronik; Börsenblatt, www.boersenblatt.net/archiv/186037.html",
+"faktencheck": "korrigiert",
+"id": "403-endingen/v0.9/8",
 "tisch": false
 },
 {
+"facette": "INFRA",
+"charakteristikum": "„mehr Wein als Wasser“",
+"rang": 4,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Endingen",
 "steckbrief": "Stadt am Kaiserstuhl mit rund 10.500 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Im 19. Jahrhundert zogen Hunderte aus Endingen und Umgebung gemeinsam fort. Wo gründeten sie eine eigene Siedlung?",
+"frage": "Bevor Endingen eine zentrale Wasserleitung bekam, sagte man der Stadt etwas nach. Was?",
 "optionen": [
-"Sie gründeten eine Siedlung in Texas.",
-"Sie gründeten eine Siedlung in Südbrasilien.",
-"Sie gründeten eine Siedlung an der Wolga.",
-"Sie gründeten eine Siedlung in Venezuela."
+"Sie habe mehr Brunnen als Häuser.",
+"Sie habe manches Jahr mehr Wein als Wasser.",
+"Ihr Brunnenwasser schmecke nach Schwefel.",
+"Sie hole ihr Wasser aus dem Rhein."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Vor der Wasserleitung nannte man Endingen „die Stadt, die manches Jahr mehr Wein als Wasser hat“. Mehr Brunnen als Häuser klingt plausibel, denn Brunnen und Quellen spielen in Endingen eine wichtige, symbolträchtige Rolle. Der Spruch passt zu einer Stadt, die bis heute vom Rebland ringsum geprägt ist. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.endingen.de/stadt-wirtschaft/stadt-endingen/stadtchronik",
+"faktencheck": "korrigiert",
+"id": "403-endingen/v0.9/9",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Auswandererkolonie in Venezuela",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Endingen",
+"steckbrief": "Stadt am Kaiserstuhl mit rund 10.500 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "1843 wanderten mehr als 350 Menschen aus Endingen und Umgebung gemeinsam aus. Wohin zog die Gruppe?",
+"optionen": [
+"Die Gruppe zog nach Brasilien.",
+"Die Gruppe zog in die USA.",
+"Die Gruppe zog nach Chile.",
+"Die Gruppe zog nach Venezuela."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Texas und Brasilien lockten damals viele Auswanderer aus Deutschland, das liegt nahe. Doch die Gruppe um Alexander Benitz gründete in Venezuela die Colonia Tovar. Die Siedlung besteht noch; Nachkommen sprechen Spanisch und den Dialekt der alten Heimat. Das Heimatmuseum zeigt die Auswanderung in den Tovarer Stuben. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.endingen.de/stadt-wirtschaft/stadt-endingen/stadtportrait-geschichte",
-"faktencheck": "bestätigt",
-"id": "403-endingen/v0.8/7",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Endingen",
-"steckbrief": "Stadt am Kaiserstuhl mit rund 10.500 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Woher hat der Endinger Ortsteil Königschaffhausen seinen Namen?",
-"optionen": [
-"Ein königliches Schafhaus gab dem Ort den Namen.",
-"Siedler aus dem Schweizer Schaffhausen gründeten ihn.",
-"Hier lag eine königliche Werft für Rheinschiffe.",
-"Ein Rittergeschlecht von Schaffhausen besaß das Dorf."
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach der Schweizer Stadt Schaffhausen, das liegt nahe. Doch „Künges Schafhusen“ bedeutet königliches Schafhaus. Daran erinnern die Gewannnamen, also Flurnamen, Königsweg und Schaflager. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.endingen.de/stadt-wirtschaft/ortsteile/koenigschaffhausen",
-"faktencheck": "bestätigt",
-"id": "403-endingen/v0.8/8",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Endingen",
-"steckbrief": "Stadt am Kaiserstuhl mit rund 10.500 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Was bezeichnet man in Endingen als „Heiliwog“?",
-"optionen": [
-"Man segnet an Weihnachten den jungen Wein.",
-"Eine Prozession führt an Ostern zu allen Brunnen.",
-"Man fasst an Heiligabend um Mitternacht Wasser.",
-"Man räuchert in den Raunächten Haus und Stall."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Vor der Wasserleitung hieß es, Endingen habe manches Jahr mehr Wein als Wasser, da denkt man an Wein. Doch das Heiliwog ist „heiliges Wasser“: Es wird an Heiligabend um Mitternacht aus den öffentlichen Brunnen gefasst und das ganze Jahr über als Heiltrank geschätzt. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.endingen.de/stadt-wirtschaft/stadt-endingen/stadtportrait-geschichte",
+"rueckseite": "Du hattest [Option] getippt. Unter Leitung des Endingers Alexander Benitz zogen sie nach Venezuela und gründeten dort die Colonia Tovar. Brasilien liegt nahe, weil dorthin viele Deutsche auswanderten. Die Nachkommen sprechen neben Spanisch noch Dialekt aus der alten Heimat, und Endingen unterhält bis heute einen regen Austausch mit ihnen. Im Heimatmuseum am Marktplatz erzählen die Tovarer Stuben davon. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.endingen.de/stadt-wirtschaft/stadt-endingen/stadtchronik; www.endingen.de/stadt-wirtschaft/stadt-endingen/stadtportrait-geschichte",
 "faktencheck": "korrigiert",
-"id": "403-endingen/v0.8/9",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Endingen",
-"steckbrief": "Stadt am Kaiserstuhl mit rund 10.500 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Woher hat der Endinger Ortsteil Kiechlinsbergen den ersten Teil seines Namens?",
-"optionen": [
-"Ein Kirchlein am Berg gab ihm den Namen.",
-"Ein Freiburger Rittergeschlecht gab ihm den Namen.",
-"Die Kühe auf den Bergweiden gaben ihm den Namen.",
-"Ein örtlicher Heiliger gab ihm den Namen."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. „Kiechlin“ klingt nach Kirchlein, das liegt nahe. Doch der Ort hieß zunächst Bergen, dann Unterbergen. Den Zusatz gab das Rittergeschlecht Küchlin von Freiburg, Vögte des Klosters Andlau. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.endingen.de/stadt-wirtschaft/ortsteile/kiechlinsbergen",
-"faktencheck": "bestätigt",
-"id": "403-endingen/v0.8/10",
+"id": "403-endingen/v0.9/10",
 "tisch": false
 }
 ],
 "anschluss_von": "402-riegel",
 "anschluss": [
-"Kaiserstuhlbahn: Das Bahnstück von Riegel nach Endingen stammt von 1894.",
-"Bundestagswahl 2025: In Endingen wählten 84,9 Prozent, in Riegel 84,5."
+"Endingen hat gut zweieinhalbmal so viele Einwohner wie Riegel.",
+"Die Kaiserstuhlbahn fuhr zuerst nur von Riegel nach Endingen."
 ],
 "anschluesse": {
 "396-waldkirch": [
@@ -18363,8 +18519,8 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: Auf Platz zwei kam in Bahlingen die SPD, in Endingen die AfD."
 ],
 "402-riegel": [
-"Kaiserstuhlbahn: Das Bahnstück von Riegel nach Endingen stammt von 1894.",
-"Bundestagswahl 2025: In Endingen wählten 84,9 Prozent, in Riegel 84,5."
+"Endingen hat gut zweieinhalbmal so viele Einwohner wie Riegel.",
+"Die Kaiserstuhlbahn fuhr zuerst nur von Riegel nach Endingen."
 ],
 "69-ihringen": [
 "Kreisgrenze: Ihringen gehört zum Landkreis Breisgau-Hochschwarzwald, Endingen zum Landkreis Emmendingen.",
@@ -18387,6 +18543,32 @@ window.QA_DATEN = {
 },
 "ags": "08316012",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Stadt am Kaiserstuhl, 19 km nordwestlich von Freiburg, 26,7 km²; höchster Gipfel ist der Katharinenberg mit 492 m."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Von den Üsenbergern zur Stadt erhoben, lange habsburgisch, seit 1805 badisch; Ortsteile Amoltern, Kiechlinsbergen, Königschaffhausen."
+},
+{
+"facette": "ALLTAG",
+"text": "Gut 10.500 Einwohner, rund 700 Hektar Reben, viele Weingüter, Kirschanbau in Königschaffhausen, Betriebe wie Schurter und Eltroplan."
+},
+{
+"facette": "FREIZEIT",
+"text": "Kirschenmuseum, Badeweiher und Minigolf am Erleweiher, Naturschutzgebiet Amolterer Heide, Kaiserstuhl-Radwanderweg und Oberrhein-Römerradweg."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhöfe Endingen und Königschaffhausen, Partnerstädte Erstein und Colonia Tovar, Kennzeichen EM."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU 34,3 Prozent vor AfD 17,2 Prozent; Wahlbeteiligung 84,9 Prozent, leicht über dem Land."
+}
+],
 "km_vom_vorigen": 3.4
 },
 {
@@ -18879,6 +19061,2268 @@ window.QA_DATEN = {
 "km_vom_vorigen": 5.3
 },
 {
+"slug": "472-oberrotweil",
+"name": "Oberrotweil",
+"lat": 48.08889,
+"lon": 7.63056,
+"karten": [
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Freibad im 1.700-Einwohner-Stadtteil",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberrotweil",
+"steckbrief": "Stadtteil von Vogtsburg im Kaiserstuhl mit rund 1.700 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Oberrotweil hat ein Bad, das die Stadt Vogtsburg als beliebtes Bad im inneren Kaiserstuhl beschreibt. Was macht es laut Stadt so beliebt?",
+"optionen": [
+"Es ist ein großes Erlebnisbad mit vielen Rutschen.",
+"Es ist ein Hallenbad und damit wetterunabhängig.",
+"Es ist ein Badesee ohne Becken und Chlor.",
+"Es ist gemütlich und von überschaubarer Größe."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Viele denken bei einem beliebten Bad an Rutschen oder Wellenbecken. Die Stadt nennt anderes: Das Freibad Vogtsburg in Oberrotweil sei ein Familienbad mit gemütlicher Atmosphäre und überschaubarer Größe, ein sozialer Treffpunkt und wertvoll für Kinder und Jugendliche. Für einen Stadtteil mit rund 1.700 Einwohnern ist ein Freibad viel; es trägt den Namen der ganzen Stadt Vogtsburg. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.vogtsburg.de/de-de/leben-wohnen/foerderverein-freibad-vogtsburg-e-v/informationen-zum-foerderverein-freibad-vogtsburg-e-v",
+"faktencheck": "bestätigt",
+"id": "472-oberrotweil/v0.9/1",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Großterrassen statt kleiner Rebhänge",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberrotweil",
+"steckbrief": "Stadtteil von Vogtsburg im Kaiserstuhl mit rund 1.700 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Die Rebhänge um Oberrotweil waren einst eine kleinräumige Terrassenlandschaft mit vielen Tälchen und Hügeln. Was wurde bei der Flurbereinigung daraus?",
+"optionen": [
+"Die kleinen Terrassen wurden mit Mauern restauriert.",
+"Daraus wurden große Terrassen für Maschinen.",
+"Steile Hänge bekamen Seilbahnen für die Lese.",
+"Die Hänge wurden aufgegeben und verbuschten."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an alte Weinberge denkt, erwartet gepflegte kleine Terrassen. Bei der Flurbereinigung, einer Neuordnung von Grundstücken und Rebhängen, entstanden um Oberrotweil große Rebflächen, die nur noch durch Böschungen gegliedert sind. So kommen Maschinen an die Reben, und die Arbeit am Hang wird leichter. Diese breiten Rebstufen sieht man beim Vorbeifahren. Richtig war 2.",
+"quelle": "LEO-BW, Landesmedienzentrum Baden-Württemberg (Luftbild Oberrotweil 1969)",
+"faktencheck": "korrigiert",
+"id": "472-oberrotweil/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "schmales Dorf im Krottenbachtal",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberrotweil",
+"steckbrief": "Stadtteil von Vogtsburg im Kaiserstuhl mit rund 1.700 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Oberrotweil zieht sich lang und schmal durch das Tal des Krottenbachs. In welche Richtung öffnet sich dieses Tal?",
+"optionen": [
+"Es öffnet sich nach Osten Richtung Freiburg.",
+"Es öffnet sich nach Norden zur Elz.",
+"Es öffnet sich nach Westen zum Rhein.",
+"Es öffnet sich nach Süden zum Tuniberg."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Freiburg ist die nächste Großstadt, da liegt Osten nahe. Doch das Krottenbachtal öffnet sich nach Westen, zur Rheinebene hin. Oberrotweil liegt im unteren Teil des Tals; neue Häuser entstanden vor allem nach Westen zum Bahnhof hin. Wer talabwärts fährt, fährt auf den Rhein zu. Richtig war 3.",
+"quelle": "LEO-BW, Ortslexikon Oberrotweil",
+"faktencheck": "korrigiert",
+"id": "472-oberrotweil/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Verwaltungssitz der Stadt Vogtsburg",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberrotweil",
+"steckbrief": "Stadtteil von Vogtsburg im Kaiserstuhl mit rund 1.700 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Oberrotweil ist einer von mehreren Stadtteilen von Vogtsburg im Kaiserstuhl. Welche Rolle spielt es in dieser Stadt?",
+"optionen": [
+"Oberrotweil ist der kleinste Stadtteil Vogtsburgs.",
+"Oberrotweil kam erst nachträglich zur Stadt hinzu.",
+"Oberrotweil liegt abseits am äußersten Stadtrand.",
+"In Oberrotweil sitzt die Stadtverwaltung."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Stadtteil mit rund 1.700 Einwohnern wirkt wie ein Dorf am Rand. Doch in Oberrotweil sitzt die Stadtverwaltung Vogtsburgs. Die Stadt entstand am 1. Januar 1975 aus sieben ehemals selbstständigen Weinbaugemeinden und hieß zuerst sogar Oberrotweil. Den Namen Vogtsburg im Kaiserstuhl bekam sie erst 1977. Richtig war 4.",
+"quelle": "LEO-BW, Ortslexikon Vogtsburg im Kaiserstuhl",
+"faktencheck": "korrigiert",
+"id": "472-oberrotweil/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "vorderösterreichisch, alemannisch, Sohn in Troppau",
+"rang": 3,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Oberrotweil",
+"steckbrief": "Stadtteil von Vogtsburg im Kaiserstuhl mit rund 1.700 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Oberrotweil gehörte über Jahrhunderte zu Württemberg.",
+"Am unteren Ortseingang fand man alemannische Gräber.",
+"Ein hier Geborener gründete ein Museum in Troppau."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Am verdächtigsten wirkt das ferne Troppau, doch es stimmt: Der hier geborene Faustin Ens, Gymnasiallehrer in Troppau, war einer der Gründer des Museums, aus dem das Schlesische Landesmuseum hervorging. Gelogen ist Württemberg: Ab 1330 gehörte Oberrotweil mit der Herrschaft Burkheim zu Österreich, bis es 1806 an Baden kam. Die alemannischen Reihengräber am Ortsrand zeigen, wie alt die Besiedlung hier ist. Die Lüge war 1.",
+"quelle": "LEO-BW, Ortslexikon Oberrotweil; Schlesisches Landesmuseum Troppau",
+"faktencheck": "korrigiert",
+"id": "472-oberrotweil/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "dicht gedrängtes Winzerdorf im Tal",
+"rang": 10,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Oberrotweil",
+"steckbrief": "Stadtteil von Vogtsburg im Kaiserstuhl mit rund 1.700 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Wie viele Einwohner leben in Oberrotweil im Schnitt auf einem Quadratkilometer?",
+"optionen": [
+"unter 100",
+"100 bis unter 250",
+"250 bis unter 500",
+"500 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Winzerdorf am Kaiserstuhl wirkt dünn besiedelt, da liegt „unter 100“ nahe. Tatsächlich leben in Oberrotweil rund 1.700 Menschen auf gut 10 Quadratkilometern, also 168 je Quadratkilometer. Die Häuser drängen sich schmal ins Tal, ringsum liegen Reben. Richtig war 2.",
+"quelle": "GRUNDDATEN, berechnet aus Einwohnern (dewiki Infobox, Stand 2022-11-01) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "472-oberrotweil/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "jährlicher Pferdesegen an Wallfahrtskirche",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberrotweil",
+"steckbrief": "Stadtteil von Vogtsburg im Kaiserstuhl mit rund 1.700 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "An der kleinen Wallfahrtskirche St. Pantaleon in Niederrotweil gibt es jedes Jahr einen Segen. Was wird dort gesegnet?",
+"optionen": [
+"Die Fässer mit dem neuen Wein werden gesegnet.",
+"Die Bienenvölker der Imker werden gesegnet.",
+"Pferde werden gesegnet, früher Arbeits-, heute Reitpferde.",
+"Hunde und Katzen der Familien werden gesegnet."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Weindorf läge ein Segen für den neuen Wein nahe. Doch an der Wallfahrtskapelle St. Pantaleon, 1742 an Stelle einer älteren Kirche erbaut, werden zur Wallfahrt jedes Jahr Pferde gesegnet. Nach dem Festgottesdienst segnet der Pfarrer die Tiere, die Reiter aus den Nachbarorten mitbringen. Oft kommen so viele, dass der Gottesdienst im Freien stattfindet. Richtig war 3.",
+"quelle": "Badische Zeitung; LEO-BW",
+"faktencheck": "korrigiert",
+"id": "472-oberrotweil/v0.9/8",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "spätgotischer Schnitzaltar des Meisters HL",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberrotweil",
+"steckbrief": "Stadtteil von Vogtsburg im Kaiserstuhl mit rund 1.700 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "In der Kirche St. Michael in Niederrotweil steht ein spätgotischer Schnitzaltar. Wer steht in seiner Mitte?",
+"optionen": [
+"Maria steht dort, gerahmt von Gott und Jesus.",
+"Der Erzengel Michael steht dort als Drachentöter.",
+"Johannes der Täufer steht dort mit dem Lamm.",
+"Der heilige Pantaleon steht dort als Arzt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. In einer Michaelskirche erwartet man den Erzengel in der Mitte. Doch der Mittelschrein zeigt die Krönung Mariens; Michael und Johannes der Täufer, die Kirchenpatrone, stehen an den Seiten. Geschaffen hat den Altar der Meister HL, von dem auch der Breisacher Hochaltar stammt; Auftraggeber war das Kloster St. Blasien. Richtig war 1.",
+"quelle": "LEO-BW; Breisacher Münsterbauverein, UB Heidelberg",
+"faktencheck": "korrigiert",
+"id": "472-oberrotweil/v0.9/10",
+"tisch": false
+}
+],
+"anschluss_von": "467-vogtsburg",
+"anschluss": [
+"Oberrotweil hat gut ein Viertel der Einwohner und Fläche Vogtsburgs.",
+"Von Vogtsburgs drei Bahnstationen liegt eine in Oberrotweil."
+],
+"anschluesse": {
+"467-vogtsburg": [
+"Oberrotweil hat gut ein Viertel der Einwohner und Fläche Vogtsburgs.",
+"Von Vogtsburgs drei Bahnstationen liegt eine in Oberrotweil."
+]
+},
+"ags": "08315133",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Oberrotweil liegt auf etwa 215 Metern lang und schmal im Krottenbachtal, 19 km nordwestlich von Freiburg."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals erwähnt 969, seit 1975 Stadtteil von Vogtsburg im Kaiserstuhl, mit dem Ortsteil Niederrotweil."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 1.700 Einwohner auf gut zehn Quadratkilometern, Weingüter Salwey und Freiherr von Gleichenstein, Erzeugergroßmarkt Südbaden."
+},
+{
+"facette": "FREIZEIT",
+"text": "Freibad, Wallfahrtskirche St. Pantaleon, Aussicht Mondhalde auf 370 Metern, Badischer Jakobusweg, Schutzgebiet Steinbruch Niederrotweil."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof Oberrotweil, Postleitzahl 79235, Vorwahl 07662, Autokennzeichen FR."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag die Wahlbeteiligung in der Stadt Vogtsburg bei 87,1 Prozent, im Land bei 83,4 Prozent."
+}
+],
+"km_vom_vorigen": 0.1
+},
+{
+"slug": "473-achkarren",
+"name": "Achkarren",
+"lat": 48.06778,
+"lon": 7.62694,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Ortsname aus einer Burgsage",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Achkarren",
+"steckbrief": "Ortsteil von Vogtsburg im Kaiserstuhl mit gut 800 Einwohnern, 19 km nordwestlich von Freiburg.",
+"frage": "Der Sage nach geht der Ortsname auf einen Ausruf zurück. Was soll ihn ausgelöst haben?",
+"optionen": [
+"Ein Wagen voller Trauben kippte im Weinberg um.",
+"Ein Wagen blieb im Rheinsumpf stecken.",
+"Ein Materialwagen rollte beim Burgbau mehrfach hinab.",
+"Ein Wagen mit Zehntwein brach unterwegs zusammen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Weinberg-Unglück läge nahe, denn Achkarren lebt vom Wein. Die Sage spielt aber beim Bau der Burg Höhingen: Ein Materialwagen soll mehrfach den steilen Hang hinabgerollt sein, bis der Schlossherr „Ach Karren“ rief. Die Forschung hält den Namen dagegen für ungedeutet; 1064 hieß der Ort Hatcharl. So steckt die Burg wenigstens der Sage nach im Namen des Weindorfs. Richtig war 3.",
+"quelle": "LEO-BW; Badische Zeitung",
+"faktencheck": "korrigiert",
+"id": "473-achkarren/v0.9/1",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Weinbaumuseum mit geologischem Lehrpfad",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Achkarren",
+"steckbrief": "Ortsteil von Vogtsburg im Kaiserstuhl mit gut 800 Einwohnern, 19 km nordwestlich von Freiburg.",
+"frage": "Zum Weinbaumuseum in Achkarren gehört ein Lehrpfad. Was ist das für ein Pfad?",
+"optionen": [
+"Es ist ein Barfußpfad über Rebböden.",
+"Es ist ein Sagenpfad zur Burgruine.",
+"Es ist ein Skulpturenpfad mit Winzerfiguren.",
+"Es ist ein geologischer Weinlehrpfad."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Skulpturenpfad läge nahe, weil viele Weinorte ihre Wege mit Kunst schmücken. Der Pfad am Schlossberg ist aber ein geologischer Weinlehrpfad: Auf rund 2,4 Kilometern erklären Tafeln, wie eng Weinbau und Vulkangestein zusammenhängen. Dazu passt das Weinbaumuseum in der alten Zehntscheuer. Für ein Dorf mit gut 800 Einwohnern zeigt das, wie sehr der Wein den Ort ausmacht. Richtig war 4.",
+"quelle": "LGRB Baden-Württemberg",
+"faktencheck": "korrigiert",
+"id": "473-achkarren/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "wärmster Punkt Deutschlands nebenan",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Achkarren",
+"steckbrief": "Ortsteil von Vogtsburg im Kaiserstuhl mit gut 800 Einwohnern, 19 km nordwestlich von Freiburg.",
+"frage": "Zwischen Achkarren und dem Nachbarort Ihringen liegt ein besonderer Punkt. Was zeichnet ihn aus?",
+"optionen": [
+"Dort ist es deutschlandweit im Schnitt am wärmsten.",
+"Dort verläuft die Grenze zu Frankreich.",
+"Dort liegt Badens geografischer Mittelpunkt.",
+"Dort brach Deutschlands jüngster Vulkan aus."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Grenze läge nahe, denn der Rhein ist nicht weit. Besonders ist der Punkt aber wegen seiner Wärme: Zwischen Achkarren und Ihringen soll der im Schnitt wärmste Punkt Deutschlands liegen; oft wird dafür Ihringen allein genannt. Sicher ist: Das Weindorf mit gut 800 Einwohnern liegt in einer der wärmsten Ecken des Landes. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Achkarren (Vorbehalt: kein Zweitbeleg)",
+"faktencheck": "korrigiert",
+"id": "473-achkarren/v0.9/3",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Ruländer-Winzer auf Vulkanboden",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Achkarren",
+"steckbrief": "Ortsteil von Vogtsburg im Kaiserstuhl mit gut 800 Einwohnern, 19 km nordwestlich von Freiburg.",
+"frage": "Welcher Wein gilt in Achkarren als „König der hiesigen Weine“?",
+"optionen": [
+"Der Gutedel.",
+"Der Ruländer vom Schlossberg.",
+"Der Riesling.",
+"Der Silvaner."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Gutedel läge nahe, denn er gilt als typische Sorte im Markgräflerland. Als König der hiesigen Weine gilt in Achkarren aber der Ruländer vom Schlossberg. Laut Stadt besteht rund die Hälfte des Bodens aus Vulkangestein, das die Tageswärme speichert. Für ein Dorf mit gut 800 Einwohnern ist der Wein Arbeit und Identität zugleich. Richtig war 2.",
+"quelle": "Stadt Vogtsburg, vogtsburg.de",
+"faktencheck": "korrigiert",
+"id": "473-achkarren/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Bahnhalt und Gewerbegebiet im Weindorf",
+"rang": 7,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Achkarren",
+"steckbrief": "Ortsteil von Vogtsburg im Kaiserstuhl mit gut 800 Einwohnern, 19 km nordwestlich von Freiburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Achkarren hat eigene Tennisplätze unter freiem Himmel.",
+"Zum nächsten Bahnhof fahren Achkarrer in den Nachbarort.",
+"Das zentrale Gewerbegebiet Vogtsburgs liegt in Achkarren."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein eigener Halt wirkt für ein Weindorf wie Luxus, deshalb klingt die Bahnaussage glaubhaft. Doch Achkarren hat einen eigenen Bahnhof an der Kaiserstuhlbahn. Wahr sind die Tennis-Freiplätze und das zentrale Gewerbegebiet Vogtsburgs im Ort. Für einen Ortsteil mit gut 800 Einwohnern ist das viel Infrastruktur, mehr als man beim Vorbeifahren vermutet. Die Lüge war 2.",
+"quelle": "Stadt Vogtsburg, vogtsburg.de; SWEG-Pressemitteilung 2025",
+"faktencheck": "korrigiert",
+"id": "473-achkarren/v0.9/6",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Weindorf mit gut 800 Einwohnern",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Achkarren",
+"steckbrief": "Ortsteil von Vogtsburg im Kaiserstuhl mit 3,5 km² Gemarkung, 19 km nordwestlich von Freiburg.",
+"frage": "Wie viele Menschen leben in Achkarren?",
+"optionen": [
+"unter 1.000",
+"1.000 bis unter 2.000",
+"2.000 bis unter 4.000",
+"4.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Spanne bis 2.000 läge nahe, denn Achkarrens Weine werden regelmäßig prämiert. Laut Wikidata leben dort aber 823 Menschen, auf nur 3,53 Quadratkilometern, also rund 233 je Quadratkilometer. Wer durch Achkarren fährt, durchquert also ein Dorf, kein Städtchen. Richtig war 1.",
+"quelle": "Wikidata P1082 (Stand in der Quelle nicht angegeben)",
+"faktencheck": "bestätigt",
+"id": "473-achkarren/v0.9/7",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Steinbruch für das Breisacher Münster",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Achkarren",
+"steckbrief": "Ortsteil von Vogtsburg im Kaiserstuhl mit gut 800 Einwohnern, 19 km nordwestlich von Freiburg.",
+"frage": "Hinter dem Büchsenberg bei Achkarren liegt ein großer Steinbruch. Wofür nutzte man seinen Stein im Mittelalter?",
+"optionen": [
+"Man baute damit das Basler Münster.",
+"Man baute damit das Straßburger Münster.",
+"Man baute damit das Konstanzer Münster.",
+"Man baute damit das Breisacher Stephansmünster."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Straßburg läge nahe, denn sein Münster kennt fast jeder. Der Stein vom Achkarrer Schlossberg geht aber ins nahe Breisach: Für die Sanierung des Stephansmünsters wurde der alte Bruch wieder geöffnet. Das Münster ist großteils aus Kaiserstühler Vulkangestein gebaut. So steckt ein Stück Achkarren bis heute im Breisacher Münster. Richtig war 4.",
+"quelle": "LGRB Baden-Württemberg",
+"faktencheck": "korrigiert",
+"id": "473-achkarren/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Burgruine Höhingen auf dem Schlossberg",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Achkarren",
+"steckbrief": "Ortsteil von Vogtsburg im Kaiserstuhl mit gut 800 Einwohnern, 19 km nordwestlich von Freiburg.",
+"frage": "Auf dem Schlossberg bei Achkarren stand die Burg Höhingen. Was geschah mit ihr im Bauernkrieg 1525?",
+"optionen": [
+"Sie wurde verlassen und dem Verfall überlassen.",
+"Ein Erdbeben brachte sie zum Einsturz.",
+"Sie wurde zerstört und danach stärker befestigt wieder aufgebaut.",
+"Ein Blitzschlag ließ sie ausbrennen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Verfall läge nahe, denn heute stehen nur noch Mauerreste. Im Bauernkrieg 1525 wurde die Burg aber zerstört, danach wieder aufgebaut und sogar stärker befestigt. Ihr Ende kam erst im Dreißigjährigen Krieg, als sie niederbrannte. Seitdem erinnern auf dem Schlossberg nur Reste an das Wahrzeichen von Achkarren. Richtig war 3.",
+"quelle": "LEO-BW",
+"faktencheck": "korrigiert",
+"id": "473-achkarren/v0.9/9",
+"tisch": false
+}
+],
+"anschluss_von": "472-oberrotweil",
+"anschluss": [
+"Oberrotweil hat gut doppelt so viele Einwohner wie Achkarren.",
+"Achkarrens neue Gemeinde hieß ab 1975 zuerst Oberrotweil."
+],
+"anschluesse": {
+"472-oberrotweil": [
+"Oberrotweil hat gut doppelt so viele Einwohner wie Achkarren.",
+"Achkarrens neue Gemeinde hieß ab 1975 zuerst Oberrotweil."
+]
+},
+"ags": "08315133",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Achkarren liegt im Kaiserstuhl auf gut 220 Metern, 19 km nordwestlich von Freiburg, zwischen Schlossberg, Schneckenberg und Hochbuck."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 1064 urkundlich erwähnt, im Dreißigjährigen Krieg und im Spanischen Erbfolgekrieg schwer getroffen, seit 1975 Teil von Vogtsburg."
+},
+{
+"facette": "ALLTAG",
+"text": "Gut 800 Einwohner auf 3,53 km²; Weinbau mit Winzergenossenschaft, dazu Steinbruch am Büchsenberg und Vogtsburgs zentrales Gewerbegebiet."
+},
+{
+"facette": "FREIZEIT",
+"text": "Weinbaumuseum mit geologischem Weinlehrpfad, Burgruine Höhingen, Tennisplätze und Naturschutzgebiet Büchsenberg."
+},
+{
+"facette": "INFRA",
+"text": "Eigener Bahnhof Achkarren, Postleitzahl 79235, Vorwahl 07662, Kennzeichen FR."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag in Vogtsburg die CDU mit 40,9 % vorn; die Wahlbeteiligung war 87,1 %."
+}
+],
+"km_vom_vorigen": 2.4
+},
+{
+"slug": "474-burkheim",
+"name": "Burkheim",
+"lat": 48.1011,
+"lon": 7.59806,
+"karten": [
+{
+"facette": "ALLTAG",
+"charakteristikum": "Weinbau nach dem Krieg neu aufgebaut",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Burkheim",
+"steckbrief": "Gut 1.000 Einwohner, Stadtteil von Vogtsburg im Kaiserstuhl, 22 km nordwestlich von Freiburg.",
+"frage": "Nach dem Zweiten Weltkrieg verwilderten Burkheims Reben. Wie wurde der Weinbau danach neu aufgebaut?",
+"optionen": [
+"Die Hänge wurden mit Wald aufgeforstet.",
+"Man stellte auf reblausfreie Pfropfreben um.",
+"Die Winzer wechselten zu Obst und Spargel.",
+"Man schnitt die alten Stöcke kräftig zurück."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Zurückschneiden läge nahe, es wäre der billigste Weg. Burkheim baute den Weinbau aber neu auf: Die Rebflächen wurden umgelegt, also neu geordnet, und man stellte auf Pfropfreben um, Edelreben auf einer Unterlage, die der Reblaus widersteht. Der Weinbau ist Haupterwerbsquelle des Orts; an den Hängen ringsum sieht man, was daraus wurde. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl",
+"faktencheck": "unsicher",
+"id": "474-burkheim/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Schwendis Garten mit italienischen Früchten",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Burkheim",
+"steckbrief": "Gut 1.000 Einwohner, Weinort am Westrand des Kaiserstuhls, 22 km nordwestlich von Freiburg.",
+"frage": "Der Feldherr Lazarus von Schwendi ließ in Burkheim einen Versuchsgarten anlegen. Was wuchs darin?",
+"optionen": [
+"Dort wuchsen Kartoffeln aus der Neuen Welt.",
+"Dort wurde Getreide aus Ungarn erprobt.",
+"Dort wuchsen Früchte aus Italien.",
+"Dort wurde Tabak aus Amerika angebaut."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ungarn liegt nahe, denn dort hatte Schwendi als Feldherr gegen die Türken gekämpft. Im Versuchsgarten wuchsen aber italienische Früchte. Er gehörte zu Schwendis Reformen, mit denen Burkheim eine wirtschaftliche und politische Blütezeit erlebte; auch die Stadtmauer geht auf ihn zurück. Dass hier Früchte aus dem Süden erprobt wurden, passt zum milden Klima des Kaiserstuhls. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl",
+"faktencheck": "unsicher",
+"id": "474-burkheim/v0.9/2",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Korkenziehermuseum im Weinort",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Burkheim",
+"steckbrief": "Gut 1.000 Einwohner, Weinort und Stadtteil von Vogtsburg im Kaiserstuhl, 22 km nordwestlich von Freiburg.",
+"frage": "In Burkheim gibt es ein Spezialmuseum. Welchem Thema ist es gewidmet?",
+"optionen": [
+"Es ist ein Museum für Weinetiketten.",
+"Es ist ein Museum der Rheinfischerei.",
+"Es ist ein Museum für Weinpressen.",
+"Es ist ein Museum für Korkenzieher."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Weinpressen liegen nahe, sie gehören in jedem Weinort zur Geschichte des Kelterns. Burkheims Museum widmet sich aber einem kleineren Werkzeug: dem Korkenzieher. Aufgebaut hat es der Sammler Bernhard Maurer, es steht in der Mittelstadt. Für einen Ortsteil mit gut 1.000 Einwohnern ist ein eigenes Museum viel, und das Thema passt zu einem Weinort. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "474-burkheim/v0.9/3",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Stadtschreiber Wickram aus Colmar",
+"rang": 8,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Burkheim",
+"steckbrief": "Gut 1.000 Einwohner, Stadtteil von Vogtsburg im Kaiserstuhl, 22 km nordwestlich von Freiburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Eine Fischerzunft gab es schon im Mittelalter.",
+"Von drei Stadttoren blieb das Rotweiler Tor.",
+"Der Schriftsteller Jörg Wickram wurde in Burkheim geboren."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer in einem Ort wirkt und stirbt, stammt oft auch von dort. Jörg Wickram kam aber aus Colmar im Elsass; in Burkheim war er Stadtschreiber, und dort starb er. Dass ein Schriftsteller dieses Amt übernahm, zeigt: Burkheim war damals eine richtige Stadt, mit Mauer, Toren und Zünften. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl",
+"faktencheck": "unsicher",
+"id": "474-burkheim/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "große Gemarkung voller Reben und Wald",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Burkheim",
+"steckbrief": "Gut 1.000 Einwohner, Weinort am Rhein, Stadtteil von Vogtsburg im Kaiserstuhl, 22 km nordwestlich von Freiburg.",
+"frage": "Wie groß ist die Gemarkung von Burkheim, also die Fläche des Stadtteils?",
+"optionen": [
+"unter 3 km²",
+"3 bis unter 4,5 km²",
+"4,5 bis unter 5,5 km²",
+"5,5 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei gut 1.000 Einwohnern denkt man an eine kleine Fläche. Burkheims Gemarkung misst aber 5,73 Quadratkilometer, denn zum Ort gehören Rebhänge, Wald und Rheinauen. Das ergibt 187 Einwohner je Quadratkilometer; beim Vorbeifahren sieht man mehr Reben und Wald als Häuser. Richtig war 4.",
+"quelle": "Wikidata P2046 (Fläche); dewiki Infobox (Einwohner, Stand 2022-11-01)",
+"faktencheck": "bestätigt",
+"id": "474-burkheim/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "das „badische Rothenburg“",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Burkheim",
+"steckbrief": "Gut 1.000 Einwohner, Stadtteil von Vogtsburg im Kaiserstuhl, 22 km nordwestlich von Freiburg.",
+"frage": "Helmut Witt verglich Burkheim 1971 mit einer berühmten Stadt. Wie nannte er den Ort?",
+"optionen": [
+"Er nannte es das badische Venedig.",
+"Er nannte es das badische Rothenburg.",
+"Er nannte es das badische Carcassonne.",
+"Er nannte es das Siena am Rhein."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Venedig liegt nahe, denn Burkheim liegt am Rhein und hat ein Fischerviertel. Helmut Witt sprach aber vom badischen Rothenburg; gemeint ist die Altstadt mit Fachwerkhäusern, engen Gassen, Kopfsteinpflaster und Ziehbrunnen. Für einen Ortsteil mit gut 1.000 Einwohnern ist eine ganze Altstadt unter Denkmalschutz viel. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl",
+"faktencheck": "unsicher",
+"id": "474-burkheim/v0.9/8",
+"tisch": false
+}
+],
+"anschluss_von": "473-achkarren",
+"anschluss": [
+"Burkheim hat rund 250 Einwohner mehr als Achkarren.",
+"Achkarren liegt Luftlinie drei Kilometer näher an Freiburg als Burkheim."
+],
+"anschluesse": {
+"473-achkarren": [
+"Burkheim hat rund 250 Einwohner mehr als Achkarren.",
+"Achkarren liegt Luftlinie drei Kilometer näher an Freiburg als Burkheim."
+]
+},
+"ags": "08315133",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Weinort am Westrand des Kaiserstuhls und am Rhein, 22 km nordwestlich von Freiburg; gut 1.000 Einwohner auf 5,73 km²."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Bis 1975 eigene Stadt, seither Stadtteil von Vogtsburg; weithin sichtbar steht Schloss Burkheim, das Wahrzeichen."
+},
+{
+"facette": "ALLTAG",
+"text": "Man lebt vom Weinbau, mit der Winzergenossenschaft Burkheim und 157 Hektar Reben; dazu die Löffel Mühle."
+},
+{
+"facette": "FREIZEIT",
+"text": "Nachtwächter, Burkheimer Weintage und Weihnachtsmarkt in der Altstadt; Rheinaueweg, Kaiserstuhl-Radwanderweg, Jakobusweg und ein Nauticclub."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof Burkheim-Bischoffingen; Partnergemeinde ist Sigolsheim im Elsass; die Schule schloss 2012."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 wählte Vogtsburg mit 87,1 Prozent, das Land nur mit 83,4 Prozent."
+}
+],
+"km_vom_vorigen": 4.3
+},
+{
+"slug": "475-bischoffingen",
+"name": "Bischoffingen",
+"lat": 48.1044,
+"lon": 7.62694,
+"karten": [
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Tennisanlage im 700-Einwohner-Ort",
+"rang": 9,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Bischoffingen",
+"steckbrief": "Rund 700 Einwohner, Stadtteil von Vogtsburg im Kaiserstuhl, 21 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge gibt es in Bischoffingen?",
+"optionen": [
+"Tennisplätze",
+"ein Freibad",
+"ein Heimatmuseum",
+"eine Burgruine"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Freibad oder ein Heimatmuseum liegt für ein Dorf näher, Tennis wirkt eher städtisch. Doch in Bischoffingen betreibt der Tennis-Club Kaiserstuhl Tennisplätze, gleich daneben liegt ein Soccercourt, ein Kleinspielfeld für Fußball. Für einen Ort mit rund 700 Einwohnern ist das eine stattliche Sportecke. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.vogtsburg.de/de-de/tourismus/natur-urlaub-aktiv/freizeitangebote-erlebnisse/fuer-alle-sportbegeisterten; Einwohner: dewiki Infobox, Stand 2022-11-01",
+"faktencheck": "unsicher",
+"id": "475-bischoffingen/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Bischofsname aus einer Kaiserschenkung",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bischoffingen",
+"steckbrief": "Rund 700 Einwohner, Stadtteil von Vogtsburg im Kaiserstuhl, 21 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Woher hat Bischoffingen vermutlich den „Bischof“ in seinem Namen? 1. Er ist nach einem hier geborenen Bischof benannt. 2. Der Ort gehörte früh einem Bistum. 3. Ein Bischof suchte hier einst Zuflucht. 4. Ein Hügel ähnelt einer Bischofsmütze.",
+"optionen": [
+"Er ist nach einem hier geborenen Bischof benannt.",
+"Ein Kaiser schenkte den Ort vermutlich einem Bistum.",
+"Ein Bischof suchte hier einst Zuflucht.",
+"Ein Hügel ähnelt einer Bischofsmütze."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt, als stamme ein Bischof von hier. Bei der ersten Erwähnung 1010 als „Piscofigin“ hatte aber das Bistum Basel hier Besitz; vermutlich erinnert der Name daran. Wie die Siedlung vorher hieß, ist unbekannt. So trägt das Dorf mit rund 700 Einwohnern vermutlich bis heute den Bischof aus Basel im Namen. Richtig war 2.",
+"quelle": "LEO-BW, Ortslexikon Bischoffingen; Einwohner: dewiki Infobox, Stand 2022-11-01",
+"faktencheck": "korrigiert",
+"id": "475-bischoffingen/v0.9/2",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Winzergenossenschaft als Anlaufstelle des Orts",
+"rang": 7,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Bischoffingen",
+"steckbrief": "Rund 700 Einwohner, Stadtteil von Vogtsburg im Kaiserstuhl, 21 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Welchen dieser vier Betriebe gibt es in Bischoffingen?",
+"optionen": [
+"ein Sägewerk",
+"eine Ziegelei",
+"eine Winzergenossenschaft",
+"eine Käserei"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Sägewerk oder Ziegelei gab es in vielen Dörfern, doch die Lage am Kaiserstuhl weist auf Wein: Bischoffingen hat eine Winzergenossenschaft, in der sich Winzer zusammenschließen. Ihr großer Neubau steht am Südwestrand des Dorfs mit rund 700 Einwohnern, und dort holen Gäste auch den Schlüssel für den Tennisplatz ab. Richtig war 3.",
+"quelle": "LEO-BW, Ortslexikon Bischoffingen; Gemeinde-Webseite, www.vogtsburg.de/…/fuer-alle-sportbegeisterten; Einwohner: dewiki Infobox, Stand 2022-11-01",
+"faktencheck": "korrigiert",
+"id": "475-bischoffingen/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Bucht zwischen Vulkankuppen",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bischoffingen",
+"steckbrief": "Rund 700 Einwohner, Stadtteil von Vogtsburg im Kaiserstuhl, 21 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Wie liegt das Dorf Bischoffingen? 1. Auf einem langen Bergrücken. 2. Flach in einer Rheinschleife. 3. In einer engen Schlucht. 4. In einer Mulde im Kaiserstuhl-Bergland.",
+"optionen": [
+"Sie liegt auf einem langen Bergrücken.",
+"Sie liegt flach in einer Rheinschleife.",
+"Sie zieht sich durch eine enge Schlucht.",
+"Sie bildet eine Bucht zwischen Vulkankuppen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Ort am Kaiserstuhl denkt man an Höhenrücken und steile Rebhänge. Die Landeskunde beschreibt Bischoffingen aber als Winzerdorf in Muldenlage im westlichen Kaiserstuhlbergland. Das Dorf liegt also in einer Senke, um die die Hänge des Kaiserstuhls aufsteigen. Richtig war 4.",
+"quelle": "LEO-BW, Ortslexikon Bischoffingen",
+"faktencheck": "korrigiert",
+"id": "475-bischoffingen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Aussichtshöhe Mondhalde mit Weintafeln",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bischoffingen",
+"steckbrief": "Rund 700 Einwohner, Stadtteil von Vogtsburg im Kaiserstuhl, 21 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Am Aussichtspunkt Mondhalde im Kaiserstuhl stehen an einem Wanderweg viersprachige Tafeln. Worüber informieren sie?",
+"optionen": [
+"Sie erklären verschiedene Weinsorten.",
+"Sie erklären die Vulkangesteine des Kaiserstuhls.",
+"Sie erzählen eine Sage vom Mond.",
+"Sie zeigen seltene Orchideen am Hang."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Name Mondhalde lädt zu einer Sage ein, und am Kaiserstuhl denkt man schnell an Vulkangestein. Die Tafeln am zwei Kilometer langen Weg erklären aber verschiedene Weinsorten. Hinauf führt eine Serpentinenstraße für geübte Radler. Oben öffnet sich der Blick ins Rheintal und bis zur Burgundischen Pforte, der Senke zwischen Vogesen und Jura. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.vogtsburg.de/de-de/tourismus/natur-urlaub-aktiv/traumhafte-aussicht-en",
+"faktencheck": "korrigiert",
+"id": "475-bischoffingen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "evangelische Kirche im „Bischofsort“",
+"rang": 5,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bischoffingen",
+"steckbrief": "Rund 700 Einwohner, Stadtteil von Vogtsburg im Kaiserstuhl, 21 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche? 1. Die Dorfkirche St. Laurentius ist katholisch. 2. Im Chor der Kirche sind Wandmalereien aus dem 14. Jahrhundert erhalten. 3. Der Theologe Friedrich Wilhelm Hitzig wurde in Bischoffingen geboren.",
+"optionen": [
+"Die Dorfkirche St. Laurentius ist katholisch.",
+"Erivan Haub besaß in Bischoffingen ein Weingut.",
+"Pfarrer Friedrich Wilhelm Hitzig wurde in Bischoffingen geboren."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Bischof im Ortsnamen und der Heilige Laurentius klingen katholisch, doch die Kirche St. Laurentius ist evangelisch. Wahr sind die anderen: Im gotischen Chor sind Fresken aus dem 14. Jahrhundert erhalten, und der lutherische Theologe Friedrich Wilhelm Hitzig wurde 1767 hier geboren; später war er Dekan in Lörrach. Die Lüge war 1.",
+"quelle": "LEO-BW, Ortslexikon Bischoffingen; Deutsche Biographie, Hitzig, Friedrich Wilhelm",
+"faktencheck": "korrigiert",
+"id": "475-bischoffingen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "tiefe Lage am Kaiserstuhl",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bischoffingen",
+"steckbrief": "Rund 700 Einwohner, Stadtteil von Vogtsburg im Kaiserstuhl, 21 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Auf welcher Höhe über dem Meer liegt Bischoffingen?",
+"optionen": [
+"unter 150 m",
+"150 bis unter 200 m",
+"200 bis unter 250 m",
+"250 m und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer Kaiserstuhl hört, denkt an einen Berg und schätzt leicht zu hoch. Bischoffingen liegt aber auf rund 220 Metern über dem Meer; die Quellen nennen 222 und 223 Meter. Die Gipfel Käsleberg und Enselberg im Gemeindegebiet ragen nur wenig darüber auf. Richtig war 3.",
+"quelle": "Wikidata P2044; dewiki Infobox; OpenStreetMap",
+"faktencheck": "bestätigt",
+"id": "475-bischoffingen/v0.9/7",
+"tisch": false
+}
+],
+"anschluss_von": "474-burkheim",
+"anschluss": [
+"Bischoffingen hat rund 370 Einwohner weniger als Burkheim.",
+"Bischoffingen und Burkheim gehören beide zur Stadt Vogtsburg im Kaiserstuhl."
+],
+"anschluesse": {
+"474-burkheim": [
+"Bischoffingen hat rund 370 Einwohner weniger als Burkheim.",
+"Bischoffingen und Burkheim gehören beide zur Stadt Vogtsburg im Kaiserstuhl."
+]
+},
+"ags": "08315133",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 220 Meter hoch, 21 km nordwestlich von Freiburg, in einer Bucht zwischen Vulkankuppen; Gipfel Käsleberg und Enselberg, Aussicht Vogesenblick."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 1010 urkundlich erwähnt, Siedlungsspuren seit der Bandkeramik um 5000 vor Christus, seit 1975 Teil des heutigen Vogtsburg."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 700 Einwohner, eine Winzergenossenschaft und Weingüter wie Familienweingut Schmidt, Weingut Abril und Weingut Armin Göring."
+},
+{
+"facette": "FREIZEIT",
+"text": "Tennisplätze mit Soccercourt, Festhalle, Aussichtspunkt Mondhalde mit Weintafeln, evangelische Kirche St. Laurentius mit Fresken im Chor."
+},
+{
+"facette": "INFRA",
+"text": "AMEOS Klinikum Kaiserstuhl; Postleitzahl 79235, Vorwahl 07662, Autokennzeichen FR."
+},
+{
+"facette": "POLITIK",
+"text": "Gesamtstadt Vogtsburg, Bundestagswahl 2025: 87,1 Prozent Wahlbeteiligung, über dem Landesschnitt; CDU vorn mit 40,9 Prozent."
+}
+],
+"km_vom_vorigen": 2.2
+},
+{
+"slug": "476-bickensohl",
+"name": "Bickensohl",
+"lat": 48.0775,
+"lon": 7.64611,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Name aus Person und feuchtem Ort",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bickensohl",
+"steckbrief": "Weindorf mit knapp 400 Einwohnern, Stadtteil von Vogtsburg im Kaiserstuhl, 18 km nordwestlich von Freiburg.",
+"frage": "Wie wird der Ortsname Bickensohl gedeutet?",
+"optionen": [
+"Er geht auf das Hacken der Reben zurück.",
+"Er beschreibt eine Kuppe in Form einer Sohle.",
+"Er erinnert an einen Bach voller Kieselsteine.",
+"Er verbindet eine Person mit einem feuchten Ort."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei „Bicken“ denkt man ans Picken und Hacken, im Weindorf erst recht. Gedeutet wird der Name aber anders: Im ersten Teil steckt ein Personenname, „sol“ steht für eine feuchte Stelle. Erstmals erwähnt wird der Ort 1048 als „Piccensole“, damals im Besitz der Basler Kirche. Richtig war 4.",
+"quelle": "LEO-BW, www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/9535",
+"faktencheck": "korrigiert",
+"id": "476-bickensohl/v0.9/1",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Waldberg Totenkopf über dem Weindorf",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bickensohl",
+"steckbrief": "Weindorf mit knapp 400 Einwohnern, Stadtteil von Vogtsburg im Kaiserstuhl, 18 km nordwestlich von Freiburg.",
+"frage": "Bickensohl liegt am Fuß des Totenkopfs, der höchsten Erhebung des Kaiserstuhls. Was unterscheidet diesen Berg von den meisten Flächen des Kaiserstuhls?",
+"optionen": [
+"Er ist überwiegend mit Reben bepflanzt.",
+"Er ist weitgehend von geschlossenem Mischwald bedeckt.",
+"Er ist überwiegend von Trockenrasen bedeckt.",
+"Er ist überwiegend von Obstwiesen bedeckt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Reben liegen nahe, denn der Kaiserstuhl gilt als Weinland und Bickensohl ist ein Weindorf. Doch gerade das wäre kein Unterschied. Der Totenkopf ist weitgehend von geschlossenem Mischwald bedeckt, anders als die meisten Flächen des Kaiserstuhls. Wer durch Bickensohl fährt, sieht über den Rebhängen den bewaldeten Gipfel. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.vogtsburg.de/de-de/tourismus/natur-urlaub-aktiv/traumhafte-aussicht-en",
+"faktencheck": "korrigiert",
+"id": "476-bickensohl/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Seitental im Süden Vogtsburgs",
+"rang": 7,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bickensohl",
+"steckbrief": "Dorf mit knapp 400 Einwohnern, Stadtteil von Vogtsburg im Kaiserstuhl, 18 km nordwestlich von Freiburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Bickensohl liegt in einem Seitental namens Eschbach.",
+"Bickensohl liegt im Norden der Gesamtgemeinde Vogtsburg.",
+"Oberbergen liegt ein kurzes Stück nördlich von Bickensohl."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Aussage 3 klingt nach Zufallswissen, stimmt aber und hilft: Wer einen Nachbarort im Norden hat, liegt selten ganz im Norden. Bickensohl liegt im Südwesten der Gesamtgemeinde Vogtsburg, nicht im Norden. Das Dorf mit knapp 400 Einwohnern liegt im Tal des Eschbachs, mitten im Kaiserstuhl. Die Lüge war 2.",
+"quelle": "LEO-BW, www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/9531",
+"faktencheck": "korrigiert",
+"id": "476-bickensohl/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Weindorf unterhalb der Kaiserstuhlkuppen",
+"rang": 4,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bickensohl",
+"steckbrief": "Weindorf mit knapp 400 Einwohnern, Stadtteil von Vogtsburg im Kaiserstuhl, 18 km nordwestlich von Freiburg.",
+"frage": "Der Kaiserstuhl ragt aus der Rheinebene auf. Auf welcher Höhe liegt Bickensohl?",
+"optionen": [
+"unter 200 m",
+"200 bis unter 300 m",
+"300 bis unter 400 m",
+"400 m und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Kaiserstuhl klingt nach Gebirge, deshalb liegt eine höhere Spanne nahe. Bickensohl liegt aber auf 262 Metern über dem Meer. Gemessen wird im Dorf selbst; die Kuppen des Kaiserstuhls ringsum liegen höher, das Dorf sitzt darunter. Richtig war 2.",
+"quelle": "Wikidata P2044; dewiki Infobox; GeoNames 2949288",
+"faktencheck": "bestätigt",
+"id": "476-bickensohl/v0.9/7",
+"tisch": false
+}
+],
+"anschluss_von": "475-bischoffingen",
+"anschluss": [
+"Bickensohl liegt rund 40 Meter höher als Bischoffingen.",
+"Bischoffingen hat fast doppelt so viele Einwohner wie Bickensohl."
+],
+"anschluesse": {
+"475-bischoffingen": [
+"Bickensohl liegt rund 40 Meter höher als Bischoffingen.",
+"Bischoffingen hat fast doppelt so viele Einwohner wie Bickensohl."
+]
+},
+"ags": "08315133",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Bickensohl liegt auf 262 Metern im Süden Vogtsburgs, im Seitental Eschbach am Fuß des Totenkopfs; Gipfel Halbuck 371 Meter."
+},
+{
+"facette": "GESCHICHTE",
+"text": "1048 erstmals erwähnt, 1461 an Baden, 1975 eingemeindet; 1943 entstand hier Deutschlands erste tönende Dorfchronik."
+},
+{
+"facette": "ALLTAG",
+"text": "Knapp 400 Einwohner auf gut drei Quadratkilometern, Winzergenossenschaft und Wein & Service Treffeisen, ringsum Weinberge."
+},
+{
+"facette": "FREIZEIT",
+"text": "Lösshohlwegepfad rund ums Dorf, Bienenfresserpfad, Weintorkel 1788 und Aussichtspunkte wie der Vogesenblick."
+},
+{
+"facette": "INFRA",
+"text": "Postleitzahl 79235, Vorwahl 07662, Kindergarten der evangelischen Gemeinde; auf dem Totenkopf steht der Fernsehturm Vogtsburg."
+},
+{
+"facette": "POLITIK",
+"text": "Gesamtstadt Vogtsburg bei der Bundestagswahl 2025: CDU klar vorn, Wahlbeteiligung 87,1 Prozent, über dem Landeswert von 83,4."
+}
+],
+"km_vom_vorigen": 3.3
+},
+{
+"slug": "477-oberbergen",
+"name": "Oberbergen",
+"lat": 48.0956,
+"lon": 7.65722,
+"karten": [
+{
+"facette": "ALLTAG",
+"charakteristikum": "Winzergenossenschaft mit 460 Mitgliedern",
+"rang": 8,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Oberbergen",
+"steckbrief": "Stadtteil von Vogtsburg im Kaiserstuhl, gut 1.000 Einwohner, 18 km nordwestlich von Freiburg.",
+"frage": "Welches dieser vier Dinge gibt es in Oberbergen?",
+"optionen": [
+"einen Hafen am Rhein",
+"eine Kurklinik",
+"eine Winzergenossenschaft",
+"einen Bahnhof"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Hafen läge nahe, denn der Kaiserstuhl liegt am Rhein. Oberbergen liegt aber im Krottenbachtal, weg vom Fluss. Dafür gibt es die Winzergenossenschaft Oberbergen. Sie wurde 1924 gegründet und keltert bis heute die Trauben des Weinorts. Richtig war 3.",
+"quelle": "Stadt Vogtsburg, Nachrichtenblatt; LEO-BW",
+"faktencheck": "korrigiert",
+"id": "477-oberbergen/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Theologe Eugen Biser stammt von hier",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberbergen",
+"steckbrief": "Stadtteil von Vogtsburg im Kaiserstuhl mit gut 1.000 Einwohnern, 18 km nordwestlich von Freiburg.",
+"frage": "Oberbergen ehrt einen Mann, der hier geboren wurde, mit einem eigenen Haus. Wodurch wurde er bekannt?",
+"optionen": [
+"Er züchtete eine neue Rebsorte.",
+"Er erfand eine neue Weinpresse.",
+"Er fuhr Motorradrennen um Weltmeistertitel.",
+"Er wurde Theologe und Religionsphilosoph."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Im Weinort läge ein Winzer oder Rebenzüchter nahe. Doch Eugen Biser, in Oberbergen geboren, wurde Theologe und Religionsphilosoph und lehrte als Professor in München auf dem Guardini-Lehrstuhl. Für ein Dorf mit gut 1.000 Einwohnern ist das ein großer Name. Im Ort erinnert das Eugen-Biser-Haus an ihn, ein Raum der Erinnerung und Ort der Begegnung, und an seinem Geburtshaus wurde eine Gedenktafel angebracht. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.vogtsburg.de/de-de/tourismus/kunst-kultur/altstadt-historisches",
+"faktencheck": "korrigiert",
+"id": "477-oberbergen/v0.9/2",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "155-Meter-Fernsehturm über dem Dorf",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberbergen",
+"steckbrief": "Stadtteil von Vogtsburg im Kaiserstuhl, gut 1.000 Einwohner, 18 km nordwestlich von Freiburg.",
+"frage": "Leicht unterhalb des Totenkopf-Gipfels steht ein weithin sichtbarer, 155 Meter hoher Turm aus Stahlbeton. Was ist er?",
+"optionen": [
+"Ein Wasserturm für die Weinberge",
+"Ein Fernsehturm",
+"Eine Windkraftanlage",
+"Der Glockenturm einer Bergkapelle"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Windkraftanlage läge nahe, denn solche Anlagen sind ähnlich hoch und stehen gern auf Kuppen. Es ist aber der Fernsehturm Vogtsburg, ein Bau aus Stahlbeton leicht unterhalb des Totenkopf-Gipfels. Für einen Ort mit gut 1.000 Einwohnern ist das ein ungewöhnlicher Nachbar, den man weithin sieht. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.vogtsburg.de/de-de/tourismus/natur-urlaub-aktiv/traumhafte-aussicht-en",
+"faktencheck": "korrigiert",
+"id": "477-oberbergen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Gestein, das nach dem Dorf heißt",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberbergen",
+"steckbrief": "Stadtteil von Vogtsburg im Kaiserstuhl, gut 1.000 Einwohner, 18 km nordwestlich von Freiburg.",
+"frage": "In der Gegend von Oberbergen entdeckte man ein Gestein namens Bergalith. Woher hat es seinen Namen?",
+"optionen": [
+"Von dem Forscher, der es beschrieb.",
+"Vom Bergbau, in dem man es förderte.",
+"Vom Ort, in dessen Gegend man es fand.",
+"Von seiner Farbe, die an Bergkristall erinnert."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wegen der Silbe „Berg“ liegt der Bergbau nahe. Tatsächlich ist der Bergalith nach Oberbergen benannt, in dessen Gegend er entdeckt wurde. Er ist ein Ganggestein, also in Spalten anderer Gesteine erstarrt. Das passt zum vulkanischen Ursprung der Gegend, über dem heute Löss liegt; mit diesem Gestein trägt das kleine Dorf seinen Namen in die Geologie. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Oberbergen_(Vogtsburg_im_Kaiserstuhl)",
+"faktencheck": "unsicher",
+"id": "477-oberbergen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "DFB-Präsident war Adlerwirt im Dorf",
+"rang": 1,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Oberbergen",
+"steckbrief": "Stadtteil von Vogtsburg im Kaiserstuhl mit gut 1.000 Einwohnern, 18 km nordwestlich von Freiburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein Oberbergener Wirt war Präsident des DFB.",
+"In der Kirche St. Mauritius stecken noch Teile eines mittelalterlichen Vorgängerbaus.",
+"Altvogtsburg bei Oberbergen ist eine unbewohnte Burgruine."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name Altvogtsburg klingt nach einer verlassenen Burg. Altvogtsburg ist aber eine kleine bewohnte Siedlung mit eigener Kirche und gehört seit 1476 zu Oberbergen. Wahr sind: Fritz Keller, Wirt des Schwarzen Adlers in Oberbergen, war Präsident des DFB. Und St. Mauritius wurde 1812 neu gebaut, doch Turm und alter Chor stammen noch aus dem Mittelalter. Die Lüge war 3.",
+"quelle": "LEO-BW; Abendzeitung München",
+"faktencheck": "korrigiert",
+"id": "477-oberbergen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "dünn besiedelte, weite Gemarkung",
+"rang": 7,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Oberbergen",
+"steckbrief": "Stadtteil von Vogtsburg im Kaiserstuhl mit gut 1.000 Einwohnern, 18 km nordwestlich von Freiburg.",
+"frage": "Wie viele Einwohner kommen in Oberbergen auf einen Quadratkilometer Gemarkung?",
+"optionen": [
+"unter 200",
+"200 bis unter 400",
+"400 bis unter 800",
+"800 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Nahe Freiburg schätzt man leicht dichter. Oberbergen hat aber 1.050 Einwohner auf 7,37 Quadratkilometern, rund 142 je Quadratkilometer. Richtig war 1.",
+"quelle": "dewiki Infobox (Einwohner, Stand 2022-11-01); Wikidata P2046 (Fläche); Dichte berechnet; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "477-oberbergen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Weinlage „Baßgeige“",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberbergen",
+"steckbrief": "Stadtteil von Vogtsburg im Kaiserstuhl, gut 1.000 Einwohner, 18 km nordwestlich von Freiburg.",
+"frage": "Oberbergens Hauptweinlage heißt Baßgeige. Woher hat sie vermutlich ihren Namen?",
+"optionen": [
+"Von Spielleuten, die dort bei der Lese musizierten.",
+"Von der Form der Weinberge von oben.",
+"Vom Brummen der Bienen zwischen den Reben.",
+"Von einem Geigenbauer, der dort Reben besaß."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Instrument denkt man an Musik und Spielleute bei der Lese. Vermutlich kommt der Name aber von der Form der Weinberge: Aus der Vogelperspektive sollen sie einer Bassgeige gleichen. Die Baßgeige ist das Hauptanbaugebiet Oberbergens; wer am Ort vorbeifährt, sieht die Hänge, die von oben ein Instrument zeigen sollen. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Oberbergen_(Vogtsburg_im_Kaiserstuhl)",
+"faktencheck": "unsicher",
+"id": "477-oberbergen/v0.9/8",
+"tisch": false
+}
+],
+"anschluss_von": "476-bickensohl",
+"anschluss": [
+"Oberbergen hat gut zweieinhalbmal so viele Einwohner wie Bickensohl.",
+"Oberbergen hat mehr als doppelt so viel Fläche wie Bickensohl."
+],
+"anschluesse": {
+"476-bickensohl": [
+"Oberbergen hat gut zweieinhalbmal so viele Einwohner wie Bickensohl.",
+"Oberbergen hat mehr als doppelt so viel Fläche wie Bickensohl."
+]
+},
+"ags": "08315133",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Stadtteil von Vogtsburg im Kaiserstuhl, 18 km nordwestlich von Freiburg, rund 250 Meter hoch, 7,37 Quadratkilometer, gut 1.000 Einwohner."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Gehört zur Stadt Vogtsburg; zum Ortsteil zählt der kleine Weiler Altvogtsburg. Pfarrkirche ist St. Mauritius."
+},
+{
+"facette": "ALLTAG",
+"text": "Weinort mit Winzergenossenschaft, den Weingütern Franz Keller, Baumgartner, Vogel und Hermann, Winzerhof Essig und dem Schwarzen Adler."
+},
+{
+"facette": "FREIZEIT",
+"text": "Aussicht am Totenkopf und Haselschacher Buck, Badlochquelle mit Grillstelle, Wassertreten, Schutzgebiete Badberg und Oberbergener Scheibenbuck."
+},
+{
+"facette": "INFRA",
+"text": "Fernsehturm Vogtsburg unterhalb des Totenkopfs; Postleitzahl 79235, Vorwahl 07662, Autokennzeichen FR."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025 in ganz Vogtsburg: CDU 40,9 Prozent, Wahlbeteiligung 87,1 Prozent, im Land 83,4."
+}
+],
+"km_vom_vorigen": 2.2
+},
+{
+"slug": "478-schelingen",
+"name": "Schelingen",
+"lat": 48.1042,
+"lon": 7.68306,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Ein Hengst im Ortsnamen",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schelingen",
+"steckbrief": "Schelingen ist ein Stadtteil von Vogtsburg im Kaiserstuhl mit gut 350 Einwohnern und liegt 17 km nordwestlich von Freiburg.",
+"frage": "Worauf führt die Ortsgeschichte den Namen Schelingen zurück?",
+"optionen": [
+"Er kommt von den Schellen der Weidetiere.",
+"Er kommt von einem Gründer namens Schelo.",
+"Er kommt von einem alten Wort für Hengst.",
+"Er kommt vom Schilf am einstigen Dorfbach."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Gründer namens Schelo liegt nahe, denn viele Orte auf -ingen tragen den Namen einer Person. Die Ortsgeschichte führt Schelingen aber auf die alte Form Scaleia zurück, zu „Schel“, einem alten Wort für Hengst. Wer heute vorbeifährt, sieht ein Winzerdorf mitten im Kaiserstuhl, im Namen aber steckt ein Pferd. Richtig war 3.",
+"quelle": "LEO-BW, Ortslexikon „Schelingen – Altgemeinde~Teilort“",
+"faktencheck": "korrigiert",
+"id": "478-schelingen/v0.9/2",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Eigener Landgasthof im kleinen Dorf",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schelingen",
+"steckbrief": "Schelingen ist ein Stadtteil von Vogtsburg im Kaiserstuhl mit gut 350 Einwohnern und liegt 17 km nordwestlich von Freiburg.",
+"frage": "In Schelingen steht an der Heinrich-Kling-Straße die „Krone“. Was ist sie?",
+"optionen": [
+"Sie ist die Straußwirtschaft eines Winzers.",
+"Sie ist der Keller der Winzergenossenschaft.",
+"Sie ist der Dorfladen mit Backstube.",
+"Sie ist ein Landgasthof."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Straußwirtschaft liegt nahe, denn am Kaiserstuhl schenken viele Winzer zeitweise selbst aus. Die „Krone“ aber ist ein Landgasthof, so nennt sie die Gemeinde Vogtsburg bei ihren Tourenvorschlägen. „Krone“ ist zudem ein klassischer Name für Gasthäuser. Für ein Dorf mit gut 350 Einwohnern ist ein eigener Landgasthof keine Selbstverständlichkeit. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.vogtsburg.de/de-de/tourismus/natur-urlaub-aktiv/freizeitangebote-erlebnisse/erlebnisreiche-touren",
+"faktencheck": "bestätigt",
+"id": "478-schelingen/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Magerrasen-Kuppe statt Reben",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schelingen",
+"steckbrief": "Schelingen ist ein Stadtteil von Vogtsburg im Kaiserstuhl mit gut 350 Einwohnern und liegt 17 km nordwestlich von Freiburg.",
+"frage": "Südlich von Schelingen erhebt sich der Badberg, eine runde Kuppe. Womit ist er vor allem bedeckt?",
+"optionen": [
+"Er ist vor allem mit Magerrasen bedeckt.",
+"Er ist bis oben mit Reben bepflanzt.",
+"Er trägt einen dichten Eichenwald.",
+"Er trägt einen dunklen Fichtenforst."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Reben liegen nahe, denn der Kaiserstuhl ist als Weinbaugebiet bekannt. Der Badberg aber ist vor allem mit Magerrasen bedeckt, also mit kargem, nährstoffarmem Grasland, das aus alten Wiesen entstanden ist. Er ist Naturschutzgebiet mit seltenen Pflanzen und Tieren. Wer vorbeifährt, sieht südlich des Dorfs eine offene, runde Kuppe ohne Reben. Richtig war 1.",
+"quelle": "Universität Freiburg, Trockenrasen im Kaiserstuhl",
+"faktencheck": "korrigiert",
+"id": "478-schelingen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Größte Rinderweide im Kaiserstuhl",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schelingen",
+"steckbrief": "Schelingen ist ein Stadtteil von Vogtsburg im Kaiserstuhl mit gut 350 Einwohnern und liegt 17 km nordwestlich von Freiburg.",
+"frage": "Zwischen Oberbergen und Schelingen liegt die Schelinger Viehweide, nach Angaben der Gemeinde die größte Rinderweide im Kaiserstuhl. Wie groß ist sie?",
+"optionen": [
+"Sie umfasst etwa 2 Hektar.",
+"Sie umfasst etwa 20 Hektar.",
+"Sie umfasst etwa 200 Hektar.",
+"Sie umfasst etwa 2000 Hektar."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. 200 Hektar liegen nahe, denn die größte Rinderweide einer Landschaft denkt man sich riesig. Die Schelinger Viehweide umfasst aber etwa 20 Hektar. Seit 1985 bewirtschaftet sie ein Familienbetrieb im Einklang mit der alten Kulturlandschaft. Ein steiler, markierter und eingezäunter Wanderweg führt mitten hindurch. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.vogtsburg.de/de-de/tourismus/natur-urlaub-aktiv/traumhafte-aussicht-en",
+"faktencheck": "korrigiert",
+"id": "478-schelingen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Kleiner, dünn besiedelter Stadtteil",
+"rang": 6,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Schelingen",
+"steckbrief": "Schelingen ist ein Stadtteil von Vogtsburg im Kaiserstuhl, 17 km nordwestlich von Freiburg, mit gut 4 km² Gemarkung.",
+"frage": "Wie viele Einwohner hat Schelingen?",
+"optionen": [
+"unter 100",
+"100 bis unter 200",
+"200 bis unter 300",
+"300 oder mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Weniger liegt nahe, denn Schelingen ist nur ein Stadtteil von Vogtsburg. Tatsächlich hatte Schelingen im November 2022 357 Einwohner. Auf gut 4 km² kommen damit rund 87 Menschen auf den Quadratkilometer; das ist dünn besiedelt, wie es zu einem Dorf am Kaiserstuhl passt. Richtig war 4.",
+"quelle": "Wikipedia (dewiki Infobox), Stand 2022-11-01; Fläche: Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "478-schelingen/v0.9/7",
+"tisch": false
+}
+],
+"anschluss_von": "477-oberbergen",
+"anschluss": [
+"Oberbergen hat fast dreimal so viele Einwohner wie Schelingen.",
+"Schelingen liegt rund 60 Meter höher als Oberbergen."
+],
+"anschluesse": {
+"477-oberbergen": [
+"Oberbergen hat fast dreimal so viele Einwohner wie Schelingen.",
+"Schelingen liegt rund 60 Meter höher als Oberbergen."
+]
+},
+"ags": "08315133",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Schelingen liegt im Zentrum des Kaiserstuhls, 17 km nordwestlich von Freiburg, auf rund 310 m; dazu Badberg und Ohrberg."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals erwähnt 990 als Königsgut, 1975 nach Oberrotweil eingemeindet, heute Stadtteil von Vogtsburg."
+},
+{
+"facette": "ALLTAG",
+"text": "Winzerdorf mit gut 350 Einwohnern, etwa 61 Hektar Reben, dem Weingut Schätzle und dem Landgasthof Krone."
+},
+{
+"facette": "FREIZEIT",
+"text": "Schutzgebiete Haselschacher Buck, Dachslöcher Buck, Scheibenbuck-Bluttenbuck und Schelinger Weide-Barzental, dazu die Schelinger Viehweide als Wanderziel."
+},
+{
+"facette": "INFRA",
+"text": "Postleitzahl 79235, Vorwahl 07662, Autokennzeichen FR wie in ganz Vogtsburg."
+},
+{
+"facette": "POLITIK",
+"text": "Vogtsburg wählte 2025 mehrheitlich CDU, mit 87,1 Prozent Wahlbeteiligung deutlich über dem Landeswert."
+}
+],
+"km_vom_vorigen": 2.1
+},
+{
+"slug": "469-sasbach",
+"name": "Sasbach",
+"lat": 48.13944,
+"lon": 7.61722,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Königsgeburtsort Limburg über dem Rhein",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sasbach",
+"steckbrief": "Gemeinde mit rund 3.500 Einwohnern, 24 km nordwestlich von Freiburg.",
+"frage": "Bei Sasbach liegt die Burgruine Limburg. Was verbindet den späteren König Rudolf von Habsburg mit ihr?",
+"optionen": [
+"Er soll auf der Limburg geboren sein.",
+"Er ließ die Limburg als Burg erbauen.",
+"Er wurde auf der Limburg begraben.",
+"Er wurde auf der Limburg zum König gewählt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem König auf einer Burg liegt der Gedanke an einen Bauherrn nahe. Doch die Limburg geht auf ein römisches Kastell zurück, im Mittelalter bauten die Zähringer. Rudolf von Habsburg soll dort dagegen zur Welt gekommen sein. Heute ist die Ruine ein beliebter Aussichtspunkt mit Blick über den Rhein bis zu den Vogesen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-sasbach.de/gemeinde-im-blick/geschichte-zahlen/histoire",
+"faktencheck": "unsicher",
+"id": "469-sasbach/v0.9/1",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Winzerfest nur alle zwei Jahre",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sasbach",
+"steckbrief": "Gemeinde mit rund 3.500 Einwohnern, 24 km nordwestlich von Freiburg.",
+"frage": "Mitte August feiert Sasbach sein Winzerfest mit Fassanstich und Traktorfahrten durch die Reben. Wie oft findet es statt?",
+"optionen": [
+"Es wird jedes Jahr gefeiert.",
+"Es wird alle zwei Jahre gefeiert.",
+"Es wird alle drei Jahre gefeiert.",
+"Es wird nur alle zehn Jahre gefeiert."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die meisten Weinfeste kehren jedes Jahr wieder, deshalb liegt das nahe. Sasbach feiert sein Winzerfest aber nur alle zwei Jahre, mit Live-Musik, Kinderprogramm und offenen Winzerhöfen. Für das Weindorf ist es der Höhepunkt im Kalender, es zieht zahlreiche Touristen an. Wer im August eines Festjahrs vorbeifährt, sieht Traktoren mit Gästen in den Reben. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-sasbach.de/freizeit-erleben/events-feste/events-feste",
+"faktencheck": "bestätigt",
+"id": "469-sasbach/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Weinort am Fuß eines erloschenen Vulkans",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sasbach",
+"steckbrief": "Gemeinde mit rund 3.500 Einwohnern, 24 km nordwestlich von Freiburg.",
+"frage": "Sasbach liegt am Fuß des Kaiserstuhls. Was ist der Kaiserstuhl seinem Ursprung nach?",
+"optionen": [
+"Er ist ein abgetrennter Ausläufer der Vogesen.",
+"Er ist der Rest eines Meteoritenkraters.",
+"Er ist ein erloschener Vulkan.",
+"Er ist ein vom Rhein aufgeschütteter Schotterberg."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Mitten in der flachen Rheinebene wirkt der Kaiserstuhl wie ein abgetrenntes Stück Gebirge, das liegt nahe. Doch er ist ein erloschener Vulkan. Seine vulkanischen Böden sind besonders fruchtbar und eine ideale Grundlage für den Weinbau, für den Sasbach bekannt ist. Dazu gilt er als Hotspot für seltene wärmeliebende Arten, und seltene Vögel wie Bienenfresser und Wiedehopf leben hier. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-sasbach.de/gemeinde-im-blick/geschichte-zahlen/zahlen-daten-fakten",
+"faktencheck": "korrigiert",
+"id": "469-sasbach/v0.9/3",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Vom Fischerdorf zum Weinort",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sasbach",
+"steckbrief": "Gemeinde mit rund 3.500 Einwohnern, 24 km nordwestlich von Freiburg.",
+"frage": "Heute ist Sasbach ein Weinort. Wovon lebte das Dorf vor allem, bevor der Rhein im 19. Jahrhundert begradigt wurde?",
+"optionen": [
+"Das Dorf lebte vor allem vom Salzhandel.",
+"Das Dorf lebte vor allem von der Flößerei.",
+"Das Dorf lebte vor allem vom Bergbau.",
+"Das Dorf lebte vor allem vom Fischfang."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Am Rhein liegt die Flößerei nahe, auf dem Strom trieb einst viel Holz. Sasbach aber war ein Fischerdorf. Erst als Johann Gottfried Tulla den Rhein begradigte, wurden die Auen trockengelegt, die Fischerei ging stark zurück, und aus dem Fischerdorf wurde ein Weinort. An die alte Zeit erinnern heute noch die Anglerfreunde Sasbach. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-sasbach.de/gemeinde-im-blick/geschichte-zahlen/historie",
+"faktencheck": "bestätigt",
+"id": "469-sasbach/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Rheinbrücke ins Elsass",
+"rang": 3,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Sasbach",
+"steckbrief": "Gemeinde mit rund 3.500 Einwohnern, 24 km nordwestlich von Freiburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Auch der Ortsteil Jechtingen hat einen Bahnhalt.",
+"Ins elsässische Marckolsheim gelangt man nur per Fähre.",
+"Das Gemeindegebiet grenzt unmittelbar an das Elsass."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Fähre klingt glaubwürdig, denn am Oberrhein setzen an manchen Stellen noch Fähren über. Zwischen Sasbach und Marckolsheim führt aber eine Rheinbrücke, ein Grenzübergang nach Frankreich. Der Rheinübergang gilt hier als historisch bedeutender Übergangspunkt, und Marckolsheim ist Sasbachs Partnergemeinde. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-sasbach.de/gemeinde-im-blick/geschichte-zahlen/zahlen-daten-fakten",
+"faktencheck": "korrigiert",
+"id": "469-sasbach/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "drei Dörfer auf großer Gemarkung",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Sasbach",
+"steckbrief": "Gemeinde mit rund 3.500 Einwohnern, 24 km nordwestlich von Freiburg.",
+"frage": "Zur Gemeinde Sasbach gehören auch Jechtingen und Leiselheim. Wie groß ist die Gemeindefläche?",
+"optionen": [
+"unter 8 km²",
+"8 bis unter 14 km²",
+"14 bis unter 25 km²",
+"25 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Dorf liegt eine kleine Fläche nahe, doch Sasbach vereint drei einst selbstständige Dörfer. Zusammen umfassen sie knapp 21 Quadratkilometer mit Reben, Rheinauen und Kaiserstuhlhügeln. Mit 168 Einwohnern je Quadratkilometer bleibt viel Raum für Weinberge und Wald. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "469-sasbach/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Badesee im Rheinauenwald",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sasbach",
+"steckbrief": "Gemeinde mit rund 3.500 Einwohnern, 24 km nordwestlich von Freiburg.",
+"frage": "Sasbach hat einen eigenen Badesee mit großen Liegewiesen. Wo liegt er?",
+"optionen": [
+"Er liegt zwischen den Reben am Kaiserstuhl.",
+"Er liegt im Rheinauenwald nahe den Sportanlagen.",
+"Er liegt in einem alten Vulkankrater.",
+"Er liegt auf der französischen Rheinseite."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Weinort lässt an einen See zwischen den Reben denken. Der Sasbacher Badesee liegt aber im Rheinauenwald, zu Fuß oder mit dem Rad erreichbar, mit Flachwasserzone für Kinder. Beim Baden zeigt sich die zweite Seite des Orts: Sasbach ist nicht nur Kaiserstuhl, sondern auch Rheinaue. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-sasbach.de/freizeit-erleben/freizeit-natur-erleben/bademoeglichkeiten",
+"faktencheck": "bestätigt",
+"id": "469-sasbach/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Namenszusatz gegen Verwechslung",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sasbach",
+"steckbrief": "Gemeinde mit rund 3.500 Einwohnern, 24 km nordwestlich von Freiburg.",
+"frage": "Seit 1997 heißt die Gemeinde Sasbach am Kaiserstuhl. Welchen Grund nennt die Ortsgeschichte für den Zusatz?",
+"optionen": [
+"Er erinnert an die Zusammenlegung mit zwei Nachbardörfern.",
+"Er folgte auf einen Wechsel des Landkreises.",
+"Er gehörte zur Anerkennung als Erholungsort.",
+"Er unterscheidet den Ort von gleichnamigen Gemeinden."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Zusammenlegung mit Jechtingen und Leiselheim liegt nahe, denn neue Namen folgen oft einer Gemeindereform. Der Zusatz sollte Sasbach aber eindeutig von anderen Orten gleichen Namens unterscheiden. Mit dem Namensvetter Sasbach in der Ortenau pflegt die Gemeinde eine Freundschaft. Der Kaiserstuhl im Namen sagt zugleich, wo man ist. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-sasbach.de/gemeinde-im-blick/geschichte-zahlen/historie",
+"faktencheck": "bestätigt",
+"id": "469-sasbach/v0.9/9",
+"tisch": false
+}
+],
+"anschluss_von": "478-schelingen",
+"anschluss": [
+"Sasbach hat fast zehnmal so viele Einwohner wie Schelingen.",
+"Schelingen liegt rund 130 Meter höher als Sasbach."
+],
+"anschluesse": {
+"478-schelingen": [
+"Sasbach hat fast zehnmal so viele Einwohner wie Schelingen.",
+"Schelingen liegt rund 130 Meter höher als Sasbach."
+]
+},
+"ags": "08316038",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 3.500 Einwohner direkt am Rhein an der Grenze zum Elsass, auf etwa 180 Metern, mit Limberg und Eichert."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 839 erwähnt; bei Jechtingen liegen Reste eines spätrömischen Kastells und die Burg Sponeck."
+},
+{
+"facette": "ALLTAG",
+"text": "Weinbau ist der Haupterwerb, vor allem Burgundersorten; dazu der Sasbacher Winzerkeller und Weingüter wie Birmelin oder Rabenhof."
+},
+{
+"facette": "FREIZEIT",
+"text": "Heimatmuseum im Fachwerkhaus, Waldfest des Musikvereins, Zwiebelkuchenfest in Leiselheim, Rheinaueweg und Oberrhein-Römerradweg."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof an der Kaiserstuhlbahn und Haltepunkt Jechtingen; Kennzeichen EM, Postleitzahl 79361."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU vorn mit 34 Prozent, Wahlbeteiligung 87,2 Prozent, deutlich über dem Landeswert."
+}
+],
+"km_vom_vorigen": 6.3
+},
+{
+"slug": "479-leiselheim",
+"name": "Leiselheim",
+"lat": 48.12532,
+"lon": 7.63466,
+"karten": [
+{
+"facette": "ALLTAG",
+"charakteristikum": "Weindorf, auf drei Seiten Reben",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leiselheim",
+"steckbrief": "Ortsteil von Sasbach am Kaiserstuhl, rund 450 Einwohner, 22 km nordwestlich von Freiburg.",
+"frage": "Wofür ist das Dorf Leiselheim bekannt?",
+"optionen": [
+"Für seine Uhrmacherwerkstätten.",
+"Für sein Thermalbad.",
+"Für seine Glasbläsereien.",
+"Für seinen Weinbau."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Uhren, Bäder und Glas kennt man aus dem nahen Schwarzwald, darum liegen sie nahe. Leiselheim aber ist ein Weindorf: Die Rebhänge reichen bis ans Dorf, und Weine aus der Lage „Leiselheimer Gestühl“ kommen bis in Weinführer. Richtig war 4.",
+"quelle": "Falstaff, falstaff.com",
+"faktencheck": "korrigiert",
+"id": "479-leiselheim/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Weinlage, vermutlich Namensgeber des Kaiserstuhls",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leiselheim",
+"steckbrief": "Ortsteil von Sasbach am Kaiserstuhl, rund 450 Einwohner, 22 km nordwestlich von Freiburg.",
+"frage": "Die Leiselheimer Weinlage „Gestühl“ gab dem Kaiserstuhl vermutlich seinen Namen. Was soll dort geschehen sein?",
+"optionen": [
+"Ein König soll dort einen Gerichtstag abgehalten haben.",
+"Ein Kaiser soll dort begraben worden sein.",
+"Ein König soll dort einen Friedensvertrag geschlossen haben.",
+"Ein Kaiser soll von dort einer Schlacht zugesehen haben."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Begräbnis, ein Frieden oder eine Schlacht klingen nach großer Geschichte. Der Überlieferung nach hielt König Otto III. im Jahr 994 hier einen Gerichtstag; daraus soll der Name „Königstuhl“, später „Kaiserstuhl“, geworden sein. Heute steht im Gestühl ein großer Stuhl als Zeichen dafür. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Leiselheim (Vermerk: das Gericht ist nur Überlieferung, kein zweiter Beleg)",
+"faktencheck": "korrigiert",
+"id": "479-leiselheim/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "nordwestlicher Winkel des Kaiserstuhls",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leiselheim",
+"steckbrief": "Ortsteil von Sasbach am Kaiserstuhl, rund 450 Einwohner, 22 km nordwestlich von Freiburg.",
+"frage": "In welchem Winkel des Kaiserstuhls liegt Leiselheim?",
+"optionen": [
+"Es liegt im südöstlichen Winkel des Kaiserstuhls.",
+"Es liegt im nordöstlichen Winkel des Kaiserstuhls.",
+"Es liegt im nordwestlichen Winkel des Kaiserstuhls.",
+"Es liegt im südwestlichen Winkel des Kaiserstuhls."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Von Freiburg aus liegt der ganze Kaiserstuhl im Nordwesten, darum verrät die Richtung wenig über die Ecke. Leiselheim liegt im nordwestlichen Winkel des Kaiserstuhls. Beim Vorbeifahren ist man hier am äußeren Rand des Gebirges, nicht in seinem Inneren. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Leiselheim",
+"faktencheck": "unsicher",
+"id": "479-leiselheim/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Geburtsort eines Flugapparat-Konstrukteurs",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leiselheim",
+"steckbrief": "Ortsteil von Sasbach am Kaiserstuhl, rund 450 Einwohner, 22 km nordwestlich von Freiburg.",
+"frage": "Der in Leiselheim geborene Carl Friedrich Meerwein war markgräflich badischer Landbaumeister. Wofür ist er bekannt?",
+"optionen": [
+"Er konstruierte eine Rechenmaschine.",
+"Er konstruierte ein Tauchboot.",
+"Er konstruierte eine Dampfmaschine.",
+"Er konstruierte einen Flugapparat."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Landbaumeister war für die Bauten eines Landes zuständig, da liegt eine nützliche Maschine näher als ein Fluggerät. Doch Carl Friedrich Meerwein konstruierte einen Flugapparat. So steht hinter dem kleinen Weindorf Leiselheim auch ein Stück früher Luftfahrtgeschichte. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Leiselheim",
+"faktencheck": "bestätigt",
+"id": "479-leiselheim/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "lutherisches Dorf am Kaiserstuhl",
+"rang": 5,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Leiselheim",
+"steckbrief": "Ortsteil von Sasbach am Kaiserstuhl, rund 450 Einwohner, 22 km nordwestlich von Freiburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Leiselheim hat eine evangelische Kirchengemeinde.",
+"Lange gehörte Leiselheim zur badischen Herrschaft Hochberg.",
+"Nach der Reformation blieb Leiselheim katholisch."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Am Kaiserstuhl gibt es viele katholische Dörfer, darum klingt die Lüge glaubhaft. Doch Leiselheim gehörte zur markgräflich-badischen Herrschaft Hochberg, die 1556 lutherisch wurde. Bis heute hat der Ort eine evangelische Gemeinde, und ihre Kirche erinnert beim Vorbeifahren daran. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Leiselheim; Badische Landesbibliothek; Archion (Vermerk: die Zugehörigkeit zu Hochberg hat nur den Wikipedia-Beleg)",
+"faktencheck": "korrigiert",
+"id": "479-leiselheim/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Weindorf knapp 200 Meter hoch",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Leiselheim",
+"steckbrief": "Ortsteil von Sasbach am Kaiserstuhl, rund 450 Einwohner, 22 km nordwestlich von Freiburg.",
+"frage": "Wie hoch über dem Meeresspiegel liegt Leiselheim?",
+"optionen": [
+"unter 150 m",
+"150 bis unter 250 m",
+"250 bis unter 400 m",
+"400 m und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Ort am Kaiserstuhl klingt nach Berg und Höhenlage, darum liegt eine höhere Spanne nahe. Leiselheim liegt aber nur 198 Meter hoch. Das Dorf liegt also eher am Fuß des Kaiserstuhls als auf seinen Höhen. Richtig war 2.",
+"quelle": "GeoNames 2879119 (Altbestand geo.sqlite)",
+"faktencheck": "bestätigt",
+"id": "479-leiselheim/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Rebstock im Ortswappen",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leiselheim",
+"steckbrief": "Ortsteil von Sasbach am Kaiserstuhl, rund 450 Einwohner, 22 km nordwestlich von Freiburg.",
+"frage": "Was zeigt das Wappen von Leiselheim?",
+"optionen": [
+"Es zeigt einen goldenen Stuhl auf grünem Grund.",
+"Es zeigt eine Krone über einem Brunnen.",
+"Es zeigt einen Rebstock mit blauen Trauben.",
+"Es zeigt eine Pflugschar zwischen zwei Ähren."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Beim Namen Kaiserstuhl läge ein Stuhl oder eine Krone im Wappen nahe. Doch Leiselheims Wappen zeigt in Silber auf grünem Dreiberg, drei stilisierten Hügeln, einen Rebstock mit drei grünen Blättern und drei blauen Trauben. Es steht für den Weinbau als Charakteristikum des Orts: Das Dorf trägt seine Reben auch im Wappen. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Leiselheim",
+"faktencheck": "unsicher",
+"id": "479-leiselheim/v0.9/8",
+"tisch": false
+}
+],
+"anschluss_von": "469-sasbach",
+"anschluss": [
+"Leiselheim gehört seit 1974 zur Gemeinde Sasbach am Kaiserstuhl.",
+"Leiselheim liegt knapp 20 Meter höher als Sasbach."
+],
+"anschluesse": {
+"469-sasbach": [
+"Leiselheim gehört seit 1974 zur Gemeinde Sasbach am Kaiserstuhl.",
+"Leiselheim liegt knapp 20 Meter höher als Sasbach."
+]
+},
+"ags": "08316038",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 450 Einwohner, 198 Meter hoch im nordwestlichen Winkel des Kaiserstuhls, 22 Kilometer nordwestlich von Freiburg."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 1155 erwähnt, lange markgräflich-badisch und lutherisch, seit 1974 Ortsteil von Sasbach; im Dialekt heißt es Lissele."
+},
+{
+"facette": "ALLTAG",
+"text": "Obst- und Weinbau sind die wichtigsten Erwerbszweige; es gibt eine Winzergenossenschaft, in der Gemeinde zudem vier Weingüter und Winzerhöfe."
+},
+{
+"facette": "FREIZEIT",
+"text": "Sehenswert sind der Stockbrunnen von 1607 gegenüber der Winzergenossenschaft und die evangelische Kirche."
+},
+{
+"facette": "POLITIK",
+"text": "Gemeinde Sasbach am Kaiserstuhl, Bundestagswahl 2025: CDU 34 Prozent, Wahlbeteiligung 87,2 Prozent, klar über dem Landeswert."
+}
+],
+"km_vom_vorigen": 2.0
+},
+{
+"slug": "470-wyhl",
+"name": "Wyhl",
+"lat": 48.16556,
+"lon": 7.64889,
+"karten": [
+{
+"facette": "FREIZEIT",
+"charakteristikum": "eigener Naturlehrpfad im Rheinauewald",
+"rang": 7,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Wyhl",
+"steckbrief": "Wyhl, gut 4.000 Einwohner, liegt 24 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge gibt es in Wyhl?",
+"optionen": [
+"ein Thermalbad",
+"ein Golfplatz",
+"ein Naturlehrpfad durch den Auewald",
+"ein Segelflugplatz"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Golfplatz liegt nahe, denn die Ebene am Rhein ist flach und weit. Wyhl hat stattdessen einen Naturlehrpfad im Rheinauewald, 1971 eingerichtet und etwa 4 km lang. Nach dem neuen Konzept, an dem der Schwarzwaldverein, das Regierungspräsidium Freiburg und der Revierförster mitgearbeitet haben, sollen Hörstationen, Spiele und Infotafeln fester Bestandteil des Pfads werden. Er führt dorthin, wo Wyhls Natur liegt: in die Aue am Rhein. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.wyhl.de/seite/483484/rheinaue-naturlehrpfad.html; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "470-wyhl/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Atomkraftwerk verhindert, Protest weltbekannt",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wyhl",
+"steckbrief": "Wyhl, gut 4.000 Einwohner, liegt 24 km nordwestlich von Freiburg im Breisgau.",
+"frage": "In Wyhl gab es Protest gegen ein geplantes Kernkraftwerk. Was geschah 1983 mit dem Bauvorhaben?",
+"optionen": [
+"Ein Gericht verbot den Bau endgültig.",
+"Das fertige Kraftwerk ging ans Netz.",
+"Eine Volksabstimmung im Land stoppte das Vorhaben.",
+"Der Ministerpräsident legte den Bau vorläufig auf Eis."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Gericht liegt nahe, denn um Großprojekte wird oft vor Gericht gestritten. Angehalten hat das Vorhaben aber die Politik: Ministerpräsident Späth verkündete, der Bau sei vorläufig auf Eis gelegt. Zuvor hatten Demonstranten das Baugelände trotz Polizeischutz besetzt; in Wyhl erinnert der Gedenkstein „Nai hämmer gsait“ an den Widerstand. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.wyhl.de/seite/492997/geschichte.html; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "470-wyhl/v0.9/2",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Zigarrenfabriken im Bauerndorf",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wyhl",
+"steckbrief": "Wyhl, gut 4.000 Einwohner, liegt 24 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Ab 1875 siedelten sich in Wyhl sechs Firmen an; die letzte hielt bis 1983 durch. Was stellten sie her?",
+"optionen": [
+"Sie drehten Zigarren aus Tabak.",
+"Sie flochten Körbe aus Weiden der Rheinaue.",
+"Sie brannten Ziegel aus dem Lehm am Rhein.",
+"Sie webten Leinen aus Hanf der Umgebung."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Körbe aus Weiden liegen nahe, denn am Rhein wachsen Weiden. Es waren aber Zigarren: Heppe, Günzburger, Bremer, Schindler, Brill und Burger hießen die Firmen. Für ein Dorf, dessen Gemarkung überwiegend landwirtschaftlich genutzt wird, war das echte Industrie: Sie gab vielen Generationen Arbeit und Brot, wenn auch auf niedriger Lohnbasis. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.wyhl.de/seite/492997/geschichte.html",
+"faktencheck": "bestätigt",
+"id": "470-wyhl/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Rhein machte Kaiserstuhl zur Insel",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wyhl",
+"steckbrief": "Wyhl, gut 4.000 Einwohner, liegt 24 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Die Ortsgeschichte erzählt von einer Rheinüberschwemmung im Jahr 1302. Welches Bild überliefert sie?",
+"optionen": [
+"Die Leute retteten sich auf den Kirchturm.",
+"Das Bergland neben dem Dorf wurde zur Insel.",
+"Fischer fingen Hechte mitten auf dem Dorfplatz.",
+"Das Wasser stand ein ganzes Jahr im Dorf."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Kirchturm liegt nahe, denn bei Hochwasser rettet man sich nach oben. Die Ortsgeschichte erzählt Größeres: Der Kaiserstuhl wurde zur Insel, und man konnte mit dem Schiff nach Freiburg fahren. Der Rhein hat Wyhl so immer wieder geprägt, durch Überschwemmungen und Verwüstungen, aber auch durch Fischreichtum und Waldwachstum. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.wyhl.de/seite/492997/geschichte.html",
+"faktencheck": "bestätigt",
+"id": "470-wyhl/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Wald fast ganz geschützter Auewald",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wyhl",
+"steckbrief": "Wyhl, gut 4.000 Einwohner, liegt 24 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Was gilt für fast den gesamten Wald auf der Wyhler Gemarkung?",
+"optionen": [
+"Er besteht überwiegend aus Fichten und Kiefern.",
+"Er wächst auf trockenen Lösshängen über dem Dorf.",
+"Er ist Auewald in einem Naturschutzgebiet.",
+"Er ist ein reiner Eichenwald."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Nadelbäume liegen nahe, denn so sehen viele Forste aus. Fast der ganze Wyhler Wald liegt aber im Naturschutzgebiet Rheinniederung Wyhl-Weisweil: Auewald, ausschließlich Laubmischwald mit überwiegend Esche, Ahorn und Stieleiche, dazu Moorbereiche und Feuchtbiotope. Für einen Ort am Kaiserstuhl überrascht das: Wyhls Wald steht nicht am Berg, sondern unten in der Rheinniederung. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.wyhl.de/seite/483484/rheinaue-naturlehrpfad.html; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "470-wyhl/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Rathaus im früheren Schulhaus",
+"rang": 8,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Wyhl",
+"steckbrief": "Wyhl, gut 4.000 Einwohner, liegt 24 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Wyhler Rathaus war früher ein Kloster.",
+"Wyhl kaufte sich einst von der Stadt Endingen los.",
+"Im Dreißigjährigen Krieg lag bei Wyhl ein Schwedenlager."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Kloster als Rathaus klingt plausibel, denn in Baden wurden viele Klöster aufgehoben. Das Wyhler Rathaus war aber früher die Schule des Dorfs. Wahr ist: Wyhl kaufte sich von der verschuldeten Stadt Endingen los, und die Schweden lagerten im Fehrenwert am Römerbrunnen. Wer am Rathaus vorbeifährt, sieht also ein früheres Schulhaus, das die Gemeinde zum Rathaus umgebaut hat. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.wyhl.de/seite/492997/geschichte.html",
+"faktencheck": "bestätigt",
+"id": "470-wyhl/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "flach in der Rheinniederung",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wyhl",
+"steckbrief": "Wyhl, gut 4.000 Einwohner, liegt 24 km nordwestlich von Freiburg im Breisgau nahe dem Rhein.",
+"frage": "Auf welcher Höhe über dem Meer liegt der Ort Wyhl?",
+"optionen": [
+"unter 200 m",
+"200 bis unter 300 m",
+"300 bis unter 450 m",
+"450 m und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Am Kaiserstuhl denkt man an Rebhänge und schätzt höher. Wyhl selbst liegt aber auf 175 Metern, am Rand der Rheinniederung. Beim Vorbeifahren sieht man es: Das Land ist flach, und der Rhein ist nah. Richtig war 1.",
+"quelle": "Wikidata P2044; dewiki Infobox (hoehe_m)",
+"faktencheck": "bestätigt",
+"id": "470-wyhl/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Gründer von Colonia Tovar, Venezuela",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wyhl",
+"steckbrief": "Wyhl, gut 4.000 Einwohner, liegt 24 km nordwestlich von Freiburg im Breisgau.",
+"frage": "1842 unterstützte die Gemeinde 31 Auswanderer mit Reisegeld. Wo gründeten sie mit Auswanderern der Umgebung eine Kolonie?",
+"optionen": [
+"Sie gründeten eine Siedlung in Brasilien.",
+"Sie gründeten eine Siedlung in Chile.",
+"Sie gründeten eine Siedlung in Venezuela.",
+"Sie gründeten eine Siedlung in Argentinien."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Brasilien liegt nahe, denn dorthin zogen viele Deutsche. Die Wyhler gingen aber nach Venezuela und gründeten mit anderen Auswanderern Colonia Tovar, das es bis heute gibt. Schon vorher waren arme Wyhler nach Nordamerika ausgewandert; in Wyhl erinnert das Denkmal „Auswanderer“ an die Kolonie. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.wyhl.de/seite/492997/geschichte.html; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "470-wyhl/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Hexenprozess nach dem großen Dorfbrand",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wyhl",
+"steckbrief": "Wyhl, gut 4.000 Einwohner, liegt 24 km nordwestlich von Freiburg im Breisgau.",
+"frage": "1751 zerstörte eine Feuersbrunst 88 Häuser in Wyhl, zwei Drittel des Dorfs. Was geschah daraufhin mit Anna Trutt?",
+"optionen": [
+"Sie musste den Schaden lebenslang abarbeiten.",
+"Sie wurde als Hexe verbrannt.",
+"Sie wurde aus dem Land verbannt.",
+"Sie wurde freigesprochen und zog fort."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Verbannung liegt nahe, denn Hexenverbrennungen verortet man in früheren Jahrhunderten, und Kaiserin Maria Theresia hatte sie schon verboten. Trotzdem wurde Anna Trutt nach dem Brand gefoltert und auf dem Judenbuck zu Endingen als Hexe verbrannt. Der Brand vernichtete den Großteil des Dorfs, die Strafe traf eine einzelne Frau: eine der dunklen Seiten der Wyhler Geschichte. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.wyhl.de/seite/492997/geschichte.html",
+"faktencheck": "korrigiert",
+"id": "470-wyhl/v0.9/9",
+"tisch": false
+}
+],
+"anschluss_von": "479-leiselheim",
+"anschluss": [
+"Wyhl liegt tiefer als Leiselheim: 175 statt 198 Meter.",
+"Leiselheims Gemeinde Sasbach wählte 2025 mit höherer Beteiligung als Wyhl."
+],
+"anschluesse": {
+"479-leiselheim": [
+"Wyhl liegt tiefer als Leiselheim: 175 statt 198 Meter.",
+"Leiselheims Gemeinde Sasbach wählte 2025 mit höherer Beteiligung als Wyhl."
+]
+},
+"ags": "08316051",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Wyhl liegt auf 175 Metern in der Rheinniederung, 24 km nordwestlich von Freiburg; die Gemarkung misst knapp 17 Quadratkilometer."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 926 erwähnt, vorderösterreichisch und lange an Endingen gebunden, seit 1806 badisch; berühmt durch den Kernkraftwerk-Protest."
+},
+{
+"facette": "ALLTAG",
+"text": "Gut 4.000 Einwohner, Landkreis Emmendingen, Kennzeichen EM; der größte Teil der Gemarkung ist Landwirtschaftsfläche."
+},
+{
+"facette": "FREIZEIT",
+"text": "Naturlehrpfad Rheinauewald, Rheinaueweg, Badischer Jakobusweg, Sporthalle, Heimatmuseum im Rathaus und alle zwei Jahre das Gassenfest."
+},
+{
+"facette": "INFRA",
+"text": "Das Rathaus ist die Schule von 1912; dazu Grund- und Hauptschule mit Werkrealschule, und der Rheinradweg führt vorbei."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU 36,1 Prozent, AfD 21,7 Prozent; die Wahlbeteiligung lag mit 83,6 Prozent fast genau beim Landeswert."
+}
+],
+"km_vom_vorigen": 4.6
+},
+{
+"slug": "471-forchheim-kaiserstuhl",
+"name": "Forchheim",
+"lat": 48.16389,
+"lon": 7.7025,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Kiefernwald im Ortsnamen",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Forchheim",
+"steckbrief": "Rund 1.400 Einwohner, 22 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Woher hat Forchheim seinen Namen?",
+"optionen": [
+"Der Name erinnert an eine alte Furt.",
+"Der Name kommt vom alten Wort für Kiefer.",
+"Der Name ehrt einen fränkischen Anführer.",
+"Der Name beschreibt sumpfiges Land am Rhein."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer „Forch“ hört, denkt leicht an eine Furt wie in Frankfurt. Die Vorsilbe kommt aber vom althochdeutschen „forcha“, also Föhre, eine Kiefernart; die Endung „-heim“ deutet in der Regel auf eine fränkische Siedlung. Vielleicht machte hier einst ein fränkischer Sippenverband ein Stück Föhrenwald urbar. So trägt das Dorf in der Rheinebene wohl seinen Ursprung im Namen: eine Rodung im Wald. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.forchheim-am-kaiserstuhl.de/de/kultur-und-tourismus/ortsgeschichte",
+"faktencheck": "korrigiert",
+"id": "471-forchheim-kaiserstuhl/v0.9/1",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Heimatmuseum zu Landwirtschaft und Dorf",
+"rang": 7,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Forchheim",
+"steckbrief": "Rund 1.400 Einwohner, 22 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge gibt es in Forchheim?",
+"optionen": [
+"ein Freibad",
+"ein Bahnhof",
+"ein Heimatmuseum",
+"eine alte Wassermühle"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Bahnhof wirkt naheliegend, weil rund um den Kaiserstuhl eine Bahn fährt. Forchheim hat aber ein Heimatmuseum; der örtliche Heimatverein betreut es. Für ein Dorf mit rund 1.400 Einwohnern ist das ein eigenes Gedächtnis des Orts. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.forchheim-am-kaiserstuhl.de/de/kultur-und-tourismus/vereine",
+"faktencheck": "korrigiert",
+"id": "471-forchheim-kaiserstuhl/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Ebenendorf am Nordrand des Kaiserstuhls",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Forchheim",
+"steckbrief": "Rund 1.400 Einwohner, 22 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Wie liegt Forchheim zum Kaiserstuhl?",
+"optionen": [
+"Es liegt auf einer Kuppe im Kaiserstuhl.",
+"Es liegt in einem Tal am Südrand.",
+"Es liegt am Westrand zum Rhein hin.",
+"Es liegt in der Ebene am Nordrand."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Viele Kaiserstuhldörfer liegen an Rebhängen oder in Tälern, darum liegt eine Lage im Bergland nahe. Forchheim liegt aber in der Oberrheinebene am Nordrand des Kaiserstuhls, im Breisgau zwischen Schwarzwald und Vogesen. Wer vorbeifährt, sieht flaches Feld; die Hügel des Kaiserstuhls erheben sich südlich davon. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.forchheim-am-kaiserstuhl.de/de/kultur-und-tourismus/ortsgeschichte",
+"faktencheck": "bestätigt",
+"id": "471-forchheim-kaiserstuhl/v0.9/3",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "kleines Dorf, das selbstständig blieb",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Forchheim",
+"steckbrief": "Rund 1.400 Einwohner, 22 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Bei der Gemeindereform 1975 verloren viele Dörfer ihre Selbstständigkeit. Was wurde aus Forchheim?",
+"optionen": [
+"Es wurde ein Stadtteil von Endingen.",
+"Es blieb im Verwaltungsverband Nördlicher Kaiserstuhl selbstständig.",
+"Es verschmolz mit Weisweil zu einer Gemeinde.",
+"Es wurde nach Riegel eingemeindet."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Endingen liegt nahe, denn mit der Nachbarstadt bildete Forchheim schon vorher eine Verwaltungsgemeinschaft. Doch Forchheim behielt seine Selbstständigkeit durch eine freiwillige Neuordnung der Verwaltung und arbeitet im Verband Nördlicher Kaiserstuhl mit Nachbarn zusammen. Mit rund 1.400 Einwohnern gilt es heute als kleinste selbstständige Gemeinde des Landkreises Emmendingen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.forchheim-am-kaiserstuhl.de/de/kultur-und-tourismus/ortsgeschichte",
+"faktencheck": "korrigiert",
+"id": "471-forchheim-kaiserstuhl/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Großkläranlage für Freiburg im Dorf",
+"rang": 1,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Forchheim",
+"steckbrief": "Rund 1.400 Einwohner, 22 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Kläranlage Breisgauer Bucht liegt auf Forchheimer Gemarkung.",
+"Die Gemeinde Forchheim betreibt die Kläranlage ganz allein.",
+"Die Kläranlage reinigt auch Abwasser aus Freiburg."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Viele Dörfer betreiben ihre Kläranlage selbst, deshalb klingt Aussage 2 glaubhaft. Diese Anlage betreibt aber der Abwasserzweckverband Breisgauer Bucht. Sie entstand, weil die Kläranlagen im Raum Freiburg überlastet und die Gewässer stark verschmutzt waren. Für einen Ort mit rund 1.400 Einwohnern ist das eine ungewöhnlich große Anlage: In Forchheim wird Abwasser aus Freiburg und vielen weiteren Gemeinden gereinigt. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.forchheim-am-kaiserstuhl.de/de/wirtschaft-und-umwelt/klaeranlage",
+"faktencheck": "bestätigt",
+"id": "471-forchheim-kaiserstuhl/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "kleines Dorf auf kleiner Fläche",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Forchheim",
+"steckbrief": "Rund 1.400 Einwohner, 22 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Wie viele Einwohner leben in Forchheim je Quadratkilometer Gemeindefläche?",
+"optionen": [
+"unter 60",
+"60 bis unter 90",
+"90 bis unter 120",
+"120 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem kleinen Dorf zwischen Feldern liegt eine niedrige Zahl nahe. Tatsächlich leben in Forchheim 129 Einwohner je Quadratkilometer: 1.393 Menschen (Stand Ende 2025) auf 10,78 Quadratkilometern. Das Dorf ist klein, aber seine Fläche auch; darum wohnt man hier dichter, als der Blick auf die Felder vermuten lässt. Richtig war 4.",
+"quelle": "Wikidata P1082 (Stand 2025-12-31) und P2046, Dichte berechnet",
+"faktencheck": "bestätigt",
+"id": "471-forchheim-kaiserstuhl/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Kartoffelkopf als Fasnetsfigur",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Forchheim",
+"steckbrief": "Rund 1.400 Einwohner, 22 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Die Forchemer Fasnet hat eine eigene Figur, den Schell-Mi. Wie sieht er aus?",
+"optionen": [
+"Er ist ein lachender Kartoffelkopf mit Knollennase.",
+"Er ist eine alte Hexe mit Reisigbesen.",
+"Er ist ein Storch mit rotem Schnabel.",
+"Er ist ein Rheinfischer mit Netz."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Hexen gehören in vielen Orten zur alemannischen Fasnet, deshalb liegt die Hexe nahe. Die Holzmaske des Schell-Mi zeigt aber ein lachendes Kartoffelgesicht mit Knollennase. Die Figur entstand, weil Forchheim für seine guten Kartoffeln bekannt ist. Die Gruppe gibt es seit 1995; nach drei Jahren hatte sie schon über 100 Mitglieder. Richtig war 1.",
+"quelle": "Forchemer Schell-Mi, schell-mi.de/schell-mi/",
+"faktencheck": "korrigiert",
+"id": "471-forchheim-kaiserstuhl/v0.9/8",
+"tisch": false
+}
+],
+"anschluss_von": "470-wyhl",
+"anschluss": [
+"Wyhl hat fast dreimal so viele Einwohner wie Forchheim.",
+"Forchheim und Wyhl sind Nachbarn und teilen einen Verwaltungsverband."
+],
+"anschluesse": {
+"470-wyhl": [
+"Wyhl hat fast dreimal so viele Einwohner wie Forchheim.",
+"Forchheim und Wyhl sind Nachbarn und teilen einen Verwaltungsverband."
+]
+},
+"ags": "08316013",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 1.400 Einwohner auf knapp 11 Quadratkilometern, in der Rheinebene am Nordrand des Kaiserstuhls, 22 Kilometer nordwestlich von Freiburg."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Fränkische Gründung, Name von „forcha“ für Kiefer; einst vorderösterreichisch, ab 1803 badisch, bis heute selbstständig."
+},
+{
+"facette": "ALLTAG",
+"text": "Ein Kartoffeldorf mit Hofverkauf von Obst, Gemüse und Bioland-Ware; dazu der Betrieb Binz."
+},
+{
+"facette": "FREIZEIT",
+"text": "Heimatmuseum, Härdepfel-Dorffest im August, Fasnetsfigur Schell-Mi, Musik- und Sportverein, Gedenktafel an der Winterlinde."
+},
+{
+"facette": "INFRA",
+"text": "Auf Forchheimer Gemarkung steht die Kläranlage Breisgauer Bucht für Freiburg und Umland; Vorwahl 07642."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU 36,7 Prozent, AfD 22,8 Prozent; Wahlbeteiligung 85,1 Prozent, etwas über dem Landeswert."
+}
+],
+"km_vom_vorigen": 4.0
+},
+{
 "slug": "70-breisach",
 "name": "Breisach",
 "lat": 48.02889,
@@ -19068,7 +21512,7 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "467-vogtsburg",
+"anschluss_von": "471-forchheim-kaiserstuhl",
 "anschluss": [],
 "anschluesse": {
 "389-merzhausen": [
@@ -19158,7 +21602,7 @@ window.QA_DATEN = {
 "text": "Bundestagswahl 2025: CDU 30,3 Prozent vor AfD 18,4 Prozent, Wahlbeteiligung 82,3 Prozent, knapp unter Landesschnitt."
 }
 ],
-"km_vom_vorigen": 7.7
+"km_vom_vorigen": 17.6
 },
 {
 "slug": "466-guendlingen",
@@ -19363,6 +21807,487 @@ window.QA_DATEN = {
 }
 ],
 "km_vom_vorigen": 4.7
+},
+{
+"slug": "480-niederrimsingen",
+"name": "Niederrimsingen",
+"lat": 47.98583,
+"lon": 7.66833,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Weinlage nach Attilas sagenhaftem Grab",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niederrimsingen",
+"steckbrief": "Stadtteil von Breisach am Rhein, rund 1.400 Einwohner, 14 km westlich von Freiburg.",
+"frage": "Eine Weinlage von Niederrimsingen heißt „Attilafelsen“. Woher hat sie ihren Namen?",
+"optionen": [
+"Ein Winzer namens Attila legte sie an.",
+"Sie ist nach Verdis Oper „Attila“ benannt.",
+"Der Sage nach liegt Attila am Tuniberg begraben.",
+"Ein Gutsherr benannte sie nach seinem Pferd Attila."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Winzer, ein Pferd oder eine Oper liegen nahe, wenn ein Name so klingt. Doch die Weinlage ist nach einer Sage benannt: Der Hunnenkönig Attila soll am Tuniberg begraben liegen. Die Sage ist in der Region bekannt. Wer an Niederrimsingen vorbeifährt, sieht die Reben am Tuniberg und weiß nun, wessen Grab man dort der Sage nach vermuten müsste. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.tourismus.breisach.de/ort/breisach-niederrimsingen-66b4fa7ade",
+"faktencheck": "bestätigt",
+"id": "480-niederrimsingen/v0.9/1",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Rebsorten-Wanderweg mit Fernsicht",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niederrimsingen",
+"steckbrief": "Stadtteil von Breisach am Rhein, rund 1.400 Einwohner, 14 km westlich von Freiburg.",
+"frage": "Am Burgunderpfad bei Niederrimsingen stehen Thementafeln. Wovon handeln sie?",
+"optionen": [
+"Sie erzählen von Pilgern auf dem Jakobsweg.",
+"Sie erzählen von der Flößerei am Rhein.",
+"Sie erzählen vom Königreich der Burgunder.",
+"Sie erklären die Rebsorten der Gegend."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Beim Namen denkt man leicht an das Volk der Burgunder und sein Reich. Der Weg heißt aber nach den Burgundersorten, die am Tuniberg vorherrschen, und die Tafeln am Weg handeln von Rebsorten. Der Pfad führt durch die Natur- und Reblandschaft des Tunibergs und bietet Ausblicke auf Kaiserstuhl, Schwarzwald, Vogesen und Rheinebene. Für einen Ort mit knapp 1.400 Einwohnern ist das ein Wanderweg mit weitem Horizont. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.tourismus.breisach.de/tour/burgunderpfad-faf1af8469; Gemeinde Gottenheim, www.gottenheim.de/press1/20100504.pdf; Einwohner: dewiki Infobox, Stand 2021-12-31",
+"faktencheck": "korrigiert",
+"id": "480-niederrimsingen/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Tuniberg, wörtlich „Berg-Berg“",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niederrimsingen",
+"steckbrief": "Stadtteil von Breisach am Rhein, rund 1.400 Einwohner, 14 km westlich von Freiburg.",
+"frage": "Der Tuniberg reicht bis auf die Gemarkung von Niederrimsingen. Woher stammt sein Name?",
+"optionen": [
+"Er stammt vom keltischen Wort für Berg.",
+"Er erinnert an den heiligen Antonius.",
+"Er ist nach dem Donnergott benannt.",
+"Er kommt von den Weinfässern, den Tonnen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer „Tuni“ hört, denkt an Toni, Donner oder Tonne. Der Name geht laut Ortsgeschichte aber auf das keltische Wort dunum für Berg zurück. Wörtlich ist der Tuniberg also ein Berg-Berg. Oben auf seinen Höhen liegen Rebberge, und er lockt Wanderer, Radfahrer und Spaziergänger. Wer an Niederrimsingen vorbeifährt, hat ihn direkt vor Augen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.tourismus.breisach.de/ort/breisach-niederrimsingen-66b4fa7ade; www.tourismus.breisach.de/vielfalt/breisacher-stadtteile",
+"faktencheck": "korrigiert",
+"id": "480-niederrimsingen/v0.9/3",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Chilbi, das traditionelle Dorffest",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niederrimsingen",
+"steckbrief": "Stadtteil von Breisach am Rhein, rund 1.400 Einwohner, 14 km westlich von Freiburg.",
+"frage": "In Niederrimsingen gibt es die Chilbi. Was ist das?",
+"optionen": [
+"Sie ist ein scharfes Gericht der Gegend.",
+"Sie ist ein traditionelles Dorffest.",
+"Sie ist ein Hackwerkzeug der Winzer.",
+"Sie ist ein altes Kartenspiel der Alemannen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach Chili, nach etwas Scharfem aus der Küche. Die Chilbi ist aber ein traditionelles Dorffest. Laut Stadt Breisach hat jeder ihrer Stadtteile sein eigenes Dorffest, in Niederrimsingen ist es die Chilbi. Die Dörfer, schreibt die Stadt, haben ihren dörflichen Charme bewahrt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.tourismus.breisach.de/vielfalt/breisacher-stadtteile",
+"faktencheck": "korrigiert",
+"id": "480-niederrimsingen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Üsenberger Flügel im Ortswappen",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niederrimsingen",
+"steckbrief": "Stadtteil von Breisach am Rhein, rund 1.400 Einwohner, 14 km westlich von Freiburg.",
+"frage": "Das Wappen von Niederrimsingen zeigt einen Flügel. Woher kommt er?",
+"optionen": [
+"Er steht für einen Schutzengel des Dorfs.",
+"Er erinnert an eine frühere Poststation.",
+"Er geht auf frühere Ortsherren zurück.",
+"Er stammt von einem Storch der Rheinebene."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Flügel lässt an Engel oder Vögel denken. Er geht aber auf die Herren von Üsenberg zurück, denen der Ort im Mittelalter gehörte. Das Wappen verweist also auf Adelsherrschaft, nicht auf Frömmigkeit oder Natur. Einst bildete Rimsingen einen Ort, der sich später in Ober- und Niederrimsingen teilte. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.tourismus.breisach.de/ort/breisach-niederrimsingen-66b4fa7ade",
+"faktencheck": "korrigiert",
+"id": "480-niederrimsingen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "am Südwestrand des Tunibergs",
+"rang": 9,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Niederrimsingen",
+"steckbrief": "Stadtteil von Breisach am Rhein, rund 1.400 Einwohner, 14 km westlich von Freiburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Niederrimsingen liegt im Landkreis Breisgau-Hochschwarzwald.",
+"Niederrimsingen liegt nördlich der Stadt Breisach.",
+"Niederrimsingen liegt am Fuß des Tunibergs."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Kaiserstuhl mit seinen Weindörfern liegt nah, da wirkt die Lüge plausibel. Niederrimsingen liegt aber südöstlich von Breisach, wie alle Dörfer der Stadt. Aus Sicht des Orts liegt die Kernstadt also im Nordwesten, der Tuniberg gleich nebenan. Wie ganz Breisach gehört Niederrimsingen zum Landkreis Breisgau-Hochschwarzwald. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.tourismus.breisach.de/vielfalt/breisacher-stadtteile; www.tourismus.breisach.de/ort/breisach-niederrimsingen-66b4fa7ade; Landkreis: Wikidata P131",
+"faktencheck": "korrigiert",
+"id": "480-niederrimsingen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "kleine, dicht besiedelte Gemarkung",
+"rang": 6,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Niederrimsingen",
+"steckbrief": "Stadtteil von Breisach am Rhein, rund 1.400 Einwohner, 14 km westlich von Freiburg.",
+"frage": "Wie groß ist die Gemarkung von Niederrimsingen?",
+"optionen": [
+"unter 5 km²",
+"5 bis unter 10 km²",
+"10 bis unter 20 km²",
+"20 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an Weinberge denkt, schätzt leicht großzügiger. Die Gemarkung misst aber nur 4,59 Quadratkilometer. Auf diese kleine Fläche kommen knapp 1.400 Einwohner, also rund 300 je Quadratkilometer. Für einen Stadtteil am Tuniberg ist Niederrimsingen damit recht kompakt. Richtig war 1.",
+"quelle": "Wikidata P2046; Einwohner: dewiki Infobox, Stand 2021-12-31; Dichte berechnet aus Einwohner und Fläche",
+"faktencheck": "bestätigt",
+"id": "480-niederrimsingen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Kirchturm älter als die übrige Kirche",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niederrimsingen",
+"steckbrief": "Stadtteil von Breisach am Rhein, rund 1.400 Einwohner, 14 km westlich von Freiburg.",
+"frage": "Die Kirche St. Laurentius in Niederrimsingen vereint Bauteile verschiedener Epochen. Welcher Teil ist der älteste?",
+"optionen": [
+"Der Chor ist der älteste Teil.",
+"Der Turm ist der älteste Teil.",
+"Das Langhaus ist der älteste Teil.",
+"Die barocken Teile sind am ältesten."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Oft ist der Chor der älteste Teil einer Kirche, weil man mit ihm zu bauen begann. Hier ist es der Turm aus dem Mittelalter. Die übrige Kirche wurde erst Jahrhunderte später nach einem Dorfbrand erneuert, danach folgte noch ein barocker Umbau. Wer vor St. Laurentius steht, sieht im Turm also den ältesten Teil des Gotteshauses. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.tourismus.breisach.de/ort/breisach-niederrimsingen-66b4fa7ade",
+"faktencheck": "korrigiert",
+"id": "480-niederrimsingen/v0.9/9",
+"tisch": false
+}
+],
+"anschluss_von": "466-guendlingen",
+"anschluss": [
+"Gündlingen hat mehr als doppelt so viel Fläche wie Niederrimsingen.",
+"Gündlingen hat gut 400 Einwohner mehr als Niederrimsingen."
+],
+"anschluesse": {
+"466-guendlingen": [
+"Gündlingen hat mehr als doppelt so viel Fläche wie Niederrimsingen.",
+"Gündlingen hat gut 400 Einwohner mehr als Niederrimsingen."
+]
+},
+"ags": "08315015",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Stadtteil von Breisach am Tuniberg, 14 km westlich von Freiburg, knapp 200 Meter hoch, 4,59 Quadratkilometer; Schutzgebiet Zwölferholz-Haid."
+},
+{
+"facette": "GESCHICHTE",
+"text": "819 als Rimigisger marca erwähnt, um 993 in Ober- und Niederrimsingen geteilt, seit 1973 zu Breisach."
+},
+{
+"facette": "ALLTAG",
+"text": "Weinbau prägt den Tuniberg; als Betrieb ist außerdem die H+H Deutschland GmbH verzeichnet."
+},
+{
+"facette": "FREIZEIT",
+"text": "Burgunderpfad und Breisgau-Radwanderweg, Aussichtspunkt Attilafelsen, Attila-Denkmal, Attila-Halle und die Chilbi als Dorffest."
+},
+{
+"facette": "INFRA",
+"text": "Busse zum Bahnhof Breisach und nach Freiburg; Postleitzahl 79206, Vorwahl 07664, Kennzeichen FR."
+}
+],
+"km_vom_vorigen": 4.0
+},
+{
+"slug": "481-oberrimsingen",
+"name": "Oberrimsingen",
+"lat": 47.9789,
+"lon": 7.6622,
+"karten": [
+{
+"facette": "ALLTAG",
+"charakteristikum": "Kies- und Schotterwerke statt nur Landwirtschaft",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberrimsingen",
+"steckbrief": "Stadtteil von Breisach am Rhein mit rund 1.600 Einwohnern, 14 km westlich von Freiburg.",
+"frage": "Oberrimsingen ist ein Weinort am Tuniberg. Welcher Erwerbszweig kam nach 1945 auf seiner Gemarkung hinzu?",
+"optionen": [
+"Eine Uhrenfabrik siedelte sich im Ort an.",
+"Kies- und Schotterwerke nahmen den Abbau auf.",
+"Ein Thermalbad machte den Ort zum Kurort.",
+"Eine Papierfabrik an der Möhlin bot Arbeit."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Thermalbad liegt nahe, denn die Gegend ist für ihre Kurorte bekannt. Oberrimsingen aber bekam nach dem Krieg Kies- und Schotterwerke. Seit 1949 baut ein Werk auch auf Oberrimsinger Gemarkung ab, seit 1950 ein weiteres am Baggersee an der Möhlin. So kam zum Weinbau am Tuniberg ein Gewerbe, das Baustoff liefert. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, stadt.breisach.de (Firmenangaben Kies- und Schotterwerke); www.tourismus.breisach.de/vielfalt/breisacher-stadtteile",
+"faktencheck": "korrigiert",
+"id": "481-oberrimsingen/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Friedhof an Kapelle verschwundenen Dorfs",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberrimsingen",
+"steckbrief": "Stadtteil von Breisach am Rhein, rund 1.600 Einwohner, 14 km westlich von Freiburg.",
+"frage": "Das Dorf Grüningen bei Oberrimsingen ging wohl im 16. Jahrhundert unter. Was wurde aus seiner Dorfkirche?",
+"optionen": [
+"Man trug sie ab und nutzte die Steine.",
+"Sie wurde zur Scheune eines Hofguts.",
+"Sie wurde Kapelle mit einer Einsiedlerklause.",
+"Ein Rheinhochwasser riss sie mit fort."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Von vielen untergegangenen Dörfern blieb kein Stein, darum liegt der Abriss nahe. In Grüningen aber wurde die Dorfkirche zur Kapelle mit Eremitenklause, der Wohnung eines Einsiedlers. Heute liegt der Oberrimsinger Friedhof rund um die St. Jakobus-Kapelle Grüningen. Wer dort vorbeikommt, sieht eine Kapelle, die an ein verschwundenes Dorf erinnert. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.tourismus.breisach.de/ort/breisach-oberrimsingen-mit-grezhausen-6bd33b3f0c",
+"faktencheck": "bestätigt",
+"id": "481-oberrimsingen/v0.9/2",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Rebsorten-Wanderweg über den Tuniberg",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberrimsingen",
+"steckbrief": "Stadtteil von Breisach am Rhein mit rund 1.600 Einwohnern, 14 km westlich von Freiburg.",
+"frage": "Der Burgunderpfad ist ein Wanderweg durch das Tuniberggebiet bei Oberrimsingen. Wovon handeln seine Thementafeln unter anderem?",
+"optionen": [
+"Sie erzählen von den Burgundern der Völkerwanderung.",
+"Sie erzählen vom Rheinhandel burgundischer Kaufleute.",
+"Sie erzählen von Schmugglern an der Rheingrenze.",
+"Sie stellen verschiedene Rebsorten vor."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name lockt nach Burgund oder zu den Burgundern der Völkerwanderung. Doch Burgunder heißen auch Rebsorten. Die Thementafeln stellen unter anderem verschiedene Rebsorten vor, Cartoons von Peter Gaymann zeigen dazu Wein und Natur der Region. Der Weg führt durch die Reblandschaft des Tunibergs, mit Blick auf Kaiserstuhl, Schwarzwald und Vogesen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.tourismus.breisach.de/tour/burgunderpfad-faf1af8469; www.gottenheim.de/Tourismus/Burgunderpfad/; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "481-oberrimsingen/v0.9/3",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Jugendwerk mit Schule im Schloss",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberrimsingen",
+"steckbrief": "Breisacher Stadtteil mit rund 1.600 Einwohnern, 14 km westlich von Freiburg.",
+"frage": "Oberrimsingen Breisacher Stadtteil mit rund 1.600 Einwohnern, 14 km westlich von Freiburg. 1946 bekam das Schloss Rimsingen eine neue Nutzung, die bis heute besteht. Was zog ein? 1.–4. wie bisher.",
+"optionen": [
+"Ein Jugendwerk mit Schule und Lehrwerkstätten zog ein.",
+"Eine Weinbauschule des Landes zog ein.",
+"Ein Kurheim für Erholungsuchende zog ein.",
+"Ein Altenheim für Kriegswitwen zog ein."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Schloss im Weinland lässt an eine Weinbauschule oder ein Kurheim denken. Tatsächlich gründete Erich Kiehn hier 1946 im Auftrag des Caritasverbands der Erzdiözese Freiburg das Christophorus-Jugendwerk. Er baute eine staatlich anerkannte Schule auf, die heute Erich-Kiehn-Schule heißt, dazu Ausbildungswerkstätten. Das Jugendwerk besteht bis heute als Einrichtung der Caritas. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.tourismus.breisach.de/ort/breisach-oberrimsingen-mit-grezhausen-6bd33b3f0c; Badische Zeitung; Caritasverband Freiburg",
+"faktencheck": "korrigiert",
+"id": "481-oberrimsingen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Weinort am Westhang des Tunibergs",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberrimsingen",
+"steckbrief": "Stadtteil von Breisach am Rhein, rund 1.600 Einwohner, 14 km westlich von Freiburg.",
+"frage": "Oberrimsingen ist ein Weinort an einem Höhenzug. Wo genau liegt der Ort?",
+"optionen": [
+"Der Ort liegt am Osthang des Tunibergs.",
+"Der Ort liegt am Westhang des Tunibergs.",
+"Der Ort liegt oben auf dem Tuniberg.",
+"Der Ort liegt am Fuß des Kaiserstuhls."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Kaiserstuhl ist das bekanntere Weinbaugebiet der Gegend, doch vom Tuniberg aus blickt man nur zu ihm hinüber. Oberrimsingen liegt am westlichen Hang des Tunibergs, am Fuß des Höhenzugs. Wer vorbeifährt, sieht über dem Ort die Rebberge auf den Tuniberghöhen; dazu passt das Bild vom Weinort. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Oberrimsingen",
+"faktencheck": "unsicher",
+"id": "481-oberrimsingen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Klosterhof Grezhausen mit Taubenturm",
+"rang": 4,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Oberrimsingen",
+"steckbrief": "Breisacher Stadtteil mit rund 1.600 Einwohnern, 14 km westlich von Freiburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Taubenturm in Grezhausen hatte unten einen Ortsarrest.",
+"Die vier Grezhauser Höfe trugen Namen von Heiligen.",
+"Grezhausen gehörte jahrhundertelang einer Familie von Rittern."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Turm und Hof klingen nach Rittern, darum wirkt die Aussage glaubhaft. Doch Grezhausen war ein Klosterhof: erst des Priorats St. Ulrich, dann eines Zisterzienserinnenklosters bei Freiburg, das lange Grundherr blieb. Dazu passen die Heiligennamen der Höfe: St. Agatha, St. Gallus, St. Bernhard, St. Nikolaus. Heute gehört Grezhausen zu Oberrimsingen; Taubenturm und St. Bernhardskapelle erinnern an die Klosterzeit. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.tourismus.breisach.de/ort/breisach-oberrimsingen-mit-grezhausen-6bd33b3f0c",
+"faktencheck": "bestätigt",
+"id": "481-oberrimsingen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "tief gelegen, knapp unter 200 Metern",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Oberrimsingen",
+"steckbrief": "Stadtteil von Breisach am Rhein mit rund 1.600 Einwohnern, 14 km westlich von Freiburg.",
+"frage": "Wie hoch liegt Oberrimsingen über dem Meeresspiegel?",
+"optionen": [
+"300 m und mehr",
+"250 bis unter 300 m",
+"200 bis unter 250 m",
+"unter 200 m"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an das höher gelegene Freiburg denkt, schätzt leicht zu hoch. Oberrimsingen liegt auf 198 bis 199 Metern, je nach Quelle. Knapp unter der 200-Meter-Marke liegt der Ort damit tiefer, als man es 14 Kilometer vor Freiburg erwarten würde. Richtig war 4.",
+"quelle": "GRUNDDATEN hoehe_m (Wikidata P2044; dewiki Infobox); Entfernung berechnet aus Koordinaten (Wikidata)",
+"faktencheck": "bestätigt",
+"id": "481-oberrimsingen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Kleinkunstbühne im Schloss, trotz Dorfgröße",
+"rang": 3,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Oberrimsingen",
+"steckbrief": "Stadtteil von Breisach am Rhein, rund 1.600 Einwohner, 14 km westlich von Freiburg.",
+"frage": "Welches dieser vier Dinge gibt es in Oberrimsingen?",
+"optionen": [
+"Ein Freibad",
+"Ein Bahnhof",
+"Eine Kleinkunstbühne",
+"Eine Rehaklinik"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Freibad oder ein Bahnhof wirken für einen Ort mit rund 1.600 Einwohnern wahrscheinlicher. Oberrimsingen aber hat eine Kleinkunstbühne, und zwar im Schloss Rimsingen, dem Wahrzeichen des Orts. Dort gibt es auch eine Kunstgalerie und jährlich den Martinimarkt „Markt der Schönen Dinge“ mit Kunsthandwerkern. So wird das Schloss zum Anziehungspunkt für Kultur und Märkte, auch über den Ort hinaus. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.tourismus.breisach.de/attraktion/schloss-rimsingen-41e8f532bb; OpenStreetMap",
+"faktencheck": "bestätigt",
+"id": "481-oberrimsingen/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "staatliches Hofgut Rothaus",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberrimsingen",
+"steckbrief": "Breisacher Stadtteil mit rund 1.600 Einwohnern, 14 km westlich von Freiburg.",
+"frage": "Das Hofgut Rothaus bei Oberrimsingen ist seit 1492 belegt. Wer übernahm es im Jahr 1931?",
+"optionen": [
+"Der badische Staat übernahm es als Staatsdomäne.",
+"Die Stadt Freiburg kaufte das Hofgut.",
+"Die Universität Freiburg kaufte das Hofgut.",
+"Ein Straßburger Weinhändler kaufte das Hofgut."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Stadt Freiburg liegt nahe, weil Städte oft Güter im Umland besaßen. Das Hofgut Rothaus aber, ein früherer Klosterhof und 1492 erstmals erwähnt, wurde 1931 badische Staatsdomäne. Es besteht bis heute an der B 31 zwischen Rimsingen und Breisach, mit einer Bio-Hofbäckerei und einem Hofladen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.tourismus.breisach.de/ort/breisach-oberrimsingen-mit-grezhausen-6bd33b3f0c; Badische Zeitung",
+"faktencheck": "korrigiert",
+"id": "481-oberrimsingen/v0.9/9",
+"tisch": false
+}
+],
+"anschluss_von": "480-niederrimsingen",
+"anschluss": [
+"Oberrimsingen hat fast doppelt so viel Fläche wie Niederrimsingen.",
+"Oberrimsingen und Niederrimsingen trennten sich vermutlich um das Jahr 1000."
+],
+"anschluesse": {
+"480-niederrimsingen": [
+"Oberrimsingen hat fast doppelt so viel Fläche wie Niederrimsingen.",
+"Oberrimsingen und Niederrimsingen trennten sich vermutlich um das Jahr 1000."
+]
+},
+"ags": "08315015",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Weinort am Westhang des Tunibergs, 198 bis 199 Meter hoch, 14 Kilometer westlich von Freiburg; Gewässer: die Möhlin."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Seit 1975 Stadtteil von Breisach; dazu gehören der frühere Klosterhof Grezhausen und die Kapelle des verschwundenen Dorfs Grüningen."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 1.600 Einwohner auf 9 Quadratkilometern, viele Pendler; Betriebe wie Thoman Biegemaschinen, Joos Umwelttechnik, Weinhof Oberrimsingen."
+},
+{
+"facette": "FREIZEIT",
+"text": "Kleinkunstbühne im Schloss Rimsingen, Burgunderpfad, Breisgau-Radwanderweg, Oberrhein Römerradweg, Tunibergstadion, Tuniberghalle, Schutzgebiet Zwölferholz-Haid."
+},
+{
+"facette": "INFRA",
+"text": "Christophorus-Jugendwerk mit Schule, Internat und Lehrwerkstätten; Postleitzahl 79206, Vorwahl 07664, Kennzeichen FR wie ganz Breisach."
+},
+{
+"facette": "POLITIK",
+"text": "Ganz Breisach wählte 2025 vorn die CDU mit 30,3 Prozent, bei 82,3 Prozent Wahlbeteiligung."
+}
+],
+"km_vom_vorigen": 0.9
 },
 {
 "slug": "433-kirchzarten",
@@ -19577,7 +22502,7 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "466-guendlingen",
+"anschluss_von": "481-oberrimsingen",
 "anschluss": [],
 "anschluesse": {},
 "ags": "08315064",
@@ -19608,7 +22533,7 @@ window.QA_DATEN = {
 "text": "Bei der Bundestagswahl 2025 lag die CDU mit 29,2 Prozent vor den Grünen mit 25,7 Prozent."
 }
 ],
-"km_vom_vorigen": 23.7
+"km_vom_vorigen": 21.5
 },
 {
 "slug": "71-stegen",

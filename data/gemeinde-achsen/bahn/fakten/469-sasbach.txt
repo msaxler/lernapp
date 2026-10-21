@@ -1,0 +1,643 @@
+ID: 469-sasbach/001
+ENTITÄT: ort
+BEZEICHNUNG: Sasbach am Kaiserstuhl
+FACETTE: LAGE
+QUELLE: https://www.gemeinde-sasbach.de/gemeinde-im-blick/geschichte-zahlen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bundesland: Baden-Württemberg
+  regierungsbezirk: Freiburg
+  landkreis: Emmendingen
+  hoehe_ueber_nn: 181, einheit: m, genauigkeit: ca.
+  flaeche: 20.78, einheit: "km²", genauigkeit: ca.
+  einwohnerzahl: 3520, gueltig_ab: 2026-06-30
+  lage: direkt am Rhein, am Fuß des Kaiserstuhls
+  grenze_zu_frankreich: unmittelbar an der Grenze zum Elsass
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 469-sasbach/002
+ENTITÄT: ort
+FACETTE: GESCHICHTE
+QUELLE: https://www.gemeinde-sasbach.de/gemeinde-im-blick/geschichte-zahlen/historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 839
+  urspruenge: vermutlich römische Zeit
+  frueherer_charaktertyp: Fischerdorf
+  namensgruendung: Rheinregulierung durch Johann Gottfried Tulla führte zum Wandel vom Fischerdorf zum Weinort
+  namensaenderung: Sasbach am Kaiserstuhl
+  namensaenderung_jahr: 1997
+  grund_umbenennung: zur eindeutigen Unterscheidung von anderen Orten mit dem Namen Sasbach
+GUELTIG_AB: 839
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 469-sasbach/003
+ENTITÄT: ort
+FACETTE: WIRTSCHAFT
+QUELLE: https://www.gemeinde-sasbach.de/gemeinde-im-blick/geschichte-zahlen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hauptwirtschaftszweig: Weinbau
+  rebsorten_hauptsaechlich: Spätburgunder, Grauburgunder, Weißburgunder
+  weinbau_tradition_seit: Römerzeit
+  bedeutung_fuer_ort: Weinort mit hohem Freizeitwert
+  vulkanische_boeden: ja
+  bodenauswirkung: besonders fruchtbar und ideal für Weinbau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 469-sasbach/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Jechtingen
+FACETTE: LAGE
+QUELLE: https://www.gemeinde-sasbach.de/gemeinde-im-blick/geschichte-zahlen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 1177
+  eingemeindung_datum: 1975-01-01
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 469-sasbach/005
+ENTITÄT: ortsteil
+BEZEICHNUNG: Leiselheim
+FACETTE: LAGE
+QUELLE: https://www.gemeinde-sasbach.de/gemeinde-im-blick/geschichte-zahlen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 468
+  eingemeindung_datum: 1974-04-01
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 469-sasbach/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Sasbach
+FACETTE: LAGE
+QUELLE: https://www.gemeinde-sasbach.de/gemeinde-im-blick/geschichte-zahlen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 1875
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 469-sasbach/007
+ENTITÄT: burg
+BEZEICHNUNG: Sasbacher Limburg
+FACETTE: GESCHICHTE
+QUELLE: https://www.gemeinde-sasbach.de/gemeinde-im-blick/geschichte-zahlen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Burgruine
+  urspruengliche_funktion: Kastell
+  bauherr_ursprung: Römer
+  bauherr_mittelalter: Zähringer
+  erwaehnung_erste: 1239
+  besonderheit: mittelalterliche Kapelle
+  bedeutung_fuer_ort: beliebter Aussichtspunkt
+  hoehe_des_huegels: 192, einheit: m
+  panoramablick: Rhein bis zu den Vogesen
+  sichtbar_heute: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 469-sasbach/008
+ENTITÄT: burg
+BEZEICHNUNG: Burg Sponeck
+FACETTE: GESCHICHTE
+QUELLE: https://www.gemeinde-sasbach.de/gemeinde-im-blick/geschichte-zahlen/zahlen-daten-fakten | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Jechtingen
+EIGENSCHAFTEN:
+  status: abgegangen (Dorf-Wikipedia)
+  vorgaenger: spätrömisches Kastell Sasbach-Jechtingen
+  vorgaenger_datierung: 370-400 n.Chr.
+GUELTIG_AB: 370
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 469-sasbach/009
+ENTITÄT: kastell
+BEZEICHNUNG: Kastell Sasbach-Jechtingen
+FACETTE: GESCHICHTE
+QUELLE: https://www.gemeinde-sasbach.de/gemeinde-im-blick/geschichte-zahlen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Römer
+  datierung: 370-400, einheit: n.Chr.
+  funktion: Überwachung des Rheins und des Limes
+  reste_sichtbar: ja
+GUELTIG_AB: 370
+GUELTIG_BIS: 400
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 469-sasbach/010
+ENTITÄT: fest
+BEZEICHNUNG: Sasbacher Winzerfest
+FACETTE: FREIZEIT
+QUELLE: https://www.gemeinde-sasbach.de/freizeit-erleben/events-feste/events-feste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: Mitte August
+  rhythmus: alle zwei Jahre
+  besonderheiten: Fassanstich, Live-Musik, Kinderprogramm, Traktorfahrten durch die Reben, offene Winzerhöfe
+  bedeutung_fuer_ort: Höhepunkt im Kalender, zieht zahlreiche Touristen an
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 469-sasbach/011
+ENTITÄT: fest
+BEZEICHNUNG: Jechtinger Herbstfest
+FACETTE: FREIZEIT
+QUELLE: https://www.gemeinde-sasbach.de/freizeit-erleben/events-feste/events-feste | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Jechtingen
+EIGENSCHAFTEN:
+  zeitpunkt: Oktober
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 469-sasbach/012
+ENTITÄT: fest
+BEZEICHNUNG: Zwiebelkuchenfest
+FACETTE: FREIZEIT
+QUELLE: https://www.gemeinde-sasbach.de/freizeit-erleben/events-feste/events-feste | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Leiselheim
+EIGENSCHAFTEN:
+  zeitpunkt: September
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 469-sasbach/013
+ENTITÄT: fest
+BEZEICHNUNG: Waldfest des Musikvereins
+FACETTE: FREIZEIT
+QUELLE: https://www.gemeinde-sasbach.de/freizeit-erleben/events-feste/events-feste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rhythmus: jährlich
+  besonderheiten: Musik, Tanz, Geselligkeit, typisches Festzeltflair unter alten Bäumen
+  veranstalter: Musikverein Sasbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 469-sasbach/014
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum Sasbach
+FACETTE: FREIZEIT
+QUELLE: https://www.gemeinde-sasbach.de/freizeit-erleben/kunst-kultur | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  traeger: Heimat- und Geschichtsverein Sasbach e.V.
+  unterkunft: denkmalgeschütztes Fachwerkhaus
+  inhalte: Alltagsgeschichte mit historischen Exponaten wie Fotos, Werkzeuge, Trachten und Haushaltsgegenstände, Dorf- und Handwerksgeschichte, alte Berufe, Brauchtum und Dorfentwicklung
+  beschreibung: kleines Heimatmuseum in liebevoll restauriertem Fachwerkhaus mit spannenden Einblick in regionale Geschichte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 469-sasbach/015
+ENTITÄT: badesee
+BEZEICHNUNG: Sasbacher Badesee
+FACETTE: FREIZEIT
+QUELLE: https://www.gemeinde-sasbach.de/freizeit-erleben/freizeit-natur-erleben/bademoeglichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flaeche: 11, einheit: Hektar
+  schwimmbereich: 2.2, einheit: Hektar
+  lage: Rheinauenwald nahe den Sportanlagen
+  erreichbarkeit: zu Fuß oder mit Fahrrad
+  infrastruktur: große Liegewiesen, Flachwasserzone für Kinder, Toiletten im Sommer
+  zugang: ganzjährig und jederzeit frei
+  wassergualitaet_kontrolle: regelmäßig
+  bedeutung_fuer_ort: naturnahes Badeerlebnis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 469-sasbach/016
+ENTITÄT: radweg
+BEZEICHNUNG: Badischer Weinradweg
+FACETTE: FREIZEIT
+QUELLE: https://www.gemeinde-sasbach.de/freizeit-erleben/aktiv-unterwegs/radwege | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 460, einheit: km
+  charakteristik: verbindet schönste Weinorte Badens
+  besonderheit: Radgenuss am Kaiserstuhl mit Weinbergen, Rheinauen und Vulkangestein
+  verlauf_region: von Sasbach über Endingen und Vogtsburg bis Ihringen
+  highlights: Gemeinden Sasbach, Endingen, Königschaffhausen, Burgen in Burkheim und Jechtingen, Kaiserstuhlpfad, Naturlehrpfade
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 469-sasbach/017
+ENTITÄT: radweg
+BEZEICHNUNG: Rheinradweg
+FACETTE: FREIZEIT
+QUELLE: https://www.gemeinde-sasbach.de/freizeit-erleben/aktiv-unterwegs/radwege | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verlauf: westlich von Sasbach in den Rheinauen
+  charakteristik: flach und naturnah
+  besonderheit: Abschnitt zwischen Sasbach und Burkheim mit Blick auf Burg Sponeck
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 469-sasbach/018
+ENTITÄT: radweg
+BEZEICHNUNG: Kaiserstuhl-Radwanderweg
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Sasbach_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  charakteristik: gut ausgebaut und beschildert
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 469-sasbach/019
+ENTITÄT: radweg
+BEZEICHNUNG: Oberrhein Römerradweg
+FACETTE: FREIZEIT
+QUELLE: ZEU­GEN | OpenStreetMap
+EIGENSCHAFTEN:
+  laenge: 200, einheit: km
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 469-sasbach/020
+ENTITÄT: wanderweg
+BEZEICHNUNG: Rheinaueweg
+FACETTE: FREIZEIT
+QUELLE: ZEU­GEN | OpenStreetMap
+EIGENSCHAFTEN:
+  laenge: 159, einheit: km
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 469-sasbach/021
+ENTITÄT: wanderweg
+BEZEICHNUNG: Badischer Jakobusweg (südlicher Teil)
+FACETTE: FREIZEIT
+QUELLE: ZEU­GEN | OpenStreetMap
+EIGENSCHAFTEN:
+  charakteristik: südlicher Teil des Badischen Jakobuswegs
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 469-sasbach/022
+ENTITÄT: berg
+BEZEICHNUNG: Kaiserstuhl
+FACETTE: LAGE
+QUELLE: https://www.gemeinde-sasbach.de/gemeinde-im-blick/geschichte-zahlen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typus: erloschener Vulkan
+  bodenqualitaet: vulkanisch, besonders fruchtbar
+  flora_fauna: Hotspot für seltene wärmeliebende Arten, über 20 Wildbienenarten und über 10 verschiedene Orchideenarten
+  vogelarten: Bienenfresser, Wiedehopf
+  bedeutung_fuer_ort: ideale Grundlage für Weinbau, prägt Landschaft und Freizeitwert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 469-sasbach/023
+ENTITÄT: berg
+BEZEICHNUNG: Lützelberg
+FACETTE: LAGE
+QUELLE: ZEU­GEN | OpenStreetMap
+EIGENSCHAFTEN:
+  beschreibung: Gipfel im Gemeindegebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 469-sasbach/024
+ENTITÄT: berg
+BEZEICHNUNG: Limberg
+FACETTE: LAGE
+QUELLE: ZEU­GEN | OpenStreetMap
+EIGENSCHAFTEN:
+  hoehe: 272, einheit: m
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 469-sasbach/025
+ENTITÄT: berg
+BEZEICHNUNG: Humberg
+FACETTE: LAGE
+QUELLE: ZEU­GEN | OpenStreetMap
+EIGENSCHAFTEN:
+  hoehe: 235, einheit: m
+IST_VERMUTUUM_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 469-sasbach/026
+ENTITÄT: berg
+BEZEICHNUNG: Eichert
+FACETTE: LAGE
+QUELLE: ZEU­GEN | OpenStreetMap
+EIGENSCHAFTEN:
+  hoehe: 267, einheit: m
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 469-sasbach/027
+ENTITÄT: aussichtspunkt
+BEZEICHNUNG: Kaiserstuhlblick
+FACETTE: FREIZEIT
+QUELLE: ZEU­GEN | OpenStreetMap
+EIGENSCHAFTEN:
+  bezeichnung_alternative: Aussichtspunkt Limburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 469-sasbach/028
+ENTITÄT: bruecke
+BEZEICHNUNG: Rheinbrücke Sasbach-Marckolsheim
+FACETTE: INFRA
+QUELLE: https://www.gemeinde-sasbach.de/gemeinde-im-blick/geschichte-zahlen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 268, einheit: m
+  eroeffnungsdatum: 1984-10-04
+  funktion: Grenzübergang nach Frankreich
+  bedeutung_fuer_ort: historisch bedeutender Übergangspunkt nach Frankreich
+GUELTIG_AB: 1984
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 469-sasbach/029
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Marckolsheim
+FACETTE: POLITIK
+QUELLE: https://www.gemeinde-sasbach.de/gemeinde-im-blick/geschichte-zahlen/unsere-gemeindefreundschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: Elsass
+  typ: Gemeindefreundschaft
+  beschreibung: Partnergemeinde, mit der Brücken gebaut werden und Gemeinschaft gelebt wird
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 469-sasbach/030
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Sasbach in der Ortenau
+FACETTE: POLITIK
+QUELLE: https://www.gemeinde-sasbach.de/gemeinde-im-blick/geschichte-zahlen/unsere-gemeindefreundschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Deutschland
+  region: Ortenau
+  typ: Gemeindefreundschaft
+  beziehung: freundschaftliche Beziehung zur Unterscheidung von beiden Orten gleichen Namens
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 469-sasbach/031
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Katholische Kirchengemeinde am Litzelberg
+FACETTE: ALLTAG
+QUELLE: https://www.gemeinde-sasbach.de/gemeindeleben/kirchen-glaube | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+  ortsteile: Sasbach, Jechtingen
+  grund_konfession: Zugehörigkeit zum katholischen Vorderösterreich in der Reformationszeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 469-sasbach/032
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Königschaffhausen-Leiselheim
+FACETTE: ALLTAG
+QUELLE: https://www.gemeinde-sasbach.de/gemeindeleben/kirchen-glaube | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Leiselheim
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  grund_konfession: Zugehörigkeit zur evangelischen Markgrafschaft Baden-Durlach in der Reformationszeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 469-sasbach/033
+ENTITÄT: verein
+BEZEICHNUNG: Musikverein Sasbach e.V.
+FACETTE: FREIZEIT
+QUELLE: https://www.gemeinde-sasbach.de/freizeit-erleben/vereine-gemeinschaft/seite-1/suche-none | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Musikverein
+  veranstaltungsort: Waldfestplatz
+  ueberregionale_bekanntheit: ja
+  veranstaltung: jährliches Waldfest
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 469-sasbach/034
+ENTITÄT: verein
+BEZEICHNUNG: Anglerfreunde Sasbach e.V.
+FACETTE: FREIZEIT
+QUELLE: https://www.gemeinde-sasbach.de/freizeit-erleben/vereine-gemeinschaft/seite-1/suche-none | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Angelverein
+  beschreibung: erinnert an Zeiten der Fischerdorf-Vergangenheit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 469-sasbach/035
+ENTITÄT: weingut
+BEZEICHNUNG: Weingut Wiedemann
+FACETTE: WIRTSCHAFT
+QUELLE: ZEU­GEN | OpenStreetMap
+EIGENSCHAFTEN:
+  typ: Weingut
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 469-sasbach/036
+ENTITÄT: weingut
+BEZEICHNUNG: Weingut Grotz
+FACETTE: WIRTSCHAFT
+QUELLE: ZEU­GEN | OpenStreetMap
+EIGENSCHAFTEN:
+  typ: Weingut
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 469-sasbach/037
+ENTITÄT: weingut
+BEZEICHNUNG: Weingut Birmelin
+FACETTE: WIRTSCHAFT
+QUELLE: ZEU­GEN | OpenStreetMap
+EIGENSCHAFTEN:
+  typ: Weingut
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 469-sasbach/038
+ENTITÄT: weingut
+BEZEICHNUNG: Winzerhof Mattmüller
+FACETTE: WIRTSCHAFT
+QUELLE: ZEU­GEN | OpenStreetMap
+EIGENSCHAFTEN:
+  typ: Winzerhof
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 469-sasbach/039
+ENTITÄT: weingut
+BEZEICHNUNG: Winzerhof Brand
+FACETTE: WIRTSCHAFT
+QUELLE: ZEU­GEN | OpenStreetMap
+EIGENSCHAFTEN:
+  typ: Winzerhof
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 469-sasbach/040
+ENTITÄT: weingut
+BEZEICHNUNG: Weingut Helde
+FACETTE: WIRTSCHAFT
+QUELLE: ZEU­GEN | OpenStreetMap
+EIGENSCHAFTEN:
+  typ: Weingut
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 469-sasbach/041
+ENTITÄT: weingut
+BEZEICHNUNG: Weingut Rabenhof
+FACETTE: WIRTSCHAFT
+QUELLE: ZEU­GEN | OpenStreetMap
+EIGENSCHAFTEN:
+  typ: Weingut
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 469-sasbach/042
+ENTITÄT: winzerkeller
+BEZEICHNUNG: Sasbacher Winzerkeller e.G.
+FACETTE: WIRTSCHAFT
+QUELLE: ZEU­GEN | OpenStreetMap
+EIGENSCHAFTEN:
+  typ: Winzergenossenschaft
+  bedeutung_fuer_ort: Zentrale des Weinbaus in Sasbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 469-sasbach/043
+ENTITÄT: bahnhof
+BEZEICHNUNG: Sasbach am Kaiserstuhl
+FACETTE: INFRA
+QUELLE: ZEU­GEN | OpenStreetMap
+EIGENSCHAFTEN:
+  linie: Kaiserstuhlbahn
+  elektrifizierung: 2017-2021
+  betreiber: Breisgau-S-Bahn
+  verbindung: S5 verbindet Bahnhof Riegel-Malterdingen mit Breisach am Rhein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 469-sasbach/044
+ENTITÄT: bahnhof
+BEZEICHNUNG: Jechtingen
+FACETTE: INFRA
+QUELLE: ZEU­GEN | OpenStreetMap
+EIGENSCHAFTEN:
+  linie: Kaiserstuhlbahn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 469-sasbach/045
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Rudolf von Habsburg
+FACETTE: GESCHICHTE
+QUELLE: https://www.gemeinde-sasbach.de/gemeinde-im-blick/geschichte-zahlen/histoire | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Kaiser
+  rolle: römisch-deutscher König, Herzog von Österreich, Graf von Habsburg
+  geburt: 1218
+  geburt_ort: Limburg bei Sasbach
+  geburt_datum: 1214, genauigkeit: vermutlich
+  tod: 1291
+  bedeutung_fuer_ort: auf der Limburg geboren, verbunden mit Kaiserstuhl-Region
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1214
+GUELTIG_BIS: 1291
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 469-sasbach/046
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Johann Baptist Kirner
+FACETTE: GESCHICHTE
+QUELLE: https://www.gemeinde-sasbach.de/gemeinde-im-blick/geschichte-zahlen/zahlen-daten-fakten | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Jechtingen
+EIGENSCHAFTEN:
+  beruf: Maler
+  epoche: Biedermeierzeit
+  geburt: 1806
+  tod: 1866
+  geburt_ort: Jechtingen
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1806
+GUELTIG_BIS: 1866
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 469-sasbach/047
+ENTITÄT: ereignis
+BEZEICHNUNG: Rheinregulierung durch Johann Gottfried Tulla
+FACETTE: GESCHICHTE
+QUELLE: https://www.gemeinde-sasbach.de/gemeinde-im-blick/geschichte-zahlen/historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1817-1876
+  region: Oberrhein zwischen Basel und Mannheim
+  folgen_fuer_sasbach: Wandel vom Fischerdorf zum Weinort durch Trockenlegung der Auen, Fischerei als Haupterwerb stark zurückgegangen
+  auswirkung_allgemein: Fluss wurde begradigt und berechenbarer, neue landwirtschaftliche Flächen entstanden
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1817
+GUELTIG_BIS: 1876
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 469-sasbach/048
+ENTITÄT: ereignis
+BEZEICHNUNG: Zusammenlegung der Gemeinden Sasbach, Jechtingen und Leiselheim
+FACETTE: POLITIK
+QUELLE: https://www.gemeinde-sasbach.de/gemeinde-im-blick/geschichte-zahlen/historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1970-1975
+  kontext: großeBaden-Württemberg Verwaltungsreform
+  ziel: kleine Orte zu leistungsfähigeren Einheiten zusammenfassen, Verwaltungskosten senken, modernere Infrastruktur aufbauen
+  leiselheim_eingemeindung: 1974-04-01
+  jechtingen_eingemeindung: 1975-01-01
+GUELTIG_AB: 1970
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 469-sasbach/049
+ENTITÄT: bugermeister
+BEZEICHNUNG: Nikolas Kopp
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Sasbach_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  amtsantritt: 2024-05-01
+  wahl_prozentsatz: 63
+  wahltermin: 2024-03-03
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 469-sasbach/050
+ENTITÄT: bugermeister
+BEZEICHNUNG: Jürgen Scheiding
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Sasbach_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit_von: 2001
+  amtszeit_bis: 2024
+GUELTIG_AB: 2001
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 469-sasbach/051
+ENTITÄT: klima
+FACETTE: LAGE
+QUELLE: https://www.gemeinde-sasbach.de/gemeinde-im-blick/geschichte-zahlen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sonnentage_im_jahr: 2000, einheit: h, genauigkeit: "über"
+  charakteristik: sonnenreichster Orte Deutschlands
+  auswirkung: ideale Bedingungen für Weinbau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 469-sasbach/052
+ENTITÄT: gewerbegebiet
+BEZEICHNUNG: Gewerbegebiet Nord
+FACETTE: INFRA
+QUELLE: https://www.gemeinde-sasbach.de/gemeinde-im-blick/wirtschaft-unternehmen/gewerbegebiet | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flaeche: 4.77, einheit: "ha", genauigkeit: ca.
+  lage: nördlicher Ortseingang von Sasbach westlich der L104
+  bebauungsplanbeschluss: 2025-07-02
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

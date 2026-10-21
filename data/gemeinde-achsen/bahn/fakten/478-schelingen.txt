@@ -1,0 +1,123 @@
+ID: 478-schelingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Schelingen
+FACETTE: LAGE | GESCHICHTE | ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Schelingen | Wikipedia
+EIGENSCHAFTEN:
+  ort_typ: Winzerdorf
+  einwohnerzahl: 340
+  genauigkeit: ca.
+  lage: Kaiserstuhl, südwestliches Deutschland, zentrum des Kaiserstuhls
+  lage_relativ_vogtsburg: östlichste Ortschaft von Vogtsburg
+  nachbarorte: Oberbergen (westlich)
+  ersterwähnung_jahr: 990
+  namenherkunft: Scaleia (zu Schel = Hengst)
+  geschichte_anlass_ersterwähnung: Kaiser Otto III. schenkt das Gut Scaleia (königlicher Fiskus) dem Hochstift Worms
+  eingemeindung_datum: 1. Januar 1975
+  eingemeindung_zu: Stadt Oberrotweil (später Vogtsburg im Kaiserstuhl)
+  wirtschaft_hauptsaechlich: Weinbau
+  rebflaeche: 61
+  rebflaeche_einheit: ha
+  genauigkeit_rebflaeche: ca.
+  charakter: landwirtschaftlich geprägt
+  geschichte_wk1_erlebnis: Menschen trotz Möglichkeiten als Selbstversorger mit Mangel und Hunger konfrontiert, Erzeugnisse zur Versorgung Freiburgs herangezogen
+GUELTIG_AB: 990
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 478-schelingen/002
+ENTITÄT: kirche
+BEZEICHNUNG: St. Gangolf
+FACETTE: GESCHICHTE | FREIZEIT
+ORTSTEIL_BEZUG: Schelingen
+QUELLE: https://de.wikipedia.org/wiki/Schelingen | Wikipedia
+EIGENSCHAFTEN:
+  religion: katholisch
+  baujahr: 1825
+  architekturstil: Weinbrenner-Stil
+  architekt: Christoph Arnold
+  architekt_ausbildung: Schüler Friedrich Weinbrenners
+  orgel_gehaeuse_jahr: 1864
+  orgel_gehaeuse_erbauer: Eduard Stadtmüller
+  renovierung_aussen: 1995
+GUELTIG_AB: 1825
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 478-schelingen/003
+ENTITÄT: berg
+BEZEICHNUNG: Badberg
+FACETTE: LAGE | FREIZEIT
+ORTSTEIL_BEZUG: Schelingen
+QUELLE: https://de.wikipedia.org/wiki/Schelingen | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: 435
+  hoehe_einheit: m
+  lage_relativ: südlich des Dorfes
+  form: rundkuppig
+  vegetationsbedeckung: völlig mit Magerrasen bedeckt
+  schutzgebiet_status: Naturschutzgebiet
+  schutzgebiet_flaeche: 42
+  schutzgebiet_flaeche_einheit: ha
+  flora_fauna_besonderheit: in Deutschland äußerst seltene Flora und Fauna
+  superlativ: seltene Flora und Fauna
+  bedeutung_fuer_ort: Naturschutz, Artenvielfalt, Landschaftsprägende Erhebung
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 478-schelingen/004
+ENTITÄT: aussichtspunkt
+BEZEICHNUNG: Schelinger Höhe
+FACETTE: FREIZEIT | LAGE
+ORTSTEIL_BEZUG: Schelingen
+QUELLE: https://www.vogtsburg.de/de-de/tourismus/winzerorte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Panorama entfaltet sich beim Erklimmen; Aussicht wird als unbeschreiblich charakterisiert
+  bedeutung_fuer_ort: Ausblick, Ausflugsziel, Wahrzeichen
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 478-schelingen/005
+ENTITÄT: weideland
+BEZEICHNUNG: Schelinger Viehweide
+FACETTE: LAGE | ALLTAG | FREIZEIT
+ORTSTEIL_BEZUG: Schelingen
+QUELLE: https://www.vogtsburg.de/de-de/tourismus/natur-urlaub-aktiv/traumhafte-aussicht-en | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flaeche: 20
+  flaeche_einheit: ha
+  genauigkeit: ca.
+  tierart: Rinder
+  superlativ: größte Rinderweide im Kaiserstuhl
+  betrieb_typ: Familienbetrieb
+  betrieb_seit: 1985
+  bewirtschaftung: im Einklang mit der Natur und der alten Kulturlandschaft
+  lage_relativ: zwischen Oberbergen und Schelingen
+  wanderweg_beschaffenheit: markiert und eingezäunt, steil, landschaftlich reizvoll
+  zusatz_strukturen: Hofgebäude am Wanderweg
+  bedeutung_fuer_ort: Erholung, Artenvielfalt, Naturschönheit, Wanderziel
+GUELTIG_AB: 1985
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 478-schelingen/006
+ENTITÄT: gaststaette
+BEZEICHNUNG: Landgasthof Krone
+FACETTE: ALLTAG | FREIZEIT
+ORTSTEIL_BEZUG: Schelingen
+QUELLE: https://www.vogtsburg.de/de-de/tourismus/natur-urlaub-aktiv/freizeitangebote-erlebnisse/erlebnisreiche-touren | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Heinrich-Kling-Str. 1, Vogtsburg-Schelingen
+  gastststaette_typ: Landgasthof
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

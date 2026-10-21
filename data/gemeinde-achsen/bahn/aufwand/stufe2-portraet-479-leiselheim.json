@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2-portraet",
+ "ort": "479-leiselheim",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 22086,
+ "token_ein": 425895,
+ "token_aus": 11360,
+ "usage": {
+  "input_tokens": 22,
+  "cache_creation_input_tokens": 40942,
+  "cache_read_input_tokens": 384931,
+  "output_tokens": 11360,
+  "output_tokens_details": {
+   "thinking_tokens": 4508
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 40942,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 6998,
+    "cache_read_input_tokens": 45635,
+    "cache_creation_input_tokens": 2209,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 2209
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.9077082,
+ "sekunden": 171,
+ "fehler": false,
+ "zeit": "2026-10-21T03:09:40"
+}

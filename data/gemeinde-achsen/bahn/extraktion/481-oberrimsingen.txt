@@ -1,0 +1,500 @@
+ENTITÄT: ort
+BEZEICHNUNG: Oberrimsingen
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Oberrimsingen | Wikipedia
+EIGENSCHAFTEN:
+  liegt_am: Tuniberg (westlicher Hang)
+  lage: Niederterrasse der Rheinebene
+  gemarkung_groesse: 906 ha
+  hoehe_min: 193 m NN
+  hoehe_max: 292 m NN
+  entfernung_breisach: 10 km
+  entfernung_freiburg: 15 km
+  zugehoerigkeit: Stadtteil von Breisach am Rhein
+  charakteristika: Lebenswerter Weinort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Oberrimsingen
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Oberrimsingen | Wikipedia
+EIGENSCHAFTEN:
+  ersturkundliche_erwaehnung: 819
+  erwaehnung_kontext: Schenkungsurkunde an Kloster Lorsch
+  erstmalige_eigenstaendige_erwaehnung: 1291
+  trennung_niederrimsingen: um 1000
+  genauigkeit_trennung: vermutlich
+  besiedlung_altsteinzeit: ca. 10.000 v.Chr.
+  besiedlung_altsteinzeit_form: Rentierjäger in Lößhöhlen
+  besiedlung_lage_altsteinzeit: unterhalb Ehrentrudiskapelle
+  besiedlung_jungsteinzeit: 4.000-1.800 v.Chr.
+  besiedlung_jungsteinzeit_form: Ackerbau und Viehzucht
+  herrschaft_10_jh: Edelfreie von Rimsingen
+  herrschaft_1430: Herren von Staufen
+  herrschaft_1602: Haus Habsburg (wenige Jahre)
+  herrschaft_1607: Kloster Günterstal
+  herrschaft_1621: Herren von Falkenstein (später Freiherren ab 1708)
+  herrschaft_1805: Großherzogtum Baden
+  status_1805: selbständige Gemeinde
+  status_1924: Bezirksamt Breisach
+  status_1973: Landkreis Breisgau-Hochschwarzwald (ab Januar)
+  status_1973_alt: Landkreis Freiburg
+  eingemeindung_breisach: 1. Januar 1975
+  ereignis_bauernkrieg: 1524/25 mit Kaiserstühler Haufen
+  ereignis_bauernkrieg_detail: plünderten Grüningen-Kapelle, belagerten Freiburg
+  ereignis_30_jaehriger_krieg: 1632/33 Plünderungen durch Schweden
+  ereignis_30_jaehriger_krieg_detail: Kapelle, Kirche, Pfarrhof in Brand gesteckt
+  ereignis_kriegsende_30jkrieg: vollständig zerstört und ausgestorben
+  ereignis_1833: erste Dampfschiffe auf Rhein
+  ereignis_1833_detail: Rheinkorrektion Tullas brachte Arbeit und Verdienst
+  ereignis_1945: Fliegerangriff im März
+  ereignis_1945_detail: mehrere Wohnhäuser, Scheunen, Stallungen zerstört, ca. 60 Anwesen beschädigt
+GUELTIG_AB: 819
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Oberrimsingen
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Oberrimsingen | Wikipedia
+EIGENSCHAFTEN:
+  bevoelkerung_1825: 825 Einwohner
+  bevoelkerung_1905: 657 Einwohner
+  grund_bevoelkerungsrueckgang: Abwanderungen in Städte und Auswanderungen nach Amerika
+  wirtschaft_bis_1945: Landwirtschaft (Ackerbau, Viehzucht, Weinbau)
+  wirtschaft_nach_1945: Kies- und Schotterwerke
+  arbeitsmarkt_modern: ca. 15 km zu Freiburg, viele Auspendler
+  infrastruktur_1901: Rathaus erbaut
+  infrastruktur_1911: elektrischer Strom
+  infrastruktur_1912: Wasserleitung
+  infrastruktur_1927: Kraftpostlinie Freiburg-Oberrimsingen (1. April)
+  infrastruktur_1927_details: über Opfingen, bis Ende WWII bestehend
+  infrastruktur_schule_1770: vorhanden
+  infrastruktur_schule_1853: teilweise durch Brand zerstört
+  infrastruktur_schule_1854: neu erbaut
+  infrastruktur_schule_1860: neues Schulgebäude
+  infrastruktur_schule_1868: aufgestockt (starke Zunahme Schulkinder)
+  infrastruktur_schule_1960_61: Neubau mit vier Klassenzimmern
+  infrastruktur_schule_1960_61_architekt: Alfred Ruch
+  infrastruktur_schule_reliefs: Sepp Jakob (Freiburger Münsterbaumeister)
+  reliefs_thema: Leben des heiligen Ulrich
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Rimsingen
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Oberrimsingen
+QUELLE: https://de.wikipedia.org/wiki/Oberrimsingen | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1773-1776
+  ursprung: Gelände des ehemaligen Falkensteinschen Gutshofes
+  lage: westlicher Ortsrand
+  auftraggeber: Franz Anton Marquard von Falkenstein (1744-1800)
+  architekt: Franz Anton Bagnato (1773-1810, Deutschordensbaudirektor)
+  baustil: Frühklassizismus
+  einfluesse: Franz Anton Bagnato, Pierre Michel d'Ixnard
+  vorgaenger: Gutshof, Teile Ökonomiegebäude von 1626 noch erhalten
+  herrschaft_1872: Grafen von Helmstatt
+  herrschaft_1957: Mathilde Kranke Freiin von Gleichenstein (Bad Krozingen)
+  nutzung_1946: Christophorus-Jugendwerk (Caritasverband Erzdiözese Freiburg)
+  nutzung_1946_details: Lehrwerkstätten für praktische Berufe, Flachbauten für Schule und Internat
+  nutzung_1977_1979: Galerie Kröner (französischer Impressionismus, moderne deutsche Malerei)
+  eigentum_1979: Stadt Breisach (erworben)
+  eigentum_heute: Privatbesitz
+  ausstattung_wappengiebel_kuenstler: Joseph Hör (1732-1785)
+  ausstattung_wappengiebel_lage: Gartenseite
+  ausstattung_innen: Supraporten mit Pariser Bildtapeten um 1800
+  ausstattung_innen_motiv1: Landschaftsmaler Claude Joseph Vernet
+  ausstattung_innen_motiv2: Stilleben von Thomas Kitzinger (1986)
+GUELTIG_AB: 1773
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Rimsingen
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Oberrimsingen
+QUELLE: https://www.tourismus.breisach.de/attraktion/schloss-rimsingen-41e8f532bb | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nutzung: Kleinkunstbühne mit regelmäßigen Aufführungen
+  nutzung_kunstgalerie: vorhanden
+  veranstaltungen: Martinimarkt "Markt der Schönen Dinge" (jährlich)
+  veranstaltungen_teilnehmer: Kunsthandwerker und überregionale Gewerbetreibende
+  bedeutung_fuer_ort: Anziehungspunkt für Kultur und Märkte, Wahrzeichen
+GUELTIG_AB: 1985
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Stephanuskirche
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Oberrimsingen
+QUELLE: https://de.wikipedia.org/wiki/Oberrimsingen | Wikipedia
+EIGENSCHAFTEN:
+  ursprung: 11. Jahrhundert
+  ursprung_kontext: urkundlich als Eigenkirche der Herren von Rimsingen erwähnt
+  eigenschaft_vorname_frueh: Kirche Unserer Lieben Frau (16.-18. Jh.)
+  eigenschaft_vorname_neu: St. Stephanuskirche
+  eigenschaft_stil: gotisch-romanisch
+  neubau_bauzeit: 1737
+  neubau_besonderheit: mit altem romanischen Turm errichtet
+  erneuerung_bauzeit: 1737-1743
+  erneuerung_architekt: Johann Greber (in Breisach lebender Vorarlberger Baumeister)
+  erneuerung_kontext: Mitarbeiter des berühmten Barock-Architekten Peter Thumb
+  kirchensatz_1329: Herren von Staufen
+  kirchensatz_1360_70: Johanniter
+  status_nach_1584: Filiale von Gündlingen (Pestjahr 1584)
+  eigenstaendige_pfarrei_1801: genehmigt
+  eigenstaendige_pfarrei_1805: eingezogen
+  pfarrhausbau_1810: Neubau
+  ereignis_1945: Pfarrer Otto Wachenheim bei Bombardierung getötet (3. März)
+  kunstwerk_traeublenadonna: um 1520
+  kunstwerk_traeublenadonna_geschichte: aus Vorgängerkirche stammend, zeitweise Beinhäuschen, 1943 in Privatkapelle Dienger-Bohrer, 1953 aufgestellt
+  kunstwerk_vergleich: Gottenheim Pfarrkirche besitzt stilistische Schwesterfigur
+  renovierung_1977: Wandkruzifix mit Maria- und Johannesstatuetten sowie Evangelistenstatuetten von Josef Schäfer
+  orgel_1996: Vleugels-Orgel mit 16 Registern
+  renovierung_2014_2015: Kircheninnenraum grundlegend renoviert und geweiht
+  renovierung_2014_2015_weiher: Erzbischof Stephan Burger
+  ausstattung_neuzeit_altar: Altar, Ambo, Taufstein aus Jurakalkstein
+  ausstattung_neuzeit_kreuz: markantes Taukreuz aus Tombak und Glas über Hochaltar
+  ausstattung_neuzeit_figuren: Jakobusstatue an Nordseite, Opferkerzenständer an Südseite
+GUELTIG_AB: 11
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Christophorus-Jugendwerk
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Oberrimsingen
+QUELLE: https://de.wikipedia.org/wiki/Oberrimsingen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1946
+  gruender: Erich Kiehn
+  gruendungstraeger: Caritasverband der Erzdiözese Freiburg
+  standort: Schloss Rimsingen
+  einrichtungen: Wohngruppen, Schul- und Ausbildungsmöglichkeiten
+  einrichtungen_detail: Lehrwerkstätten für praktische Berufe
+  infrastruktur: moderne ein- und zweigeschossige Flachbauten für Schule und Internat
+  bedeutung_fuer_ort: wesentlicher Bevölkerungszuwachs durch Ansiedlung
+GUELTIG_AB: 1946
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Christophorus-Jugendwerk
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Oberrimsingen
+QUELLE: https://www.tourismus.breisach.de/vielfalt/breisacher-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Akademie / Jugendwerk
+  beschreibung: Jugendwerk 1
+GUELTIG_AB: 1946
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Grezhausen
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Oberrimsingen
+QUELLE: https://www.tourismus.breisach.de/ort/breisach-oberrimsingen-mit-grezhausen-6bd33b3f0c | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1147
+  ersterwähnung_kontext: päpstliche Bulle
+  hof_name: Greteshusen
+  hof_herr_1147: Priorat St. Ulrich
+  hof_verkauf_1245: Zisterzienserinnenkloster Günterstal bei Freiburg
+  grundherrschaft_bis: 1805
+  vier_hoefte_namen: St. Agatha, St. Gallus, St. Bernhard, St. Nikolaus
+  vier_hoefte_erwaehnung: 1506
+  vier_hoefte_verkauf: 1816 an jeweilige Klostermeier oder Pächter
+  eingemeindung_oberrimsingen: 1936
+  bedeutung_fuer_ort: Erweiterung des Ortsteils Oberrimsingen
+GUELTIG_AB: 1147
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Bernhardskapelle
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Grezhausen
+QUELLE: https://www.tourismus.breisach.de/ort/breisach-oberrimsingen-mit-grezhausen-6bd33b3f0c | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  weihe: 1503
+  weihe_zeit: Frühe Neuzeit
+  erneuerung: 18. Jahrhundert
+  sehenswert: wahr
+GUELTIG_AB: 1503
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Taubenturm
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Grezhausen
+QUELLE: https://www.tourismus.breisach.de/ort/breisach-oberrimsingen-mit-grezhausen-6bd33b3f0c | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1754
+  besonderheit: Ortsarrest im Erdgeschoss
+  sehenswert: wahr
+GUELTIG_AB: 1754
+GUELTIG_BIS: 1862
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Jakobus-Kapelle Grüningen
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Oberrimsingen
+QUELLE: https://www.tourismus.breisach.de/ort/breisach-oberrimsingen-mit-grezhausen-6bd33b3f0c | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nutzung: Friedhof seit 1843
+  nutzung_detail: Oberrimsinger Friedhof liegt rund um die Kapelle
+  vorgaenger: Nachfolgerbau eines Cluniazenserpriorats
+  vorgaenger_verlegung: 1072 von Rimsingen hierher verlegt
+  besonderheit_1078_1087: wirkte Hl. Ulrich von Regensburg
+  besonderheit_1078_1087_nachher: danach im Kloster Wilmarszell / St. Ulrich im Möhlintal
+GUELTIG_AB: 1072
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Grüningen
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Oberrimsingen
+QUELLE: https://www.tourismus.breisach.de/ort/breisach-oberrimsingen-mit-grezhausen-6bd33b3f0c | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 763
+  ersturkundlich: wahr
+  besiedlung: Siedlungsspuren bis ca. 5.000 v.Chr.
+  untergegangen: wohl im 16. Jahrhundert
+  dorfkirche_umwandlung: zur Kapelle mit Eremitenklause
+  eremitenklause_bis: 1862
+  kloster_verlegung_von: Rimsingen
+  kloster_verlegung_in: Grüningen
+  kloster_verlegung_jahr: 1072
+  kloster_art: Cluniazenserpriorat
+GUELTIG_AB: 763
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: hofgut
+BEZEICHNUNG: Rothaus
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Oberrimsingen
+QUELLE: https://de.wikipedia.org/wiki/Oberrimsingen | Wikipedia
+EIGENSCHAFTEN:
+  erwaehnung: 1472
+  erwaehnung_kontext: in Urkunde erwähnt
+  superlativ: noch heute bestehendes Hofgut
+  eigentuemer_1472: Breisacher Frauenkloster Marienau
+  eigentuemer_nach_1505: Stadt Breisach
+  eigentuemer_dann: Herren von Falkenstein
+  ausbau_fruehjahrhundert_18: Litschgi aus Krozingen
+  ausbau_fruehjahrhundert_18_gebaude: Wohnhaus mit Metzgerei und Gastwirtschaft, mehrere Wirtschaftsgebäude
+  ausbau_anlage: Floßkanal längs der Möhlin von Hausen nach Breisach
+  eigentuemer_bis_1870er: Freiherren von Falkenstein
+  eigentuemer_1908: Christian Lohrer verkaufte an Graf Siegmund Theodor von Berckheim (Weinheim)
+  eigentuemer_1931: Badischer Staat (käuflich erworben)
+  verpachtung: an Domänenverwalter
+  ereignis_1954: Brand
+  wiederaufbau_1954: neue Wirtschaftsgebäude entstanden
+GUELTIG_AB: 1472
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Burgunderpfad
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Oberrimsingen
+QUELLE: https://www.tourismus.breisach.de/tour/burgunderpfad-faf1af8469 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 26.5 km
+  dauer: 7:15 h
+  aufstieg: 200 m
+  abstieg: 210 m
+  hoechster_punkt: 293 hm
+  tiefster_punkt: 189 hm
+  schwierigkeit: mittel
+  landschaft: 4
+  erlebnis: 3
+  charakter: Natur- und Reblandschaft des Tunibergs
+  themeninfo: Thementafeln zu verschiedenen Rebsorten
+  besonderheiten: aussichtsreich, geologische Highlights, botanische Highlights, kulturelle Highlights, faunistische Highlights
+  besonderheit_details: Ausblicke auf Kaiserstuhl, Schwarzwald, Vogesen, Rheinebene
+  bedeutung_fuer_ort: bedeutender Wanderweg durch Tuniberggebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: sporthalle
+BEZEICHNUNG: Tuniberghalle Oberrimsingen
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Oberrimsingen
+QUELLE: https://stadt.breisach.de/de/kultur_und_freizeit/hallen/tuniberghalle_oberrimsingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Am Sportplatz 1, 79206 Breisach-Oberrimsingen
+  telefon: 07664/2574
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Erich Kiehn
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Oberrimsingen
+QUELLE: https://de.wikipedia.org/wiki/Oberrimsingen | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1913-2008
+  aktion_jahr: 1946
+  aktion: Gründung des Christophorus-Jugendwerks
+  aktion_ort: Schloss Rimsingen
+  ehrentitel: Ehrenbürger der Stadt Breisach
+  bedeutung_fuer_ort: Gründer des prägenden Jugendwerkes
+GUELTIG_AB: 1913
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: heiliger
+BEZEICHNUNG: Hl. Ulrich von Regensburg
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Oberrimsingen
+QUELLE: https://www.tourismus.breisach.de/ort/breisach-oberrimsingen-mit-grezhausen-6bd33b3f0c | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wirktaetigkeit_jahre: 1078-1087
+  wirktaetigkeit_ort: Grüningen
+  wirktaetigkeit_danach: Kloster Wilmarszell / St. Ulrich im Möhlintal
+GUELTIG_AB: 1078
+GUELTIG_BIS: 1087
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ulrich von Zell
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Oberrimsingen
+QUELLE: https://de.wikipedia.org/wiki/Oberrimsingen | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: ca. 1029-1093
+  status: Benediktinermönch
+  wirktaetigkeit: 10 Jahre in Grüningen
+GUELTIG_AB: 1029
+GUELTIG_BIS: 1093
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: herrschaft
+BEZEICHNUNG: Herren von Staufen
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Oberrimsingen
+QUELLE: https://www.tourismus.breisach.de/ort/breisach-oberrimsingen-mit-grezhausen-6bd33b3f0c | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herrschaftszeit: 15. Jahrhundert (um 1430 bis 1602)
+  herrschaftszeit_genauigkeit_start: Ersterwähnung 1430
+  herrschaftszeit_genauigkeit_ende: Aussterben 1602
+  herrschaftsort: Oberrimsingen
+  eigentuemer_gutshof_1492: Hofgut Rothaus (noch heute bestehend)
+GUELTIG_AB: 1430
+GUELTIG_BIS: 1602
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: herrschaft
+BEZEICHNUNG: Freiherren von Falkenstein
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Oberrimsingen
+QUELLE: https://de.wikipedia.org/wiki/Oberrimsingen | Wikipedia
+EIGENSCHAFTEN:
+  herrschaftszeit: 1621-1872
+  freiherrentitel_ab: 1708
+  erwerb_methode: Kauf
+  erwerb_jahr: 1621
+  erwerb_mit: Hausen an der Möhlin
+  vorbesitzer: Kloster Günterstal
+  nachbesitzer: Grafen von Helmstatt (1872)
+  gutshof_ausbauerung: 1773-1776 zu Schloss (Schloss Rimsingen)
+GUELTIG_AB: 1621
+GUELTIG_BIS: 1872
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Cluniazenserpriorat
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Oberrimsingen (später Grüningen)
+QUELLE: https://www.tourismus.breisach.de/ort/breisach-oberrimsingen-mit-grezhausen-6bd33b3f0c | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1072
+  gruender: Üsenberger Hesso II.
+  gruender_herkunft: Reformkloster Cluny (Burgundischen)
+  prioren: Mönche unter Gerold (erster Prior)
+  verlegung_jahr: wenige Jahre nach 1072
+  verlegung_von: Oberrimsingen (Tuniberg)
+  verlegung_nach: Grüningen (heute verschwunden)
+  verlegung_grund: Raumgründe (Vermutung aus Text)
+GUELTIG_AB: 1072
+GUELTIG_BIS: 16
+IST_VERMUTISCH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: bergform
+BEZEICHNUNG: Tuniberg
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Oberrimsingen
+QUELLE: https://www.tourismus.breisach.de/vielfalt/breisacher-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_oberrimsingen: am Fuße
+  charakteristika: attraktives Gebiet für Spaziergänger, Wanderer, Radfahrer
+  ausblicke: Kaiserstuhl, Schwarzwald, Rhein, Vogesen
+  nutzung_weinbau: Rebberge oben auf Tuniberghöhen
+  bedeutung_fuer_ort: prägender Landschaftsraum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88

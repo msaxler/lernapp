@@ -173371,202 +173371,78 @@
 },
 "401-bahlingen/001": {
 "entitaet": "ort",
-"bezeichnung": "Bahlingen",
+"bezeichnung": "Bahlingen am Kaiserstuhl",
 "eigenschaften": [
-"alemannische_sippensiedlung_entstehung_zeitraum",
+"alemannische_sippensiedlung_entstehung",
 "erste_urkundliche_erwahnung",
+"gemarkungsflaeche_ha",
 "genauigkeit",
-"namensherkunft"
+"gueltig_ab_zusatz",
+"klima",
+"lage_geografisch",
+"land",
+"landkreis",
+"namensherkunft",
+"reformation",
+"weltkriege_schaeden",
+"zerstoerung_dreissigjähriger_krieg",
+"zerstoerung_kriege_ludwigs_xiv",
+"zugehoerig_markgrafschaft_baden",
+"zusatz_kaiserstuhl_seit"
 ],
 "berichtigungen": 0
 },
 "401-bahlingen/002": {
-"entitaet": "ort",
-"bezeichnung": "Bahlingen",
+"entitaet": "wohnplatz",
+"bezeichnung": "Silberbrunnen",
 "eigenschaften": [
-"konfession_reformation",
-"zugehoerigkeit_markgrafschaft_baden"
+"gehoert_zu_gemeinde"
 ],
 "berichtigungen": 0
 },
 "401-bahlingen/003": {
-"entitaet": "ort",
-"bezeichnung": "Bahlingen",
+"entitaet": "bevölkerung",
+"bezeichnung": "bevölkerung",
 "eigenschaften": [
-"beschreibung"
+"einwohnerzahl_30_06_2024",
+"einwohnerzahl_30_09_2025",
+"einwohnerzahl_31_03_2024",
+"einwohnerzahl_31_12_2023",
+"einwohnerzahl_31_12_2024",
+"einwohnerzahl_31_12_2025"
 ],
 "berichtigungen": 0
 },
 "401-bahlingen/004": {
-"entitaet": "ort",
-"bezeichnung": "Bahlingen am Kaiserstuhl",
+"entitaet": "kirche",
+"bezeichnung": "Bergkirche",
 "eigenschaften": [
-"amtlicher_zusatz_seit"
+"glasfenster_jahr",
+"glasfenster_kuenstler",
+"lage_ortsbild"
 ],
 "berichtigungen": 0
 },
 "401-bahlingen/005": {
-"entitaet": "ort",
-"bezeichnung": "Bahlingen am Kaiserstuhl",
+"entitaet": "rathaus",
+"bezeichnung": "rathaus",
 "eigenschaften": [
-"bundesland",
-"land",
-"landkreis"
+"baustil",
+"entstehungszeit",
+"reichtum_fachwerk"
 ],
 "berichtigungen": 0
 },
 "401-bahlingen/006": {
-"entitaet": "ort",
-"bezeichnung": "Bahlingen am Kaiserstuhl",
-"eigenschaften": [
-"entfernung_freiburg_km",
-"genauigkeit_entfernung",
-"lage_geografisch",
-"richtung_freiburg"
-],
-"berichtigungen": 0
-},
-"401-bahlingen/007": {
-"entitaet": "ort",
-"bezeichnung": "Bahlingen am Kaiserstuhl",
-"eigenschaften": [
-"einwohnerzahl",
-"gemarkungsflaeche_ha"
-],
-"berichtigungen": 0
-},
-"401-bahlingen/008": {
-"entitaet": "ort",
-"bezeichnung": "Bahlingen am Kaiserstuhl",
-"eigenschaften": [
-"charakterisierung",
-"klima"
-],
-"berichtigungen": 0
-},
-"401-bahlingen/009": {
-"entitaet": "ortsteil",
-"bezeichnung": "Silberbrunnen",
-"eigenschaften": [
-"typ"
-],
-"berichtigungen": 0
-},
-"401-bahlingen/010": {
-"entitaet": "nachbargemeinde",
-"bezeichnung": "Endingen am Kaiserstuhl",
-"eigenschaften": [
-"landkreis"
-],
-"berichtigungen": 0
-},
-"401-bahlingen/011": {
-"entitaet": "nachbargemeinde",
-"bezeichnung": "Riegel am Kaiserstuhl",
-"eigenschaften": [
-"landkreis"
-],
-"berichtigungen": 0
-},
-"401-bahlingen/012": {
-"entitaet": "nachbargemeinde",
-"bezeichnung": "Teningen mit Nimburg",
-"eigenschaften": [
-"landkreis"
-],
-"berichtigungen": 0
-},
-"401-bahlingen/013": {
-"entitaet": "nachbargemeinde",
-"bezeichnung": "Eichstetten",
-"eigenschaften": [
-"landkreis"
-],
-"berichtigungen": 0
-},
-"401-bahlingen/014": {
-"entitaet": "nachbargemeinde",
-"bezeichnung": "Vogtsburg im Kaiserstuhl",
-"eigenschaften": [
-"landkreis"
-],
-"berichtigungen": 0
-},
-"401-bahlingen/015": {
-"entitaet": "wirtschaftliches_experiment",
-"bezeichnung": "Physiokratismus-Versuch",
-"eigenschaften": [
-"eingefuehrtes_steuersystem",
-"genauigkeit_grund",
-"grund",
-"superlativ",
-"system",
-"weitere_musterdoerfer",
-"zeitraum_bahlingen"
-],
-"berichtigungen": 0
-},
-"401-bahlingen/016": {
-"entitaet": "gebaeude",
-"bezeichnung": "Bergkirche",
-"eigenschaften": [
-"glasfenster_kuenstler",
-"lage"
-],
-"berichtigungen": 0
-},
-"401-bahlingen/017": {
-"entitaet": "gebaeude",
-"bezeichnung": "Rathaus",
-"eigenschaften": [
-"baustil",
-"bauzeit"
-],
-"berichtigungen": 0
-},
-"401-bahlingen/018": {
-"entitaet": "wappen",
-"bezeichnung": "wappen",
-"eigenschaften": [
-"altes_siegel_beschreibung",
-"altes_siegel_jahr",
-"blasonierung",
-"farben_festlegung_jahr",
-"neues_siegel_jahr",
-"stempel_zeitraum"
-],
-"berichtigungen": 0
-},
-"401-bahlingen/019": {
-"entitaet": "gemeindeverwaltungsverband",
-"bezeichnung": "Nördlicher Kaiserstuhl",
-"eigenschaften": [
-"mitgliedsgemeinden",
-"sitz"
-],
-"berichtigungen": 0
-},
-"401-bahlingen/020": {
-"entitaet": "staedtepartnerschaft",
-"bezeichnung": "staedtepartnerschaft",
-"eigenschaften": [
-"gruendung",
-"land",
-"partnergemeinden",
-"region"
-],
-"berichtigungen": 0
-},
-"401-bahlingen/021": {
-"entitaet": "buergermeister",
+"entitaet": "buegermeister",
 "bezeichnung": "Florian Wissert",
 "eigenschaften": [
 "amtsantritt"
 ],
 "berichtigungen": 0
 },
-"401-bahlingen/022": {
-"entitaet": "buergermeister",
+"401-bahlingen/007": {
+"entitaet": "buegermeister",
 "bezeichnung": "Harald Lotis",
 "eigenschaften": [
 "amtszeit",
@@ -173574,200 +173450,468 @@
 ],
 "berichtigungen": 0
 },
-"401-bahlingen/023": {
-"entitaet": "buergermeister",
+"401-bahlingen/008": {
+"entitaet": "buegermeister",
 "bezeichnung": "Gerhard Breisacher",
 "eigenschaften": [
 "amtszeit"
 ],
 "berichtigungen": 0
 },
-"401-bahlingen/024": {
-"entitaet": "buergermeister",
+"401-bahlingen/009": {
+"entitaet": "buegermeister",
 "bezeichnung": "Walter Schreyvogel",
 "eigenschaften": [
 "amtszeit"
 ],
 "berichtigungen": 0
 },
-"401-bahlingen/025": {
-"entitaet": "eisenbahn",
+"401-bahlingen/010": {
+"entitaet": "wappen",
+"bezeichnung": "wappen",
+"eigenschaften": [
+"blasonierung",
+"gerichtssiegel_jahr",
+"siegel_1665",
+"ursprung",
+"wappenfarben_festlegung"
+],
+"berichtigungen": 0
+},
+"401-bahlingen/011": {
+"entitaet": "staedtepartnerschaft",
+"bezeichnung": "Bischwihr",
+"eigenschaften": [
+"land",
+"regelmässige_besuche_und_veranstaltungen",
+"seit"
+],
+"berichtigungen": 0
+},
+"401-bahlingen/012": {
+"entitaet": "staedtepartnerschaft",
+"bezeichnung": "Holtzwihr",
+"eigenschaften": [
+"land",
+"seit"
+],
+"berichtigungen": 0
+},
+"401-bahlingen/013": {
+"entitaet": "staedtepartnerschaft",
+"bezeichnung": "Riedwihr",
+"eigenschaften": [
+"land",
+"seit"
+],
+"berichtigungen": 0
+},
+"401-bahlingen/014": {
+"entitaet": "staedtepartnerschaft",
+"bezeichnung": "Wickerschwihr",
+"eigenschaften": [
+"land",
+"seit"
+],
+"berichtigungen": 0
+},
+"401-bahlingen/015": {
+"entitaet": "infrastruktur_bahn",
 "bezeichnung": "Kaiserstuhlbahn",
 "eigenschaften": [
-"anschluss_eisenbahnnetz_jahr",
-"anschluss_nach_elektrifizierung",
-"elektrifizierung_jahr",
-"verbindung"
+"anschluss_breisgau_s_bahn",
+"anschluss_kaiserstuhlbahn",
+"elektrifizierung",
+"verbindung_ueber"
+],
+"berichtigungen": 0
+},
+"401-bahlingen/016": {
+"entitaet": "infrastruktur_schule",
+"bezeichnung": "Silberbergschule",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"neues_schulhaus"
+],
+"berichtigungen": 0
+},
+"401-bahlingen/017": {
+"entitaet": "sporthalle",
+"bezeichnung": "Silberberghalle",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"fertigstellung",
+"heimat_verein",
+"typ",
+"verwendung"
+],
+"berichtigungen": 0
+},
+"401-bahlingen/018": {
+"entitaet": "charakteristikum_weinbau",
+"bezeichnung": "charakteristikum weinbau",
+"eigenschaften": [
+"bahlinger_winzergenossenschaft_anbauflaeche_ha",
+"bahlinger_winzergenossenschaft_mitglieder",
+"bedeutung_fuer_ort",
+"genossenschaft_der_winzer_vom_silberberg",
+"lagebezeichnung",
+"probleme_nach_2_weltkrieg",
+"rebenaufbaugenossenschaft_gruendung",
+"rebflaeche_ha",
+"rebsorten",
+"tradition_lang",
+"umlegung_beginn",
+"umlegung_dauer",
+"verarbeitung_ab_1962",
+"weinsüden_weinort_status"
+],
+"berichtigungen": 0
+},
+"401-bahlingen/019": {
+"entitaet": "weinbau",
+"bezeichnung": "weinbau",
+"eigenschaften": [
+"herkunft_roemische_zeit"
+],
+"berichtigungen": 0
+},
+"401-bahlingen/020": {
+"entitaet": "muehle",
+"bezeichnung": "Adler Mühle",
+"eigenschaften": [
+"anlass_fest",
+"bedeutung_fuer_ort"
+],
+"berichtigungen": 0
+},
+"401-bahlingen/021": {
+"entitaet": "charakteristikum_kunstwerk",
+"bezeichnung": "Bahlinger Skulpturenweg",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"kuenstler",
+"skulpturen_anzahl",
+"typ"
+],
+"berichtigungen": 0
+},
+"401-bahlingen/022": {
+"entitaet": "charakteristikum_kunstwerk",
+"bezeichnung": "beWEGte Rebzeilen",
+"eigenschaften": [
+"besonderheit",
+"einweihung",
+"ort"
+],
+"berichtigungen": 0
+},
+"401-bahlingen/023": {
+"entitaet": "kunstwerk",
+"bezeichnung": "Kirchenfenster",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"jahr",
+"kuenstler",
+"ort"
+],
+"berichtigungen": 0
+},
+"401-bahlingen/024": {
+"entitaet": "charakteristikum_kunstsymposium",
+"bezeichnung": "charakteristikum kunstsymposium",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"jahr",
+"leitspruch",
+"teilnehmer",
+"werke_anzahl",
+"werke_location"
+],
+"berichtigungen": 0
+},
+"401-bahlingen/025": {
+"entitaet": "kunstort",
+"bezeichnung": "Kunst im alten Spritzenhaus",
+"eigenschaften": [
+"funktion",
+"typ",
+"zeitraum_ausstellungen"
 ],
 "berichtigungen": 0
 },
 "401-bahlingen/026": {
-"entitaet": "sportverein",
-"bezeichnung": "Bahlinger SC",
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Michael Schwarze",
 "eigenschaften": [
-"heimstadion",
-"spielklasse_ab_2026_27",
-"sport"
+"beruf",
+"gebuertsjahr",
+"taetigkeit_seit",
+"verband_mit_ort"
 ],
 "berichtigungen": 0
 },
 "401-bahlingen/027": {
-"entitaet": "stadion",
-"bezeichnung": "Kaiserstuhlstadion",
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Karl Alfred von Zittel",
 "eigenschaften": [
-"heimteam",
-"kapazitaet_plaetze"
+"beruf",
+"geburtsjahr",
+"todesjahr",
+"verbindung_zu_bahlingen"
 ],
 "berichtigungen": 0
 },
 "401-bahlingen/028": {
-"entitaet": "gebaeude",
-"bezeichnung": "Schulhaus",
+"entitaet": "persoenlichkeit",
+"bezeichnung": "August Hässig",
 "eigenschaften": [
-"errichtung_jahr"
+"beruf",
+"geburtsjahr",
+"todesjahr",
+"verbindung_zu_bahlingen"
 ],
 "berichtigungen": 0
 },
 "401-bahlingen/029": {
-"entitaet": "gebaeude",
-"bezeichnung": "Silberberghalle",
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Jan Männer",
 "eigenschaften": [
-"fertigstellung_jahr"
+"beruf",
+"geburtsjahr",
+"todesjahr",
+"verbindung_zu_bahlingen"
 ],
 "berichtigungen": 0
 },
 "401-bahlingen/030": {
-"entitaet": "unternehmen",
-"bezeichnung": "Otto Männer Holding AG",
+"entitaet": "persoenlichkeit",
+"bezeichnung": "August Bürkin",
 "eigenschaften": [
-"aktivitaet"
+"bedeutung_fuer_ort",
+"rolle",
+"zeitraum"
 ],
 "berichtigungen": 0
 },
 "401-bahlingen/031": {
-"entitaet": "genossenschaft",
-"bezeichnung": "Die Winzer vom Silberberg",
+"entitaet": "sportverein",
+"bezeichnung": "Bahlinger SC",
 "eigenschaften": [
-"rebsorten",
-"taetigkeitsbereich"
+"fussball_mannschaft_spielklasse",
+"heimspiele_ort",
+"spielklasse_seit",
+"stadion",
+"stadion_kapazitaet"
 ],
 "berichtigungen": 0
 },
 "401-bahlingen/032": {
-"entitaet": "genossenschaft",
-"bezeichnung": "Bahlinger Winzergenossenschaft",
+"entitaet": "charakteristikum_fest",
+"bezeichnung": "Hoselipsfest",
 "eigenschaften": [
-"bewirtschaftete_flaeche_ha",
-"mitglieder_ca",
-"verarbeitung_verbuendung_mit",
-"verbuendung_datum"
+"bedeutung_fuer_ort",
+"erstmals",
+"haeufigkeit",
+"ursprung_sage"
 ],
 "berichtigungen": 0
 },
 "401-bahlingen/033": {
-"entitaet": "weinbau",
-"bezeichnung": "weinbau",
+"entitaet": "charakteristikum_fest",
+"bezeichnung": "Kaiserstuhl-Cup",
 "eigenschaften": [
-"bewirtschaftete_flaeche_ha",
-"historischer_ursprung"
+"bedeutung_fuer_ort",
+"beispiele_teilnehmer",
+"haeufigkeit",
+"letzte_austragung",
+"teilnehmer",
+"typ"
 ],
 "berichtigungen": 0
 },
 "401-bahlingen/034": {
-"entitaet": "muehle",
-"bezeichnung": "Adler Mühle",
+"entitaet": "wirtschaft",
+"bezeichnung": "wirtschaft",
 "eigenschaften": [
-"nutzung"
+"arbeitplaetze",
+"industrie_handel_gewerbe_seit",
+"modernisierung_seit",
+"neue_gebiete",
+"schwerpunkt_industrie",
+"unternehmen_international",
+"ursprung"
 ],
 "berichtigungen": 0
 },
 "401-bahlingen/035": {
-"entitaet": "veranstaltung",
-"bezeichnung": "Hoselipsfest",
+"entitaet": "experiment_physiokratismus",
+"bezeichnung": "experiment physiokratismus",
 "eigenschaften": [
-"erste_erwaehnungen",
-"haeufigkeit",
-"namensherkunft"
+"bedeutung_weltweit",
+"grund_abbruch",
+"hauptthese",
+"initiator_deutschland",
+"markgraf",
+"massnahme",
+"status",
+"system",
+"vergleich_dietlingen",
+"vergleich_teningen",
+"zeitraum"
 ],
 "berichtigungen": 0
 },
 "401-bahlingen/036": {
-"entitaet": "veranstaltung",
-"bezeichnung": "Kaiserstuhl-Cup",
+"entitaet": "charakteristikum_radweg",
+"bezeichnung": "Breisgau-Radwanderweg",
 "eigenschaften": [
-"art",
-"haeufigkeit",
-"letzte_durchfuehrung",
-"modus"
+"laenge_km",
+"verlauf_bahlingen",
+"verlauf_kaiserstuhlbahn"
 ],
 "berichtigungen": 0
 },
 "401-bahlingen/037": {
-"entitaet": "persoenlichkeit",
-"bezeichnung": "Karl Alfred von Zittel",
+"entitaet": "charakteristikum_radweg",
+"bezeichnung": "Kaiserstuhl-Radwanderweg",
 "eigenschaften": [
-"beziehung_bahlingen",
-"lebenszeit",
-"profession"
+"verlauf"
 ],
 "berichtigungen": 0
 },
 "401-bahlingen/038": {
-"entitaet": "persoenlichkeit",
-"bezeichnung": "August Hässig",
+"entitaet": "charakteristikum_radregion",
+"bezeichnung": "charakteristikum radregion",
 "eigenschaften": [
-"beziehung_bahlingen",
-"lebenszeit",
-"profession"
+"bedeutung_fuer_ort",
+"flora_fauna",
+"klima",
+"lage",
+"radwegenetz_ausgeschildert",
+"radwegenetz_km",
+"zielgruppen"
 ],
 "berichtigungen": 0
 },
 "401-bahlingen/039": {
-"entitaet": "persoenlichkeit",
-"bezeichnung": "Michael Schwarze",
+"entitaet": "charakteristikum_wanderwege",
+"bezeichnung": "charakteristikum wanderwege",
 "eigenschaften": [
-"geburtsjahr",
-"profession",
-"wirkungsstätte_seit"
+"bahlinger_thema",
+"bahlinger_wanderwege_anzahl",
+"beschreibung_kaiserstuhl",
+"kaiserstuhl_themenachsen",
+"kaiserstuhl_wanderwege_km"
 ],
 "berichtigungen": 0
 },
 "401-bahlingen/040": {
-"entitaet": "persoenlichkeit",
-"bezeichnung": "Jan Männer",
+"entitaet": "gewässer",
+"bezeichnung": "Dreisam",
 "eigenschaften": [
-"beziehung_bahlingen",
-"lebenszeit",
-"profession"
+"beschreibung",
+"lage_bahlingen"
 ],
 "berichtigungen": 0
 },
 "401-bahlingen/041": {
-"entitaet": "radweg",
-"bezeichnung": "Kaiserstuhlradweg",
+"entitaet": "gewässer",
+"bezeichnung": "Alte Dreisam",
 "eigenschaften": [
-"verlauf"
+"lage_bahlingen"
 ],
 "berichtigungen": 0
 },
 "401-bahlingen/042": {
-"entitaet": "radweg",
-"bezeichnung": "Breisgauradweg",
+"entitaet": "charakteristikum_kunstacker",
+"bezeichnung": "KunstAcker",
 "eigenschaften": [
-"verlauf"
+"bedeutung_fuer_ort",
+"blick",
+"kunstwerk",
+"objekt",
+"ort",
+"weg_laenge_km"
 ],
 "berichtigungen": 0
 },
 "401-bahlingen/043": {
-"entitaet": "verkehrsanbindung",
-"bezeichnung": "verkehrsanbindung",
+"entitaet": "verwaltungsverband",
+"bezeichnung": "Gemeindeverwaltungsverband Nördlicher Kaiserstuhl",
 "eigenschaften": [
-"autobahnanschluss_1",
-"autobahnanschluss_2",
-"entfernung_basel_km",
-"entfernung_emmendingen_km",
-"entfernung_freiburg_km",
-"entfernung_strassburg_km"
+"mitgliedsgemeinden",
+"sitz"
+],
+"berichtigungen": 0
+},
+"401-bahlingen/044": {
+"entitaet": "nachbargemeinde",
+"bezeichnung": "Endingen am Kaiserstuhl",
+"eigenschaften": [
+"lage",
+"landkreis"
+],
+"berichtigungen": 0
+},
+"401-bahlingen/045": {
+"entitaet": "nachbargemeinde",
+"bezeichnung": "Riegel am Kaiserstuhl",
+"eigenschaften": [
+"lage",
+"landkreis"
+],
+"berichtigungen": 0
+},
+"401-bahlingen/046": {
+"entitaet": "nachbargemeinde",
+"bezeichnung": "Teningen",
+"eigenschaften": [
+"lage",
+"landkreis",
+"ortsteil"
+],
+"berichtigungen": 0
+},
+"401-bahlingen/047": {
+"entitaet": "nachbargemeinde",
+"bezeichnung": "Eichstetten",
+"eigenschaften": [
+"lage",
+"landkreis"
+],
+"berichtigungen": 0
+},
+"401-bahlingen/048": {
+"entitaet": "nachbargemeinde",
+"bezeichnung": "Vogtsburg",
+"eigenschaften": [
+"lage",
+"landkreis"
+],
+"berichtigungen": 0
+},
+"401-bahlingen/049": {
+"entitaet": "bahnhof",
+"bezeichnung": "Bahlingen am Kaiserstuhl",
+"eigenschaften": [
+"anschluss",
+"bahnlinie"
+],
+"berichtigungen": 0
+},
+"401-bahlingen/050": {
+"entitaet": "historischer_schwerpunkt",
+"bezeichnung": "historischer schwerpunkt",
+"eigenschaften": [
+"dreissigjähriger_krieg",
+"erste_erwaehnung",
+"erste_weltkrieg",
+"kriege_ludwigs_xiv",
+"markgrafschaft_baden_ab",
+"reformation",
+"siedlung_periode",
+"weltkriege"
 ],
 "berichtigungen": 0
 },
@@ -173775,246 +173919,443 @@
 "entitaet": "ort",
 "bezeichnung": "Riegel am Kaiserstuhl",
 "eigenschaften": [
-"bevoelkerungsdichte",
+"bevölkerungsdichte",
+"bevölkerungsdichte_einheit",
 "bundesland",
-"burgermeister",
 "einwohner",
-"flaehe",
-"gemeindeschluessel",
-"hoehe",
+"fläche",
+"fläche_einheit",
+"höhe_einheit",
+"höhe_max",
+"höhe_min",
 "kfz_kennzeichen",
+"lage_kaiserstuhl",
 "landkreis",
-"postleitzahl",
-"steuer_nummer",
-"telefon_vorwahl"
+"postleitzahl"
 ],
 "berichtigungen": 0
 },
 "402-riegel/002": {
 "entitaet": "ort",
-"bezeichnung": "ort",
+"bezeichnung": "Riegel am Kaiserstuhl",
 "eigenschaften": [
-"benannt_nach",
-"besiedlung_jungsteinzeit",
-"besiedlung_keltenzeit",
-"besiedlung_romerzeit",
-"geburtsjahr",
-"grosse_bedeutung_in_epoche",
-"jubilaeumsjahr_2012",
-"rolle_romerzeit"
+"geburtsjahr_genannt",
+"geburtsjahr_grund",
+"jubiläum_1250",
+"keltische_besiedlung",
+"keltischer_münzschatz_besonderheit",
+"keltischer_münzschatz_fund",
+"keltischer_münzschatz_menge",
+"römerzeit_blüte",
+"römerzeit_charakteristik",
+"römische_funktion",
+"römische_siedlung_name",
+"römische_zeit_periode",
+"siedlungsgeschichte_beginn",
+"siedlungsgeschichte_beginn_jahrtausend",
+"siedlungsgeschichte_duration",
+"urkundliche_ersterwähnung",
+"urkundliche_ersterwähnung_anlass",
+"vorgeschichtliche_kulturen"
 ],
 "berichtigungen": 0
 },
 "402-riegel/003": {
-"entitaet": "muenzschatz",
-"bezeichnung": "Keltischer Goldmünzschatz",
+"entitaet": "kirche",
+"bezeichnung": "St. Martin",
 "eigenschaften": [
-"anzahl",
-"entdeckungsart",
-"superlativ",
-"zeitepoche"
+"architektur",
+"baumeister",
+"baustil",
+"bauzeit",
+"bedeutung_fuer_ort",
+"brand_beschreibung",
+"brand_datum",
+"charakteristikum",
+"einweihung_feierlich",
+"kriegszerstörung",
+"kriegszerstörung_art",
+"künstler_altargemälde",
+"künstler_deckengemälde",
+"künstler_hochaltar_skulptur",
+"künstler_immaculata",
+"künstler_orgel",
+"künstler_stuckateur",
+"renovierung_architekt",
+"renovierung_leitung",
+"renovierung_moderne",
+"wiederaufbau",
+"wiederaufbau_zweck"
 ],
 "berichtigungen": 0
 },
 "402-riegel/004": {
-"entitaet": "museum",
-"bezeichnung": "Archäologisches Museum",
+"entitaet": "kapelle",
+"bezeichnung": "Michaelskapelle",
 "eigenschaften": [
-"ausgraebungsfunde",
-"auszeichnung",
-"betrieb",
-"glanzstueck",
-"schwerpunkt",
-"standort",
-"traeger"
+"lage_berg",
+"lage_besonderheit",
+"lage_höhe",
+"lage_höhe_einheit"
 ],
 "berichtigungen": 0
 },
 "402-riegel/005": {
-"entitaet": "kirche",
-"bezeichnung": "St. Martin",
+"entitaet": "kapelle",
+"bezeichnung": "Michaelskapelle",
 "eigenschaften": [
-"baumeister",
-"baustil",
-"bauzeit",
-"brand",
-"einweihung",
-"erhaltene_kunstwerke",
-"funktion",
-"gemalde",
-"klosternutzung",
-"kriegszerstoerung",
-"orgel",
-"patrozinium",
-"restaurierung",
-"standort",
-"stuck",
-"superlativ",
-"vorgaenger",
-"wiederaufbauten"
+"aussichtsplattform_entstehung",
+"barocke_umbauzeit",
+"bedeutung_fuer_ort",
+"bruderwohnung",
+"burganlage_integration",
+"burganlage_periode",
+"charakteristikum",
+"dachstuhl_holzalter",
+"eremiten",
+"ersterwähnung",
+"ersterwähnung_anlass",
+"gotischer_chor_entstehung",
+"gotischer_chor_stil",
+"renovierung_1994",
+"renovierung_2008",
+"sakristei",
+"wallfahrtsort",
+"wallfahrtsort_periode"
 ],
 "berichtigungen": 0
 },
 "402-riegel/006": {
 "entitaet": "kapelle",
-"bezeichnung": "St. Michaelskapelle",
+"bezeichnung": "Michaelskapelle",
 "eigenschaften": [
-"baustil",
-"bedeutung",
-"standort"
+"aussicht_rundblick"
 ],
 "berichtigungen": 0
 },
 "402-riegel/007": {
-"entitaet": "archäologischer_rundweg",
-"bezeichnung": "archäologischer rundweg",
+"entitaet": "tempel",
+"bezeichnung": "Mithras-Tempel",
 "eigenschaften": [
-"anzahl_tafeln",
-"freilichtanlage",
-"tafel_typ",
-"themen",
-"zentrale_punkte_romerzeit"
+"charakteristikum",
+"entdeckung",
+"entdeckung_beschreibung",
+"mithras_charakteristiken",
+"mithras_gemeinsamkeiten_christentum",
+"mithras_kult_zeitwende",
+"religionszweck",
+"römische_zeit"
 ],
 "berichtigungen": 0
 },
 "402-riegel/008": {
-"entitaet": "basilika",
-"bezeichnung": "Römische Marktbasilika",
+"entitaet": "museum",
+"bezeichnung": "Museum Riegel (Archäologisches Museum)",
 "eigenschaften": [
-"bauweise",
-"funktion",
-"modell_im_museum",
-"zeitepoche"
+"abteilung_i",
+"abteilung_i_inhalt",
+"abteilung_ii_beschreibung",
+"abteilung_ii_thema",
+"audioguide",
+"ausstellungsfunde",
+"auszeichnung",
+"auszeichnung_begründung",
+"bedeutung_fuer_ort",
+"charakteristikum",
+"eröffnung_neubau",
+"glanzstück",
+"glanzstück_besonderheit",
+"lage",
+"träger",
+"träger_betrieb"
 ],
 "berichtigungen": 0
 },
 "402-riegel/009": {
-"entitaet": "brunnen",
-"bezeichnung": "Brunnen am Amthof",
+"entitaet": "kunsthalle",
+"bezeichnung": "Kunsthalle Messmer",
 "eigenschaften": [
-"eigenschaft"
+"ausstellung_dali",
+"ausstellung_vasarely",
+"ausstellungsfläche",
+"ausstellungsfläche_einheit",
+"bedeutung_fuer_ort",
+"café",
+"charakteristikum",
+"eröffnung",
+"eröffnung_ausstellung",
+"galerie_ausrichtung",
+"galerie_erweiterung",
+"lage",
+"lage_zusammenfluss",
+"programm",
+"skulpturengarten",
+"skulpturengarten_einheit",
+"skulpturengarten_künstler"
 ],
 "berichtigungen": 0
 },
 "402-riegel/010": {
-"entitaet": "brunnen",
-"bezeichnung": "Brunnenfigur Kaiser Vespasian",
+"entitaet": "theater",
+"bezeichnung": "Kumedi (Theater Kumedi)",
 "eigenschaften": [
-"darstellung",
-"standort"
+"bedeutung_fuer_ort",
+"charakteristikum",
+"erster_auftritt_form",
+"erster_auftritt_riegel",
+"gründer",
+"gründung",
+"gründungscharakter",
+"gründungsort",
+"gründungsort_detail",
+"immobilienerwerb",
+"leitung_heute",
+"letzte_vorstellung_nimburg",
+"programme",
+"spielstätte_bau",
+"spielstätte_finanzierung",
+"spürkel_tod",
+"superlativ",
+"theaterfoyer_eröffnung",
+"theaterfoyer_lage",
+"theaterfoyer_neubau_2017",
+"theaterfoyer_plätze",
+"theaterhof_eröffnung",
+"theaterhof_plätze",
+"theaterraum_eröffnung",
+"theaterraum_plätze",
+"theatersaal_2017_plätze",
+"umbau_2017",
+"umbau_theater",
+"umzug_riegel"
 ],
 "berichtigungen": 0
 },
 "402-riegel/011": {
-"entitaet": "freilichtanlage",
-"bezeichnung": "Mithras Tempel",
+"entitaet": "brauerei",
+"bezeichnung": "Meyer & Söhne (Riegeler Brauerei)",
 "eigenschaften": [
-"beschreibung",
-"zeitepoche"
+"allgemeiner_name",
+"bedeutung_fuer_ort",
+"charakteristikum",
+"gründung",
+"gründung_beschreibung",
+"nachnutzung",
+"nachproduktion",
+"rechtliche_form",
+"standort_erhalt_initial",
+"stilllegung",
+"stilllegung_art",
+"übernahme_brau_holding",
+"übernahme_brau_holding_detail",
+"übernahme_fürstenberg"
 ],
 "berichtigungen": 0
 },
 "402-riegel/012": {
-"entitaet": "dorf",
-"bezeichnung": "Nidingen",
+"entitaet": "brauerei",
+"bezeichnung": "Römerbräu Riegel",
 "eigenschaften": [
-"status",
-"zeitepoche"
+"charakteristikum",
+"größe",
+"gründung",
+"gründungsort"
 ],
 "berichtigungen": 0
 },
 "402-riegel/013": {
-"entitaet": "theatergruppe",
-"bezeichnung": "KUMEDI",
+"entitaet": "straßengalerie",
+"bezeichnung": "Straßengalerie Riegel",
 "eigenschaften": [
-"gruendung"
+"aktuelle_runde",
+"ausstellungsorte",
+"ausstellungswerke_2024",
+"bedeutung_fuer_ort",
+"beginn",
+"charakteristikum",
+"montage_art",
+"motto",
+"selection"
 ],
 "berichtigungen": 0
 },
 "402-riegel/014": {
-"entitaet": "kanal",
-"bezeichnung": "Leopoldskanal",
+"entitaet": "kloster",
+"bezeichnung": "Katharina-Kloster (Dominikanerinnenkloster St. Katharina)",
 "eigenschaften": [
-"merkmal"
+"auflösung",
+"auflösungsgrund",
+"beteiligung_kirchenbau",
+"charakteristikum",
+"gründung"
 ],
 "berichtigungen": 0
 },
 "402-riegel/015": {
-"entitaet": "statue",
-"bezeichnung": "Heiliger Nepomuk",
+"entitaet": "goldmünzschatz",
+"bezeichnung": "Keltischer Goldmünzschatz",
 "eigenschaften": [
-"standort"
+"ausstellung",
+"besonderheit",
+"charakteristikum",
+"fund_jahr",
+"menge",
+"periode",
+"superlativ"
 ],
 "berichtigungen": 0
 },
 "402-riegel/016": {
-"entitaet": "haus",
-"bezeichnung": "Stamhaus",
+"entitaet": "kanal",
+"bezeichnung": "Leopoldskanal",
 "eigenschaften": [
-"historische_aktivitaeten"
+"bauzeit",
+"bedeutung_fuer_ort",
+"funktion",
+"merkmal_kulturhistorisch",
+"zweck"
 ],
 "berichtigungen": 0
 },
 "402-riegel/017": {
-"entitaet": "persoenlichkeit",
-"bezeichnung": "Prinzessin Elisabeth",
+"entitaet": "bahnhof",
+"bezeichnung": "Bahnhof Riegel-Malterdingen",
 "eigenschaften": [
-"wohnort",
-"zeitliche_einordnung"
+"bahnstrecke",
+"bahnstrecke_typ",
+"besonderheit",
+"betreiber",
+"gründung",
+"museum_zug",
+"umbenennung",
+"ursprünglicher_name"
 ],
 "berichtigungen": 0
 },
 "402-riegel/018": {
-"entitaet": "persoenlichkeit",
-"bezeichnung": "Anton Anreith",
+"entitaet": "bahnhof",
+"bezeichnung": "Bahnhof Riegel Ort",
 "eigenschaften": [
-"bekanntheitsgrad",
-"verbindung_riegel"
+"bahnstrecke",
+"betreiber_aktuell",
+"betreiber_historisch",
+"elektrifizierung",
+"gründung",
+"gründung_details",
+"nachnutzung",
+"nachnutzung_detail"
 ],
 "berichtigungen": 0
 },
 "402-riegel/019": {
-"entitaet": "koenigshof",
-"bezeichnung": "koenigshof",
+"entitaet": "bürgermeister",
+"bezeichnung": "Daniel Kietz",
 "eigenschaften": [
-"beschreibung",
-"zeitepoche"
+"amtszeit_ab",
+"partei"
 ],
 "berichtigungen": 0
 },
 "402-riegel/020": {
-"entitaet": "kloster",
-"bezeichnung": "Katharinenkloster",
+"entitaet": "partnerschaft",
+"bezeichnung": "Champhol",
 "eigenschaften": [
-"beteiligung_st_martin",
-"typ",
-"zeitepoche"
+"département",
+"gründung",
+"lage_partner",
+"land",
+"partnergemeinde"
 ],
 "berichtigungen": 0
 },
 "402-riegel/021": {
-"entitaet": "burganlage",
-"bezeichnung": "burganlage",
+"entitaet": "radweg",
+"bezeichnung": "Breisgau-Radweg",
 "eigenschaften": [
-"standort",
-"status"
+"route_bis",
+"route_via",
+"route_von",
+"streckenlänge",
+"streckenlänge_einheit"
 ],
 "berichtigungen": 0
 },
 "402-riegel/022": {
-"entitaet": "kirchengemeinde",
-"bezeichnung": "Evangelische Kirchengemeinde Riegel und Endingen",
+"entitaet": "radweg",
+"bezeichnung": "Oberrhein-Römerradweg",
 "eigenschaften": [
-"pfarrsekretariat_adresse"
+"beschreibung",
+"streckenlänge",
+"streckenlänge_einheit"
 ],
 "berichtigungen": 0
 },
 "402-riegel/023": {
-"entitaet": "seelsorgeeinheit",
-"bezeichnung": "Katholische Seelsorgeeinheit Nördlicher Kaiserstuhl",
+"entitaet": "rundweg",
+"bezeichnung": "Archäologischer Rundweg",
 "eigenschaften": [
-"pfarrburo_adresse",
-"pfarrgemeinde"
+"auszeichnung",
+"charakteristikum",
+"hauptpunkte",
+"inhalte",
+"länge"
+],
+"berichtigungen": 0
+},
+"402-riegel/024": {
+"entitaet": "person",
+"bezeichnung": "Klaus Spürkel",
+"eigenschaften": [
+"beruf",
+"charakteristikum",
+"geburt",
+"gründung",
+"tod",
+"tätigkeitsfeld",
+"umzug"
+],
+"berichtigungen": 0
+},
+"402-riegel/025": {
+"entitaet": "person",
+"bezeichnung": "Anton Anreith",
+"eigenschaften": [
+"bekannt_region",
+"beruf",
+"geburt",
+"geburt_ort",
+"tod",
+"wirkungsort"
+],
+"berichtigungen": 0
+},
+"402-riegel/026": {
+"entitaet": "person",
+"bezeichnung": "Georg Anreith",
+"eigenschaften": [
+"beruf",
+"geburt",
+"geburt_ort",
+"tod",
+"wirkungsort"
+],
+"berichtigungen": 0
+},
+"402-riegel/027": {
+"entitaet": "kapelle",
+"bezeichnung": "Friedhofskapelle",
+"eigenschaften": [
+"anlass",
+"architekt",
+"baubeginn",
+"bauherr",
+"baujahr_beginn",
+"baujahr_ende",
+"baustil",
+"besonderheit_fund",
+"einsegnungshalle",
+"einweihung",
+"schenkung"
 ],
 "berichtigungen": 0
 },
@@ -174022,16 +174363,23 @@
 "entitaet": "ort",
 "bezeichnung": "Endingen am Kaiserstuhl",
 "eigenschaften": [
+"bevölkerungsdichte",
 "bundesland",
-"flaeche",
-"gemeindeschluessel",
-"hoehe",
+"bürgermeister",
+"einwohner_amoltern",
+"einwohner_gesamtstadt",
+"einwohner_kernstadt",
+"einwohner_kiechlinsbergen",
+"einwohner_königschaffhausen",
+"einwohner_stand",
+"fläche",
+"höhe_min_max",
 "kfz_kennzeichen",
 "koordinaten",
 "landkreis",
 "postleitzahl",
 "regierungsbezirk",
-"telefonvorwahl"
+"vorwahl"
 ],
 "berichtigungen": 0
 },
@@ -174039,22 +174387,14 @@
 "entitaet": "ort",
 "bezeichnung": "Endingen am Kaiserstuhl",
 "eigenschaften": [
-"einwohner_gesamtstadt",
-"einwohner_kernstadt",
-"flagge",
-"gemeindegebiet",
-"gemeindegebiet_kernstadt",
-"hoehe_max",
-"hoehe_min",
-"ist_kleinstadt",
-"lossdecken_staerke",
+"charakteristika",
+"lössdecke_maechtig_m",
 "namensherkunft",
 "ortsteile",
-"rebflaeche_gesamtgebiet",
-"rebflaeche_kernstadt",
-"walddecke_ab_hoehe",
-"walddecke_typ",
-"wappen"
+"rebfläche_gesamt_ha",
+"rebfläche_kernstadt_ha",
+"vulkanisches_gestein",
+"walddecke_ab_m"
 ],
 "berichtigungen": 0
 },
@@ -174062,553 +174402,1000 @@
 "entitaet": "ort",
 "bezeichnung": "Endingen am Kaiserstuhl",
 "eigenschaften": [
-"alemannische_ansiedlung_ab",
-"amt_bürgermeister_belegt_ab",
-"endinger_mass_erwaehnung",
-"endinger_rat_belegt_ab",
-"erste_ansiedlung_hockergräber",
-"erste_urkundliche_erwähnung",
-"erste_urkundliche_erwähnung_grund",
-"erster_weltkrieg_folgen",
-"fasnet_vasnacht_erwaehnung",
-"fasnet_vasnacht_erwaehnung_kontext",
-"französische_plünderung",
-"französische_plünderung_kontext",
-"gaswerk_städtisch",
-"gemeindereform_amoltern",
-"gemeindereform_kiechlinsbergen",
-"gemeindereform_königschaffhausen",
-"großbrand_marktplatz",
-"habsburger_bestaetigung_durch",
-"habsburger_bestaetigung_stadtrechte",
-"herren_von_endingen_ab",
-"historischer_stadtkern_denkmalschutz",
-"machthoehepunkt",
-"reichsstadt_grund",
-"reichsstadt_periode",
-"schlacht_bei_endingen",
-"schlacht_bei_endingen_folge",
-"schlacht_bei_endingen_grund",
-"schwedische_besetzung",
-"schwedische_besetzung_folge",
-"stadt_aufteilung_in_ober_unterstadt",
-"stadtmauer_fertiggestellt",
-"stadtrecht_erneuerung",
-"stadtrecht_erneuerung_grund",
-"stadtrrechte_verleihung",
-"stadtrrechte_verleihung_durch",
-"städtepartnerschaft_erstein",
-"uebergang_zu_baden",
-"uebergang_zu_baden_grund",
-"uebergang_zu_baden_jahr2",
-"uebergang_zu_habsburg",
-"uebergang_zu_habsburg_grund",
-"uebergang_zu_oesterreich",
-"vorlande_eigenlandesherr",
-"vorlande_rückkehr_grund",
-"vorlande_rückkehr_zu_habsburger",
-"zehn_tausend_einwohner_erreicht",
-"zentrale_wasserleitung",
-"zentrale_wasserleitung_hausanschlüsse"
+"alemannische_ansiedlung_ab_jhdt",
+"elektrifizierung_kaiserstuhlbahn_jahre",
+"erste_ansiedlung_jhdt",
+"erste_urkundliche_erwähnung_jahr",
+"erste_urkundliche_erwähnung_kontext",
+"herren_von_üsenberg_seit",
+"höhepunkt_macht_jahre",
+"reichsstadt_jahre",
+"stadt_zweiteilung",
+"stadtmauer_fertiggestellt_jahr",
+"stadtrecht_verliehen_durch",
+"stadtrecht_verliehen_jahre",
+"zu_baden",
+"zu_deutschland",
+"zu_habsburgisch_österreich"
 ],
 "berichtigungen": 0
 },
 "403-endingen/004": {
-"entitaet": "ansiedlung_praehistorisch",
-"bezeichnung": "Hockergräber-Fundstelle",
+"entitaet": "wappen",
+"bezeichnung": "Wappen Endingen",
 "eigenschaften": [
-"archäologisches_zeugnis",
-"bedeutung",
-"fundort",
-"zeitraum"
+"beschreibung",
+"blasonierung"
 ],
 "berichtigungen": 0
 },
 "403-endingen/005": {
-"entitaet": "fasnet",
-"bezeichnung": "Jokili",
+"entitaet": "flagge",
+"bezeichnung": "Flagge Endingen",
 "eigenschaften": [
-"erste_erwaehnung",
-"jokili_halskrause",
-"jokili_kleidung_material",
-"jokili_kleidung_merkmale",
-"jokili_maske",
-"jokili_maske_schau",
-"jokili_narrenkappe",
-"leitfigur",
-"maskentraeger_anzahl",
-"region",
-"status"
+"farben"
 ],
 "berichtigungen": 0
 },
 "403-endingen/006": {
-"entitaet": "schützengesellschaft",
-"bezeichnung": "Endinger Schützengesellschaft",
+"entitaet": "gipfel",
+"bezeichnung": "Katharinenberg",
 "eigenschaften": [
-"aktivitaeten",
-"herkunft",
-"rugili_genehmigung_epoche",
-"rugili_gewinn_heute",
-"rugili_gewinn_historisch",
-"rugili_ursprüngliche_verwendung"
+"aussichtspunkt",
+"bauwerk_auf_gipfel",
+"geologie",
+"höhe_m",
+"höhe_ü_nhn_m",
+"lage",
+"superlativ"
 ],
 "berichtigungen": 0
 },
 "403-endingen/007": {
-"entitaet": "brunnen",
-"bezeichnung": "Öffentliche Brunnen Endingens",
+"entitaet": "kirche",
+"bezeichnung": "St. Katharinenkapelle",
 "eigenschaften": [
-"beschreibung",
-"heiliwog_brauch",
-"heiliwog_nutzung",
-"historischer_kontext",
-"wasserleitung_installation"
+"bedeutung_fuer_ort",
+"kirchturm_begehbar",
+"kirchturm_höhe_m",
+"lage"
 ],
 "berichtigungen": 0
 },
 "403-endingen/008": {
-"entitaet": "auswanderung",
-"bezeichnung": "Auswanderung nach Tovar, Venezuela",
+"entitaet": "kirche",
+"bezeichnung": "Pfarrkirche St. Peter",
 "eigenschaften": [
-"ausgewanderer_anzahl",
-"heutige_existenz",
-"jahr",
-"leiter",
-"nachkommen_generation",
-"nachkommen_sprachen",
-"zielort"
+"gedenkstätte",
+"kulturgut",
+"orgel_erbauer"
 ],
 "berichtigungen": 0
 },
 "403-endingen/009": {
-"entitaet": "auswanderung",
-"bezeichnung": "Auswanderung nach Colonia Tovar, Venezuela",
+"entitaet": "kirche",
+"bezeichnung": "Wallfahrtskirche St. Martin",
 "eigenschaften": [
-"ausgewanderer_anzahl",
-"ausgewanderer_herkunft",
-"austausch_heute",
-"dokumentation",
-"gruendung",
-"jahr"
+"lage"
 ],
 "berichtigungen": 0
 },
 "403-endingen/010": {
-"entitaet": "kaiserstuhlbahn",
-"bezeichnung": "Kaiserstuhlbahn",
+"entitaet": "kirche",
+"bezeichnung": "St. Petronilla",
 "eigenschaften": [
-"feierliche_eroeffnung_endingen_breisach",
-"teilabschnitt_endingen_breisach",
-"teilabschnitt_riegel_endingen"
+"ausstattung",
+"konfession",
+"stil"
 ],
 "berichtigungen": 0
 },
 "403-endingen/011": {
-"entitaet": "lederfabrik",
-"bezeichnung": "Lederfabrik Loesch",
+"entitaet": "kirche",
+"bezeichnung": "Dorfkirche Königschaffhausen",
 "eigenschaften": [
-"bedeutung",
-"eroeffnung"
+"orgel_erbauer"
 ],
 "berichtigungen": 0
 },
 "403-endingen/012": {
-"entitaet": "historisches_ereignis",
-"bezeichnung": "Daubmann-Fall",
+"entitaet": "fasnetbrauchtum",
+"bezeichnung": "Jokili",
 "eigenschaften": [
-"jahr",
-"konsequenzen",
-"person_behauptet",
-"person_behauptet_hintergrund",
-"person_echte_oskar_daubmann",
-"person_real",
-"presseresonanz",
-"propagandistische_nutzung"
+"bedeutung_fuer_ort",
+"beschreibung",
+"charakteristika_narrenkostüm",
+"narrenfigur_seit_jhdt",
+"superlativ",
+"urkundlich_belegt_seit_jahr"
 ],
 "berichtigungen": 0
 },
 "403-endingen/013": {
-"entitaet": "historisches_ereignis",
-"bezeichnung": "Hexenverbrennung Anna Trutt",
+"entitaet": "schützengesellschaft",
+"bezeichnung": "Schützengesellschaft Endingen",
 "eigenschaften": [
+"aktivitäten",
 "herkunft",
-"jahr",
-"person",
-"vorwurf"
+"rugili_genehmigt_jahr",
+"rugili_ursprünglicher_gewinn",
+"rugili_zweck_historisch"
 ],
 "berichtigungen": 0
 },
 "403-endingen/014": {
-"entitaet": "museum",
-"bezeichnung": "Heimatmuseum Endingen",
+"entitaet": "brauchtum",
+"bezeichnung": "Heiliwog",
 "eigenschaften": [
-"adresse",
-"ausstellungsinhalt",
-"bürgersaal",
-"gebaeude",
-"gebaeude_jahr",
-"glasmalereien_anzahl",
-"glasmalereien_jahr",
-"glasmalereien_motiv",
-"ratssaal_inhalt",
-"ratssaal_stil",
-"tovarer_stuben"
+"beschreibung",
+"spruch",
+"tradition_seit",
+"verwendung"
 ],
 "berichtigungen": 0
 },
 "403-endingen/015": {
-"entitaet": "museum",
-"bezeichnung": "Vorderösterreich Museum",
+"entitaet": "auswanderung",
+"bezeichnung": "Auswanderung nach Colonia Tovar, Venezuela",
 "eigenschaften": [
-"adresse",
-"ausstellung_raeume",
-"ausstellungsinhalt",
-"gebaeude",
-"historischer_kontext"
+"bedeutung_fuer_ort",
+"dokumentation",
+"jahr",
+"jahr_alternative_quelle",
+"leitung",
+"nachkommenschaft_generation",
+"nachkommenschaft_sprache",
+"personen_anzahl",
+"zielort"
 ],
 "berichtigungen": 0
 },
 "403-endingen/016": {
 "entitaet": "museum",
-"bezeichnung": "Käserei Museum",
+"bezeichnung": "Kaiserstühler Heimatmuseum",
 "eigenschaften": [
-"adresse",
-"ausstellungsflaeche",
-"ausstellungsinhalt",
-"käserei_herstellung",
-"museum_eroeffnung",
-"ursprung_gebaeude",
-"ursprung_gebaeude_jahr"
+"führungen",
+"gebäude_beschreibung",
+"gebäude_erbaujahr",
+"lage",
+"sammlung_inhalte",
+"sammlung_kunstgegenstände"
 ],
 "berichtigungen": 0
 },
 "403-endingen/017": {
 "entitaet": "museum",
-"bezeichnung": "Fasnetmuseum",
+"bezeichnung": "Vorderösterreich Museum",
 "eigenschaften": [
-"adresse",
-"ausstellungsinhalt",
-"historischer_kontext",
-"historischer_kontext_neben",
-"restaurierung_durch",
-"restaurierung_jahr",
-"verwalter"
+"führungen",
+"kontext_historisch",
+"lage",
+"sammlung_inhalte",
+"zeitraum_präsentation"
 ],
 "berichtigungen": 0
 },
 "403-endingen/018": {
 "entitaet": "museum",
-"bezeichnung": "Kirschenmuseum",
+"bezeichnung": "Käserei Museum",
 "eigenschaften": [
-"adresse",
-"ausstellungsflaeche",
-"ausstellungsinhalt",
-"verwalter"
+"anmeldung_erforderlich",
+"fläche_m2",
+"führung_programme",
+"führungen_monatlich",
+"kontakt_leitung",
+"käserei_gegründet_jahr",
+"käserei_produkt",
+"lage",
+"museum_untergebracht_seit"
 ],
 "berichtigungen": 0
 },
 "403-endingen/019": {
 "entitaet": "museum",
-"bezeichnung": "Heimatmuseum Kiechlinsbergen",
+"bezeichnung": "Fasnetsmuseum",
 "eigenschaften": [
-"adresse",
-"eroeffnung",
-"gebaeude",
-"verwalter"
+"führungen",
+"gebäude_feature",
+"gebäude_geschichte",
+"kontakt",
+"lage",
+"sammlung_inhalte",
+"zunft_restauration_jahr",
+"zunfthaus"
 ],
 "berichtigungen": 0
 },
 "403-endingen/020": {
-"entitaet": "bürgermeister",
-"bezeichnung": "Tobias Metz",
+"entitaet": "museum",
+"bezeichnung": "Kirschenmuseum",
 "eigenschaften": [
-"amt"
+"besonderheit_königschaffhausen",
+"fläche_m2",
+"führungen",
+"kontakt",
+"lage",
+"sammlung_inhalte",
+"thema"
 ],
 "berichtigungen": 0
 },
 "403-endingen/021": {
-"entitaet": "kirche",
-"bezeichnung": "Evangelische Kirche Endingen",
+"entitaet": "museum",
+"bezeichnung": "Heimatmuseum Kiechlinsbergen",
 "eigenschaften": [
-"adresse",
-"konfession"
+"beschreibung",
+"führungen_sonder",
+"kontakt",
+"lage",
+"stammtisch_monatlich",
+"stammtisch_ort",
+"untergebracht_seit",
+"öffnungszeiten_regulär",
+"öffnungszeiten_sonder"
 ],
 "berichtigungen": 0
 },
 "403-endingen/022": {
-"entitaet": "kirche",
-"bezeichnung": "Evangelische Kirchengemeinde Königschaffhausen",
+"entitaet": "galerie",
+"bezeichnung": "KunstKÖ21",
 "eigenschaften": [
-"erster_pfarrer",
-"konfession",
-"orgel_dauer",
-"pfarrei_zugehoerigkeit",
-"pfarrer_heute"
+"eintritt",
+"kontakt",
+"lage",
+"leitung",
+"programme",
+"öffnungszeiten"
 ],
 "berichtigungen": 0
 },
 "403-endingen/023": {
-"entitaet": "kirche",
-"bezeichnung": "Katholische Pfarrgemeinde St. Peter",
+"entitaet": "galerie",
+"bezeichnung": "Kunst im kleinen Hof",
 "eigenschaften": [
-"adresse",
-"konfession"
+"ambiente",
+"künstler",
+"lage",
+"spezialität",
+"öffnungszeiten"
 ],
 "berichtigungen": 0
 },
 "403-endingen/024": {
-"entitaet": "kirche",
-"bezeichnung": "Katholische Wallfahrtskirche St. Martin",
+"entitaet": "atelier",
+"bezeichnung": "Bildhauer-Atelier im Hof",
 "eigenschaften": [
-"konfession",
-"wallfahrtsort"
+"ambiente",
+"eintritt",
+"künstler",
+"lage",
+"spezialität",
+"öffnungszeiten"
 ],
 "berichtigungen": 0
 },
 "403-endingen/025": {
-"entitaet": "kirche",
-"bezeichnung": "Katholische Pfarrgemeinde St. Petronilla",
+"entitaet": "galerie",
+"bezeichnung": "MILU – Individuelle Bilder für individuelle Menschen",
 "eigenschaften": [
-"adresse",
-"konfession"
+"eintritt",
+"kontakt",
+"künstlerin",
+"lage",
+"spezialität",
+"öffnungszeiten"
 ],
 "berichtigungen": 0
 },
 "403-endingen/026": {
-"entitaet": "kirche",
-"bezeichnung": "Katholische Pfarrkirche St. Vitus",
+"entitaet": "bauwerk",
+"bezeichnung": "Altes Rathaus",
 "eigenschaften": [
-"adresse",
-"baustil",
-"bauzeit_klassizistisch",
-"kircheninnenraum",
-"konfession",
-"ursprung",
-"ursprung_zerstörung",
-"veranstaltung_advent"
+"ausstattung_kunstgegenstände",
+"erbaujahr",
+"lage",
+"nutzung_heute",
+"saal"
 ],
 "berichtigungen": 0
 },
 "403-endingen/027": {
-"entitaet": "kapelle",
-"bezeichnung": "St. Katharinenkapelle",
+"entitaet": "bauwerk",
+"bezeichnung": "Kornhaus (Laübä)",
 "eigenschaften": [
-"konfession"
+"erbaujahr",
+"nutzung_heute",
+"volksmund_name"
 ],
 "berichtigungen": 0
 },
 "403-endingen/028": {
-"entitaet": "gemeinde",
-"bezeichnung": "Jehovas Zeugen Endingen",
+"entitaet": "bauwerk",
+"bezeichnung": "Königschaffhauser Tor (Torli)",
 "eigenschaften": [
-"adresse",
-"konfession"
+"beschreibung",
+"geschichte",
+"nutzung_heute",
+"restauration_jahr"
 ],
 "berichtigungen": 0
 },
 "403-endingen/029": {
-"entitaet": "brunnen",
-"bezeichnung": "Sandsteinbrunnen Amoltern",
+"entitaet": "denkmal",
+"bezeichnung": "Koliburg",
 "eigenschaften": [
-"bedeutung",
-"jahr",
-"motiv"
+"beschreibung",
+"geschichtlicher_kontext",
+"periode"
 ],
 "berichtigungen": 0
 },
 "403-endingen/030": {
-"entitaet": "roman",
-"bezeichnung": "Die Heiligen von Amoltern",
+"entitaet": "denkmal",
+"bezeichnung": "Üsenberger Hof",
 "eigenschaften": [
-"autor",
-"autor_lebensdaten",
-"historischer_hintergrund",
-"inhalt",
-"veroeffentlichung",
-"versuch_ausfall",
-"versuch_ziel"
+"beschreibung",
+"nutzung_heute"
 ],
 "berichtigungen": 0
 },
 "403-endingen/031": {
-"entitaet": "ortsteil",
-"bezeichnung": "Amoltern",
+"entitaet": "person",
+"bezeichnung": "Anna Schnidenwind",
 "eigenschaften": [
-"einwohner",
-"fruehling_merkmale",
-"gemeindereform_anschluss",
-"hoehe",
-"lage",
-"landwirtschaft",
-"naturschutzgebiet",
-"naturschutzgebiet_besonderheit",
-"naturschutzgebiet_flora",
-"urkundliche_erwaehnung",
-"ursprung_namensherkunft",
-"wanderpfad"
+"bemerkung_alternative_quelle",
+"ereignis",
+"ereignis_datum",
+"ereignis_jahr",
+"ereignis_ort",
+"jahr_geburt",
+"jahr_tod",
+"superlativ"
 ],
 "berichtigungen": 0
 },
 "403-endingen/032": {
-"entitaet": "ortsteil",
-"bezeichnung": "Kiechlinsbergen",
+"entitaet": "ereignis",
+"bezeichnung": "Hexenprozess Anna Schnidenwind",
 "eigenschaften": [
-"bauernkrieg_beteiligung",
-"bevoelkerung_1475",
-"bevoelkerung_1798",
-"bevoelkerung_1836",
-"bevoelkerung_1939",
-"bevoelkerung_1970",
-"erste_urkundliche_erwaehnung",
-"erste_urkundliche_erwaehnung_erweitert",
-"erwerbtaettige_1950_landwirtschaft",
-"erwerbtaettige_heute_landwirtschaft",
-"flurbereinigung_ab",
-"gemeindereform_anschluss",
-"herkunft_fränkisch",
-"kloster_andlau_erwaehnung",
-"kloster_andlau_rolle",
-"kloster_tennenbach_erwerbung",
-"name_herkunft",
-"rebflaeche_1960",
-"rebflaeche_1970",
-"urspprung_name",
-"weinbau_umstellung",
-"winzergenossenschaft_gruendung"
+"datum",
+"jahr",
+"kontext",
+"ort",
+"person",
+"todesart"
 ],
 "berichtigungen": 0
 },
 "403-endingen/033": {
-"entitaet": "ortsteil",
-"bezeichnung": "Königschaffhausen",
+"entitaet": "ereignis",
+"bezeichnung": "Schlacht bei Endingen",
 "eigenschaften": [
-"19_jahrhundert_infrastruktur",
-"baden_besitz_ab",
-"baden_besitz_alleinig_ab",
-"einwohner",
-"erste_urkundliche_erwaehnung",
-"erste_urkundliche_erwaehnung_grund",
-"erster_evangelischer_pfarrer",
-"gewannnamen",
-"glocken_wk1",
-"glocken_wk1_ersatz",
-"glocken_wk2",
-"glocken_wk2_ersatz",
-"habsburg_verkauf",
-"habsburg_verkauf_an",
-"habsburg_verkauf_anlass",
-"habsburg_verkauf_betrag",
-"hoehe",
-"kirschen_anbau",
-"kirschen_typ",
-"kirschenbluete",
-"kirschengemeinde_status",
-"namensherkunft",
-"orgel_dauer",
-"pfarrei_zugehoerigkeit_aenderung",
-"pfarrei_zugehoerigkeit_historisch",
-"pfarrer_heute",
-"reforma_konfession",
-"reformation_grund",
-"weinbau_seit",
-"weinlagen"
+"folgen",
+"jahr",
+"kontext"
 ],
 "berichtigungen": 0
 },
 "403-endingen/034": {
-"entitaet": "naturschutzgebiet",
-"bezeichnung": "Amolterer Heide",
+"entitaet": "ereignis",
+"bezeichnung": "Auswanderung nach Colonia Tovar",
 "eigenschaften": [
-"flora",
-"status"
+"jahr",
+"nachkommenschaft",
+"personen_anzahl",
+"zielort"
 ],
 "berichtigungen": 0
 },
 "403-endingen/035": {
-"entitaet": "app",
-"bezeichnung": "Zeigmal.App",
+"entitaet": "brandkatastrophe",
+"bezeichnung": "Großbrand Marktplatz",
 "eigenschaften": [
-"ar_effekt",
-"ar_funktionalitaet",
-"entwicklung_partner",
-"funktionalitaet",
-"funktionalitaet_interaktiv",
-"inhalte",
-"inhalte_ar",
-"inhalte_audio",
-"registrierung",
-"verfuegbarkeit"
+"folgen",
+"jahr"
 ],
 "berichtigungen": 0
 },
 "403-endingen/036": {
-"entitaet": "künstler_galerie",
-"bezeichnung": "KunstKÖ21",
+"entitaet": "infrastruktur",
+"bezeichnung": "Wasserleitung",
 "eigenschaften": [
-"adresse",
-"ausstellungsart",
-"betreiber"
+"erbaujahr",
+"folgen",
+"historischer_kontext",
+"type"
 ],
 "berichtigungen": 0
 },
 "403-endingen/037": {
-"entitaet": "künstler_galerie",
-"bezeichnung": "Kunst im kleinen Hof",
+"entitaet": "infrastruktur",
+"bezeichnung": "Gaswerk",
 "eigenschaften": [
-"adresse",
-"ambiente",
-"betreiber",
-"spezialitaet"
+"erbaujahr",
+"type"
 ],
 "berichtigungen": 0
 },
 "403-endingen/038": {
-"entitaet": "künstler_atelier",
-"bezeichnung": "Bildhauer-Atelier im Hof",
+"entitaet": "infrastruktur",
+"bezeichnung": "Elektrizitätsversorgung",
 "eigenschaften": [
-"adresse",
-"ambiente",
-"betreiber",
-"kunstform",
-"kunstform_art"
+"beschreibung",
+"erbaujahr"
 ],
 "berichtigungen": 0
 },
 "403-endingen/039": {
-"entitaet": "künstler_galerie",
-"bezeichnung": "MILU – Individuelle Bilder",
+"entitaet": "bahn",
+"bezeichnung": "Kaiserstuhlbahn",
 "eigenschaften": [
-"adresse",
-"betreiber",
-"kunstform",
-"kunstform_feature"
+"betriebsmittelpunkt",
+"elektrifizierung_jahre",
+"eröffnung_etappe1_jahr",
+"eröffnung_etappe1_strecke",
+"eröffnung_etappe2_anwesenheit",
+"eröffnung_etappe2_jahr",
+"eröffnung_etappe2_strecke"
 ],
 "berichtigungen": 0
 },
 "403-endingen/040": {
-"entitaet": "gaststätte",
-"bezeichnung": "Gasthaus \"Sonne\"",
+"entitaet": "bahnhof",
+"bezeichnung": "Bahnhof Endingen",
 "eigenschaften": [
-"baustil",
-"bedeutung"
+"betriebsmittelpunkt",
+"elektrifizierung_jahre",
+"linien_bedienung",
+"s11_verbindung",
+"s11_weiterfahrt",
+"s5_verbindung"
 ],
 "berichtigungen": 0
 },
 "403-endingen/041": {
-"entitaet": "stadtverwaltung",
-"bezeichnung": "Stadtverwaltung Endingen",
+"entitaet": "bahnhof",
+"bezeichnung": "Bahnhof Königschaffhausen",
 "eigenschaften": [
-"adresse"
+"linien_bedienung",
+"s5_verbindung"
 ],
 "berichtigungen": 0
 },
 "403-endingen/042": {
-"entitaet": "stromversorgung",
-"bezeichnung": "Stromversorgung Endingen",
+"entitaet": "radweg",
+"bezeichnung": "Badischer Weinradweg",
 "eigenschaften": [
-"ausbau_netz",
-"liefervertrag"
+"bedeutung",
+"start",
+"typ",
+"varianten",
+"verbundenheit",
+"verlauf_durch",
+"ziel"
+],
+"berichtigungen": 0
+},
+"403-endingen/043": {
+"entitaet": "veranstaltung",
+"bezeichnung": "Büchermarkt Endingen",
+"eigenschaften": [
+"angebot",
+"anlass_erstmalig",
+"besucher_anzahl",
+"größe",
+"marktbeschicker",
+"seit_jahr",
+"termine",
+"zusatz"
+],
+"berichtigungen": 0
+},
+"403-endingen/044": {
+"entitaet": "veranstaltung",
+"bezeichnung": "Schützenaufzug",
+"eigenschaften": [
+"ausrichter",
+"programm",
+"termin",
+"vorbereitung"
+],
+"berichtigungen": 0
+},
+"403-endingen/045": {
+"entitaet": "veranstaltung",
+"bezeichnung": "Rugili",
+"eigenschaften": [
+"durchführung",
+"genehmigung_jhdt",
+"gewinn",
+"recht_historisch",
+"typ",
+"ursprungszweck",
+"verkauf"
+],
+"berichtigungen": 0
+},
+"403-endingen/046": {
+"entitaet": "veranstaltung",
+"bezeichnung": "Kirschenfest",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"programm",
+"termin",
+"zusatz_wanderung"
+],
+"berichtigungen": 0
+},
+"403-endingen/047": {
+"entitaet": "veranstaltung",
+"bezeichnung": "Alemannischer Brotmarkt",
+"eigenschaften": [
+"anbieter",
+"angebot",
+"häufigkeit",
+"höhepunkt",
+"nächster_termin",
+"ort"
+],
+"berichtigungen": 0
+},
+"403-endingen/048": {
+"entitaet": "veranstaltung",
+"bezeichnung": "Theateraufführung \"Sag, wem gehört die schöne Stadt?\"",
+"eigenschaften": [
+"dauerhaftigkeit",
+"leitung",
+"thema",
+"typ"
+],
+"berichtigungen": 0
+},
+"403-endingen/049": {
+"entitaet": "theater",
+"bezeichnung": "Deutsche Kammerschauspiele",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"gegründet_jahr",
+"gegründet_ort",
+"gegründet_von",
+"lage_endingen",
+"leitung",
+"produktionsgruppe",
+"produktionsgruppe_format",
+"sitz_ort",
+"sitz_seit_jahr"
+],
+"berichtigungen": 0
+},
+"403-endingen/050": {
+"entitaet": "sport_verein",
+"bezeichnung": "VSG Endingen",
+"eigenschaften": [
+"anlage",
+"bemerkung",
+"lage",
+"spielbarkeitszeitraum",
+"sportart",
+"öffentlichkeit"
+],
+"berichtigungen": 0
+},
+"403-endingen/051": {
+"entitaet": "sport_anlage",
+"bezeichnung": "Minigolf am Erleweiher",
+"eigenschaften": [
+"betreiber",
+"zusatz",
+"öffnungszeiten_di_sa",
+"öffnungszeiten_montag",
+"öffnungszeiten_sonntag"
+],
+"berichtigungen": 0
+},
+"403-endingen/052": {
+"entitaet": "badeweiher",
+"bezeichnung": "Badeweiher Erletal",
+"eigenschaften": [
+"kontakt",
+"lage",
+"typ"
+],
+"berichtigungen": 0
+},
+"403-endingen/053": {
+"entitaet": "person",
+"bezeichnung": "Helmut Eitenbenz",
+"eigenschaften": [
+"geburtsjahr",
+"position",
+"status",
+"weitere_funktion"
+],
+"berichtigungen": 0
+},
+"403-endingen/054": {
+"entitaet": "person",
+"bezeichnung": "Alexander Benitz",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"herkunft",
+"jahr_auswanderung",
+"rolle"
+],
+"berichtigungen": 0
+},
+"403-endingen/055": {
+"entitaet": "person",
+"bezeichnung": "Karl Ignaz Hummel (genannt Oskar Daubmann)",
+"eigenschaften": [
+"bedeutung",
+"beruf",
+"ereignis_jahr",
+"ereignis_kontext",
+"geburtsjahr",
+"nutzen_ns",
+"realität",
+"skandal_auflösung",
+"todesjahr"
+],
+"berichtigungen": 0
+},
+"403-endingen/056": {
+"entitaet": "geschichtliches_ritual",
+"bezeichnung": "\"Unschuldige Kinder von Endingen\"",
+"eigenschaften": [
+"anstoß_kurrus",
+"aufklärung",
+"bedeutung",
+"darstellung",
+"ereignis",
+"kontext",
+"kunstwerk_glocke_osanna",
+"präsentation",
+"präsentation_bis_jahr",
+"status_2012",
+"tradition"
+],
+"berichtigungen": 0
+},
+"403-endingen/057": {
+"entitaet": "verkehr_radweg",
+"bezeichnung": "Kaiserstuhl-Radweg",
+"eigenschaften": [
+"besonderheit",
+"schwierigkeit",
+"typ",
+"zielgruppe"
+],
+"berichtigungen": 0
+},
+"403-endingen/058": {
+"entitaet": "verkehr_radweg",
+"bezeichnung": "Vulkantour",
+"eigenschaften": [
+"besonderheit",
+"schwierigkeit",
+"typ",
+"zielgruppe"
+],
+"berichtigungen": 0
+},
+"403-endingen/059": {
+"entitaet": "verkehr_radweg",
+"bezeichnung": "Kaisertour",
+"eigenschaften": [
+"typ",
+"zielgruppe"
+],
+"berichtigungen": 0
+},
+"403-endingen/060": {
+"entitaet": "wanderweg",
+"bezeichnung": "Katharinenpfad",
+"eigenschaften": [
+"besonderheit",
+"charakteristika",
+"typ"
+],
+"berichtigungen": 0
+},
+"403-endingen/061": {
+"entitaet": "wanderweg",
+"bezeichnung": "Themenwege Kaiserstuhl",
+"eigenschaften": [
+"besonderheit",
+"themen",
+"typ"
+],
+"berichtigungen": 0
+},
+"403-endingen/062": {
+"entitaet": "gipfel",
+"bezeichnung": "Staffelberg",
+"eigenschaften": [
+"höhe_m"
+],
+"berichtigungen": 0
+},
+"403-endingen/063": {
+"entitaet": "gipfel",
+"bezeichnung": "Galgenberg",
+"eigenschaften": [
+"höhe_m"
+],
+"berichtigungen": 0
+},
+"403-endingen/064": {
+"entitaet": "gipfel",
+"bezeichnung": "Spitzbuck",
+"eigenschaften": [
+"höhe_m"
+],
+"berichtigungen": 0
+},
+"403-endingen/065": {
+"entitaet": "schutzgebiet",
+"bezeichnung": "Amolterer Heide",
+"eigenschaften": [
+"beschreibung",
+"schutzstatus_seit_jahr"
+],
+"berichtigungen": 0
+},
+"403-endingen/066": {
+"entitaet": "schutzgebiet",
+"bezeichnung": "Erletal",
+"eigenschaften": [
+"beschreibung",
+"schutzstatus_seit_jahr"
+],
+"berichtigungen": 0
+},
+"403-endingen/067": {
+"entitaet": "zeigmal_app",
+"bezeichnung": "Zeigmal-App",
+"eigenschaften": [
+"besonderheit",
+"funktionalität",
+"kooperation",
+"link",
+"registrierung_erforderlich",
+"typ",
+"verfügbarkeit"
+],
+"berichtigungen": 0
+},
+"403-endingen/068": {
+"entitaet": "wirtschaft_betrieb",
+"bezeichnung": "Lederfabrik Loesch",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"eröffnungsjahr"
+],
+"berichtigungen": 0
+},
+"403-endingen/069": {
+"entitaet": "wirtschaft_betrieb",
+"bezeichnung": "Südwestdeutsche Verkehrs AG",
+"eigenschaften": [
+"beschreibung",
+"betriebszentrum_ort"
+],
+"berichtigungen": 0
+},
+"403-endingen/070": {
+"entitaet": "wirtschaft_betrieb",
+"bezeichnung": "VollherbstDruck",
+"eigenschaften": [
+"mitarbeiter_anzahl",
+"produkt"
+],
+"berichtigungen": 0
+},
+"403-endingen/071": {
+"entitaet": "wirtschaft_betrieb",
+"bezeichnung": "Buchhandlung Vollherbst-Koch",
+"eigenschaften": [
+"gegründet_jahr",
+"superlativ"
+],
+"berichtigungen": 0
+},
+"403-endingen/072": {
+"entitaet": "wirtschaft_betrieb",
+"bezeichnung": "Keller Blechtechnik",
+"eigenschaften": [
+"gegründet_jahr",
+"spezialität"
+],
+"berichtigungen": 0
+},
+"403-endingen/073": {
+"entitaet": "wirtschaft_betrieb",
+"bezeichnung": "Rilit Lackfabrik GmbH",
+"eigenschaften": [
+"mitarbeiter_anzahl",
+"spezialität"
+],
+"berichtigungen": 0
+},
+"403-endingen/074": {
+"entitaet": "wirtschaft_betrieb",
+"bezeichnung": "ekp coatings GmbH",
+"eigenschaften": [
+"spezialität"
+],
+"berichtigungen": 0
+},
+"403-endingen/075": {
+"entitaet": "wirtschaft_betrieb",
+"bezeichnung": "BEO Software",
+"eigenschaften": [
+"gegründet_jahr",
+"gründer",
+"spezialität"
+],
+"berichtigungen": 0
+},
+"403-endingen/076": {
+"entitaet": "wirtschaft_betrieb",
+"bezeichnung": "VCM Morgenthaler GmbH",
+"eigenschaften": [
+"größe",
+"hauptsitz_seitdem",
+"typ"
+],
+"berichtigungen": 0
+},
+"403-endingen/077": {
+"entitaet": "ortsteil",
+"bezeichnung": "Amoltern",
+"eigenschaften": [
+"eingemeindet_jahr",
+"einwohner_2026_05",
+"status",
+"verwaltungsstelle"
+],
+"berichtigungen": 0
+},
+"403-endingen/078": {
+"entitaet": "ortsteil",
+"bezeichnung": "Königschaffhausen",
+"eigenschaften": [
+"besonderheit",
+"charakteristika",
+"eingemeindet_jahr",
+"einwohner_2026_05",
+"status",
+"verwaltungsstelle"
+],
+"berichtigungen": 0
+},
+"403-endingen/079": {
+"entitaet": "ortsteil",
+"bezeichnung": "Kiechlinsbergen",
+"eigenschaften": [
+"charakteristika",
+"eingemeindet_jahr",
+"einwohner_2026_05",
+"status",
+"verwaltungsbereich_vor_1974",
+"verwaltungsstelle"
+],
+"berichtigungen": 0
+},
+"403-endingen/080": {
+"entitaet": "stadträume",
+"bezeichnung": "Altstadt Endingen",
+"eigenschaften": [
+"charakteristika",
+"erscheinungsbild",
+"schutz_begründung",
+"schutz_status"
+],
+"berichtigungen": 0
+},
+"403-endingen/081": {
+"entitaet": "partnergemeinde",
+"bezeichnung": "Erstein",
+"eigenschaften": [
+"bedeutung",
+"entfernung_ungefähr",
+"land",
+"partnerschaft_seit_jahr",
+"region"
+],
+"berichtigungen": 0
+},
+"403-endingen/082": {
+"entitaet": "freundschaftliche_beziehungen",
+"bezeichnung": "Coulonges-sur-l'Autize",
+"eigenschaften": [
+"beziehungen_typ",
+"land",
+"region"
+],
+"berichtigungen": 0
+},
+"403-endingen/083": {
+"entitaet": "kontakte_diaspora",
+"bezeichnung": "Colonia Tovar",
+"eigenschaften": [
+"bedeutung",
+"beziehungen_typ",
+"hintergrund",
+"land",
+"nachkommen_generation"
+],
+"berichtigungen": 0
+},
+"403-endingen/084": {
+"entitaet": "stadtmusik",
+"bezeichnung": "Stadtmusik Endingen",
+"eigenschaften": [
+"dirigent_1960_1989",
+"dirigent_1991_2018",
+"dirigent_bis_1960",
+"dirigent_seit_2019",
+"gastdirigenten",
+"geschichte_venezuela_besuch",
+"jubiläum_jahr",
+"jugendkapelle",
+"präsident",
+"reise_japan",
+"typ"
+],
+"berichtigungen": 0
+},
+"403-endingen/085": {
+"entitaet": "musikgruppe",
+"bezeichnung": "Bürgerwehr-Spielmannszug",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"leitung",
+"zusammensetzung"
+],
+"berichtigungen": 0
+},
+"403-endingen/086": {
+"entitaet": "musikgruppe",
+"bezeichnung": "Trommelgruppe Black-Eagle Drumline",
+"eigenschaften": [
+"type"
+],
+"berichtigungen": 0
+},
+"403-endingen/087": {
+"entitaet": "chor",
+"bezeichnung": "MGV Singgemeinschaft",
+"eigenschaften": [
+"type"
+],
+"berichtigungen": 0
+},
+"403-endingen/088": {
+"entitaet": "chor",
+"bezeichnung": "Chorvereinigung Amicitia",
+"eigenschaften": [
+"gegründet_jahr",
+"type"
+],
+"berichtigungen": 0
+},
+"403-endingen/089": {
+"entitaet": "chor",
+"bezeichnung": "Katholischer Kirchenchor",
+"eigenschaften": [
+"konfession"
+],
+"berichtigungen": 0
+},
+"403-endingen/090": {
+"entitaet": "chor",
+"bezeichnung": "Evangelischer Kirchenchor",
+"eigenschaften": [
+"konfession"
 ],
 "berichtigungen": 0
 },
@@ -204835,6 +205622,525 @@
 ],
 "berichtigungen": 0
 },
+"469-sasbach/001": {
+"entitaet": "ort",
+"bezeichnung": "Sasbach am Kaiserstuhl",
+"eigenschaften": [
+"bundesland",
+"einwohnerzahl",
+"flaeche",
+"grenze_zu_frankreich",
+"hoehe_ueber_nn",
+"lage",
+"landkreis",
+"regierungsbezirk"
+],
+"berichtigungen": 0
+},
+"469-sasbach/002": {
+"entitaet": "ort",
+"bezeichnung": "ort",
+"eigenschaften": [
+"erste_urkundliche_erwaehnung",
+"frueherer_charaktertyp",
+"grund_umbenennung",
+"namensaenderung",
+"namensaenderung_jahr",
+"namensgruendung",
+"urspruenge"
+],
+"berichtigungen": 0
+},
+"469-sasbach/003": {
+"entitaet": "ort",
+"bezeichnung": "ort",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"bodenauswirkung",
+"hauptwirtschaftszweig",
+"rebsorten_hauptsaechlich",
+"vulkanische_boeden",
+"weinbau_tradition_seit"
+],
+"berichtigungen": 0
+},
+"469-sasbach/004": {
+"entitaet": "ortsteil",
+"bezeichnung": "Jechtingen",
+"eigenschaften": [
+"eingemeindung_datum",
+"einwohnerzahl"
+],
+"berichtigungen": 0
+},
+"469-sasbach/005": {
+"entitaet": "ortsteil",
+"bezeichnung": "Leiselheim",
+"eigenschaften": [
+"eingemeindung_datum",
+"einwohnerzahl"
+],
+"berichtigungen": 0
+},
+"469-sasbach/006": {
+"entitaet": "ortsteil",
+"bezeichnung": "Sasbach",
+"eigenschaften": [
+"einwohnerzahl"
+],
+"berichtigungen": 0
+},
+"469-sasbach/007": {
+"entitaet": "burg",
+"bezeichnung": "Sasbacher Limburg",
+"eigenschaften": [
+"bauherr_mittelalter",
+"bauherr_ursprung",
+"bedeutung_fuer_ort",
+"besonderheit",
+"erwaehnung_erste",
+"hoehe_des_huegels",
+"panoramablick",
+"sichtbar_heute",
+"typ",
+"urspruengliche_funktion"
+],
+"berichtigungen": 0
+},
+"469-sasbach/008": {
+"entitaet": "burg",
+"bezeichnung": "Burg Sponeck",
+"eigenschaften": [
+"status",
+"vorgaenger",
+"vorgaenger_datierung"
+],
+"berichtigungen": 0
+},
+"469-sasbach/009": {
+"entitaet": "kastell",
+"bezeichnung": "Kastell Sasbach-Jechtingen",
+"eigenschaften": [
+"datierung",
+"erbauer",
+"funktion",
+"reste_sichtbar"
+],
+"berichtigungen": 0
+},
+"469-sasbach/010": {
+"entitaet": "fest",
+"bezeichnung": "Sasbacher Winzerfest",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"besonderheiten",
+"rhythmus",
+"zeitpunkt"
+],
+"berichtigungen": 0
+},
+"469-sasbach/011": {
+"entitaet": "fest",
+"bezeichnung": "Jechtinger Herbstfest",
+"eigenschaften": [
+"zeitpunkt"
+],
+"berichtigungen": 0
+},
+"469-sasbach/012": {
+"entitaet": "fest",
+"bezeichnung": "Zwiebelkuchenfest",
+"eigenschaften": [
+"zeitpunkt"
+],
+"berichtigungen": 0
+},
+"469-sasbach/013": {
+"entitaet": "fest",
+"bezeichnung": "Waldfest des Musikvereins",
+"eigenschaften": [
+"besonderheiten",
+"rhythmus",
+"veranstalter"
+],
+"berichtigungen": 0
+},
+"469-sasbach/014": {
+"entitaet": "museum",
+"bezeichnung": "Heimatmuseum Sasbach",
+"eigenschaften": [
+"beschreibung",
+"inhalte",
+"traeger",
+"unterkunft"
+],
+"berichtigungen": 0
+},
+"469-sasbach/015": {
+"entitaet": "badesee",
+"bezeichnung": "Sasbacher Badesee",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"erreichbarkeit",
+"flaeche",
+"infrastruktur",
+"lage",
+"schwimmbereich",
+"wassergualitaet_kontrolle",
+"zugang"
+],
+"berichtigungen": 0
+},
+"469-sasbach/016": {
+"entitaet": "radweg",
+"bezeichnung": "Badischer Weinradweg",
+"eigenschaften": [
+"besonderheit",
+"charakteristik",
+"highlights",
+"laenge",
+"verlauf_region"
+],
+"berichtigungen": 0
+},
+"469-sasbach/017": {
+"entitaet": "radweg",
+"bezeichnung": "Rheinradweg",
+"eigenschaften": [
+"besonderheit",
+"charakteristik",
+"verlauf"
+],
+"berichtigungen": 0
+},
+"469-sasbach/018": {
+"entitaet": "radweg",
+"bezeichnung": "Kaiserstuhl-Radwanderweg",
+"eigenschaften": [
+"charakteristik"
+],
+"berichtigungen": 0
+},
+"469-sasbach/019": {
+"entitaet": "radweg",
+"bezeichnung": "Oberrhein Römerradweg",
+"eigenschaften": [
+"laenge"
+],
+"berichtigungen": 0
+},
+"469-sasbach/020": {
+"entitaet": "wanderweg",
+"bezeichnung": "Rheinaueweg",
+"eigenschaften": [
+"laenge"
+],
+"berichtigungen": 0
+},
+"469-sasbach/021": {
+"entitaet": "wanderweg",
+"bezeichnung": "Badischer Jakobusweg (südlicher Teil)",
+"eigenschaften": [
+"charakteristik"
+],
+"berichtigungen": 0
+},
+"469-sasbach/022": {
+"entitaet": "berg",
+"bezeichnung": "Kaiserstuhl",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"bodenqualitaet",
+"flora_fauna",
+"typus",
+"vogelarten"
+],
+"berichtigungen": 0
+},
+"469-sasbach/023": {
+"entitaet": "berg",
+"bezeichnung": "Lützelberg",
+"eigenschaften": [
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"469-sasbach/024": {
+"entitaet": "berg",
+"bezeichnung": "Limberg",
+"eigenschaften": [
+"hoehe"
+],
+"berichtigungen": 0
+},
+"469-sasbach/025": {
+"entitaet": "berg",
+"bezeichnung": "Humberg",
+"eigenschaften": [
+"hoehe"
+],
+"berichtigungen": 0
+},
+"469-sasbach/026": {
+"entitaet": "berg",
+"bezeichnung": "Eichert",
+"eigenschaften": [
+"hoehe"
+],
+"berichtigungen": 0
+},
+"469-sasbach/027": {
+"entitaet": "aussichtspunkt",
+"bezeichnung": "Kaiserstuhlblick",
+"eigenschaften": [
+"bezeichnung_alternative"
+],
+"berichtigungen": 0
+},
+"469-sasbach/028": {
+"entitaet": "bruecke",
+"bezeichnung": "Rheinbrücke Sasbach-Marckolsheim",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"eroeffnungsdatum",
+"funktion",
+"laenge"
+],
+"berichtigungen": 0
+},
+"469-sasbach/029": {
+"entitaet": "partnerstadt",
+"bezeichnung": "Marckolsheim",
+"eigenschaften": [
+"beschreibung",
+"land",
+"region",
+"typ"
+],
+"berichtigungen": 0
+},
+"469-sasbach/030": {
+"entitaet": "partnerstadt",
+"bezeichnung": "Sasbach in der Ortenau",
+"eigenschaften": [
+"beziehung",
+"land",
+"region",
+"typ"
+],
+"berichtigungen": 0
+},
+"469-sasbach/031": {
+"entitaet": "kirchengemeinde",
+"bezeichnung": "Katholische Kirchengemeinde am Litzelberg",
+"eigenschaften": [
+"grund_konfession",
+"konfession",
+"ortsteile"
+],
+"berichtigungen": 0
+},
+"469-sasbach/032": {
+"entitaet": "kirchengemeinde",
+"bezeichnung": "Evangelische Kirchengemeinde Königschaffhausen-Leiselheim",
+"eigenschaften": [
+"grund_konfession",
+"konfession"
+],
+"berichtigungen": 0
+},
+"469-sasbach/033": {
+"entitaet": "verein",
+"bezeichnung": "Musikverein Sasbach e.V.",
+"eigenschaften": [
+"typ",
+"ueberregionale_bekanntheit",
+"veranstaltung",
+"veranstaltungsort"
+],
+"berichtigungen": 0
+},
+"469-sasbach/034": {
+"entitaet": "verein",
+"bezeichnung": "Anglerfreunde Sasbach e.V.",
+"eigenschaften": [
+"beschreibung",
+"typ"
+],
+"berichtigungen": 0
+},
+"469-sasbach/035": {
+"entitaet": "weingut",
+"bezeichnung": "Weingut Wiedemann",
+"eigenschaften": [
+"typ"
+],
+"berichtigungen": 0
+},
+"469-sasbach/036": {
+"entitaet": "weingut",
+"bezeichnung": "Weingut Grotz",
+"eigenschaften": [
+"typ"
+],
+"berichtigungen": 0
+},
+"469-sasbach/037": {
+"entitaet": "weingut",
+"bezeichnung": "Weingut Birmelin",
+"eigenschaften": [
+"typ"
+],
+"berichtigungen": 0
+},
+"469-sasbach/038": {
+"entitaet": "weingut",
+"bezeichnung": "Winzerhof Mattmüller",
+"eigenschaften": [
+"typ"
+],
+"berichtigungen": 0
+},
+"469-sasbach/039": {
+"entitaet": "weingut",
+"bezeichnung": "Winzerhof Brand",
+"eigenschaften": [
+"typ"
+],
+"berichtigungen": 0
+},
+"469-sasbach/040": {
+"entitaet": "weingut",
+"bezeichnung": "Weingut Helde",
+"eigenschaften": [
+"typ"
+],
+"berichtigungen": 0
+},
+"469-sasbach/041": {
+"entitaet": "weingut",
+"bezeichnung": "Weingut Rabenhof",
+"eigenschaften": [
+"typ"
+],
+"berichtigungen": 0
+},
+"469-sasbach/042": {
+"entitaet": "winzerkeller",
+"bezeichnung": "Sasbacher Winzerkeller e.G.",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"typ"
+],
+"berichtigungen": 0
+},
+"469-sasbach/043": {
+"entitaet": "bahnhof",
+"bezeichnung": "Sasbach am Kaiserstuhl",
+"eigenschaften": [
+"betreiber",
+"elektrifizierung",
+"linie",
+"verbindung"
+],
+"berichtigungen": 0
+},
+"469-sasbach/044": {
+"entitaet": "bahnhof",
+"bezeichnung": "Jechtingen",
+"eigenschaften": [
+"linie"
+],
+"berichtigungen": 0
+},
+"469-sasbach/045": {
+"entitaet": "personlichkeit",
+"bezeichnung": "Rudolf von Habsburg",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"geburt",
+"geburt_datum",
+"geburt_ort",
+"rolle",
+"titel",
+"tod"
+],
+"berichtigungen": 0
+},
+"469-sasbach/046": {
+"entitaet": "personlichkeit",
+"bezeichnung": "Johann Baptist Kirner",
+"eigenschaften": [
+"beruf",
+"epoche",
+"geburt",
+"geburt_ort",
+"tod"
+],
+"berichtigungen": 0
+},
+"469-sasbach/047": {
+"entitaet": "ereignis",
+"bezeichnung": "Rheinregulierung durch Johann Gottfried Tulla",
+"eigenschaften": [
+"auswirkung_allgemein",
+"folgen_fuer_sasbach",
+"region",
+"zeitraum"
+],
+"berichtigungen": 0
+},
+"469-sasbach/048": {
+"entitaet": "ereignis",
+"bezeichnung": "Zusammenlegung der Gemeinden Sasbach, Jechtingen und Leiselheim",
+"eigenschaften": [
+"jechtingen_eingemeindung",
+"kontext",
+"leiselheim_eingemeindung",
+"zeitraum",
+"ziel"
+],
+"berichtigungen": 0
+},
+"469-sasbach/049": {
+"entitaet": "bugermeister",
+"bezeichnung": "Nikolas Kopp",
+"eigenschaften": [
+"amtsantritt",
+"wahl_prozentsatz",
+"wahltermin"
+],
+"berichtigungen": 0
+},
+"469-sasbach/050": {
+"entitaet": "bugermeister",
+"bezeichnung": "Jürgen Scheiding",
+"eigenschaften": [
+"amtszeit_bis",
+"amtszeit_von"
+],
+"berichtigungen": 0
+},
+"469-sasbach/051": {
+"entitaet": "klima",
+"bezeichnung": "klima",
+"eigenschaften": [
+"auswirkung",
+"charakteristik",
+"sonnentage_im_jahr"
+],
+"berichtigungen": 0
+},
+"469-sasbach/052": {
+"entitaet": "gewerbegebiet",
+"bezeichnung": "Gewerbegebiet Nord",
+"eigenschaften": [
+"bebauungsplanbeschluss",
+"flaeche",
+"lage"
+],
+"berichtigungen": 0
+},
 "47-andernach/001": {
 "entitaet": "ort",
 "bezeichnung": "Andernach",
@@ -205592,6 +206898,2950 @@
 ],
 "berichtigungen": 0
 },
+"470-wyhl/001": {
+"entitaet": "ort",
+"bezeichnung": "Wyhl",
+"eigenschaften": [
+"bundesland",
+"entfernung_emmendingen",
+"entfernung_freiburg",
+"hoehenlage",
+"lage",
+"landkreis",
+"rhein_grenze"
+],
+"berichtigungen": 0
+},
+"470-wyhl/002": {
+"entitaet": "ort",
+"bezeichnung": "Wyhl",
+"eigenschaften": [
+"einwohnerzahl",
+"gemarkungsflaeche_ha",
+"gewaesserflaeche_ha",
+"landwirtschaftliche_nutzung_ha",
+"nitratwert_mg_l",
+"siedlungs_verkehrsflaeche_ha",
+"waldflaeche_ha",
+"wasserharte"
+],
+"berichtigungen": 0
+},
+"470-wyhl/003": {
+"entitaet": "ort",
+"bezeichnung": "ort",
+"eigenschaften": [
+"charakterisierung_rhein",
+"ersterwachnung_form",
+"ersterwachnung_jahr",
+"frueheste_besiedlung",
+"namensgeschichte"
+],
+"berichtigungen": 0
+},
+"470-wyhl/004": {
+"entitaet": "siedlung",
+"bezeichnung": "keltoromanische Siedlung",
+"eigenschaften": [
+"beleg_graeberfunde_4_5_jh",
+"beleg_graeberfunde_7_jh",
+"lage",
+"zeitspanne"
+],
+"berichtigungen": 0
+},
+"470-wyhl/005": {
+"entitaet": "kirche",
+"bezeichnung": "St. Blasius",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"beschreibung",
+"ersterwachnung_form",
+"ersterwachnung_jahr",
+"gemaelde_kuenstler",
+"grundsteinlegung_neubau",
+"pfarrhaus_bauzeit",
+"pfarrhaus_stil",
+"seelsorgeeinheit",
+"skulpturen_kuenstler",
+"stil",
+"turmbau_zeit"
+],
+"berichtigungen": 0
+},
+"470-wyhl/006": {
+"entitaet": "kapelle",
+"bezeichnung": "kapelle",
+"eigenschaften": [
+"anlass",
+"annahme_baujahr",
+"lage"
+],
+"berichtigungen": 0
+},
+"470-wyhl/007": {
+"entitaet": "pest",
+"bezeichnung": "pest",
+"eigenschaften": [
+"ausbruch_1188",
+"ausbruch_1348"
+],
+"berichtigungen": 0
+},
+"470-wyhl/008": {
+"entitaet": "rheinu­eberschwemmung",
+"bezeichnung": "rheinu­eberschwemmung",
+"eigenschaften": [
+"beschreibung",
+"datum",
+"jahr"
+],
+"berichtigungen": 0
+},
+"470-wyhl/009": {
+"entitaet": "freiheytsbrief",
+"bezeichnung": "freiheytsbrief",
+"eigenschaften": [
+"beschreibung",
+"jahr",
+"veranlasser"
+],
+"berichtigungen": 0
+},
+"470-wyhl/010": {
+"entitaet": "personalunion",
+"bezeichnung": "personalunion",
+"eigenschaften": [
+"beschreibung",
+"folge",
+"jahr"
+],
+"berichtigungen": 0
+},
+"470-wyhl/011": {
+"entitaet": "gemeindewappen",
+"bezeichnung": "gemeindewappen",
+"eigenschaften": [
+"blasonierung",
+"farbenzeichnung_durch",
+"farbenzeichnung_jahr",
+"flagge",
+"hinteres_feld",
+"ortsherrschaft_seit",
+"vorderes_feld",
+"wappen_aenderung_jahr",
+"ältestes_siegel_beschreibung",
+"ältestes_siegel_jahr"
+],
+"berichtigungen": 0
+},
+"470-wyhl/012": {
+"entitaet": "gerichtssiegel",
+"bezeichnung": "gerichtssiegel",
+"eigenschaften": [
+"beschreibung",
+"jahr",
+"superlativ"
+],
+"berichtigungen": 0
+},
+"470-wyhl/013": {
+"entitaet": "gebaeude",
+"bezeichnung": "Stubenhof",
+"eigenschaften": [
+"adresse",
+"bauherr",
+"baujahr",
+"nutzung",
+"weitere_nutzung_krieg",
+"weitere_nutzung_spaeter"
+],
+"berichtigungen": 0
+},
+"470-wyhl/014": {
+"entitaet": "schwedenlager",
+"bezeichnung": "schwedenlager",
+"eigenschaften": [
+"groesse",
+"lage",
+"weitere_voelkerschaften",
+"zeitspanne"
+],
+"berichtigungen": 0
+},
+"470-wyhl/015": {
+"entitaet": "kirchtuhr",
+"bezeichnung": "kirchtuhr",
+"eigenschaften": [
+"beschreibung",
+"jahr",
+"ort"
+],
+"berichtigungen": 0
+},
+"470-wyhl/016": {
+"entitaet": "muehle",
+"bezeichnung": "Wyhler Mühle",
+"eigenschaften": [
+"besonderheit",
+"jahr",
+"neuer_besitzer",
+"verleihende_instanz"
+],
+"berichtigungen": 0
+},
+"470-wyhl/017": {
+"entitaet": "feuer",
+"bezeichnung": "Kirchenbrand",
+"eigenschaften": [
+"jahr",
+"zerstoert"
+],
+"berichtigungen": 0
+},
+"470-wyhl/018": {
+"entitaet": "feuer",
+"bezeichnung": "Feuersbrunst von 1751",
+"eigenschaften": [
+"anomalie",
+"ausloeser_vermutet",
+"datum",
+"hinrichtung",
+"verurteilung",
+"zerstoerte_haeuser",
+"zuschauerschaft"
+],
+"berichtigungen": 0
+},
+"470-wyhl/019": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Anna Trutt",
+"eigenschaften": [
+"anklage",
+"beschreibung",
+"geburtsname",
+"gedenken",
+"lebensjahre",
+"todesart"
+],
+"berichtigungen": 0
+},
+"470-wyhl/020": {
+"entitaet": "pfarrhaus",
+"bezeichnung": "pfarrhaus",
+"eigenschaften": [
+"bauzeit",
+"stil"
+],
+"berichtigungen": 0
+},
+"470-wyhl/021": {
+"entitaet": "ort",
+"bezeichnung": "ort",
+"eigenschaften": [
+"ereignis_1806",
+"ereignis_1806_folge",
+"ereignis_1812",
+"ereignis_1812_grund"
+],
+"berichtigungen": 0
+},
+"470-wyhl/022": {
+"entitaet": "schulgebaeude",
+"bezeichnung": "schulgebaeude",
+"eigenschaften": [
+"baujahr",
+"heutige_nutzung"
+],
+"berichtigungen": 0
+},
+"470-wyhl/023": {
+"entitaet": "gemeindeordnung",
+"bezeichnung": "gemeindeordnung",
+"eigenschaften": [
+"aenderung",
+"folge",
+"jahr"
+],
+"berichtigungen": 0
+},
+"470-wyhl/024": {
+"entitaet": "auswanderung",
+"bezeichnung": "Colonia Tovar",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"bestand_heute",
+"gründung_name",
+"jahr",
+"mitgruender",
+"unterstuetzung_gemeinde",
+"zahl_auswanderer",
+"ziel_land"
+],
+"berichtigungen": 0
+},
+"470-wyhl/025": {
+"entitaet": "auswanderung",
+"bezeichnung": "auswanderung",
+"eigenschaften": [
+"frueherer_zeitpunkt",
+"grund",
+"vergleich",
+"ziel_region"
+],
+"berichtigungen": 0
+},
+"470-wyhl/026": {
+"entitaet": "industrie",
+"bezeichnung": "Zigarrenindustrie",
+"eigenschaften": [
+"bedeutung",
+"bestand_bis",
+"einzug_jahr",
+"firmen_count",
+"firmen_namen"
+],
+"berichtigungen": 0
+},
+"470-wyhl/027": {
+"entitaet": "postagentur",
+"bezeichnung": "postagentur",
+"eigenschaften": [
+"eroeffnung_jahr"
+],
+"berichtigungen": 0
+},
+"470-wyhl/028": {
+"entitaet": "schwesternstation",
+"bezeichnung": "schwesternstation",
+"eigenschaften": [
+"aufgaben",
+"gruendung_jahr",
+"initiative",
+"orden"
+],
+"berichtigungen": 0
+},
+"470-wyhl/029": {
+"entitaet": "kasse",
+"bezeichnung": "Spar- und Darlehnskasse",
+"eigenschaften": [
+"gruender",
+"gruendung_jahr"
+],
+"berichtigungen": 0
+},
+"470-wyhl/030": {
+"entitaet": "krankenkasse",
+"bezeichnung": "krankenkasse",
+"eigenschaften": [
+"errichtung_jahr",
+"veranlasser",
+"zielgruppe"
+],
+"berichtigungen": 0
+},
+"470-wyhl/031": {
+"entitaet": "kinderschule",
+"bezeichnung": "kinderschule",
+"eigenschaften": [
+"adresse",
+"eroeffnung_jahr",
+"erste_leiterin",
+"leitung_von_1905_bis_1974",
+"leitungswechsel_jahr",
+"stifter"
+],
+"berichtigungen": 0
+},
+"470-wyhl/032": {
+"entitaet": "schulgebaeude",
+"bezeichnung": "neue Schule",
+"eigenschaften": [
+"baujahr",
+"besonderheit",
+"heutige_nutzung"
+],
+"berichtigungen": 0
+},
+"470-wyhl/033": {
+"entitaet": "krieg",
+"bezeichnung": "Erster Weltkrieg",
+"eigenschaften": [
+"tote_und_vermisste",
+"zeitspanne"
+],
+"berichtigungen": 0
+},
+"470-wyhl/034": {
+"entitaet": "krieg",
+"bezeichnung": "Zweiter Weltkrieg",
+"eigenschaften": [
+"beschaedigte_20_bis_25_prozent",
+"beschaedigte_50_bis_90_prozent",
+"evakuierungen",
+"kriegsschaden_mark",
+"tote",
+"vermisste",
+"zeitspanne",
+"zerstoerte_haeuser_prozent"
+],
+"berichtigungen": 0
+},
+"470-wyhl/035": {
+"entitaet": "schulgebaeude",
+"bezeichnung": "Hauptschule",
+"eigenschaften": [
+"neubau_jahr"
+],
+"berichtigungen": 0
+},
+"470-wyhl/036": {
+"entitaet": "mitteilungsblatt",
+"bezeichnung": "mitteilungsblatt",
+"eigenschaften": [
+"beschreibung",
+"einfuehrung_jahr",
+"ersetzt"
+],
+"berichtigungen": 0
+},
+"470-wyhl/037": {
+"entitaet": "einsegnungshalle",
+"bezeichnung": "einsegnungshalle",
+"eigenschaften": [
+"neubau_jahr"
+],
+"berichtigungen": 0
+},
+"470-wyhl/038": {
+"entitaet": "kernkraftwerk",
+"bezeichnung": "Kernkraftwerk Wyhl",
+"eigenschaften": [
+"alternativer_standort",
+"bau_status_1983",
+"bedeutung_fuer_ort",
+"bedeutung_fuer_ort2",
+"demonstranten_zaehlung",
+"demonstration_1975_datum",
+"einwender_gemeinden",
+"einwender_privatpersonen",
+"einwender_vereinigungen",
+"geplante_bloecke",
+"leistung_megawatt_pro_block",
+"oeffentliche_auslegung_jahr",
+"planung_beginn",
+"pleatzbesetzung",
+"rechtliche_entwicklung_1977",
+"rechtliche_entwicklung_1982",
+"standort_wechsel_datum",
+"unterschriften_sammlung"
+],
+"berichtigungen": 0
+},
+"470-wyhl/039": {
+"entitaet": "verwaltungsverband",
+"bezeichnung": "verwaltungsverband",
+"eigenschaften": [
+"beitritt_jahr",
+"status_wyhl",
+"verband_name"
+],
+"berichtigungen": 0
+},
+"470-wyhl/040": {
+"entitaet": "kläranlage",
+"bezeichnung": "kläranlage",
+"eigenschaften": [
+"bau_jahr",
+"komponenten",
+"kosten_dm",
+"lage"
+],
+"berichtigungen": 0
+},
+"470-wyhl/041": {
+"entitaet": "vereinsgemeinschaft",
+"bezeichnung": "vereinsgemeinschaft",
+"eigenschaften": [
+"besonderheit",
+"gassenfest_rhythmus",
+"gruendung_jahr",
+"sonderbezeichnung"
+],
+"berichtigungen": 0
+},
+"470-wyhl/042": {
+"entitaet": "gassenfest",
+"bezeichnung": "Wyhler Gassenfest",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"frequenz",
+"start_jahr",
+"veranstalter"
+],
+"berichtigungen": 0
+},
+"470-wyhl/043": {
+"entitaet": "feuerwehrgeraetehaus",
+"bezeichnung": "feuerwehrgeraetehaus",
+"eigenschaften": [
+"einweihung_jahr",
+"fahrzeuguebergabe",
+"neubau_jahr"
+],
+"berichtigungen": 0
+},
+"470-wyhl/044": {
+"entitaet": "sporthalle",
+"bezeichnung": "sporthalle",
+"eigenschaften": [
+"neubau_jahr"
+],
+"berichtigungen": 0
+},
+"470-wyhl/045": {
+"entitaet": "kindergarten",
+"bezeichnung": "St. Josef",
+"eigenschaften": [
+"renovierung_jahr"
+],
+"berichtigungen": 0
+},
+"470-wyhl/046": {
+"entitaet": "kindergarten",
+"bezeichnung": "St. Katharina",
+"eigenschaften": [
+"neubau_jahr"
+],
+"berichtigungen": 0
+},
+"470-wyhl/047": {
+"entitaet": "festhalle",
+"bezeichnung": "festhalle",
+"eigenschaften": [
+"umbau_jahr"
+],
+"berichtigungen": 0
+},
+"470-wyhl/048": {
+"entitaet": "schulgebaeude",
+"bezeichnung": "Grund- und Hauptschule mit Werkrealschule",
+"eigenschaften": [
+"um_neubau_jahr"
+],
+"berichtigungen": 0
+},
+"470-wyhl/049": {
+"entitaet": "rathaus",
+"bezeichnung": "rathaus",
+"eigenschaften": [
+"umbau_zeit",
+"ursprung"
+],
+"berichtigungen": 0
+},
+"470-wyhl/050": {
+"entitaet": "apotheke",
+"bezeichnung": "apotheke",
+"eigenschaften": [
+"eroeffnung_jahr"
+],
+"berichtigungen": 0
+},
+"470-wyhl/051": {
+"entitaet": "alte_schule_buecherei",
+"bezeichnung": "alte schule buecherei",
+"eigenschaften": [
+"umbau_sanierung_jahr"
+],
+"berichtigungen": 0
+},
+"470-wyhl/052": {
+"entitaet": "heimatmuseum",
+"bezeichnung": "Heimatmuseum Wyhl",
+"eigenschaften": [
+"aktivitaeten_heimatverein",
+"anlass_gruendung",
+"bedeutung_fuer_ort",
+"beschilderung_projekt",
+"betreiber",
+"gruendungszeit",
+"lage",
+"themenbereiche"
+],
+"berichtigungen": 0
+},
+"470-wyhl/053": {
+"entitaet": "heimatverein",
+"bezeichnung": "Heimatverein Wyhl e.V.",
+"eigenschaften": [
+"aktivitaeten",
+"gruendung_vor_jahren",
+"museum_betrieb",
+"satzungsaufgabe"
+],
+"berichtigungen": 0
+},
+"470-wyhl/054": {
+"entitaet": "sportclub",
+"bezeichnung": "Sport-Club Wyhl",
+"eigenschaften": [
+"aufstieg_verbandsliga",
+"bedeutung_fuer_ort",
+"fussball_liga_2009",
+"kunstturnen_liga"
+],
+"berichtigungen": 0
+},
+"470-wyhl/055": {
+"entitaet": "jugendzentrum",
+"bezeichnung": "Aktion Jugendzentrum (AJZ)",
+"eigenschaften": [
+"auszeichnung_2015",
+"auszeichnung_2016",
+"bedeutung_fuer_ort",
+"betreiber",
+"betrieb_dauer_jahren",
+"groesse",
+"status"
+],
+"berichtigungen": 0
+},
+"470-wyhl/056": {
+"entitaet": "naturalehrpfad",
+"bezeichnung": "Naturlehrpfad Rheinauewald",
+"eigenschaften": [
+"ausstattung",
+"bedeutung_fuer_ort",
+"einrichtung_jahr",
+"huette_baumarten",
+"laenge_km",
+"lernziel",
+"neues_konzept",
+"partner_regierungspraesident",
+"partner_revierforstern",
+"partner_schwarzwaldverein",
+"zielgruppe"
+],
+"berichtigungen": 0
+},
+"470-wyhl/057": {
+"entitaet": "schutzgebiet",
+"bezeichnung": "Rheinniederung Wyhl-Weisweil",
+"eigenschaften": [
+"altrheinarme",
+"anteil_wyhl_waldfläche",
+"ausweisung_jahr",
+"baumarten",
+"bedeutung_fuer_ort",
+"biotop_typen",
+"flaeche_ha_auewald",
+"kategorie",
+"waldbiotope_count",
+"waldbiotope_flaeche_ha"
+],
+"berichtigungen": 0
+},
+"470-wyhl/058": {
+"entitaet": "rheinradweg",
+"bezeichnung": "Rheinradweg",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"deutschlandroute",
+"europadweg_bezeichnung",
+"strecke_muendung",
+"strecke_quelle",
+"teilstrecke_wyhl"
+],
+"berichtigungen": 0
+},
+"470-wyhl/059": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Walter Schumann",
+"eigenschaften": [
+"amtszeit",
+"beruf",
+"geburtsjahr",
+"karriere"
+],
+"berichtigungen": 0
+},
+"470-wyhl/060": {
+"entitaet": "sage",
+"bezeichnung": "Baroner Kritzli",
+"eigenschaften": [
+"bedeutung_heute",
+"denkmal_form",
+"ereignis_art",
+"ereignis_datum",
+"ergebnis",
+"erneuerer_1909",
+"erste_erneuerung_jahr",
+"historischer_verlauf",
+"inschrift",
+"sockelsanierung"
+],
+"berichtigungen": 0
+},
+"470-wyhl/061": {
+"entitaet": "gemeinderat",
+"bezeichnung": "gemeinderat",
+"eigenschaften": [
+"mitglieder_gewahlt",
+"stimmberechtigung_buergermeister",
+"vorsitzender"
+],
+"berichtigungen": 0
+},
+"470-wyhl/062": {
+"entitaet": "buergermeister",
+"bezeichnung": "Ferdinand Burger",
+"eigenschaften": [
+"amtsantritt_jahr",
+"vorgaenger",
+"vorgaenger_amtszeit",
+"wahl_ergebnis_1",
+"wahl_ergebnis_2",
+"wahl_jahr_1",
+"wahl_jahr_2"
+],
+"berichtigungen": 0
+},
+"470-wyhl/063": {
+"entitaet": "gedenkstein",
+"bezeichnung": "„Nai hämmer gsait\" (AKW Wyhl)",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"470-wyhl/064": {
+"entitaet": "denkmal",
+"bezeichnung": "„Auswanderer\" Colonia Tovar 1842",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"470-wyhl/065": {
+"entitaet": "muehlbach",
+"bezeichnung": "muehlbach",
+"eigenschaften": [
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"470-wyhl/066": {
+"entitaet": "rhein",
+"bezeichnung": "rhein",
+"eigenschaften": [
+"bedeutung_fuer_ort_heute",
+"bedeutung_fuer_ort_historisch",
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"470-wyhl/067": {
+"entitaet": "badischer_jakobusweg",
+"bezeichnung": "badischer jakobusweg",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"470-wyhl/068": {
+"entitaet": "ortsteil",
+"bezeichnung": "Wyhler Mühle",
+"eigenschaften": [
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"470-wyhl/069": {
+"entitaet": "ortsteil",
+"bezeichnung": "Kiesgrube Albert Schweitzer",
+"eigenschaften": [
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"470-wyhl/070": {
+"entitaet": "ortschaft",
+"bezeichnung": "Wöllingen",
+"eigenschaften": [
+"beschreibung",
+"status"
+],
+"berichtigungen": 0
+},
+"470-wyhl/071": {
+"entitaet": "burgstall",
+"bezeichnung": "Burgstall der Burg Schafgießen",
+"eigenschaften": [
+"lage",
+"status"
+],
+"berichtigungen": 0
+},
+"471-forchheim-kaiserstuhl/001": {
+"entitaet": "ort",
+"bezeichnung": "Forchheim",
+"eigenschaften": [
+"einwohnerzahl",
+"entfernung_emmendingen",
+"entfernung_endingen",
+"entfernung_freiburg",
+"gemarkung_flur_feld",
+"gemarkung_groesse",
+"gemarkung_wald",
+"lage",
+"nachbargemeinden",
+"superlativ"
+],
+"berichtigungen": 0
+},
+"471-forchheim-kaiserstuhl/002": {
+"entitaet": "ort",
+"bezeichnung": "Forchheim",
+"eigenschaften": [
+"erste_erwaehnung_dokument",
+"erste_erwaehnung_empfaenger",
+"erste_urkundliche_erwahnung",
+"gaulgraf_ab_1118",
+"gaulgraf_ab_1218",
+"gemeindereform_1975",
+"grundherrschaft",
+"herrschaft_ab_15jh",
+"hoheit_ab_1803",
+"hoheit_ab_1952",
+"namensendung_bedeutung",
+"namensherkunft",
+"ortsherr_ab_1350",
+"siedlung_entstehung",
+"verwaltungsgemeinschaft_ab_1970",
+"verwaltungsverband_ab_1975",
+"vogt_1571"
+],
+"berichtigungen": 0
+},
+"471-forchheim-kaiserstuhl/003": {
+"entitaet": "ort",
+"bezeichnung": "Forchheim",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"dialekt",
+"direktvermarktung",
+"hauptwirtschaftszweig",
+"kartoffel_ortsnamen",
+"kartoffel_regional_bedeutung",
+"kartoffelanbau_betriebe",
+"kartoffelanbau_flaeche"
+],
+"berichtigungen": 0
+},
+"471-forchheim-kaiserstuhl/004": {
+"entitaet": "buergemeister",
+"bezeichnung": "Christian Pickhardt",
+"eigenschaften": [
+"amtszeit_ab",
+"amtszeit_dauer",
+"gewahlt_datum",
+"gewahlt_prozent",
+"partei"
+],
+"berichtigungen": 0
+},
+"471-forchheim-kaiserstuhl/005": {
+"entitaet": "klaeran lage",
+"bezeichnung": "Kläranlage Breisgauer Bucht",
+"eigenschaften": [
+"bedeutung",
+"bedeutung_fuer_ort",
+"betreiber",
+"gebrauchet_staedteanzahl",
+"gebraucht_einwohnergleichwerte",
+"gegruendet",
+"grund_gruendung",
+"oeffentlichkeit",
+"standort_gemeinde"
+],
+"berichtigungen": 0
+},
+"471-forchheim-kaiserstuhl/006": {
+"entitaet": "museum",
+"bezeichnung": "Heimatmuseum",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"sammlungsschwerpunkt"
+],
+"berichtigungen": 0
+},
+"471-forchheim-kaiserstuhl/007": {
+"entitaet": "verein",
+"bezeichnung": "Musikverein Forchheim",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"gruendungsjahr_vermutlich",
+"jubilaeum_100jahre"
+],
+"berichtigungen": 0
+},
+"471-forchheim-kaiserstuhl/008": {
+"entitaet": "verein",
+"bezeichnung": "Sportverein Forchheim",
+"eigenschaften": [
+"abteilungen",
+"bedeutung_fuer_ort"
+],
+"berichtigungen": 0
+},
+"471-forchheim-kaiserstuhl/009": {
+"entitaet": "fest",
+"bezeichnung": "Härdepfel-Dorffest",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"bedeutung_in_region",
+"haerdepfel_bedeutung",
+"schwerpunkt",
+"termin"
+],
+"berichtigungen": 0
+},
+"471-forchheim-kaiserstuhl/010": {
+"entitaet": "fasnetsfigur",
+"bezeichnung": "Forchemer Schell-Mi",
+"eigenschaften": [
+"aussehen",
+"bedeutung_fuer_ort",
+"gruender",
+"gruendung",
+"grund_figur",
+"haesttraeger_anzahl",
+"herkunft",
+"veranstaltungen"
+],
+"berichtigungen": 0
+},
+"471-forchheim-kaiserstuhl/011": {
+"entitaet": "betrieb_landwirtschaft",
+"bezeichnung": "Lindenbrunnenhof",
+"eigenschaften": [
+"adresse",
+"betreiber_familie",
+"betriebsart",
+"produkte",
+"vermarktung"
+],
+"berichtigungen": 0
+},
+"471-forchheim-kaiserstuhl/012": {
+"entitaet": "betrieb_landwirtschaft",
+"bezeichnung": "Kartoffel- und Gemüsebau Eckert",
+"eigenschaften": [
+"adresse",
+"betreiber",
+"produkte",
+"vermarktung"
+],
+"berichtigungen": 0
+},
+"471-forchheim-kaiserstuhl/013": {
+"entitaet": "betrieb_landwirtschaft",
+"bezeichnung": "Bressel's Obst- und Gemüsehof",
+"eigenschaften": [
+"adresse",
+"produkte",
+"verkaufsstandorte_regional",
+"vermarktung"
+],
+"berichtigungen": 0
+},
+"471-forchheim-kaiserstuhl/014": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Waldemar Frank",
+"eigenschaften": [
+"geburtname",
+"geburtsjahr",
+"geburtsort",
+"profession",
+"todesjahr"
+],
+"berichtigungen": 0
+},
+"471-forchheim-kaiserstuhl/015": {
+"entitaet": "band",
+"bezeichnung": "Patty Moon",
+"eigenschaften": [
+"herkunftsort"
+],
+"berichtigungen": 0
+},
+"471-forchheim-kaiserstuhl/016": {
+"entitaet": "denkmal",
+"bezeichnung": "Winterlinde",
+"eigenschaften": [
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"471-forchheim-kaiserstuhl/017": {
+"entitaet": "verwaltungsverband",
+"bezeichnung": "Gemeindeverwaltungsverband Nördlicher Kaiserstuhl",
+"eigenschaften": [
+"begruendung",
+"foermaation",
+"gemeinden_mitglied",
+"zweck"
+],
+"berichtigungen": 0
+},
+"471-forchheim-kaiserstuhl/018": {
+"entitaet": "projekt",
+"bezeichnung": "Energetisches Quartierskonzept Forchheim",
+"eigenschaften": [
+"ansatzpunkt",
+"auftaktveranstaltung",
+"foerderung",
+"moeglichkeit",
+"teilnehmerzahl_online",
+"teilnehmerzahl_vor_ort",
+"ziel"
+],
+"berichtigungen": 0
+},
+"471-forchheim-kaiserstuhl/019": {
+"entitaet": "projekt",
+"bezeichnung": "Nahwärme Forchheim",
+"eigenschaften": [
+"bedarfsabfrage",
+"entscheidung_gemeinderat",
+"geplanter_austausch",
+"potenzial",
+"primaere_waermequelle",
+"primaere_waermequelle_status_12_2024",
+"quartierskonzept_erkenntnisse",
+"status",
+"vorteil",
+"weitere_info"
+],
+"berichtigungen": 0
+},
+"472-oberrotweil/001": {
+"entitaet": "ort",
+"bezeichnung": "Oberrotweil",
+"eigenschaften": [
+"bestandteile",
+"eigenstaendige_gemeinde_bis",
+"einwohnerzahl",
+"ortsteil_von",
+"sitzt_stadtverwaltung",
+"zentrale_lage"
+],
+"berichtigungen": 0
+},
+"472-oberrotweil/002": {
+"entitaet": "ort",
+"bezeichnung": "Oberrotweil",
+"eigenschaften": [
+"form",
+"gemarkungsgroesse",
+"hoechster_punkt_kaiserstuhl",
+"hoechster_punkt_oberrotweil",
+"lage",
+"rheinentfernung"
+],
+"berichtigungen": 0
+},
+"472-oberrotweil/003": {
+"entitaet": "ort",
+"bezeichnung": "Oberrotweil",
+"eigenschaften": [
+"alemannische_besiedlung_ab",
+"alemannisches_reihengraeberfund_oberrotweil",
+"alemannisches_steinkistengrab_niederrotweil",
+"charakterisierung_habsburger_zeit",
+"eingliederung_oberbergen",
+"erste_weltkrieg_versorgung",
+"fruehe_siedlung_bronzezeit",
+"fruehe_siedlung_eisenzeit",
+"fruehe_siedlung_jungsteinzeit",
+"gemeindereform",
+"integration_badisches_grossherzogtum",
+"namensaenderung_rothweil_oberrotweil",
+"roemische_siedlung",
+"unterstellung_zehntherrschaft",
+"urkundliche_ersterwaehnung",
+"urkundliche_erstuerwaehnungsjahr",
+"zehnthofkauf_dischinger",
+"zugehoerigkeit_habsburger"
+],
+"berichtigungen": 0
+},
+"472-oberrotweil/004": {
+"entitaet": "flurbereinigung",
+"bezeichnung": "Flurbereinigung Kaiserstuhl",
+"eigenschaften": [
+"auswirkung_nachher",
+"auswirkung_vorher",
+"betroffene_orte_badenberg_mondhalde",
+"bewertung_befuerworter",
+"konsequenz_biotope_vernichtet",
+"konsequenz_frostgefaehrdung",
+"konsequenz_gewanne_nicht_unterscheidbar",
+"konsequenz_hohlgassen_zerstoert",
+"umfang",
+"vorteil_rationalisierung",
+"vorteil_weinlese",
+"vorteil_zugang",
+"zeitraum"
+],
+"berichtigungen": 0
+},
+"472-oberrotweil/005": {
+"entitaet": "kirche",
+"bezeichnung": "St. Michael",
+"eigenschaften": [
+"altar_auftraggeber",
+"altar_besonderheit",
+"altar_entstehung",
+"altar_meister",
+"altar_typ",
+"altar_vergleich",
+"altar_zentrum",
+"bautyp_kern",
+"bedeutung_ueberregional",
+"erste_urkundliche_erwaehnung",
+"organ_besonderheit",
+"organ_jahr",
+"organ_meister",
+"ort",
+"superlativ",
+"typ",
+"umbau_stil",
+"wandmalereien_chor"
+],
+"berichtigungen": 0
+},
+"472-oberrotweil/006": {
+"entitaet": "kirche",
+"bezeichnung": "St. Pantaleon",
+"eigenschaften": [
+"baufertigstellung",
+"brauch_pferdesegen",
+"groesse",
+"heiliger",
+"lage",
+"ort",
+"pferdesegen_moderne_ausfuehrung",
+"pilger_herkunft",
+"wallfahrts_historische_bedeutung",
+"wallfahrtstag",
+"wunderheilungen_ueberlieferung",
+"ziel"
+],
+"berichtigungen": 0
+},
+"472-oberrotweil/007": {
+"entitaet": "kirche",
+"bezeichnung": "St. Johannes Baptist",
+"eigenschaften": [
+"ausmalung",
+"bauzeit",
+"lage",
+"orgel_jahr",
+"orgel_typ",
+"orgel_wertigkeit",
+"orgel_zustand",
+"planer",
+"stil",
+"typ"
+],
+"berichtigungen": 0
+},
+"472-oberrotweil/008": {
+"entitaet": "aussichtspunkt",
+"bezeichnung": "Mondhalde",
+"eigenschaften": [
+"aussicht_burgundische_pforte",
+"aussicht_rheintal",
+"bedeutung_fuer_ort",
+"beschreibung",
+"erreichbarkeit_ebike",
+"erreichbarkeit_fahrrad",
+"hoehe",
+"informationstafeln",
+"weglaenge"
+],
+"berichtigungen": 0
+},
+"472-oberrotweil/009": {
+"entitaet": "bad",
+"bezeichnung": "Freibad Vogtsburg (Oberrotweil)",
+"eigenschaften": [
+"bedeutung_freizeit",
+"bedeutung_sozial",
+"bedeutung_touristisch",
+"beliebtheit_grund",
+"beschreibung",
+"charakteristik",
+"foerderverein",
+"sanierung_status",
+"typ"
+],
+"berichtigungen": 0
+},
+"472-oberrotweil/010": {
+"entitaet": "bahnhof",
+"bezeichnung": "Oberrotweil",
+"eigenschaften": [
+"funktion",
+"lage"
+],
+"berichtigungen": 0
+},
+"472-oberrotweil/011": {
+"entitaet": "weingut",
+"bezeichnung": "Weingut Salwey",
+"eigenschaften": [
+"ansaessigkeit",
+"typ"
+],
+"berichtigungen": 0
+},
+"472-oberrotweil/012": {
+"entitaet": "weingut",
+"bezeichnung": "Weingut Freiherr von Gleichenstein",
+"eigenschaften": [
+"ansaessigkeit_heute",
+"bedeutung_fuer_ort",
+"familiengeschichte",
+"namensursprung",
+"typ"
+],
+"berichtigungen": 0
+},
+"472-oberrotweil/013": {
+"entitaet": "gewässer",
+"bezeichnung": "Krottenbach",
+"eigenschaften": [
+"kantalisierung_teilweise",
+"lage",
+"lokalname_althochalemannisch",
+"lokalname_hochdeutsch",
+"oberirdischer_verlauf",
+"speisung_nordnebenbäche",
+"talbenennung_nach",
+"umleitung_jahr",
+"urspruenglicher_verlauf",
+"wasserfuehrung"
+],
+"berichtigungen": 0
+},
+"472-oberrotweil/014": {
+"entitaet": "betrieb",
+"bezeichnung": "Erzeugergroßmarkt Südbaden eG",
+"eigenschaften": [
+"funktion",
+"rechtsform",
+"standort"
+],
+"berichtigungen": 0
+},
+"472-oberrotweil/015": {
+"entitaet": "dialekt",
+"bezeichnung": "Oberrotweiler Dialekt",
+"eigenschaften": [
+"ausnahme_heimatverein",
+"besonderheit_b_erhaltung",
+"besonderheit_hochalemann_ch",
+"besonderheit_palatalisierten_formen",
+"besonderheit_personalpronomen",
+"besonderheit_substantiv_endung_ig",
+"einfluss_elsaess",
+"sprachgruppe",
+"verwendung_alltag",
+"verwendung_oeffentlich",
+"verwendung_vereinsleben"
+],
+"berichtigungen": 0
+},
+"472-oberrotweil/016": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Faustin Ens",
+"eigenschaften": [
+"bedeutung",
+"beruf",
+"geburt_jahr",
+"geburt_ort",
+"tod_jahr",
+"verbindung_oberrotweil"
+],
+"berichtigungen": 0
+},
+"472-oberrotweil/017": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Rolf Dammann",
+"eigenschaften": [
+"arbeitort",
+"beruf",
+"geburt_jahr",
+"sterbort",
+"tod_jahr",
+"wohnort"
+],
+"berichtigungen": 0
+},
+"472-oberrotweil/018": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Arno Landerer",
+"eigenschaften": [
+"amt",
+"amtszeit_beginn",
+"amtszeit_ende",
+"sprache_oeffentlich"
+],
+"berichtigungen": 0
+},
+"472-oberrotweil/019": {
+"entitaet": "vereinsleben",
+"bezeichnung": "Vereinsgemeinschaft Oberrotweil",
+"eigenschaften": [
+"bedeutung_gesellschaft",
+"bedeutung_kultur",
+"bedeutung_politik",
+"bedeutung_wirtschaft",
+"charakteristik",
+"freiwilligenarbeit",
+"fruehjahrsweinfest_effekt",
+"kulturelle_aktivitaet_weihnachtsfeier",
+"mitgliedschaftsgrad",
+"veranstaltung_fruhlingsweinfest",
+"vereinstypen"
+],
+"berichtigungen": 0
+},
+"472-oberrotweil/020": {
+"entitaet": "ort",
+"bezeichnung": "Oberrotweil",
+"eigenschaften": [
+"besiedlung_charakteristik",
+"besiedlung_periode",
+"bevoelkerung_langzeit_veraenderung",
+"dialekt_sprechweise",
+"ehemaliger_steinbruch_status",
+"industrie",
+"landnutzung_historisch_talsoehle",
+"landnutzung_historisch_westen",
+"landnutzung_wandel_rebflaeche_1880_1930",
+"landnutzung_wandel_rebflaeche_heute",
+"name_lokal",
+"namenserklarung",
+"zersiedelung_status"
+],
+"berichtigungen": 0
+},
+"472-oberrotweil/021": {
+"entitaet": "schutzgebiet",
+"bezeichnung": "Steinbruch Niederrotweil",
+"eigenschaften": [
+"ehemaliger_zweck",
+"heutiger_status",
+"seit",
+"status"
+],
+"berichtigungen": 0
+},
+"472-oberrotweil/022": {
+"entitaet": "wanderweg",
+"bezeichnung": "Badischer Jakobusweg -südlicher Teil-",
+"eigenschaften": [
+"typ",
+"verlauf",
+"zweck"
+],
+"berichtigungen": 0
+},
+"473-achkarren/001": {
+"entitaet": "ort",
+"bezeichnung": "Achkarren",
+"eigenschaften": [
+"besonderheit",
+"entfernung_zu_breisach_km",
+"entfernung_zum_rhein_km",
+"grenzt_an_sued",
+"lage",
+"ortsteil_von",
+"tal"
+],
+"berichtigungen": 0
+},
+"473-achkarren/002": {
+"entitaet": "ort",
+"bezeichnung": "Vogtsburg",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"gemarkungsgroesse_ha",
+"hoechste_erhebunyg_berg",
+"hoechste_erhebunyg_m",
+"rebflaeche_ha"
+],
+"berichtigungen": 0
+},
+"473-achkarren/003": {
+"entitaet": "ortsname",
+"bezeichnung": "Achkarren",
+"eigenschaften": [
+"namensherkunft",
+"namenswandlung",
+"sage_zum_name",
+"ursprünglicher_name"
+],
+"berichtigungen": 0
+},
+"473-achkarren/004": {
+"entitaet": "ortsname",
+"bezeichnung": "Achkarren",
+"eigenschaften": [
+"anlass_erste_erwaehnung",
+"beschreibung",
+"erste_urkundliche_erwaehnung_jahr"
+],
+"berichtigungen": 0
+},
+"473-achkarren/005": {
+"entitaet": "siedlung",
+"bezeichnung": "Achkarren",
+"eigenschaften": [
+"alemannische_besiedlung_ab",
+"ausbausiedlung_zeit",
+"besiedlungsgeschichte",
+"fränkische_herrschaft_ab",
+"weinbergterrassen_anlage"
+],
+"berichtigungen": 0
+},
+"473-achkarren/006": {
+"entitaet": "burg",
+"bezeichnung": "Burg Höhingen",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"heutiger_zustand",
+"lage",
+"zerstoerung_endgueltig",
+"zerstoerung_erste"
+],
+"berichtigungen": 0
+},
+"473-achkarren/007": {
+"entitaet": "berg",
+"bezeichnung": "Schlossberg",
+"eigenschaften": [
+"hoehe_m",
+"traegt_bauwerk"
+],
+"berichtigungen": 0
+},
+"473-achkarren/008": {
+"entitaet": "berg",
+"bezeichnung": "Schneckenberg",
+"eigenschaften": [
+"hoehe_m"
+],
+"berichtigungen": 0
+},
+"473-achkarren/009": {
+"entitaet": "berg",
+"bezeichnung": "Hochbuck",
+"eigenschaften": [
+"hoehe_m"
+],
+"berichtigungen": 0
+},
+"473-achkarren/010": {
+"entitaet": "berg",
+"bezeichnung": "Böhmischberg",
+"eigenschaften": [
+"hoehe_m"
+],
+"berichtigungen": 0
+},
+"473-achkarren/011": {
+"entitaet": "museum",
+"bezeichnung": "Weinbaumuseum",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"begleitender_lehrpfad",
+"laenge_lehrpfad_km",
+"thema",
+"vermittelte_inhalte"
+],
+"berichtigungen": 0
+},
+"473-achkarren/012": {
+"entitaet": "naturschutzgebiet",
+"bezeichnung": "Büchsenberg",
+"eigenschaften": [
+"fauna_flora",
+"lage"
+],
+"berichtigungen": 0
+},
+"473-achkarren/013": {
+"entitaet": "kirche",
+"bezeichnung": "St.-Georg-Kirche",
+"eigenschaften": [
+"baustil",
+"erbaut_jahr",
+"erbaut_von",
+"funktion",
+"neugestaltung_innenraum_jahrgehr",
+"orgel_eingebaut_jahr",
+"orgel_hersteller",
+"orgel_register"
+],
+"berichtigungen": 0
+},
+"473-achkarren/014": {
+"entitaet": "gewaesser",
+"bezeichnung": "Krebsbach",
+"eigenschaften": [
+"gewaessertyp"
+],
+"berichtigungen": 0
+},
+"473-achkarren/015": {
+"entitaet": "bahnhof",
+"bezeichnung": "Bahnhof Achkarren",
+"eigenschaften": [
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"473-achkarren/016": {
+"entitaet": "gewerbegebiet",
+"bezeichnung": "Gewerbegebiet Achkarren",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"entwicklungsperspektive",
+"geplante_anbindung",
+"lage"
+],
+"berichtigungen": 0
+},
+"473-achkarren/017": {
+"entitaet": "steinbruch",
+"bezeichnung": "Steinbruch Büchsenberg",
+"eigenschaften": [
+"heutige_nutzung",
+"lage",
+"nutzen_mittelalter"
+],
+"berichtigungen": 0
+},
+"473-achkarren/018": {
+"entitaet": "weinbau",
+"bezeichnung": "Weinbau Achkarren",
+"eigenschaften": [
+"auszeichnungen",
+"bedeutung_fuer_ort",
+"bodenbeschaffenheit",
+"spezialisierung",
+"spitzenweinlage_deutschlands"
+],
+"berichtigungen": 0
+},
+"473-achkarren/019": {
+"entitaet": "winzergenossenschaft",
+"bezeichnung": "Winzergenossenschaft Achkarren",
+"eigenschaften": [
+"auszeichnungen",
+"produkt"
+],
+"berichtigungen": 0
+},
+"473-achkarren/020": {
+"entitaet": "ort",
+"bezeichnung": "Vogtsburg",
+"eigenschaften": [
+"eingeglieder_gemeinden",
+"gruendung_durch",
+"gründungsdatum",
+"vorheriger_name"
+],
+"berichtigungen": 0
+},
+"473-achkarren/021": {
+"entitaet": "krieg_zerstoerung",
+"bezeichnung": "Dreißigjähriger Krieg und Folgen in Achkarren",
+"eigenschaften": [
+"bevoelkerungsverlust_prozent",
+"ereignis",
+"zeitspaeter_bevoelkerung"
+],
+"berichtigungen": 0
+},
+"473-achkarren/022": {
+"entitaet": "krieg_zerstoerung",
+"bezeichnung": "Belagerung von Breisach und Folgen in Achkarren",
+"eigenschaften": [
+"ereignis",
+"grund",
+"jahr"
+],
+"berichtigungen": 0
+},
+"473-achkarren/023": {
+"entitaet": "tennisanlage",
+"bezeichnung": "Tennisplätze Achkarren",
+"eigenschaften": [
+"typ"
+],
+"berichtigungen": 0
+},
+"473-achkarren/024": {
+"entitaet": "freizeitaktivitaet",
+"bezeichnung": "Erlebnis-Traktorfahrt am Schlossberg",
+"eigenschaften": [
+"besonderheit",
+"dauer_std",
+"durchführung",
+"ort",
+"typ"
+],
+"berichtigungen": 0
+},
+"473-achkarren/025": {
+"entitaet": "geologische_besonderheit",
+"bezeichnung": "Hohlwege mit Vulkangestein",
+"eigenschaften": [
+"beschreibung",
+"lage",
+"sichtbarkeit"
+],
+"berichtigungen": 0
+},
+"473-achkarren/026": {
+"entitaet": "solarpark",
+"bezeichnung": "Solarpark Vogtsburg",
+"eigenschaften": [
+"bedeutung",
+"eigentumsverhaeltnis",
+"groesse_ha",
+"haushalt_versorgung",
+"inbetriebnahme_datum",
+"kabel_km",
+"maximalleistung_megawatt",
+"module",
+"status_projekt",
+"strombedarfs_deckung_prozent",
+"trafostationen",
+"wechselrichter"
+],
+"berichtigungen": 0
+},
+"473-achkarren/027": {
+"entitaet": "bevoelkerung",
+"bezeichnung": "Vogtsburg",
+"eigenschaften": [
+"altersgruppe_19_bis_35_prozent",
+"altersgruppe_36_bis_60_prozent",
+"altersgruppe_60_plus_prozent",
+"altersgruppe_unter_18_prozent",
+"einwohner_gesamt",
+"einwohner_gueltig_ab"
+],
+"berichtigungen": 0
+},
+"473-achkarren/028": {
+"entitaet": "buergermeister",
+"bezeichnung": "Benjamin Bohn",
+"eigenschaften": [
+"amt",
+"stadt"
+],
+"berichtigungen": 0
+},
+"473-achkarren/029": {
+"entitaet": "geschichte",
+"bezeichnung": "Erste Weltkrieg und Versorgungslage in Achkarren",
+"eigenschaften": [
+"beschreibung",
+"grund"
+],
+"berichtigungen": 0
+},
+"473-achkarren/030": {
+"entitaet": "weinregion",
+"bezeichnung": "Kaiserstuhl",
+"eigenschaften": [
+"bekanntheit",
+"bodentypen",
+"charakterisierung",
+"weinproduktion"
+],
+"berichtigungen": 0
+},
+"474-burkheim/001": {
+"entitaet": "ort",
+"bezeichnung": "Burkheim am Kaiserstuhl",
+"eigenschaften": [
+"frueher_name",
+"gemarkungsflaeche",
+"gemarkungsflaeche_einheit",
+"gemeindereform_datum",
+"hatte_stadtrecht_bis",
+"ist_teilgemeinde_von",
+"ist_weinort",
+"landwirtschaftliche_flaeche",
+"landwirtschaftliche_flaeche_einheit",
+"liegt_am",
+"rebflaeche",
+"rebflaeche_einheit",
+"waldfläche",
+"waldfläche_einheit"
+],
+"berichtigungen": 0
+},
+"474-burkheim/002": {
+"entitaet": "schloss",
+"bezeichnung": "Schloss Burkheim",
+"eigenschaften": [
+"benannt_nach",
+"besitzer_1901",
+"besitzer_heute",
+"gehörte_zu_kloster",
+"herrschaft_schwendi_ab",
+"ist_denkmal",
+"ist_sichtbar_von_weitem",
+"ist_wahrzeichen",
+"kaufpreis_1901",
+"nutzung",
+"renovierung",
+"superlativ",
+"urkundlich_erste_erwaehnung",
+"urspruenglich_auf_kulturboden",
+"ursprung",
+"vorherige_funktion"
+],
+"berichtigungen": 0
+},
+"474-burkheim/003": {
+"entitaet": "museum",
+"bezeichnung": "Korkenziehermuseum Kaiserstuhl",
+"eigenschaften": [
+"beschreibung",
+"hat_sitz_in"
+],
+"berichtigungen": 0
+},
+"474-burkheim/004": {
+"entitaet": "kirche",
+"bezeichnung": "St. Pankratius",
+"eigenschaften": [
+"architekturstil",
+"bauepoche",
+"chorraum_erhalten_seit",
+"ist_mehrfach_erweitert",
+"ist_pfarrkirche",
+"location",
+"orgel_baujahr",
+"orgel_gehaeuse_baujahr",
+"orgelbauer"
+],
+"berichtigungen": 0
+},
+"474-burkheim/005": {
+"entitaet": "fest",
+"bezeichnung": "Vogtsburger Künstlertage",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"haeuﬁgkeit",
+"ort"
+],
+"berichtigungen": 0
+},
+"474-burkheim/006": {
+"entitaet": "fest",
+"bezeichnung": "Burkheimer Weintage",
+"eigenschaften": [
+"fokus",
+"haeuﬁgkeit",
+"ort"
+],
+"berichtigungen": 0
+},
+"474-burkheim/007": {
+"entitaet": "fest",
+"bezeichnung": "Vogtsburger Weihnachtsmarkt",
+"eigenschaften": [
+"besucher_2012",
+"besucherzahl_jahr",
+"haeuﬁgkeit",
+"ort"
+],
+"berichtigungen": 0
+},
+"474-burkheim/008": {
+"entitaet": "brauch",
+"bezeichnung": "Burkheimer Nachtwächter",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"ort",
+"tage",
+"uhrzeit",
+"zeitraum"
+],
+"berichtigungen": 0
+},
+"474-burkheim/009": {
+"entitaet": "winzergenossenschaft",
+"bezeichnung": "Winzergenossenschaft Burkheim",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"gegruendet_nach",
+"traegt_bei_zu"
+],
+"berichtigungen": 0
+},
+"474-burkheim/010": {
+"entitaet": "badesee",
+"bezeichnung": "Baggersee Burkheim",
+"eigenschaften": [
+"ausstattung",
+"badeaufsicht",
+"besonderheit",
+"charakter",
+"flaeche",
+"flaeche_einheit",
+"geeignet_fuer_kinder",
+"genauigkeit_hoehe",
+"hoehe",
+"hoehe_einheit",
+"ufer_beschaffenheit",
+"zufahrt_bis"
+],
+"berichtigungen": 0
+},
+"474-burkheim/011": {
+"entitaet": "zunft",
+"bezeichnung": "Fischerzunft Burkheim",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"bestand_bereits",
+"neue_satzung_ab",
+"satzungen_in_kraft_bis"
+],
+"berichtigungen": 0
+},
+"474-burkheim/012": {
+"entitaet": "berg",
+"bezeichnung": "Haberberg",
+"eigenschaften": [
+"charakter",
+"hoehe",
+"hoehe_einheit",
+"location"
+],
+"berichtigungen": 0
+},
+"474-burkheim/013": {
+"entitaet": "berg",
+"bezeichnung": "Burgberg",
+"eigenschaften": [
+"charakter",
+"hoehe",
+"hoehe_einheit"
+],
+"berichtigungen": 0
+},
+"474-burkheim/014": {
+"entitaet": "berg",
+"bezeichnung": "Schlossberg",
+"eigenschaften": [
+"nutzung",
+"richtung"
+],
+"berichtigungen": 0
+},
+"474-burkheim/015": {
+"entitaet": "gewaesser",
+"bezeichnung": "Altrhein Burkheim",
+"eigenschaften": [
+"charakter",
+"kulturwehr_teilt_rhein",
+"location"
+],
+"berichtigungen": 0
+},
+"474-burkheim/016": {
+"entitaet": "rathaus",
+"bezeichnung": "Rathaus Burkheim",
+"eigenschaften": [
+"architekturstil",
+"erdgeschoss_baujahr",
+"ist_denkmal",
+"obergeschosse_bauzeit",
+"wappen_dargestellt",
+"wappen_drei_patrizierfamilien"
+],
+"berichtigungen": 0
+},
+"474-burkheim/017": {
+"entitaet": "stadttor",
+"bezeichnung": "Rotweiler Tor",
+"eigenschaften": [
+"noch_vorhanden",
+"original_anzahl_tore",
+"standort",
+"zerstoerte_tore"
+],
+"berichtigungen": 0
+},
+"474-burkheim/018": {
+"entitaet": "stadtmauer",
+"bezeichnung": "stadtmauer",
+"eigenschaften": [
+"erbauer",
+"erhalten",
+"ist_denkmal",
+"umfasst",
+"urspruenglich_umfang"
+],
+"berichtigungen": 0
+},
+"474-burkheim/019": {
+"entitaet": "fachwerkhaus",
+"bezeichnung": "Gasthaus Zu den fünf Türmen",
+"eigenschaften": [
+"ist_bekanntes_fachwerkhaus",
+"ist_denkmal",
+"location"
+],
+"berichtigungen": 0
+},
+"474-burkheim/020": {
+"entitaet": "ortsbild_charakteristika",
+"bezeichnung": "Historische Altstadt Burkheim",
+"eigenschaften": [
+"beschreibung",
+"ist_unter_denkmalschutz",
+"praegende_elemente",
+"unterteilung",
+"vergleich"
+],
+"berichtigungen": 0
+},
+"474-burkheim/021": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Jörg Wickram",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"beruf",
+"geburtsjahr",
+"geburtsort",
+"ist_in_literaturgeschichte_eingegangen",
+"rolle_ab",
+"sterbejahr",
+"todesort"
+],
+"berichtigungen": 0
+},
+"474-burkheim/022": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Lazarus von Schwendi",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"herkunft",
+"herrschaft_auf_lebenszeit",
+"herrschaft_uebertragen",
+"herrschaft_unkuendbar_100_jahre",
+"lebenszeit",
+"pfandsumme",
+"pfandsumme_einheit",
+"reformen",
+"schlossbau_kosten",
+"schlossbau_kosten_einheit",
+"schlossbau_zeit",
+"titel_ab_1572"
+],
+"berichtigungen": 0
+},
+"474-burkheim/023": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Karl Härringer",
+"eigenschaften": [
+"beruf",
+"geburtsort",
+"lebenszeit",
+"leistung"
+],
+"berichtigungen": 0
+},
+"474-burkheim/024": {
+"entitaet": "partnergemeinde",
+"bezeichnung": "Sigolsheim (Elsass)",
+"eigenschaften": [
+"land",
+"partnerschaft_noch_aktiv",
+"partnerschaft_seit"
+],
+"berichtigungen": 0
+},
+"474-burkheim/025": {
+"entitaet": "schutzgebiet",
+"bezeichnung": "Naturschutzgebiet Rappennestgießen",
+"eigenschaften": [
+"charakter",
+"location"
+],
+"berichtigungen": 0
+},
+"474-burkheim/026": {
+"entitaet": "schutzgebiet",
+"bezeichnung": "Rheinhalde Burkheim",
+"eigenschaften": [
+"geschuetzt_seit"
+],
+"berichtigungen": 0
+},
+"474-burkheim/027": {
+"entitaet": "wanderweg",
+"bezeichnung": "Rheinaueweg",
+"eigenschaften": [
+"fuehrt_durch",
+"laenge",
+"laenge_einheit"
+],
+"berichtigungen": 0
+},
+"474-burkheim/028": {
+"entitaet": "radweg",
+"bezeichnung": "Kaiserstuhl-Radwanderweg",
+"eigenschaften": [
+"fuehrt_durch"
+],
+"berichtigungen": 0
+},
+"474-burkheim/029": {
+"entitaet": "radweg",
+"bezeichnung": "Oberrhein Römerradweg",
+"eigenschaften": [
+"fuehrt_durch_region",
+"laenge",
+"laenge_einheit"
+],
+"berichtigungen": 0
+},
+"474-burkheim/030": {
+"entitaet": "historisches_ereignis",
+"bezeichnung": "Belagerung Burkheims im Dreißigjährigen Krieg",
+"eigenschaften": [
+"ausfall_durch",
+"belagerung_aufgeloest",
+"belagerungstrupppen",
+"datum",
+"folge",
+"folgejahr_befreiung",
+"kriegsfolgen",
+"ziel"
+],
+"berichtigungen": 0
+},
+"474-burkheim/031": {
+"entitaet": "historisches_ereignis",
+"bezeichnung": "Hexenverfolgung Burkheim",
+"eigenschaften": [
+"datum",
+"genauigkeit_opferzahl",
+"grund",
+"opfer_frauen",
+"ort"
+],
+"berichtigungen": 0
+},
+"474-burkheim/032": {
+"entitaet": "infrastruktur",
+"bezeichnung": "Schule Burkheim",
+"eigenschaften": [
+"neues_schulhaus_baujahr",
+"schliessung"
+],
+"berichtigungen": 0
+},
+"474-burkheim/033": {
+"entitaet": "weinanbau",
+"bezeichnung": "weinanbau",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"erste_erwaehnung",
+"erwaehnung_anlasss",
+"praegende_wirtschaftsweise",
+"rebflaeche_einheit",
+"rebflaeche_gemarkung",
+"rebumlegung_beginn",
+"umstellung_auf",
+"unterbrechung_nach",
+"wiederaufbau_ab"
+],
+"berichtigungen": 0
+},
+"474-burkheim/034": {
+"entitaet": "gewaesser_infrastruktur",
+"bezeichnung": "Kulturwehr",
+"eigenschaften": [
+"funktion",
+"location"
+],
+"berichtigungen": 0
+},
+"474-burkheim/035": {
+"entitaet": "stadtviertel",
+"bezeichnung": "Fischerviertel",
+"eigenschaften": [
+"andere_bezeichnung",
+"besiedlung_ab",
+"charakter",
+"location"
+],
+"berichtigungen": 0
+},
+"474-burkheim/036": {
+"entitaet": "stadtviertel",
+"bezeichnung": "Oberstadt Burkheim",
+"eigenschaften": [
+"praegende_elemente"
+],
+"berichtigungen": 0
+},
+"474-burkheim/037": {
+"entitaet": "stadtviertel",
+"bezeichnung": "Mittelstadt Burkheim",
+"eigenschaften": [
+"charakter",
+"praegende_elemente"
+],
+"berichtigungen": 0
+},
+"475-bischoffingen/001": {
+"entitaet": "ort",
+"bezeichnung": "Bischoffingen",
+"eigenschaften": [
+"charakteristikum",
+"eingemeindung",
+"einwohner",
+"erstmals_urkundlich_erwaehnt",
+"fliessgewaesser",
+"gemarkung_form",
+"gepraegt_durch",
+"lage_region",
+"namensherkunft",
+"verwaltungsgeschichte"
+],
+"berichtigungen": 0
+},
+"475-bischoffingen/002": {
+"entitaet": "kirche",
+"bezeichnung": "St. Laurentius",
+"eigenschaften": [
+"ausstattung_fresken",
+"bauform",
+"bedeutung_fuer_ort",
+"erstmals_erwaehnt",
+"konfession",
+"orgel_einbau_jahr",
+"orgelbauer",
+"renovierung_jahr"
+],
+"berichtigungen": 0
+},
+"475-bischoffingen/003": {
+"entitaet": "archaeologisches_fund",
+"bezeichnung": "Mammut-Stoßzahn",
+"eigenschaften": [
+"aufbewahrungsort",
+"beschreibung",
+"fundjahr",
+"laenge"
+],
+"berichtigungen": 0
+},
+"475-bischoffingen/004": {
+"entitaet": "bauwerk",
+"bezeichnung": "Winzergehöfte",
+"eigenschaften": [
+"beschreibung",
+"denkmalschutz_status"
+],
+"berichtigungen": 0
+},
+"475-bischoffingen/005": {
+"entitaet": "bauwerk",
+"bezeichnung": "Haus „Unter der Lauben\"",
+"eigenschaften": [
+"bauform",
+"besonderheit",
+"denkmalschutz_status"
+],
+"berichtigungen": 0
+},
+"475-bischoffingen/006": {
+"entitaet": "weingut",
+"bezeichnung": "Familienweingut Schmidt",
+"eigenschaften": [
+"typ"
+],
+"berichtigungen": 0
+},
+"475-bischoffingen/007": {
+"entitaet": "weingut",
+"bezeichnung": "Weingut Abril",
+"eigenschaften": [
+"typ"
+],
+"berichtigungen": 0
+},
+"475-bischoffingen/008": {
+"entitaet": "weingut",
+"bezeichnung": "Weingut Armin Göring",
+"eigenschaften": [
+"typ"
+],
+"berichtigungen": 0
+},
+"475-bischoffingen/009": {
+"entitaet": "sportstätte",
+"bezeichnung": "Tennisplätze Bischoffingen",
+"eigenschaften": [
+"betreiber",
+"platztypen",
+"verfuegbarkeit_gaeste",
+"webseite"
+],
+"berichtigungen": 0
+},
+"475-bischoffingen/010": {
+"entitaet": "sportstätte",
+"bezeichnung": "Soccercourt Bischoffingen",
+"eigenschaften": [
+"lage",
+"zugang"
+],
+"berichtigungen": 0
+},
+"475-bischoffingen/011": {
+"entitaet": "aussichtspunkt",
+"bezeichnung": "Mondhalde",
+"eigenschaften": [
+"ausblick",
+"besonderheit",
+"erreichbarkeit_fahren",
+"hoehe",
+"lage_in_gemarkung",
+"wanderweg_laenge"
+],
+"berichtigungen": 0
+},
+"475-bischoffingen/012": {
+"entitaet": "person",
+"bezeichnung": "Friedrich Wilhelm Hitzig",
+"eigenschaften": [
+"amtssitz",
+"beruf",
+"geburtsjahr",
+"geburtsort",
+"politisches_amt",
+"todesjahr"
+],
+"berichtigungen": 0
+},
+"475-bischoffingen/013": {
+"entitaet": "person",
+"bezeichnung": "Erivan Haub",
+"eigenschaften": [
+"beruf",
+"ehepartner",
+"geburtsjahr",
+"todesjahr",
+"weingut_standort"
+],
+"berichtigungen": 0
+},
+"475-bischoffingen/014": {
+"entitaet": "person",
+"bezeichnung": "Helga Haub",
+"eigenschaften": [
+"beruf",
+"ehepartner",
+"weingut_standort"
+],
+"berichtigungen": 0
+},
+"475-bischoffingen/015": {
+"entitaet": "person",
+"bezeichnung": "Gundolf Köhler",
+"eigenschaften": [
+"geburtsjahr",
+"grabrort",
+"todesjahr"
+],
+"berichtigungen": 0
+},
+"475-bischoffingen/016": {
+"entitaet": "verein_landwirtschaft",
+"bezeichnung": "Winzergenossenschaft Bischoffingen",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"funktion",
+"typ"
+],
+"berichtigungen": 0
+},
+"475-bischoffingen/017": {
+"entitaet": "gaststäette",
+"bezeichnung": "Köpfer's Steinbuck",
+"eigenschaften": [
+"funktion"
+],
+"berichtigungen": 0
+},
+"475-bischoffingen/018": {
+"entitaet": "siedlung_historisch",
+"bezeichnung": "Bandkeramik-Siedlung",
+"eigenschaften": [
+"beschreibung",
+"epoche",
+"kontinuitaet",
+"zeitraum_ab"
+],
+"berichtigungen": 0
+},
+"476-bickensohl/001": {
+"entitaet": "ort",
+"bezeichnung": "Bickensohl",
+"eigenschaften": [
+"charakteristische_landnutzung",
+"einwohner",
+"entfernung_zu_oberbergen",
+"lage_region",
+"position_in_gemeinde",
+"seitental",
+"teil_von",
+"topographie",
+"typische_strukturen"
+],
+"berichtigungen": 0
+},
+"476-bickensohl/002": {
+"entitaet": "ort",
+"bezeichnung": "Bickensohl",
+"eigenschaften": [
+"besitzwechsel_1407",
+"besitzwechsel_später",
+"gemeindefusion",
+"konflikt_mittelalter",
+"namensherkunft",
+"reformation",
+"urspflanzlicher_besitz",
+"verwaltungszugehörigkeit_1807_1924",
+"verwaltungszugehörigkeit_1938_1972",
+"verwaltungszugehörigkeit_ab_1972",
+"vogtei_mittelalter",
+"weinlagen_ersterwähnung"
+],
+"berichtigungen": 0
+},
+"476-bickensohl/003": {
+"entitaet": "ort",
+"bezeichnung": "Bickensohl",
+"eigenschaften": [
+"erlebnis_erster_weltkrieg",
+"kulturelles_denkmal"
+],
+"berichtigungen": 0
+},
+"476-bickensohl/004": {
+"entitaet": "gewässer",
+"bezeichnung": "Eschbach",
+"eigenschaften": [
+"topographie"
+],
+"berichtigungen": 0
+},
+"476-bickensohl/005": {
+"entitaet": "berg",
+"bezeichnung": "Totenkopf",
+"eigenschaften": [
+"aussicht",
+"bauwerke",
+"bedeutung_fuer_bickensohl",
+"erreichbarkeit",
+"höhe",
+"plattformhoehe",
+"superlativ",
+"vegetation"
+],
+"berichtigungen": 0
+},
+"476-bickensohl/006": {
+"entitaet": "wanderweg",
+"bezeichnung": "Bienenfresserpfad",
+"eigenschaften": [
+"bedeutung_fuer_bickensohl",
+"länge",
+"verlauf"
+],
+"berichtigungen": 0
+},
+"476-bickensohl/007": {
+"entitaet": "wanderweg",
+"bezeichnung": "Lösshohlwegepfad",
+"eigenschaften": [
+"charakteristik",
+"länge"
+],
+"berichtigungen": 0
+},
+"476-bickensohl/008": {
+"entitaet": "lösshohlweg",
+"bezeichnung": "Eichgasse",
+"eigenschaften": [
+"charakteristik"
+],
+"berichtigungen": 0
+},
+"476-bickensohl/009": {
+"entitaet": "lösshohlweg",
+"bezeichnung": "Lösshohlgasse",
+"eigenschaften": [
+"bedeutung",
+"charakteristik"
+],
+"berichtigungen": 0
+},
+"476-bickensohl/010": {
+"entitaet": "kirche",
+"bezeichnung": "St. Jakob (Pfarrkirche St. Jakob)",
+"eigenschaften": [
+"ersterwähnung",
+"erweiterung",
+"orgel_neubau",
+"renovierung"
+],
+"berichtigungen": 0
+},
+"476-bickensohl/011": {
+"entitaet": "organisation",
+"bezeichnung": "Winzergenossenschaft Bickensohl",
+"eigenschaften": [
+"aktuelle_mitglieder",
+"bedeutung",
+"grauburgunder_erstkelterung",
+"gründung",
+"hauptsorte_grauburgunder",
+"hauptsorte_spätburgunder",
+"initial_mitglieder",
+"rebfläche"
+],
+"berichtigungen": 0
+},
+"476-bickensohl/012": {
+"entitaet": "wanderung_thematisch",
+"bezeichnung": "Wanderung Bickensohl \"Im Herzen des Kaiserstuhls\"",
+"eigenschaften": [
+"aussicht",
+"charakteristik",
+"dauer",
+"lage",
+"länge",
+"mindestteilnehmer",
+"optional_erweiterung"
+],
+"berichtigungen": 0
+},
+"476-bickensohl/013": {
+"entitaet": "ortschaftsrat",
+"bezeichnung": "Ortschaftsrat Bickensohl",
+"eigenschaften": [
+"grösse",
+"zusammensetzung_bickensohler_liste",
+"zusammensetzung_bürgerliste"
+],
+"berichtigungen": 0
+},
+"476-bickensohl/014": {
+"entitaet": "infrastruktur_bildung",
+"bezeichnung": "Kindergarten Bickensohl",
+"eigenschaften": [
+"träger"
+],
+"berichtigungen": 0
+},
+"477-oberbergen/001": {
+"entitaet": "ort",
+"bezeichnung": "Oberbergen",
+"eigenschaften": [
+"bestandteile",
+"charakteristikum",
+"einwohnerzahl",
+"gehoert_zu",
+"gehoert_zu_seit",
+"geologie",
+"klima_besonderheit",
+"lage",
+"rebflaeche"
+],
+"berichtigungen": 0
+},
+"477-oberbergen/002": {
+"entitaet": "berg",
+"bezeichnung": "Totenkopf",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"hoehe",
+"superlativ",
+"vegetation"
+],
+"berichtigungen": 0
+},
+"477-oberbergen/003": {
+"entitaet": "aussichtsturm",
+"bezeichnung": "Neunlindenturm",
+"eigenschaften": [
+"lage",
+"typ"
+],
+"berichtigungen": 0
+},
+"477-oberbergen/004": {
+"entitaet": "fernsehturm",
+"bezeichnung": "Fernsehturm Vogtsburg",
+"eigenschaften": [
+"hoehe",
+"lage",
+"material",
+"sichtbarkeit"
+],
+"berichtigungen": 0
+},
+"477-oberbergen/005": {
+"entitaet": "quelle",
+"bezeichnung": "Badloch/Badlochquelle",
+"eigenschaften": [
+"ausstattung",
+"bedeutung_fuer_ort",
+"funktion",
+"lage"
+],
+"berichtigungen": 0
+},
+"477-oberbergen/006": {
+"entitaet": "kirche",
+"bezeichnung": "St. Mauritius",
+"eigenschaften": [
+"ausstattung",
+"einweihung",
+"vorgaengerin_kirche"
+],
+"berichtigungen": 0
+},
+"477-oberbergen/007": {
+"entitaet": "orgel",
+"bezeichnung": "Orgel in St. Mauritius",
+"eigenschaften": [
+"baujahr",
+"erbauer",
+"restaurierung"
+],
+"berichtigungen": 0
+},
+"477-oberbergen/008": {
+"entitaet": "restaurant",
+"bezeichnung": "Restaurant Schwarzer Adler",
+"eigenschaften": [
+"auszeichnung",
+"auszeichnung_seit",
+"bedeutung_fuer_ort",
+"ersterwähnung",
+"wirt_und_besitzer"
+],
+"berichtigungen": 0
+},
+"477-oberbergen/009": {
+"entitaet": "winzergenossenschaft",
+"bezeichnung": "Winzergenossenschaft Oberbergen",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"mitglieder"
+],
+"berichtigungen": 0
+},
+"477-oberbergen/010": {
+"entitaet": "weingut",
+"bezeichnung": "Weingut Franz Keller",
+"eigenschaften": [
+"besitzer_geschichte",
+"kinder"
+],
+"berichtigungen": 0
+},
+"477-oberbergen/011": {
+"entitaet": "weinanbaugebiet",
+"bezeichnung": "Baßgeige",
+"eigenschaften": [
+"genauigkeit",
+"lage",
+"namensherkunft"
+],
+"berichtigungen": 0
+},
+"477-oberbergen/012": {
+"entitaet": "rebsorte",
+"bezeichnung": "Müller-Thurgau",
+"eigenschaften": [
+"hauptanbau_in_ort"
+],
+"berichtigungen": 0
+},
+"477-oberbergen/013": {
+"entitaet": "rebsorte",
+"bezeichnung": "Graue Burgunder",
+"eigenschaften": [
+"hauptanbau_in_ort"
+],
+"berichtigungen": 0
+},
+"477-oberbergen/014": {
+"entitaet": "person",
+"bezeichnung": "Eugen Biser",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"beruf",
+"geburt",
+"lehrstuhl",
+"publikationen",
+"titel",
+"tod"
+],
+"berichtigungen": 0
+},
+"477-oberbergen/015": {
+"entitaet": "gedenkstaette",
+"bezeichnung": "Eugen-Biser-Haus",
+"eigenschaften": [
+"errichtet",
+"standort",
+"zweck"
+],
+"berichtigungen": 0
+},
+"477-oberbergen/016": {
+"entitaet": "denkmal",
+"bezeichnung": "Gedenktafel Eugen Biser",
+"eigenschaften": [
+"anbringung",
+"anlass",
+"kuenstler",
+"kunstform"
+],
+"berichtigungen": 0
+},
+"477-oberbergen/017": {
+"entitaet": "person",
+"bezeichnung": "Franz Keller",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"beruf",
+"lebensdaten"
+],
+"berichtigungen": 0
+},
+"477-oberbergen/018": {
+"entitaet": "person",
+"bezeichnung": "Franz Keller",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"beruf",
+"lebensdaten",
+"vater"
+],
+"berichtigungen": 0
+},
+"477-oberbergen/019": {
+"entitaet": "person",
+"bezeichnung": "Fritz Keller",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"beruf",
+"lebensdaten",
+"positionen",
+"restaurant"
+],
+"berichtigungen": 0
+},
+"477-oberbergen/020": {
+"entitaet": "schutzgebiet",
+"bezeichnung": "Oberbergener Scheibenbuck",
+"eigenschaften": [
+"schutz_seit"
+],
+"berichtigungen": 0
+},
+"477-oberbergen/021": {
+"entitaet": "schutzgebiet",
+"bezeichnung": "Badberg",
+"eigenschaften": [
+"schutz_seit"
+],
+"berichtigungen": 0
+},
+"477-oberbergen/022": {
+"entitaet": "weide",
+"bezeichnung": "Schelinger Viehweide",
+"eigenschaften": [
+"ausstattung",
+"bedeutung_fuer_ort",
+"groesse",
+"lage",
+"superlativ",
+"tierart",
+"wirtschaft_seit"
+],
+"berichtigungen": 0
+},
+"477-oberbergen/023": {
+"entitaet": "mineral",
+"bezeichnung": "Bergalith",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"benannt_nach",
+"entdeckungsort",
+"typ"
+],
+"berichtigungen": 0
+},
+"477-oberbergen/024": {
+"entitaet": "stadt",
+"bezeichnung": "Vogtsburg",
+"eigenschaften": [
+"charakteristika",
+"einwohnerzahl",
+"einwohnerzahl_datum",
+"formation_aus",
+"formation_datum",
+"hoechste_erhaebung",
+"ortsteile",
+"rebflaeche",
+"weingueter",
+"winzergenossenschaften"
+],
+"berichtigungen": 0
+},
+"478-schelingen/001": {
+"entitaet": "ort",
+"bezeichnung": "Schelingen",
+"eigenschaften": [
+"charakter",
+"eingemeindung_datum",
+"eingemeindung_zu",
+"einwohnerzahl",
+"ersterwähnung_jahr",
+"genauigkeit",
+"genauigkeit_rebflaeche",
+"geschichte_anlass_ersterwähnung",
+"geschichte_wk1_erlebnis",
+"lage",
+"lage_relativ_vogtsburg",
+"nachbarorte",
+"namenherkunft",
+"ort_typ",
+"rebflaeche",
+"rebflaeche_einheit",
+"wirtschaft_hauptsaechlich"
+],
+"berichtigungen": 0
+},
+"478-schelingen/002": {
+"entitaet": "kirche",
+"bezeichnung": "St. Gangolf",
+"eigenschaften": [
+"architekt",
+"architekt_ausbildung",
+"architekturstil",
+"baujahr",
+"orgel_gehaeuse_erbauer",
+"orgel_gehaeuse_jahr",
+"religion",
+"renovierung_aussen"
+],
+"berichtigungen": 0
+},
+"478-schelingen/003": {
+"entitaet": "berg",
+"bezeichnung": "Badberg",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"flora_fauna_besonderheit",
+"form",
+"hoehe",
+"hoehe_einheit",
+"lage_relativ",
+"schutzgebiet_flaeche",
+"schutzgebiet_flaeche_einheit",
+"schutzgebiet_status",
+"superlativ",
+"vegetationsbedeckung"
+],
+"berichtigungen": 0
+},
+"478-schelingen/004": {
+"entitaet": "aussichtspunkt",
+"bezeichnung": "Schelinger Höhe",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"478-schelingen/005": {
+"entitaet": "weideland",
+"bezeichnung": "Schelinger Viehweide",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"betrieb_seit",
+"betrieb_typ",
+"bewirtschaftung",
+"flaeche",
+"flaeche_einheit",
+"genauigkeit",
+"lage_relativ",
+"superlativ",
+"tierart",
+"wanderweg_beschaffenheit",
+"zusatz_strukturen"
+],
+"berichtigungen": 0
+},
+"478-schelingen/006": {
+"entitaet": "gaststaette",
+"bezeichnung": "Landgasthof Krone",
+"eigenschaften": [
+"adresse",
+"gastststaette_typ"
+],
+"berichtigungen": 0
+},
+"479-leiselheim/001": {
+"entitaet": "ort",
+"bezeichnung": "Leiselheim",
+"eigenschaften": [
+"bundesland",
+"dialekt_name",
+"eingemeindung_datum",
+"einwohnerzahl",
+"entfernung_breisach_am_rhein",
+"entfernung_freiburg",
+"höhe",
+"lage",
+"landkreis",
+"ortsteil_von"
+],
+"berichtigungen": 0
+},
+"479-leiselheim/002": {
+"entitaet": "ort",
+"bezeichnung": "Leiselheim",
+"eigenschaften": [
+"besonderheit_994",
+"erste_urkundliche_erwähnung",
+"periode_jungsteinzeit",
+"periode_mittelalter",
+"periode_nach_römerzeit",
+"periode_römerzeit",
+"reformation",
+"verwaltungsgeschichte"
+],
+"berichtigungen": 0
+},
+"479-leiselheim/003": {
+"entitaet": "kirche",
+"bezeichnung": "evangelische Kirche Leiselheim",
+"eigenschaften": [
+"besonderheit",
+"konfession"
+],
+"berichtigungen": 0
+},
+"479-leiselheim/004": {
+"entitaet": "brunnen",
+"bezeichnung": "Stockbrunnen",
+"eigenschaften": [
+"baujahr",
+"lage",
+"restaurierung"
+],
+"berichtigungen": 0
+},
+"479-leiselheim/005": {
+"entitaet": "persönlichkeit",
+"bezeichnung": "Carl Friedrich Meerwein",
+"eigenschaften": [
+"geburt",
+"geburtsort",
+"leistung",
+"titel",
+"tod"
+],
+"berichtigungen": 0
+},
+"479-leiselheim/006": {
+"entitaet": "weinlage",
+"bezeichnung": "Gestühl",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"superlativ"
+],
+"berichtigungen": 0
+},
+"479-leiselheim/007": {
+"entitaet": "weinbau",
+"bezeichnung": "weinbau",
+"eigenschaften": [
+"beschreibung",
+"besonderheit",
+"infrastruktur",
+"weinlagen"
+],
+"berichtigungen": 0
+},
+"479-leiselheim/008": {
+"entitaet": "gastronomie",
+"bezeichnung": "Café Lissele",
+"eigenschaften": [
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"479-leiselheim/009": {
+"entitaet": "gastronomie",
+"bezeichnung": "Brunnästübli",
+"eigenschaften": [
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"479-leiselheim/010": {
+"entitaet": "wappen",
+"bezeichnung": "wappen",
+"eigenschaften": [
+"blasonierung",
+"symbolik"
+],
+"berichtigungen": 0
+},
 "48-boppard/001": {
 "entitaet": "archäologischer_fundplatz",
 "bezeichnung": "Fundplatz unter Hauptbahnhof Boppard",
@@ -206093,6 +210343,538 @@
 "konfession",
 "konfession_auskunftsquelle",
 "pfarrkirche"
+],
+"berichtigungen": 0
+},
+"480-niederrimsingen/001": {
+"entitaet": "ort",
+"bezeichnung": "Niederrimsingen",
+"eigenschaften": [
+"lage_zu_breisach",
+"lage_zu_freiburg",
+"position_tuniberg"
+],
+"berichtigungen": 0
+},
+"480-niederrimsingen/002": {
+"entitaet": "ort",
+"bezeichnung": "Niederrimsingen",
+"eigenschaften": [
+"bezeichnung_1344",
+"eingemeindung",
+"erste_urkunde",
+"herrschaft_1330_1379",
+"namensform_993",
+"status_1330",
+"teilung_obernieder",
+"urspruengliche_siedlung"
+],
+"berichtigungen": 0
+},
+"480-niederrimsingen/003": {
+"entitaet": "siedlung",
+"bezeichnung": "siedlung",
+"eigenschaften": [
+"lage",
+"periode",
+"zeit"
+],
+"berichtigungen": 0
+},
+"480-niederrimsingen/004": {
+"entitaet": "siedlung",
+"bezeichnung": "siedlung",
+"eigenschaften": [
+"erkenntnis",
+"lage",
+"periode",
+"zeit"
+],
+"berichtigungen": 0
+},
+"480-niederrimsingen/005": {
+"entitaet": "siedlung",
+"bezeichnung": "siedlung",
+"eigenschaften": [
+"periode",
+"zeit"
+],
+"berichtigungen": 0
+},
+"480-niederrimsingen/006": {
+"entitaet": "kirche",
+"bezeichnung": "St. Laurentiuskirche",
+"eigenschaften": [
+"neubau_chor_langhaus",
+"schaedigung",
+"superlativ",
+"turm_datierung",
+"umbau_18_jh"
+],
+"berichtigungen": 0
+},
+"480-niederrimsingen/007": {
+"entitaet": "weinlage",
+"bezeichnung": "Attilafelsen",
+"eigenschaften": [
+"benannt_nach",
+"beschreibung",
+"regional_bekanntheit",
+"sage_epoche",
+"sage_ort"
+],
+"berichtigungen": 0
+},
+"480-niederrimsingen/008": {
+"entitaet": "denkmal",
+"bezeichnung": "Attila-Denkmal",
+"eigenschaften": [
+"enthuellung",
+"form",
+"hoehe",
+"material",
+"schaffer"
+],
+"berichtigungen": 0
+},
+"480-niederrimsingen/009": {
+"entitaet": "halle",
+"bezeichnung": "Attila-Halle Niederrimsingen",
+"eigenschaften": [
+"adresse"
+],
+"berichtigungen": 0
+},
+"480-niederrimsingen/010": {
+"entitaet": "wanderweg",
+"bezeichnung": "Burgunderpfad",
+"eigenschaften": [
+"abschnitt_niederrimsingen_gottenheim",
+"abstieg",
+"aufstieg",
+"aussicht",
+"charakter",
+"dauer_gesamt",
+"laenge_gesamt",
+"landschaft",
+"schwierigkeit",
+"thementafeln"
+],
+"berichtigungen": 0
+},
+"480-niederrimsingen/011": {
+"entitaet": "berg",
+"bezeichnung": "Tuniberg",
+"eigenschaften": [
+"ausbluecke",
+"charakteristikum",
+"hauptnutzung",
+"namensherkunft",
+"weinbau_dokumentiert_seit"
+],
+"berichtigungen": 0
+},
+"480-niederrimsingen/012": {
+"entitaet": "fest",
+"bezeichnung": "Chilbi",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"typ"
+],
+"berichtigungen": 0
+},
+"480-niederrimsingen/013": {
+"entitaet": "infrastruktur",
+"bezeichnung": "infrastruktur",
+"eigenschaften": [
+"anbindung",
+"konus_gaestekarte",
+"unterkuenfte"
+],
+"berichtigungen": 0
+},
+"481-oberrimsingen/001": {
+"entitaet": "ort",
+"bezeichnung": "Oberrimsingen",
+"eigenschaften": [
+"charakteristika",
+"entfernung_breisach",
+"entfernung_freiburg",
+"gemarkung_groesse",
+"hoehe_max",
+"hoehe_min",
+"lage",
+"liegt_am",
+"zugehoerigkeit"
+],
+"berichtigungen": 0
+},
+"481-oberrimsingen/002": {
+"entitaet": "ort",
+"bezeichnung": "Oberrimsingen",
+"eigenschaften": [
+"besiedlung_altsteinzeit",
+"besiedlung_altsteinzeit_form",
+"besiedlung_jungsteinzeit",
+"besiedlung_jungsteinzeit_form",
+"besiedlung_lage_altsteinzeit",
+"eingemeindung_breisach",
+"ereignis_1833",
+"ereignis_1833_detail",
+"ereignis_1945",
+"ereignis_1945_detail",
+"ereignis_30_jaehriger_krieg",
+"ereignis_30_jaehriger_krieg_detail",
+"ereignis_bauernkrieg",
+"ereignis_bauernkrieg_detail",
+"ereignis_kriegsende_30jkrieg",
+"erstmalige_eigenstaendige_erwaehnung",
+"ersturkundliche_erwaehnung",
+"erwaehnung_kontext",
+"genauigkeit_trennung",
+"herrschaft_10_jh",
+"herrschaft_1430",
+"herrschaft_1602",
+"herrschaft_1607",
+"herrschaft_1621",
+"herrschaft_1805",
+"status_1805",
+"status_1924",
+"status_1973",
+"status_1973_alt",
+"trennung_niederrimsingen"
+],
+"berichtigungen": 0
+},
+"481-oberrimsingen/003": {
+"entitaet": "ort",
+"bezeichnung": "Oberrimsingen",
+"eigenschaften": [
+"arbeitsmarkt_modern",
+"bevoelkerung_1825",
+"bevoelkerung_1905",
+"grund_bevoelkerungsrueckgang",
+"infrastruktur_1901",
+"infrastruktur_1911",
+"infrastruktur_1912",
+"infrastruktur_1927",
+"infrastruktur_1927_details",
+"infrastruktur_schule_1770",
+"infrastruktur_schule_1853",
+"infrastruktur_schule_1854",
+"infrastruktur_schule_1860",
+"infrastruktur_schule_1868",
+"infrastruktur_schule_1960_61",
+"infrastruktur_schule_1960_61_architekt",
+"infrastruktur_schule_reliefs",
+"reliefs_thema",
+"wirtschaft_bis_1945",
+"wirtschaft_nach_1945"
+],
+"berichtigungen": 0
+},
+"481-oberrimsingen/004": {
+"entitaet": "schloss",
+"bezeichnung": "Schloss Rimsingen",
+"eigenschaften": [
+"architekt",
+"auftraggeber",
+"ausstattung_innen",
+"ausstattung_innen_motiv1",
+"ausstattung_innen_motiv2",
+"ausstattung_wappengiebel_kuenstler",
+"ausstattung_wappengiebel_lage",
+"baustil",
+"bauzeit",
+"eigentum_1979",
+"eigentum_heute",
+"einfluesse",
+"herrschaft_1872",
+"herrschaft_1957",
+"lage",
+"nutzung_1946",
+"nutzung_1946_details",
+"nutzung_1977_1979",
+"ursprung",
+"vorgaenger"
+],
+"berichtigungen": 0
+},
+"481-oberrimsingen/005": {
+"entitaet": "schloss",
+"bezeichnung": "Schloss Rimsingen",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"nutzung",
+"nutzung_kunstgalerie",
+"veranstaltungen",
+"veranstaltungen_teilnehmer"
+],
+"berichtigungen": 0
+},
+"481-oberrimsingen/006": {
+"entitaet": "kirche",
+"bezeichnung": "St. Stephanuskirche",
+"eigenschaften": [
+"ausstattung_neuzeit_altar",
+"ausstattung_neuzeit_figuren",
+"ausstattung_neuzeit_kreuz",
+"eigenschaft_stil",
+"eigenschaft_vorname_frueh",
+"eigenschaft_vorname_neu",
+"eigenstaendige_pfarrei_1801",
+"eigenstaendige_pfarrei_1805",
+"ereignis_1945",
+"erneuerung_architekt",
+"erneuerung_bauzeit",
+"erneuerung_kontext",
+"kirchensatz_1329",
+"kirchensatz_1360_70",
+"kunstwerk_traeublenadonna",
+"kunstwerk_traeublenadonna_geschichte",
+"kunstwerk_vergleich",
+"neubau_bauzeit",
+"neubau_besonderheit",
+"orgel_1996",
+"pfarrhausbau_1810",
+"renovierung_1977",
+"renovierung_2014_2015",
+"renovierung_2014_2015_weiher",
+"status_nach_1584",
+"ursprung",
+"ursprung_kontext"
+],
+"berichtigungen": 0
+},
+"481-oberrimsingen/007": {
+"entitaet": "institution",
+"bezeichnung": "Christophorus-Jugendwerk",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"einrichtungen",
+"einrichtungen_detail",
+"gruender",
+"gruendung",
+"gruendungstraeger",
+"infrastruktur",
+"standort"
+],
+"berichtigungen": 0
+},
+"481-oberrimsingen/008": {
+"entitaet": "institution",
+"bezeichnung": "Christophorus-Jugendwerk",
+"eigenschaften": [
+"beschreibung",
+"typ"
+],
+"berichtigungen": 0
+},
+"481-oberrimsingen/009": {
+"entitaet": "ortsteil",
+"bezeichnung": "Grezhausen",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"eingemeindung_oberrimsingen",
+"ersterwähnung",
+"ersterwähnung_kontext",
+"grundherrschaft_bis",
+"hof_herr_1147",
+"hof_name",
+"hof_verkauf_1245",
+"vier_hoefte_erwaehnung",
+"vier_hoefte_namen",
+"vier_hoefte_verkauf"
+],
+"berichtigungen": 0
+},
+"481-oberrimsingen/010": {
+"entitaet": "kapelle",
+"bezeichnung": "St. Bernhardskapelle",
+"eigenschaften": [
+"erneuerung",
+"sehenswert",
+"weihe",
+"weihe_zeit"
+],
+"berichtigungen": 0
+},
+"481-oberrimsingen/011": {
+"entitaet": "bauwerk",
+"bezeichnung": "Taubenturm",
+"eigenschaften": [
+"baujahr",
+"besonderheit",
+"sehenswert"
+],
+"berichtigungen": 0
+},
+"481-oberrimsingen/012": {
+"entitaet": "kapelle",
+"bezeichnung": "St. Jakobus-Kapelle Grüningen",
+"eigenschaften": [
+"besonderheit_1078_1087",
+"besonderheit_1078_1087_nachher",
+"nutzung",
+"nutzung_detail",
+"vorgaenger",
+"vorgaenger_verlegung"
+],
+"berichtigungen": 0
+},
+"481-oberrimsingen/013": {
+"entitaet": "ort",
+"bezeichnung": "Grüningen",
+"eigenschaften": [
+"besiedlung",
+"dorfkirche_umwandlung",
+"eremitenklause_bis",
+"ersterwähnung",
+"ersturkundlich",
+"kloster_art",
+"kloster_verlegung_in",
+"kloster_verlegung_jahr",
+"kloster_verlegung_von",
+"untergegangen"
+],
+"berichtigungen": 0
+},
+"481-oberrimsingen/014": {
+"entitaet": "hofgut",
+"bezeichnung": "Rothaus",
+"eigenschaften": [
+"ausbau_anlage",
+"ausbau_fruehjahrhundert_18",
+"ausbau_fruehjahrhundert_18_gebaude",
+"eigentuemer_1472",
+"eigentuemer_1908",
+"eigentuemer_1931",
+"eigentuemer_bis_1870er",
+"eigentuemer_dann",
+"eigentuemer_nach_1505",
+"ereignis_1954",
+"erwaehnung",
+"erwaehnung_kontext",
+"superlativ",
+"verpachtung",
+"wiederaufbau_1954"
+],
+"berichtigungen": 0
+},
+"481-oberrimsingen/015": {
+"entitaet": "wanderweg",
+"bezeichnung": "Burgunderpfad",
+"eigenschaften": [
+"abstieg",
+"aufstieg",
+"bedeutung_fuer_ort",
+"besonderheit_details",
+"besonderheiten",
+"charakter",
+"dauer",
+"erlebnis",
+"hoechster_punkt",
+"laenge",
+"landschaft",
+"schwierigkeit",
+"themeninfo",
+"tiefster_punkt"
+],
+"berichtigungen": 0
+},
+"481-oberrimsingen/016": {
+"entitaet": "sporthalle",
+"bezeichnung": "Tuniberghalle Oberrimsingen",
+"eigenschaften": [
+"adresse",
+"telefon"
+],
+"berichtigungen": 0
+},
+"481-oberrimsingen/017": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Erich Kiehn",
+"eigenschaften": [
+"aktion",
+"aktion_jahr",
+"aktion_ort",
+"bedeutung_fuer_ort",
+"ehrentitel",
+"lebensdaten"
+],
+"berichtigungen": 0
+},
+"481-oberrimsingen/018": {
+"entitaet": "heiliger",
+"bezeichnung": "Hl. Ulrich von Regensburg",
+"eigenschaften": [
+"wirktaetigkeit_danach",
+"wirktaetigkeit_jahre",
+"wirktaetigkeit_ort"
+],
+"berichtigungen": 0
+},
+"481-oberrimsingen/019": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Ulrich von Zell",
+"eigenschaften": [
+"lebensdaten",
+"status",
+"wirktaetigkeit"
+],
+"berichtigungen": 0
+},
+"481-oberrimsingen/020": {
+"entitaet": "herrschaft",
+"bezeichnung": "Herren von Staufen",
+"eigenschaften": [
+"eigentuemer_gutshof_1492",
+"herrschaftsort",
+"herrschaftszeit",
+"herrschaftszeit_genauigkeit_ende",
+"herrschaftszeit_genauigkeit_start"
+],
+"berichtigungen": 0
+},
+"481-oberrimsingen/021": {
+"entitaet": "herrschaft",
+"bezeichnung": "Freiherren von Falkenstein",
+"eigenschaften": [
+"erwerb_jahr",
+"erwerb_methode",
+"erwerb_mit",
+"freiherrentitel_ab",
+"gutshof_ausbauerung",
+"herrschaftszeit",
+"nachbesitzer",
+"vorbesitzer"
+],
+"berichtigungen": 0
+},
+"481-oberrimsingen/022": {
+"entitaet": "kloster",
+"bezeichnung": "Cluniazenserpriorat",
+"eigenschaften": [
+"gruender",
+"gruender_herkunft",
+"gruendung",
+"prioren",
+"verlegung_grund",
+"verlegung_jahr",
+"verlegung_nach",
+"verlegung_von"
+],
+"berichtigungen": 0
+},
+"481-oberrimsingen/023": {
+"entitaet": "bergform",
+"bezeichnung": "Tuniberg",
+"eigenschaften": [
+"ausblicke",
+"bedeutung_fuer_ort",
+"charakteristika",
+"lage_oberrimsingen",
+"nutzung_weinbau"
 ],
 "berichtigungen": 0
 },

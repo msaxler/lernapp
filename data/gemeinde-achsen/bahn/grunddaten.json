@@ -1,5 +1,5 @@
 {
- "erzeugt": "2026-10-20",
+ "erzeugt": "2026-10-21",
  "katalog": [
   {
    "schluessel": "bundesland",
@@ -842,7 +842,12 @@
   "Vogtsburg: geo.sqlite hat für Kreis 08315 kein Kennzeichen",
   "Vogtsburg: kfz FR (Wikidata P395) gegen FDS (Altbestand staedte.json)",
   "Vogtsburg: hoehe_m 302 (Wikidata P2044) gegen 218 (dewiki Infobox)",
-  "Vogtsburg: hoehe_m 302 (Wikidata P2044) gegen 210 (Altbestand staedte.json)"
+  "Vogtsburg: hoehe_m 302 (Wikidata P2044) gegen 210 (Altbestand staedte.json)",
+  "Burkheim: hoehe_m 212 (Wikidata P2044) gegen 189 (Altbestand geo.sqlite (GeoNames 2940985))",
+  "Sasbach: kfz EM (Wikidata P395) gegen OG (Altbestand geo.sqlite (Kreis 08317))",
+  "Forchheim: staedte.json führt den Namen mit Koordinaten 300 km entfernt",
+  "Forchheim: kfz EM (Wikidata P395) gegen FO (Altbestand kfz_kennzeichen.csv)",
+  "Forchheim: hoehe_m 187 (Wikidata P2044) gegen 173 (Altbestand geo.sqlite (GeoNames 2925914))"
  ],
  "orte": [
   {
@@ -8915,6 +8920,1528 @@
    }
   },
   {
+   "slug": "472-oberrotweil",
+   "rolle": "ziel",
+   "name": "Oberrotweil",
+   "einheit": "Ortsteil von Vogtsburg im Kaiserstuhl",
+   "wikidata": "Q885299",
+   "lat": 48.08889,
+   "lon": 7.63056,
+   "gemeindeschluessel": "08315133",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Breisgau-Hochschwarzwald",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Vogtsburg im Kaiserstuhl, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 1709,
+      "quelle": "dewiki Infobox",
+      "stand": "2022-11-01"
+     },
+     {
+      "wert": 1600,
+      "quelle": "Altbestand geo.sqlite (GeoNames 3209260)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 10.19,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 168,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Vogtsburg im Kaiserstuhl, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 214,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 214,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 215,
+      "quelle": "Altbestand geo.sqlite (GeoNames 3209260)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 19
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "19 km nordwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 138
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "ersterwaehnung": [
+     {
+      "wert": 969,
+      "quelle": "Wikidata P1249"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1975-01-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79235"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07662"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 40.9,
+        "AfD": 14.5,
+        "GRÜNE": 13.2,
+        "SPD": 12.8,
+        "FDP": 5.9
+       },
+       "wahlbeteiligung_prozent": 87.1,
+       "gueltige_zweitstimmen": 3963
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Vogtsburg im Kaiserstuhl, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "473-achkarren",
+   "rolle": "ziel",
+   "name": "Achkarren",
+   "einheit": "Ortsteil von Vogtsburg im Kaiserstuhl",
+   "wikidata": "Q319670",
+   "lat": 48.06778,
+   "lon": 7.62694,
+   "gemeindeschluessel": "08315133",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Breisgau-Hochschwarzwald",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Vogtsburg im Kaiserstuhl, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 823,
+      "quelle": "Wikidata P1082"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 3.53,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 233,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Vogtsburg im Kaiserstuhl, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 227,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 224,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 227,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2959678)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 19
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "19 km nordwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 139
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1975-01-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79235"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07662"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 40.9,
+        "AfD": 14.5,
+        "GRÜNE": 13.2,
+        "SPD": 12.8,
+        "FDP": 5.9
+       },
+       "wahlbeteiligung_prozent": 87.1,
+       "gueltige_zweitstimmen": 3963
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Vogtsburg im Kaiserstuhl, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "474-burkheim",
+   "rolle": "ziel",
+   "name": "Burkheim",
+   "einheit": "Ortsteil von Vogtsburg im Kaiserstuhl",
+   "wikidata": "Q977317",
+   "lat": 48.1011,
+   "lon": 7.59806,
+   "gemeindeschluessel": "08315133",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Breisgau-Hochschwarzwald",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Vogtsburg im Kaiserstuhl, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 1071,
+      "quelle": "dewiki Infobox",
+      "stand": "2022-11-01"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 5.73,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 187,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Vogtsburg im Kaiserstuhl, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 212,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 212,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 189,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2940985)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 22
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "22 km nordwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 139
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1975-01-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79235"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07662"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 40.9,
+        "AfD": 14.5,
+        "GRÜNE": 13.2,
+        "SPD": 12.8,
+        "FDP": 5.9
+       },
+       "wahlbeteiligung_prozent": 87.1,
+       "gueltige_zweitstimmen": 3963
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Vogtsburg im Kaiserstuhl, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "475-bischoffingen",
+   "rolle": "ziel",
+   "name": "Bischoffingen",
+   "einheit": "Ortsteil von Vogtsburg im Kaiserstuhl",
+   "wikidata": "Q13142499",
+   "lat": 48.1044,
+   "lon": 7.62694,
+   "gemeindeschluessel": "08315133",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Breisgau-Hochschwarzwald",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Vogtsburg im Kaiserstuhl, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 702,
+      "quelle": "dewiki Infobox",
+      "stand": "2022-11-01"
+     },
+     {
+      "wert": 640,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2948303)"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Vogtsburg im Kaiserstuhl, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 223,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 223,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 222,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2948303)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 21
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "21 km nordwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 137
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1975-01-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79235"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07662"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 40.9,
+        "AfD": 14.5,
+        "GRÜNE": 13.2,
+        "SPD": 12.8,
+        "FDP": 5.9
+       },
+       "wahlbeteiligung_prozent": 87.1,
+       "gueltige_zweitstimmen": 3963
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Vogtsburg im Kaiserstuhl, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "476-bickensohl",
+   "rolle": "ziel",
+   "name": "Bickensohl",
+   "einheit": "Ortsteil von Vogtsburg im Kaiserstuhl",
+   "wikidata": "Q649700",
+   "lat": 48.0775,
+   "lon": 7.64611,
+   "gemeindeschluessel": "08315133",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Breisgau-Hochschwarzwald",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Vogtsburg im Kaiserstuhl, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 396,
+      "quelle": "dewiki Infobox",
+      "stand": "2022-11-01"
+     },
+     {
+      "wert": 400,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2949288)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 3.07,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 129,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Vogtsburg im Kaiserstuhl, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 262,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 262,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 262,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2949288)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 18
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "18 km nordwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 137
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1975-01-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79235"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07662"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 40.9,
+        "AfD": 14.5,
+        "GRÜNE": 13.2,
+        "SPD": 12.8,
+        "FDP": 5.9
+       },
+       "wahlbeteiligung_prozent": 87.1,
+       "gueltige_zweitstimmen": 3963
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Vogtsburg im Kaiserstuhl, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "477-oberbergen",
+   "rolle": "ziel",
+   "name": "Oberbergen",
+   "einheit": "Ortsteil von Vogtsburg im Kaiserstuhl",
+   "wikidata": "Q1676741",
+   "lat": 48.0956,
+   "lon": 7.65722,
+   "gemeindeschluessel": "08315133",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Breisgau-Hochschwarzwald",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Vogtsburg im Kaiserstuhl, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 1050,
+      "quelle": "dewiki Infobox",
+      "stand": "2022-11-01"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 7.37,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 142,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Vogtsburg im Kaiserstuhl, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 249,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 249,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 245,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2861294)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 18
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "18 km nordwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 136
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1973-01-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79235"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07662"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 40.9,
+        "AfD": 14.5,
+        "GRÜNE": 13.2,
+        "SPD": 12.8,
+        "FDP": 5.9
+       },
+       "wahlbeteiligung_prozent": 87.1,
+       "gueltige_zweitstimmen": 3963
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Vogtsburg im Kaiserstuhl, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "478-schelingen",
+   "rolle": "ziel",
+   "name": "Schelingen",
+   "einheit": "Ortsteil von Vogtsburg im Kaiserstuhl",
+   "wikidata": "Q2232966",
+   "lat": 48.1042,
+   "lon": 7.68306,
+   "gemeindeschluessel": "08315133",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Breisgau-Hochschwarzwald",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Vogtsburg im Kaiserstuhl, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 357,
+      "quelle": "dewiki Infobox",
+      "stand": "2022-11-01"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 4.1,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 87,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Vogtsburg im Kaiserstuhl, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 310,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 310,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 309,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2839891)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 17
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "17 km nordwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 134
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1975-01-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79235"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07662"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 40.9,
+        "AfD": 14.5,
+        "GRÜNE": 13.2,
+        "SPD": 12.8,
+        "FDP": 5.9
+       },
+       "wahlbeteiligung_prozent": 87.1,
+       "gueltige_zweitstimmen": 3963
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Vogtsburg im Kaiserstuhl, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "469-sasbach",
+   "rolle": "ziel",
+   "name": "Sasbach",
+   "einheit": "Gemeinde",
+   "wikidata": "Q536022",
+   "lat": 48.13944,
+   "lon": 7.61722,
+   "gemeindeschluessel": "08316038",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Emmendingen",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Emmendingen",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 3485,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 3369,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2841381)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 20.78,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 168,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "EM",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "OG",
+      "quelle": "Altbestand geo.sqlite (Kreis 08317)",
+      "abweichend": true
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 181,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 181,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 178,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2841381)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 24
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "24 km nordwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 135
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Sasbach am Kaiserstuhl",
+       "Haltepunkt Jechtingen"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79361"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07642"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 34.0,
+        "AfD": 16.8,
+        "SPD": 15.7,
+        "GRÜNE": 13.4,
+        "FDP": 5.1
+       },
+       "wahlbeteiligung_prozent": 87.2,
+       "gueltige_zweitstimmen": 2353
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Nikolas Kopp"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-21",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "479-leiselheim",
+   "rolle": "ziel",
+   "name": "Leiselheim",
+   "einheit": "Ortsteil von Sasbach am Kaiserstuhl",
+   "wikidata": "Q107478932",
+   "lat": 48.12532,
+   "lon": 7.63466,
+   "gemeindeschluessel": "08316038",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Emmendingen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Sasbach am Kaiserstuhl, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Sasbach am Kaiserstuhl, nicht für den Stadtteil allein"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "EM",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Sasbach am Kaiserstuhl, nicht für den Stadtteil allein"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 22
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "22 km nordwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 135
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 34.0,
+        "AfD": 16.8,
+        "SPD": 15.7,
+        "GRÜNE": 13.4,
+        "FDP": 5.1
+       },
+       "wahlbeteiligung_prozent": 87.2,
+       "gueltige_zweitstimmen": 2353
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Sasbach am Kaiserstuhl, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 198,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2879119)"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "470-wyhl",
+   "rolle": "ziel",
+   "name": "Wyhl",
+   "einheit": "Gemeinde",
+   "wikidata": "Q518944",
+   "lat": 48.16556,
+   "lon": 7.64889,
+   "gemeindeschluessel": "08316051",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Emmendingen",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Emmendingen",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 4051,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 3645,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2805400)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 16.95,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 239,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "EM",
+      "quelle": "Wikidata P395"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 175,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 175,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 175,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2805400)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 24
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "24 km nordwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 132
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79369"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "79369"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07642"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 36.1,
+        "AfD": 21.7,
+        "SPD": 13.6,
+        "GRÜNE": 8.1
+       },
+       "wahlbeteiligung_prozent": 83.6,
+       "gueltige_zweitstimmen": 2445
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Ferdinand Burger"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-21",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "471-forchheim-kaiserstuhl",
+   "rolle": "ziel",
+   "name": "Forchheim",
+   "einheit": "Gemeinde",
+   "wikidata": "Q550804",
+   "lat": 48.16389,
+   "lon": 7.7025,
+   "gemeindeschluessel": "08316013",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Emmendingen",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Emmendingen",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 1393,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 1268,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2925914)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 10.78,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 129,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "EM",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "EM",
+      "quelle": "Altbestand geo.sqlite (Kreis 08316)"
+     },
+     {
+      "wert": "FO",
+      "quelle": "Altbestand kfz_kennzeichen.csv",
+      "abweichend": true
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 187,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 187,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 173,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2925914)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 22
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "22 km nordwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 129
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79362"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "79362",
+       "91301"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07642"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 36.7,
+        "AfD": 22.8,
+        "SPD": 12.2,
+        "GRÜNE": 6.6,
+        "FDP": 6.3,
+        "Die Linke": 5.9
+       },
+       "wahlbeteiligung_prozent": 85.1,
+       "gueltige_zweitstimmen": 927
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Christian Pickhardt"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-21",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
    "slug": "70-breisach",
    "rolle": "ziel",
    "name": "Breisach",
@@ -9213,6 +10740,280 @@
      {
       "wert": [
        "07668"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 30.3,
+        "AfD": 18.4,
+        "SPD": 16.2,
+        "GRÜNE": 15.1,
+        "Die Linke": 6.5,
+        "FDP": 5.1
+       },
+       "wahlbeteiligung_prozent": 82.3,
+       "gueltige_zweitstimmen": 9261
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Breisach am Rhein, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "480-niederrimsingen",
+   "rolle": "ziel",
+   "name": "Niederrimsingen",
+   "einheit": "Ortsteil von Breisach am Rhein",
+   "wikidata": "Q1988395",
+   "lat": 47.98583,
+   "lon": 7.66833,
+   "gemeindeschluessel": "08315015",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Breisgau-Hochschwarzwald",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Breisach am Rhein, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 1367,
+      "quelle": "dewiki Infobox",
+      "stand": "2021-12-31"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 4.59,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 298,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Breisach am Rhein, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 198,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 198,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 197,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2862950)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 14
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "14 km westlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 142
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1973-04-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79206"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07664"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 30.3,
+        "AfD": 18.4,
+        "SPD": 16.2,
+        "GRÜNE": 15.1,
+        "Die Linke": 6.5,
+        "FDP": 5.1
+       },
+       "wahlbeteiligung_prozent": 82.3,
+       "gueltige_zweitstimmen": 9261
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Breisach am Rhein, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "481-oberrimsingen",
+   "rolle": "ziel",
+   "name": "Oberrimsingen",
+   "einheit": "Ortsteil von Breisach am Rhein",
+   "wikidata": "Q2010754",
+   "lat": 47.9789,
+   "lon": 7.6622,
+   "gemeindeschluessel": "08315015",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Breisgau-Hochschwarzwald",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Breisach am Rhein, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 1612,
+      "quelle": "dewiki Infobox",
+      "stand": "2021-12-31"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 9.03,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 179,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Breisach am Rhein, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 199,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 199,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 198,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2859280)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 14
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "14 km westlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 143
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1975-01-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79206"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07664"
       ],
       "quelle": "Wikidata P473"
      }

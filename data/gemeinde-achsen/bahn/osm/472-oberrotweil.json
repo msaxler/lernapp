@@ -1,0 +1,773 @@
+{
+ "ort": "472-oberrotweil",
+ "gebiet": "Gemeindegrenze",
+ "kategorien": {
+  "Aussicht": [
+   {
+    "name": "Mondhalde",
+    "zusatz": "370 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "viewpoint"
+    }
+   },
+   {
+    "name": "Ebnet",
+    "zusatz": "296 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "viewpoint"
+    }
+   }
+  ],
+  "Bahnhof": [
+   {
+    "name": "Oberrotweil",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://iris.noncd.db.de/wbt/js/index.html?bhf=ROBL",
+    "tags": {
+     "railway": "station"
+    }
+   }
+  ],
+  "Brauerei/Winzer": [
+   {
+    "name": "Weingut Salwey",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.salwey.de/",
+    "tags": {
+     "craft": "winery"
+    }
+   },
+   {
+    "name": "Weingut Freiherr von Gleichenstein",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://gleichenstein.com/",
+    "tags": {
+     "craft": "winery"
+    }
+   }
+  ],
+  "Gipfel": [
+   {
+    "name": "Pfaffenlochberg",
+    "zusatz": "289 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   },
+   {
+    "name": "Büchsenberg",
+    "zusatz": "284 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   },
+   {
+    "name": "Mittelberg",
+    "zusatz": "258 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   },
+   {
+    "name": "Eichberg",
+    "zusatz": "269 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   },
+   {
+    "name": "Steingrubenberg",
+    "zusatz": "306 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   },
+   {
+    "name": "Kirchberg",
+    "zusatz": "296 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   }
+  ],
+  "Gewässer": [
+   {
+    "name": "Krottenbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Krebsbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   }
+  ],
+  "Bad": [
+   {
+    "name": "Oberrotweil Schwimmbad",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.schwarzwald-tourismus.info/attraktionen/freischwimmbad-0eaabb16fb",
+    "tags": {
+     "leisure": "swimming_pool"
+    }
+   }
+  ],
+  "Betrieb": [
+   {
+    "name": "Erzeugergroßmarkt Südbaden eG",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "industrial"
+    }
+   }
+  ],
+  "Schutzgebiet": [
+   {
+    "name": "Steinbruch Niederrotweil",
+    "zusatz": "seit 1991",
+    "wikipedia": "de:Liste der Naturschutzgebiete in Baden-Württemberg",
+    "website": "http://www2.lubw.baden-wuerttemberg.de/public/abt2/dokablage/oac_12/vo/3/3178.htm",
+    "tags": {
+     "leisure": "nature_reserve"
+    }
+   }
+  ],
+  "Wanderweg": [
+   {
+    "name": "Querweg Schwarzwald-Kaiserstuhl-Rhein",
+    "zusatz": "",
+    "wikipedia": "de:Schwarzwald-Querweg Schwarzwald–Kaiserstuhl–Rhein",
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Breitental - Krummer Graben",
+    "zusatz": "0.8 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Beim dreieckigen Bannstein - Beim Neunlindenturm",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Dreieckiger Bannstein - Beim dreieckigen Bannstein",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Raubrittergraben - Dreieckiger Bannstein",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Steinhalden - Auenberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Badischer Jakobusweg -südlicher Teil-",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.badische-jakobusgesellschaft.de/",
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Oberrotweil Eichbergstraße - ?",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Mittelberg - Badenberg",
+    "zusatz": "0.1 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Oberrotweil Eichbergstraße - Friedhof Oberrotweil",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Oberrotweil Bahnhof - Oberrotweil Eichbergstraße",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Oberrotweil Bruckmühle - Oberrotweil Johanneskirche",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Oberrotweil Johanneskirche - Oberrotweil Rathaus",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Oberrotweil Rathaus - Oberrotweil Infotafel",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Oberrotweil Infotafel - Oberrotweil Bahnhof",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Oberrotweil Bahnhof - Schotten",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Friedhof Oberrotweil - Oberrotweil Bruckmühle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Panoramaweg - Friedhof Oberrotweil",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Badenberg - Panoramaweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Mondhalde - Badenberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Schotten - Langstrecke",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Schotten - Abern",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Schotten - Obstgarten",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Obstgarten - Niedergrün",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Niedergrün - Groß-Herrenau",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Oberrotweil Im Ried - Oberrotweil Am Badenberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Oberrotweil Schwimmbad - Oberrotweil Im Ried",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kunzenbuck - Oberrotweil Schwimmbad",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Krummer Graben - Kunzenbuck",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Oberrotweil Bruckmühle - Oberrotweil Wachthisli",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Oberrotweil Am Badenberg - Oberrotweil Wachthisli",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Panoramaweg Aufgang Geißberg - Oberrotweil Am Badenberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Weingärtle - Panoramaweg Aufgang Geißberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Krummer Graben - Raubrittergraben",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Waldparkplatz Rüttibuck - Kunzenbuck",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Waldparkplatz Rüttibuck - Käfer",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Scheibenhard - Waldparkplatz Rüttibuck",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Auenberg - Oberrotweil Im Ried",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Auenberg - Kunzenbuck",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Dachsbuck - Adlerhorstsattel",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Raubrittergraben - Evangeli-Talweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Evangeli-Talweg - Beim dreieckigen Bannstein",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Dachsbuck - Evangeli-Talweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Dachsbuck - Dachsbuck",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Strümpfeköpfle - Dachsbuck",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Käfer - Strümpfeköpfle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Arnos Hüttle - Käfer",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ziegelfeld - Jägerhof",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ziegelfeld - Heerweg-Schissergaß",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Obstgarten - Ziegelfeld",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Auf dem Büchsenberg - Büchsenberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Auf dem Büchsenberg - Sommertal",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Pfaffenlochberg - Schlossberg-Krüttacker",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Römerweg - Pfaffenlochberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Feldacker - Sommertal",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Sommertal - Römerweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Römerweg - Hinterschloss",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Roggenberg Ellenbuch - Hönig",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Oberrotweil Johanneskirche - Bildstöckle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Naturschutzgebiet Ebnet - Bildstöckle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Bildstöckle - Heerweg-Schissergaß",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Heerweg-Schissergaß - Oberrotweil Infotafel",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Naturschutzgebiet Ebnet - Am Schneckenberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Roggenberg Ellenbuch - Naturschutzgebiet Ebnet",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Oberrotweil Sparkasse - Roggenberg Ellenbuch",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Oberrotweil Wachthisli - Oberrotweil Sparkasse",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   }
+  ],
+  "Radweg": [
+   {
+    "name": "Vulkan-Tour",
+    "zusatz": "32.9 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   }
+  ]
+ }
+}

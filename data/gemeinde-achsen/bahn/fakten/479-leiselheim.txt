@@ -1,0 +1,124 @@
+ID: 479-leiselheim/001
+ENTITÄT: ort
+BEZEICHNUNG: Leiselheim
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Leiselheim | Wikipedia
+EIGENSCHAFTEN:
+  einwohnerzahl: 445
+  dialekt_name: Lissele
+  lage: nordwestlicher Winkel des Kaiserstuhls
+  entfernung_freiburg: ca. 18 [km]
+  entfernung_breisach_am_rhein: ca. 12 [km]
+  höhe: 200 [m]
+  bundesland: Baden-Württemberg
+  landkreis: Emmendingen
+  ortsteil_von: Sasbach am Kaiserstuhl
+  eingemeindung_datum: 1974-04-01
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 479-leiselheim/002
+ENTITÄT: ort
+BEZEICHNUNG: Leiselheim
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Leiselheim | Wikipedia
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 1155
+  periode_jungsteinzeit: Siedlungsspuren
+  periode_römerzeit: Straße auf der Gemarkung
+  periode_nach_römerzeit: alamannische Siedler
+  periode_mittelalter: fränkisches Krongut
+  besonderheit_994: König Otto III. hielt Fürstengericht am Königstuhl (später Kaiserstuhl) ab
+  reformation: lutherisch
+  verwaltungsgeschichte: Markgrafschaft Baden-Durlach (ab ca. 1500) > Oberamt Hochberg > Amt Endingen (1810) > Bezirksamt Endingen (1813) > Amtsbezirk Breisach (1819) > Bezirksamt Emmendingen (1924) > Bezirksamt Freiburg (1936) > Landkreis Emmendingen (1974)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 479-leiselheim/003
+ENTITÄT: kirche
+BEZEICHNUNG: evangelische Kirche Leiselheim
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Leiselheim | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  besonderheit: Umstellung auf lutherisch in Reformationszeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 479-leiselheim/004
+ENTITÄT: brunnen
+BEZEICHNUNG: Stockbrunnen
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Leiselheim | Wikipedia
+EIGENSCHAFTEN:
+  lage: gegenüber der Winzergenossenschaft
+  baujahr: 1607
+  restaurierung: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 479-leiselheim/005
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Carl Friedrich Meerwein
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Leiselheim | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1737
+  tod: 1810
+  geburtsort: Leiselheim
+  titel: Markgräflich badischer Landbaumeister
+  leistung: Konstrukteur eines Flugapparats
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 479-leiselheim/006
+ENTITÄT: weinlage
+BEZEICHNUNG: Gestühl
+FACETTE: WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Leiselheim | Wikipedia
+EIGENSCHAFTEN:
+  superlativ: bekannteste Reblage von Leiselheim
+  bedeutung_fuer_ort: vermutlich Ort eines Fürstengerichts König Ottos III. 994, Namensgeber für Kaiserstuhl
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 479-leiselheim/007
+ENTITÄT: weinbau
+FACETTE: WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Leiselheim | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Obst- und Weinanbau sind heute die wichtigsten Wirtschaftszweige
+  infrastruktur: Winzergenossenschaft
+  weinlagen: Hermensberg, Hüttenbühl, Herrenberge, Hochberg, Steuernberg, Gestühl
+  besonderheit: Weinreben dominieren östlich, westlich und südlich des Dorfes
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 479-leiselheim/008
+ENTITÄT: gastronomie
+BEZEICHNUNG: Café Lissele
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Leiselheim | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: gastronomische Einrichtung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 479-leiselheim/009
+ENTITÄT: gastronomie
+BEZEICHNUNG: Brunnästübli
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Leiselheim | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: gastronomische Einrichtung mit wechselnden Ausstellungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 479-leiselheim/010
+ENTITÄT: wappen
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Leiselheim | Wikipedia
+EIGENSCHAFTEN:
+  blasonierung: In Silber auf grünem Dreiberg ein Rebstock mit drei grünen Blättern und drei blauen Trauben
+  symbolik: Weinbau als Charakteristikum des Ortes
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

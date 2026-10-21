@@ -1,0 +1,354 @@
+ENTITÄT: ort
+BEZEICHNUNG: Oberbergen
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Oberbergen_(Vogtsburg_im_Kaiserstuhl) | Wikipedia
+EIGENSCHAFTEN:
+  einwohnerzahl: 1000
+  bestandteile: Altvogtsburg (ca. 50 Einwohner) und Oberbergen
+  rebflaeche: 350 ha
+  gehoert_zu: Stadt Vogtsburg
+  gehoert_zu_seit: 1975
+  lage: Weinanbaugebiet Kaiserstuhl, Oberrheinische Tiefebene
+  geologie: vulkanischer Ursprung, Lösschicht
+  charakteristikum: Wein- und Ferienort
+  klima_besonderheit: blühende Mandelbäume im Frühjahr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Totenkopf
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://www.vogtsburg.de/de-de/tourismus/natur-urlaub-aktiv/traumhafte-aussicht-en | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 557 m
+  superlativ: höchste Erhebung des Kaiserstuhls
+  vegetation: Mischwald
+  bedeutung_fuer_ort: Wahrzeichen, Aussichtsbereit ohne Rebanbau
+ORTSTEIL_BEZUG: Oberbergen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: aussichtsturm
+BEZEICHNUNG: Neunlindenturm
+FACETTE: FREIZEIT
+QUELLE: https://www.vogtsburg.de/de-de/tourismus/natur-urlaub-aktiv/traumhafte-aussicht-en | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: unterhalb des Gipfels Totenkopf, zwischen Ihringen und Oberbergen
+  typ: beliebter Aussichtsturm
+ORTSTEIL_BEZUG: Oberbergen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fernsehturm
+BEZEICHNUNG: Fernsehturm Vogtsburg
+FACETTE: INFRA
+QUELLE: https://www.vogtsburg.de/de-de/tourismus/natur-urlaub-aktiv/traumhafte-aussicht-en | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 155 m
+  material: Stahlbeton
+  lage: unterhalb des Totenkopf-Gipfels
+  sichtbarkeit: weithin sichtbar
+ORTSTEIL_BEZUG: Oberbergen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: quelle
+BEZEICHNUNG: Badloch/Badlochquelle
+FACETTE: FREIZEIT | LAGE
+QUELLE: https://www.vogtsburg.de/de-de/tourismus/natur-urlaub-aktiv/freizeitangebote-erlebnisse/rund-ums-wasser | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: zwischen Oberbergen und Alt-Vogtsburg
+  funktion: Erfrischung, Grillstelle
+  ausstattung: Picknicktische, Grillstelle
+  bedeutung_fuer_ort: Wandererziel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Mauritius
+FACETTE: GESCHICHTE | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Oberbergen_(Vogtsburg_im_Kaiserstuhl) | Wikipedia
+EIGENSCHAFTEN:
+  einweihung: 1812
+  vorgaengerin_kirche: 1139 erwähnt, 1497 gotischer Neubau
+  ausstattung: Radleuchter, Vierungsaltar
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: orgel
+BEZEICHNUNG: Orgel in St. Mauritius
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Oberbergen_(Vogtsburg_im_Kaiserstuhl) | Wikipedia
+EIGENSCHAFTEN:
+  erbauer: Stehle Orgelbau
+  baujahr: 1951
+  restaurierung: 2018
+GUELTIG_AB: 1951
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: restaurant
+BEZEICHNUNG: Restaurant Schwarzer Adler
+FACETTE: ALLTAG | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Oberbergen_(Vogtsburg_im_Kaiserstuhl) | Wikipedia
+EIGENSCHAFTEN:
+  ersterwähnung: 19. Jahrhundert
+  auszeichnung: Michelin-Stern
+  auszeichnung_seit: 1969
+  wirt_und_besitzer: Fritz Keller (bis 2007 Franz Keller)
+  bedeutung_fuer_ort: bekanntes Lokal, Ausdruck von Weinkompetenz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: winzergenossenschaft
+BEZEICHNUNG: Winzergenossenschaft Oberbergen
+FACETTE: ALLTAG | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Oberbergen_(Vogtsburg_im_Kaiserstuhl) | Wikipedia
+EIGENSCHAFTEN:
+  mitglieder: 460
+  bedeutung_fuer_ort: bekannt für Weine, lokale Weintradition
+ORTSTEIL_BEZUG: Oberbergen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: weingut
+BEZEICHNUNG: Weingut Franz Keller
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Oberbergen_(Vogtsburg_im_Kaiserstuhl) | Wikipedia
+EIGENSCHAFTEN:
+  besitzer_geschichte: Franz Keller (1927–2007), dann Fritz Keller
+  kinder: Fritz Keller ist Koch
+ORTSTEIL_BEZUG: Oberbergen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: weinanbaugebiet
+BEZEICHNUNG: Baßgeige
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Oberbergen_(Vogtsburg_im_Kaiserstuhl) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Hauptanbaugebiet Oberbergen
+  namensherkunft: vermutlich von der Form der Weinberge aus der Vogelperspektive (wie Bassgeige)
+  genauigkeit: vermutlich
+ORTSTEIL_BEZUG: Oberbergen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: rebsorte
+BEZEICHNUNG: Müller-Thurgau
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Oberbergen_(Vogtsburg_im_Kaiserstuhl) | Wikipedia
+EIGENSCHAFTEN:
+  hauptanbau_in_ort: Oberbergen besonders bekannt für diese Sorte
+ORTSTEIL_BEZUG: Oberbergen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: rebsorte
+BEZEICHNUNG: Graue Burgunder
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Oberbergen_(Vogtsburg_im_Kaiserstuhl) | Wikipedia
+EIGENSCHAFTEN:
+  hauptanbau_in_ort: Oberbergen besonders bekannt für diese Sorte
+ORTSTEIL_BEZUG: Oberbergen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Eugen Biser
+FACETTE: GESCHICHTE | KULTUR
+QUELLE: https://www.vogtsburg.de/de-de/tourismus/kunst-kultur/altstadt-historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt: 06.01.1918 in Oberbergen
+  tod: 25.03.2014 in München
+  beruf: Universitätsprofessor, Theologe, Religionsphilosoph
+  titel: Prof. Dr. theol. Dr. phil. Dr. h.c. mult., Päpstlicher Ehrenprälatgeboren
+  lehrstuhl: Guardini-Lehrstuhl für Christliche Weltanschauung und Religionsphilosophie, Ludwig-Maximilians-Universität München
+  publikationen: über 150 Bücher, über 1000 Veröffentlichungen
+  bedeutung_fuer_ort: herausragender Sohn des Ortes, Theologe und Religionsphilosoph
+ORTSTEIL_BEZUG: Oberbergen
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1918
+GUELTIG_BIS: 2014
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gedenkstaette
+BEZEICHNUNG: Eugen-Biser-Haus
+FACETTE: KULTUR
+QUELLE: https://www.vogtsburg.de/de-de/tourismus/kunst-kultur/altstadt-historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zweck: Raum der Erinnerung, Ort der Begegnung
+  errichtet: 2022 zur 1050. Jahrfeier Oberbergens
+  standort: Geburtshaus von Eugen Biser
+ORTSTEIL_BEZUG: Oberbergen
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Gedenktafel Eugen Biser
+FACETTE: KULTUR
+QUELLE: https://www.vogtsburg.de/de-de/tourismus/kunst-kultur/altstadt-historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kunstform: Bronzebüste und Gedenktafel
+  kuenstler: Marlene Neubauer-Wörner aus München
+  anbringung: 2022 am Geburtshaus von Eugen Biser
+  anlass: 1050. Jahrfeier Oberbergens
+ORTSTEIL_BEZUG: Oberbergen
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Franz Keller
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Oberbergen_(Vogtsburg_im_Kaiserstuhl) | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1927–2007
+  beruf: Winzer
+  bedeutung_fuer_ort: bekannter Winzer Oberbergens
+ORTSTEIL_BEZUG: Oberbergen
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1927
+GUELTIG_BIS: 2007
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Franz Keller
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Oberbergen_(Vogtsburg_im_Kaiserstuhl) | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: seit 1950
+  beruf: Koch
+  vater: Franz Keller (Winzer)
+  bedeutung_fuer_ort: bekannter Koch
+ORTSTEIL_BEZUG: Oberbergen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Fritz Keller
+FACETTE: KULTUR | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Oberbergen_(Vogtsburg_im_Kaiserstuhl) | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: seit 1957
+  beruf: Adlerwirt (Restaurantbetreiber), Fußballfunktionär
+  restaurant: Restaurant Schwarzer Adler
+  positionen: ehemaliger Präsident SC Freiburg, ehemaliger Präsident Deutscher Fußball-Bund
+  bedeutung_fuer_ort: bekannter Wirt und Funktionär
+ORTSTEIL_BEZUG: Oberbergen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Oberbergener Scheibenbuck
+FACETTE: LAGE
+QUELLE: Eingabe: ZEUGEN | OpenStreetMap
+EIGENSCHAFTEN:
+  schutz_seit: 1991
+ORTSTEIL_BEZUG: Oberbergen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Badberg
+FACETTE: LAGE
+QUELLE: Eingabe: ZEUGEN | OpenStreetMap
+EIGENSCHAFTEN:
+  schutz_seit: 2009
+ORTSTEIL_BEZUG: Oberbergen (in der Nähe)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: weide
+BEZEICHNUNG: Schelinger Viehweide
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://www.vogtsburg.de/de-de/tourismus/natur-urlaub-aktiv/traumhafte-aussicht-en | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  groesse: ca. 20 Hektar
+  tierart: Rinder
+  superlativ: größte Rinderweide im Kaiserstuhl
+  lage: zwischen Oberbergen und Schelingen
+  wirtschaft_seit: 1985 Familienbetrieb im Einklang mit Natur
+  ausstattung: markierter und eingezäunter Wanderweg, Hofgebäude
+  bedeutung_fuer_ort: Ausflugsziel, Stille und Artenvielfalt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: mineral
+BEZEICHNUNG: Bergalith
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Oberbergen_(Vogtsburg_im_Kaiserstuhl) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Ganggestein
+  entdeckungsort: Gegend von Oberbergen
+  benannt_nach: dem Ort Oberbergen
+  bedeutung_fuer_ort: geologische Besonderheit des Ortes
+ORTSTEIL_BEZUG: Oberbergen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadt
+BEZEICHNUNG: Vogtsburg
+FACETTE: LAGE
+QUELLE: https://www.vogtsburg.de/de-de/wirtschaft/standortprofil | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 6217
+  einwohnerzahl_datum: November 2022
+  ortsteile: Achkarren, Bickensohl, Bischoffingen, Burkheim, Oberbergen, Oberrotweil, Schelingen
+  formation_datum: 1.1.1975
+  formation_aus: sieben ehemals selbstständigen Weinbaugemeinden
+  charakteristika: Herz des Kaiserstuhls, größte Weinbaugemeinde Baden-Württembergs
+  rebflaeche: 1388 ha
+  hoechste_erhaebung: Totenkopf 557 m
+  winzergenossenschaften: 6
+  weingueter: ca. 40
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1975
+VERTRAUEN_EXTRAKTION: 0.95

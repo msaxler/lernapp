@@ -1,0 +1,213 @@
+ENTITÄT: ort
+BEZEICHNUNG: Bickensohl
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Bickensohl | Wikipedia
+EIGENSCHAFTEN:
+  lage_region: Kaiserstuhl, Südwestdeutschland
+  teil_von: Stadt Vogtsburg im Kaiserstuhl
+  seitental: Eschbach
+  position_in_gemeinde: Süden der Gesamtgemeinde Vogtsburg
+  entfernung_zu_oberbergen: 1,5 km (nördlich)
+  einwohner: ca. 400
+  charakteristische_landnutzung: Von Weinbergen umgeben mit Waldgebieten
+  typische_strukturen: Lösshohlwege (z.B. Eichgasse)
+  topographie: Zu höchster Erhebung (Totenkopf, 557 m) hin gelegen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Bickensohl
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Bickensohl | Wikipedia
+EIGENSCHAFTEN:
+  namensherkunft: 1048 erstmals erwähnt in Schenkungsurkunde Kaiser Heinrichs III. als "villa Piccensole"; Name: "Picken" (Person) + "sol" (feuchter Ort)
+  urspflanzlicher_besitz: Basler Domkapitel (1048)
+  vogtei_mittelalter: 14. Jahrhundert - Üsenberger besaßen Vogtei, Besitz an Herren von Falkenstein verpfändet
+  konflikt_mittelalter: Kaiserstühler Krieg 1320–1322 (Üsenberger gegen Falkensteiner); Falkensteiner gingen als Sieger hervor
+  besitzwechsel_1407: Schnewlin von Landeck und Jakob von Weisweil
+  besitzwechsel_später: Herren von Staufen, 1461 an Markgraf von Baden, Ordnung zur Herrschaft Hachberg
+  reformation: Mitte 16. Jahrhundert - Bickensohler nahmen neuen Glauben an
+  weinlagen_ersterwähnung: 1558
+  verwaltungszugehörigkeit_1807_1924: Bezirksamt Breisach
+  verwaltungszugehörigkeit_1938_1972: Landkreis Freiburg
+  verwaltungszugehörigkeit_ab_1972: Landkreis Breisgau-Hochschwarzwald
+  gemeindefusion: 1. Januar 1975 in Stadt Oberrotweil eingegliedert; 15. April 1977 Stadt umbenannt in Vogtsburg im Kaiserstuhl
+GUELTIG_AB: 1048
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Bickensohl
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Bickensohl | Wikipedia
+EIGENSCHAFTEN:
+  erlebnis_erster_weltkrieg: Trotz Möglichkeiten als Selbstversorger waren die Menschen mit Mangel und Hunger konfrontiert; landwirtschaftliche Erzeugnisse wurden zur Versorgung der Stadt Freiburg herangezogen
+  kulturelles_denkmal: 1943 Aufzeichnung von Deutschlands erster "tönender Dorfchronik" auf 36 Schallplatten durch das Institut für Rundfunkwissenschaften; Aufnahmen von Volkssagen, Volksliedern mit Beteiligung von Bürgermeister, Ortsbauernführer und Einwohnern
+GUELTIG_AB: 1914
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gewässer
+BEZEICHNUNG: Eschbach
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Bickensohl
+QUELLE: https://de.wikipedia.org/wiki/Bickensohl | Wikipedia
+EIGENSCHAFTEN:
+  topographie: Seitental, in dem Bickensohl liegt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Totenkopf
+FACETTE: LAGE
+QUELLE: https://www.vogtsburg.de/de-de/tourismus/natur-urlaub-aktiv/traumhafte-aussicht-en | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  höhe: 557 m
+  superlativ: höchste Erhebung des Kaiserstuhls
+  bedeutung_fuer_bickensohl: Bickensohl liegt am Fuße des Totenkopf und bietet Zugang als "höchste Erhebung des Kaiserstuhls"
+  vegetation: Weitgehend durch geschlossenen Mischwald bedeckt (im Gegensatz zu meisten Flächen des Kaiserstuhls)
+  bauwerke: Neunlindenturm (beliebter Aussichtsturm zwischen Ihringen und Oberbergen), Fernsehturm Vogtsburg (155 m hoher Stahlbetonturm)
+  erreichbarkeit: Zahlreiche Wanderwege von Vogtsburger Stadtteilen sowie von Bötzingen oder Ihringen aus (leicht mit S-Bahn erreichbar)
+  plattformhoehe: Plattform in 557 m über N.N.
+  aussicht: Blick über gesamten Kaiserstuhl, Breisgauer Bucht, Schwarzwald, Vogesen; bei guter Sicht auch Hornisgrinde und Schweizer Jura sichtbar
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Bienenfresserpfad
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Bickensohl | Wikipedia
+EIGENSCHAFTEN:
+  länge: 16 km
+  verlauf: von Ihringen (Süden) bis Königschaffhausen (Norden) durch den Kaiserstuhl
+  bedeutung_fuer_bickensohl: Bickensohl liegt am Wanderweg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Lösshohlwegepfad
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Bickensohl
+QUELLE: https://de.wikipedia.org/wiki/Bickensohl | Wikipedia
+EIGENSCHAFTEN:
+  länge: knapp 7 km
+  charakteristik: führt rund um das Dorf; typischer Lösshohl-Weg des Kaiserstuhls
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: lösshohlweg
+BEZEICHNUNG: Eichgasse
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Bickensohl
+QUELLE: https://de.wikipedia.org/wiki/Bickensohl | Wikipedia
+EIGENSCHAFTEN:
+  charakteristik: für den Kaiserstuhl typischer Lösshohlweg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: lösshohlweg
+BEZEICHNUNG: Lösshohlgasse
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Bickensohl
+QUELLE: https://www.vogtsburg.de/de-de/tourismus/natur-urlaub-aktiv/freizeitangebote-erlebnisse/erlebnisreiche-touren | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristik: eindrucksvolle Lösshohlgasse
+  bedeutung: Schauplatz von Weingeschichten und Touren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Jakob (Pfarrkirche St. Jakob)
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Bickensohl
+QUELLE: https://de.wikipedia.org/wiki/Bickensohl | Wikipedia
+EIGENSCHAFTEN:
+  ersterwähnung: 1139
+  erweiterung: 1864
+  renovierung: 1973
+  orgel_neubau: 1975, Orgelbau Vier
+GUELTIG_AB: 1139
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: organisation
+BEZEICHNUNG: Winzergenossenschaft Bickensohl
+FACETTE: WIRTSCHAFT
+ORTSTEIL_BEZUG: Bickensohl
+QUELLE: https://de.wikipedia.org/wiki/Bickensohl | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1924
+  initial_mitglieder: 45
+  aktuelle_mitglieder: 150
+  rebfläche: 140 ha
+  hauptsorte_spätburgunder: 34 %
+  hauptsorte_grauburgunder: 25 %
+  grauburgunder_erstkelterung: 1985
+  bedeutung: zentrale Institution des Weinbaus in Bickensohl
+GUELTIG_AB: 1924
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: wanderung_thematisch
+BEZEICHNUNG: Wanderung Bickensohl "Im Herzen des Kaiserstuhls"
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Bickensohl
+QUELLE: https://www.vogtsburg.de/de-de/tourismus/natur-urlaub-aktiv/freizeitangebote-erlebnisse/erlebnisreiche-touren | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristik: Natur- und Weinbergs-Wanderung
+  lage: Am Fuße der Doppelspitze Neunlinden und Totenkopf
+  aussicht: Fantastische Ausblicke über Lössterrassen mit Weinanbau, Obstwiesen, Oberrheinebene bis zu den Vogesen
+  länge: 7,4 km
+  dauer: 3 Stunden
+  optional_erweiterung: kombinierbar mit anschließender Kellerführung und Weinprobe
+  mindestteilnehmer: 4 Personen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: ortschaftsrat
+BEZEICHNUNG: Ortschaftsrat Bickensohl
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: Bickensohl
+QUELLE: https://de.wikipedia.org/wiki/Bickensohl | Wikipedia
+EIGENSCHAFTEN:
+  grösse: 6 Personen
+  zusammensetzung_bürgerliste: 2 Vertreter
+  zusammensetzung_bickensohler_liste: 4 Vertreter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur_bildung
+BEZEICHNUNG: Kindergarten Bickensohl
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Bickensohl
+QUELLE: https://de.wikipedia.org/wiki/Bickensohl | Wikipedia
+EIGENSCHAFTEN:
+  träger: Evangelische Gemeinde Bickensohl
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80

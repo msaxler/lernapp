@@ -1,0 +1,1178 @@
+ENTITÄT: ort
+BEZEICHNUNG: Wyhl
+FACETTE: LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wyhl_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  lage: Oberrheinebene, nordwestlicher Rand des Kaiserstuhls
+  bundesland: Baden-Württemberg
+  landkreis: Emmendingen
+  rhein_grenze: natürliche Grenze zu Frankreich (Frankreich westlich)
+  hoehenlage: 172 m über NN
+  entfernung_emmendingen: ca. 19 km östlich
+  entfernung_freiburg: ca. 32 km südöstlich
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Wyhl
+FACETTE: ALLTAG | DEMOGRAFIE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/483435/daten-fakten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 4055
+  gemarkungsflaeche_ha: 1695
+  waldflaeche_ha: 310
+  siedlungs_verkehrsflaeche_ha: 249
+  landwirtschaftliche_nutzung_ha: 1040
+  gewaesserflaeche_ha: 96
+  wasserharte: Stufe 2, mittel 12,7 °dH
+  nitratwert_mg_l: 10.8
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: ort
+FACETTE: GESCHICHTE | IDENTITAET
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwachnung_jahr: 926
+  ersterwachnung_form: Villa
+  namensgeschichte: Wila → Wihl → Weyhl → Wyhl
+  frueheste_besiedlung: keltoromanische Siedlung 50 v. Chr. bis 250 n. Chr.
+  charakterisierung_rhein: Der Rhein hat die Geschichte durch Lauf, Überschwemmungen und Verwüstungen geprägt, brachte aber auch Nutzen durch Fischreichtum und Waldwachstum
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: siedlung
+BEZEICHNUNG: keltoromanische Siedlung
+FACETTE: GESCHICHTE | LANDSCHAFT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitspanne: 50 v. Chr. bis 250 n. Chr.
+  lage: innerhalb der Wyhler Gemarkung
+  beleg_graeberfunde_4_5_jh: mit römischen Grabbeigaben
+  beleg_graeberfunde_7_jh: deuten auf durchgehende Besiedlung hin
+GUELTIG_AB: -50
+GUELTIG_BIS: 250
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Blasius
+FACETTE: GESCHICHTE | KULTUR | INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwachnung_jahr: 1275
+  ersterwachnung_form: Wyhler Pfarrkirche St. Blasius
+  turmbau_zeit: 1150-1180 (nach Aussagen von Fachleuten)
+  grundsteinlegung_neubau: 1760
+  stil: Barockkirche mit späteren Umformungen
+  gemaelde_kuenstler: Johann Pfunner
+  skulpturen_kuenstler: Matthias Faller
+  pfarrhaus_stil: Rokoko-Stuck
+  pfarrhaus_bauzeit: 1717-1719
+  seelsorgeeinheit: Am Litzelberg
+  beschreibung: Barockkirche mit barockem Pfarrhaus, beides später umgeformt; besitzt barocke Altäre
+  bedeutung_fuer_ort: religiöses Zentrum und Baudenkmal
+GUELTIG_AB: 1275
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kapelle
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  annahme_baujahr: ca. 994
+  anlass: Christianisierung des Dorfes nach Schenkung durch Kaiser Otto II.
+  lage: auf dem Platz der späteren Pfarrkirche St. Blasius
+GUELTIG_AB: 994
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+
+---
+
+ENTITÄT: pest
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausbruch_1188: wütete in Wyhl und Wellingen, viele Menschen zum Opfer
+  ausbruch_1348: fordert große Opfer in Wyhl
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: rheinu­eberschwemmung
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1302
+  datum: 01.09.
+  beschreibung: Kaiserstuhl wurde zur Insel, von der man mit dem Schiff nach Freiburg fahren konnte
+GUELTIG_AB: 1302
+GUELTIG_BIS: 1302
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: freiheytsbrief
+FACETTE: GESCHICHTE | POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1324
+  beschreibung: Privilegien, in denen die Rechte der Bauern gegenüber der Herrschaft festgelegt wurden
+  veranlasser: Kloster St. Märgen zu Waldkirch
+GUELTIG_AB: 1324
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: personalunion
+FACETTE: GESCHICHTE | POLITIK
+ORTSTEIL_BEZUG: Wöllingen
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1375
+  beschreibung: Wellingen musste Personalunion mit Wyhl eingehen in der Person des jeweils zu wählenden Vogtes
+  folge: Wyhl wird vorderösterreichisch
+GUELTIG_AB: 1375
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gemeindewappen
+FACETTE: GESCHICHTE | KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wyhl_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  blasonierung: In gespaltenem Schild; vorn in Rot eine gestürzte goldene Pflugschar, hinten in Blau ein pfahlweis gestelltes silbernes Senseneisen
+  ältestes_siegel_jahr: 1609
+  ältestes_siegel_beschreibung: zeigt bereits Pflugschar (abwärts gekehrt) und Senseneisen
+  farbenzeichnung_jahr: 1905
+  farbenzeichnung_durch: Generallandesarchiv
+  vorderes_feld: badische Farben
+  hinteres_feld: Farben der Stadt Endingen
+  flagge: gelb-rot gestreift
+  wappen_aenderung_jahr: 1904
+  ortsherrschaft_seit: 1413 österreichisches Pfand und später Lehen bei der Stadt Endingen
+GUELTIG_AB: 1609
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gerichtssiegel
+FACETTE: GESCHICHTE | KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1609
+  beschreibung: ältestes nachweisbares Gerichtssiegel mit Gemeindewappen
+  superlativ: eines der ältesten Gemeindewappen in Baden
+GUELTIG_AB: 1609
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Stubenhof
+FACETTE: GESCHICHTE | INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Sasbacher Straße 6
+  baujahr: 1622
+  bauherr: Gemeinde
+  nutzung: gemeindliche Angelegenheiten in Wort und Schrift
+  weitere_nutzung_krieg: Residenz des schwedischen Kommandanten während des 30-jährigen Krieges
+  weitere_nutzung_spaeter: Schulhaus
+GUELTIG_AB: 1622
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: schwedenlager
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitspanne: 1632-1633
+  lage: im Fehrenwert am Römerbrunnen
+  groesse: großes Schwedenlager
+  weitere_voelkerschaften: andere Völkerschaften folgten
+GUELTIG_AB: 1632
+GUELTIG_BIS: 1633
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: kirchtuhr
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1650
+  ort: Kirchturm
+  beschreibung: Sensation ersten Ranges zur damaligen Zeit
+GUELTIG_AB: 1650
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: muehle
+BEZEICHNUNG: Wyhler Mühle
+FACETTE: GESCHICHTE | ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1670
+  neuer_besitzer: Ferdinand Frey (Stadtschreiber)
+  verleihende_instanz: Stadt Endingen
+  besonderheit: Endingen behielt sich das Zugrecht vor
+GUELTIG_AB: 1670
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: feuer
+BEZEICHNUNG: Kirchenbrand
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1704
+  zerstoert: Kirche, Pfarrhaus und andere Häuser
+GUELTIG_AB: 1704
+GUELTIG_BIS: 1704
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: feuer
+BEZEICHNUNG: Feuersbrunst von 1751
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 07.03.1751
+  zerstoerte_haeuser: 88 Häuser (2/3 der Gemeinde)
+  ausloeser_vermutet: Anna Trutt, 63 Jahre alt
+  verurteilung: wegen Hexerei nach Folterung auf dem Judenbuck zu Endingen
+  hinrichtung: Scheiterhaufen
+  anomalie: geschah, obwohl Hexenverbrennung seit 1740 durch Maria Theresia verboten war
+  zuschauerschaft: 10000-12000 Schaulustige
+GUELTIG_AB: 1751
+GUELTIG_BIS: 1751
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Anna Trutt
+FACETTE: GESCHICHTE | IDENTITAET
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wyhl_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  geburtsname: Schnidenwind
+  lebensjahre: 1688-1751
+  beschreibung: eine der letzten Frauen, die in Deutschland als Hexe verfolgt und öffentlich hingerichtet wurde
+  todesart: Verbrennung auf dem Scheiterhaufen
+  anklage: Teufelspakt und Brandstiftung
+  gedenken: Anna-Trutt-Weg gewidmet
+GUELTIG_AB: 
+GUELTIG_BIS: 1751
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: pfarrhaus
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1717-1719
+  stil: Rokoko-Stuck
+GUELTIG_AB: 1717
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: ort
+FACETTE: GESCHICHTE | POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_1806: Wyhl kommt zu Baden
+  ereignis_1806_folge: Kloster St. Märgen wird aufgehoben
+  ereignis_1812: Wyhl kauft sich für 40000 Gulden von Endingen los
+  ereignis_1812_grund: Endingen war stark verschuldet
+GUELTIG_AB: 1806
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: schulgebaeude
+FACETTE: GESCHICHTE | INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1827
+  heutige_nutzung: Bücherei und Begegnungsstätte „Alte Schule"
+GUELTIG_AB: 1827
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gemeindeordnung
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1832
+  aenderung: Bad. Gemeindeordnung löst das „ehrsame Bauerngericht" ab
+  folge: Vogt wird zum Bürgermeister
+GUELTIG_AB: 1832
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: auswanderung
+BEZEICHNUNG: Colonia Tovar
+FACETTE: GESCHICHTE | IDENTITAET
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1842
+  ziel_land: Venezuela
+  zahl_auswanderer: 31
+  unterstuetzung_gemeinde: Reisegeld durch Gemeinde
+  mitgruender: mit anderen Auswanderern der Umgebung
+  bestand_heute: ja
+  gründung_name: Colonia Tovar
+  bedeutung_fuer_ort: Namensgeber und historisches Zeugnis der Auswanderungswelle
+GUELTIG_AB: 1842
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: auswanderung
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frueherer_zeitpunkt: 1817
+  ziel_region: Nordamerika
+  grund: arme Leute wanderten freiwillig aus
+  vergleich: schon vor der Venezuela-Auswanderung 1842
+GUELTIG_AB: 1817
+GUELTIG_BIS: 
+IST_VERMUTISMUS_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: industrie
+BEZEICHNUNG: Zigarrenindustrie
+FACETTE: ALLTAG | WIRTSCHAFT
+ORTSTITEL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einzug_jahr: 1875
+  firmen_count: 6
+  firmen_namen: Heppe, Günzburger, Bremer, Schindler, Brill, Burger
+  bestand_bis: 1983 (Burger)
+  bedeutung: Für viele Generationen Arbeit und Brot, wenn auch auf niedriger Lohnbasis
+GUELTIG_AB: 1875
+GUELTIG_BIS: 1983
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: postagentur
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung_jahr: 1881
+GUELTIG_AB: 1881
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: schwesternstation
+FACETTE: INFRA | ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_jahr: 1886
+  initiative: Pfarrer Kollefrath
+  orden: St. Vinzenziusschwestern
+  aufgaben: Kranke und Alte versorgen, Wöchnerinnen entbinden
+GUELTIG_AB: 1886
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: kasse
+BEZEICHNUNG: Spar- und Darlehnskasse
+FACETTE: ALLTAG | INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_jahr: 1888
+  gruender: Lehrer Roemer und Pfarrer Kollefrath
+GUELTIG_AB: 1888
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: krankenkasse
+FACETTE: INFRA | ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung_jahr: 1900
+  veranlasser: Gemeinde
+  zielgruppe: Taglöhner
+GUELTIG_AB: 1900
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: kinderschule
+FACETTE: INFRA | ALTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung_jahr: 1900
+  adresse: Etterstraße 21
+  stifter: Rosa Maier (Haus und Grundstück)
+  erste_leiterin: Euphemia Vogt
+  leitungswechsel_jahr: 1905
+  leitung_von_1905_bis_1974: St. Vinzenziusschwestern
+GUELTIG_AB: 1900
+GUELTIG_BIS: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: schulgebaeude
+BEZEICHNUNG: neue Schule
+FACETTE: GESCHICHTE | INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1912
+  heutige_nutzung: Rathaus
+  besonderheit: eines der ersten Gebäude mit Zentralheizung und elektrischem Licht
+GUELTIG_AB: 1912
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: krieg
+BEZEICHNUNG: Erster Weltkrieg
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitspanne: 1914-1918
+  tote_und_vermisste: 69
+GUELTIG_AB: 1914
+GUELTIG_BIS: 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: krieg
+BEZEICHNUNG: Zweiter Weltkrieg
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitspanne: 1939-1945
+  tote: 140
+  vermisste: 51
+  evakuierungen: dreimalig (Schwarzwald, Württemberg, Bayern, östlicher Kaiserstuhl)
+  zerstoerte_haeuser_prozent: 27%
+  beschaedigte_50_bis_90_prozent: 14%
+  beschaedigte_20_bis_25_prozent: 33%
+  kriegsschaden_mark: 3356748
+GUELTIG_AB: 1939
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: schulgebaeude
+BEZEICHNUNG: Hauptschule
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neubau_jahr: 1968
+GUELTIG_AB: 1968
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: mitteilungsblatt
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einfuehrung_jahr: 1969
+  ersetzt: das Bott
+  beschreibung: amtliches Mitteilungsblatt
+GUELTIG_AB: 1969
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: einsegnungshalle
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neubau_jahr: 1973
+GUELTIG_AB: 1973
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: kernkraftwerk
+BEZEICHNUNG: Kernkraftwerk Wyhl
+FACETTE: GESCHICHTE | IDENTITAET | FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  planung_beginn: 1969
+  alternativer_standort: Breisach (aufgegeben wegen Protesten)
+  standort_wechsel_datum: Juli 1973
+  geplante_bloecke: 2
+  leistung_megawatt_pro_block: 1300
+  oeffentliche_auslegung_jahr: 1974
+  einwender_gemeinden: 8
+  einwender_vereinigungen: 53
+  einwender_privatpersonen: 330
+  unterschriften_sammlung: 89430
+  demonstration_1975_datum: Großkundgebung mit Demonstrationszügen
+  demonstranten_zaehlung: 8000-10000 Personen
+  pleatzbesetzung: illegale Besetzung des Baugeländes
+  rechtliche_entwicklung_1977: Verwaltungsgericht Freiburg – Ungefährlichkeit angenommen, aber politisch nicht durchsetzbar
+  rechtliche_entwicklung_1982: Verwaltungsgerichtshof Mannheim hob Urteil auf
+  bau_status_1983: vorläufig auf Eis gelegt (Ministerpräsident Späth)
+  bedeutung_fuer_ort: Wendepunkt der deutschen Anti-Atomkraft-Bewegung, überregional bekannt
+  bedeutung_fuer_ort2: Kern der Wyhl-Identität in den 1970ern
+GUELTIG_AB: 1973
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verwaltungsverband
+FACETTE: POLITIK | INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beitritt_jahr: 1974
+  verband_name: Verwaltungsverband nördl. Kaiserstuhl
+  status_wyhl: Teilverwaltungsraum
+GUELTIG_AB: 1974
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: kläranlage
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau_jahr: 1975
+  lage: unteren Hänger
+  kosten_dm: ca. 11000000
+  komponenten: incl. Sammelkanäle
+GUELTIG_AB: 1975
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: vereinsgemeinschaft
+FACETTE: KULTUR | ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_jahr: 1976
+  sonderbezeichnung: 1976 wurde zum Jahr der Vereine erklärt
+  besonderheit: organisiert das Wyhler Gassenfest
+  gassenfest_rhythmus: alle zwei Jahre
+GUELTIG_AB: 1976
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gassenfest
+BEZEICHNUNG: Wyhler Gassenfest
+FACETTE: KULTUR | FREIZEIT
+ORTSTITEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wyhl_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  veranstalter: Vereinsgemeinschaft
+  frequenz: alle zwei Jahre
+  start_jahr: 1976
+  bedeutung_fuer_ort: Kulturelles Fest, identitätsstiftend
+GUELTIG_AB: 1976
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: feuerwehrgeraetehaus
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neubau_jahr: 1978
+  einweihung_jahr: 1978
+  fahrzeuguebergabe: neues Löschfahrzeug LF16
+GUELTIG_AB: 1978
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: sporthalle
+FACETTE: FREIZEIT | INFRA
+ORTSTITEL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neubau_jahr: 1988
+GUELTIG_AB: 1988
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: kindergarten
+BEZEICHNUNG: St. Josef
+FACETTE: INFRA
+ORTSTITEL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  renovierung_jahr: 1998
+GUELTIG_AB: 1998
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: kindergarten
+BEZEICHNUNG: St. Katharina
+FACETTE: INFRA
+ORTSTITEL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neubau_jahr: 2000
+GUELTIG_AB: 2000
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: festhalle
+FACETTE: INFRA | KULTUR
+ORTSTITEL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umbau_jahr: 2002
+GUELTIG_AB: 2002
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: schulgebaeude
+BEZEICHNUNG: Grund- und Hauptschule mit Werkrealschule
+FACETTE: INFRA
+ORTSTITEL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  um_neubau_jahr: 2007
+GUELTIG_AB: 2007
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: rathaus
+FACETTE: INFRA | POLITIK
+ORTSTITEL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umbau_zeit: 2009-2010
+  ursprung: alte Grundschule
+GUELTIG_AB: 2009
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: apotheke
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung_jahr: 1974
+GUELTIG_AB: 1974
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: alte_schule_buecherei
+FACETTE: INFRA | KULTUR
+ORTSTITEL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/492997/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umbau_sanierung_jahr: 2012
+GUELTIG_AB: 2012
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: heimatmuseum
+BEZEICHNUNG: Heimatmuseum Wyhl
+FACETTE: KULTUR | FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/verzeichnis/visitenkarte.php?mandat=217333 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendungszeit: 1990er Jahre
+  anlass_gruendung: Gegenstände aus Leben und Alltag von früher sammeln und präsentieren
+  lage: Dachgeschoss Rathaus, Hauptstraße 9
+  themenbereiche: Landwirtschaft, Handwerk, altes Schulzimmer, Rhein und Fischfang, Auswanderung, Tabakindustrie, Kolonialwarenladen, Wyhler Wappen-Geschichte, Zeitleiste
+  betreiber: Heimatverein Wyhl e.V.
+  aktivitaeten_heimatverein: Erhalt von Tradition und Brauchtum, Feste und Hocks, Vorlesungen, Buchpräsentationen, Fotoausstellungen, Beschilderung historischer Orte
+  beschilderung_projekt: Beschilderung und Bezeichnung historischer Orte im Dorf
+  bedeutung_fuer_ort: Dokumentation und Vermittlung der Wyhler Geschichte und Identität
+GUELTIG_AB: 1990
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: heimatverein
+BEZEICHNUNG: Heimatverein Wyhl e.V.
+FACETTE: KULTUR | ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/verzeichnis/visitenkarte.php?mandat=217333 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  satzungsaufgabe: Erhalt von Tradition und Brauchtum
+  gruendung_vor_jahren: über 30 Jahre
+  aktivitaeten: Feste und Hocks mit Themen wie Landwirtschaft, Oldtimer, Handwerk, Kleindenkmale; Vorlesungen; Buchpräsentationen; Fotoausstellungen; Beschilderung historischer Orte
+  museum_betrieb: Heimatmuseum im Dachgeschoss des Rathauses
+GUELTIG_AB: 1993
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: sportclub
+BEZEICHNUNG: Sport-Club Wyhl
+FACETTE: FREIZEIT | KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wyhl_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  fussball_liga_2009: erstmals in Vereinsgeschichte Landesliga (2009/2010)
+  kunstturnen_liga: Kunstturnmannschaft in Landes- und Bezirksliga
+  aufstieg_verbandsliga: 2012/2013
+  bedeutung_fuer_ort: überörtlich bekannter Sportverein
+GUELTIG_AB: 2009
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: jugendzentrum
+BEZEICHNUNG: Aktion Jugendzentrum (AJZ)
+FACETTE: KULTUR | FREIZEIT | ALLTAG
+ORTSTITEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wyhl_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  betrieb_dauer_jahren: seit 40 Jahren
+  betreiber: Verein Aktion Jugendzentrum Wyhl e.V.
+  status: autonomes Jugendzentrum
+  groesse: eines der größten autonomen Jugendzentren in Baden-Württemberg
+  auszeichnung_2015: Ehrenamtspreis der Landesregierung „Echt gut!" in der Kategorie Junge Aktive
+  auszeichnung_2016: Deutscher Engagementspreis (unter 100 beste Organisationen aus 6500 Projekten)
+  bedeutung_fuer_ort: bedeutsamer Kulturträger und sozialer Anlaufpunkt
+GUELTIG_AB: 1983
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: naturalehrpfad
+BEZEICHNUNG: Naturlehrpfad Rheinauewald
+FACETTE: FREIZEIT | LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/483484/rheinaue-naturlehrpfad.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einrichtung_jahr: 1971
+  laenge_km: ca. 4
+  partner_schwarzwaldverein: ja
+  partner_regierungspraesident: Regierungspräsidium Freiburg
+  partner_revierforstern: Revierförster
+  neues_konzept: neue Wegeführung, Beschilderung
+  ausstattung: Hörstationen, interaktive Spiele, Infotafeln
+  zielgruppe: Jung und Alt
+  lernziel: spielerische Vermittlung einzigartiger Flora und Fauna des Auewaldes
+  huette_baumarten: 19 einheimische Baumarten, die im Rheinauewald wachsen
+  bedeutung_fuer_ort: Erlebnis- und Lernort, touristisches Angebot
+GUELTIG_AB: 1971
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Rheinniederung Wyhl-Weisweil
+FACETTE: LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wyhl.de/seite/483484/rheinaue-naturlehrpfad.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausweisung_jahr: 1998
+  kategorie: Naturschutzgebiet
+  flaeche_ha_auewald: ca. 300
+  anteil_wyhl_waldfläche: ca. 98% der Wyhler Waldfläche
+  waldbiotope_count: 23
+  waldbiotope_flaeche_ha: 25.4
+  biotop_typen: Fließgewässer, Wälder mit schützenswerten Pflanzen, Stillgewässer, seltene naturnahe Waldgesellschaften, Moorbereiche, Feuchtbiotope
+  baumarten: Laubmischwald mit überwiegend Esche, Ahornarten, Stieleiche, Linde, Hainbuche, Ulmen, Kirsche, Birke, Erle, Weiden, Schwarzpappeln
+  altrheinarme: reich an Fischen und Wasserpflanzen, Relikte des einstigen Rheinbettes
+  bedeutung_fuer_ort: Naturschutz, Biodiversität, Erholungsraum, touristisches Potential
+GUELTIG_AB: 1998
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: rheinradweg
+BEZEICHNUNG: Rheinradweg
+FACETTE: FREIZEIT | INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wyhl_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  strecke_quelle: Oberalppass, Schweizer Kanton Graubünden
+  strecke_muendung: Rotterdam
+  teilstrecke_wyhl: von Breisach kommend am Rhein entlang bis Weisweil über Wyhl
+  europadweg_bezeichnung: Euroveloroute 15
+  deutschlandroute: D-Route 8
+  bedeutung_fuer_ort: touristisches Angebot, Freizeit und Naherholung
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Walter Schumann
+FACETTE: IDENTITAET
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wyhl_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1946
+  beruf: Polizist
+  karriere: Polizeipräsident von Merseburg
+  amtszeit: 1995-2011
+GUELTIG_AB: 1995
+GUELTIG_BIS: 2011
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: sage
+BEZEICHNUNG: Baroner Kritzli
+FACETTE: KULTUR | IDENTITAET
+ORTSTITEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wyhl_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  ereignis_datum: 14.07.1873
+  ereignis_art: tragischer Jagdunfall
+  ergebnis: tödlicher Schuss eines Stiefsohnes durch seinen Stiefvater
+  denkmal_form: Kreuz
+  inschrift: „Sehet zu, wachet und betet, denn ihr wisset nicht, wann es Zeit ist"
+  erste_erneuerung_jahr: 1909
+  erneuerer_1909: Schmied Wilhelm Fränzle
+  historischer_verlauf: später gestohlen, um 1983 neu gefertigt durch Schlossermeister Manfred Burkart
+  sockelsanierung: Maurer Werner Öschger
+  bedeutung_heute: beliebtes Ausflugsziel der Wyhler Bevölkerung
+GUELTIG_AB: 1873
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gemeinderat
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wyhl_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  mitglieder_gewahlt: 12 ehrenamtliche
+  vorsitzender: Bürgermeister
+  stimmberechtigung_buergermeister: ja
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Ferdinand Burger
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wyhl_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  amtsantritt_jahr: 2016
+  wahl_jahr_1: 2016
+  wahl_ergebnis_1: 60.6%
+  wahl_jahr_2: 2024
+  wahl_ergebnis_2: 92.7%
+  vorgaenger: Joachim Ruth
+  vorgaenger_amtszeit: 1992-2016
+GUELTIG_AB: 2016
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gedenkstein
+BEZEICHNUNG: „Nai hämmer gsait" (AKW Wyhl)
+FACETTE: GESCHICHTE | KULTUR | FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wyhl_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Gedenkstein zum Widerstand gegen das geplante Kernkraftwerk Wyhl
+  bedeutung_fuer_ort: Erinnerung an wichtige gesellschaftliche Bewegung, Identitätsmerkmal, Ausflugsziel
+GUELTIG_AB: 1973
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: „Auswanderer" Colonia Tovar 1842
+FACETTE: GESCHICHTE | KULTUR | IDENTITAET
+ORTSTEIL_BEZUG: 
+QUELLE: 
+EIGENSCHAFTEN:
+  beschreibung: Denkmal zur Erinnerung an die 31 Auswanderer, die 1842 mit Unterstützung der Gemeinde nach Venezuela auswanderten und Colonia Tovar gründeten
+  bedeutung_fuer_ort: Zeugnis der Auswanderungsgeschichte, Identitätsmerkmal
+GUELTIG_AB: 1842
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: muehlbach
+FACETTE: LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG: 
+QUELLE: 
+EIGENSCHAFTEN:
+  beschreibung: Gewässer im Gemeindegebiet Wyhl
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.5
+
+---
+
+ENTITÄT: rhein
+FACETTE: LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wyhl_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: natürliche westliche Grenze zu Frankreich
+  bedeutung_fuer_ort_historisch: prägte die Geschichte durch Überschwemmungen, Verwüstungen, Fischreichtum und Waldwachstum
+  bedeutung_fuer_ort_heute: Naherholung, Verkehrsachse (Rheinradweg)
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: badischer_jakobusweg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: 
+EIGENSCHAFTEN:
+  beschreibung: südlicher Teil des Badischen Jakobuswegs verläuft durch oder nahe Wyhl
+  bedeutung_fuer_ort: touristisches Angebot, Pilger-Infrastruktur
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.5
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wyhler Mühle
+FACETTE: LAGE
+ORTSTITEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wyhl_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Gehöft der Gemeinde Wyhl am Kaiserstuhl
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kiesgrube Albert Schweitzer
+FACETTE: LAGE
+ORTSTITEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wyhl_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Wohnplatz der Gemeinde Wyhl am Kaiserstuhl
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: ortschaft
+BEZEICHNUNG: Wöllingen
+FACETTE: GESCHICHTE | LAGE
+ORTSTITEL_BEZUG: Wöllingen
+QUELLE: https://de.wikipedia.org/wiki/Wyhl_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  status: abgegangen (nicht mehr bestehend)
+  beschreibung: historische Ortschaft im Gemeindegebiet Wyhl
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: burgstall
+BEZEICHNUNG: Burgstall der Burg Schafgießen
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wyhl_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  lage: im Gemeindegebiet Wyhl
+  status: historischer Burgstall
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.5

@@ -1,0 +1,802 @@
+{
+ "ort": "401-bahlingen",
+ "gebiet": "Gemeindegrenze",
+ "kategorien": {
+  "Bahnhof": [
+   {
+    "name": "Bahlingen am Kaiserstuhl",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://iris.noncd.db.de/wbt/js/index.html?bhf=RBAL",
+    "tags": {
+     "railway": "station"
+    }
+   },
+   {
+    "name": "Bahlingen-Riedlen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://iris.noncd.db.de/wbt/js/index.html?bhf=RBAR",
+    "tags": {
+     "railway": "halt"
+    }
+   }
+  ],
+  "Aussicht": [
+   {
+    "name": "Wasserreservoir",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "viewpoint"
+    }
+   },
+   {
+    "name": "Schwarzwaldblick",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "viewpoint"
+    }
+   },
+   {
+    "name": "Kandel - Schwarzwald",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "viewpoint"
+    }
+   },
+   {
+    "name": "Panoramatafel",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "viewpoint"
+    }
+   },
+   {
+    "name": "Eichelspitzturm Schwarzwald",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "viewpoint"
+    }
+   },
+   {
+    "name": "Schwarzwald",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "viewpoint"
+    }
+   },
+   {
+    "name": "Herbert & Irmgard Maier Gedächtnisplatz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "viewpoint"
+    }
+   }
+  ],
+  "Freizeit": [
+   {
+    "name": "Trotte (Kelter)",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "technical_monument",
+     "tourism": "attraction"
+    }
+   },
+   {
+    "name": "Breisgauer-Modell-Flieger",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.breisgauer-modellflieger.de",
+    "tags": {
+     "tourism": "attraction"
+    }
+   },
+   {
+    "name": "Bahlinger Platz Breigauer Modellflieger",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.breisgauer-modellflieger.de",
+    "tags": {
+     "tourism": "attraction"
+    }
+   }
+  ],
+  "Burg/Denkmal": [
+   {
+    "name": "Stellfalle - Bewässerungssystem",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "ALLE DIE GEFALLEN",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   }
+  ],
+  "Brauerei/Winzer": [
+   {
+    "name": "Weingut Frank Breisacher",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "craft": "winery"
+    }
+   },
+   {
+    "name": "Winzerhof Boos",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.winzerhof-boos.de/",
+    "tags": {
+     "craft": "winery"
+    }
+   },
+   {
+    "name": "Weingut Trautwein",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "craft": "winery"
+    }
+   },
+   {
+    "name": "Weingut Schumacher",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "craft": "winery"
+    }
+   },
+   {
+    "name": "Weingut Joseph",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "craft": "winery"
+    }
+   },
+   {
+    "name": "Weingut Feyock",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "craft": "winery"
+    }
+   }
+  ],
+  "Gewässer": [
+   {
+    "name": "Dreisam",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "river"
+    }
+   },
+   {
+    "name": "Mühlkanal",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Alte Dreisam",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "river"
+    }
+   },
+   {
+    "name": "Glotter",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Enderliskanal",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   }
+  ],
+  "Betrieb": [
+   {
+    "name": "Adler Mühle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "http://www.adler-muehle.de",
+    "tags": {
+     "man_made": "watermill"
+    }
+   },
+   {
+    "name": "TENP Station Bahlingen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "industrial"
+    }
+   },
+   {
+    "name": "G4",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "industrial"
+    }
+   }
+  ],
+  "Sportstätte": [
+   {
+    "name": "Silberberghalle",
+    "zusatz": "multi",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "multi"
+    }
+   }
+  ],
+  "Radweg": [
+   {
+    "name": "Breisgau-Radwanderweg",
+    "zusatz": "64 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Kaiserstuhl-Radwanderweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Vulkan-Tour",
+    "zusatz": "32.9 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Dreisam-Tour",
+    "zusatz": "32.8 km",
+    "wikipedia": null,
+    "website": "http://www.ebike-kaiserstuhl.de/",
+    "tags": {
+     "route": "bicycle"
+    }
+   }
+  ],
+  "Wanderweg": [
+   {
+    "name": "Querweg Schwarzwald-Kaiserstuhl-Rhein",
+    "zusatz": "",
+    "wikipedia": "de:Schwarzwald-Querweg Schwarzwald–Kaiserstuhl–Rhein",
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Degenmatten - Bahlinger Eck Parkplatz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Habstal - Hexenpfädli",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Bahlingen Unterriesengasse - Sieben-Weg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Buchen - Sieben-Weg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Sieben-Weg - Nägeler",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Nägeler - Waldparkplatz Käferholz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hexenpfädli - Nägeler",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Waldparkplatz Käferholz - Schutteracker",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hexenpfädli - Schutteracker",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Beim Bahlinger Eck - Obergrub",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Beim Bahlinger Eck - Bahlinger Eck Parkplatz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Schönebene - Obergrub",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Beim Bahlinger Eck - Schönebene",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Schutteracker - Beim Bahlinger Eck",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Schönebene - Hexenpfädli",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Habstal - Schönebene",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ziehlenweg - Buchen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Wihltalblick - Gutensberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ziehlenweg - Wihltalblick",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Krummenacker - Ziehlenweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Wasserreservoir - Krummenacker",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Gutensberg - Buchen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Schlimberg - Sohltal-Hähle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Sohltal-Hähle - Schmählin",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Sohltal-Hähle - Beim Kreuz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Heegin - Sohltal-Hähle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Heegin - Habstal",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Beim Kreuz - Heegin",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Bahlingen Bahnhof - Bahlingen Alte Schule",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Bahlingen Alte Schule - Fohberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Bahlingen Alte Schule - Bahlingen Laube",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Frohntal-Eck - Bahlingen Laube",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Bahlingen Laube - Bahlingen Saargässle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Wasserreservoir - Fohberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Bahlingen Unterriesengasse - Wasserreservoir",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Bahlingen Saargässle - Bahlingen Unterriesengasse",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hanstal - Riedgraben",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Leimen - Hanstal",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hanstal - Beim Kreuz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Bahlingen Burg-Ecke - Leimen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Leimen - Hohleimen-Höhe",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Bahlingen Saargässle - Bahlingen Burg-Ecke",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hohleimen-Höhe - Bahlingen Burg-Ecke",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Frohntal-Eck - Hohleimen-Höhe",
+    "zusatz": "0.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Bettlerküche - Frohntal-Eck",
+    "zusatz": "1.5 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Alter Brennplatz - Frohntal-Eck",
+    "zusatz": "0.5 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Riedgraben - Hohleimen-Höhe",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Alter Brennplatz - Riedgraben",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Schmählin - Alter Brennplatz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Engelsberg Wihlbach - Schmählin",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Rennweg - Gutensberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Fohberg - Krummenacker",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   }
+  ]
+ }
+}

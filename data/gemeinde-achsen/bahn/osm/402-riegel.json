@@ -1,0 +1,520 @@
+{
+ "ort": "402-riegel",
+ "gebiet": "Gemeindegrenze",
+ "kategorien": {
+  "Bahnhof": [
+   {
+    "name": "Riegel Ort",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://iris.noncd.db.de/wbt/js/index.html?bhf=RROP",
+    "tags": {
+     "railway": "station"
+    }
+   },
+   {
+    "name": "Riegel-Malterdingen SWEG",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://iris.noncd.db.de/wbt/js/index.html?bhf=RRP",
+    "tags": {
+     "railway": "station"
+    }
+   }
+  ],
+  "Betrieb": [
+   {
+    "name": "Alte Brauerei",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "man_made": "works"
+    }
+   },
+   {
+    "name": "Herbert Hipp Verpackungs GmbH",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.herbert-hipp.de",
+    "tags": {
+     "man_made": "works"
+    }
+   },
+   {
+    "name": "Gewerbegebiet",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "industrial"
+    }
+   },
+   {
+    "name": "Gewerbegebiet Malterdingen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "industrial"
+    }
+   },
+   {
+    "name": "Bauhof",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "industrial"
+    }
+   },
+   {
+    "name": "Gewerbegebiet Oberwald",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "industrial"
+    }
+   }
+  ],
+  "Burg/Denkmal": [
+   {
+    "name": "Mithras-Tempel",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "archaeological_site"
+    }
+   },
+   {
+    "name": "Keltische Siedlungsreste",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "archaeological_site"
+    }
+   },
+   {
+    "name": "Überschwemmungen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Nidingen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   }
+  ],
+  "Museum": [
+   {
+    "name": "Museum Riegel",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "http://www.museum-riegel.de/",
+    "tags": {
+     "tourism": "museum"
+    }
+   },
+   {
+    "name": "Kunsthalle Messmer",
+    "zusatz": "",
+    "wikipedia": "de:Kunsthalle Messmer",
+    "website": "https://kunsthallemessmer.de",
+    "tags": {
+     "tourism": "museum"
+    }
+   },
+   {
+    "name": "Atelier Thiel",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "http://www.maler-thiel.homepage.t-online.de",
+    "tags": {
+     "tourism": "gallery"
+    }
+   }
+  ],
+  "Kultur": [
+   {
+    "name": "Kumedi",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.kumedi.de/",
+    "tags": {
+     "amenity": "theatre"
+    }
+   }
+  ],
+  "Aussicht": [
+   {
+    "name": "Schwarzwaldblick",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "viewpoint"
+    }
+   },
+   {
+    "name": "Schwarzwald Kaiserstuhl",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "viewpoint"
+    }
+   }
+  ],
+  "Brauerei/Winzer": [
+   {
+    "name": "Römerbräu Riegel",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "http://www.roemerbraeu.de",
+    "tags": {
+     "craft": "brewery"
+    }
+   },
+   {
+    "name": "Weinhof Hassler",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.weinhof-hassler.de",
+    "tags": {
+     "craft": "winery"
+    }
+   }
+  ],
+  "Gewässer": [
+   {
+    "name": "Dreisam",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "river"
+    }
+   },
+   {
+    "name": "Elz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "river"
+    }
+   },
+   {
+    "name": "Alte Elz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "river"
+    }
+   },
+   {
+    "name": "Alte Dreisam",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "river"
+    }
+   },
+   {
+    "name": "Wässerungskanal",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Mühlbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Glotter",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Feuerbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Heubühlgießen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   }
+  ],
+  "Freizeit": [
+   {
+    "name": "Michaelskapelle",
+    "zusatz": "",
+    "wikipedia": "de:Michaelskapelle (Riegel am Kaiserstuhl)",
+    "website": null,
+    "tags": {
+     "amenity": "place_of_worship",
+     "tourism": "attraction"
+    }
+   }
+  ],
+  "Sportstätte": [
+   {
+    "name": "Modellflugplatz Riegel",
+    "zusatz": "model aerodrome",
+    "wikipedia": null,
+    "website": "https://msc-riegel.de/",
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "model_aerodrome"
+    }
+   },
+   {
+    "name": "Riegeler SC e.V.",
+    "zusatz": "soccer",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "recreation_ground",
+     "leisure": "sports_centre",
+     "sport": "soccer"
+    }
+   }
+  ],
+  "Radweg": [
+   {
+    "name": "Breisgau-Radwanderweg",
+    "zusatz": "64 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Europäischer Radwanderweg Elzach - Villé",
+    "zusatz": "88 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Kaiserstuhl-Radwanderweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Elzdamm-Radweg",
+    "zusatz": "14 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Muehlbach-Rundweg",
+    "zusatz": "30 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Dreisam-Tour",
+    "zusatz": "32.8 km",
+    "wikipedia": null,
+    "website": "http://www.ebike-kaiserstuhl.de/",
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Oberrhein Römerradweg",
+    "zusatz": "200 km",
+    "wikipedia": null,
+    "website": "https://www.oberrhein-roemerradweg.de/",
+    "tags": {
+     "route": "bicycle"
+    }
+   }
+  ],
+  "Wanderweg": [
+   {
+    "name": "Archäologischer Rundweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Naturpfad Riegel am Kaiserstuhl",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Riegel Mutter Erde - Am Dürleberg",
+    "zusatz": "0.1 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Wolfsgrube - Riegel Mutter Erde",
+    "zusatz": "0.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Bettlerküche - Engelsberg Wihlbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Am Dürleberg - Bettlerküche",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Bettlerküche - Frohntal-Eck",
+    "zusatz": "1.5 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Am Dürleberg - Engelsberg Wihlbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Riegel SWEG-Bahnhof - Riegel Römerstraße",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Riegel Römerstraße - Riegel Elzdamm",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Riegel Römerstraße - Riegel Rathaus",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Riegel Brauhaus - Riegel Rathaus",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Riegel Elzdamm - Riegel Brauhaus",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Riegel Brauhaus - Wolfsgrube",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Wolfsgrube - Riegel Rathaus",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   }
+  ]
+ }
+}

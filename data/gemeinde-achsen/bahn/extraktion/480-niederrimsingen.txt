@@ -1,0 +1,190 @@
+ENTITÄT: ort
+BEZEICHNUNG: Niederrimsingen
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Niederrimsingen | Wikipedia
+EIGENSCHAFTEN:
+  lage_zu_breisach: südöstlich
+  lage_zu_freiburg: 18 km westlich
+  position_tuniberg: Südwestrand
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Niederrimsingen
+FACETTE: GESCHICHTE
+QUELLE: https://www.tourismus.breisach.de/ort/breisach-niederrimsingen-66b4fa7ade | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkunde: 1275
+  urspruengliche_siedlung: 819 als Rimigisger marca erwähnt (Kloster Lorsch)
+  namensform_993: Rymsingen
+  teilung_obernieder: um 993 Aufteilung in Ober- und Niederrimsingen
+  bezeichnung_1344: nider Rimsingen
+  status_1330: Reichsdorf
+  herrschaft_1330_1379: Herren von Üsenberg (Grund für Flügel im Wappen)
+  eingemeindung: 1973 in Stadt Breisach am Rhein
+GUELTIG_AB: 819
+GUELTIG_BIS: 1973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: siedlung
+FACETTE: GESCHICHTE
+QUELLE: https://www.tourismus.breisach.de/ort/breisach-niederrimsingen-66b4fa7ade | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode: Hallstattzeit mittlere
+  zeit: 8.-7. Jahrhundert v. Chr.
+  lage: Tuniberg Gemarkung Niederrimsingen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: siedlung
+FACETTE: GESCHICHTE
+QUELLE: https://www.tourismus.breisach.de/ort/breisach-niederrimsingen-66b4fa7ade | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode: Latènezeit
+  zeit: 5.-1. Jahrhundert v. Chr.
+  lage: Gewann Almendmatten/Langmatten
+  erkenntnis: nachgewiesen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: siedlung
+FACETTE: GESCHICHTE
+QUELLE: https://www.tourismus.breisach.de/ort/breisach-niederrimsingen-66b4fa7ade | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode: Merowingerzeit
+  zeit: 6.-7. Jahrhundert n. Chr.
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Laurentiuskirche
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Niederrimsingen
+QUELLE: https://www.tourismus.breisach.de/ort/breisach-niederrimsingen-66b4fa7ade | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  turm_datierung: Mitte 11. Jahrhundert
+  superlativ: älteste Kirche der Oberrheinlandschaft
+  schaedigung: Dorfbrand zwischen 1480-1500
+  neubau_chor_langhaus: 1480-1500
+  umbau_18_jh: barocker Umbau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: weinlage
+BEZEICHNUNG: Attilafelsen
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Niederrimsingen
+QUELLE: https://www.tourismus.breisach.de/ort/breisach-niederrimsingen-66b4fa7ade | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  benannt_nach: Sage vom Grab des Hunnenkönigs Attila
+  sage_epoche: 5. Jahrhundert
+  sage_ort: Tuniberg
+  regional_bekanntheit: ja
+  beschreibung: Weinlage unzweifelhaft nach dieser Sage benannt
+GUELTIG_AB: 1510
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Attila-Denkmal
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Niederrimsingen
+QUELLE: https://de.wikipedia.org/wiki/Niederrimsingen | Wikipedia
+EIGENSCHAFTEN:
+  enthuellung: 1. April 1979
+  schaffer: Rainer Stiefvater (Bildhauer, einheimisch)
+  material: Zementplastik
+  hoehe: 2.50 m
+  form: ähnelt Olmekenköpfen
+GUELTIG_AB: 1979
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: halle
+BEZEICHNUNG: Attila-Halle Niederrimsingen
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Niederrimsingen
+QUELLE: https://stadt.breisach.de/de/kultur_und_freizeit/hallen/attila-halle_niederrimsingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Munzinger Weg 7, 79206 Breisach-Niederrimsingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Burgunderpfad
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Niederrimsingen
+QUELLE: https://www.tourismus.breisach.de/tour/burgunderpfad-faf1af8469 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge_gesamt: 26.5 km
+  dauer_gesamt: 7 Stunden 15 Minuten
+  aufstieg: 200 m
+  abstieg: 210 m
+  schwierigkeit: mittel
+  abschnitt_niederrimsingen_gottenheim: 13.27 km
+  landschaft: Natur- und Reblandschaft Tuniberg, Dreisam
+  charakter: aussichtsreich, geologische Highlights, botanische Highlights, kulturelle Highlights, faunistische Highlights
+  thementafeln: ja, über Rebsorten
+  aussicht: Kaiserstuhl, Schwarzwald, Vogesen, Rheinebene
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Tuniberg
+FACETTE: LAGE
+QUELLE: https://www.tourismus.breisach.de/ort/breisach-niederrimsingen-66b4fa7ade | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: keltisch dunum = Berg
+  hauptnutzung: Weinbau
+  weinbau_dokumentiert_seit: 1510
+  charakteristikum: attraktiv für Wanderer, Radfahrer, Spaziergänger
+  ausbluecke: Kaiserstuhl, Schwarzwald, Rhein, Vogesen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Chilbi
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Niederrimsingen
+QUELLE: https://www.tourismus.breisach.de/vielfalt/breisacher-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: traditionelles Dorffest
+  bedeutung_fuer_ort: dörflicher Charme, lokales Veranstaltungsprogramm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: infrastruktur
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Niederrimsingen
+QUELLE: https://www.tourismus.breisach.de/vielfalt/breisacher-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anbindung: Busverbindung zu Bahnhof Breisach und Freiburg (außer Grezhausen)
+  konus_gaestekarte: kostenlos für Übernachtungsgäste Breisach
+  unterkuenfte: Beherbergungsbetriebe vorhanden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2-portraet",
+ "ort": "474-burkheim",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 24488,
+ "token_ein": 1316090,
+ "token_aus": 15037,
+ "usage": {
+  "input_tokens": 56,
+  "cache_creation_input_tokens": 56023,
+  "cache_read_input_tokens": 1260011,
+  "output_tokens": 15037,
+  "output_tokens_details": {
+   "thinking_tokens": 6681
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 56023,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 5410,
+    "cache_read_input_tokens": 62138,
+    "cache_creation_input_tokens": 787,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 787
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.6636982000000002,
+ "sekunden": 325,
+ "fehler": false,
+ "zeit": "2026-10-21T03:03:40"
+}

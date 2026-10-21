@@ -1,0 +1,592 @@
+ENTITÄT: ort
+BEZEICHNUNG: Burkheim am Kaiserstuhl
+FACETTE: LAGE | GESCHICHTE | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  frueher_name: Burkheim am Rhein
+  ist_teilgemeinde_von: Vogtsburg im Kaiserstuhl
+  gemeindereform_datum: 1975-01-01
+  hatte_stadtrecht_bis: 1975
+  gemarkungsflaeche: 573
+  gemarkungsflaeche_einheit: ha
+  landwirtschaftliche_flaeche: 232
+  landwirtschaftliche_flaeche_einheit: ha
+  waldfläche: 184
+  waldfläche_einheit: ha
+  rebflaeche: 157
+  rebflaeche_einheit: ha
+  ist_weinort: true
+  liegt_am: Rhein, Westrand des Kaiserstuhls
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Burkheim
+FACETTE: LAGE | GESCHICHTE | FREIZEIT
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://www.vogtsburg.de/de-de/tourismus/kunst-kultur/altstadt-historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_wahrzeichen: true
+  ist_denkmal: true
+  ist_sichtbar_von_weitem: true
+  urkundlich_erste_erwaehnung: 763-01-01
+  urspruenglich_auf_kulturboden: keltisch
+  vorherige_funktion: römischer Wartturm oder Kastell
+  ursprung: alemannisch-fränkisch
+  benannt_nach: vermutlich fränkische Siedlung um 700
+  gehörte_zu_kloster: Ettenheimmünster
+  herrschaft_schwendi_ab: 1560-08-12
+  renovierung: 1561-1572
+  kaufpreis_1901: 1901
+  besitzer_1901: Leopold Bastian, Franz Josef Bastian
+  besitzer_heute: Familienbesitz L. Bastian (Inh. Neymeyer) und L. Schätzle
+  nutzung: mietbar für private Feierlichkeiten
+  superlativ: Wahrzeichen Burkheims
+GUELTIG_AB: 763
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Korkenziehermuseum Kaiserstuhl
+FACETTE: FREIZEIT | KULTUR
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  hat_sitz_in: Burkheim
+  beschreibung: Museum für Korkenzieher
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Pankratius
+FACETTE: LAGE | GESCHICHTE | KULTUR
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  ist_pfarrkirche: true
+  location: Oberstadt Burkheim
+  bauepoche: 14. Jahrhundert
+  architekturstil: gotisch
+  chorraum_erhalten_seit: 14. Jahrhundert
+  orgel_baujahr: 1990
+  orgelbauer: Orgelbau Mönch
+  orgel_gehaeuse_baujahr: 1752
+  ist_mehrfach_erweitert: true
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Vogtsburger Künstlertage
+FACETTE: KULTUR | FREIZEIT
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://www.vogtsburg.de/de-de/tourismus/kunst-kultur/altstadt-historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  haeuﬁgkeit: jährlich
+  ort: historischer Stadtkern Burkheim
+  bedeutung_fuer_ort: Kulisse für Veranstaltung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Burkheimer Weintage
+FACETTE: KULTUR | FREIZEIT
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://www.vogtsburg.de/de-de/tourismus/kunst-kultur/altstadt-historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  haeuﬁgkeit: jährlich
+  ort: historischer Stadtkern Burkheim
+  fokus: Wein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Vogtsburger Weihnachtsmarkt
+FACETTE: KULTUR | FREIZEIT
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  haeuﬁgkeit: dreitägig
+  ort: historischer Stadtkern Burkheim
+  besucher_2012: 15000
+  besucherzahl_jahr: 2012
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: brauch
+BEZEICHNUNG: Burkheimer Nachtwächter
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://www.vogtsburg.de/de-de/tourismus/kunst-kultur/altstadt-historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: Ostersonntag bis Ende Oktober
+  tage: mittwochs und sonntags
+  uhrzeit: 22:00 Uhr
+  ort: malerische Gassen des mittelalterlichen Städtchens
+  bedeutung_fuer_ort: Traditionspflege
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: winzergenossenschaft
+BEZEICHNUNG: Winzergenossenschaft Burkheim
+FACETTE: ALLTAG | WIRTSCHAFT
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  gegruendet_nach: Zweiter Weltkrieg (Wiederaufbau Weinbau)
+  bedeutung_fuer_ort: Haupterwerbsquelle Weinbau
+  traegt_bei_zu: Neubelebung Weinanbau nach 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: badesee
+BEZEICHNUNG: Baggersee Burkheim
+FACETTE: FREIZEIT | LAGE
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://www.vogtsburg.de/de-de/tourismus/natur-urlaub-aktiv/freizeitangebote-erlebnisse/rund-ums-wasser | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flaeche: 5
+  flaeche_einheit: ha
+  charakter: naturbelassen
+  ufer_beschaffenheit: teilweise flach abfallend, nicht ungefährlich
+  geeignet_fuer_kinder: bedingt
+  badeaufsicht: keine
+  ausstattung: Liegewiese, Parkplätze
+  zufahrt_bis: 20:30 Uhr
+  hoehe: 182
+  hoehe_einheit: m ü.M.
+  besonderheit: niedrigster Punkt des Landkreises Breisgau-Hochschwarzwald
+  genauigkeit_hoehe: exact
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: zunft
+BEZEICHNUNG: Fischerzunft Burkheim
+FACETTE: GESCHICHTE | ALLTAG
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  bestand_bereits: im Mittelalter
+  neue_satzung_ab: 1564
+  bedeutung_fuer_ort: Handwerkstradition
+  satzungen_in_kraft_bis: heute
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Haberberg
+FACETTE: LAGE | GEOGRAFIE
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: 291
+  hoehe_einheit: m
+  location: zwischen Burkheim und Jechtingen
+  charakter: Anhöhe der Vorläufer des Kaiserstuhlmassivs
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Burgberg
+FACETTE: LAGE | GEOGRAFIE
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: 257
+  hoehe_einheit: m
+  charakter: Anhöhe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Schlossberg
+FACETTE: LAGE | WIRTSCHAFT
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  nutzung: Weinbau
+  richtung: nordwestlich von Burkheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gewaesser
+BEZEICHNUNG: Altrhein Burkheim
+FACETTE: LAGE | GEOGRAFIE
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  location: westlich von Burkheim im Rheinwald
+  charakter: Altwasser und Rheinauen
+  kulturwehr_teilt_rhein: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus Burkheim
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  architekturstil: Renaissancestil
+  erdgeschoss_baujahr: 1604
+  obergeschosse_bauzeit: 1712-1724
+  ist_denkmal: true
+  wappen_dargestellt: Vorderösterreich (mit Kaiserkrone und Kette des Ordens vom Goldenen Vlies), Lazarus von Schwendi, Stadt Burkheim
+  wappen_drei_patrizierfamilien: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadttor
+BEZEICHNUNG: Rotweiler Tor
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  original_anzahl_tore: 3
+  noch_vorhanden: true
+  zerstoerte_tore: Schultor (nordlich der Kirche), Rheintor (oestliches Ende Fischerviertel)
+  standort: Eingang Mittelstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadtmauer
+DESIGNATIO: Stadtmauer Burkheim
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  erbauer: Lazarus von Schwendi
+  umfasst: gesamte Altstadt
+  ist_denkmal: true
+  erhalten: teilweise noch sichtbar
+  urspruenglich_umfang: komplett
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: fachwerkhaus
+BEZEICHNUNG: Gasthaus Zu den fünf Türmen
+FACETTE: LAGE | KULTUR
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  location: Mittelstadt
+  ist_bekanntes_fachwerkhaus: true
+  ist_denkmal: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: ortsbild_charakteristika
+BEZEICHNUNG: Historische Altstadt Burkheim
+FACETTE: LAGE | KULTUR
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  ist_unter_denkmalschutz: true
+  praegende_elemente: restaurierte Bürger- und Fachwerkhäuser, enge Gassen, Kopfsteinpflaster, Ziehbrunnen, Lindenbäume
+  beschreibung: Mittelalterlicher Charme
+  vergleich: Helmut Witt beschrieb Burkheim 1971 als das badische Rothenburg
+  unterteilung: Mittelstadt, Oberstadt, Fischerviertel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Jörg Wickram
+FACETTE: GESCHICHTE | KULTUR
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1505
+  sterbejahr: 1562
+  geburtsort: Colmar
+  todesort: Burkheim
+  beruf: Schriftsteller, Stadtschreiber
+  rolle_ab: 1554
+  ist_in_literaturgeschichte_eingegangen: true
+  bedeutung_fuer_ort: Stadtschreiber
+GUELTIG_AB: 1554
+GUELTIG_BIS: 1562
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Lazarus von Schwendi
+FACETTE: GESCHICHTE | POLITIK
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  lebenszeit: 1522-1583
+  herkunft: Feldherr, Eroberungen in Ungarn gegen Türken
+  herrschaft_uebertragen: 1560-08-12
+  herrschaft_auf_lebenszeit: 1561
+  herrschaft_unkuendbar_100_jahre: 1580
+  pfandsumme: 11000
+  pfandsumme_einheit: Gulden
+  schlossbau_kosten: 13100
+  schlossbau_kosten_einheit: Gulden
+  schlossbau_zeit: 1561-1572
+  titel_ab_1572: Freiherr zu Hohenlandsberg
+  bedeutung_fuer_ort: wirtschaftliche und politische Blütezeit
+  reformen: Fronordnung, Schulstiftung, Spitalstiftung, Zünftereform, Befestigung, Versuchsgarten mit italienischen Früchten
+GUELTIG_AB: 1560
+GUELTIG_BIS: 1583
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karl Härringer
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  lebenszeit: 1913-2008
+  geburtsort: Burkheim
+  beruf: Jurist, Richter
+  leistung: Gründer des Jugendhilfswerkes in Freiburg im Breisgau
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Sigolsheim (Elsass)
+FACETTE: POLITIK | KULTUR
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  partnerschaft_seit: 1967
+  partnerschaft_noch_aktiv: true
+  land: Elsass (Frankreich)
+GUELTIG_AB: 1967
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Naturschutzgebiet Rappennestgießen
+FACETTE: LAGE | NATUR
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  location: Rheinwald westlich von Burkheim
+  charakter: Altwasser und Rheinauen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Rheinhalde Burkheim
+FACETTE: LAGE | NATUR
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  geschuetzt_seit: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Rheinaueweg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  laenge: 159
+  laenge_einheit: km
+  fuehrt_durch: Rheinauen bei Burkheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Kaiserstuhl-Radwanderweg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  fuehrt_durch: Kaiserstuhl inkl. Burkheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Oberrhein Römerradweg
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  laenge: 200
+  laenge_einheit: km
+  fuehrt_durch_region: Oberrhein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Belagerung Burkheims im Dreißigjährigen Krieg
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1633-06-01
+  belagerungstrupppen: Schweden
+  ziel: Festung Breisach Nachschub abschneiden
+  ausfall_durch: Burkheimer
+  belagerung_aufgeloest: true
+  folge: Uebergabe 1633-06-24 an General Otto Ludwig von Salm-Kyrburg-Mörchingen
+  folgejahr_befreiung: 1633 Herbst durch General von Aldringen
+  kriegsfolgen: Zerstörung, nur 3 Gebäude überstanden
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Hexenverfolgung Burkheim
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1613
+  ort: Hexenplatz
+  opfer_frauen: 2
+  genauigkeit_opferzahl: vermutlich 7 nach anderen Quellen
+  grund: angebliche Hexerei
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Schule Burkheim
+FACETTE: INFRA | ALLTAG
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  neues_schulhaus_baujahr: 1960
+  schliessung: 2012
+GUELTIG_AB: 1960
+GUELTIG_BIS: 2012
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: weinanbau
+FACETTE: ALLTAG | WIRTSCHAFT | GESCHICHTE
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung: 778-06-24
+  erwaehnung_anlasss: Schenkung eines Heibo an Kloster Lorsch
+  rebflaeche_gemarkung: 157
+  rebflaeche_einheit: ha
+  praegende_wirtschaftsweise: ja
+  unterbrechung_nach: Zweiter Weltkrieg (Verwilderung, Rebumlegung)
+  wiederaufbau_ab: nach 1945
+  rebumlegung_beginn: 1943
+  umstellung_auf: reblausfreie Propfreben
+  bedeutung_fuer_ort: Haupterwerbsquelle
+GUELTIG_AB: 778
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gewaesser_infrastruktur
+BEZEICHNUNG: Kulturwehr
+FACETTE: INFRA | LAGE
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  funktion: teilt Rhein in Altrhein und schiffbaren großen Elsässer Rheinseitenkanal
+  location: zwischen Burkheim und Rheinwald
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadtviertel
+BEZEICHNUNG: Fischerviertel
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  andere_bezeichnung: Unterstadt, früher Wassersuppe
+  location: südlich der Altstadt, außerhalb Stadtmauern
+  charakter: Wassersuppe (viele Seitenarme Altrhein)
+  besiedlung_ab: nach Rheinbegradigung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadtviertel
+BEZEICHNUNG: Oberstadt Burkheim
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  praegende_elemente: enge Gassen, St. Pankratius Kirche, Friedhof, ehemalige Zehntscheune
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadtviertel
+BEZEICHNUNG: Mittelstadt Burkheim
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: Burkheim
+QUELLE: https://de.wikipedia.org/wiki/Burkheim_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  praegende_elemente: Rathaus, Rotweiler Tor, Fachwerkhäuser, enge Gassen
+  charakter: mittelalterlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

@@ -1,0 +1,834 @@
+{
+ "ort": "469-sasbach",
+ "gebiet": "Gemeindegrenze",
+ "kategorien": {
+  "Gipfel": [
+   {
+    "name": "Lützelberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   },
+   {
+    "name": "Limberg",
+    "zusatz": "272 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   },
+   {
+    "name": "Humberg",
+    "zusatz": "235 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   },
+   {
+    "name": "Eichert",
+    "zusatz": "267 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   }
+  ],
+  "Aussicht": [
+   {
+    "name": "Kaiserstuhlblick",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "viewpoint"
+    }
+   }
+  ],
+  "Brauerei/Winzer": [
+   {
+    "name": "Weingut Wiedemann",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://weingut-wiedemann.de",
+    "tags": {
+     "craft": "winery"
+    }
+   },
+   {
+    "name": "Weingut Grotz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "http://weingut-grotz.de",
+    "tags": {
+     "craft": "winery"
+    }
+   },
+   {
+    "name": "Weingut Birmelin",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://mb-weingut.de",
+    "tags": {
+     "craft": "winery"
+    }
+   },
+   {
+    "name": "Winzerhof Mattmüller",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.winzerhof-mattmueller.de/",
+    "tags": {
+     "craft": "winery"
+    }
+   },
+   {
+    "name": "Winzerhof Brand",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "http://www.leiselheim-am-kaiserstuhl.de/",
+    "tags": {
+     "craft": "winery"
+    }
+   },
+   {
+    "name": "Weingut Helde",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.wein-helde.de/",
+    "tags": {
+     "craft": "winery"
+    }
+   },
+   {
+    "name": "Weingut Rabenhof",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.rabenhof.de",
+    "tags": {
+     "craft": "winery"
+    }
+   },
+   {
+    "name": "Sasbacher Winzerkeller e.G.",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "craft": "winery"
+    }
+   }
+  ],
+  "Bahnhof": [
+   {
+    "name": "Sasbach am Kaiserstuhl",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://iris.noncd.db.de/wbt/js/index.html?bhf=RSAS",
+    "tags": {
+     "railway": "station"
+    }
+   },
+   {
+    "name": "Jechtingen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://iris.noncd.db.de/wbt/js/index.html?bhf=RJ",
+    "tags": {
+     "railway": "halt"
+    }
+   }
+  ],
+  "Kultur": [
+   {
+    "name": "Waldfestplatz Musikverein Sasbach e. V.",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.mvsasbach.de/",
+    "tags": {
+     "amenity": "arts_centre"
+    }
+   }
+  ],
+  "Burg/Denkmal": [
+   {
+    "name": "Alte Limburg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "archaeological_site"
+    }
+   },
+   {
+    "name": "Keltenwall",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "archaeological_site"
+    }
+   },
+   {
+    "name": "Limburg",
+    "zusatz": "",
+    "wikipedia": "de:Burg Limburg (Baden)",
+    "website": null,
+    "tags": {
+     "historic": "ruins"
+    }
+   },
+   {
+    "name": "Kastell Sasbach-Jechtingen",
+    "zusatz": "",
+    "wikipedia": "de:Kastell Sasbach-Jechtingen",
+    "website": null,
+    "tags": {
+     "historic": "castle"
+    }
+   },
+   {
+    "name": "Burg Sponeck",
+    "zusatz": "",
+    "wikipedia": "de:Burg Sponeck",
+    "website": null,
+    "tags": {
+     "historic": "castle"
+    }
+   }
+  ],
+  "Gewässer": [
+   {
+    "name": "Mühlbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "river"
+    }
+   },
+   {
+    "name": "Sasbacher Althrein",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Sasbacher Altrhein",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "river"
+    }
+   },
+   {
+    "name": "Le Rhin / Rhein",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "river"
+    }
+   },
+   {
+    "name": "Grienwasser",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "river"
+    }
+   },
+   {
+    "name": "Großmattenrhein",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "river"
+    }
+   },
+   {
+    "name": "Fritzengraben",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "river"
+    }
+   },
+   {
+    "name": "Bubenbad",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "river"
+    }
+   }
+  ],
+  "Schutzgebiet": [
+   {
+    "name": "Hochberg",
+    "zusatz": "seit 1979",
+    "wikipedia": "de:Hochberg (Naturschutzgebiet, Landkreis Emmendingen)",
+    "website": "http://www2.lubw.baden-wuerttemberg.de/public/abt2/dokablage/oac_12/vo/3/3109.htm",
+    "tags": {
+     "leisure": "nature_reserve"
+    }
+   },
+   {
+    "name": "Rheinniederung Wyhl-Weisweil",
+    "zusatz": "seit 1998",
+    "wikipedia": "de:Rheinniederung Wyhl-Weisweil",
+    "website": "http://www2.lubw.baden-wuerttemberg.de/public/abt2/dokablage/oac_12/vo/3/3247.htm",
+    "tags": {}
+   }
+  ],
+  "Radweg": [
+   {
+    "name": "Europäischer Radwanderweg Elzach - Villé",
+    "zusatz": "88 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Kaiserstuhl-Radwanderweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "EuroVelo 15 - Rheinradweg - Variante Burkheim",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "EuroVelo 15 - Rheinradweg - Variante Sasbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Oberrhein Römerradweg",
+    "zusatz": "200 km",
+    "wikipedia": null,
+    "website": "https://www.oberrhein-roemerradweg.de/",
+    "tags": {
+     "route": "bicycle"
+    }
+   }
+  ],
+  "Wanderweg": [
+   {
+    "name": "Rheinaueweg",
+    "zusatz": "159 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Sentier des Ducs",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Badischer Jakobusweg -südlicher Teil-",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.badische-jakobusgesellschaft.de/",
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Bei der Eckwaldhütte - Bischoffinger Spielberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Viehweg - Bischoffinger Spielberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Viehweg - Hehner",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hehner - Herrenberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Jechtinger Ried - Herrenberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Herrenberg - Bischoffinger Weg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Bischoffinger Weg - Bei der Eckwaldhütte",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Bei der Eckwaldhütte - Hüttenbühl",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Schweißgraben - Schloßkopfgrund",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Burkheim Winzergenossenschaft - Am Haberberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Wegkreuz Erlacher - Holzacker",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Habersattel - Haberberghütte",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Haberberghütte - Am Haberberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kreidenberg - Am Haberberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Wanderparkplatz Im Bündle - Kreidenberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kreidenberg - Habersattel",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Habersattel - Wegkreuz Erlacher",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Wegkreuz Erlacher - Humberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Humberg - Parkplatz Sponeck",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Im Auwald - Schloßkopfgrund",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Schloßkopfgrund - Parkplatz Sponeck",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Jechtinger Ried - Hochberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Jechtingen Bahnhof - Jechtinger Ried",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Am Dorfgraben - Jechtingen Bahnhof",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kulturwehr Rheinkilometer 237.6 - Am Dorfgraben",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Holzacker - Am Dorfgraben",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Parkplatz Sponeck - Holzacker",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Parkplatz Sponeck - Kulturwehr Rheinkilometer 237.6",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kulturwehr Rheinkilometer 237.6 - Beim Segelclub Sasbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Am Mühlbach - An der Rheinbrücke Sasbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Parkplatz Zollhäusle - Am Mühlbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Beim Segelclub Sasbach - Parkplatz Zollhäusle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Beim Segelclub Sasbach - Sasbach Kirche",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Leimengrube - Keltenwald",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Keltenwald - Steinbruch Süd",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Keltenwald - Steinbruch Nord",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Steinbruch Nord - Am Mühlbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Limburg-Graben - Steinbruch Nord",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Limburg-Graben - Parkplatz Zollhäusle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Steinbruch Süd - Limburg-Graben",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Leimengrube - Steinbruch Süd",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Sasbach Kirche - Leimengrube",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Sasbach Bahnhof - Sasbach Kirche",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Leiselheimer Weg - Sasbach Bahnhof",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hochberg - Leiselheimer Weg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Leiselheim Brunnen - Hochberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Pumpwerk - Leiselheimer Weg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Pumpwerk - Scherch",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Leiselheim Brunnen - Pumpwerk",
+    "zusatz": "0.8 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hüttenbühl - Leiselheim Brunnen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Tiefental - Hüttenbühl",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   }
+  ]
+ }
+}

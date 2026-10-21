@@ -1,0 +1,50 @@
+{
+ "stufe": "karten-portraet",
+ "ort": "472-oberrotweil",
+ "prompt": "prompt-karten-v0.9.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 45578,
+ "token_ein": 86878,
+ "token_aus": 49333,
+ "usage": {
+  "input_tokens": 4,
+  "cache_creation_input_tokens": 36535,
+  "cache_read_input_tokens": 50339,
+  "output_tokens": 49333,
+  "output_tokens_details": {
+   "thinking_tokens": 36139
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 36535,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 49331,
+    "cache_read_input_tokens": 43437,
+    "cache_creation_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.2890238,
+ "sekunden": 544,
+ "fehler": false,
+ "zeit": "2026-10-21T02:11:03"
+}

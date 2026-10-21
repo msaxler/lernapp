@@ -1,0 +1,256 @@
+ID: 475-bischoffingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Bischoffingen
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Bischoffingen | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 640
+  lage_region: Ortsteil der Stadt Vogtsburg im Kaiserstuhl, westlicher Kaiserstuhl
+  gemarkung_form: Nach Nordwesten geöffnete, von vulkanischen Kuppen umgebene Bucht
+  fliessgewaesser: Riedbach (im Westen)
+  charakteristikum: Einer der ältesten Orte im Kaiserstuhl, wahre Fundgrube der Ur- und Frühgeschichte
+  gepraegt_durch: Weinbau
+  namensherkunft: Vermutlich durch Schenkung Kaiser Heinrichs II. an Fürstbistum Basel
+  erstmals_urkundlich_erwaehnt: 1010
+  verwaltungsgeschichte: 1979-1975 Landkreis Freiburg, dann Landkreis Breisgau-Hochschwarzwald
+  eingemeindung: 1975 in Stadt Oberrotweil, 1977 in Vogtsburg im Kaiserstuhl umbenannt
+GUELTIG_AB: 1010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 475-bischoffingen/002
+ENTITÄT: kirche
+BEZEICHNUNG: St. Laurentius
+FACETTE: GESCHICHTE | KULTUR
+ORTSTEIL_BEZUG: Bischoffingen
+QUELLE: https://de.wikipedia.org/wiki/Bischoffingen | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  erstmals_erwaehnt: 1139
+  bauform: Ähnelt mit ihrem Turm einer Wehrkirche
+  ausstattung_fresken: Chor mit Fresken aus 15. Jahrhundert
+  renovierung_jahr: 1991
+  orgel_einbau_jahr: 2001
+  orgelbauer: Waldkircher Orgelbau
+  bedeutung_fuer_ort: Wahrzeichen und kulturelle Sehenswürdigkeit des Ortes
+GUELTIG_AB: 1139
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 475-bischoffingen/003
+ENTITÄT: archaeologisches_fund
+BEZEICHNUNG: Mammut-Stoßzahn
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Bischoffingen
+QUELLE: https://de.wikipedia.org/wiki/Bischoffingen | Wikipedia
+EIGENSCHAFTEN:
+  laenge: 3.30 m
+  fundjahr: 1975
+  aufbewahrungsort: Gemeindehalle Bischoffingen
+  beschreibung: Schöner Blickfang, Zeugnis der Frühgeschichte
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 475-bischoffingen/004
+ENTITÄT: bauwerk
+BEZEICHNUNG: Winzergehöfte
+FACETTE: ALLTAG | GESCHICHTE
+ORTSTEIL_BEZUG: Bischoffingen
+QUELLE: https://de.wikipedia.org/wiki/Bischoffingen | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Mit hohen steinernen Weinkeller-Untergeschossen und Fachwerk-Wohnräumen
+  denkmalschutz_status: Erhalten geblieben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 475-bischoffingen/005
+ENTITÄT: bauwerk
+BEZEICHNUNG: Haus „Unter der Lauben"
+FACETTE: ALLTAG | GESCHICHTE
+ORTSTEIL_BEZUG: Bischoffingen
+QUELLE: https://de.wikipedia.org/wiki/Bischoffingen | Wikipedia
+EIGENSCHAFTEN:
+  bauform: Fachwerk-Winzerhaus
+  besonderheit: Zwei Wettervordächer
+  denkmalschutz_status: Erhalten geblieben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 475-bischoffingen/006
+ENTITÄT: weingut
+BEZEICHNUNG: Familienweingut Schmidt
+FACETTE: ALLTAG | WIRTSCHAFT
+ORTSTEIL_BEZUG: Bischoffingen
+QUELLE: OpenStreetMap | Zeuge
+EIGENSCHAFTEN:
+  typ: Familienweingut
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.5
+---
+ID: 475-bischoffingen/007
+ENTITÄT: weingut
+BEZEICHNUNG: Weingut Abril
+FACETTE: ALLTAG | WIRTSCHAFT
+ORTSTEIL_BEZUG: Bischoffingen
+QUELLE: OpenStreetMap | Zeuge
+EIGENSCHAFTEN:
+  typ: Weingut
+GUELTIG_AB: 2012
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.5
+---
+ID: 475-bischoffingen/008
+ENTITÄT: weingut
+BEZEICHNUNG: Weingut Armin Göring
+FACETTE: ALLTAG | WIRTSCHAFT
+ORTSTEIL_BEZUG: Bischoffingen
+QUELLE: OpenStreetMap | Zeuge
+EIGENSCHAFTEN:
+  typ: Weingut
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.5
+---
+ID: 475-bischoffingen/009
+ENTITÄT: sportstätte
+BEZEICHNUNG: Tennisplätze Bischoffingen
+FACETTE: FREIZEIT | INFRA
+ORTSTEIL_BEZUG: Bischoffingen
+QUELLE: https://www.vogtsburg.de/de-de/tourismus/natur-urlaub-aktiv/freizeitangebote-erlebnisse/fuer-alle-sportbegeisterten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betreiber: Tennis-Club Kaiserstuhl e.V.
+  platztypen: 3 Sandplätze plus 1 Multifunktionsplatz (Tennis, Volleyball, Basketball)
+  verfuegbarkeit_gaeste: Schlüssel bei Winzergenossenschaft Bischoffingen oder Köpfer's Steinbuck
+  webseite: www.tck-bischoffingen.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 475-bischoffingen/010
+ENTITÄT: sportstätte
+BEZEICHNUNG: Soccercourt Bischoffingen
+FACETTE: FREIZEIT | INFRA
+ORTSTEIL_BEZUG: Bischoffingen
+QUELLE: https://www.vogtsburg.de/de-de/tourismus/natur-urlaub-aktiv/freizeitangebote-erlebnisse/fuer-alle-sportbegeisterten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Neben dem Tennisplatz
+  zugang: Oeffentlich zugänglich, kostenfrei
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 475-bischoffingen/011
+ENTITÄT: aussichtspunkt
+BEZEICHNUNG: Mondhalde
+FACETTE: LAGE | FREIZEIT
+ORTSTEIL_BEZUG: Bischoffingen
+QUELLE: https://www.vogtsburg.de/de-de/tourismus/natur-urlaub-aktiv/traumhafte-aussicht-en | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 442 m
+  lage_in_gemarkung: Höchster Punkt, im Osten
+  ausblick: Panorama ins Rheintal und die burgundische Pforte, Herz des Kaiserstuhls
+  wanderweg_laenge: 2 km
+  besonderheit: Informationstafeln (viersprachig) zu verschiedenen Weinsorten
+  erreichbarkeit_fahren: Serpentinenstraße, gut für Radler und E-Bike-Fahren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 475-bischoffingen/012
+ENTITÄT: person
+BEZEICHNUNG: Friedrich Wilhelm Hitzig
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Bischoffingen
+QUELLE: https://de.wikipedia.org/wiki/Bischoffingen | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1767
+  todesjahr: 1849
+  geburtsort: Bischoffingen
+  beruf: Pfarrer und Dekan
+  amtssitz: Lörrach
+  politisches_amt: Abgeordneter des Badischen Landtags
+GUELTIG_AB: 1767
+GUELTIG_BIS: 1849
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 475-bischoffingen/013
+ENTITÄT: person
+BEZEICHNUNG: Erivan Haub
+FACETTE: WIRTSCHAFT | GESCHICHTE
+ORTSTEIL_BEZUG: Bischoffingen
+QUELLE: https://de.wikipedia.org/wiki/Bischoffingen | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1932
+  todesjahr: 2018
+  beruf: Weingutbesitzer
+  weingut_standort: Bischoffingen
+  ehepartner: Helga Haub
+GUELTIG_AB: 1932
+GUELTIG_BIS: 2018
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 475-bischoffingen/014
+ENTITÄT: person
+BEZEICHNUNG: Helga Haub
+FACETTE: WIRTSCHAFT | GESCHICHTE
+ORTSTEIL_BEZUG: Bischoffingen
+QUELLE: https://de.wikipedia.org/wiki/Bischoffingen | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Weingutbesitzer
+  weingut_standort: Bischoffingen
+  ehepartner: Erivan Haub
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 475-bischoffingen/015
+ENTITÄT: person
+BEZEICHNUNG: Gundolf Köhler
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Bischoffingen
+QUELLE: https://de.wikipedia.org/wiki/Bischoffingen | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1959
+  todesjahr: 1980
+  grabrort: Bischoffingen
+GUELTIG_AB: 1959
+GUELTIG_BIS: 1980
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 475-bischoffingen/016
+ENTITÄT: verein_landwirtschaft
+BEZEICHNUNG: Winzergenossenschaft Bischoffingen
+FACETTE: ALLTAG | WIRTSCHAFT | INFRA
+ORTSTEIL_BEZUG: Bischoffingen
+QUELLE: https://www.vogtsburg.de/de-de/tourismus/natur-urlaub-aktiv/freizeitangebote-erlebnisse/fuer-alle-sportbegeisterten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Winzergenossenschaft
+  funktion: Weingutgenossenschaft und lokale Institution
+  bedeutung_fuer_ort: Zentrale Anlaufstelle für Winzer und Touristen (u.a. Schlüsselverwaltung Tennisplatz)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 475-bischoffingen/017
+ENTITÄT: gaststäette
+BEZEICHNUNG: Köpfer's Steinbuck
+FACETTE: ALLTAG | FREIZEIT
+ORTSTEIL_BEZUG: Bischoffingen
+QUELLE: https://www.vogtsburg.de/de-de/tourismus/natur-urlaub-aktiv/freizeitangebote-erlebnisse/fuer-alle-sportbegeisterten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Schlüsselverwaltung Tennisplatz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 475-bischoffingen/018
+ENTITÄT: siedlung_historisch
+BEZEICHNUNG: Bandkeramik-Siedlung
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Bischoffingen
+QUELLE: https://de.wikipedia.org/wiki/Bischoffingen | Wikipedia
+EIGENSCHAFTEN:
+  epoche: Bandkeramik-Epoche des Neolithikums
+  zeitraum_ab: ca. 5000 v. Chr.
+  kontinuitaet: Ununterbrochen bis heute
+  beschreibung: Früheste Siedlungsspuren im Ort
+GUELTIG_AB: -5000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

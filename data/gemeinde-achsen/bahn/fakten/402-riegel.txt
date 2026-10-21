@@ -1,311 +1,523 @@
 ID: 402-riegel/001
 ENTITÄT: ort
 BEZEICHNUNG: Riegel am Kaiserstuhl
+FACETTE: LAGE
 QUELLE: https://www.gemeinde-riegel.de/de/Leben-in-Riegel/Gemeinde/Lage,Zahlen,Fakten | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  einwohner: 4041
-  flaehe: 18,34 [km²]
-  hoehe: 183-245 [m ü. NN]
-  bevoelkerungsdichte: 220 [Einwohner/km²]
-  postleitzahl: 79359
-  telefon_vorwahl: 07642
-  kfz_kennzeichen: EM
+  lage_kaiserstuhl: Nordostrand
   landkreis: Emmendingen
   bundesland: Baden-Württemberg
-  gemeindeschluessel: 08316037
-  steuer_nummer: 05082/00020
-  burgermeister: Daniel Kietz
-GUELTIG_AB: 762
-GUELTIG_BIS:
+  einwohner: 4041
+  fläche: 18.34
+  fläche_einheit: km²
+  höhe_min: 183
+  höhe_max: 245
+  höhe_einheit: m ü.NN
+  bevölkerungsdichte: 220
+  bevölkerungsdichte_einheit: Einwohner/km²
+  postleitzahl: 79359
+  kfz_kennzeichen: EM
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 0.98
 ---
 ID: 402-riegel/002
 ENTITÄT: ort
+BEZEICHNUNG: Riegel am Kaiserstuhl
+FACETTE: GESCHICHTE
 QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/Geschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  geburtsjahr: 762
-  benannt_nach: Testament des Bischofs Heddo von Straßburg am 12. März 762, der das Gut Riegel an das Kloster Einsiedeln in Ettenheimmünster vermachte
-  besiedlung_jungsteinzeit: 6. Jahrtausend v. Chr.
-  besiedlung_keltenzeit: ausgedehntes Dorf am Nordrand des heutigen Ortes
-  besiedlung_romerzeit: 1.-3. Jahrhundert n. Chr.
-  rolle_romerzeit: Verwaltungszentrum der Region, auch "Freiburg der Antike" genannt
-  grosse_bedeutung_in_epoche: Römerzeit
-  jubilaeumsjahr_2012: 1250-jähriges Bestehen
-GUELTIG_AB:
-GUELTIG_BIS:
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.92
+  siedlungsgeschichte_beginn: Jungsteinzeit
+  siedlungsgeschichte_beginn_jahrtausend: -6. Jahrtausend v.Chr.
+  siedlungsgeschichte_duration: etwa 7000 Jahre
+  vorgeschichtliche_kulturen: Bandkeramik, Rössen, Michelsberger, Glockenbecher, Hallstatt, Kelten
+  römische_zeit_periode: 1.-3. Jahrhundert n.Chr.
+  römische_siedlung_name: Regula
+  römische_funktion: Verwaltungszentrum für die ganze Region, „Freiburg der Antike"
+  römerzeit_blüte: 2. Jahrhundert
+  römerzeit_charakteristik: Kastell mit daraus entwickelter größerer Siedlung (Vicus)
+  keltische_besiedlung: ausgedehntes Dorf am Nordrand
+  keltischer_münzschatz_fund: 2001
+  keltischer_münzschatz_menge: 27 Goldmünzen
+  keltischer_münzschatz_besonderheit: in Baden-Württemberg bisher einmalig
+  geburtsjahr_genannt: 762
+  geburtsjahr_grund: Testament Bischofs Heddo von Straßburg vom 12. März 762 (Vermachung an Kloster Einsiedeln)
+  urkundliche_ersterwähnung: 781
+  urkundliche_ersterwähnung_anlass: Hildegunt vermacht Besitz dem Kloster Lorsch unter König Karl (Karl der Große)
+  jubiläum_1250: 2012
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: -6000
+VERTRAUEN_EXTRAKTION: 0.85
 ---
 ID: 402-riegel/003
-ENTITÄT: muenzschatz
-BEZEICHNUNG: Keltischer Goldmünzschatz
-QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/Geschichte | Gemeinde-Webseite
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martin
+FACETTE: GESCHICHTE
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/St.Martinskirche | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  anzahl: 27 [Goldmünzen]
-  zeitepoche: Keltenzeit
-  superlativ: einmaliger Fund in Baden-Württemberg (bei Ausgrabungen)
-  entdeckungsart: Ausgrabung
-GUELTIG_AB:
-GUELTIG_BIS:
-IST_VERMUTLICH_AKTUELL: false
+  baustil: Barock
+  bauzeit: 1743-1749
+  baumeister: Franz Rudhart (Kenzinger)
+  einweihung_feierlich: 1749
+  architektur: einschiffiges Langhaus, leicht eingezogener Chor mit halbrunder Apsis, elegant geschwungene Fassade mit integriertem Kirchturm mit Zwiebelhaube
+  künstler_stuckateur: Hans Georg Gigel
+  künstler_altargemälde: Benedikt Gambs
+  künstler_deckengemälde: Benedikt Gambs (Geburt Christi, Pfingsten, Letztes Abendmahl)
+  künstler_hochaltar_skulptur: Johann Michael Winterhalter
+  künstler_immaculata: Joseph Hörr (Wentzinger-Schüler)
+  künstler_orgel: Johann Andreas Silbermann (Straßburg)
+  brand_datum: 28. Oktober 1936
+  brand_beschreibung: verheerender Feuersturm zerstörte gesamte kostbare Innenausstattung bis auf wenige bedeutende Reste
+  kriegszerstörung: 1944-1945
+  kriegszerstörung_art: Teilzerstörung
+  wiederaufbau: ja
+  wiederaufbau_zweck: vollständige Rekonstruktion der barocken Ausstattung
+  renovierung_moderne: nach über 50 Jahren abgeschlossen
+  renovierung_leitung: Pfarrer Siegfried Flaig
+  renovierung_architekt: Ulrich Teichert
+  charakteristikum: schönste Barockkirche des Breisgau
+  bedeutung_fuer_ort: Wahrzeichen im Ortskern
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1743
 VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 402-riegel/004
-ENTITÄT: museum
-BEZEICHNUNG: Archäologisches Museum
-QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/Roemer-in-Riegel/Archaeologisches-Museum | Gemeinde-Webseite
+ENTITÄT: kapelle
+BEZEICHNUNG: Michaelskapelle
+FACETTE: LAGE
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/Michaelskapelle- | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  traeger: Geschichtsverein Riegel e.V.
-  betrieb: ehrenamtliche Arbeit
-  auszeichnung: Archäologiepreis Baden-Württemberg
-  ausgraebungsfunde: ca. 300
-  glanzstueck: Modell der römischen Basilika im Maßstab 1:25
-  schwerpunkt: römische Vergangenheit Riegels mit Alltäglichem wie Tagesablauf und Mahlzeiten
-  standort: Bürgerhaus "Alte Schule", Hauptstraße 12, 79359 Riegel am Kaiserstuhl
-GUELTIG_AB:
-GUELTIG_BIS:
+  lage_berg: Michaelsberg
+  lage_höhe: 241-243
+  lage_höhe_einheit: m ü.NN
+  lage_besonderheit: weithin sichtbar, hoch über Riegel thronend
+VERTRAUEN_EXTRAKTION: 0.95
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.93
 ---
 ID: 402-riegel/005
-ENTITÄT: kirche
-BEZEICHNUNG: St. Martin
-QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/St.Martinskirche | Gemeinde-Webseite
+ENTITÄT: kapelle
+BEZEICHNUNG: Michaelskapelle
+FACETTE: GESCHICHTE
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/Michaelskapelle- | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  funktion: Pfarrkirche
-  standort: Ortskern
-  baustil: Barock
-  baumeister: Franz Rudhart (Kenzingen)
-  bauzeit: 1743-1749
-  einweihung: 1749
-  vorgaenger: romanische Kirche (abgebrochen vor 1743)
-  brand: 1936 (28. Oktober, verheerend, zerstörte Innenausstattung)
-  kriegszerstoerung: 1944
-  wiederaufbauten: 1936-1945 und unmittelbar nach Kriegsende
-  restaurierung: unter Pfarrer Siegfried Flaig, Architekt Ulrich Teichert
-  erhaltene_kunstwerke: Skulptur von Johann Michael Winterhalter am Hochaltar, Maria Immaculata von Joseph Hörr (Wentzinger-Schüler)
-  stuck: von Hans Georg Gigel
-  gemalde: von Benedikt Gambs (Deckengemälde: Geburt Christi, Pfingsten, Letztes Abendmahl; Altargemälde: Heiliger Martin bei Mantelteilung)
-  orgel: von Johann Andreas Silbermann aus Straßburg
-  klosternutzung: Katharinenkloster (Dominikanerinnenkonvent) hatte "Chörle" in der Kirche
-  patrozinium: Heiliger Martin, Fest am 11. November
-  superlativ: schönste Barockkirche des Breisgau
-GUELTIG_AB: 1743
-GUELTIG_BIS:
+  ersterwähnung: 969
+  ersterwähnung_anlass: Wiedereinweihung in Urkunde des Klosters Einsiedeln
+  burganlage_integration: 12.-14. Jahrhundert
+  burganlage_periode: Vom 12. – 14. Jahrhundert in Burganlage integriert
+  gotischer_chor_entstehung: um 1465
+  gotischer_chor_stil: spätgotisch
+  dachstuhl_holzalter: 1283-1293
+  barocke_umbauzeit: 18. Jahrhundert
+  wallfahrtsort: ja
+  wallfahrtsort_periode: 18. Jahrhundert
+  eremiten: ja
+  sakristei: angebaut 18. Jahrhundert
+  bruderwohnung: darüber angebaut, um 1929 wegen Baufälligkeit abgerissen
+  aussichtsplattform_entstehung: um 1929 an Stelle der Bruderwohnung
+  renovierung_1994: Dachstuhl erneuert
+  renovierung_2008: Malereien aus 15. und 19. Jahrhundert freigelegt
+  charakteristikum: weit sichtbares Zeichen am Beginn der Breisgauer Bucht
+  bedeutung_fuer_ort: Wahrzeichen des Ortes
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.93
+GUELTIG_AB: 969
+VERTRAUEN_EXTRAKTION: 0.92
 ---
 ID: 402-riegel/006
 ENTITÄT: kapelle
-BEZEICHNUNG: St. Michaelskapelle
-QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/St.Martinskirche | Gemeinde-Webseite
+BEZEICHNUNG: Michaelskapelle
+FACETTE: FREIZEIT
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/Michaelskapelle- | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  baustil: gotisch, später barockisiert
-  standort: hoch über Riegel, im Bereich einer untergegangenen Burganlage
-  bedeutung: weit sichtbares Zeichen am Beginn der Breisgauer Bucht
-GUELTIG_AB:
-GUELTIG_BIS:
+  aussicht_rundblick: herrlicher Rundblick über Dächer der ehemaligen Riegeler Brauerei, nach Nordosten nördlicher Breisgau bei Kenzingen und Herbolzheim sowie Burg Lichteneck bei Hecklingen, nach Südwesten Katharinenberg, im Osten Kandel (1243 m), im Westen Vogesen
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.88
+VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 402-riegel/007
-ENTITÄT: archäologischer_rundweg
-QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/Geschichte | Gemeinde-Webseite
+ENTITÄT: tempel
+BEZEICHNUNG: Mithras-Tempel
+FACETTE: GESCHICHTE
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/Mithras-Tempel | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  anzahl_tafeln: 13
-  tafel_typ: Text- und Bildtafeln
-  themen: Keltenzeit, Römerzeit, frühes Mittelalter
-  zentrale_punkte_romerzeit: römische Ortsgeschichte
-  freilichtanlage: Mithras Tempel
-GUELTIG_AB:
-GUELTIG_BIS:
+  entdeckung: 1974
+  entdeckung_beschreibung: Ruine eines römischen Heiligtums freigelegt
+  römische_zeit: ja
+  religionszweck: Verehrung des Lichtgottes Mithras durch römische Soldaten
+  mithras_charakteristiken: unbesiegbar wie die Sonne, Lieblingsgott der Soldaten
+  mithras_kult_zeitwende: zur Zeitwende weit verbreitet im römischen Reich, Religion im eigentlichen Sinne
+  mithras_gemeinsamkeiten_christentum: ja
+  charakteristikum: einziges bekanntes Heiligtum dieser Art in der Region
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.90
+GUELTIG_AB: -150
+VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 402-riegel/008
-ENTITÄT: basilika
-BEZEICHNUNG: Römische Marktbasilika
-QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Geschichte-Geschichten/Geschichten- | Gemeinde-Webseite
+ENTITÄT: museum
+BEZEICHNUNG: Museum Riegel (Archäologisches Museum)
+FACETTE: KULTUR
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/Roemer-in-Riegel/Archaeologisches-Museum | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  funktion: Mehrzweckhalle
-  zeitepoche: römisch (ca. 2000 Jahre alt)
-  bauweise: monumental
-  modell_im_museum: ja (Glanzstück des Archäologischen Museums, Maßstab 1:25)
-GUELTIG_AB:
-GUELTIG_BIS:
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
+  träger: Geschichtsverein Riegel e.V.
+  träger_betrieb: ehrenamtliche Arbeit
+  lage: Bürgerhaus Alte Schule, Hauptstraße 12
+  eröffnung_neubau: Januar 2012
+  ausstellungsfunde: ca. 300 Ausgrabungsfunde
+  abteilung_i: römische Vergangenheit
+  abteilung_i_inhalt: 300 Ausgrabungsfunde mit Schaubildern und Rekonstruktionen, Alltag und Zubereitung von Mahlzeiten
+  abteilung_ii_thema: Technik der Luft- und Raumfahrt
+  abteilung_ii_beschreibung: Nach WK II von Frankreich angeworbene Raketenforscher und ihre Familien ließen sich in Riegel nieder, Büro in Gaststätte Arche, Forschungsergebnisse flossen in Europarakete Ariane ein
+  glanzstück: Modell der römischen Basilika im Maßstab 1:25
+  glanzstück_besonderheit: man kann eintreten, plastischer Eindruck von monumentaler Bauweise
+  auszeichnung: Archäologiepreis Baden-Württemberg 2006
+  auszeichnung_begründung: Einrichtung des Museums und des archäologischen Rundwegs
+  audioguide: ja
+  charakteristikum: prämiertes archäologisches Museum mit einmaliger Sammlung
+  bedeutung_fuer_ort: Dokumentation der römischen Vergangenheit Riegels
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2012
+VERTRAUEN_EXTRAKTION: 0.93
 ---
 ID: 402-riegel/009
-ENTITÄT: brunnen
-BEZEICHNUNG: Brunnen am Amthof
-QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Geschichte-Geschichten/Geschichten- | Gemeinde-Webseite
+ENTITÄT: kunsthalle
+BEZEICHNUNG: Kunsthalle Messmer
+FACETTE: KULTUR
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Kunst-Kultur/Kunsthalle-Messmer | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  eigenschaft: hat historisches Vorbild
-GUELTIG_AB:
-GUELTIG_BIS:
+  eröffnung: Mitte Juni 2009
+  eröffnung_ausstellung: Hommage an André Evard
+  lage: historisches Brauereigebäude (ehemalige Riegeler Brauerei)
+  lage_zusammenfluss: am Zusammenfluss von Dreisam, Elz und Glotter
+  ausstellungsfläche: 900
+  ausstellungsfläche_einheit: m²
+  skulpturengarten: 850
+  skulpturengarten_einheit: m²
+  skulpturengarten_künstler: Gerald Baschek, Hellmut Bruch, Gerhard Frömel, Friedrich Geiler, Bernhard Licini, Rüdiger Seidt, Michel Jouët, Michael Schwarze
+  programm: Wechselausstellungen Kunst des 20. und 21. Jahrhunderts auf etwa 900 m²
+  café: Café Evard mit großzügiger Freiterrasse und Skulpturengarten-Blick
+  galerie_erweiterung: 2013 kommerzielle Galerie im historischen Säulenraum hinzugefügt
+  galerie_ausrichtung: Plattform für junge Künstler, konkret-konstruktive Kunst, figürliche Malerei und Skulptur
+  ausstellung_vasarely: Anfang 2010, über 12.000 Besucher, größte Vasarely-Ausstellung in der Region seit 10 Jahren
+  ausstellung_dali: 2010, weltweit nur einmal präsentierte Dali-Ausstellung zum Höhepunkt des Jahres
+  charakteristikum: renommierte Kunsthalle mit internationalen Künstlern (Dali, Vasarely, Evard, Leon Löwentraut)
+  bedeutung_fuer_ort: Kunstzentrum, trägt zur großen Künstlerdichte bei
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.70
+GUELTIG_AB: 2009
+VERTRAUEN_EXTRAKTION: 0.93
 ---
 ID: 402-riegel/010
-ENTITÄT: brunnen
-BEZEICHNUNG: Brunnenfigur Kaiser Vespasian
-QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Geschichte-Geschichten/Geschichten- | Gemeinde-Webseite
+ENTITÄT: theater
+BEZEICHNUNG: Kumedi (Theater Kumedi)
+FACETTE: KULTUR
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Kunst-Kultur/Theater-kumedi- | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  standort: Ortsmitte von Riegel
-  darstellung: Kaiser Vespasian
-GUELTIG_AB:
-GUELTIG_BIS:
+  gründung: 1981
+  gründungsort: Nimburg
+  gründungsort_detail: kleine Scheune eines gepachteten Winzerhofs
+  gründer: Klaus Spürkel (Schauspieler), Elisabeth Fünfgeld
+  gründungscharakter: erste nicht kommerzielle kleine Bühne zum Experimentieren, Spielwiese für Fantasie, für interessierte Zuschauer aus dem ländlichen Raum
+  spielstätte_bau: Theaterraum in Eigenarbeit mit Mithilfe von Freunden, Mitgliedern und Bürgern errichtet
+  spielstätte_finanzierung: komplett aus eigenen Mitteln ohne staatliche Förderung
+  superlativ: erstes Klein-Theater „auf dem Lande" in Süd-Baden
+  letzte_vorstellung_nimburg: 1997
+  umzug_riegel: 1997
+  immobilienerwerb: 1997 Kauf des Ortsbahnhofs von der Gemeinde Riegel
+  umbau_theater: Umbau zum professionellen Theater begonnen
+  erster_auftritt_riegel: 1998
+  erster_auftritt_form: Freilichttheater im alten Posthof „Hans Falstaff oder die lustigen Weiber von W." nach W. Shakespeare mit 10 Schauspielern und 10 Laienschauspielern
+  theaterfoyer_eröffnung: 1999
+  theaterfoyer_plätze: 57
+  theaterfoyer_lage: ehemaliger Ortsbahnhof
+  theaterraum_eröffnung: 2002
+  theaterraum_plätze: 99
+  theaterhof_eröffnung: 2004
+  theaterhof_plätze: 125
+  spürkel_tod: 2016
+  umbau_2017: ja
+  theaterfoyer_neubau_2017: ja
+  theatersaal_2017_plätze: 130
+  leitung_heute: Elisabeth Fünfgeld (1. Vorsitzende), Anja Weis, Roman Schneider
+  programme: Kabarett, Livemusik, Lesungen, Lyrik
+  charakteristikum: Kleinkunsttheater im ehemaligen Empfangsgebäude Bahnhof Riegel Ort
+  bedeutung_fuer_ort: kulturelle Institution, Ort für Spannung und Entspannung, gern besuchter Ort von vielen als „Das ist unser Theater" bezeichnet
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.80
+GUELTIG_AB: 1981
+VERTRAUEN_EXTRAKTION: 0.94
 ---
 ID: 402-riegel/011
-ENTITÄT: freilichtanlage
-BEZEICHNUNG: Mithras Tempel
-QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/Geschichte | Gemeinde-Webseite
+ENTITÄT: brauerei
+BEZEICHNUNG: Meyer & Söhne (Riegeler Brauerei)
+FACETTE: WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Riegel_am_Kaiserstuhl | Wikipedia
 EIGENSCHAFTEN:
-  zeitepoche: römisch
-  beschreibung: Zentrale archäologische Fundstelle
-GUELTIG_AB:
-GUELTIG_BIS:
+  gründung: 1834
+  rechtliche_form: Meyer & Söhne AG
+  gründung_beschreibung: Brauereigesellschaft Meyer & Söhne AG
+  allgemeiner_name: Riegeler Brauerei
+  übernahme_fürstenberg: 2000
+  übernahme_brau_holding: Oktober 2004
+  übernahme_brau_holding_detail: Brau Holding International AG (Heineken, Schörghuber)
+  standort_erhalt_initial: Brauereistandort und Marke vorerst erhalten
+  stilllegung: 2006
+  stilllegung_art: Brauereieinrichtungen komplett stillgelegt
+  nachproduktion: Verschiedene Biersorten Marke Riegeler Bier nun im Hause Fürstenberg in Donaueschingen gebraut
+  nachnutzung: ab 2006 Kunsthalle Messmer, Lofts, Kleinbrauerei Römerbräu
+  charakteristikum: prägender historischer Betrieb und Gebäude
+  bedeutung_fuer_ort: historischer Arbeitsplatz-Zentrum, Namensgeber für Biersorten-Marke
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.78
+GUELTIG_AB: 1834
+GUELTIG_BIS: 2006
+VERTRAUEN_EXTRAKTION: 0.92
 ---
 ID: 402-riegel/012
-ENTITÄT: dorf
-BEZEICHNUNG: Nidingen
-QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Geschichte-Geschichten/Geschichten- | Gemeinde-Webseite
+ENTITÄT: brauerei
+BEZEICHNUNG: Römerbräu Riegel
+FACETTE: WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Riegel_am_Kaiserstuhl | Wikipedia
 EIGENSCHAFTEN:
-  status: verschwunden
-  zeitepoche: Mittelalter
-GUELTIG_AB:
-GUELTIG_BIS:
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
+  gründung: ab 2006
+  gründungsort: ehemalige Riegeler Brauerei-Gebäude
+  größe: Kleinbrauerei
+  charakteristikum: lokale Kleinbrauerei in historischem Brauereigebäude
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2006
+VERTRAUEN_EXTRAKTION: 0.88
 ---
 ID: 402-riegel/013
-ENTITÄT: theatergruppe
-BEZEICHNUNG: KUMEDI
-QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Geschichte-Geschichten/Geschichten- | Gemeinde-Webseite
+ENTITÄT: straßengalerie
+BEZEICHNUNG: Straßengalerie Riegel
+FACETTE: KULTUR
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Kunst-Kultur/Strassengalerie | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  gruendung: seit 199
-GUELTIG_AB: 199
-GUELTIG_BIS:
+  beginn: 2021
+  aktuelle_runde: 2024/2025 (4. Runde)
+  motto: Riegeler Fassaden für Riegeler Künstler
+  ausstellungswerke_2024: 55 Arbeiten
+  ausstellungsorte: 43 verschiedene Ausstellungsorte
+  montage_art: an Hausfassaden montiert, in Schaufenstern installiert, Figuren
+  selection: von Hauseigentümern aus Online-Katalog www.kunst-in-riegel.de ausgewählt
+  charakteristikum: Open-Air-Galerie mit Werken lokaler Kunstschaffender
+  bedeutung_fuer_ort: trägt zur Künstlerdichte und kulturellen Vielfalt bei
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.60
+GUELTIG_AB: 2021
+VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 402-riegel/014
-ENTITÄT: kanal
-BEZEICHNUNG: Leopoldskanal
-QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Geschichte-Geschichten/Geschichten- | Gemeinde-Webseite
+ENTITÄT: kloster
+BEZEICHNUNG: Katharina-Kloster (Dominikanerinnenkloster St. Katharina)
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Riegel_am_Kaiserstuhl | Wikipedia
 EIGENSCHAFTEN:
-  merkmal: Obelisk neben der Schleuse
-GUELTIG_AB:
-GUELTIG_BIS:
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
+  gründung: 1450
+  auflösung: 1779
+  auflösungsgrund: Säkularisierung
+  beteiligung_kirchenbau: Finanzierung der Pfarrkirche St. Martin mit eigenem "Chörle" in der Kirche
+  charakteristikum: Konvent mit bedeutender lokaler Präsenz
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1450
+GUELTIG_BIS: 1779
+VERTRAUEN_EXTRAKTION: 0.88
 ---
 ID: 402-riegel/015
-ENTITÄT: statue
-BEZEICHNUNG: Heiliger Nepomuk
-QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Geschichte-Geschichten/Geschichten- | Gemeinde-Webseite
+ENTITÄT: goldmünzschatz
+BEZEICHNUNG: Keltischer Goldmünzschatz
+FACETTE: GESCHICHTE
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/Geschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  standort: Gemeindegarten
-GUELTIG_AB:
-GUELTIG_BIS:
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.80
+  fund_jahr: 2001
+  menge: 27 Goldmünzen
+  periode: Keltische Zeit
+  besonderheit: in Baden-Württemberg bisher einmalig
+  ausstellung: Museum Riegel
+  charakteristikum: seltenes und einzigartiges Fundstück
+  superlativ: einmalige und seltene Fundstücke (plural)
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: -500
+VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 402-riegel/016
-ENTITÄT: haus
-BEZEICHNUNG: Stamhaus
-QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Geschichte-Geschichten/Geschichten- | Gemeinde-Webseite
+ENTITÄT: kanal
+BEZEICHNUNG: Leopoldskanal
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Riegel_am_Kaiserstuhl | Wikipedia
 EIGENSCHAFTEN:
-  historische_aktivitaeten: Bierbrau
-GUELTIG_AB:
-GUELTIG_BIS:
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.70
+  bauzeit: 1837-1842
+  zweck: Unterbindung von Überschwemmungen durch Elz und Dreisam
+  funktion: Abzweigung von der Elz, direktere Verbindung zum Rhein
+  merkmal_kulturhistorisch: Obelisk an der Schleuse
+  bedeutung_fuer_ort: wichtige Infrastrukturmaßnahme 19. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1837
+VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 402-riegel/017
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Prinzessin Elisabeth
-QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Geschichte-Geschichten/Geschichten- | Gemeinde-Webseite
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Riegel-Malterdingen
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Riegel_am_Kaiserstuhl | Wikipedia
 EIGENSCHAFTEN:
-  wohnort: Schloss in Riegel
-  zeitliche_einordnung: ferne Vergangenheit
-GUELTIG_AB:
-GUELTIG_BIS:
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.65
+  bahnstrecke: Badische Hauptbahn (Rheintalbahn Mannheim–Basel)
+  betreiber: Deutsche Bahn AG
+  bahnstrecke_typ: Staatsbahnlinie
+  gründung: 1845
+  ursprünglicher_name: Bahnhof Riegel
+  umbenennung: 2011 (in Riegel-Malterdingen)
+  besonderheit: außerhalb des Ortes gelegen
+  museum_zug: Ausgangspunkt des Museumszuges Rebenbummler seit 1978 (Mai bis Oktober auf Kaiserstuhlbahn)
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1845
+VERTRAUEN_EXTRAKTION: 0.92
 ---
 ID: 402-riegel/018
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Anton Anreith
-QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Geschichte-Geschichten/Geschichten- | Gemeinde-Webseite
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Riegel Ort
+FACETTE: KULTUR
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Kunst-Kultur/Theater-kumedi- | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  verbindung_riegel: Straßenname in Riegel
-  bekanntheitsgrad: Berühmtheit in Südafrika
-GUELTIG_AB:
-GUELTIG_BIS:
+  bahnstrecke: Kaiserstuhlbahn
+  gründung: 1894
+  gründung_details: Kaiserstuhlbahn von Gottenheim über Bahnhof Riegel am Kaiserstuhl Ort nach Endingen am Kaiserstuhl, Abzweig nach Riegel-Malterdingen zur Hauptbahn
+  betreiber_historisch: Privatbahn Süddeutsche Eisenbahn-Gesellschaft (SEG) lange Zeit
+  betreiber_aktuell: Südwestdeutsche Landesverkehrs AG (SWEG)
+  elektrifizierung: 2019
+  nachnutzung: Theater Kumedi (ab 1997)
+  nachnutzung_detail: ehemaliges Empfangsgebäude als Theatergebäude umgebaut (auch Kopfbahnhof genannt)
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
+GUELTIG_AB: 1894
+VERTRAUEN_EXTRAKTION: 0.92
 ---
 ID: 402-riegel/019
-ENTITÄT: koenigshof
-QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/St.Martinskirche | Gemeinde-Webseite
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Daniel Kietz
+FACETTE: POLITIK
+QUELLE: https://www.gemeinde-riegel.de/de/Leben-in-Riegel/Gemeinde/Lage,Zahlen,Fakten | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  zeitepoche: Mittelalter
-  beschreibung: In dessen Nähe wurde eine Kirche errichtet, die Bedeutung Riegels in dieser Zeit anzeigte
-GUELTIG_AB:
-GUELTIG_BIS:
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.80
+  amtszeit_ab: 2018
+  partei: parteilos
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2018
+VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 402-riegel/020
-ENTITÄT: kloster
-BEZEICHNUNG: Katharinenkloster
-QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/St.Martinskirche | Gemeinde-Webseite
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Champhol
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Riegel_am_Kaiserstuhl | Wikipedia
 EIGENSCHAFTEN:
-  typ: Dominikanerinnenkonvent
-  zeitepoche: existierte in Riegel vor/während 1743
-  beteiligung_st_martin: Finanzierung des Kirchenneubaus 1743, erhielt eigenes "Chörle" in der Kirche
-GUELTIG_AB:
-GUELTIG_BIS:
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
+  gründung: seit 1995
+  partnergemeinde: Champhol
+  lage_partner: Umgebung Chartres
+  département: Eure-et-Loir
+  land: Frankreich
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1995
+VERTRAUEN_EXTRAKTION: 0.92
 ---
 ID: 402-riegel/021
-ENTITÄT: burganlage
-QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/St.Martinskirche | Gemeinde-Webseite
+ENTITÄT: radweg
+BEZEICHNUNG: Breisgau-Radweg
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Riegel_am_Kaiserstuhl | Wikipedia
 EIGENSCHAFTEN:
-  status: untergegangen
-  standort: Bereich der St. Michaelskapelle
-GUELTIG_AB:
-GUELTIG_BIS:
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.82
+  streckenlänge: 64
+  streckenlänge_einheit: km
+  route_von: Herbolzheim
+  route_bis: Breisach
+  route_via: Kenzingen über Malterdingen nach Riegel, weiter über Bahlingen und Vörstetten nach Freiburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 402-riegel/022
-ENTITÄT: kirchengemeinde
-BEZEICHNUNG: Evangelische Kirchengemeinde Riegel und Endingen
-QUELLE: https://www.gemeinde-riegel.de/de/Leben-in-Riegel/Gesundheit-Soziales/Kirchen | Gemeinde-Webseite
+ENTITÄT: radweg
+BEZEICHNUNG: Oberrhein-Römerradweg
+FACETTE: FREIZEIT
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/Geschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  pfarrsekretariat_adresse: Andlaustraße 6, 79346 Endingen
-GUELTIG_AB:
-GUELTIG_BIS:
+  streckenlänge: 200
+  streckenlänge_einheit: km
+  beschreibung: beliebter Radfernweg entlang des Kaiserstuhls
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.90
+VERTRAUEN_EXTRAKTION: 0.85
 ---
 ID: 402-riegel/023
-ENTITÄT: seelsorgeeinheit
-BEZEICHNUNG: Katholische Seelsorgeeinheit Nördlicher Kaiserstuhl
-QUELLE: https://www.gemeinde-riegel.de/de/Leben-in-Riegel/Gesundheit-Soziales/Kirchen | Gemeinde-Webseite
+ENTITÄT: rundweg
+BEZEICHNUNG: Archäologischer Rundweg
+FACETTE: FREIZEIT
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/Geschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  pfarrgemeinde: St. Martin Riegel
-  pfarrburo_adresse: Kirchstraße 5, 79359 Riegel
-GUELTIG_AB:
-GUELTIG_BIS:
+  länge: 13 Stationen mit Text- und Bildtafeln
+  inhalte: zentrale Punkte der römischen Ortsgeschichte, Fundstellen der Keltenzeit, Römerzeit und des frühen Mittelalters
+  hauptpunkte: Freilichtanlage „Mithras Tempel"
+  charakteristikum: Themenweg zu antiker Geschichte
+  auszeichnung: Geschichtsverein Riegel e.V. und Gemeinde ausgezeichnet mit Archäologie-Preis Baden-Württemberg 2006
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.90
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 402-riegel/024
+ENTITÄT: person
+BEZEICHNUNG: Klaus Spürkel
+FACETTE: KULTUR
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Kunst-Kultur/Theater-kumedi- | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt: 1948
+  tod: 2016
+  beruf: Schauspieler
+  tätigkeitsfeld: Theater-Gründer und Leiter
+  gründung: Kumedi-Theater 1981 in Nimburg
+  umzug: 1997 nach Riegel
+  charakteristikum: Gründer des ersten Klein-Theaters auf dem Lande in Süd-Baden
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1948
+GUELTIG_BIS: 2016
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 402-riegel/025
+ENTITÄT: person
+BEZEICHNUNG: Anton Anreith
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Riegel_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1754
+  geburt_ort: Riegel
+  tod: 1822
+  beruf: Bildhauer
+  wirkungsort: vor allem Kapstadt
+  bekannt_region: in Riegel nur als Straßenname, in Südafrika eine Berühmtheit
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1754
+GUELTIG_BIS: 1822
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 402-riegel/026
+ENTITÄT: person
+BEZEICHNUNG: Georg Anreith
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Riegel_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1751
+  geburt_ort: Riegel
+  tod: 1823
+  beruf: Baumeister
+  wirkungsort: vor allem Ungarn
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1751
+GUELTIG_BIS: 1823
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 402-riegel/027
+ENTITÄT: kapelle
+BEZEICHNUNG: Friedhofskapelle
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Riegel_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  baujahr_beginn: 1903
+  baujahr_ende: 1907
+  bauherr: Direktoren der Brauereigesellschaft Meyer & Söhne (Stiftung)
+  anlass: Friedhofserweiterung 1901
+  architekt: Paul Meißner (Darmstadt)
+  baubeginn: 5. August 1903 (Ausschachtung Baugrube)
+  baustil: Neobarock
+  besonderheit_fund: bei Ausschachtung römischer Keller als Überrest eines römerzeitlichen Hauses entdeckt
+  einweihung: 29. Oktober 1907
+  schenkung: 31. Januar 1908 an die Gemeinde
+  einsegnungshalle: 1973 benachbarte Einsegnungshalle gebaut
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1903
+VERTRAUEN_EXTRAKTION: 0.9

@@ -1,0 +1,435 @@
+ENTITÄT: ort
+BEZEICHNUNG: Achkarren
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Achkarren | Wikipedia
+EIGENSCHAFTEN:
+  lage: südlichster Teil der Gemarkung Vogtsburg
+  ortsteil_von: Vogtsburg
+  grenzt_an_sued: Ihringen
+  entfernung_zum_rhein_km: 5
+  entfernung_zu_breisach_km: 7
+  tal: Achkarrer Tal öffnet sich nach Westen
+  besonderheit: Zwischen Achkarren und Ihringen liegt der wärmste Punkt Deutschlands mit den durchschnittlich höchsten Temperaturen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Vogtsburg
+FACETTE: LAGE
+QUELLE: https://www.vogtsburg.de/de-de/wirtschaft/standortprofil | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemarkungsgroesse_ha: 3736
+  hoechste_erhebunyg_berg: Totenkopf
+  hoechste_erhebunyg_m: 557
+  rebflaeche_ha: 1388
+  bedeutung_fuer_ort: größte Weinbaugemeinde Baden-Württembergs
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsname
+BEZEICHNUNG: Achkarren
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Achkarren | Wikipedia
+EIGENSCHAFTEN:
+  ursprünglicher_name: Haducharlheim
+  namensherkunft: fränkischer Name von Haducharl (Mann, der um 600 n.Chr. mit Clan sich niederließ; hadu = Krieg, Streit; charl = ganzer Kerl)
+  namenswandlung: Haducharlheim → Ahtekarlen → Hatcharl (1064) → Ahtkarl (1273) → Achtkarlen (1315) → Achtkarren (1465) → Achkarren (ab 16. Jh.)
+  sage_zum_name: Der Sage nach soll bei Bau der Burg Höhingen ein Wagen mit Material mehrfach den steilen Hang hinunter-gerollt sein; der Schlossherr rief daraufhin Ach Karren
+GUELTIG_AB: 600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsname
+BEZEICHNUNG: Achkarren
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Achkarren | Wikipedia
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung_jahr: 1064
+  anlass_erste_erwaehnung: Übertragung an Kloster Ottmarsheim durch König Heinrich IV.
+  beschreibung: Die erste urkundliche Erwähnung fand anlässlich der Übertragung an das Kloster Ottmarsheim statt
+GUELTIG_AB: 1064
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: siedlung
+BEZEICHNUNG: Achkarren
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Achkarren | Wikipedia
+EIGENSCHAFTEN:
+  besiedlungsgeschichte: Archäologische Siedlungsspuren lassen auf über zweitausendjährige Besiedlung mit Unterbrechungen schließen
+  alemannische_besiedlung_ab: 260 n.Chr.
+  fränkische_herrschaft_ab: ca. 500 n.Chr.
+  ausbausiedlung_zeit: fränkische Herrschaft ab ca. 500 n.Chr.
+  weinbergterrassen_anlage: vermutlich erst nach Beginn alemannischer Besiedlung ab 260 n.Chr. angelegt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Burg Höhingen
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Achkarren | Wikipedia
+EIGENSCHAFTEN:
+  lage: auf dem Schlossberg
+  zerstoerung_erste: 1525 im Bauernaufstand
+  zerstoerung_endgueltig: Dreißigjähriger Krieg durch kaiserlich-katholische Truppen als sie gegen die Schweden nicht mehr zu halten war
+  heutiger_zustand: nur noch Rudimente von Ruinen sichtbar
+  bedeutung_fuer_ort: Wahrzeichen, um das sich auch eine Sage zur Namensentstehung Achkarrens rankt
+GUELTIG_AB: Mittelalter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Schlossberg
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Achkarren | Wikipedia
+EIGENSCHAFTEN:
+  hoehe_m: 352
+  traegt_bauwerk: Burg Höhingen
+ORTSTEIL_BEZUG: Achkarren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Schneckenberg
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Achkarren | Wikipedia
+EIGENSCHAFTEN:
+  hoehe_m: 352
+ORTSTEIL_BEZUG: Achkarren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Hochbuck
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Achkarren | Wikipedia
+EIGENSCHAFTEN:
+  hoehe_m: 375
+ORTSTEIL_BEZUG: Achkarren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Böhmischberg
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Achkarren | Wikipedia
+EIGENSCHAFTEN:
+  hoehe_m: 274
+ORTSTEIL_BEZUG: Achkarren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Weinbaumuseum
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Achkarren | Wikipedia
+EIGENSCHAFTEN:
+  thema: Weinbau am Kaiserstuhl
+  begleitender_lehrpfad: geologischer Weinlehrpfad
+  laenge_lehrpfad_km: 2.4
+  vermittelte_inhalte: Boden, Klima, Rebsorten, Geschichte des Weinbaues am Kaiserstuhl
+  bedeutung_fuer_ort: Dokumentation und Vermittlung der Weinbaukultur und -geschichte des Ortes
+ORTSTEIL_BEZUG: Achkarren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Büchsenberg
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Achkarren | Wikipedia
+EIGENSCHAFTEN:
+  fauna_flora: seltene Pflanzen und Tiere
+  lage: auf der Gemarkung von Achkarren, hinter Büchsenberg befindet sich ein großer Steinbruch
+ORTSTEIL_BEZUG: Achkarren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St.-Georg-Kirche
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Achkarren | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Dorfkirche
+  baustil: Klassizismus
+  erbaut_jahr: 1823
+  erbaut_von: Friedrich Arnold
+  neugestaltung_innenraum_jahrgehr: 1964, 2004
+  orgel_eingebaut_jahr: 1965
+  orgel_hersteller: Orgelbau Pfaff
+  orgel_register: 18 auf zwei Manualen und Pedal
+ORTSTEIL_BEZUG: Achkarren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gewaesser
+BEZEICHNUNG: Krebsbach
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Achkarren | Wikipedia
+EIGENSCHAFTEN:
+  gewaessertyp: Bach
+ORTSTEIL_BEZUG: Achkarren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Achkarren
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Achkarren | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Schienenverkehrspunkt in Achkarren
+ORTSTEIL_BEZUG: Achkarren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gewerbegebiet
+BEZEICHNUNG: Gewerbegebiet Achkarren
+FACETTE: ALLTAG
+QUELLE: https://www.vogtsburg.de/de-de/wirtschaft/standortprofil | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: zentrales Gewerbegebiet im Ortsteil Achkarren
+  entwicklungsperspektive: attraktive Entwicklungsmöglichkeiten
+  geplante_anbindung: B 31 Anbindung geplant
+  bedeutung_fuer_ort: Wirtschaftliche Schwerpunkt neben Weinbau und Tourismus
+ORTSTEIL_BEZUG: Achkarren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: steinbruch
+BEZEICHNUNG: Steinbruch Büchsenberg
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Achkarren | Wikipedia
+EIGENSCHAFTEN:
+  lage: hinter Büchsenberg
+  nutzen_mittelalter: Bau des Breisacher Stephansmünsters
+  heutige_nutzung: als originale Materialquelle für notwendige Reparaturen wiederentdeckt
+ORTSTEIL_BEZUG: Achkarren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: weinbau
+BEZEICHNUNG: Weinbau Achkarren
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Achkarren | Wikipedia
+EIGENSCHAFTEN:
+  spitzenweinlage_deutschlands: true
+  spezialisierung: Ruländer (besonderer Grauburgunder)
+  auszeichnungen: Winzergenossenschaft Achkarren und örtliche Weingüter erhalten regelmäßig Preise und Prämierungen
+  bodenbeschaffenheit: ca. 50 % verwitterter Vulkanboden (einzigartig unter Winzergemeinden), daneben Lössböden des Kaiserstuhls
+  bedeutung_fuer_ort: Wirtschaftlicher und kultureller Schwerpunkt, Identität des Ortes
+ORTSTEIL_BEZUG: Achkarren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: winzergenossenschaft
+BEZEICHNUNG: Winzergenossenschaft Achkarren
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Achkarren | Wikipedia
+EIGENSCHAFTEN:
+  produkt: Weine, spezialisiert auf Ruländer
+  auszeichnungen: regelmäßig Preise und Prämierungen
+ORTSTEIL_BEZUG: Achkarren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Vogtsburg
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Achkarren | Wikipedia
+EIGENSCHAFTEN:
+  gründungsdatum: 1. Januar 1975
+  gruendung_durch: Eingliederung von sieben Gemeinden
+  eingeglieder_gemeinden: Achkarren, Bickensohl, Bischoffingen, Burkheim, Oberbergen, Oberrotweil, Schelingen
+  vorheriger_name: Oberrotweil (seit 1975), umbenannt 15. April 1977 zu Vogtsburg im Kaiserstuhl
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: krieg_zerstoerung
+BEZEICHNUNG: Dreißigjähriger Krieg und Folgen in Achkarren
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Achkarren | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Burg Höhingen endgültig zerstört von kaiserlich-katholischen Truppen
+  zeitspaeter_bevoelkerung: drei Jahre nach Kriegsende zählte Achkarren 58 Einwohner
+  bevoelkerungsverlust_prozent: >70 % der ehemaligen Bewohner
+GUELTIG_AB: 1618
+GUELTIG_BIS: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: krieg_zerstoerung
+BEZEICHNUNG: Belagerung von Breisach und Folgen in Achkarren
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Achkarren | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Dorf Achkarren nahezu komplett zerstört durch französische Truppen bei Belagerung von Breisach
+  grund: Spanischer Erbfolgekrieg
+  jahr: 1703
+GUELTIG_AB: 1703
+GUELTIG_BIS: 1703
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: tennisanlage
+BEZEICHNUNG: Tennisplätze Achkarren
+FACETTE: FREIZEIT
+QUELLE: https://www.vogtsburg.de/de-de/tourismus/natur-urlaub-aktiv/freizeitangebote-erlebnisse/fuer-alle-sportbegeisterten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Freiplätze
+ORTSTEIL_BEZUG: Achkarren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: freizeitaktivitaet
+BEZEICHNUNG: Erlebnis-Traktorfahrt am Schlossberg
+FACETTE: FREIZEIT
+QUELLE: https://www.vogtsburg.de/de-de/tourismus/natur-urlaub-aktiv/freizeitangebote-erlebnisse/erlebnisreiche-touren | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Traktorfahrt mit Winzer & Gästeführer
+  durchführung: Jeden Donnerstag um 17.00 Uhr (regelmäßiges Angebot)
+  dauer_std: ca. 3
+  besonderheit: Entdeckungstour mit Stärkung in freier Natur
+  ort: Schlossberg
+ORTSTEIL_BEZUG: Achkarren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: geologische_besonderheit
+BEZEICHNUNG: Hohlwege mit Vulkangestein
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Achkarren | Wikipedia
+EIGENSCHAFTEN:
+  lage: in den Weinbergen Richtung Schlossberg und Schneckenberg
+  sichtbarkeit: Schichtung vulkanischen Gesteins mit darüberliegender teils dünner, teils etliche Meter mächtiger Lössdecke
+  beschreibung: An den Seiten der diversen Hohlwege kann man die geologische Struktur deutlich sehen
+ORTSTEIL_BEZUG: Achkarren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: solarpark
+BEZEICHNUNG: Solarpark Vogtsburg
+FACETTE: INFRA
+QUELLE: https://www.vogtsburg.de/de-de/wirtschaft/solarpark | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme_datum: Mai 2013
+  groesse_ha: 14
+  module: 31000
+  kabel_km: 227
+  wechselrichter: 9
+  trafostationen: 5
+  maximalleistung_megawatt: 7.8
+  haushalt_versorgung: 2245 Haushalte
+  strombedarfs_deckung_prozent: 70 % des Vogtsburger Strombedarfs
+  eigentumsverhaeltnis: 75 % Bürgerenergiegenossenschaft (Vogtsburger Bürger), 25 % Investor F & S Solar
+  bedeutung: größter Solarpark in Baden-Württemberg, Schritt zur energieautarken Kommune
+  status_projekt: Vorzeigeprojekt für lokale Energiewende
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bevoelkerung
+BEZEICHNUNG: Vogtsburg
+FACETTE: POLITIK
+QUELLE: https://www.vogtsburg.de/de-de/wirtschaft/standortprofil | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_gesamt: 6217
+  einwohner_gueltig_ab: November 2022
+  altersgruppe_unter_18_prozent: 17.37
+  altersgruppe_19_bis_35_prozent: 18.27
+  altersgruppe_36_bis_60_prozent: 35.90
+  altersgruppe_60_plus_prozent: 28.45
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Benjamin Bohn
+FACETTE: POLITIK
+QUELLE: https://www.vogtsburg.de/de-de/leben-wohnen/foerderverein-freibad-vogtsburg-e-v/informationen-zum-foerderverein-freibad-vogtsburg-e-v | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  stadt: Vogtsburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: geschichte
+BEZEICHNUNG: Erste Weltkrieg und Versorgungslage in Achkarren
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Achkarren | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Im Ersten Weltkrieg waren die Menschen trotz ihrer Möglichkeiten als Selbstversorger mit Mangel und Hunger konfrontiert
+  grund: Landwirtschaftliche Erzeugnisse des Ortes wurden zur Versorgung der Stadt Freiburg herangezogen
+ORTSTEIL_BEZUG: Achkarren
+GUELTIG_AB: 1914
+GUELTIG_BIS: 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: weinregion
+BEZEICHNUNG: Kaiserstuhl
+FACETTE: LAGE
+QUELLE: https://www.vogtsburg.de/de-de/wirtschaft/standortprofil | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: Naturgarten Kaiserstuhl
+  bodentypen: Lössboden, Vulkanboden
+  weinproduktion: 6 Winzergenossenschaften und ca. 40 Weingüter in Vogtsburg
+  bekanntheit: vielfach prämierter Weinbau, größte Weinbaugemeinde Baden-Württembergs (Vogtsburg)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

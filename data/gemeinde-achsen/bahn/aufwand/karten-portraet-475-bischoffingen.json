@@ -1,0 +1,50 @@
+{
+ "stufe": "karten-portraet",
+ "ort": "475-bischoffingen",
+ "prompt": "prompt-karten-v0.9.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 39218,
+ "token_ein": 36932,
+ "token_aus": 50670,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 30028,
+  "cache_read_input_tokens": 6902,
+  "output_tokens": 50670,
+  "output_tokens_details": {
+   "thinking_tokens": 39026
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 30028,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 50670,
+    "cache_read_input_tokens": 6902,
+    "cache_creation_input_tokens": 30028,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 30028
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.2550124,
+ "sekunden": 429,
+ "fehler": false,
+ "zeit": "2026-10-21T02:15:28"
+}
