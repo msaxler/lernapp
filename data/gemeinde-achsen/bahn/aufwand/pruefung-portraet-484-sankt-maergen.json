@@ -1,0 +1,50 @@
+{
+ "stufe": "pruefung-portraet",
+ "ort": "484-sankt-maergen",
+ "prompt": "prompt-pruefung-v0.2.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 69597,
+ "token_ein": 59407,
+ "token_aus": 6942,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 52503,
+  "cache_read_input_tokens": 6902,
+  "output_tokens": 6942,
+  "output_tokens_details": {
+   "thinking_tokens": 3797
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 52503,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 6942,
+    "cache_read_input_tokens": 6902,
+    "cache_creation_input_tokens": 52503,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 52503
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.5602524,
+ "sekunden": 60,
+ "fehler": false,
+ "zeit": "2026-10-21T09:34:03"
+}

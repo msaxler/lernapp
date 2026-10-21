@@ -1,0 +1,1030 @@
+ENTITÄT: ort
+BEZEICHNUNG: St. Märgen
+FACETTE: LAGE | GESCHICHTE | ALLTAG | FREIZEIT | INFRA | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  lage_region: Hochschwarzwald, Landkreis Breisgau-Hochschwarzwald, Baden-Württemberg, Deutschland
+  hoehe_meter: 570-1132
+  entfernung_freiburg_luftlinie: 18
+  entfernung_freiburg_einheit: km
+  einwohner: ca. 2000
+  einwohner_genauigkeit: ca.
+  ortschaften: Glashütte, Thurner, Schweighöfe
+  verstreute_ansiedlungen: 85
+  gliederung: geschlossener Ortskern mit ca. 50% der Bevölkerung, verstreute Hofgruppen und Einzelhöfe im gesamten Gemeindegebiet
+  gemeindeverwaltungsverband: mit Glottertal und St. Peter, Sitz in St. Peter
+  status_kurort: Luftkurort
+  landkreis_gueltig_ab: 1973
+  is_heilklimatischer_ort: true
+  ist_wallfahrtsort: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+FACETTE: GESCHICHTE
+QUELLE: https://www.sankt-maergen.de/p/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1111
+  gründung_kloster_jahr: 1115-1118
+  gründer_name: Bruno
+  gründer_titel: Dompropst von Straßburg, Reichskanzler Heinrich V.
+  gründungsname_kloster: Cella Sanctae Mariae
+  urspruengliche_namensentwicklung: Cella Sanctae Mariae → Mariazell → Sankt Marien → Sankt Merjen → St. Märgen
+  namenherkunft: Sitzmadonna (Skulptur), mitgebracht durch Chorherren aus Toul
+  moenche_order: Augustinerchorherren
+  moenche_herkunft: deutschsprachige sowie aus Toul (Lothringen)
+  säkularisierung_jahr: 1806
+  säkularisierung_grund: Badischer Staat löste Augustinerchorherrenstift auf
+  folge_säkularisierung: St. Märgen wurde eigenständige Gemeinde
+  is_benediktinerkloster: false
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1111
+GUELTIG_BIS: 1806
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: St. Märgen (Augustinerchorherrenstift Mariazell)
+FACETTE: GESCHICHTE | LAGE
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  gründung_jahr: 1115-1118
+  gründer_person: Bruno von Haigerloch-Wiesneck
+  gründer_funktion: Kanzler von Heinrich V., Straßburger Dompropst
+  orden: Augustiner-Chorherren
+  konkurrenzkloster: Kloster St. Peter auf dem Schwarzwald (zähringisch)
+  umzug_jahr: 1460er Jahre
+  umzug_grund: fortgesetzte Schwierigkeiten
+  umzug_ziel: Kloster Allerheiligen (Augustiner-Chorherren, Freiburg)
+  wiederherstellung_jahr: nach 1699
+  wiederherstellung_grund: Rückkauf des Maierhofs als ökonomische Grundlage
+  barockisierung_jahr: ab 1716
+  barockisierung_beschreibung: zweitürmige Klosterkirche sowie neue Konventsgebäude
+  säkularisierung_jahr: 1806
+  vogtei_verkauf_jahr: 1462
+  vogtei_verkaufspreis: 4800 Gulden
+  vogtei_käufer: Stadt Freiburg
+  bedeutung_fuer_ort: namengebend, im Wappen stilisiert, zentral für Ortsgeschichte und Identität
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1115
+GUELTIG_BIS: 1806
+VERTRAUEN_EXTRAKTION: 0.96
+
+---
+
+ENTITÄT: paulinerkloster
+BEZEICHNUNG: Paulinerkloster St. Märgen
+FACETTE: GESCHICHTE
+QUELLE: https://www.sankt-maergen.de/p/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_jahr: 1995
+  lage_vorher: ehemaliges Pfarrhaus
+  schließung_jahr: 2011
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1995
+GUELTIG_BIS: 2011
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Märgen (Wallfahrtskirche)
+FACETTE: GESCHICHTE | FREIZEIT | LAGE
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  kirchentyp: Wallfahrtskirche, barocke zweitürmige Klosterkirche
+  barocke_erneuerung_jahr: ab 1716
+  orgel_typ: Silbermann-Orgel
+  orgel_schicksal: bei Kirchenbrand 1907 zerstört
+  zerstörung_1430: ja
+  wiederaufbau_nach_1430_jahr: 1493
+  wiederaufbau_abt: Ehrhart Rotkopf
+  zerstörung_1704: ja
+  zerstörung_1704_grund: französische Soldaten, Spanischer Erbfolgekrieg
+  zerstörung_1704_umfang: Pfarrhaus, Kirche, ein Drittel aller Häuser und Höfe
+  kirchenbrand_1907: ja
+  kirchenbrand_1907_ursache: Blitzschlag
+  kirchenbrand_1907_umfang: Wallfahrtskirche und westlicher Klostergebäudeteil
+  wiederaufbau_1907: ja
+  gnadenbild_sitzmadonna: Skulptur, mitgebracht 1115-1118
+  gnadenbild_verbringung_jahr: 1474
+  gnadenbild_verbringung_ziel: Freiburg
+  wallfahrtsziel: ja
+  beherrschendes_bauwerk: ja
+  bedeutung_fuer_ort: zentrales Bauwerk, Wahrzeichen, im Wappen dargestellt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.97
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Ohmenkapelle
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  entfernung_ortskern: ca. 1
+  entfernung_ortskern_einheit: km
+  lage_besonderheit: auf Bergsporn
+  wallfahrtsziel: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schwarzwalder_pferdezuchtgenossenschaft
+BEZEICHNUNG: Schwarzwälder Pferdezuchtgenossenschaft e.V.
+FACETTE: ALLTAG | FREIZEIT
+QUELLE: https://www.sankt-maergen.de/p/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_jahr: 1896
+  rassenzucht: Schwarzwälder Kaltblut
+  lokale_variante: Sankt Märgener Fuchs
+  bedeutung_fuer_ort: größter Zuchtbetrieb der Rasse, prägendes Merkmal des Ortes, wirtschaftliche und kulturelle Bedeutung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Tag des Schwarzwälder Pferdes (Rossfest)
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  erste_auflage_jahr: 1949
+  ausrichter: Schwarzwälder Pferdezuchtgenossenschaft e.V.
+  rhythmus: alle 3 Jahre
+  zeitpunkt_monat: September
+  zeitpunkt_woche: zweites Wochenende
+  inhalt: Züchtertreffen mit schönsten Schwarzwälder Füchsen und alter Handwerkskunst
+  bedeutung: wichtigste regelmäßige Veranstaltung des Ortes, zu Volksfest geworden
+  letzter_auflage: 2025
+  letzter_auflage_nummer: 31
+  zusatz_leistungsschau: seit 2006 jährliche Leistungsschau für Schwarzwälder Kaltblut
+  superlativ: wichtigste regelmäßige Veranstaltung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: skulptur
+BEZEICHNUNG: Großes Ross
+FACETTE: FREIZEIT | LAGE
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  bildhauer: Franz Gutmann
+  bildhauer_herkunft: Münstertal
+  material: Bronze
+  anzahl_güsse: drei
+  lage: Ortsmitte
+  bedeutung: weist auf Tradition der Pferdezucht hin
+  schicksal_ein_guss: um 2014 von Gemeinde Münstertal erworben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Goldene Krone
+FACETTE: GESCHICHTE | LAGE | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  errichtung_jahr: 1757-1758
+  errichtung_auftraggeber: Abt Petrus Glunk
+  ursprüngliche_funktion: Klosterherberge
+  ab_1771_nutzer: Matthias Faller
+  ab_1771_nutzung: Wohnhaus und Bildhauerwerkstatt
+  nach_säkularisierung: Gasthaus
+  umbau_1902: zum Grandhotel ausgebaut
+  rettungsbürgerinitiative_jahr: 2003
+  rettungsbürgerinitiative_grund: drohender Verfall
+  heutige_nutzung: Wohnungen, Café (betrieben von Landfrauen)
+  bedeutung: im Ortsbild auffallendes Gebäude, Architektur-Zeugnis der Klosterzeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: muehle
+BEZEICHNUNG: Rankmühle
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  errichtung_zeit: Mitte des 18. Jahrhunderts
+  entfernung_rankhof: ca. 700
+  entfernung_rankhof_einheit: Meter
+  lage_beschreibung: auf dem Landfeldweg
+  heutige_nutzung: Museum (Rankmühle)
+  ausblick: Richtung zum Dorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Klostermuseum St. Märgen
+FACETTE: FREIZEIT | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  lage: ehemalige Räume des Klosters
+  ausstellungsthemen: Uhrenfabrikation und Uhrenhandel, Auswanderung, Hinterglasmalerei, Klosterbildhauer Matthias Faller, religiöse Volkskunst der vergangenen Jahrhunderte
+  bedeutung_ortshistorie: orts- und regionalbedeutend
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: veranstaltungshalle
+BEZEICHNUNG: Schwarzwaldhalle
+FACETTE: FREIZEIT | INFRA
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  errichtung_jahr: 1995-1996
+  grund_errichtung: Ersatz für Festzelt
+  bautradition: alte Schwarzwaldhöfe
+  kulturelle_nutzung: Theater St. Märgen
+  theater_gruendung_jahr: 2013
+  theater_träger: Kooperation Landjugend und Trachtentanzgruppe
+  vorherige_theatergruppe: Laienspielgruppe über 20 Jahre (in Goldener Krone)
+  bedeutung_fuer_ort: Veranstaltungszentrum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: veranstaltungshalle
+BEZEICHNUNG: Weißtannenhalle
+FACETTE: FREIZEIT | INFRA | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  errichtung_jahr: 2005
+  material: heimisches Weißtannenholz
+  bautradition: ähnlich wie Schwarzwaldhalle
+  nutzung_arten: Reiten, Skilanglauf, Mountainbike, Fitness- und Lauftraining, Nordic-Walking, Beach-Volleyball, wetterunabhängige Varianten
+  beherbergt: Vereinsheime SV St. Märgen und RSV St. Märgen, Rothaus-Cube-MTB-Team, Gaststätte
+  bedeutung: ermöglicht wetterunabhängige Tourismusangebote
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: naturpark
+BEZEICHNUNG: Natur-Erlebnis-Park Pfisterwald
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  lage: östlich des Ortskerns
+  einrichtungen: Waldspielplatz, Abenteuerspielplatz, Beachvolleyball-Fläche, Kunstrasen-Tennisplätze, Reitplatz, Fußballplätze, naturhafter Schwimmteich, beleuchtete Finnenbahn, beleuchtete Rodelbahn in altem Hohlweg, Langlauf-Loipen (Thurnerspur-Nähe), Mountainbike-Rundkurs (Rothaus-Cube), Waldlehrpfad zu Fauna und Flora, Festplatz, Schwarzwaldhalle
+  bedeutung: zentraler Freizeit- und Tourismusangebot
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: skilanglauf_verein
+BEZEICHNUNG: Skilanglauf-Club Thurnerspur e.V.
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  gründung_jahr: 1972
+  gründungsname: Club Thurnerspur e.V.
+  bedeutung_schwarzwald: erste mit Mitgliedsbeiträgen angelegte und unterhaltene Loipe im Schwarzwald
+  sitz: St. Märgen
+  angebot: Langlaufzentrum für Jedermann
+  bekanntheit: überörtlich bekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: mountainbike_strecke
+BEZEICHNUNG: Mountainbike-Strecke St. Märgen
+FACETTE: FREIZEIT | INFRA
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  typ: professionelle permanente Strecke
+  bedeutung_regional: Teil des Olympiastützpunkts Freiburg
+  nutzung: Haus-, Trainings- und Rennstrecke für MTB-Cup-Rennen
+  betreuer_seit_2020: Ski-Club St. Märgen e.V.
+  vorbetreuer: Radsportverein Bike Arge (bis 2020)
+  team: Rothaus-Cube-MTB-Team
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: SV St. Märgen e.V.
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  sportarten: Fußball, Kinderturnen
+  erste_mannschaft_liga: Kreisliga A II (Südbadischer Fußballverband)
+  reservemannschaft_liga: Kreisliga B
+  jugendkooperation: SG St. Märgen/St. Peter ab C-Jugend
+  damenmannschaft_seit: 2023-2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: RSV St. Märgen
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  vereinsheimat: Weißtannenhalle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: galeriegebaeude
+BEZEICHNUNG: Galerie Endriß
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  architektur: moderner Neubau
+  lage: unmittelbare Nähe zum historischen Kloster
+  auszeichnung: Preis "Beispielhaftes Bauen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: bad
+BEZEICHNUNG: Naturfreibad Sankt Märgen
+FACETTE: FREIZEIT
+QUELLE: OpenStreetMap ZEUGEN | Landesportal
+EIGENSCHAFTEN:
+  badtyp: Naturfreibad
+  bedeutung_charakteristikum: prägendes Freizeitangebot des Ortes
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Sparkassentrail St. Märgen
+FACETTE: FREIZEIT | LAGE
+QUELLE: OpenStreetMap ZEUGEN | Landesportal
+EIGENSCHAFTEN:
+  verkehrsart: Radweg, Cycling
+  bedeutung: überörtlich bekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Panoramarundweg Thurner
+FACETTE: FREIZEIT | LAGE
+QUELLE: OpenStreetMap ZEUGEN | Landesportal
+EIGENSCHAFTEN:
+  charakteristika: Rundweg mit Panoramaausblicken
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Hochschwarzwald-Jakobusweg
+FACETTE: FREIZEIT | LAGE
+QUELLE: OpenStreetMap ZEUGEN | Landesportal
+EIGENSCHAFTEN:
+  typ: Jakobusweg, Pilgerwanderweg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: aussichtspunkt
+BEZEICHNUNG: Hohwartfelsen
+FACETTE: FREIZEIT | LAGE
+QUELLE: OpenStreetMap ZEUGEN | Landesportal
+EIGENSCHAFTEN:
+  beschreibung: Aussichtspunkt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: aussichtspunkt
+BEZEICHNUNG: Birkfelsen
+FACETTE: FREIZEIT | LAGE
+QUELLE: OpenStreetMap ZEUGEN | Landesportal
+EIGENSCHAFTEN:
+  beschreibung: Aussichtspunkt
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: aussichtspunkt
+BEZEICHNUNG: Ausblick Thomashöhe
+FACETTE: FREIZEIT | LAGE
+QUELLE: OpenStreetMap ZEUGEN | Landesportal
+EIGENSCHAFTEN:
+  beschreibung: Aussichtspunkt mit Aussicht auf Feldberg-Massiv
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+
+---
+
+ENTITÄT: rodelbahn
+BEZEICHNUNG: Rodelbahn St. Märgen
+FACETTE: FREIZEIT | INFRA
+QUELLE: OpenStreetMap ZEUGEN | Landesportal
+EIGENSCHAFTEN:
+  beschreibung: Rodelbahn, beleuchtete Ausführung in altem Hohlweg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: gewaesser
+BEZEICHNUNG: Wilde Gutach
+FACETTE: LAGE | NATUR
+QUELLE: OpenStreetMap ZEUGEN | Landesportal
+EIGENSCHAFTEN:
+  schutzgebiet_seit: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Doldenbühl
+FACETTE: LAGE
+QUELLE: OpenStreetMap ZEUGEN | Landesportal
+EIGENSCHAFTEN:
+  hoehe_meter: 1095
+  hoehe_einheit: m ü. NN
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Glasberg
+FACETTE: LAGE
+QUELLE: OpenStreetMap ZEUGEN | Landesportal
+EIGENSCHAFTEN:
+  hoehe_meter: 1037
+  hoehe_einheit: m ü. NN
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Aurüttenbühl
+FACETTE: LAGE
+QUELLE: OpenStreetMap ZEUGEN | Landesportal
+EIGENSCHAFTEN:
+  hoehe_meter: 960
+  hoehe_einheit: m ü. NN
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Scheibenkopf
+FACETTE: LAGE
+QUELLE: OpenStreetMap ZEUGEN | Landesportal
+EIGENSCHAFTEN:
+  hoehe_meter: 946
+  hoehe_einheit: m ü. NN
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Spirzenkopf
+FACETTE: LAGE
+QUELLE: OpenStreetMap ZEUGEN | Landesportal
+EIGENSCHAFTEN:
+  hoehe_meter: 879
+  hoehe_einheit: m ü. NN
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Zwerisberg
+FACETTE: LAGE
+QUELLE: OpenStreetMap ZEUGEN | Landesportal
+EIGENSCHAFTEN:
+  hoehe_meter: 719
+  hoehe_einheit: m ü. NN
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: quelle
+BEZEICHNUNG: Ibenbachquelle
+FACETTE: LAGE
+QUELLE: OpenStreetMap ZEUGEN | Landesportal
+EIGENSCHAFTEN:
+  hoehe_meter: 1012
+  hoehe_einheit: m ü. NN
+  wassersystem: Wagensteigbach-Ibenbach-System
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: quelle
+BEZEICHNUNG: Thaddäusbrünnele
+FACETTE: LAGE
+QUELLE: OpenStreetMap ZEUGEN | Landesportal
+EIGENSCHAFTEN:
+  beschreibung: Brunnen/Quelle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+
+---
+
+ENTITÄT: schanze
+BEZEICHNUNG: Schanzen am Hohlen Graben
+FACETTE: GESCHICHTE | LAGE
+QUELLE: OpenStreetMap ZEUGEN | Landesportal
+EIGENSCHAFTEN:
+  beschreibung: Verteidigungsanlage
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.60
+
+---
+
+ENTITÄT: schanze
+BEZEICHNUNG: Türkenlouis-Schanze
+FACETTE: GESCHICHTE | LAGE
+QUELLE: OpenStreetMap ZEUGEN | Landesportal
+EIGENSCHAFTEN:
+  beschreibung: benannte Schanze
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.60
+
+---
+
+ENTITÄT: schanze
+BEZEICHNUNG: Mucklewaldschanze
+FACETTE: GESCHICHTE | LAGE
+QUELLE: OpenStreetMap ZEUGEN | Landesportal
+EIGENSCHAFTEN:
+  beschreibung: benannte Schanze
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.60
+
+---
+
+ENTITÄT: schanze
+BEZEICHNUNG: Doldenbühl-Schanze
+FACETTE: GESCHICHTE | LAGE
+QUELLE: OpenStreetMap ZEUGEN | Landesportal
+EIGENSCHAFTEN:
+  beschreibung: benannte Schanze am Berg Doldenbühl
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.60
+
+---
+
+ENTITÄT: schanze
+BEZEICHNUNG: Große Schanze Beckenhöhe
+FACETTE: GESCHICHTE | LAGE
+QUELLE: OpenStreetMap ZEUGEN | Landesportal
+EIGENSCHAFTEN:
+  beschreibung: benannte Schanze
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.60
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Grenzsteine XIV. Jahrhundert
+FACETTE: GESCHICHTE | LAGE
+QUELLE: OpenStreetMap ZEUGEN | Landesportal
+EIGENSCHAFTEN:
+  zeitpunkt_hundertjahre: 14
+  bedeutung: Markierung der Gemarkungsgrenzen
+GUELTIG_AB: 1301
+GUELTIG_BIS: 1400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Grenzsteine XVI. Jahrhundert
+FACETTE: GESCHICHTE | LAGE
+QUELLE: OpenStreetMap ZEUGEN | Landesportal
+EIGENSCHAFTEN:
+  zeitpunkt_hundertjahre: 16
+  bedeutung: Markierung der Gemarkungsgrenzen
+GUELTIG_AB: 1501
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Matthias Faller
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1707-1791
+  profession: Barock-/Rokoko-Bildhauer
+  ortsverbindung: lebte überwiegend in St. Märgen
+  schaffensort: schuf Hauptwerke in St. Märgen
+  wohnort: Goldene Krone (ab 1771)
+  werkstatt: Bildhauerwerkstatt in Goldener Krone
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1707
+GUELTIG_BIS: 1791
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Lorenz Frey
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  profession: Schreiner
+  leistung: soll Mitte 18. Jahrhunderts eine der ersten Schwarzwälder Uhren nach böhmischem Vorbild gebaut haben
+  leistung_genauigkeit: vermutlich
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1750
+GUELTIG_BIS: 1800
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hermann Dischler
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1866-1935
+  profession: Maler
+  aufenthalte: Frühjahr 1903 am Thurner (mit Karl Biese und Wilhelm Nagel), Winter 1904 gesamte Saison am Thurner (mit Wilhelm Nagel)
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1866
+GUELTIG_BIS: 1935
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Gustav Traub
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1885-1955
+  profession: Grafiker und Landschaftsmaler
+  aufenthalte: Urlaub in St. Märgen 1940
+  atelier_gruendung: 1941
+  atelierort: St. Märgen
+  todesjahr: 1955 im Atelier
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1941
+GUELTIG_BIS: 1955
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Edmund Husserl
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1859-1938
+  profession: Professor der Philosophie
+  aufenthalte: 1920-1937 viele Semesterferien in St. Märgen zu Erholung und Arbeit
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1920
+GUELTIG_BIS: 1937
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karl Biese
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1863-1926
+  profession: Landschaftsmaler und Lithograf
+  ansiedlung_jahr: 1907
+  wohnort: Hättichhaus der Wagensteigstraße
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1907
+GUELTIG_BIS: 1926
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Else Engler
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1875-1959
+  profession: Porträt- und Landschaftsmalerin
+  aufenthalte_seit: 1906
+  aufenthaltsart: zahlreiche mehrmonatige Aufenthalte und zuletzt Zweitwohnsitz
+  wohnort: bei Ratsschreiber Gustav Albert
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1906
+GUELTIG_BIS: 1959
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karl Hauptmann
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1880-1947
+  profession: Maler
+  aufenthalte_zeit: 1940er Jahre
+  aufenthaltsart: regelmäßig mehrere Wochen in Hotels Krone und Hirschen
+  tätigkeit: malte die Umgebung
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1940
+GUELTIG_BIS: 1947
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Elisabeth Harbers
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1862-1951
+  profession: Landschaftsmalerin
+  aufenthalte: mehrere längere Aufenthalte in St. Märgen
+  bekanntheit: deutschlandweit verbreitete Kunstpostkarten mit Motiven aus St. Märgen und Umgebung
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1862
+GUELTIG_BIS: 1951
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ruth Schaumann
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1899-1975
+  profession: Dichterin und Künstlerin
+  aufenthalte: 1943-1946 lebte mit Familie in St. Märgen
+GUELTIG_AB: 1943
+GUELTIG_BIS: 1946
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ulrich Kottenrodt
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1906-1984
+  profession: Bildhauer
+  ansiedlung_jahr: 1971
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1971
+GUELTIG_BIS: 1984
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Roland Peter Litzenburger
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1917-1987
+  profession: Grafiker, Maler und Bildhauer
+  wohnort: ehemaliges Haus von Karl Biese
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1917
+GUELTIG_BIS: 1987
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Peter Dreher
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1932-2020
+  profession: Maler
+  ortsverbindung: lebte teilweise in St. Märgen
+  hauptwerk: Tag um Tag guter Tag (in St. Märgen geschaffen)
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1932
+GUELTIG_BIS: 2020
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sportler
+BEZEICHNUNG: Fabian Rießle
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1990
+  sportart: Nordische Kombination
+  auszeichnungen: Olympia-Medaillengewinner, Weltmeister im Team
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: sportler
+BEZEICHNUNG: Adelheid Morath
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1984
+  sportart: MTB Cross Country
+  auszeichnungen: 2-fache Olympiateilnehmerin
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Glashütte
+FACETTE: GESCHICHTE | LAGE
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  vorherige_gemeinde: Hinterstrass (mit Wildgutach)
+  eingemendung_jahr: 1936
+  charakteristika: Weiler, erwähnenswert als Ortsteil
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Thurner
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  charakteristika: Weiler, erwähnenswert als Ortsteil
+  erste_urkundliche_erwaehnung: 1111
+  urspruenglicher_name: Bernhaupten
+  beschreibung: erste Ansiedlung an diesem Ort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schweighöfe
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  charakteristika: Weiler, erwähnenswert als Ortsteil
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: geislicher
+BEZEICHNUNG: Bruno von Haigerloch-Wiesneck
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  titel: Graf, Kanzler von Heinrich V., Straßburger Dompropst
+  leistung: gründete 1115-1118 das Augustiner-Chorherren-Stift Maria-Zell
+  benannt_nach: Gründer des Klosters St. Märgen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: gemeinde_geschichte
+FACETTE: POLITIK | GESCHICHTE | INFRA
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  bürgerbeteiligung_schulbau_1788: erste gemeindeeigene Schulhaus im Holzschlag
+  schulneubau_1838: Schulgebäude in der Dorfmitte
+  verwaltungsgebaeude_1841: Bürgerdienfthaus mit Dienstzimmer, Spritzenremise und Arrestzelle
+  schulneubau_1962: heutige Schule
+  busverbindung_1912: erste regelmäßige Busverbindung nach Kirchzarten (Motorwagengesellschaft Sankt Märgen)
+  elektrifizierung_1919: Elektrifizierung des Dorfkerns
+  eingemendung_1936: Eingemeindung der Gemeinde Hinterstrass
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gemeinderat
+FACETTE: POLITIK | INFRA
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  mitgliederzahl: 10
+  wahlmodus: Mehrheitswahl
+  wahlmodus_gueltig_ab: 2024
+  wahlmodus_grund: kein oder nur ein Wahlvorschlag eingereicht
+  wahlbeteiligung_2024: 76.7
+  wahlbeteiligung_2019: 71.3
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Manfred Kreutz
+FACETTE: POLITIK | INFRA
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  wahl_jahr: 2013
+  wahl_stimmanteil: 79.0
+  wiederwahl_jahr: 2021
+  wiederwahl_amtszeit_jahre: 8
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2013
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Erdeven
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: südliche Bretagne
+  partnerschaft_seit: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: straße_wanderweg
+BEZEICHNUNG: Deutsche Uhrenstraße
+FACETTE: FREIZEIT | LAGE
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Themenstraße / -weg mit kulturhistorischem Schwerpunkt
+  st_maergen_lage: liegt auf dieser Route
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: glashuette_industrie
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://www.sankt-maergen.de/p/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_jahr: 1683
+  lage: Knobelwald (ehemals Herrschaft von Sankt Peter)
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1683
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: ort
+FACETTE: GESCHICHTE
+QUELLE: https://www.sankt-maergen.de/p/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  luftkurort_status_jahr: 1973
+  luftkurort_bestaetigung_1993: ja
+  luftkurort_bestaetigung_2000: ja
+  tourismus_beginn: ab 1860
+  uebernachtungen_pro_jahr: ca. 100000
+  uebernachtungen_genauigkeit: ca.
+  bettenkapazitaet: ca. 1000
+  bettenkapazitaet_genauigkeit: ca.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: wappen
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/St._Märgen | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: stilisierte Darstellung der Klosterkirche
+  farbgebung: in Rot auf Weiß (Silber)
+  bedeutung: Ausdruck der Bedeutung des Klosters für den Ort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88

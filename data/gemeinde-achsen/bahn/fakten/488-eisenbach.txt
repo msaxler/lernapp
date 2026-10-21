@@ -1,0 +1,1266 @@
+ID: 488-eisenbach/001
+ENTITÄT: ort
+BEZEICHNUNG: Eisenbach (Hochschwarzwald)
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Osten des Landkreises Breisgau-Hochschwarzwald, Baden-Württemberg
+  hoehenlage_min: 800
+  hoehenlage_max: 1130
+  hoehenlage_einheit: m ü. NN
+  liegt_im: Bregtal, Quellgebiet der Donau
+  ist_luftkurort: true
+  praesident_status: true
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 488-eisenbach/002
+ENTITÄT: ort
+BEZEICHNUNG: Eisenbach (Hochschwarzwald)
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Eisenbach_(Hochschwarzwald) | Wikipedia
+EIGENSCHAFTEN:
+  namensherkunft: Brauneisenstein und Pyrolusit, abgebaut ab 1478
+  bergbau_substanz: Brauneisenstein und Pyrolusit
+  bergbau_zeitraum: 1478-1942
+  verwendung_pyrolusit: Herstellung von farblosem Schwarzwaldglas (vorher grünliches Waldglas)
+  handwerk_18_jahrhundert: Uhrmacherei
+  industrie_19_jahrhundert: Uhrmacherei als wichtige Industrie
+  heutige_industrie: Feinmechanik, Präzisionsdrehteile, Getriebe, Armaturen
+  bezeichnung_heute: Gear Valley
+GUELTIG_AB: 1478
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 488-eisenbach/003
+ENTITÄT: ort
+BEZEICHNUNG: Eisenbach (Hochschwarzwald)
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.eisenbach.de/pb/374918.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristikum: Ursprung patentierter Erfindungen
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 488-eisenbach/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Eisenbach (Hauptort)
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1100
+  hoehenlage_min: 940
+  hoehenlage_max: 1058
+  hoehenlage_einheit: m ü. NN
+  betten: 350
+  siedlungsform: lang gezogene Siedlung Tal (Ober- und Untertal)
+  umgebung: umrahmt von Tannenwäldern
+  ist_luftkurort: true
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 488-eisenbach/005
+ENTITÄT: ortsteil
+BEZEICHNUNG: Eisenbach (Hauptort)
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geschichte: alte Eisenbergbau- und Uhrmachergemeinde
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 488-eisenbach/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bubenbach
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Bubenbach
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 330
+  hoehenlage_min: 871
+  hoehenlage_max: 1033
+  hoehenlage_einheit: m ü. NN
+  betten: 110
+  lage: Idyllische Lage
+  ortskern_charakteristik: typische Schwarzwaldhäuser
+  besonderheit: geologische und botanische Raritäten (seltene Orchideen-Arten)
+  is_luftkurort: true
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 488-eisenbach/007
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bubenbach
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Bubenbach
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: ehemaliges Glasbläserdorf
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 488-eisenbach/008
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oberbränd
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Oberbränd
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 550
+  hoehenlage_min: 860
+  hoehenlage_max: 1056
+  hoehenlage_einheit: m ü. NN
+  betten: 110
+  siedlungsform: lang gestreckte Siedlung
+  lage: reizvolle landschaftliche Lage, sonnenreich
+  besonderheit: Alpensicht
+  umgebung: großes angrenzendes Waldgebiet (Klosterwald)
+  ist_luftkurort: true
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 488-eisenbach/009
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oberbränd
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Oberbränd
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: ehemalige Köhler- und Uhrmachergemeinde
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 488-eisenbach/010
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schollach
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Schollach
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 270
+  hoehenlage_min: 800
+  hoehenlage_max: 1130
+  hoehenlage_einheit: m ü. NN
+  betten: 130
+  flaeche: 2000
+  flaeche_einheit: ha
+  ist_groesster_teilort: true
+  charakteristik: forst- und landwirtschaftlicher Charakter
+  denkmaeler: alte Schwarzwaldhöfe
+  gastronomie: ländliche Gastronomie
+  ist_luftkurort: true
+  hat_ortschaftsrat: true
+  hat_ortsvorsteher: true
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 488-eisenbach/011
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schollach
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Schollach
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter: 735
+  alter_einheit: Jahre
+  alter_berechnet_ab: 2026
+GUELTIG_AB: 1291
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 488-eisenbach/012
+ENTITÄT: skilift
+BEZEICHNUNG: erster Skilift der Welt
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Schollach
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Schollach
+  inbetriebnahme_jahr: 1908
+  antrieb: Wasserkraft angetrieben von einer Mühle
+  superlativ: erster Skilift der Welt
+  bedeutung_fuer_ort: Ursprung des Wintertourismus
+GUELTIG_AB: 1908
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 488-eisenbach/013
+ENTITÄT: skilift
+BEZEICHNUNG: Schneckenhof
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Schollach
+QUELLE: https://www.eisenbach.de/pb/3897251.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Ort, wo 1908 der erste Skilift der Welt offiziell in Betrieb genommen wurde
+GUELTIG_AB: 1908
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 488-eisenbach/014
+ENTITÄT: halle
+BEZEICHNUNG: Wolfwinkelhalle Eisenbach
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://www.eisenbach.de/pb/3897299.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  material: heimisches Holz
+  funktionen: Sporthalle, Festsaal, Leseraum, Heimatstube
+  festsaal_kapazitaet: 370
+  festsaal_kapazitaet_einheit: Personen
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 488-eisenbach/015
+ENTITÄT: halle
+BEZEICHNUNG: Wolfwinkelhalle Eisenbach
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://www.eisenbach.de/pb/3965547.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung_fuer_ort: prägendes Bauwerk aus heimischem Holz mit kulturellem und sportlichem Zweck
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 488-eisenbach/016
+ENTITÄT: heimatstube
+BEZEICHNUNG: Heimatstube Wolfwinkelhalle
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://www.eisenbach.de/pb/3897299.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sammlung_uhren: 100-110 antike Schwarzwalduhren
+  sammlung_mineralien: ca. 1200-1400 Mineralien aus aller Welt
+  sammlung_voegel: 160 heimische Vogelarten
+  voegel_sammler_stifter: Herman Bächle (1982)
+  mineralien_sammler_stifter: Helmut Feser
+  oeffnungszeiten: Montag bis Freitag 9:00-12:00 Uhr nach Anmeldung
+GUELTIG_AB: 1982
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 488-eisenbach/017
+ENTITÄT: sammlung
+BEZEICHNUNG: Schwarzwalduhr-Sammlung
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://www.eisenbach.de/pb/3897299.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: ca. 100
+  beschreibung: antike Schwarzwalduhren mit alten Werkzeugen zur Herstellung von Zahnrädern
+  bedeutung_fuer_ort: dokumentiert Geschichte der Schwarzwalduhr
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 488-eisenbach/018
+ENTITÄT: sammlung
+BEZEICHNUNG: Mineraliensammlung Heimatstube
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://www.eisenbach.de/pb/3897299.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: ca. 1200
+  herkunft: aus aller Welt
+  stifter: Helmut Feser
+  bedeutung_fuer_ort: prägende Sammlung in Heimatstube
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 488-eisenbach/019
+ENTITÄT: sammlung
+BEZEICHNUNG: Vogelsammlung Heimatstube
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://www.eisenbach.de/pb/3897299.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: 160
+  vogelarten: heimische Arten
+  stifter: Herman Bächle
+  stiftungsjahr: 1982
+  beschreibung: meisterhaft präparierte Vögel (von Kohlmeise bis Milan)
+GUELTIG_AB: 1982
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 488-eisenbach/020
+ENTITÄT: sportstadion
+BEZEICHNUNG: Sportstadion Höchstberg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bestandteile: Kunstrasenplatz und Leichtathletikanlagen
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 488-eisenbach/021
+ENTITÄT: wohnmobilstellplatz
+BEZEICHNUNG: Wohnmobilstellplatz Höchstberg
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehenlage: 1055
+  hoehenlage_einheit: m ü. NN
+  besonderheit: Ausblick auf die Alpen
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 488-eisenbach/022
+ENTITÄT: bogensportanlage
+BEZEICHNUNG: Bogensport-Halle
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://www.eisenbach.de/pb/3897251.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Hotel Bad
+  besonderheit: Möglichkeit mit dem Bogen zu schießen (Wettkampfplätze, Sommer- und Winterparcours oder Indoor-Bogensport-Halle)
+  ruf: überörtlich bekannt
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 488-eisenbach/023
+ENTITÄT: bogensportanlage
+BEZEICHNUNG: Jagd- und Feldbogen-Parcours
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zweck: für Bogenschützen
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 488-eisenbach/024
+ENTITÄT: skiloipe
+BEZEICHNUNG: Höchstspur
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 10
+  laenge_einheit: km
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 488-eisenbach/025
+ENTITÄT: skiloipe
+BEZEICHNUNG: Hirschenberg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Bubenbach
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 2
+  laenge_einheit: km
+  besonderheit: beleuchtet
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 488-eisenbach/026
+ENTITÄT: skiloipe
+BEZEICHNUNG: Höfespur
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Schollach
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 8.5
+  laenge_einheit: km
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 488-eisenbach/027
+ENTITÄT: beherbergung
+BEZEICHNUNG: Ferien auf dem Bauernhof
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Schollach
+QUELLE: https://www.eisenbach.de/pb/3897251.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angebot: ländliche Urlaubsform in Schollach
+  bedeutung_fuer_ort: Tourismusangebot
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 488-eisenbach/028
+ENTITÄT: bergwerk
+BEZEICHNUNG: Eisenbergbau
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Eisenbach_(Hochschwarzwald) | Wikipedia
+EIGENSCHAFTEN:
+  substanzen: Brauneisenstein und Pyrolusit
+  zeitraum: 1478-1942
+  unterbrechungen: ja
+  verwendung_pyrolusit: Herstellung von farblosem Schwarzwaldglas
+  bedeutung_fuer_ort: Namensgeber der Gemeinde
+GUELTIG_AB: 1478
+GUELTIG_BIS: 1942
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 488-eisenbach/029
+ENTITÄT: handwerk
+BEZEICHNUNG: Uhrmacherei
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Eisenbach_(Hochschwarzwald) | Wikipedia
+EIGENSCHAFTEN:
+  beginn: 18. Jahrhundert
+  entwicklung_19_jh: wichtige Industrie
+  bedeutung_fuer_ort: Geschichtlicher und wirtschaftlicher Schwerpunkt
+GUELTIG_AB: 1700
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 488-eisenbach/030
+ENTITÄT: betrieb
+BEZEICHNUNG: Franz Morat Group
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://de.wikipedia.org/wiki/Eisenbach_(Hochschwarzwald) | Wikipedia
+EIGENSCHAFTEN:
+  produkte: Zahnräder, Präzisionsdrehteile, Getriebe, Armaturen
+  unterbetriebe: Framo Morat, F. Morat
+  bedeutung_fuer_ort: Teil des Gear Valley Clusters
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 488-eisenbach/031
+ENTITÄT: betrieb
+BEZEICHNUNG: August Weckermann
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://de.wikipedia.org/wiki/Eisenbach_(Hochschwarzwald) | Wikipedia
+EIGENSCHAFTEN:
+  produkte: Zahnräder, Präzisionsdrehteile, Getriebe, Armaturen
+  bedeutung_fuer_ort: Teil des Gear Valley Clusters
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 488-eisenbach/032
+ENTITÄT: betrieb
+BEZEICHNUNG: Gleason
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://de.wikipedia.org/wiki/Eisenbach_(Hochschwarzwald) | Wikipedia
+EIGENSCHAFTEN:
+  produkte: Zahnräder, Präzisionsdrehteile, Getriebe, Armaturen
+  bedeutung_fuer_ort: Teil des Gear Valley Clusters
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 488-eisenbach/033
+ENTITÄT: betrieb
+BEZEICHNUNG: GSC Schwörer
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://de.wikipedia.org/wiki/Eisenbach_(Hochschwarzwald) | Wikipedia
+EIGENSCHAFTEN:
+  produkte: Zahnräder, Präzisionsdrehteile, Getriebe, Armaturen
+  bedeutung_fuer_ort: Teil des Gear Valley Clusters
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 488-eisenbach/034
+ENTITÄT: betrieb
+BEZEICHNUNG: IMS Gear
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://de.wikipedia.org/wiki/Eisenbach_(Hochschwarzwald) | Wikipedia
+EIGENSCHAFTEN:
+  produkte: Zahnräder, Präzisionsdrehteile, Getriebe, Armaturen
+  bedeutung_fuer_ort: Teil des Gear Valley Clusters
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 488-eisenbach/035
+ENTITÄT: betrieb
+BEZEICHNUNG: Tritschler Feinmechanik GmbH
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://de.wikipedia.org/wiki/Eisenbach_(Hochschwarzwald) | Wikipedia
+EIGENSCHAFTEN:
+  produkte: Zahnräder, Präzisionsdrehteile, Getriebe, Armaturen
+  bedeutung_fuer_ort: Teil des Gear Valley Clusters
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 488-eisenbach/036
+ENTITÄT: betrieb
+BEZEICHNUNG: Winterhalder Formtechnik
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://de.wikipedia.org/wiki/Eisenbach_(Hochschwarzwald) | Wikipedia
+EIGENSCHAFTEN:
+  produkte: Zahnräder, Präzisionsdrehteile, Getriebe, Armaturen
+  bedeutung_fuer_ort: Teil des Gear Valley Clusters
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 488-eisenbach/037
+ENTITÄT: betrieb
+BEZEICHNUNG: Zipfel GmbH Sägewerk und Holzhandlung
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Sägewerk und Holzhandlung
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 488-eisenbach/038
+ENTITÄT: behoerde
+BEZEICHNUNG: Evangelische Pfarrgemeinde Neustadt
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.eisenbach.de/pb/3897155.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  umfasst_gemeinde: Eisenbach mit Ortsteilen Eisenbach, Bubenbach, Oberbränd, Schollach sowie weitere Ortschaften
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 488-eisenbach/039
+ENTITÄT: behoerde
+BEZEICHNUNG: Katholisches Pfarramt St. Benedikt
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://www.eisenbach.de/pb/3897155.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  seelsorgeeinheit: Friedenweiler-Eisenbach
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 488-eisenbach/040
+ENTITÄT: stiftung
+BEZEICHNUNG: Eisenbacher Autorenstiftung
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://www.eisenbach.de/pb/3897323.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruender: Ulrich Beer
+  gruender_geburt: 1932
+  gruender_tod: 2011
+  zweck: Unterstützung von Projekten wie Dorfschreiber-Stipendium, künstlerische und musische Schulprojekte
+  foerderpreis: Ulrich-Beer-Förderpreis
+  foerderpreis_rhythmus: alle 5 Jahre
+  foerderpreis_zielgruppe: junge Künstler
+  mitbegruender: Anngrit Hacker
+  vorsitzende: Roswitha Beer
+  initiative: Dorfschreiber-Stipendium, Förderkreis Kreatives Eisenbach e.V.
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 488-eisenbach/041
+ENTITÄT: stipendium
+BEZEICHNUNG: Dorfschreiber-Stipendium
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://www.eisenbach.de/pb/3897323.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  dauer: 3 Monate
+  organismus: Förderkreis Kreatives Eisenbach e.V.
+  voraussetzung: Autor verbringt Zeit in Eisenbach, schreibt etwas Neues, sucht Kontakt mit örtlichen Institutionen
+  anforderung: Teilnahme an öffentlichen Lesungen
+  bedeutung_fuer_ort: Kulturinitiative, zieht Künstler an
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 488-eisenbach/042
+ENTITÄT: verein
+BEZEICHNUNG: Förderkreis Kreatives Eisenbach e.V.
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://www.eisenbach.de/pb/3897323.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: gemeinnütziger Verein
+  zweck: Durchführung des Dorfschreiber-Stipendiums
+  gruender_idee: Ulrich Beer, Anngrit Hacker
+  bedeutung_fuer_ort: kulturelle Initiative
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 488-eisenbach/043
+ENTITÄT: boerse
+BEZEICHNUNG: Internationale Antik-Uhrenbörse
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://de.wikipedia.org/wiki/Eisenbach_(Hochschwarzwald) | Wikipedia
+EIGENSCHAFTEN:
+  haeufigkeit_2019: zum 22. Mal
+  monat: April
+  jahr_letztes_vorkommen: 2019
+  bedeutung_fuer_ort: Tourismusevent bezogen auf Uhrmacherei-Tradition
+GUELTIG_AB: 1998
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 488-eisenbach/044
+ENTITÄT: uhr
+BEZEICHNUNG: Weltzeituhr (1865)
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://de.wikipedia.org/wiki/Eisenbach_(Hochschwarzwald) | Wikipedia
+EIGENSCHAFTEN:
+  hersteller: Johann Baptist Beha
+  standort: Hotel Bad
+  baujahr: 1865
+  bedeutung_fuer_ort: Sehenswürdigkeit, Zeugnis Schwarzwalduhr-Tradition
+GUELTIG_AB: 1865
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 488-eisenbach/045
+ENTITÄT: naturgebiet
+BEZEICHNUNG: Schollacher Moor
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Schollach
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Landschaftsschutzgebiet
+  schutzstatus_seit: 1939
+  charakteristika: botanische und geologische Bedeutung
+GUELTIG_AB: 1939
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 488-eisenbach/046
+ENTITÄT: bergspitze
+BEZEICHNUNG: Grundberg
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 1044
+  hoehe_einheit: m ü. NN
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 488-eisenbach/047
+ENTITÄT: bergspitze
+BEZEICHNUNG: Fohrenbühl
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 1033
+  hoehe_einheit: m ü. NN
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 488-eisenbach/048
+ENTITÄT: bergspitze
+BEZEICHNUNG: Kapf
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 1025
+  hoehe_einheit: m ü. NN
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 488-eisenbach/049
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karlheinz Rontke
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.eisenbach.de/pb/374918.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Bürgermeister
+  amtsantritt: 2020
+GUELTIG_AB: 2020
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 488-eisenbach/050
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Franz Morat (1911-1986)
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://www.eisenbach.de/pb/3896915.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Ingenieur, Unternehmer
+  geburt: 1911
+  geburt_datum_genau: 27. April 1911
+  tod: 1986
+  tod_datum_genau: 9. Oktober 1986
+  beschreibung: ausgebildeter Ingenieur, erfolgreicher Unternehmer, Stifter und Mäzen der Morat-Stiftung
+  unternehmen: Franz Morat KG
+  unternehmen_beteiligung: Gesellschafter und Seniorchef
+  unternehmen_amtszeit: über 50 Jahre
+  ehrenbuerger_seit: 1975
+  ehrenbuerger_anlass: Einweihung der Eisenbacher Wolfwinkelhalle
+  bedeutung_fuer_ort: größte Persönlichkeit der Wirtschaft, Förderer von Vereinen
+GUELTIG_AB: 1911
+GUELTIG_BIS: 1986
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 488-eisenbach/051
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Heinrich Auer (1884-1951)
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Schollach
+QUELLE: https://www.eisenbach.de/pb/3896915.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt: 1884
+  geburt_datum_genau: 29. April 1884
+  tod: 1951
+  tod_datum_genau: 15. Mai 1951
+  beruf: Bibliothekar
+  titel: Direktor der Caritasbibliothek des Deutschen Caritasverbands
+  weitere_funktion: Begründer und Leiter der Akademischen Vinzenz-Konferenz in Freiburg i. Br.
+  ehrenbuerger_schollach_seit: 1948
+  ehrenbuerger_schollach_verliehen_durch: Bürgermeister Alfons Schuler
+  ehrenbuerger_verleihung_datum: 15. August 1948
+  widerstand: Widerstand gegen NS-Regime
+  verhaftung: von Gestapo verhaftet
+  konzentrationslager: Dachau
+  befreiung: April 1945
+  bedeutung_fuer_ort: Hilfe bei Entlassung von Kriegsgefangenen, Unterstützung des Wiederaufbaus der Dorfkirche
+GUELTIG_AB: 1884
+GUELTIG_BIS: 1951
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 488-eisenbach/052
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Alois Straub (1911-1989)
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://www.eisenbach.de/pb/3896915.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt: 1911
+  geburt_datum_genau: 23. Juni 1911
+  tod: 1989
+  tod_datum_genau: 19. August 1989
+  beruf: Feinmechaniker
+  funktion: Bürgermeister
+  amtszeit_dauer: 26.5
+  amtszeit_einheit: Jahre
+  ehrenbuerger_seit: 1986
+  ehrenbuerger_anlass: anlässlich 75. Geburtstag
+  feuerwehr_funktion: Ehrenkommandant
+  musikverein_mitgliedschaft: über 50 Jahre im Musikverein Eisenbach
+  kreisrat: ja
+  schoeffe: Land- und Verwaltungsgericht
+  bundesverdienstkreuz: Bundesverdienstkreuz am Bande (Juni 1977)
+  bedeutung_fuer_ort: Wiederaufbau nach 2. Weltkrieg
+GUELTIG_AB: 1911
+GUELTIG_BIS: 1989
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 488-eisenbach/053
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ernst Huggle (1931-2001)
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://www.eisenbach.de/pb/3896915.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt: 1931
+  geburt_datum_genau: 19. Juni 1931
+  tod: 2001
+  tod_datum_genau: 12. Juli 2001
+  beruf: Schulrektor, Pädagoge
+  funktion: Schulleiter der Eisenbacher Lichtenbergschule
+  schulleiter_dauer: 20
+  schulleiter_einheit: Jahre
+  padelstelle_gesamtzeit: über 40 Jahre
+  vereinsfunktion: Vorsitz bei drei örtlichen Vereinen
+  mundartdichter: ja
+  heimatforscher: ja
+  ehrenbuerger_seit: 1995
+  ehrenbuerger_anlass: Verabschiedung als Schulleiter Lichtenbergschule
+  aktivitaeten_ruhestand: Organisator von Ausstellungen und Veranstaltungen, Schiedsrichter, Verfasser von Chroniken und Ortsprospekten
+  bedeutung_fuer_ort: Schule und Kultur
+GUELTIG_AB: 1931
+GUELTIG_BIS: 2001
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 488-eisenbach/054
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Siegfried Scharf (1939-2012)
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://www.eisenbach.de/pb/3896915.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt: 1939
+  geburt_datum_genau: 15. März 1939
+  tod: 2012
+  tod_datum_genau: 25. März 2012
+  beruf: Verwaltungsfachmann
+  funktion: Bürgermeister
+  amtszeit: 1980-2004
+  amtszeit_dauer: 24
+  amtszeit_einheit: Jahre
+  ehrenbuerger_seit: 2004
+  ehrenbuerger_anlass: Verabschiedung
+  auszeichnungen: Ehrennadel in Silber des Gemeindetags Baden-Württemberg, Staufer-Medaille des Ministerpräsidenten Erwin Teufel
+  vereinsaktivitaeten: Deutscher Schützenbund, Südbadischer Sportschützenverband, Gemeindetag Baden-Württemberg
+  weitere_funktionen: Geschäftsführer der Jugendmusikschule Hochschwarzwald, Mitglied im Kreistag (Landkreis Breisgau-Hochschwarzwald)
+  autor: Verfasser heimatverbundener Bücher
+  bedeutung_fuer_ort: Entwicklung der Gemeinde und Region
+GUELTIG_AB: 1939
+GUELTIG_BIS: 2012
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 488-eisenbach/055
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ulrich Beer (1932-2011)
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Oberbränd
+QUELLE: https://www.eisenbach.de/pb/3897323.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt: 1932
+  tod: 2011
+  tod_ort: Oberbränd
+  titel: Prof. h.c., Dr. phil.
+  beruf: Psychologe
+  stiftung: Gründer der Eisenbacher Autorenstiftung
+  initiative: Mitbegründer des Förderkreis Kreatives Eisenbach e.V.
+  bedeutung_fuer_ort: Kulturförderung, künstlerische und musische Schulprojekte
+GUELTIG_AB: 1932
+GUELTIG_BIS: 2011
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 488-eisenbach/056
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Baptist Beha (1815-1898)
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Oberbränd
+QUELLE: https://de.wikipedia.org/wiki/Eisenbach_(Hochschwarzwald) | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1815
+  tod: 1898
+  geburtsort: Oberbränd
+  beruf: Uhrmacher und Uhrenfabrikant
+  besonderheit: Weltzeituhr von 1865 im Hotel Bad
+  bedeutung_fuer_ort: Vertreter der Schwarzwalduhr-Tradition
+GUELTIG_AB: 1815
+GUELTIG_BIS: 1898
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 488-eisenbach/057
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Dionys Ganter (1798-1862)
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Bubenbach
+QUELLE: https://de.wikipedia.org/wiki/Eisenbach_(Hochschwarzwald) | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1798
+  geburt_jahr_genau: 1798
+  tod: 1862
+  geburtsort: Bubenbach
+  beruf: Maler
+  familie: Bruder von Nikolaus Ganter
+GUELTIG_AB: 1798
+GUELTIG_BIS: 1862
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 488-eisenbach/058
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Nikolaus Ganter (1809-1886)
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Bubenbach
+QUELLE: https://de.wikipedia.org/wiki/Eisenbach_(Hochschwarzwald) | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1809
+  tod: 1886
+  geburtsort: Bubenbach
+  berufe: Gastwirt, Maler, Heimatdichter
+  spezifikation: Schwarzwälder Heimatdichter
+  familie: Bruder von Dionys Ganter
+GUELTIG_AB: 1809
+GUELTIG_BIS: 1886
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 488-eisenbach/059
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Oskar Schwarz (1886-1981)
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Bubenbach
+QUELLE: https://de.wikipedia.org/wiki/Eisenbach_(Hochschwarzwald) | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1886
+  tod: 1981
+  geburtsort: Bubenbach
+  berufe: Drechsler, Abgeordneter
+  partei: SPD
+  funktion_detail: Abgeordneter der Bremer Bürgerschaft
+GUELTIG_AB: 1886
+GUELTIG_BIS: 1981
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 488-eisenbach/060
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Franz Armin Morat (1943-2026)
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://de.wikipedia.org/wiki/Eisenbach_(Hochschwarzwald) | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1943
+  tod: 2026
+  geburtsort: Eisenbach
+  berufe: Kunstsammler, Kunsthistoriker, Museumsgründer
+  vater: Franz Morat jun. (1911-1986)
+GUELTIG_AB: 1943
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 488-eisenbach/061
+ENTITÄT: gewerbegebiet
+BEZEICHNUNG: Gewerbegebiet Rütte II
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Oberbränd
+QUELLE: https://www.eisenbach.de/pb/3897203.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: geplant / in Ausweisung
+  beschreibung: Erweiterung in Richtung Osten zur Schaffung neuer gewerblicher Bauflächen
+  bedeutung_fuer_ort: Wirtschaftsentwicklung
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 488-eisenbach/062
+ENTITÄT: deutsche_uhrenstrasse
+BEZEICHNUNG: Deutsche Uhrenstraße
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://de.wikipedia.org/wiki/Eisenbach_(Hochschwarzwald) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Tourismusroute über Uhrmacher-Gemeinden
+  bedeutung_fuer_ort: Markierung der Uhrmacherei-Tradition
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 488-eisenbach/063
+ENTITÄT: cluster
+BEZEICHNUNG: Gear Valley
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://de.wikipedia.org/wiki/Eisenbach_(Hochschwarzwald) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Cluster aus Getriebe- und Zahnradindustrie
+  zusammensetzung: neun große Industrieunternehmen und zahlreiche kleinere
+  produkte: Zahnräder, Präzisionsdrehteile, Getriebe, Armaturen
+  beschaeftigte_2012: über 1500
+  einpendler_2012: 1100
+  hidden_champions: ja
+  bedeutung_fuer_ort: Wirtschaftsmotor, ungewöhnlich hoher Beschäftigungsgrad für Schwarzwald
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 488-eisenbach/064
+ENTITÄT: verwaltungsgemeinschaft
+BEZEICHNUNG: Verwaltungsgemeinschaft Titisee-Neustadt/Eisenbach
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.eisenbach.de/pb/3897071.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: vereinbarte Verwaltungsgemeinschaft
+  erfuellende_gemeinde: Titisee-Neustadt
+  aufgaben: Aufstellung Flächennutzungsplan, weitere Gemeindeaufgaben
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 488-eisenbach/065
+ENTITÄT: gemeinderaete
+BEZEICHNUNG: Gemeinderat Eisenbach (Hochschwarzwald)
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Eisenbach_(Hochschwarzwald) | Wikipedia
+EIGENSCHAFTEN:
+  anzahl_raete: 12
+  letzte_wahl: 9. Juni 2024
+  wahlbeteiligung_2024: 69.8
+  wahlbeteiligung_2019: 63.8
+  wahlbeteiligung_einheit: Prozent
+  frauen_anteil: 2
+  vorsitzender: Bürgermeister Karlheinz Rontke (stimmberechtigter Vorsitzender)
+GUELTIG_AB: 2024
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 488-eisenbach/066
+ENTITÄT: ortschaftsrat
+BEZEICHNUNG: Ortschaftsrat Schollach
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: Schollach
+QUELLE: https://www.eisenbach.de/pb/3897059.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl_mitglieder: 6
+  vorsitzender_titel: Ortsvorsteher
+  amtszeit: 2024-2029
+  ortsvorsteher: Lars Dorer
+  stellvertretende_ortsvorsteher: Felix Schuler, Andreas Winterhalder
+GUELTIG_AB: 2024
+GUELTIG_BIS: 2029
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 488-eisenbach/067
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Schollacher Moor
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Schollach
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Landschaftsschutzgebiet
+  schutzstatus_seit: 1939
+GUELTIG_AB: 1939
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 488-eisenbach/068
+ENTITÄT: gewaesser
+BEZEICHNUNG: Eisenbach
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Gewässer im Gemeindegebiet, Teil des Bregtals
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 488-eisenbach/069
+ENTITÄT: gewaesser
+BEZEICHNUNG: Brändbach
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Gewässer im Gemeindegebiet
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 488-eisenbach/070
+ENTITÄT: schule
+BEZEICHNUNG: Lichtenbergschule Eisenbach
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Grundschule
+  betreuung: Mittagsbetreuung
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 488-eisenbach/071
+ENTITÄT: kinderbetreuung
+BEZEICHNUNG: Kinderhaus Kunterbunt
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Eisenbach
+QUELLE: https://www.eisenbach.de/pb/374918.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Kindertageseinrichtung
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 488-eisenbach/072
+ENTITÄT: baerenhoehle
+BEZEICHNUNG: Jockenhof
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Denkmal im Gemeindegebiet
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 488-eisenbach/073
+ENTITÄT: radweg
+BEZEICHNUNG: Schwarzwald-Radweg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Radweg durch die Region
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 488-eisenbach/074
+ENTITÄT: radweg
+BEZEICHNUNG: Schwarzwald Panorama-Radweg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 282
+  laenge_einheit: km
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 488-eisenbach/075
+ENTITÄT: radweg
+BEZEICHNUNG: Drei-Welten-Radweg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 302
+  laenge_einheit: km
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 488-eisenbach/076
+ENTITÄT: wanderweg
+BEZEICHNUNG: Mittelweg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Wanderweg in der Region
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 488-eisenbach/077
+ENTITÄT: wanderweg
+BEZEICHNUNG: Hochschwarzwald-Jakobusweg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Pilgerweg im Hochschwarzwald
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 488-eisenbach/078
+ENTITÄT: wanderweg
+BEZEICHNUNG: Main-Neckar-Rhein-Weg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.eisenbach.de/pb/3896891.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 94
+  laenge_einheit: km
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

@@ -14814,6 +14814,238 @@ window.QA_DATEN = {
 "km_vom_vorigen": 3.1
 },
 {
+"slug": "482-glottertal",
+"name": "Glottertal",
+"lat": 48.04861,
+"lon": 7.955,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Urgraben des mittelalterlichen Silberbergbaus",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Glottertal",
+"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 10 km nordöstlich von Freiburg im Breisgau.",
+"frage": "Im Mittelalter legten Bergleute einen langen Hangkanal an, den Urgraben. Wozu diente er?",
+"optionen": [
+"Er bewässerte die Weinberge an den Hängen.",
+"Er lieferte Wasser für Hebevorrichtungen der Gruben.",
+"Er brachte Trinkwasser in die Stadt Freiburg.",
+"Er versorgte ein Heilbad mit Quellwasser."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bewässerung liegt nahe, denn Gräben versorgen auf dem Land meist Felder. Doch der Urgraben gehörte zum Bergbau: Im Hochmittelalter förderten Bergleute im Tal Blei, Silber und Eisenerze, und der Graben brachte Wasser für die Hebevorrichtungen der Gruben im Glottertal und im Nachbartal. Wer heute durchs Tal fährt, ahnt kaum das einstige Bergbaurevier; eine Variante des Glottertäler Entdeckerpfads zeigt den Urgraben als Technikdenkmal. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.glottertal.de/entdecken/das-glottertal/vielfaeltige-historie/bergbau-im-glottertal",
+"faktencheck": "korrigiert",
+"id": "482-glottertal/v0.9/1",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "historische Getreidemühle eines Hofbauern",
+"rang": 9,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Glottertal",
+"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 10 km nordöstlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Ausflugsziele gibt es in Glottertal?",
+"optionen": [
+"Eine Skisprungschanze",
+"Eine Sommerrodelbahn",
+"Eine alte Getreidemühle",
+"Ein Hochseilgarten"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Schanze, Rodelbahn oder Seilgarten liegen nahe, denn viele Schwarzwaldorte locken so Gäste. Glottertal hat die Hilzingermühle von 1621 im Oberglottertal, unterhalb der Landesstraße 112. Sie steht seit über 400 Jahren im Tal; besichtigen kann man sie nur von außen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.glottertal.de/entdecken/freizeit-aktiv",
+"faktencheck": "korrigiert",
+"id": "482-glottertal/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Gemeinde reicht bis auf den Kandel",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Glottertal",
+"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 10 km nordöstlich von Freiburg im Breisgau.",
+"frage": "Die Gemeinde Glottertal reicht vom Talboden weit hinauf. Bis an welchen Berg reicht sie?",
+"optionen": [
+"Sie reicht bis an den Belchen.",
+"Sie reicht bis an die Hornisgrinde.",
+"Sie reicht bis an den Hochblauen.",
+"Sie reicht bis an den Kandel."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Belchen, Hornisgrinde und Hochblauen sind bekannte Schwarzwaldberge, liegen aber weit von Glottertal entfernt. Glottertal reicht vom Talboden bis hinauf an den Kandel. So hat eine Gemeinde mit gut 3.200 Einwohnern einen Berg, an dem man Ski fahren und Gleitschirm fliegen kann. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.glottertal.de/entdecken/freizeit-aktiv",
+"faktencheck": "korrigiert",
+"id": "482-glottertal/v0.9/3",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Weinort mit eigener Winzergenossenschaft",
+"rang": 2,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Glottertal",
+"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 10 km nordöstlich von Freiburg im Breisgau.",
+"frage": "Welchen dieser vier Betriebe gibt es in Glottertal?",
+"optionen": [
+"Eine Winzergenossenschaft",
+"Eine Brauerei",
+"Eine Glashütte",
+"Eine Uhrenfabrik"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Glashütte und Uhrenfabrik liegen nahe, denn dafür ist der Schwarzwald bekannt. Glottertal aber hat eine Winzergenossenschaft, von Winzern gegründet. Anfangs wurde sie sehr skeptisch betrachtet, dann setzte sie sich als zukunftsweisend durch. Für die Gemeinde mit gut 3.200 Einwohnern wurde sie eine wesentliche Grundlage des Tourismus. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.glottertal.de/entdecken/das-glottertal/vielfaeltige-historie/ein-streifzug-durch-die-geschichte; OpenStreetMap",
+"faktencheck": "bestätigt",
+"id": "482-glottertal/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Fernsehklinik war echtes Sanatorium",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Glottertal",
+"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 10 km nordöstlich von Freiburg im Breisgau.",
+"frage": "Der Carlsbau wurde 1985 Kulisse der „Schwarzwaldklinik“. Wofür wurde er ursprünglich gebaut?",
+"optionen": [
+"Er entstand als Jagdschloss für adlige Gäste.",
+"Er entstand als Bau für ein Sanatorium.",
+"Er entstand als Weingut mit großer Kellerei.",
+"Er entstand als Spinnerei mit Arbeiterwohnungen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Jagdschloss liegt nahe, weil große Häuser im Wald oft Adelssitze waren. Doch der Carlsbau, benannt nach Carl Isenberg, entstand für das Sanatorium Glotterbad, prunkvoll mit Gesellschaftsräumen, Musik- und Billardzimmer. Die Fernsehserie löste später einen Besucheransturm aus. Das Bad prägte Glottertal über Jahrhunderte; heute arbeitet im Carlsbau die Thure-von-Uexküll-Klinik. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.glottertal.de/entdecken/das-glottertal/vielfaeltige-historie/das-glotterbad",
+"faktencheck": "korrigiert",
+"id": "482-glottertal/v0.9/5",
+"tisch": false
+},
+{
+"facette": "POLITIK",
+"charakteristikum": "Wahlbeteiligung deutlich über dem Land",
+"rang": 10,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Glottertal",
+"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 10 km nordöstlich von Freiburg im Breisgau.",
+"frage": "Wie hoch war Glottertals Wahlbeteiligung bei der Bundestagswahl 2025 im Vergleich zu Baden-Württemberg mit 83,4 Prozent?",
+"optionen": [
+"Mehr als 2 Punkte unter dem Land",
+"0 bis 2 Punkte unter dem Land",
+"Bis unter 4 Punkte über dem Land",
+"4 oder mehr Punkte über dem Land"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre, dass ein Dorf etwa so wählt wie das Land im Schnitt. In Glottertal gingen aber 89,1 Prozent wählen, 5,7 Punkte mehr als in Baden-Württemberg. Für eine Gemeinde mit gut 3.200 Einwohnern heißt das: Fast neun von zehn Wahlberechtigten gaben ihre Stimme ab. Stand: Bundestagswahl vom 23. Februar 2025. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23; Landeswert: Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes",
+"faktencheck": "bestätigt",
+"id": "482-glottertal/v0.9/7",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "viele Gasthöfe, entstanden aus Gerichtsplätzen",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Glottertal",
+"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 10 km nordöstlich von Freiburg im Breisgau.",
+"frage": "Glottertal hatte ungewöhnlich viele Gasthöfe. Woraus gingen die alten Gemeindewirtschaften ursprünglich hervor?",
+"optionen": [
+"Sie entstanden aus dem Platz der Gerichtssitzungen.",
+"Sie entstanden aus Raststationen für Fuhrleute.",
+"Sie entstanden aus Kantinen der Bergleute.",
+"Sie entstanden aus Wachstuben einer Zollstation."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Fuhrleute liegen nahe, denn viele Gasthöfe entstanden an Handelswegen. Hier aber tagte das Gericht unter Linden und auf dem Kirchplatz; dieser Platz wurde zur Gemeindewirtschaft erhoben, dem Wirtshaus der Gemeinde, meist mit Landwirtschaft oder Mühle, teils mit Rathaus und Gefängnis. Später kamen Badwirtschaft und Tourismus dazu; Adler, Hirschen und Engel wurden beliebte Treffpunkte Freiburger Studenten. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.glottertal.de/genuss-erleben/historie-gastwirtschaften",
+"faktencheck": "unsicher",
+"id": "482-glottertal/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Silbermünzschatz, gefunden 2024",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Glottertal",
+"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 10 km nordöstlich von Freiburg im Breisgau.",
+"frage": "2024 fand man im Glottertal 1.520 Silbermünzen aus der Zeit um 1320, je 0,3 Gramm schwer. Was bekam man damals ungefähr für eine?",
+"optionen": [
+"Man bekam dafür ein Schaf.",
+"Man bekam dafür zehn Brote.",
+"Man bekam dafür ein Brot.",
+"Man bekam dafür hundert Brote."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Silber klingt nach Reichtum, deshalb liegt ein Schaf nahe. Doch die einseitig geprägten Münzen waren klein: Eine reichte für ein Brot, der ganze Schatz für eine Schafherde. Sie stammen überwiegend aus Zofingen, Basel und Freiburg und lagen in der früheren Bergleutesiedlung in der Talsohle; wer sie verbarg, ist unbekannt. So lag unter dem heutigen Ferienort ein Stück mittelalterlicher Alltag. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.glottertal.de/entdecken/das-glottertal/vielfaeltige-historie/bergbau-im-glottertal",
+"faktencheck": "korrigiert",
+"id": "482-glottertal/v0.9/9",
+"tisch": false
+}
+],
+"anschluss_von": "468-denzlingen",
+"anschluss": [
+"Glottertal hat fast doppelt so viel Fläche wie Denzlingen.",
+"Die Landesstraße von Denzlingen führt durchs Glottertal nach St. Peter."
+],
+"anschluesse": {
+"468-denzlingen": [
+"Glottertal hat fast doppelt so viel Fläche wie Denzlingen.",
+"Die Landesstraße von Denzlingen führt durchs Glottertal nach St. Peter."
+]
+},
+"ags": "08315041",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Gut 3.200 Einwohner auf knapp 31 Quadratkilometern, 10 Kilometer nordöstlich von Freiburg; Gipfel wie Flaunser und Härterer Felsen."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 1112 im Rotulus Sanpetrinus des Klosters St. Peter erwähnt; 1970 aus vier Gemeinden zusammengeschlossen."
+},
+{
+"facette": "ALLTAG",
+"text": "Weinbau mit Winzergenossenschaft, Kliniken im alten Kurbad Glotterbad, dazu das Gewerbegebiet Engematten."
+},
+{
+"facette": "FREIZEIT",
+"text": "Panoramafreibad, Hilzinger Mühle, Eichberghalle, Zähringer-Wanderweg, Breisgauer Weinweg und Josef-Seger-Weg."
+},
+{
+"facette": "INFRA",
+"text": "Die Grundschule ist die Schurhammerschule; die Landesstraße 112 führt durchs Tal von Denzlingen nach St. Peter."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag die CDU mit 40,9 Prozent vorn, vor AfD und Grünen."
+}
+],
+"km_vom_vorigen": 5.8
+},
+{
 "slug": "65-march",
 "name": "March",
 "lat": 48.05611,
@@ -15026,11 +15258,8 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "468-denzlingen",
-"anschluss": [
-"March hat mehr Fläche als Denzlingen, aber weniger Einwohner.",
-"March und Denzlingen liegen beide 8 km von Freiburg."
-],
+"anschluss_von": "482-glottertal",
+"anschluss": [],
 "anschluesse": {
 "387-ebnet": [
 "Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, March zum Landkreis Breisgau-Hochschwarzwald.",
@@ -15132,10 +15361,6 @@ window.QA_DATEN = {
 "12-herbolzheim": [
 "Kreisgrenze: Herbolzheim gehört zum Landkreis Emmendingen, March zum Landkreis Breisgau-Hochschwarzwald.",
 "Herbolzheim hat rund 1.400 Einwohner mehr als March."
-],
-"468-denzlingen": [
-"March hat mehr Fläche als Denzlingen, aber weniger Einwohner.",
-"March und Denzlingen liegen beide 8 km von Freiburg."
 ]
 },
 "ags": "08315132",
@@ -15166,7 +15391,7 @@ window.QA_DATEN = {
 "text": "Bundestagswahl 2025: CDU vorn mit 31,4 Prozent, Wahlbeteiligung 84,5 Prozent, im Land 83,4 Prozent."
 }
 ],
-"km_vom_vorigen": 7.6
+"km_vom_vorigen": 12.9
 },
 {
 "slug": "437-umkirch",
@@ -22849,6 +23074,491 @@ window.QA_DATEN = {
 "km_vom_vorigen": 2.1
 },
 {
+"slug": "483-sankt-peter",
+"name": "St. Peter",
+"lat": 48.01472,
+"lon": 8.03306,
+"karten": [
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Drehort von Film und Fernsehen",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "St. Peter",
+"steckbrief": "St. Peter hat gut 2.700 Einwohner und liegt 14 km östlich von Freiburg im Breisgau.",
+"frage": "1950 wurde in St. Peter der Film „Schwarzwaldmädel“ gedreht, der den Ort in aller Munde brachte. Was war er laut Gemeinde?",
+"optionen": [
+"Der erste deutsche Breitwandfilm der Nachkriegszeit.",
+"Der erste deutsche Farbfilm der Nachkriegszeit.",
+"Der erste deutsche Stereotonfilm der Nachkriegszeit.",
+"Der erste deutsche 3D-Film der Nachkriegszeit."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Breitwand, Stereoton und 3D klingen nach Kinotechnik der Nachkriegszeit, darum liegen sie nahe. „Schwarzwaldmädel“ mit Sonja Ziemann und Paul Hörbiger gilt aber als der erste deutsche Farbfilm der Nachkriegszeit. Später wurde hier auch für die „Schwarzwaldklinik“ gedreht. Für ein Dorf mit gut 2.700 Einwohnern ist das viel Film- und Fernsehgeschichte. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.st-peter.eu/unser-dorf/kultur/filmdorf-st-peter.html; Deutsches Historisches Museum",
+"faktencheck": "korrigiert",
+"id": "483-sankt-peter/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Hauskloster und Grablege der Zähringer",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "St. Peter",
+"steckbrief": "Die Gemeinde mit gut 2.700 Einwohnern liegt 14 km östlich von Freiburg im Breisgau.",
+"frage": "Herzog Bertold II. von Zähringen gründete das Kloster St. Peter. Welchen Zweck nennt die Ortsgeschichte?",
+"optionen": [
+"Es sollte Reisende über das Gebirge beherbergen.",
+"Es sollte ein Gelübde nach einer Schlacht einlösen.",
+"Es sollte Hauskloster und Grablege der Familie sein.",
+"Es sollte der Herzogsfamilie als Sommersitz dienen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Gelübde liegt nahe, denn viele Klöster gehen auf solche Versprechen zurück. Die Ortsgeschichte nennt aber einen Familienzweck: Hauskloster und Grablege der Zähringer, jener Herzöge, die auch Freiburg gründeten. Bis heute ist die Geschichte des Dorfs eng mit dem Kloster verbunden. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.st-peter.eu/unser-dorf/geschichte.html",
+"faktencheck": "korrigiert",
+"id": "483-sankt-peter/v0.9/2",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "früheres Dorf der Uhrmacher",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "St. Peter",
+"steckbrief": "St. Peter liegt 14 km östlich von Freiburg im Breisgau und hat heute gut 2.700 Einwohner.",
+"frage": "Um 1806 lebten in St. Peter 51 Handwerker eines Fachs und 41 Familien, die mit ihrer Ware handelten. Was stellten die Handwerker her?",
+"optionen": [
+"Sie gossen Glocken.",
+"Sie schnitzten Holzlöffel.",
+"Sie banden Bürsten.",
+"Sie bauten Uhren."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Glockengießer, Löffelschnitzer und Bürstenbinder sind alte Handwerke, darum liegen sie nahe. In St. Peter aber bauten 51 Handwerker Uhren, und 41 Familien lebten vom Uhrenhandel. Bei damals 1.480 Einwohnern hing ein guter Teil des Dorfs an der Uhr. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.st-peter.eu/unser-dorf/geschichte.html",
+"faktencheck": "korrigiert",
+"id": "483-sankt-peter/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Hochplateau zwischen Thurner und Kandel",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "St. Peter",
+"steckbrief": "St. Peter hat gut 2.700 Einwohner und liegt 14 km östlich von Freiburg im Breisgau.",
+"frage": "Die Gemeinde beschreibt ihre Lage als Hochplateau. Zwischen welchen beiden Höhen liegt es?",
+"optionen": [
+"Das Plateau liegt zwischen Thurner und Kandel.",
+"Das Plateau liegt zwischen Feldberg und Belchen.",
+"Das Plateau liegt zwischen Schauinsland und Herzogenhorn.",
+"Das Plateau liegt zwischen Hornisgrinde und Merkur."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Feldberg und Belchen kennt fast jeder, darum liegen sie nahe. Die Gemeinde verortet ihr Hochplateau aber zwischen Thurner und Kandel; den Kandel nennt sie ihren Hausberg. Oben wechseln Wald und Grünland, und im Gemeindegebiet liegt das Quellgebiet der Glotter. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.st-peter.eu/unser-dorf/wandern.html",
+"faktencheck": "korrigiert",
+"id": "483-sankt-peter/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Bioenergiedorf mit Holz-Fernwärme",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "St. Peter",
+"steckbrief": "Die Gemeinde mit gut 2.700 Einwohnern liegt 14 km östlich von Freiburg im Breisgau.",
+"frage": "St. Peter hat ein Fernwärmenetz. Womit wird seine Wärme überwiegend erzeugt?",
+"optionen": [
+"Die Wärme kommt überwiegend aus Erdgas.",
+"Die Wärme kommt überwiegend aus Holzhackschnitzeln.",
+"Die Wärme kommt überwiegend aus Heizöl.",
+"Die Wärme kommt überwiegend aus Erdwärmebohrungen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Erdgas und Heizöl liegen nahe, weil viele Wärmenetze damit laufen. St. Peter ist aber Bioenergiedorf und befeuert sein Netz vor allem mit Holzhackschnitzeln; Ölkessel springen nur bei Spitzenlast oder im Notfall ein. Dazu kommen Photovoltaik, Solarwärme, Wind- und Wasserkraft. Holz gibt es genug: Wald bedeckt fast die Hälfte der Gemarkung. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.st-peter.eu/bioenergiedorf.html; Bürgerenergie St. Peter eG",
+"faktencheck": "korrigiert",
+"id": "483-sankt-peter/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Barockkirche als Wahrzeichen des Dorfs",
+"rang": 5,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "St. Peter",
+"steckbrief": "St. Peter hat gut 2.700 Einwohner und liegt 14 km östlich von Freiburg im Breisgau.",
+"frage": "Es geht um die Pfarrkirche St. Peter und Paul. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die heutige Pfarrkirche wurde im gotischen Stil errichtet.",
+"Ein Baumeister aus Vorarlberg plante Kirche und Bibliothek.",
+"Ein Klosterbildhauer schuf Putti und Chorgestühl der Kirche."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gotik liegt nahe, denn die Vorgängerkirche hatte eine gotische Fassade. Der heutige Bau ist aber barock: Peter Thumb aus Vorarlberg plante ihn, Matthias Faller schuf Putti und Chorgestühl, goldverzierte Statuen zeigen die Herzöge von Zähringen. Kirche und Bibliothek gelten laut Gemeinde als grandiose Zeugnisse des Barock und Rokoko. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.st-peter.eu/unser-dorf/pfarrkirche.html",
+"faktencheck": "korrigiert",
+"id": "483-sankt-peter/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "große Gemarkung, wenig Einwohner",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "St. Peter",
+"steckbrief": "Die Gemeinde mit gut 2.700 Einwohnern liegt auf gut 700 Metern Höhe, 14 km östlich von Freiburg im Breisgau.",
+"frage": "Wie groß ist die Gemarkung von St. Peter?",
+"optionen": [
+"unter 10 km²",
+"10 bis unter 20 km²",
+"20 bis unter 30 km²",
+"30 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei gut 2.700 Einwohnern schätzt man eine kleine Gemarkung, das liegt nahe. St. Peter misst aber 35,93 km²; nur ein kleiner Teil ist bebaut, den Großteil teilen sich fast gleich Wald und Landwirtschaft. Mit 76 Einwohnern je km² ist die Gemeinde dünn besiedelt. Richtig war 4.",
+"quelle": "Wikidata P2046 (Fläche); Wikidata P1082, Stand 2025-12-31 (Einwohner); Gemeinde-Webseite, www.st-peter.eu/buergerservice/buergerinformationen/finanzen.html (Flächennutzung)",
+"faktencheck": "bestätigt",
+"id": "483-sankt-peter/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Hallenbad trotz 2.700 Einwohnern",
+"rang": 3,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "St. Peter",
+"steckbrief": "St. Peter hat gut 2.700 Einwohner und liegt 14 km östlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge gibt es in St. Peter?",
+"optionen": [
+"ein Bahnhof",
+"eine Brauerei",
+"ein Hallenbad",
+"eine Klinik"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Klinik liegt nahe, denn St. Peter ist staatlich anerkannter Kurort. Das Dorf hat aber ein eigenes Hallenbad, das ElzmattenBad. Für eine Gemeinde mit gut 2.700 Einwohnern ist ein eigenes Hallenbad viel. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.st-peter.eu/aktivitaeten/hallenbad-st-peter.html; OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "483-sankt-peter/v0.9/8",
+"tisch": false
+}
+],
+"anschluss_von": "71-stegen",
+"anschluss": [
+"St. Peter hat weniger Einwohner als Stegen, aber mehr Fläche.",
+"Stegen hatte 2025 eine höhere Wahlbeteiligung als St. Peter."
+],
+"anschluesse": {
+"71-stegen": [
+"St. Peter hat weniger Einwohner als Stegen, aber mehr Fläche.",
+"Stegen hatte 2025 eine höhere Wahlbeteiligung als St. Peter."
+]
+},
+"ags": "08315095",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Gut 2.700 Einwohner auf 36 km²; Hochplateau zwischen Thurner und Kandel, gut 700 Meter hoch, im Naturpark Südschwarzwald."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Kloster 1093 von den Zähringern gegründet, Abtei bis 1806, danach gehörte St. Peter zu Baden."
+},
+{
+"facette": "ALLTAG",
+"text": "Staatlich anerkannter Kurort, 150 Gewerbebetriebe, zwei Sägewerke, eine Mühle seit 1832 und ein Bauernmarkt im Klosterhof."
+},
+{
+"facette": "FREIZEIT",
+"text": "Hallenbad, Rokoko-Bibliothek, Wallfahrtskirche Maria Lindenberg, Zähringer-Wanderweg, Jakobusweg, Wichtelweg; Drehort von „Schwarzwaldmädel“ und „Schwarzwaldklinik“."
+},
+{
+"facette": "INFRA",
+"text": "Bioenergiedorf mit Holz-Fernwärme; Partnergemeinden Ebersmünster im Elsass und Schmölln-Putzkau in Sachsen; Kennzeichen FR."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU vorn mit 34,3 Prozent, Grüne 20,3; Wahlbeteiligung 86,8 Prozent, über dem Landeswert."
+}
+],
+"km_vom_vorigen": 6.3
+},
+{
+"slug": "484-sankt-maergen",
+"name": "St. Märgen",
+"lat": 48.00833,
+"lon": 8.09361,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Marienname aus einer mitgebrachten Madonna",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "St. Märgen",
+"steckbrief": "Knapp 2.000 Einwohner, 18 km östlich von Freiburg im Breisgau.",
+"frage": "Wer oder was steckt im Namen St. Märgen?",
+"optionen": [
+"Der Name meint die Gottesmutter Maria.",
+"Der Name meint die heilige Margareta.",
+"Der Name kommt vom Flächenmaß Morgen.",
+"Der Name kommt vom Mergel im Boden."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Margareta liegt nahe, denn „Märgen“ klingt wie eine Koseform von Margarete. Doch Chorherren aus Toul in Lothringen brachten eine sitzende Madonna mit; ihr Kloster hieß Cella Sanctae Mariae. Über Mariazell, Sankt Marien und Sankt Merjen wurde daraus St. Märgen. Wer hier durchfährt, fährt also durch ein Marienzell: Der Ort trägt Kloster und Madonna im Namen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.sankt-maergen.de/p/geschichte",
+"faktencheck": "bestätigt",
+"id": "484-sankt-maergen/v0.9/1",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Loipe aus Vereinsbeiträgen auf der Höhe",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "St. Märgen",
+"steckbrief": "Knapp 2.000 Einwohner, 18 km östlich von Freiburg im Breisgau.",
+"frage": "In St. Märgen wurde 1972 der Club Thurnerspur gegründet. Wie wurde seine Loipe angelegt und unterhalten?",
+"optionen": [
+"Ein Hotelier legte sie auf eigene Kosten an.",
+"Ein Verein bezahlte sie aus Mitgliedsbeiträgen.",
+"Die Bundeswehr spurte sie als Übungsstrecke.",
+"Eine Skischule betrieb sie gegen Eintrittsgeld."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Hotelier liegt nahe, denn in Ferienorten spuren oft Gastgeber die Loipen für ihre Gäste. In St. Märgen aber gründete sich 1972 der Club Thurnerspur und legte seine Loipe aus Mitgliedsbeiträgen an; sie gilt als erste so angelegte und unterhaltene Loipe im Schwarzwald. Für ein Dorf mit knapp 2.000 Einwohnern ist ein eigener Langlauf-Club mit eigener Loipe viel. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.sankt-maergen.de/p/geschichte",
+"faktencheck": "korrigiert",
+"id": "484-sankt-maergen/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "halbes Dorf auf verstreuten Höfen",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "St. Märgen",
+"steckbrief": "Knapp 2.000 Einwohner, 18 km östlich von Freiburg im Breisgau.",
+"frage": "Welcher Anteil der Einwohner von St. Märgen lebt im geschlossenen Ortskern?",
+"optionen": [
+"Etwa ein Zehntel lebt im Ortskern.",
+"Etwa ein Viertel lebt im Ortskern.",
+"Etwa die Hälfte lebt im Ortskern.",
+"Etwa drei Viertel leben im Ortskern."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Drei Viertel liegt nahe, denn wer durch den geschlossenen Ortskern fährt, hält ihn für das ganze Dorf. Doch dort wohnt nur etwa die Hälfte; die anderen leben in Hofgruppen und Einzelhöfen, über das ganze Gemeindegebiet verstreut. Bei 59 Einwohnern je Quadratkilometer sieht man das beim Vorbeifahren: viele einzelne Höfe statt einer geschlossenen Siedlung. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/St._Märgen",
+"faktencheck": "unsicher",
+"id": "484-sankt-maergen/v0.9/3",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "eigene Pferdespielart: Sankt Märgener Fuchs",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "St. Märgen",
+"steckbrief": "Knapp 2.000 Einwohner, 18 km östlich von Freiburg im Breisgau.",
+"frage": "Eine Tierrasse trägt auch den Namen St. Märgens. Welche?",
+"optionen": [
+"Ein Rind heißt auch Sankt Märgener Schecke.",
+"Eine Ziege heißt auch Sankt Märgener Bergziege.",
+"Ein Huhn heißt auch Sankt Märgener Sperber.",
+"Ein Pferd heißt auch Sankt Märgener Fuchs."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Rind liegt nahe, denn der Schwarzwald ist für eigene Rinderrassen bekannt. Doch „Sankt Märgener Fuchs“ ist ein Name des Schwarzwälder Kaltbluts, eines schweren Arbeitspferds; „Fuchs“ meint das rotbraune Fell. Die Schwarzwälder Pferdezuchtgenossenschaft wurde 1896 in St. Märgen gegründet. Für ein Dorf mit knapp 2.000 Einwohnern ist eine Pferderasse, die seinen Namen trägt, ein ungewöhnliches Markenzeichen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.sankt-maergen.de/p/geschichte",
+"faktencheck": "korrigiert",
+"id": "484-sankt-maergen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Husserls Ferien- und Arbeitsort",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "St. Märgen",
+"steckbrief": "Knapp 2.000 Einwohner, 18 km östlich von Freiburg im Breisgau.",
+"frage": "Der Philosoph Edmund Husserl war mit St. Märgen verbunden. In welcher Weise?",
+"optionen": [
+"Er erholte und arbeitete dort in Semesterferien.",
+"Er unterrichtete einige Jahre an der Dorfschule.",
+"Er lebte ganzjährig auf einem Hof dort.",
+"Er wurde dort geboren und wuchs dort auf."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Leben auf einem Hof liegt nahe, denn viele Gelehrte suchten die Ruhe auf dem Land. Doch Husserl, Professor der Philosophie in Freiburg, kam in den Semesterferien nach St. Märgen, um sich zu erholen und zu arbeiten. Geboren war er in Mähren. Für ein Höhendorf mit knapp 2.000 Einwohnern ist das ein berühmter Gast. Richtig war 1.",
+"quelle": "Ingarden-Archiv der Jagiellonen-Universität, ingarden.archive.uj.edu.pl; Wikipedia, de.wikipedia.org/wiki/St._Märgen",
+"faktencheck": "korrigiert",
+"id": "484-sankt-maergen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "früh angebundenes Höhendorf",
+"rang": 9,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "St. Märgen",
+"steckbrief": "Knapp 2.000 Einwohner, 18 km östlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Eine örtliche Motorwagengesellschaft betrieb früher eine regelmäßige Buslinie.",
+"Der Dorfkern bekam Strom erst in der Wirtschaftswunderzeit.",
+"Eine Halle des Orts besteht aus heimischem Weißtannenholz."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Spät klingt plausibel, weil abgelegene Höhendörfer mit verstreuten Höfen oft lange auf Leitungen warteten. Doch der Dorfkern von St. Märgen wurde schon kurz nach dem Ersten Weltkrieg elektrifiziert, und schon davor fuhr ein Bus der örtlichen Motorwagengesellschaft nach Kirchzarten. Für ein Höhendorf mit knapp 2.000 Einwohnern war St. Märgen damit früh angebunden. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/St._Märgen",
+"faktencheck": "unsicher",
+"id": "484-sankt-maergen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "POLITIK",
+"charakteristikum": "Wahlbeteiligung weit über dem Land",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "St. Märgen",
+"steckbrief": "Knapp 2.000 Einwohner, 18 km östlich von Freiburg im Breisgau.",
+"frage": "Bei der Bundestagswahl 2025 lag die Wahlbeteiligung in Baden-Württemberg bei 83,4 Prozent. Wie hoch war sie in St. Märgen?",
+"optionen": [
+"unter 80 %",
+"80 bis unter 85 %",
+"85 bis unter 90 %",
+"90 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Landeswert liegt nahe, denn warum sollte ein Dorf anders wählen als das Land? Doch in St. Märgen gaben 89,8 Prozent der Wahlberechtigten ihre Stimme ab, gut sechs Punkte mehr als in Baden-Württemberg. Fast neun von zehn gingen also wählen; stärkste Partei wurde die CDU mit 44,1 Prozent. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "484-sankt-maergen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Klosterherberge, die Ortsgeschichte erzählt",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "St. Märgen",
+"steckbrief": "Knapp 2.000 Einwohner, 18 km östlich von Freiburg im Breisgau.",
+"frage": "Die Goldene Krone fällt im Ortsbild von St. Märgen auf. Wofür wurde sie ursprünglich gebaut?",
+"optionen": [
+"Sie diente als Zehntscheuer des Klosters.",
+"Sie diente als Herberge des Klosters.",
+"Sie diente als Jagdhaus eines Grafen.",
+"Sie diente als Amtshaus der Gemeinde."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Zehntscheuer, also ein Lager für Abgaben, liegt nahe, denn das Kloster ließ sie bauen. Doch Abt Peter Glunk ließ sie 1757 als Klosterherberge für die vielen Wallfahrer errichten. Später wurde sie ein Grandhotel für Gäste aus der Stadt; nach Jahren des Leerstands und Verfalls retteten sie Bürger aus dem Ort und der Umgebung. Am Haus lässt sich ablesen, wie aus dem Klosterdorf ein Gästeort wurde. Richtig war 2.",
+"quelle": "Denkmalpflege in Baden-Württemberg, journals.ub.uni-heidelberg.de/index.php/nbdpfbw/article/view/12055",
+"faktencheck": "korrigiert",
+"id": "484-sankt-maergen/v0.9/8",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "beleuchtete Rodelbahn im alten Hohlweg",
+"rang": 7,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "St. Märgen",
+"steckbrief": "Knapp 2.000 Einwohner, 18 km östlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge gibt es in St. Märgen?",
+"optionen": [
+"ein Hallenbad",
+"ein Bahnhof",
+"eine Brauerei",
+"eine Rodelbahn"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Hallenbad liegt nahe, denn viele Kurorte haben eins; in St. Märgen badet man aber im Naturfreibad. Die Rodelbahn ist beleuchtet und liegt in einem alten Hohlweg, im Natur-Erlebnis-Park Pfisterwald östlich des Ortskerns. Für ein Dorf auf knapp 900 Metern ist sie ein Stück Winteralltag, das man gleich neben dem Ort findet. Richtig war 4.",
+"quelle": "Landesportal, OpenStreetMap ZEUGEN; Wikipedia, de.wikipedia.org/wiki/St._Märgen; OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "484-sankt-maergen/v0.9/9",
+"tisch": false
+}
+],
+"anschluss_von": "483-sankt-peter",
+"anschluss": [
+"St. Märgen liegt gut 150 Meter höher als St. Peter.",
+"Die Klöster von St. Märgen und St. Peter waren Konkurrenten."
+],
+"anschluesse": {
+"483-sankt-peter": [
+"St. Märgen liegt gut 150 Meter höher als St. Peter.",
+"Die Klöster von St. Märgen und St. Peter waren Konkurrenten."
+]
+},
+"ags": "08315094",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Höhendorf auf knapp 900 Metern, 18 km östlich von Freiburg, mit Gipfeln wie Doldenbühl und Glasberg über 1.000 Metern."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Klosterdorf der Augustinerchorherren bis zur Auflösung durch Baden, danach eigene Gemeinde; im Gelände liegen mehrere alte Schanzen."
+},
+{
+"facette": "ALLTAG",
+"text": "Luftkurort mit etwa 100.000 Übernachtungen im Jahr und Heimat des Sankt Märgener Fuchses, eines Kaltblutpferds."
+},
+{
+"facette": "FREIZEIT",
+"text": "Klostermuseum, Rankmühle, Naturfreibad, Rodelbahn, Sparkassentrail und der Hochschwarzwald-Jakobusweg führen durch den Ort."
+},
+{
+"facette": "INFRA",
+"text": "Zwei Hallen, die Schwarzwaldhalle und die Weißtannenhalle; Partnergemeinde ist Erdeven in der Bretagne."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 holte die CDU 44,1 Prozent, die Wahlbeteiligung lag bei 89,8 Prozent."
+}
+],
+"km_vom_vorigen": 4.6
+},
+{
 "slug": "72-oberried",
 "name": "Oberried",
 "lat": 47.93194,
@@ -23061,11 +23771,8 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "71-stegen",
-"anschluss": [
-"Oberried hat zweieinhalbmal so viel Fläche wie Stegen, aber nicht einmal zwei Drittel der Einwohner.",
-"Stegen und Oberried gehören beide zum Gemeindeverwaltungsverband Dreisamtal."
-],
+"anschluss_von": "484-sankt-maergen",
+"anschluss": [],
 "anschluesse": {
 "387-ebnet": [
 "Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Oberried zum Landkreis Breisgau-Hochschwarzwald.",
@@ -23156,7 +23863,7 @@ window.QA_DATEN = {
 "text": "Bei der Bundestagswahl 2025 lag die CDU mit 42,4 Prozent klar vor SPD und Grünen."
 }
 ],
-"km_vom_vorigen": 5.8
+"km_vom_vorigen": 13.8
 },
 {
 "slug": "73-buchenbach",
@@ -24703,195 +25410,1354 @@ window.QA_DATEN = {
 "km_vom_vorigen": 5.5
 },
 {
+"slug": "485-feldberg",
+"name": "Feldberg",
+"lat": 47.85611,
+"lon": 8.11167,
+"karten": [
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Schinkenmuseum im Aussichtsturm",
+"rang": 3,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Feldberg",
+"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 25 km südöstlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge gibt es in Feldberg?",
+"optionen": [
+"ein Schinkenmuseum",
+"das Deutsche Uhrenmuseum",
+"das Freilichtmuseum Vogtsbauernhof",
+"das Augustinermuseum"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Richtig ist das Schinkenmuseum: Es widmet sich dem Schwarzwälder Schinken und steckt im Feldbergturm. Das Uhrenmuseum läge nahe, weil die Kuckucksuhr als typisch schwarzwäldisch gilt; es steht aber in Furtwangen. Für eine Gemeinde mit rund 2.000 Einwohnern ist ein eigenes Museum für eine regionale Spezialität bemerkenswert; im Turm gibt es Aussicht und Schinkengeschichte unter einem Dach. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.feldberg.org/leben-in/feldbergturm",
+"faktencheck": "korrigiert",
+"id": "485-feldberg/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Glashütte als Keimzelle des Orts",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Feldberg",
+"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 25 km südöstlich von Freiburg im Breisgau.",
+"frage": "Womit begann nach der Ortsgeschichte die Besiedlung des heutigen Gemeindegebiets von Feldberg?",
+"optionen": [
+"Bergleute gruben dort nach Silbererz.",
+"Eine Glashütte wurde dort gegründet.",
+"Eine Burg sicherte dort einen Handelsweg.",
+"Ein Gasthaus am Pass zog Siedler an."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Am Anfang stand 1634 eine Glashütte; aus ihr wurde der Ort Altglashütten, und sein Name erinnert bis heute daran. Silberbergbau läge nahe, weil er anderswo im Schwarzwald Siedlungen hervorbrachte. Falkau kam erst um 1650 dazu, als Siedlung für den Holzschlag. Heute steht in Altglashütten das Rathaus der Gemeinde. Richtig war 2.",
+"quelle": "LEO-BW, Ortslexikon Altglashütten und Falkau",
+"faktencheck": "korrigiert",
+"id": "485-feldberg/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Gletschersee unter dem Gipfel",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Feldberg",
+"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 25 km südöstlich von Freiburg im Breisgau.",
+"frage": "Unter dem Feldberg, dem höchsten Berg des Schwarzwalds, liegt der Feldsee. Wie ist er entstanden?",
+"optionen": [
+"Ein Bergsturz staute einen Bach auf.",
+"Er füllt einen alten Vulkankrater.",
+"Er ist ein gefluteter alter Steinbruch.",
+"Ein eiszeitlicher Gletscher formte sein Becken."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Den Feldsee formte der ehemalige Feldberg-Gletscher: Er ist ein Karsee, also ein See in einer Mulde, die das Eis in den Hang geschürft hat. Ein Bergsturz liegt nahe, weil über dem Wasser eine Felswand aufragt. Auch das Zastler Loch ist eine Form aus der Eiszeit. Die Landschaft rund um den Feldberg trägt bis heute ihre Spuren. Richtig war 4.",
+"quelle": "LGRB, lgrbwissen.lgrb-bw.de (Feldseekar); LEO-BW",
+"faktencheck": "korrigiert",
+"id": "485-feldberg/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "höchster Regelspur-Bahnhof Deutschlands",
+"rang": 1,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Feldberg",
+"steckbrief": "Gemeinde mit rund 2.000 Einwohnern im Hochschwarzwald, 25 km südöstlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge gibt es in Feldberg?",
+"optionen": [
+"Deutschlands höchstgelegenen Bahnhof an einer Regelspurstrecke",
+"Deutschlands höchsten Berg",
+"Deutschlands ältesten Skiclub",
+"Deutschlands höchstgelegenes Schloss"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Bahnhof Feldberg-Bärental ist Deutschlands höchstgelegener Bahnhof an einer Regelspurstrecke, also an Gleisen mit der üblichen Spurweite. Der älteste Skiclub läge nahe, weil am Feldberg der Skilauf in Mitteleuropa begann; gegründet wurde er aber 1892 im Nachbarort Todtnau. Für eine Gemeinde mit rund 2.000 Einwohnern sind zwei Bahnstationen viel: Neben Feldberg-Bärental hält der Zug auch in Altglashütten-Falkau. Richtig war 1.",
+"quelle": "LEO-BW, Ortslexikon Feldberg (Schwarzwald); OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "485-feldberg/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Falkau einst Fabrik- und Forschungsort",
+"rang": 6,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Feldberg",
+"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 25 km südöstlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Eine Falkauer Forschungsstation zog später an den Chiemsee.",
+"Eine Draht- und Schraubenfabrik in Falkau belieferte Uhrmacher.",
+"Der Ortsteil Bärental ging aus einem Holzschlag hervor."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gelogen war der Chiemsee: Die Station für Gewässerforschung aus Falkau zog nach Konstanz-Egg an den Bodensee und kam später zur Universität Konstanz. Die Fabrik klingt unwahrscheinlicher, weil man so hoch im Schwarzwald kaum Industrie erwartet; doch sie belieferte Uhrmachereien. Der Ortsteil Falkau war damit einmal Fabrik- und Forschungsort zugleich, obwohl die ganze Gemeinde heute nur rund 2.000 Einwohner hat. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Feldberg_(Schwarzwald)",
+"faktencheck": "unsicher",
+"id": "485-feldberg/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "weite, dünn besiedelte Höhengemeinde",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Feldberg",
+"steckbrief": "Gemeinde mit rund 2.000 Einwohnern im Hochschwarzwald, 25 km südöstlich von Freiburg im Breisgau.",
+"frage": "Wie groß ist die Fläche der Gemeinde Feldberg?",
+"optionen": [
+"unter 10 km²",
+"10 bis unter 20 km²",
+"20 bis unter 40 km²",
+"40 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Feldberg umfasst knapp 25 Quadratkilometer. Eine kleinere Spanne läge nahe, weil die Gemeinde nur rund 2.000 Einwohner hat. Doch zum Gemeindegebiet gehören mehrere Gipfel und Schutzgebiete. Im Schnitt leben auf einem Quadratkilometer nur 79 Menschen; Feldberg ist also eher weit als dicht. Richtig war 3.",
+"quelle": "Wikidata P2046; Einwohner Wikidata P1082, Stand 2025-12-31; Dichte berechnet aus Einwohner und Fläche",
+"faktencheck": "bestätigt",
+"id": "485-feldberg/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Sendeturm wurde Aussichtsturm",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Feldberg",
+"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 25 km südöstlich von Freiburg im Breisgau.",
+"frage": "Der Feldbergturm ist heute ein Ausflugsziel der Gemeinde. Wozu diente er, bevor Feldberg ihn übernahm?",
+"optionen": [
+"Er speicherte Trinkwasser für den Gipfel.",
+"Er war ein Rundfunkturm des Südwestrundfunks.",
+"Förster hielten von ihm aus Feuerwache.",
+"Er diente als Wachturm der Grenzpolizei."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Feldbergturm war ein Rundfunkturm des Südwestrundfunks; danach übernahm ihn die Gemeinde und öffnete ihn für Besucher. Ein Feuerwachturm liegt nahe, weil solche Türme oft über Waldgebieten stehen. Heute führt ein Aufzug hinauf zur Aussichtsplattform, von der man bei gutem Wetter Eiger, Mönch und Jungfrau, die Zugspitze und die Vogesen sieht. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.feldberg.org/leben-in/feldbergturm",
+"faktencheck": "korrigiert",
+"id": "485-feldberg/v0.9/8",
+"tisch": false
+}
+],
+"anschluss_von": "75-titisee-neustadt",
+"anschluss": [
+"Feldberg liegt gut 400 Meter höher als Titisee-Neustadt.",
+"Titisee-Neustadt hat gut sechsmal so viele Einwohner wie Feldberg."
+],
+"anschluesse": {
+"75-titisee-neustadt": [
+"Feldberg liegt gut 400 Meter höher als Titisee-Neustadt.",
+"Titisee-Neustadt hat gut sechsmal so viele Einwohner wie Feldberg."
+]
+},
+"ags": "08315037",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 2.000 Einwohner auf 1.277 Metern, knapp 25 Quadratkilometer rund um den Feldberg, 25 km südöstlich von Freiburg."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Ortsteile Altglashütten mit Rathaus, Falkau, Bärental und Feldberg-Ort; dazu Bismarckdenkmal und Kriegerdenkmal."
+},
+{
+"facette": "ALLTAG",
+"text": "Der Wintersport prägt den Ort: mehrere Ski- und Snowboardschulen, dazu das Leistungszentrum Herzogenhorn."
+},
+{
+"facette": "FREIZEIT",
+"text": "Feldbergturm, Schinken- und Schnapsmuseum, Haus der Natur, Feldsee, Naturschutzgebiet Rotmeer, Westweg und Schwarzwald-Radweg."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof Feldberg-Bärental und Haltepunkt Altglashütten-Falkau, Feldbergbahn zum Gipfel, Feldberghalle, Rehaklinik, Partnergemeinde La Clusaz."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU vorn mit 35,1 Prozent, Grüne knapp vor AfD, Wahlbeteiligung 82,3 Prozent."
+}
+],
+"km_vom_vorigen": 9.9
+},
+{
+"slug": "486-schluchsee",
+"name": "Schluchsee",
+"lat": 47.81944,
+"lon": 8.18083,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Glashütten-Geschichte von Aeule",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schluchsee",
+"steckbrief": "Gemeinde mit gut 2.600 Einwohnern, 31 km südöstlich von Freiburg im Breisgau.",
+"frage": "Ein Museum in Schluchsee erinnert an die Hütte von Aeule. Was geschah in dieser Hütte?",
+"optionen": [
+"Dort übernachteten Wanderer.",
+"Dort wurde Eisenerz geschmolzen.",
+"Dort wurde Käse hergestellt.",
+"Dort wurde Glas hergestellt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Heute denkt man bei „Hütte“ an Berghütte oder Sennhütte, im Bergbau an die Eisenhütte. Aeule hatte aber eine Glashütte. Ihre Geschichte zeigt das Kabinett an der Fischbacher Straße, zusammen mit Schwarzwälder Gebrauchsglas, das Monika und Horst Degen gesammelt haben. Hinter dem Ferienort am See steckt also auch ein Handwerk. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-schluchsee.de/freizeit/glasmuseum",
+"faktencheck": "korrigiert",
+"id": "486-schluchsee/v0.9/1",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Hallenbad trotz großem Badesee",
+"rang": 7,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Schluchsee",
+"steckbrief": "Schluchsee hat gut 2.600 Einwohner und liegt 31 km südöstlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge gibt es in der Gemeinde Schluchsee?",
+"optionen": [
+"ein Hallenbad",
+"eine Skisprungschanze",
+"ein Wildgehege",
+"eine Sternwarte"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer einen großen Badesee hat, braucht doch kein Hallenbad, könnte man meinen. Trotzdem hat Schluchsee eines, im Ortsteil Schönenbach, mit Saunabereich. Für eine Gemeinde mit gut 2.600 Einwohnern ist ein eigenes Hallenbad viel. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-schluchsee.de/freizeit/hallenbad-schoenenbach; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "486-schluchsee/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "größter Schwarzwaldsee, von Staumauer gestaut",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schluchsee",
+"steckbrief": "Gemeinde mit gut 2.600 Einwohnern, 31 km südöstlich von Freiburg im Breisgau.",
+"frage": "Der Schluchsee ist der größte See im Schwarzwald. Was hält sein Wasser heute zurück?",
+"optionen": [
+"Ein Bergsturz riegelt das Tal ab.",
+"Eine Staumauer staut das Wasser auf.",
+"Ein Lavastrom versperrt den Abfluss.",
+"Eine Kalksinter-Barriere versperrt den Abfluss."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein so großer, tiefer See wirkt wie ein Werk der Natur. Den Schluchsee aber staut eine Staumauer auf. Sie macht ihn zum Energiespeicher. Wer Schluchsee besucht, sieht also einen Wasserspeicher, der zugleich Badesee ist. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-schluchsee.de/schluchsee/schluchsee-in-zahlen",
+"faktencheck": "korrigiert",
+"id": "486-schluchsee/v0.9/3",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Rodel- und Spaßpark",
+"rang": 9,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Schluchsee",
+"steckbrief": "Schluchsee hat gut 2.600 Einwohner und liegt 31 km südöstlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Ausflugsziele findet man in Schluchsee?",
+"optionen": [
+"eine Brauerei",
+"ein Besucherbergwerk",
+"ein Rodel- und Spaßpark",
+"eine Tropfsteinhöhle"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Brauerei oder eine Höhle hätte gut in den Schwarzwald gepasst. Schluchsee hat stattdessen den Rodel- und Spaßpark an der Fischbacher Straße, bei dem es auch die Schläger für den Minigolfplatz gibt. Neben See und Wanderwegen ist er ein weiteres Ausflugsziel des Ferienorts. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-schluchsee.de/freizeit; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "486-schluchsee/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "einstiges Landgut für das Kloster",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schluchsee",
+"steckbrief": "Gemeinde mit gut 2.600 Einwohnern, 31 km südöstlich von Freiburg im Breisgau.",
+"frage": "Eine alte Urkunde berichtet von einer Schenkung des Landguts Schluchsee. Wer bekam es?",
+"optionen": [
+"Ein Ritter bekam es für Kriegsdienste.",
+"Die Bauern des Dorfes bekamen es gemeinsam.",
+"Ein Bischof bekam es für sein Bistum.",
+"Ein Kloster bekam es geschenkt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Landgut als Lohn für einen Ritter klingt nach Mittelalter wie aus dem Buch. Geschenkt wurde es aber dem Kloster St. Blasien, so berichtet es die Urkunde. Wer heute durch den Ferienort am See fährt, fährt durch Land, das einst an ein Kloster ging. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Schluchsee_(Gemeinde)",
+"faktencheck": "unsicher",
+"id": "486-schluchsee/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "drei Bahnhalte an der Dreiseenbahn",
+"rang": 6,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Schluchsee",
+"steckbrief": "Gemeinde mit gut 2.600 Einwohnern, 31 km südöstlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Bundesstraße verläuft am Nordufer des Sees.",
+"Die Dreiseenbahn endet am Haltepunkt Schluchsee.",
+"Die Dreiseenbahn hat Anschluss an die Höllentalbahn."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Hauptort am See wirkt wie die natürliche Endstation. Doch Schluchsee ist nur ein Haltepunkt. Die Dreiseenbahn aus Titisee endet in Seebrugg, einen weiteren Halt hat sie in Aha. Drei Bahnhalte sind für eine Gemeinde mit gut 2.600 Einwohnern viel, und über die Höllentalbahn geht es weiter nach Freiburg. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Schluchsee_(Gemeinde)",
+"faktencheck": "korrigiert",
+"id": "486-schluchsee/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "große Fläche, wenige Menschen",
+"rang": 10,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Schluchsee",
+"steckbrief": "Schluchsee hat gut 2.600 Einwohner und liegt 31 km südöstlich von Freiburg im Breisgau.",
+"frage": "Wie groß ist die Fläche der Gemeinde Schluchsee?",
+"optionen": [
+"unter 40 km²",
+"40 bis unter 80 km²",
+"80 bis unter 120 km²",
+"120 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei gut 2.600 Einwohnern liegt eine kleine Fläche nahe. Doch zur Gemeinde gehören mehrere Ortsteile und viel Wald; sie misst 69,43 km². Auf einem Quadratkilometer leben im Schnitt nur 38 Menschen, beim Vorbeifahren sieht man vor allem Wald und Wasser. Richtig war 2.",
+"quelle": "Wikidata P2046 (Fläche); Einwohner Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "486-schluchsee/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Wanderort des Jahres",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schluchsee",
+"steckbrief": "Gemeinde mit gut 2.600 Einwohnern, 31 km südöstlich von Freiburg im Breisgau.",
+"frage": "2005 bekam Schluchsee einen bundesweiten Titel „… des Jahres“. Wofür?",
+"optionen": [
+"Schluchsee wurde Deutschlands Wintersportort des Jahres.",
+"Schluchsee wurde Deutschlands Wassersportort des Jahres.",
+"Schluchsee wurde Deutschlands Wanderort des Jahres.",
+"Schluchsee wurde Deutschlands Fahrradort des Jahres."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem See mit Seglern und Badegästen liegt Wassersport nahe. Ausgezeichnet wurde Schluchsee aber als Deutschlands Wanderort des Jahres. Die Gemeinde hat ein großes Netz markierter Wanderwege, darunter den Seerundweg und den Premiumwanderweg Jägersteig. Für einen Ort mit gut 2.600 Einwohnern ist das ein Aushängeschild. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-schluchsee.de/freizeit; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "486-schluchsee/v0.9/8",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "heilklimatischer Kurort",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schluchsee",
+"steckbrief": "Gemeinde mit gut 2.600 Einwohnern, 31 km südöstlich von Freiburg im Breisgau.",
+"frage": "Schluchsee trägt den Titel Kurort. Worauf beruht er?",
+"optionen": [
+"Der Titel beruht auf dem heilsamen Klima.",
+"Der Titel beruht auf einer Thermalquelle.",
+"Der Titel beruht auf einem Moorvorkommen.",
+"Der Titel beruht auf einer Solequelle."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei „Kurort“ denken viele an Thermalwasser oder Sole. Schluchsee ist aber ein heilklimatischer Kurort: Die Kur setzt auf Luft und Klima der Höhenlage. Wald bedeckt den Großteil der Gemeindefläche. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-schluchsee.de/freizeit/tourismus",
+"faktencheck": "korrigiert",
+"id": "486-schluchsee/v0.9/9",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Segler im alten Schwarzwaldhof",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schluchsee",
+"steckbrief": "Gemeinde mit gut 2.600 Einwohnern, 31 km südöstlich von Freiburg im Breisgau.",
+"frage": "Geselliger Mittelpunkt des Segelvereins Schluchsee ist der „Seglerhof“. Was ist das für ein Gebäude?",
+"optionen": [
+"Es ist ein ausgemustertes Ausflugsschiff am Ufer.",
+"Es ist ein alter Schwarzwaldbauernhof.",
+"Es ist ein früheres Bahnhofsgebäude.",
+"Es ist ein moderner Neubau aus Holz."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei Seglern denkt man an ein Bootshaus mit Steg, also an einen Bau direkt am Wasser. Die Clubanlage liegt auch am Ufer, doch geselliger Mittelpunkt des Vereins ist ein alter Schwarzwaldbauernhof in Vorderaha. Segeln mitten im Schwarzwald, sogar mit Regatten: Das macht der Schluchsee möglich. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-schluchsee.de/buerger/vereine",
+"faktencheck": "korrigiert",
+"id": "486-schluchsee/v0.9/10",
+"tisch": false
+}
+],
+"anschluss_von": "485-feldberg",
+"anschluss": [
+"Schluchsee hat fast dreimal so viel Gemeindefläche wie Feldberg.",
+"Die Wahlbeteiligung 2025 war in Schluchsee höher als in Feldberg."
+],
+"anschluesse": {
+"485-feldberg": [
+"Schluchsee hat fast dreimal so viel Gemeindefläche wie Feldberg.",
+"Die Wahlbeteiligung 2025 war in Schluchsee höher als in Feldberg."
+]
+},
+"ags": "08315102",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Gut 2.600 Einwohner auf 69 km² im Naturpark Südschwarzwald, 31 km südöstlich von Freiburg; Schnepfhalde mit 1.298 Metern höchster Gipfel."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Die Ortsteile Blasiwald, Faulenfürst, Fischbach und Schönenbach kamen zwischen 1971 und 1974 dazu; die Kirche St. Nikolaus trägt Holzschindeln."
+},
+{
+"facette": "ALLTAG",
+"text": "Heilklimatischer Kurort mit etwa 60 landwirtschaftlichen Betrieben, rund 40 Vereinen und einem Biomasse-Fernheizwerk."
+},
+{
+"facette": "FREIZEIT",
+"text": "Badesee, Hallenbad in Schönenbach, Spaßpark, Glasmuseum, Segelverein; Jägersteig, Mittelweg, Seerundweg, etwa 160 km Wanderwege, 60 km Loipen."
+},
+{
+"facette": "INFRA",
+"text": "Dreiseenbahn mit Bahnhöfen Aha und Seebrugg und Haltepunkt Schluchsee; B 500 am Nordufer; Partnergemeinde Sevrier am Lac d'Annecy."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU 41 Prozent, Wahlbeteiligung 84,6 Prozent, etwas über dem Landeswert von 83,4 Prozent."
+}
+],
+"km_vom_vorigen": 6.6
+},
+{
+"slug": "487-lenzkirch",
+"name": "Lenzkirch",
+"lat": 47.86806,
+"lon": 8.205,
+"karten": [
+{
+"facette": "ALLTAG",
+"charakteristikum": "eigene Privatbrauerei im Ort",
+"rang": 7,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Lenzkirch",
+"steckbrief": "Gemeinde mit rund 5.100 Einwohnern, 30 km südöstlich von Freiburg im Breisgau.",
+"frage": "Welche dieser vier Dinge gibt es in Lenzkirch?",
+"optionen": [
+"eine Kurklinik",
+"ein Weingut",
+"eine Privatbrauerei",
+"eine Eissporthalle"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Kurklinik liegt nahe, weil Lenzkirch heilklimatischer Kurort ist, doch sie war erfunden. Es gibt aber die Brauerei Rogg, eine Privatbrauerei und einer der größeren Betriebe am Ort. Für eine Gemeinde mit rund 5.100 Einwohnern ist eine eigene Brauerei ein Stück Eigenständigkeit. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Lenzkirch; OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "487-lenzkirch/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "einst weltbekannte Uhrenfabrik",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lenzkirch",
+"steckbrief": "Gemeinde mit rund 5.100 Einwohnern, 30 km südöstlich von Freiburg im Breisgau.",
+"frage": "Im 19. Jahrhundert entstand in Lenzkirch eine große Fabrik. Was stellte sie her?",
+"optionen": [
+"Es fertigte Skier.",
+"Es baute Orgeln.",
+"Es schmiedete Messer.",
+"Es stellte Uhren her."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Skier liegen nahe, denn im Hochschwarzwald denkt man zuerst an Wintersport. Doch die 1851 gegründete Aktiengesellschaft für Uhrenfabrikation Lenzkirch baute Uhren, bekannt vor allem für feine Regulatoren. Sie galt als eines der bedeutendsten Uhrenunternehmen des Schwarzwalds. Heute gibt es sie längst nicht mehr. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Lenzkirch",
+"faktencheck": "korrigiert",
+"id": "487-lenzkirch/v0.9/2",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Freibad auf über 800 Metern",
+"rang": 9,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Lenzkirch",
+"steckbrief": "Gemeinde mit rund 5.100 Einwohnern, 30 km südöstlich von Freiburg im Breisgau.",
+"frage": "Welche dieser vier Dinge gibt es in Lenzkirch?",
+"optionen": [
+"ein Freibad",
+"ein Hallenbad",
+"eine Skisprungschanze",
+"ein Skimuseum"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Skisprungschanze liegt nahe, denn der Hochschwarzwald ist Wintersportland. Sie war aber erfunden, ebenso Hallenbad und Skimuseum. Lenzkirch hat ein öffentliches Freibad, das Gäste wie Einheimische nutzen. In einem Ort auf gut 800 Metern Höhe ist ein Freibad ein Bekenntnis zum kurzen Schwarzwaldsommer. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Lenzkirch; OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "487-lenzkirch/v0.9/3",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Spitzkehre der früheren Bahn",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lenzkirch",
+"steckbrief": "Gemeinde mit rund 5.100 Einwohnern, 30 km südöstlich von Freiburg im Breisgau.",
+"frage": "Früher fuhr eine Bahn nach Lenzkirch. Was war an der Strecke dort besonders?",
+"optionen": [
+"Sie fuhr als Zahnradbahn bergauf.",
+"Die Züge wechselten in Lenzkirch die Fahrtrichtung.",
+"Sie führte weiter bis in die Schweiz.",
+"Die Strecke endete in Lenzkirch."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Zahnradbahn liegt nahe, weil es im Schwarzwald steil bergauf geht. Die heute stillgelegte Strecke von Kappel-Gutachbrücke nach Bonndorf hatte aber in Lenzkirch eine Spitzkehre. Dabei fährt ein Zug in ein Gleis hinein und in Gegenrichtung wieder hinaus. Für Lenzkirch hieß das: Die Züge fuhren nicht einfach durch, sie wendeten im Ort. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Lenzkirch",
+"faktencheck": "unsicher",
+"id": "487-lenzkirch/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Moor aus einem Eiszeitsee",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lenzkirch",
+"steckbrief": "Gemeinde mit rund 5.100 Einwohnern, 30 km südöstlich von Freiburg im Breisgau.",
+"frage": "Im Gemeindegebiet liegt das Urseemoor, heute unter Naturschutz. Wie ist es entstanden?",
+"optionen": [
+"Mönche legten dort einst einen Fischteich an.",
+"Ein Erdrutsch staute einen Bach auf.",
+"Ein Gletschersee der Eiszeit ist fast verlandet.",
+"Ein Bergwerksstollen sackte ein und lief voll."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Fischteich der Mönche liegt nahe, weil Klöster oft Weiher anlegten. Das Urseemoor aber ist ein eiszeitlicher Gletschersee, der fast ganz verlandet ist. Verlanden heißt: Pflanzen und Schlamm füllen ein Gewässer langsam auf, bis Moor entsteht. Damit trägt Lenzkirch ein Stück Eiszeit in seiner Landschaft, heute als Naturdenkmal geschützt. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Lenzkirch",
+"faktencheck": "korrigiert",
+"id": "487-lenzkirch/v0.9/5",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Ortskern auf gut 800 Metern",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Lenzkirch",
+"steckbrief": "Gemeinde im Landkreis Breisgau-Hochschwarzwald, rund 5.100 Einwohner, 30 km südöstlich von Freiburg im Breisgau.",
+"frage": "Auf welcher Höhe liegt der Ort Lenzkirch?",
+"optionen": [
+"unter 850 m",
+"850 bis unter 950 m",
+"950 bis unter 1.050 m",
+"1.050 m und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine höhere Spanne liegt nahe, denn der Kreisname Breisgau-Hochschwarzwald klingt nach Gipfeln. Der Ort Lenzkirch liegt aber je nach Quelle auf 810 oder 824 Metern. Damit wohnen rund 5.100 Menschen deutlich höher als im Rheintal um Freiburg, aber unterhalb der Gipfel ringsum. Richtig war 1.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "487-lenzkirch/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Pferdeumritt zum heiligen Eligius",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lenzkirch",
+"steckbrief": "Gemeinde mit rund 5.100 Einwohnern, 30 km südöstlich von Freiburg im Breisgau.",
+"frage": "Beim Eulogiusritt ziehen jedes Jahr Reiter zur Lenzkircher Eulogiuskapelle. Warum ehrt man dabei gerade den heiligen Eligius?",
+"optionen": [
+"Eligius soll als Ritter in Lenzkirch gelebt haben.",
+"Eligius gilt als Schutzpatron auch der Pferde.",
+"Eligius soll Lenzkirch einst ein Gestüt geschenkt haben.",
+"Eligius war der erste Pfarrer von Lenzkirch."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Ritter liegt nahe, denn es geht ums Reiten. Eligius ist aber Schutzpatron der Handwerker, der Gold- und Hufschmiede und auch der Pferde. Jedes Jahr Ende Juni reiten die Teilnehmer vom Ortskern zur Eulogiuskapelle, wo nach dem Gottesdienst die Pferde gesegnet werden. Für einen Ort mit rund 5.100 Einwohnern ist das ein großes Bild. Richtig war 2. (Vermerk: kein zweiter Beleg)",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Lenzkirch",
+"faktencheck": "korrigiert",
+"id": "487-lenzkirch/v0.9/8",
+"tisch": false
+}
+],
+"anschluss_von": "486-schluchsee",
+"anschluss": [
+"Lenzkirch hat fast doppelt so viele Einwohner wie Schluchsee.",
+"Schluchsee liegt über hundert Meter höher als Lenzkirch."
+],
+"anschluesse": {
+"486-schluchsee": [
+"Lenzkirch hat fast doppelt so viele Einwohner wie Schluchsee.",
+"Schluchsee liegt über hundert Meter höher als Lenzkirch."
+]
+},
+"ags": "08315068",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 5.100 Einwohner, 810 oder 824 Meter hoch je nach Quelle, 30 km südöstlich von Freiburg, Gemeindegebiet bis zum Hochfirst."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Bis 1806 fürstenbergisch, dann badisch; Burgruine Alt-Urach, Pauliner-Klosterkirche in Grünwald, früher eine weltbekannte Uhrenfabrik."
+},
+{
+"facette": "ALLTAG",
+"text": "Heilklimatischer Kurort; größter Arbeitgeber ist der Messtechnik-Hersteller Testo, dazu Medizintechnik von ATMOS und die Brauerei Rogg."
+},
+{
+"facette": "FREIZEIT",
+"text": "Freibad, Kurpark, Hochfirstturm, Eulogiusritt mit Pferden, Bähnleradweg auf alter Bahntrasse, Mittelweg, Wutachschlucht, Urseemoor und Windgfällweiher."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhöfe Lenzkirch und Kappel-Gutachbrücke, Postleitzahl 79853, Vorwahl 07653; Partnergemeinde Jugon-les-Lacs in der Bretagne."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU 35 Prozent vor AfD 18,5 Prozent; Wahlbeteiligung 82,4 Prozent, einen Punkt unter Landesschnitt."
+}
+],
+"km_vom_vorigen": 5.7
+},
+{
+"slug": "488-eisenbach",
+"name": "Eisenbach",
+"lat": 47.96389,
+"lon": 8.27194,
+"karten": [
+{
+"facette": "FREIZEIT",
+"charakteristikum": "erster Skilift, angetrieben von Wasserkraft",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eisenbach",
+"steckbrief": "Gemeinde mit rund 2.100 Einwohnern, 31 km östlich von Freiburg im Breisgau.",
+"frage": "Im Ortsteil Schollach ging 1908 ein Lift in Betrieb, der als erster Skilift der Welt gilt. Was trieb ihn an?",
+"optionen": [
+"Eine kleine Dampfmaschine trieb ihn an.",
+"Wasserkraft einer Mühle trieb ihn an.",
+"Ein Pferdegespann trieb ihn an.",
+"Muskelkraft an einer Handkurbel trieb ihn an."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Dampfmaschine liegt nahe, denn sie war damals die übliche Kraft für Maschinen. Am Schneckenhof in Schollach trieb aber die Wasserkraft einer Mühle den Lift an, der als erster Skilift der Welt gilt. Gäste zogen sich damit samt Schlitten oder Schneeschuhen am Seil den Hang hinauf. Dass eine Gemeinde mit heute gut 2.100 Einwohnern so früh in der Wintersportgeschichte auftaucht, macht Eisenbach bemerkenswert. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.eisenbach.de/pb/3897251.html; DPMA, dpma.de/…/buegellift",
+"faktencheck": "korrigiert",
+"id": "488-eisenbach/v0.9/1",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Bregtal im Quellgebiet der Donau",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eisenbach",
+"steckbrief": "Gemeinde mit rund 2.100 Einwohnern, 31 km östlich von Freiburg im Breisgau.",
+"frage": "Das Tal, in dem Eisenbach liegt, gehört zum Quellgebiet eines Flusses. Welchem?",
+"optionen": [
+"Es liegt im Quellgebiet der Donau.",
+"Es liegt im Quellgebiet des Neckars.",
+"Es liegt im Quellgebiet der Dreisam.",
+"Es liegt im Quellgebiet der Kinzig."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Dreisam liegt nahe, denn sie fließt durch Freiburg, die nächste Großstadt. Eisenbach liegt aber im Bregtal, im Quellgebiet der Donau; die Breg gilt als einer ihrer beiden Quellflüsse. Wer durch Eisenbach fährt, ist also schon im Donauland, obwohl Freiburg nur 31 Kilometer westlich liegt. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.eisenbach.de/pb/3896891.html",
+"faktencheck": "unsicher",
+"id": "488-eisenbach/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Gemeindehalle aus heimischem Holz",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eisenbach",
+"steckbrief": "Gemeinde mit rund 2.100 Einwohnern, 31 km östlich von Freiburg im Breisgau.",
+"frage": "Die Wolfwinkelhalle ist Sporthalle und Festsaal zugleich. Welchen Baustoff hebt die Gemeinde an ihr hervor?",
+"optionen": [
+"Sie hebt heimischen Granit hervor.",
+"Sie hebt heimisches Holz hervor.",
+"Sie hebt roten Sandstein hervor.",
+"Sie hebt Sichtbeton hervor."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Granit oder Sandstein liegen nahe, weil man sich eine Gemeindehalle gern gemauert vorstellt. Die Gemeinde aber nennt die Wolfwinkelhalle sehenswert und hebt hervor, dass für sie heimisches Holz verwendet wurde. Unter ihrem Dach liegen Sporthalle, Festsaal, Leseraum und Heimatstube. Für eine Gemeinde mit gut 2.100 Einwohnern ist sie damit Treffpunkt für Sport und Feste zugleich. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.eisenbach.de/pb/3896891.html",
+"faktencheck": "korrigiert",
+"id": "488-eisenbach/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Ehrenbürger aus Fabrik, Schule, Rathaus",
+"rang": 7,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Eisenbach",
+"steckbrief": "Gemeinde mit rund 2.100 Einwohnern, 31 km östlich von Freiburg im Breisgau.",
+"frage": "Drei Sätze über Eisenbachs Ehrenbürger. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Alois Straub wurde bei Amtsantritt als Bürgermeister Ehrenbürger.",
+"Ernst Huggle wurde beim Abschied als Schulleiter Ehrenbürger.",
+"Franz Morat wurde zur Einweihung der Wolfwinkelhalle Ehrenbürger."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Wolfwinkelhalle klingt am ehesten erfunden, doch Unternehmer Franz Morat wurde tatsächlich zu ihrer Einweihung Ehrenbürger, Schulrektor Ernst Huggle zum Abschied von der Lichtenbergschule. Gelogen war Alois Straub: Der Feinmechaniker stand als Bürgermeister für den Wiederaufbau nach dem Krieg und wurde erst zum 75. Geburtstag Ehrenbürger. Fabrik, Schule, Rathaus: Die Ehrenbürger zeigen, wer Eisenbach geprägt hat. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.eisenbach.de/pb/3896915.html",
+"faktencheck": "bestätigt",
+"id": "488-eisenbach/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "dünn besiedelte Höhengemeinde",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Eisenbach",
+"steckbrief": "Gemeinde mit rund 2.100 Einwohnern im Hochschwarzwald, 31 km östlich von Freiburg.",
+"frage": "Wie viele Einwohner kommen in Eisenbach im Schnitt auf einen Quadratkilometer?",
+"optionen": [
+"unter 20",
+"20 bis unter 40",
+"40 bis unter 60",
+"60 oder mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wenig liegt nahe, denn Eisenbach besteht aus vier Ortsteilen zwischen Wald, Höfen und Moor. Doch auf knapp 29 Quadratkilometern leben gut 2.100 Menschen, rechnerisch 73 je Quadratkilometer. Viele wohnen in lang gestreckten Siedlungen wie Eisenbach und Oberbränd, umrahmt von Wald. Richtig war 4.",
+"quelle": "berechnet aus Einwohnerzahl (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "488-eisenbach/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Heimatstube mit präparierten heimischen Vögeln",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eisenbach",
+"steckbrief": "Gemeinde mit rund 2.100 Einwohnern, 31 km östlich von Freiburg im Breisgau.",
+"frage": "In der Heimatstube der Wolfwinkelhalle steht eine Sammlung, die Herman Bächle gestiftet hat. Was zeigt sie?",
+"optionen": [
+"Sie zeigt alte Skier und Schlitten.",
+"Sie zeigt eine Sammlung heimischer Schmetterlinge.",
+"Sie zeigt präparierte heimische Vögel.",
+"Sie zeigt alte Schwarzwälder Trachtenhauben."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Alte Skier liegen nahe, denn im Hochschwarzwald denkt man zuerst an Wintersport. Herman Bächle aber stiftete meisterhaft präparierte heimische Vögel, von der Kohlmeise bis zum Milan. Daneben zeigt die Heimatstube antike Schwarzwalduhren und Helmut Fesers Mineralien aus aller Welt. Für eine Gemeinde mit gut 2.100 Einwohnern ist das ein kleines Museum unter dem Dach der Gemeindehalle. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.eisenbach.de/pb/3897299.html",
+"faktencheck": "bestätigt",
+"id": "488-eisenbach/v0.9/8",
+"tisch": false
+}
+],
+"anschluss_von": "487-lenzkirch",
+"anschluss": [
+"Eisenbach liegt gut hundert Meter höher als Lenzkirch.",
+"Eisenbach hatte 2025 die höhere Wahlbeteiligung: 86,4 statt 82,4 Prozent."
+],
+"anschluesse": {
+"487-lenzkirch": [
+"Eisenbach liegt gut hundert Meter höher als Lenzkirch.",
+"Eisenbach hatte 2025 die höhere Wahlbeteiligung: 86,4 statt 82,4 Prozent."
+]
+},
+"ags": "08315031",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 2.100 Einwohner auf knapp 29 Quadratkilometern, gut 940 Meter hoch im Bregtal, Gipfel wie Grundberg, Fohrenbühl, Kapf."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Alte Eisenbergbau- und Uhrmachergemeinde; Bubenbach war ein Glasbläserdorf, Oberbränd ein Ort der Köhler und Uhrmacher."
+},
+{
+"facette": "ALLTAG",
+"text": "Zahnrad- und Getriebeindustrie, das Gear Valley mit Firmen wie IMS Gear; dazu Sägewerk Zipfel und Ferien auf dem Bauernhof."
+},
+{
+"facette": "FREIZEIT",
+"text": "Luftkurort mit Bad-Liften, Loipen wie der Höchstspur, Bogensport, Schollacher Moor, Mittelweg, Schwarzwald-Radweg und Dorfschreiber-Stipendium."
+},
+{
+"facette": "INFRA",
+"text": "Grundschule Lichtenbergschule, Kinderhaus Kunterbunt, Wohnmobilstellplatz am Höchstberg mit Alpenblick, Vorwahl 07657."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU 36,6 Prozent vor AfD 24,1; Wahlbeteiligung 86,4 Prozent, drei Punkte über dem Land."
+}
+],
+"km_vom_vorigen": 11.8
+},
+{
+"slug": "489-friedenweiler",
+"name": "Friedenweiler",
+"lat": 47.9175,
+"lon": 8.25556,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Klosterkirche als Wahrzeichen",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Friedenweiler",
+"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 31 km östlich von Freiburg im Breisgau.",
+"frage": "In Friedenweiler beherrscht der Glockenturm der Pfarrkirche das Ortsbild. Was war die Kirche ursprünglich?",
+"optionen": [
+"Sie war die Kirche eines Klosters.",
+"Sie war die Kapelle einer Ritterburg.",
+"Sie war die Kirche einer Bergbausiedlung.",
+"Sie war die Kirche einer Glasmachersiedlung."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Burgkapelle liegt nahe, weil ein Bau, der das Ortsbild so beherrscht, nach Ritterburg aussieht. Doch die Pfarrkirche Friedenweiler ist eine ehemalige Klosterkirche. Ihr Glockenturm überragt den Gebäudekomplex und beherrscht das Ortsbild, von welcher Seite man auch kommt. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.friedenweiler.de/friedenweiler/einrichtungen/kirchen",
+"faktencheck": "korrigiert",
+"id": "489-friedenweiler/v0.9/1",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Rötenbachschlucht mündet in die Wutach",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Friedenweiler",
+"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 31 km östlich von Freiburg im Breisgau.",
+"frage": "Der Rötenbach fließt durch eine Schlucht mit Stromschnellen und Wasserfällen. In welchen Fluss mündet er?",
+"optionen": [
+"Er mündet in die Breg.",
+"Er mündet in die Dreisam.",
+"Er mündet in die Wutach.",
+"Er mündet in die Brigach."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Breg und Brigach liegen nahe, denn die beiden Quellflüsse der Donau entspringen ebenfalls im Schwarzwald. Der Rötenbach aber mündet in die Wutach, und die fließt zum Rhein. An der Mündung in der Wutachschlucht treffen Wanderer auf den Schluchtensteig und den Querweg Freiburg–Bodensee. So ist die Gemeinde an zwei Fernwanderwege angeschlossen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.friedenweiler.de/touristik/wanderwege/wanderparadies-roetenbach",
+"faktencheck": "bestätigt",
+"id": "489-friedenweiler/v0.9/3",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Wurzel einer Schwarzwälder Uhrenfabrik",
+"rang": 9,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Friedenweiler",
+"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 31 km östlich von Freiburg im Breisgau.",
+"frage": "Die Uhrmacherfamilie Winterhalder zog 1816 nach Friedenweiler. Aus ihrer Werkstatt ging eine spätere Fabrik hervor. Was stellte diese Fabrik her?",
+"optionen": [
+"Sie stellte Glaswaren her.",
+"Sie stellte Strohhüte her.",
+"Sie stellte Bürsten her.",
+"Sie stellte Uhren her."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Glaswaren liegen nahe, denn Glashütten gehören wie die Uhren zum alten Handwerk des Schwarzwalds. Thomas Winterhalder aber war Uhrmacher. 1816 zog er mit seinen Söhnen nach Friedenweiler, und aus seiner Werkstatt wurde die Uhrenfabrik Winterhalder & Hofmeier. So reichen die Wurzeln einer Schwarzwälder Uhrenfabrik bis nach Friedenweiler. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Friedenweiler",
+"faktencheck": "korrigiert",
+"id": "489-friedenweiler/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Kinderheilstätte im alten Kloster",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Friedenweiler",
+"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 31 km östlich von Freiburg im Breisgau.",
+"frage": "Von 1927 bis 1983 betrieb die Caritas im ehemaligen Klostergebäude, dem heutigen „Schloss Friedenweiler“, eine Einrichtung. Was war sie?",
+"optionen": [
+"Sie war ein Kindererholungsheim.",
+"Sie war ein Waisenhaus.",
+"Sie war eine Haushaltungsschule für Mädchen.",
+"Sie war ein Priesterseminar."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Waisenhaus liegt nahe, denn große Altbauten nahmen früher oft Kinder ohne Familie auf. Die Caritas betrieb im alten Kloster aber eine Kindererholungsstätte: Die Kinder kamen zur Erholung, nicht für immer. Vorher war das Gebäude Jagdschloss und Brauerei, seit 1989 ist es eine Seniorenresidenz. Das passt zu Friedenweiler, dessen Klima die Gemeinde als Heilklima beschreibt. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Friedenweiler",
+"faktencheck": "korrigiert",
+"id": "489-friedenweiler/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Höllentalbahn-Halt im Ortsteil Rötenbach",
+"rang": 8,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Friedenweiler",
+"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 31 km östlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Schwarzwald-Panorama-Radweg führt durch die Gemeinde Friedenweiler.",
+"Der Bahnhof Rötenbach liegt an der Schwarzwaldbahn.",
+"Eine Bundesstraße trennte früher Friedenweiler und Rötenbach."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Bundesstraße klingt erfunden, stimmt aber: Bis zur Vereinigung der beiden Orte bildete sie die Grenze zwischen Friedenweiler und Rötenbach. Gelogen war die Bahn. Rötenbach liegt nicht an der Schwarzwaldbahn, sondern an der Höllentalbahn mit Zügen nach Freiburg, Villingen und Donaueschingen. Dass der Bahnhof Rötenbach heißt und nicht Friedenweiler, zeigt: Die Gemeinde besteht aus zwei Dörfern. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Friedenweiler",
+"faktencheck": "unsicher",
+"id": "489-friedenweiler/v0.9/6",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Zwei Dörfer, gut 2.000 Einwohner",
+"rang": 10,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Friedenweiler",
+"steckbrief": "Gemeinde aus drei Ortsteilen, 31 km östlich von Freiburg im Breisgau, gut 27 km² groß.",
+"frage": "Wie viele Menschen leben in der Gemeinde Friedenweiler?",
+"optionen": [
+"unter 1.000",
+"1.000 bis unter 2.000",
+"2.000 bis unter 4.000",
+"4.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Unter 2.000 liegt nahe, denn die Gemeinde besteht aus kleinen Ortsteilen. Ende 2025 lebten dort aber 2.064 Menschen, die meisten in Rötenbach, nicht im namengebenden Friedenweiler. Auf gut 27 Quadratkilometern sind das rund 76 Einwohner je Quadratkilometer, und die Gemeinde rühmt ihre großen Waldungen. Richtig war 3.",
+"quelle": "Wikidata P1082, Stand 2025-12-31; Wikidata P2046; Gemeinde-Webseite, www.friedenweiler.de/friedenweiler/unsere-ortsteile (Stand 2025-01-01)",
+"faktencheck": "korrigiert",
+"id": "489-friedenweiler/v0.9/7",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Fachklinik im früheren Grand Hotel",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Friedenweiler",
+"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 31 km östlich von Freiburg im Breisgau.",
+"frage": "In Friedenweiler steht ein ehemaliges Grandhotel. Was ist seit 2011 darin untergebracht?",
+"optionen": [
+"Darin sitzt die Gemeindeverwaltung.",
+"Darin ist eine psychiatrische Fachklinik.",
+"Darin ist ein Pflegeheim für Senioren.",
+"Darin ist ein Internat."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Pflegeheim liegt nahe, denn viele alte Grandhotels wurden so weitergenutzt. Friedenweiler hat zwar eine Senioreneinrichtung, aber im alten Kloster. Ins Grandhotel zog 2011 eine Privatklinik für Psychiatrie, Psychotherapie und Psychosomatik. Die Gemeindeverwaltung sitzt im Rathaus in Rötenbach. Für eine Gemeinde mit gut 2.000 Einwohnern ist eine eigene Fachklinik ungewöhnlich. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Friedenweiler",
+"faktencheck": "korrigiert",
+"id": "489-friedenweiler/v0.9/8",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Strandbad am Klostersee",
+"rang": 6,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Friedenweiler",
+"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 31 km östlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge gibt es in Friedenweiler?",
+"optionen": [
+"ein Hallenbad",
+"ein Heimatmuseum",
+"eine Eishalle",
+"ein Strandbad"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Hallenbad liegt nahe, denn auf rund 900 Metern Höhe bleibt der Sommer kurz. Friedenweiler hat aber ein Strandbad: Gebadet wird im kleinen Klostersee. Wer im Sommer vorbeifährt, findet in einer Gemeinde mit gut 2.000 Einwohnern also einen eigenen Badesee. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Friedenweiler; OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "489-friedenweiler/v0.9/9",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Orchideenwiesen als Naturschutzgebiet",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Friedenweiler",
+"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 31 km östlich von Freiburg im Breisgau.",
+"frage": "Die Rötenbacher Wiesen wurden im Herbst 2006 Naturschutzgebiet. Das wievielte in Baden-Württemberg waren sie?",
+"optionen": [
+"Sie wurden das 199. Naturschutzgebiet.",
+"Sie wurden das 499. Naturschutzgebiet.",
+"Sie wurden das 999. Naturschutzgebiet.",
+"Sie wurden das 1.499. Naturschutzgebiet."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine kleine Zahl liegt nahe, weil man bei seltenen Arten an ein frühes Schutzgebiet denkt. Die Rötenbacher Wiesen waren aber das 999. Naturschutzgebiet des Landes. Geschützt werden dort seltene, zum Teil vom Aussterben bedrohte Tier- und Pflanzenarten. Im Mai und Juni blühen violette Orchideen und gelbe Trollblumen; dann lohnt die Wanderung durch die Wiesen besonders. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.friedenweiler.de/touristik/wanderwege/wanderparadies-roetenbach",
+"faktencheck": "korrigiert",
+"id": "489-friedenweiler/v0.9/10",
+"tisch": false
+}
+],
+"anschluss_von": "488-eisenbach",
+"anschluss": [
+"Eisenbach und Friedenweiler zählen beide gut 2.000 Einwohner.",
+"Eisenbach liegt rund 40 Meter höher als Friedenweiler."
+],
+"anschluesse": {
+"488-eisenbach": [
+"Eisenbach und Friedenweiler zählen beide gut 2.000 Einwohner.",
+"Eisenbach liegt rund 40 Meter höher als Friedenweiler."
+]
+},
+"ags": "08315039",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Höhenluftkurort im Hochschwarzwald auf rund 900 Metern, 31 km östlich von Freiburg; Rötenbachschlucht, Wutachschlucht, Ellenberg mit 858 Metern."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Seit 1975 eine Gemeinde aus Friedenweiler und Rötenbach; prägend war das Kloster, dessen Kirche heute Pfarrkirche und Wahrzeichen ist."
+},
+{
+"facette": "ALLTAG",
+"text": "Gut 2.060 Einwohner auf 27 Quadratkilometern, zwei Drittel davon in Rötenbach; dazu das Holzwerk Rötenbach."
+},
+{
+"facette": "FREIZEIT",
+"text": "Strandbad am Klostersee, Ameisenpfad, Genießerpfad Rötenbachschlucht, Zwei-Schluchten-Pfad, Schluchtensteig, Schwarzwald-Radweg und Benedikt-Winterhalder-Halle."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof Rötenbach an der Höllentalbahn, Bundesstraße 31, zwei Buslinien nach Neustadt und Löffingen, Fachklinik im früheren Grand Hotel."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU vorn mit 37,9 Prozent, AfD 17,2 Prozent; Wahlbeteiligung 82,2 Prozent, etwas unter dem Landeswert."
+}
+],
+"km_vom_vorigen": 5.3
+},
+{
 "slug": "76-loeffingen",
 "name": "Löffingen",
 "lat": 47.88389,
 "lon": 8.34361,
 "karten": [
 {
+"facette": "ALLTAG",
+"charakteristikum": "Kornmarkt, den die Bahn beendete",
+"rang": 3,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Löffingen",
-"steckbrief": "Löffingen ist eine Stadt mit rund 7.600 Einwohnern und liegt 39 km östlich von Freiburg im Breisgau.",
-"frage": "Ein Siegel aus dem 14. Jahrhundert trägt die Umschrift „Siegel der Bürger von Löffingen“. Was zeigt es?",
+"steckbrief": "Kleinstadt mit rund 7.600 Einwohnern, 39 km östlich von Freiburg im Breisgau.",
+"frage": "In Löffingen fand jede Woche ein Kornmarkt statt. Was brachte ihn laut Stadtgeschichte Anfang des 20. Jahrhunderts zum Erliegen?",
 "optionen": [
-"Es zeigt einen Adler über einem Stadttor.",
-"Es zeigt einen Löwen mit einem Schlüssel.",
-"Es zeigt zwei Löffel, dazwischen eine Lilie.",
-"Es zeigt ein Mühlrad zwischen zwei Ähren."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Der Adler liegt nahe: Ein Graf von Fürstenberg gründete die Stadt, und das Wappentier der Fürstenberger ist ein Adler. Doch die Bürger siegelten mit zwei fast senkrecht stehenden Löffeln, dazwischen eine Lilie – passend zum Klang des Ortsnamens. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte",
-"faktencheck": "unsicher",
-"id": "76-loeffingen/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Löffingen",
-"steckbrief": "Löffingen ist eine Stadt mit rund 7.600 Einwohnern und liegt 39 km östlich von Freiburg im Breisgau.",
-"frage": "Wie groß ist das Stadtgebiet von Löffingen?",
-"optionen": [
-"unter 25 km²",
-"25 bis unter 50 km²",
-"50 bis unter 75 km²",
-"75 km² und mehr"
+"Ein Stadtbrand zerstörte das Markthaus.",
+"Die Landesherren entzogen der Stadt das Marktrecht.",
+"Ein Zollstreit mit den Nachbarn legte ihn lahm.",
+"Der neue Bahnanschluss brachte sein Ende."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Für eine Kleinstadt liegt ein kleines Gebiet nahe. Doch Löffingen ist dünn besiedelt, und das Stadtgebiet reicht weit über die Kernstadt hinaus. Es misst 88,02 Quadratkilometer. Richtig war 4.",
-"quelle": "Wikidata P2046",
-"faktencheck": "bestätigt",
-"id": "76-loeffingen/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Löffingen",
-"steckbrief": "Löffingen ist eine Stadt mit rund 7.600 Einwohnern und liegt 39 km östlich von Freiburg im Breisgau.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Das Rathaus war früher ein Kaufhaus der Stadt.",
-"Die Dreifeldsporthalle steht auf dem Fundament eines Hallenbads.",
-"Die Altstadt ist ein rechtwinkliges Gitter aus Straßen."
-],
-"art": "luege",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein Rathaus, das einst Kaufhaus war, und eine Halle auf einem alten Hallenbad klingen erfunden – beides stimmt. Gelogen ist das Straßengitter, wie man es von Planstädten kennt: Der Stadtkern ist ein unregelmäßiges Oval, die einstige Fernhandelsstraße zieht in leichtem Bogen hindurch. Die Lüge war 3.",
-"quelle": "Gemeinde-Webseite, www.loeffingen.de/tourismus-freizeit/sehenswertes/historischer-stadtkern",
-"faktencheck": "unsicher",
-"id": "76-loeffingen/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Löffingen",
-"steckbrief": "Löffingen ist eine Stadt mit rund 7.600 Einwohnern und liegt 39 km östlich von Freiburg im Breisgau.",
-"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte in Löffingen die stärkste Partei?",
-"optionen": [
-"unter 28 %",
-"28 bis unter 38 %",
-"38 bis unter 48 %",
-"48 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Auf dem Land erwarten viele eine erdrückende CDU-Mehrheit. In Löffingen lag die CDU zwar klar vorn, holte aber 33,3 Prozent der Zweitstimmen; zweitstärkste Kraft wurde die AfD. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "76-loeffingen/v0.8/4",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Löffingen",
-"steckbrief": "Löffingen ist eine Stadt mit rund 7.600 Einwohnern und liegt 39 km östlich von Freiburg im Breisgau.",
-"frage": "Bei Löffingen entstand ein Wallfahrtsort. Am Anfang stand ein Kreuz aus dem 18. Jahrhundert. Aus welchem Anlass wurde es errichtet?",
-"optionen": [
-"Ein Hirte sah dort die Muttergottes erscheinen.",
-"Ein Söldner begrub dort einen gefallenen Kameraden.",
-"Ein Wanderer dankte so für Rettung im Schneesturm.",
-"Ein Bauer dankte für das Ende einer Viehseuche."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Eine Marienerscheinung liegt nahe, so beginnen viele Wallfahrten. Hier aber ließ ein Wanderer das Kreuz aus Dankbarkeit aufstellen, weil er aus einem Schneesturm gerettet worden war. Später folgten hölzerne Kapellen und eine Kirche. Das Gewann dort heißt Witterschnee. Richtig war 3.",
+"rueckseite": "Du hattest [Option] getippt. Ein Stadtbrand liegt nahe, denn Löffingen ist mehrfach abgebrannt. Den Kornmarkt beendete aber etwas anderes: die neue Eisenbahnlinie Neustadt–Donaueschingen, die heutige hintere Höllentalbahn. Die Händler brachten ihre Waren nun mit dem Zug nach Donaueschingen und Neustadt. Auch der Postkutschenverkehr zwischen beiden Städten wurde damals eingestellt. Richtig war 4.",
 "quelle": "Gemeinde-Webseite, www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte",
 "faktencheck": "korrigiert",
-"id": "76-loeffingen/v0.8/5",
+"id": "76-loeffingen/v0.9/1",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Löffingen",
-"steckbrief": "Löffingen ist eine Stadt mit rund 7.600 Einwohnern und liegt 39 km östlich von Freiburg im Breisgau.",
-"frage": "Wie weit ist es von Löffingen in Luftlinie bis zur Landeshauptstadt Stuttgart?",
-"optionen": [
-"unter 60 km",
-"60 bis unter 85 km",
-"85 bis unter 110 km",
-"110 km und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Weil Löffingen östlich von Freiburg liegt, rückt Stuttgart gefühlt näher. Doch bis zur Landeshauptstadt sind es von Löffingen 117 Kilometer Luftlinie, weit mehr als nach Freiburg. Richtig war 4.",
-"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
-"faktencheck": "bestätigt",
-"id": "76-loeffingen/v0.8/6",
-"tisch": false
-},
-{
+"facette": "GESCHICHTE",
+"charakteristikum": "Löffel im Bürgersiegel",
+"rang": 1,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Löffingen",
-"steckbrief": "Löffingen ist eine Stadt mit rund 7.600 Einwohnern und liegt 39 km östlich von Freiburg im Breisgau.",
-"frage": "Mit der Höllentalbahn bekam Löffingen Anschluss ans Schienennetz. Bald darauf kam in der Stadt etwas zum Erliegen. Was?",
+"steckbrief": "Stadt mit rund 7.600 Einwohnern auf etwa 800 Metern Höhe, 39 km östlich von Freiburg im Breisgau.",
+"frage": "Welches Bild zeigt das Siegel der Löffinger Bürger aus dem Jahr 1324?",
 "optionen": [
-"Der wöchentliche Kornmarkt der Stadt ging ein.",
-"Das Postamt der Stadt wurde geschlossen.",
-"Das Forstamt der Stadt wurde aufgelöst.",
-"Die Badstube im Gasthauskeller wurde geschlossen."
+"Es zeigt zwei Löffel mit einer Lilie dazwischen.",
+"Es zeigt einen Löwen über drei Bergen.",
+"Es zeigt eine Kirche mit zwei Türmen.",
+"Es zeigt einen Adler mit einem Schlüssel."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Das Postamt liegt nahe, denn im selben Jahr endete die Postkutsche zwischen Neustadt und Donaueschingen. Doch das Postamt blieb noch lange. Getroffen hat die Bahn den wöchentlichen Kornmarkt: Die Händler brachten ihre Waren nun mit dem Zug nach Donaueschingen und Neustadt. Richtig war 1.",
+"rueckseite": "Du hattest [Option] getippt. Löwe oder Adler liegen nahe, denn solche Wappentiere führten viele Städte und Herren. Das Löffinger Bürgersiegel zeigt aber zwei fast senkrecht stehende Löffel, dazwischen eine Lilie; die Umschrift nennt es Siegel der Bürger von Löffingen. Ein Bild, das man sich beim Vorbeifahren leicht merkt: Löffel und Löffingen klingen fast gleich. Richtig war 1.",
 "quelle": "Gemeinde-Webseite, www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte",
-"faktencheck": "korrigiert",
-"id": "76-loeffingen/v0.8/7",
+"faktencheck": "bestätigt",
+"id": "76-loeffingen/v0.9/2",
 "tisch": false
 },
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Wallfahrtsort aus einer Schneesturm-Rettung",
+"rang": 5,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Löffingen",
-"steckbrief": "Löffingen ist eine Stadt mit rund 7.600 Einwohnern und liegt 39 km östlich von Freiburg im Breisgau.",
-"frage": "Die Freiwillige Feuerwehr Löffingen wurde 1863 gegründet. Was ging ihrer Gründung laut Stadtchronik voraus?",
+"steckbrief": "Kleinstadt im Landkreis Breisgau-Hochschwarzwald, rund 7.600 Einwohner, 39 km östlich von Freiburg im Breisgau.",
+"frage": "Im Gewann Witterschnee bei Löffingen entstand der Wallfahrtsort Schneekreuz. Wie kam das Kreuz an diese Stelle?",
 "optionen": [
-"Die Gründung der Zunft der Laternenbrüder.",
-"Die Auflösung des Bürgermilitärs.",
-"Die Einrichtung des Forstamts.",
-"Der Bau des städtischen Krankenhauses."
+"Ein Bauer fand dort eine Marienfigur im Schnee.",
+"Ein im Schneesturm geretteter Wanderer ließ es aufstellen.",
+"Die Stadt gelobte es nach einer Seuche.",
+"Es markierte eine alte Gemarkungsgrenze."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Die Laternenbrüder klingen nach Nachtwache und Löschdienst. Doch die Zunft entstand erst später und begann Löffingens organisierte Fastnacht. Die Feuerwehr wurde gegründet, nachdem das Bürgermilitär aufgelöst war; die Bürgerwehrkapelle lebte als Feuerwehrmusik wieder auf. Richtig war 2.",
+"rueckseite": "Du hattest [Option] getippt. Eine Marienfigur liegt nahe, denn viele Wallfahrten beginnen mit einem Fund. Am Witterschnee war es anders: Ein Wanderer ließ zum Dank für seine Rettung aus einem Schneesturm ein Kreuz aufstellen. Daraus wurde ein bedeutender Wallfahrtsort mit eigener Kirche. Später wurde ein Kreuzweg zum Schneekreuz eingeweiht. Richtig war 2.",
 "quelle": "Gemeinde-Webseite, www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte",
 "faktencheck": "korrigiert",
-"id": "76-loeffingen/v0.8/8",
+"id": "76-loeffingen/v0.9/3",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "Wutachschlucht als Grenze",
+"rang": 8,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Löffingen",
-"steckbrief": "Löffingen ist eine Stadt mit rund 7.600 Einwohnern und liegt 39 km östlich von Freiburg im Breisgau.",
-"frage": "Ab 1624 hatte das Fürstenbergische Amt Löffingen einen eigenen Scharfrichter. Welchen Anlass dafür nennt die Stadtgeschichte?",
+"steckbrief": "Kleinstadt mit rund 7.600 Einwohnern, 39 km östlich von Freiburg im Breisgau.",
+"frage": "Die Wutachschlucht ist eine natürliche Grenze des Löffinger Stadtgebiets. Was liegt auf der anderen Seite?",
 "optionen": [
-"Die Hexenverfolgung verlangte einen eigenen Henker.",
-"Die Fürstenberger verlegten ihre Residenz nach Löffingen.",
-"Löffingen wurde Sitz eines Landgerichts.",
-"Ein Bauernaufstand sollte streng bestraft werden."
+"Drüben beginnt der Landkreis Lörrach.",
+"Drüben beginnt bereits die Schweiz.",
+"Drüben beginnt der Landkreis Konstanz.",
+"Drüben beginnt der Landkreis Waldshut."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Schweiz liegt nahe, denn die Wutach fließt zum Hochrhein, der dort die Grenze bildet. Doch jenseits der Schlucht beginnt der Landkreis Waldshut. Für Löffingen ist die Wutachschlucht eine natürliche Leitlinie und zugleich eine Verkehrsschranke, wenn winterliche Witterung herrscht. Geschützt ist sie als Natur- und Landschaftsschutzgebiet. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Löffingen",
+"faktencheck": "unsicher",
+"id": "76-loeffingen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "kampflose Übergabe bei Kriegsende",
+"rang": 9,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Löffingen",
+"steckbrief": "Kleinstadt mit rund 7.600 Einwohnern, 39 km östlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein späterer Freiburger Erzbischof stammt aus Löffingen.",
+"Die Stadt führte jahrzehntelang einen Waldprozess gegen Fürstenberg.",
+"Bei Kriegsende wurde die Stadt tagelang heftig umkämpft."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Kämpfe bei Kriegsende liegen nahe, viele Orte erlebten sie. Löffingen aber wurde französischen Truppen kampflos übergeben. Wahr sind die beiden anderen: Der Löffinger Stephan Burger wurde Erzbischof der Erzdiözese Freiburg, und die Stadt stritt jahrzehntelang in einem Waldprozess mit der Standesherrschaft Fürstenberg. Eine Kleinstadt, die sich mit ihren Herren anlegte und bei Kriegsende kampflos übergeben wurde. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "76-loeffingen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "weites Stadtgebiet, dünn besiedelt",
+"rang": 10,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Löffingen",
+"steckbrief": "Kleinstadt mit rund 7.600 Einwohnern, 39 km östlich von Freiburg im Breisgau.",
+"frage": "Zur Stadt gehören die Kernstadt und sechs eingemeindete Dörfer. Wie groß ist das Stadtgebiet?",
+"optionen": [
+"unter 50 km²",
+"50 bis unter 100 km²",
+"100 bis unter 150 km²",
+"150 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Kleinstadt schätzt man das Stadtgebiet leicht zu klein. Mit der Kernstadt und den sechs eingemeindeten Dörfern umfasst Löffingen aber rund 88 Quadratkilometer. Für knapp 7.600 Einwohner ist das viel Land: Auf einen Quadratkilometer kommen nur rund 86 Menschen. Richtig war 2.",
+"quelle": "Wikidata P2046 (Fläche); Wikidata P1082 (Einwohner), Stand 2025-12-31; Dichte berechnet aus Einwohnern und Fläche",
+"faktencheck": "bestätigt",
+"id": "76-loeffingen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "einst gerühmtes Badewasser im Gasthauskeller",
+"rang": 2,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Löffingen",
+"steckbrief": "Stadt mit rund 7.600 Einwohnern auf etwa 800 Metern Höhe, 39 km östlich von Freiburg im Breisgau.",
+"frage": "In Löffingen gab es eine Badstube. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ihre Quelle sprudelt bis heute im Keller.",
+"Sie lag im Keller des Gasthauses Sonne.",
+"Ihr Wasser enthielt Salpeter und Alaun."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Bad im Gasthauskeller klingt nach Kuriosität, doch sein Wasser mit Salpeter und Alaun wurde sogar in Beschreibungen deutscher Heilbäder gerühmt. Gelogen ist, dass die Quelle noch sprudelt: Sie ist längst versiegt. Für eine Kleinstadt ist das eine überraschende Spur: Löffingen hatte einst ein gerühmtes Badewasser. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte",
+"faktencheck": "unsicher",
+"id": "76-loeffingen/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Bürgerprotest für den Stadtpfarrer",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Löffingen",
+"steckbrief": "Kleinstadt mit rund 7.600 Einwohnern, 39 km östlich von Freiburg im Breisgau.",
+"frage": "Im Juni 1934 stellten sich 16 Löffinger Bürger gegen die NSDAP-Ortsgruppe. Wogegen protestierten sie?",
+"optionen": [
+"Sie wehrten sich gegen die Schließung ihres Postamts.",
+"Sie wehrten sich gegen ein Verbot der Fastnacht.",
+"Sie wehrten sich gegen die Vertreibung ihres Stadtpfarrers.",
+"Sie wehrten sich gegen die Enteignung des Stadtwalds."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Die Hexenverfolgung liegt nahe, doch sie folgte erst danach, und hingerichtet wurde in Blumberg. Anlass für den Scharfrichter – den Henker – war das Landgericht, das seinen Sitz in Löffingen bekam. Das Scharfrichteramt bestand, bis der badische Staat es auflöste. Richtig war 3.",
+"rueckseite": "Du hattest [Option] getippt. Ein Eingriff in Amt oder Brauch liegt nahe, denn die NSDAP schaltete die Gemeinde damals gleich und hatte schon den gewählten Bürgermeister aus dem Amt entfernt. Die Bürger aber protestierten gegen die Vertreibung des katholischen Stadtpfarrers Guido Andris durch die NSDAP-Ortsgruppe. Die Stadtgeschichte nennt sie „mutig“: Offener Protest gegen die Partei war ein Wagnis. Richtig war 3.",
 "quelle": "Gemeinde-Webseite, www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte",
-"faktencheck": "bestätigt",
-"id": "76-loeffingen/v0.8/9",
+"faktencheck": "korrigiert",
+"id": "76-loeffingen/v0.9/9",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Freizeitpark aus altem Wildpark",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Löffingen",
+"steckbrief": "Stadt mit rund 7.600 Einwohnern auf etwa 800 Metern Höhe, 39 km östlich von Freiburg im Breisgau.",
+"frage": "Seit 2020 heißt der Löffinger Freizeitpark Tatzmania. Was war er, bevor er so hieß?",
+"optionen": [
+"Er war ein Wildpark.",
+"Er war ein Übungsplatz des Militärs.",
+"Er war ein Torfstich im Moor.",
+"Er war ein Skihang mit Schlepplift."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Skihang liegt auf dieser Höhe nahe. Doch Tatzmania hieß früher Wildpark beziehungsweise Schwarzwaldpark. Unter neuem Namen wurde er als Freizeitpark wiedereröffnet, und die Stadtchronik führt das als eines ihrer jüngsten Ereignisse. Für eine Kleinstadt ist ein solcher Park ein Ziel für Ausflügler aus der ganzen Gegend. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "76-loeffingen/v0.9/10",
 "tisch": false
 }
 ],
-"anschluss_von": "75-titisee-neustadt",
+"anschluss_von": "489-friedenweiler",
 "anschluss": [
-"Fläche: Löffingen und Titisee-Neustadt sind fast gleich groß.",
-"Bahn: Die Höllentalbahn verbindet Titisee-Neustadt mit Löffingen."
+"Löffingen und Friedenweiler bilden seit 1975 eine Verwaltungsgemeinschaft.",
+"Friedenweiler liegt rund 100 Meter höher als Löffingen."
 ],
 "anschluesse": {
 "74-hinterzarten": [
@@ -24899,8 +26765,7 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: Auf Platz zwei kam in Hinterzarten die Grünen, in Löffingen die AfD."
 ],
 "75-titisee-neustadt": [
-"Fläche: Löffingen und Titisee-Neustadt sind fast gleich groß.",
-"Bahn: Die Höllentalbahn verbindet Titisee-Neustadt mit Löffingen."
+"Titisee-Neustadt hat gut anderthalbmal so viele Einwohner wie Löffingen."
 ],
 "77-braeunlingen": [
 "Kreisgrenze: Bräunlingen gehört zum Schwarzwald-Baar-Kreis, Löffingen zum Landkreis Breisgau-Hochschwarzwald.",
@@ -24913,11 +26778,41 @@ window.QA_DATEN = {
 "79-donaueschingen": [
 "Kreisgrenze: Donaueschingen gehört zum Schwarzwald-Baar-Kreis, Löffingen zum Landkreis Breisgau-Hochschwarzwald.",
 "Donaueschingen hat fast dreimal so viele Einwohner wie Löffingen."
+],
+"489-friedenweiler": [
+"Löffingen und Friedenweiler bilden seit 1975 eine Verwaltungsgemeinschaft.",
+"Friedenweiler liegt rund 100 Meter höher als Löffingen."
 ]
 },
 "ags": "08315070",
 "ortsteil": false,
-"km_vom_vorigen": 10.1
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 800 Meter hoch am Übergang vom Hochschwarzwald zur Baar, 88 Quadratkilometer groß, an der Wutach mit Wutachschlucht."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 819 erwähnt, Stadtrecht 1261 durch Graf Heinrich von Fürstenberg, mehrere Großbrände, zuletzt 1921."
+},
+{
+"facette": "ALLTAG",
+"text": "Einst Kornmarkt, Köhlerei und sieben Brauereien; heute knapp 7.600 Einwohner in Kernstadt und sechs Ortsteilen."
+},
+{
+"facette": "FREIZEIT",
+"text": "Freizeitpark Tatzmania, Waldbad, Wallfahrtskirche Witterschneekreuz, Städtlefest, WasserWeltenSteig, Schwarzwald Panorama-Radweg und Drei-Welten-Radweg."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof an der Höllentalbahn, Haltepunkte Bachheim und Unadingen, Bundesstraße 31, Flusskraftwerk Stallegg bei Göschweiler."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU vorn mit 33,3 Prozent, AfD 22,8; Wahlbeteiligung 84,2 Prozent, knapp über Landeswert."
+}
+],
+"km_vom_vorigen": 7.6
 },
 {
 "slug": "77-braeunlingen",

@@ -1,0 +1,579 @@
+ENTITÄT: ort
+BEZEICHNUNG: Glottertal
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Glottertal | Wikipedia
+EIGENSCHAFTEN:
+  landkreis: Breisgau-Hochschwarzwald
+  bundesland: Baden-Württemberg
+  region: Mittlerer Schwarzwald
+  lage_relativ: südlich Elztal, südlich des Kandelmassivs
+  hoehe_untere: 280 m ü.NN
+  hoehe_obere: 1241 m ü.NN
+  nachbargemeinden: Heuweiler, Denzlingen, St. Peter, Simonswald, Waldkirch, Freiburg, Gundelfingen, Stegen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Glottertal
+FACETTE: GESCHICHTE
+QUELLE: https://www.glottertal.de/entdecken/das-glottertal/vielfaeltige-historie/ein-streifzug-durch-die-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1112
+  erste_erwaehnung_quelle: Rotulus Sanpetrinus, Güterbeschreibung Kloster St. Peter
+  ortsteil_zahl: 4
+  gemeindesammlung_jahr: 1970
+  gemeindesammlung_komponenten: Föhrental, Oberglottertal, Ohrensbach, Unterglottertal
+GUELTIG_AB: 1112
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Glottertal
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Glottertal | Wikipedia
+EIGENSCHAFTEN:
+  buergermeister: Karl Josef Herbstritt
+  buergermeister_partei: CDU
+  buergermeister_wahl_jahr: 2014
+  buergermeister_wiedergewaehlt: 2022
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: bau
+BEZEICHNUNG: Glotterbad
+FACETTE: GESCHICHTE
+QUELLE: https://www.glottertal.de/entdecken/das-glottertal/vielfaeltige-historie/das-glotterbad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Sanatorium, Kuranstalt, später Klinik
+  erste_erwaehnung: 1488
+  erste_erwaehnung_kontext: Tragaltar in Barbarakapelle beim Bad
+  bedeutung_fuer_ort: Kurbad prägte Glottertal über Jahrhunderte, Grundlage für Tourismusentwicklung
+  francais_besatzung_1801_1803: true
+  moderner_betrieb_ab: 1894
+  chefarzt_hoffner: 1901–1930
+  kurhaus_fertig: 1901
+  alexanderbau_fertig: 1906
+  carlsbau_fertig: 1913
+  direktor_rossmy_periode: 1923–1940
+  eigenschaft_rossmy: Begründer der Tourismuswerbung für Glottertal
+  direktor_steinbach: 1931
+  waermebehandlung_groesste: größte Waldluftbäder Deutschlands in 1930er Jahren
+  staatsbahn_betrieb_ab: 1960
+  betreiber_1960: Landesversicherungsanstalt Württemberg
+  sanierung_fachklinik: 1987
+  sanierung_fachklinik_spezialisierung: Psychosomatik, Psychotherapie, Innere Medizin
+  neubau_therapieeinrichtungen: 1997
+  neubau_therapieeinrichtungen_ausstattung: Bewegungsbad, moderne Therapieeinrichtungen, Hotelstandard
+  thure_von_uexkuell_klinik_ab: 2014
+  thure_von_uexkuell_klinik_lage: Carlsbau
+  expansion_ab: 2025
+  expansion_dauer: 2025–2030
+GUELTIG_AB: 1488
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bau
+BEZEICHNUNG: Carlsbau
+FACETTE: FREIZEIT
+QUELLE: https://www.glottertal.de/entdecken/das-glottertal/vielfaeltige-historie/das-glotterbad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Carl Isenberg
+  bauzeit: 1913–1914
+  ausstattung_zimmer: Schlaf- und Wohnräume
+  ausstattung_balkone: 30 offene Balkone
+  ausstattung_speisesaal: für 150 Personen
+  bedeutung_original: top deutsches Sanatorium 1910er Jahre
+  filmkulisse_serie: Schwarzwaldklinik
+  filmkulisse_jahr: 1985
+  bedeutung_fuer_ort: löste Besucheransturm und Fantourismus aus
+GUELTIG_AB: 1913
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: bergwerk
+BEZEICHNUNG: Blei-Silberbergbau Glottertal
+FACETTE: GESCHICHTE
+QUELLE: https://www.glottertal.de/entdecken/das-glottertal/vielfaeltige-historie/bergbau-im-glottertal | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode: Hochmittelalter, Hochphase 2. Hälfte 13. Jahrhundert
+  ausbeute: Blei, Silber, Eisenerze
+  flaechenausdehnung: vom Glotterbad über Eichberg bis Einbollen und Föhrental
+  belege: Stolleneingänge, Schlacken, Erzmahlsteine
+  urgraben_bau_jahr: 1284
+  urgraben_laenge: 22 km
+  urgraben_zweck: Wasserbeschaffung für Hebevorrichtungen
+  urgraben_bedeutung: erste Wasserhebeanlage in Mitteleuropa
+  urgraben_herkunft: Ostseite Kandel
+  zerstoerung_suggental: 1288 durch Unwetter
+  zerstoerung_glottertal: 1297 durch Kriegszug
+  zerstoerung_kriegszug_grund: Fehde zwischen Graf Konrad Freiburg und elsässischem Reichsvogt Diebold von Pfirdt
+  periode_spaet: 14. Jahrhundert noch Abbau, danach aufgegeben
+  siedlung_bergleute: große Bergarbeitersiedlung bei Glotterrainhof
+GUELTIG_AB: 1200
+GUELTIG_BIS: 1320
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: fund
+BEZEICHNUNG: Münzschatz Glottertal
+FACETTE: GESCHICHTE
+QUELLE: https://www.glottertal.de/entdecken/das-glottertal/vielfaeltige-historie/bergbau-im-glottertal | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fundjahr: 2024
+  fundort_kontext: ehemalige Bergleutesiedlung Talsohle
+  fundmenge: 1520 Silbermünzen
+  muenzen_zeit: um 1320
+  muenzen_herkunft: Zofingen, Basel, Freiburg
+  muenzen_gewicht_einzeln: 0,3 g
+  muenzen_kaufkraft_historisch: 1 Brot pro Münze
+  muenzen_kaufkraft_total: ca. 150 Schafe
+  muenzen_prägung: einseitig
+  veroeffentlichung: Badische Zeitung August/September 2024
+  grund_lagerung_unbekannt: ja
+  grund_lagerung_vermutung: Bergbau um 1320 weitgehend aufgegeben, Zusammenhang unsicher
+GUELTIG_AB: 1320
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Blasius
+FACETTE: GESCHICHTE
+QUELLE: https://www.glottertal.de/entdecken/das-glottertal/vielfaeltige-historie/ein-streifzug-durch-die-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung_kirche: 1326
+  aelteste_bauten: Chor und Turmunterteil von 1458
+  vergrößerung: 1720
+  neubau_jahr: 1893–1895
+  neubau_architekt: Pfarrer Augustin Brettle
+  aussenrenovation: 1997
+  innenrenovation_jahre: 1980–1982
+  pfarrer_lange_dienst: Adolf Schlegel (52 Jahre, bis 1989)
+GUELTIG_AB: 1326
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Ev. Kirche Glottertal
+FACETTE: GESCHICHTE
+QUELLE: https://www.glottertal.de/entdecken/das-glottertal/vielfaeltige-historie/ein-streifzug-durch-die-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung_jahr: 1971
+  lage: Kandelstraße
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Urgraben-Variante Glottertäler Entdeckerpfad
+FACETTE: FREIZEIT
+QUELLE: https://www.glottertal.de/entdecken/das-glottertal/vielfaeltige-historie/bergbau-im-glottertal | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung_fuer_ort: zeigt Technikdenkmal Urgraben mit Geländeformen
+  weitere_zeugnisse: historische Zeugnisse Bergbau entlang Strecke sichtbar
+  veroeffentlichung: Infos, Karte, Flyer, Begleitbroschüre vorhanden
+GUELTIG_AB: 1284
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Von St. Peter auf historischen Wegen in das Glottertal
+FACETTE: FREIZEIT
+QUELLE: https://www.glottertal.de/touren/von-st.-peter-auf-historischen-wegen-in-das-glottertal-86c4df2b2d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  distanz: 9,12 km
+  dauer: 2:35 h
+  aufstieg: 120 m
+  abstieg: 520 m
+  hoechster_punkt: 812 hm
+  tiefster_punkt: 341 hm
+  belag_naturnah: 50 Prozent
+  belag_asphalt: 25 Prozent
+  belag_feinschotter: 25 Prozent
+  besonderheiten: aussichtsreich, kulturelle Highlights, Schwarzwaldhoefe, Muehlen, Wegkreuze
+  saege_historisch: Säge bis 1806 zum Kloster St. Peter gehörend
+  roeerweg_historisch: Römerweg Teil historische Verbindung zwischen römischen Kastellorten Riegel und Hüfingen
+  haldenweg_aussicht: Panoramablick auf Feldberg und Schauinsland
+  voels_kapelle_erbaut: 1873
+  voels_kapelle_vermutung: keltische Kultstätte oder Hirtenheiligtum oder Umspannstation
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gaststätte
+BEZEICHNUNG: Gemeindewirtschaften Glottertal vor 1970
+FACETTE: ALLTAG
+QUELLE: https://www.glottertal.de/genuss-erleben/historie-gastwirtschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zahl_orteil: mindestens 4 pro Gemeinde
+  zahl_gesamt_vor1970: mehr als 5 im Tale
+  zeichen_haeufigkeit: Glottertal sticht heraus durch ungewöhnlich viele Gasthöfe
+  grund_zahl_hoch: vier Gemeinden bis 1970, Badwirtschaft Glotterbad, Tourismusentwicklung 19. Jahrhundert
+  gemeindewirtschaft_kreuz: Föhrental
+  gemeindewirtschaft_engel: Unterglottertal
+  gemeindewirtschaft_hirschen: Ohrensbach
+  gemeindewirtschaft_sonne: Oberglottertal
+  funktion_ursprung: Gerichtssitzungen unter Linden und auf Kirchplatz
+  funktion_institutionalisierung: Platz später institutionalisiert, zur Wirtschaft erhoben
+  funktion_neben: meist Landwirtschaft, Mühle oder Sägemühle, teilweise Rathaus und Gefängnis
+  badwirtschaft_funktion: Versorgung Badegäste Sanatorium
+  19jh_expansion: Gründung Adler, Krone, Linde, Busch
+  19jh_grund: Bevölkerungswachstum, Nähe Freiburg, Glottertäler Wein
+  beliebtheit_freiburg: Adler, Hirschen, Engel beliebte Treffpunkte Freiburger Studenten
+GUELTIG_AB: 1200
+GUELTIG_BIS: 1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bau
+BEZEICHNUNG: Schurhammerschule
+FACETTE: INFRA
+QUELLE: https://www.glottertal.de/entdecken/das-glottertal/vielfaeltige-historie/ein-streifzug-durch-die-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1967
+  funktion: Grundschule, gemeinsames Schulgebäude vier Glottertalgemeinden
+  veroeffentlichung_name: nach Pater Georg Schurhammer, Ehrenbürger aller vier Gemeinden
+GUELTIG_AB: 1967
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: einrichtung
+BEZEICHNUNG: Winzergenossenschaft Glottertal
+FACETTE: WIRTSCHAFT
+QUELLE: https://www.glottertal.de/entdecken/das-glottertal/vielfaeltige-historie/ein-streifzug-durch-die-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1951
+  gruender_zahl: 13 Winzer
+  akzeptanz_anfang: sehr skeptisch betrachtet
+  entwicklung_nachher: setzte sich als zukunftsweisend durch
+  bedeutung_fuer_ort: wesentliche Grundlage Tourismusentwicklung Glottertal
+GUELTIG_AB: 1951
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wein
+BEZEICHNUNG: Roter Bur
+FACETTE: WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Glottertal | Wikipedia
+EIGENSCHAFTEN:
+  lage: Eichberg
+  schutz: gesetzlich geschützte Bezeichnung
+  qualitaet: besonders qualitätsvolle Weine
+  namensmursprung: Rotburenhof auf gegenüberliegender Talseite
+  anbau_anfang_jahr: ca. 1835
+  anbau_initiatoren: Ohrensbacher Bauern
+  flaeche_beste: zentrale beste Parzellen Eichberg, heute Winzergenossenschaft
+  reifequalitaet: fast alljährlich Spitzenqualitäten
+  vertrieb: bundesweit Endverbraucher, Gastronomie, Fach- und Einzelhandel
+GUELTIG_AB: 1835
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: wein
+BEZEICHNUNG: Scheffelwein
+FACETTE: WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Glottertal | Wikipedia
+EIGENSCHAFTEN:
+  ursprung_person: Dichter Viktor von Scheffel
+  ursprung_jahr: 1881
+  ursprung_kontext: Scheffel zu Kur in Bad Dürrheim, kostete Roten Bur beim Löwenwirt Rietheim
+  ursprung_gedicht: ja
+  referenz_moderner: alter Glottertäler vor 1971
+  zusammensetzung_alt: ca. 60 Prozent Spätburgunder, 30 Prozent Ruländer, 10 Prozent Gewürztraminer
+  zusammensetzung_grund: Ertragssicherung altes Rebmaterial
+  traubenlese_alt: zusammen gelesen und gekeltert
+  charakter_alt: besonderer geschmacklicher Reiz durch Mischlese
+  heute_herkunft: noch vorhandene Reste alter Rebanlagen
+  heute_ausbau: wie früher im Holzfass
+GUELTIG_AB: 1881
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wein
+BEZEICHNUNG: Glottertäler Weinbau
+FACETTE: WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Glottertal | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung_schriftlich: um 1580
+  erste_erwaehnung_kontext: Reben Schloss Winterbach
+  hoehepunkt_periode: 2. Hälfte 19. Jahrhundert
+  hoehepunkt_ausdehnung: Eich- und Schlossberg, fast jeder Bauer Wein gepflanzt, teilweise bis 720 m ü.M.
+  hoehepunkt_besonderheit: Wuspenhof 720 m ü.M. deutschlandweit einmalig
+  krisen_grund: Peronospora, Oidium, Reblaus gegen Ende 19. Jahrhundert
+  krisen_auswirkung: Ernteausfälle, Rebflächenrückgang
+  stabilisierung_zeit: gegen Ende 1950er Jahre
+  flaeche_aktuell: ca. 58 ha
+  flaeche_charakteristik: steilste und höchstgelegene Deutschlands
+  hangneigung: bis 70 Grad
+  arbeit_handarbeit: neunzig Prozent von Hand
+  rebsorten_frueher: Weißer Burgunder, Silvaner, Gutedel, Elbling, Spätburgunder gemeinsam
+  rebsorten_modern_prozent: 80 Prozent Spätburgunder, 12 Prozent Grauburgunder, 5 Prozent Müller-Thurgau, 2 Prozent Gewürztraminer, 1 Prozent Riesling
+GUELTIG_AB: 1580
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: freibad
+BEZEICHNUNG: Panorama-Freibad Glottertal
+FACETTE: FREIZEIT
+QUELLE: https://www.glottertal.de/entdecken/freizeit-aktiv | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Talstraße 101f
+  betrieb_zeitraum: ca. Mitte Mai bis Mitte September
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: mühle
+BEZEICHNUNG: Hilzingermühle
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Glottertal | Wikipedia
+EIGENSCHAFTEN:
+  erbauer: Johann Hilzinger
+  erbauer_beruf: Hilzingerhofbauer
+  erbaujahr: 1621
+  superlativ: älteste Mühle Landkreis Breisgau-Hochschwarzwald
+  funktion_historisch: Getreidemühle über Jahrhunderte
+GUELTIG_AB: 1621
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Kandel
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Glottertal | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: 1241 m ü.NN
+  lage_tal: obere Grenze Glottertal
+  grenze: Glottertal grenzt auf Kandelgipfel an Simonswald und Waldkirch
+  aktivitaeten: Skifahren, Loipen, Gleitschirmfliegen möglich
+GUELTIG_AB: 1243
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: fernsehproduktion
+BEZEICHNUNG: Schwarzwaldklinik
+FACETTE: FREIZEIT
+QUELLE: https://www.glottertal.de/entdecken/das-glottertal/vielfaeltige-historie/das-glotterbad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  drehort: Carlsbau Glottertal, weitere Schwarzwaldorte
+  drehstart_monat: Oktober 1985
+  erste_ausstrahlung: Oktober 1985
+  bedeutung_fuer_ort: löste Besucheransturm und massiven Fantourismus aus
+  medieninteresse: Dominanz in Fernsehen und Presse Jahreswende 1985/86
+  filmkulisse_referenz: Tiere bis unters Dach seit 2009 ebenfalls an Schauplätzen
+  jubilaeum_sendung: ZDF Jubiläumssendung 2004 zum 20-jährigen Dreh-Start
+GUELTIG_AB: 1985
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Glottertäler Pfarrfest
+FACETTE: FREIZEIT
+QUELLE: https://www.glottertal.de/event/glottertaeler-pfarrfest-c40db70655 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Tag der Begegnung
+  gottesdienst_uhrzeit: 10:30 Uhr
+  gottesdienst_mitwirkung: Kirchenchor
+  unterhaltung_kapelle: Trachtenkapelle großes Orchester
+  unterhaltung_akkordeon: Akkordeon-Trachtengruppe
+  unterhaltung_ausklang: Glottertäler Musikanten
+  kinder_programm: spannendes Kinderprogramm
+  verkoestigung: reichhaltiges Angebot Speisen und Getränke
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Barbarakapelle
+FACETTE: GESCHICHTE
+QUELLE: https://www.glottertal.de/entdecken/das-glottertal/vielfaeltige-historie/das-glotterbad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: beim Glotterbad
+  erste_erwaehnung: 1488
+  erste_erwaehnung_kontext: Tragaltar aufgestellt
+GUELTIG_AB: 1488
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Türlekapelle
+FACETTE: GESCHICHTE
+QUELLE: https://www.glottertal.de/touren/von-st.-peter-auf-historischen-wegen-in-das-glottertal-86c4df2b2d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaujahr: 1873
+  vermutung_ursprung: keltische Kultstätte oder Hirtenheiligtum oder Umspannstation
+GUELTIG_AB: 1873
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+
+---
+
+ENTITÄT: ort_teil
+BEZEICHNUNG: Föhrental
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Föhrental
+QUELLE: https://de.wikipedia.org/wiki/Glottertal | Wikipedia
+EIGENSCHAFTEN:
+  zugehoerig_seit: 1970
+  vormalige_eigenstaendigkeit: selbständige Gemeinde bis 1970
+  einwohner_1875: 413
+  einwohner_1961: 374
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ort_teil
+BEZEICHNUNG: Oberglottertal
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Oberglottertal
+QUELLE: https://de.wikipedia.org/wiki/Glottertal | Wikipedia
+EIGENSCHAFTEN:
+  zugehoerig_seit: 1970
+  vormalige_eigenstaendigkeit: selbständige Gemeinde bis 1970
+  einwohner_1875: 534
+  einwohner_1961: 597
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ort_teil
+BEZEICHNUNG: Ohrensbach
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Ohrensbach
+QUELLE: https://de.wikipedia.org/wiki/Glottertal | Wikipedia
+EIGENSCHAFTEN:
+  zugehoerig_seit: 1970
+  vormalige_eigenstaendigkeit: selbständige Gemeinde bis 1970
+  einwohner_1875: 293
+  einwohner_1961: 459
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ort_teil
+BEZEICHNUNG: Unterglottertal
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Unterglottertal
+QUELLE: https://de.wikipedia.org/wiki/Glottertal | Wikipedia
+EIGENSCHAFTEN:
+  zugehoerig_seit: 1970
+  vormalige_eigenstaendigkeit: selbständige Gemeinde bis 1970
+  einwohner_1875: 539
+  einwohner_1961: 884
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Breisgauer Weinradweg
+FACETTE: FREIZEIT
+QUELLE: https://www.glottertal.de/touren/auf-dem-breisgauer-weinradweg-von-glottertal-nach-freiburg-2aa222f2a8 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  startpunkt: Glottertal, Kath. Kirche St. Blasius
+  ziel: Freiburg Altstadt
+  distanz: 13 km
+  dauer: 1 h
+  aufstieg: 40 m
+  abstieg: 70 m
+  belag_asphalt: 100 Prozent
+  charakteristik: leichte Tour
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: vereinigung
+BEZEICHNUNG: Trachtenkapelle Glottertal
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Glottertal | Wikipedia
+EIGENSCHAFTEN:
+  typ: sinfonisches Blasorchester
+  auftritte: zahlreiche im In- und Ausland
+  tradition_lichter: Lichterkonzerte 25. Dezember und vor Silvester
+  tradition_musik_hock: Musik-Hock mit Schleppertreffen erstes Sommerferienwochenende, zwei-jährlich
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: verkehr
+BEZEICHNUNG: Landesstraße 112
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Glottertal | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: Denzlingen nach St. Peter durch Glottertal
+  bau_jahr: ca. 1875
+  vorher_verbindung: Alter Rohrweg nördlich Erhebung
+GUELTIG_AB: 1875
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: busverkehr
+BEZEICHNUNG: Buslinie 7205
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Glottertal | Wikipedia
+EIGENSCHAFTEN:
+  verbindung: Glottertal – Bahnhof Denzlingen
+  betreiber: Südbadenbus GmbH
+  frequenz: halbstündlich
+  anschluss: S-Bahn nach Freiburg
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80

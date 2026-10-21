@@ -1,0 +1,571 @@
+{
+ "ort": "489-friedenweiler",
+ "gebiet": "Gemeindegrenze",
+ "kategorien": {
+  "Gipfel": [
+   {
+    "name": "Rohrberg",
+    "zusatz": "840 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   },
+   {
+    "name": "Ellenberg",
+    "zusatz": "858 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   }
+  ],
+  "Burg/Denkmal": [
+   {
+    "name": "Rohrer-Stein",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   }
+  ],
+  "Bahnhof": [
+   {
+    "name": "Rötenbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.bahnhof.de/roetenbach-baden",
+    "tags": {
+     "railway": "halt"
+    }
+   }
+  ],
+  "Natur": [
+   {
+    "name": "Quelle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "spring"
+    }
+   }
+  ],
+  "Sportstätte": [
+   {
+    "name": "Sportanlage Hardtschachen",
+    "zusatz": "soccer;karting",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "soccer;karting"
+    }
+   },
+   {
+    "name": "Freibad am Klostersee Friedenweiler",
+    "zusatz": "swimming",
+    "wikipedia": null,
+    "website": "https://www.friedenweiler.de/touristik/erleben/freibad-friedenweiler",
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "swimming"
+    }
+   }
+  ],
+  "Gewässer": [
+   {
+    "name": "Stettbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Floßbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Krähenbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Klosterbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Krebsbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Klausbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Brändbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Mauchach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Gauchenbächle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   }
+  ],
+  "Betrieb": [
+   {
+    "name": "Holzwerk Rötenbach GmbH",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "industrial"
+    }
+   },
+   {
+    "name": "Kläranlage Friedenweiler",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "industrial",
+     "man_made": "wastewater_plant"
+    }
+   }
+  ],
+  "Kultur": [
+   {
+    "name": "Benedikt-Winterhalder-Halle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "arts_centre"
+    }
+   }
+  ],
+  "Radweg": [
+   {
+    "name": "Schwarzwald-Radweg",
+    "zusatz": "",
+    "wikipedia": "de:Schwarzwald-Radweg",
+    "website": "https://www.schwarzwaldverein.de/schwarzwald/wanderwege/schwarzwald-radweg/",
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Schwarzwald Panorama-Radweg",
+    "zusatz": "282 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Drei-Welten-Radweg",
+    "zusatz": "302 km",
+    "wikipedia": null,
+    "website": "http://www.3welten-radweg.de/",
+    "tags": {
+     "route": "bicycle"
+    }
+   }
+  ],
+  "Wanderweg": [
+   {
+    "name": "Mittelweg",
+    "zusatz": "",
+    "wikipedia": "de:Mittelweg (Fernwanderstrecke)",
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "European Long distance path E1 - part Germany, Baden-Wuerttemberg (region Schwarzwald south)",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "http://www.era-ewv-ferp.com/",
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Rötenbachschlucht",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kapfhütte - Talwiesenhütte",
+    "zusatz": "1.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Main-Neckar-Rhein-Weg",
+    "zusatz": "94 km",
+    "wikipedia": "de:Main-Neckar-Rhein-Weg",
+    "website": "https://wege.albverein.net/hauptwanderwege/hw3/",
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Schluchtensteig Etappe 3 [Schattenmühle - Fischbach]",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "http://Schluchtensteig.de",
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Genießerpfad - Rötenbachschlucht",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.hochschwarzwald.de/touren/geniesserpfad-roetenbachschlucht-e584e2ce0c",
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Himmelreich-Jakobusweg",
+    "zusatz": "",
+    "wikipedia": "de:Jakobsweg",
+    "website": "https://himmelreich-jakobusweg.de",
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Rötenbach Bahnhof - Rötenbach Dorfladen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Rötenbach Dorfladen - Rötenbach Rathaus",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Saurenbach-Schlucht-Weg",
+    "zusatz": "3.4 km",
+    "wikipedia": null,
+    "website": "https://www.friedenweiler.de/fileadmin/Dateien/Dateien/Wanderwege_Daten/Flyer_Wanderwegenetz_Roetenbach.pdf",
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Wanderparkplatz Hardt - Rötenbach Rathaus",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Beim Steinbruch - Rötenbach Bahnhof",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Beim Steinbruch - Hardtschachen Sportplatzweg",
+    "zusatz": "0.6 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hardtschachen - Krebsgraben",
+    "zusatz": "1.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Matzenmoos - Rötenbach Bahnhof",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Rötenbacher Ameisenpfad",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.hochschwarzwald.de/touren/roetenbacher-ameisenpfad-a2b901aa60",
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Gatterwald - Matzenmoos",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Enkenstein-Tour",
+    "zusatz": "12.2 km",
+    "wikipedia": null,
+    "website": "https://www.friedenweiler.de/fileadmin/Dateien/Dateien/Wanderwege_Daten/Flyer_Wanderwegenetz_Roetenbach.pdf",
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Zwei-Schluchten-Pfad",
+    "zusatz": "17.1 km",
+    "wikipedia": null,
+    "website": "https://www.friedenweiler.de/fileadmin/Dateien/Dateien/Wanderwege_Daten/Flyer_Wanderwegenetz_Roetenbach.pdf",
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Bei der Roßgrabenbrücke - Rötenbachmündung",
+    "zusatz": "2.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Grillhütte Göschweiler - Krebsgraben",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Krebsgraben - Roßgrabenbrücke",
+    "zusatz": "0.8 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Bei der Roßgrabenbrücke - Roßgrabenbrücke",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Roßgrabenbrücke - Talwiesenhütte",
+    "zusatz": "0.6 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Beim Steinbruch - Talwiesenhütte",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kapfhütte - Matzenmoos",
+    "zusatz": "1.8 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Bei der Roßgrabenbrücke - Hörnle",
+    "zusatz": "1.8 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hörnle - Kapfhütte",
+    "zusatz": "1.0 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Finsterbühl - Hörnle",
+    "zusatz": "0.8 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Wutachhalde - Rötenbachmündung",
+    "zusatz": "0.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Rötenbachmündung - Ob der Rötenbachmündung",
+    "zusatz": "0.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hardtschachen Sportplatzweg - Hardtschachen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hardtschachen Sportplatzweg - Wanderparkplatz Hardt",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hardtschachen - Wanderparkplatz Hardt",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Nord Süd Trail, Abschnitt St. Blasien - Singen (Hohentwiel)",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "http://nordsüdtrail.de/",
+    "tags": {
+     "route": "hiking"
+    }
+   }
+  ],
+  "Schutzgebiet": [
+   {
+    "name": "Rötenbacher Wiesen",
+    "zusatz": "",
+    "wikipedia": "de:Rötenbacher Wiesen",
+    "website": null,
+    "tags": {
+     "leisure": "nature_reserve"
+    }
+   },
+   {
+    "name": "Wutachschlucht",
+    "zusatz": "",
+    "wikipedia": "de:Wutachschlucht",
+    "website": null,
+    "tags": {
+     "leisure": "nature_reserve"
+    }
+   }
+  ]
+ }
+}

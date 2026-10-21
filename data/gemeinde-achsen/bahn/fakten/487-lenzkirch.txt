@@ -1,0 +1,588 @@
+ID: 487-lenzkirch/001
+ENTITÄT: ort
+FACETTE: LAGE
+QUELLE: https://www.lenzkirch.de/unsere-gemeinde/ueber-lenzkirch/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_heilklimatischer_kurort: true
+  ist_gemeinde: true
+  landkreis: Breisgau-Hochschwarzwald
+  bundesland: Baden-Württemberg
+  höhe_min: 718
+  höhe_max: 1192
+  höhe_min_ort: Wutachschlucht
+  höhe_max_ort: Hochfirst
+  fläche_gemarkung: 57.903
+  fläche_einheit: km²
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 487-lenzkirch/002
+ENTITÄT: ort
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  gründung_durch: Alamannenstamm der Lentienser
+  herrschaft_von: 1296
+  herrschaft_von_akteur: Grafen von Lupfen
+  herrschaft_zugehörigkeit_1300er: Ritter von Blumegg
+  herrschaft_zugehörigkeit_14jh_teilweise: Johanniter-Orden
+  herrschaft_ab_1491: Grafen von Fürstenberg
+  herrschaft_bis: 1806
+  übergabe_an: Großherzogtum Baden
+  übergabe_grund: Rheinbundakte und Mediatisierung Fürstentum Fürstenberg
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 487-lenzkirch/003
+ENTITÄT: ort
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  fläche_einwohner_gesamt: 5095
+  fläche_einwohner_gültig_ab: 31.12.2025
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 487-lenzkirch/004
+ENTITÄT: ort
+FACETTE: INFRA
+QUELLE: https://www.lenzkirch.de/unsere-gemeinde/ueber-lenzkirch/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  trinkwasserhärte: 0.36
+  trinkwasserhärte_einheit: mmol/l
+  trinkwasserhärte_deutsch: 2
+  trinkwasserhärte_deutsch_einheit: °dH
+  trinkwasser_charakterisierung: weich
+  trinkwasser_untersuchung_datum: 18.11.2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 487-lenzkirch/005
+ENTITÄT: berg
+BEZEICHNUNG: Hochfirst
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  höhe: 1196.9
+  höhe_einheit: m ü. NHN
+  ortsteil_saig_grenze_titisee_neustadt: true
+  aussicht_beschreibung: bei guter Sicht Ausblick in Schweizer und Österreichische Alpen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 487-lenzkirch/006
+ENTITÄT: aussichtspunkt
+BEZEICHNUNG: Hochfirstturm
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  höhe: 1192
+  höhe_einheit: m
+  lage: Hochfirst
+  funktion: Aussichtsturm
+  bedeutung_fuer_ort: Wahrzeichen und Ausflugsziel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 487-lenzkirch/007
+ENTITÄT: ortsteil
+BEZEICHNUNG: Saig
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 780
+  einwohner_gültig_ab: 31.12.2025
+  höhe: 1000
+  höhe_charakterisierung: höchstgelegener Ortsteil
+  lage: Südhang des Hochfirsts
+  ist_heilklimatischer_kurort: true
+  gästebetten: 700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 487-lenzkirch/008
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kappel
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 835
+  einwohner_gültig_ab: 31.12.2025
+  höhe: 900
+  höhe_charakterisierung: Südosthang des Hochfirstrückens
+  ist_luftkurort: true
+  gästebetten: 600
+  besonderheit_wutachschlucht_anfang: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 487-lenzkirch/009
+ENTITÄT: ortsteil
+BEZEICHNUNG: Raitenbuch
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 145
+  einwohner_gültig_ab: 31.12.2025
+  höhe: 940
+  charakterisierung: Bauernsiedlung
+  lage: westlich von Lenzkirch, oberhalb Urseetal
+  nähe_windgfällweiher: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 487-lenzkirch/010
+ENTITÄT: ortsteil
+BEZEICHNUNG: Grünwald
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 3335
+  einwohner_beschreibung: Teil von Lenzkrichen Dörfer Lenzkirch und Grünwald
+  höhe: 1000
+  höhe_charakterisierung: knapp 1000 m
+  eingemeindung_zu_lenzkirch: 1976
+  vorgänger_gemeinde: Holzschlag
+  vorgänger_übergangsphase: kurzzeitig zu Bonndorf nach Holzschlag-Eingemeindung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 487-lenzkirch/011
+ENTITÄT: kloster
+BEZEICHNUNG: Pauliner-Kloster Grünwald
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Grünwald
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  orden: Pauliner
+  gründung_jahr: 1350
+  gründung_jahr_genauigkeit: ca.
+  status_heute: verschwunden, nur Kirche erhalten
+  kirche_kunstschätze: spätgotisches Sandsteinrelief (Leben Christi)
+IST_VERMUTATIV_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 487-lenzkirch/012
+ENTITÄT: ort
+BEZEICHNUNG: Lenzkirch
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  gemeinderat_sitze: 18
+  bürgermeister_aktuell: Andreas Graf
+  bürgermeister_amtsantritt: 2018
+  bürgermeister_nachfolger: Jennifer Sühr
+  bürgermeister_nachfolger_partei: SPD
+  bürgermeister_nachfolger_amtsantritt: 2026
+GUELTIG_AB: 2018
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 487-lenzkirch/013
+ENTITÄT: kirche
+BEZEICHNUNG: St. Nikolaus
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Lenzkirch
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  widmung: Heiliger Nikolaus
+  baujahr_original: 1818
+  architekt_original: Gottlieb Lumpp
+  stil_original: Weinbrennerstil
+  neubau_jahr: 1935
+  architekt_neubau: Otto Linder
+  architekt_neubau_herkunft: Stuttgart
+  beibehalt_turm: mittelalterlicher Turm
+  lage_kirche: Zentrum Lenzkirch, Urseebach mündet hier in Haslach
+GUELTIG_AB: 1935
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 487-lenzkirch/014
+ENTITÄT: kapelle
+BEZEICHNUNG: Eulogius-Kapelle
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Lenzkirch
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  stil: barock
+  funktion_ursprünglich: Wallfahrtskapelle
+  funktion_heute: Friedhofskapelle
+  benedeiktion_schutzpatron: Heiliger Eligius
+  benannt_nach_grund: Schutzpatron der Handwerker, Schmiede, Pferde
+  gründung_weihe: 1595
+  friedhofskapelle_seit: 1820
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 487-lenzkirch/015
+ENTITÄT: kirche
+BEZEICHNUNG: St. Gallus
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  widmung: Heiliger Gallus
+  architektur_besonderheit: charakteristischer Zwiebelturm
+  ersterwähnung: 1275
+  status_dann: Pfarrkirche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 487-lenzkirch/016
+ENTITÄT: kirche
+BEZEICHNUNG: St. Johannes Baptista
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Saig
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  widmung: Heiliger Johannes der Täufer
+  baujahr: 1412
+  kriegsschaden: 1713
+  erhaltene_teile: Turm und Chor
+GUELTIG_AB: 1412
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 487-lenzkirch/017
+ENTITÄT: kirche
+BEZEICHNUNG: Klosterkirche Grünwald
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Grünwald
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  ursprung: Klosterkirche des Klosters Grünwald
+  orden: Pauliner
+  gründung_kloster: 1350
+  kunstschätze: sehenswerte Kunstschätze im Innern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 487-lenzkirch/018
+ENTITÄT: kirche
+BEZEICHNUNG: Christuskirche
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Lenzkirch
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  first_erwähnung_gemeinde: 1895
+  first_gottesdienste_ort: Ratssaal
+  baustart: ungeklärt vor 1952
+  bauunterbrechung_grund: Kriegsfolgen
+  fertigstellung_jahr: 1952
+  weihe_jahr: 1952
+GUELTIG_AB: 1952
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 487-lenzkirch/019
+ENTITÄT: gemeinde
+BEZEICHNUNG: Jugon-les-Lacs
+FACETTE: FREIZEIT
+QUELLE: https://www.lenzkirch.de/unsere-gemeinde/ueber-lenzkirch/staedtepartnerschaft | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: Bretagne
+  departement: Côtes-d'Armor
+  partnerschaft_mit_lenzkirch_seit: 1975
+  entfernung_zu_lenzkirch: 1000
+  entfernung_einheit: km
+  charakterisierung: typisch bretonisches Dorf mit blumengeschmückten Granithäusern
+  seen_nearby: Étang Jugon, Lac Arguenon
+  ausflugsziele_nähe: St. Malo, Mont St. Michel, Côte de Granit Rose, Côte d'Émeraude, Rennes
+  entfernung_zum_meer: 25
+  entfernung_zum_meer_einheit: km
+  gründung_gemeinde: 1973
+  gründung_grund: Fusion Jugon, Lescouet-Jugon, Saint-Igneuc
+  fusion_nachbargemeinde: 2016
+  fusion_partner: Dolo
+  einwohner_nach_fusion: 2500
+  beschreibung_wahlspruch: Die Bretagne ohne Jugon ist wie ein Mantel ohne Kapuze
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 487-lenzkirch/020
+ENTITÄT: ereignis
+BEZEICHNUNG: Großbrand von 1813
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1813-05-12
+  ursache: Blitzschlag
+  ort_auslöser: Gasthaus „Zum Wilden Mann"
+  häuser_zerstört: 18
+  kirche_zerstört: true
+  pfarrhaus_zerstört: true
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 487-lenzkirch/021
+ENTITÄT: event
+BEZEICHNUNG: Eulogiusritt
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  zyklus: jährlich Sonntag vor 25. Juni
+  schutzpatron_grund: Heiliger Eligius ist Schutzpatron der Handwerker, Gold- und Hufschmiede, seit 17. Jh. auch der Pferde
+  kapelle_seit: 1595
+  wallfahrts_ziel_seit: 18. Jahrhundert
+  erste_durchführung: 1934
+  unterbrechung: 1937-1945
+  unterbrechung_grund: NS-Regime, Veranstalter weigerten sich ideologischer Vereinnahmung
+  wiederaufnahme: 1947
+  route: St. Nikolauskirche – Eulogius-Kapelle und zurück, Umritt der St. Nikolauskirche
+  pferde_approximate: 200-300
+  segen_durch: Geistlicher auf Ehrenschimmel
+  nach_ritt: Eulogimarkt (Jahrmarkt)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 487-lenzkirch/022
+ENTITÄT: burg
+BEZEICHNUNG: Alt-Urach
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  baujahrhundert: 13
+  status_heute: Ruine
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 487-lenzkirch/023
+ENTITÄT: unternehmen
+BEZEICHNUNG: Testo
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: bekanntestes Lenzkircher Unternehmen
+  branche: Umwelt-Messinstrumente
+  spezialisierung: Temperaturmessung
+  bedeutung_fuer_ort: größter Arbeitgeber
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 487-lenzkirch/024
+ENTITÄT: unternehmen
+BEZEICHNUNG: ATMOS Medizintechnik GmbH & Co. KG
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  branche: Medizintechnik, chemisch-pharmazeutische Präparate
+  status: größeres Unternehmen
+  vorgänger: ATMOS Fritzsching & Co. GmbH
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 487-lenzkirch/025
+ENTITÄT: unternehmen
+BEZEICHNUNG: Mesa Parts GmbH
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  status: größeres Unternehmen
+  herkunft: hervorgegangen aus ATMOS Fritzsching & Co. GmbH
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 487-lenzkirch/026
+ENTITÄT: brauerei
+BEZEICHNUNG: Brauerei Rogg
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  status: Privatbrauerei
+  bedeutung_fuer_ort: größerer Betrieb
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 487-lenzkirch/027
+ENTITÄT: unternehmen
+BEZEICHNUNG: Aktiengesellschaft für Uhrenfabrikation Lenzkirch (A.G.U.L.)
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  branche: Uhrenproduktion
+  status_historisch: ehemals weltweit bekannt
+  periode: frühes 20. Jahrhundert
+  rang_periode: führende Gesellschaft der Schwarzwälder Uhrenproduktion
+  status_heute: nicht mehr existierend
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 487-lenzkirch/028
+ENTITÄT: radweg
+BEZEICHNUNG: Bähnleradweg
+FACETTE: FREIZEIT
+QUELLE: https://www.lenzkirch.de/leben-in-lenzkirch/sport-/-freizeit/weitere-angebote | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  route: Neustadt – Lenzkirch – Bonndorf
+  untergrund: alte Bahntrasse
+  besonderheit: Klausenbachviadukt hinter Löffelschmiede
+  viadukt_baujahr: 1906–1907
+  startpunkt: Kurhaus Lenzkirch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 487-lenzkirch/029
+ENTITÄT: eisenbahn_linie
+BEZEICHNUNG: Bahnstrecke Kappel-Gutachbrücke – Bonndorf
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1907
+  länge: 20
+  länge_einheit: km
+  route: über Lenzkirch
+  besonderheit: Spitzkehre in Lenzkirch
+  stilllegung: 1976
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 487-lenzkirch/030
+ENTITÄT: bad
+BEZEICHNUNG: Freibad Lenzkirch
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  typ: Freibad
+  verfügbarkeit_gäste_einheimische: true
+  beschreibung: öffentliches Freibad
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 487-lenzkirch/031
+ENTITÄT: gebäude
+BEZEICHNUNG: Kurhaus Lenzkirch
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Kurhaus als Kurort-Infrastruktur
+  besonderheit: Heimatstube mit umfassender Uhrenausstellung
+  lage: Startpunkt Bähnleradweg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 487-lenzkirch/032
+ENTITÄT: park
+BEZEICHNUNG: Kurpark Lenzkirch
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  typ: Kurpark
+  funktion: Freizeit und Erholung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 487-lenzkirch/033
+ENTITÄT: schlucht
+BEZEICHNUNG: Haslach- und Wutach-Schlucht
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  lage: östlich von Lenzkirch
+  status: Naturdenkmal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 487-lenzkirch/034
+ENTITÄT: naturraum
+BEZEICHNUNG: Windgfällweiher
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  lage: Südwesten des Gemeindegebietes
+  status: Naturdenkmal
+  nähe_ortsteil: Raitenbuch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 487-lenzkirch/035
+ENTITÄT: moor
+BEZEICHNUNG: Urseemoor
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  ursprung: nahezu verladeter eiszeitlicher Gletschersee
+  status: Naturdenkmal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 487-lenzkirch/036
+ENTITÄT: wanderweg
+BEZEICHNUNG: Mittelweg
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  typ: Fernwanderweg
+  organisation: Schwarzwaldverein
+  route_startpunkt: Pforzheim
+  route_endpunkt: Waldshut
+  lage_lenzkirch: Lenzkirch liegt am Mittelweg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 487-lenzkirch/037
+ENTITÄT: kulturelle_route
+BEZEICHNUNG: Deutsche Uhrenstraße
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  lage_lenzkirch: Lenzkirch liegt an der Deutschen Uhrenstraße
+  thema: Schwarzwälder Uhrenkultur
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 487-lenzkirch/038
+ENTITÄT: schule
+BEZEICHNUNG: Sommerbergschule
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  typ: Grund- und Werkrealschule
+  status_seit: 2010
+  ort: Lenzkirch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 487-lenzkirch/039
+ENTITÄT: schule
+BEZEICHNUNG: Franz-Josef-Faller-Schule
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  typ: Gemeinschaftsschule
+  träger: privat
+  einzugsgebiet: Hochschwarzwald
+  ort: Lenzkirch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 487-lenzkirch/040
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Franz Josef Faller
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  geburt: Lenzkirch
+  geburtsjahr: 1820
+  todesjahr: 1887
+  beruf_status: Fabrikant, Reichstags- und Landtagsabgeordneter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 487-lenzkirch/041
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Paul Hindemith
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Lenzkirch | Wikipedia
+EIGENSCHAFTEN:
+  geborensjahr: 1895
+  todesjahr: 1963
+  beruf: Komponist
+  werk_fertigstellung_ort: Lenzkirch
+  werk_fertigstellung_titel: Oper Mathis der Maler
+  werk_fertigstellung_zeit: Anfang 1935
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90

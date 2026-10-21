@@ -1,0 +1,50 @@
+{
+ "stufe": "karten-portraet",
+ "ort": "487-lenzkirch",
+ "prompt": "prompt-karten-v0.9.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 48972,
+ "token_ein": 43167,
+ "token_aus": 45770,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 36263,
+  "cache_read_input_tokens": 6902,
+  "output_tokens": 45770,
+  "output_tokens_details": {
+   "thinking_tokens": 34758
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 36263,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 45770,
+    "cache_read_input_tokens": 6902,
+    "cache_creation_input_tokens": 36263,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 36263
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.2068923999999999,
+ "sekunden": 393,
+ "fehler": false,
+ "zeit": "2026-10-21T10:06:44"
+}

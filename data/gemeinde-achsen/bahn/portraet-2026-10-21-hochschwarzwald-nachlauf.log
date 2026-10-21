@@ -1,0 +1,39 @@
+Orte: 483-sankt-peter 485-feldberg 487-lenzkirch 488-eisenbach
+== OSM-Zeugen 09:49:43
+483-sankt-peter          Gemeindegrenze 185 Objekte, 22 Zeugen im Block
+485-feldberg             Gemeindegrenze 240 Objekte, 49 Zeugen im Block
+487-lenzkirch            Gemeindegrenze 237 Objekte, 42 Zeugen im Block
+  Overpass: HTTP Error 502: Bad Gateway - warte
+488-eisenbach            Gemeindegrenze  27 Objekte, 21 Zeugen im Block
+== Gemeinde-Webseiten 09:55:15
+483-sankt-peter      20 Gemeinde-Seiten, 0 Portal,  43285 Zeichen,  32 s 
+485-feldberg         12 Gemeinde-Seiten, 0 Portal,  36158 Zeichen,  20 s 
+487-lenzkirch        14 Gemeinde-Seiten, 0 Portal,  16667 Zeichen,  38 s 
+488-eisenbach        13 Gemeinde-Seiten, 0 Portal,  32354 Zeichen,  14 s 
+== Extraktion v0.7 (Haiku) 09:56:58
+483-sankt-peter      extraktion ein  40947  aus  22216   0.18 USD   171 s  claude-haiku-4-5-20251001
+485-feldberg         extraktion ein  40495  aus   9952   0.12 USD    81 s  claude-haiku-4-5-20251001
+487-lenzkirch        extraktion ein  30740  aus   9473   0.10 USD    75 s  claude-haiku-4-5-20251001
+488-eisenbach        extraktion ein  33034  aus  17545   0.14 USD   116 s  claude-haiku-4-5-20251001
+zusammen: 20976 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+== Eingabe v0.9 10:00:10
+483-sankt-peter    27535 Zeichen
+485-feldberg       31063 Zeichen
+487-lenzkirch      27508 Zeichen
+488-eisenbach      45651 Zeichen
+== Karten v0.9 (claude-opus-5-5) 10:00:10
+483-sankt-peter      karten     ein  45867  aus  51123   1.34 USD   449 s  claude-opus-5-5
+485-feldberg         karten     ein  47860  aus  49666   1.32 USD   432 s  claude-opus-5-5
+487-lenzkirch        karten     ein  43167  aus  45770   1.21 USD   393 s  claude-opus-5-5
+488-eisenbach        karten     ein  55563  aus  44982   1.29 USD   388 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 10:13:11
+483-sankt-peter      pruefung   ein  70850  aus  10921   0.73 USD    95 s  claude-opus-5-5
+485-feldberg         pruefung   ein  65433  aus   8003   0.63 USD    71 s  claude-opus-5-5
+487-lenzkirch        pruefung   ein  57014  aus   7816   0.56 USD    71 s  claude-opus-5-5
+488-eisenbach        pruefung   ein  75136  aus   9305   0.73 USD    80 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 10:15:42
+483-sankt-peter      stufe2     ein 460238  aus  12671   1.19 USD   173 s  claude-opus-5-5,claude-haiku-4-5-20251001
+485-feldberg         stufe2     ein 935825  aus  19315   1.74 USD   297 s  claude-opus-5-5,claude-haiku-4-5-20251001
+487-lenzkirch        stufe2     ein 392651  aus  14703   1.43 USD   171 s  claude-opus-5-5,claude-haiku-4-5-20251001
+488-eisenbach        stufe2     ein 277295  aus   8875   0.82 USD   175 s  claude-opus-5-5,claude-haiku-4-5-20251001
+Fertig 10:21:28

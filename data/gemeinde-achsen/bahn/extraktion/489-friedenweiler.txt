@@ -1,0 +1,803 @@
+ENTITÄT: ort
+FACETTE: LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Friedenweiler | Wikipedia
+EIGENSCHAFTEN:
+  lage_bundesland: Baden-Württemberg
+  lage_landkreis: Breisgau-Hochschwarzwald
+  lage_entfernung_zu_titisee_neustadt: ca. 6 km östlich
+  lage_region: Hochschwarzwald
+  status: Höhenluftkurort
+  nachbargemeinden: Eisenbach (Hochschwarzwald), Löffingen, Lenzkirch, Titisee-Neustadt
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort_friedenweiler_ortsteil
+BEZEICHNUNG: Friedenweiler
+FACETTE: LAGE | ALLTAG
+ORTSTEIL_BEZUG: Friedenweiler
+QUELLE: https://www.friedenweiler.de/friedenweiler/unsere-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 648
+  einwohner_stand: 2025-01-01
+  klima: Heilklima
+  beschreibung: Trotz Höhe mildes Reizklima, sonnenreich, nebelarm. Große Waldungen mit relativ ebenen Wegen
+  entfernung_zu_rotenbach: ca. 5 km nördlich
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort_roetenbach_ortsteil
+BEZEICHNUNG: Rötenbach
+FACETTE: LAGE | ALLTAG
+ORTSTEIL_BEZUG: Rötenbach
+QUELLE: https://www.friedenweiler.de/friedenweiler/unsere-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1389
+  einwohner_stand: 2025-01-01
+  lage_regional: Ostrand Hochschwarzwald
+  klima_faktoren: saubere Luft, kein Föhn, wärmebegünstigter Herbst, sonnenreich
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gemeinde_vereinigung
+FACETTE: POLITIK | GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Friedenweiler | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Vereinigung Rötenbach und Friedenweiler zur Einheitsgemeinde
+  datum: 1975-01-01
+  vorherige_zustaendigkeit: Landkreis Hochschwarzwald (bis 1972)
+  neue_zustaendigkeit: Landkreis Breisgau-Hochschwarzwald (ab 1973)
+GUELTIG_AB: 1975
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort_ersterwahnung
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Friedenweiler | Wikipedia
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1123
+  name_historisch: Fridenwilare
+GUELTIG_AB: 1123
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Friedenweiler
+FACETTE: GESCHICHTE | KULTUR
+ORTSTEIL_BEZUG: Friedenweiler
+QUELLE: https://de.wikipedia.org/wiki/Friedenweiler | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_Jahrhundert: 14. Jahrhundert
+  ordensgruendung: Benediktinerinnen
+  ordensuebergang: 1570 an Zisterzienserinnen
+  vermoegen_uebergang: 1802-11-16 an Fürsten zu Fürstenberg
+  beschreibung: Das Kloster übte Herrschaft über den Ort aus
+GUELTIG_AB: 1350
+GUELTIG_BIS: 1802
+IST_VERMUTISMUS_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche_pfarrkirche
+BEZEICHNUNG: Pfarrkirche Friedenweiler / St. Johannes Baptist
+FACETTE: KULTUR | FREIZEIT | LAGE
+ORTSTEIL_BEZUG: Friedenweiler
+QUELLE: https://www.friedenweiler.de/friedenweiler/einrichtungen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_urspruenglich: ehemalige Klosterkirche
+  stilperiode_aussen: ca. 1500 Außenmauern
+  stilperiode_innen: 16. Jahrhundert erbaut, 18. Jahrhundert umgestaltet
+  umbau_innen_architekt: Peter Thumb
+  brand: 1725 Brand, danach Wiederaufbau
+  architektur_merkmal: Glockenturm überragt Gebäudekomplex, dominierten Ortsbild
+  bedeutung_fuer_ort: Wahrzeichen, beherrscht Ortsbild
+GUELTIG_AB: 1500
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche_pfarrkirche
+BEZEICHNUNG: Pfarrkirche Rötenbach / St. Leodegar
+FACETTE: KULTUR | FREIZEIT
+ORTSTEIL_BEZUG: Rötenbach
+QUELLE: https://www.friedenweiler.de/friedenweiler/einrichtungen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  patron: heiliger Leodegar
+  patrozinium_tag: 2. Oktober
+  brand: 1800 Mai Kirchenbrand während Kriegshandlungen
+  wiederaufbau_zeitraum: 1801-1805
+GUELTIG_AB: 1800
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kunstwerk_kreuzweg
+BEZEICHNUNG: Kreuzweg St. Leodegar Rötenbach
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: Rötenbach
+QUELLE: https://www.friedenweiler.de/friedenweiler/einrichtungen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  artist: Peppi Rifesser (Bildhauer, Grödnertal, Südtirol)
+  erstellung: 2015-07-22
+  einweihung_durch: Erzbischof Stephan Burger
+GUELTIG_AB: 2015
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Josef Matt
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Friedenweiler | Wikipedia
+EIGENSCHAFTEN:
+  parteilichkeit: parteilos
+  amtsantritt: 2013
+  wiederwahl_datum: 2020-10-25
+  wiederwahl_prozent: 94.06
+  amtsdauer: 8 Jahre
+GUELTIG_AB: 2013
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gemeinderat
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Friedenweiler | Wikipedia
+EIGENSCHAFTEN:
+  charakteristikum: nicht parteipolitisch geprägt
+  wahl_datum: 2024-06-09
+  wahlbeteiligung: 67.6
+  wahlbeteiligung_vgl_2019: 66.5
+  fraktion_1_name: Freie Bürgerliste
+  fraktion_1_stimmen_prozent: 63.8
+  fraktion_1_sitze: 7
+  fraktion_2_name: Freie Wählergemeinschaft
+  fraktion_2_stimmen_prozent: 36.2
+  fraktion_2_sitze: 4
+GUELTIG_AB: 2024
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus Rötenbach (Gemeindeverwaltung)
+FACETTE: INFRA | POLITIK
+ORTSTEIL_BEZUG: Rötenbach
+QUELLE: https://de.wikipedia.org/wiki/Friedenweiler | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Sitz der Gemeindeverwaltung
+  beschreibung: ehemaliges Rathaus Rötenbach
+  bedeutung_fuer_ort: Verwaltungssitz
+GUELTIG_AB: 1975
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wappen
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Friedenweiler | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: In Silber mit einem von Silber und Blau in Wolkenschnitt geteiltem Bord eine rote Kirche mit linksstehendem Zwiebelturm und silbernen Fenstern, im rechten Obereck eine blaue Pflugschar
+  element_rand_bedeutung: blau-silberner Rand erinnert an Zugehörigkeit zum Haus Fürstenberg (bis 1806)
+  element_kirche_bedeutung: erinnert an Kloster Friedenweiler
+  element_pflugschar_bedeutung: altes Ortszeichen des Ortsteils Rötenbach
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schlucht
+BEZEICHNUNG: Rötenbachschlucht
+FACETTE: LAGE | LANDSCHAFT | FREIZEIT
+ORTSTEIL_BEZUG: Rötenbach
+QUELLE: https://www.friedenweiler.de/touristik/wanderwege/wanderparadies-roetenbach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristikum: imposant mit beeindruckenden Stromschnellen und Wasserfällen
+  bedeutung_fuer_ort: wesentliches Merkmal Wanderparadies
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: schlucht
+BEZEICHNUNG: Wutachschlucht
+FACETTE: LAGE | LANDSCHAFT | FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.friedenweiler.de/touristik/wanderwege/wanderparadies-roetenbach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristikum: Schlucht mit Tief- und Weitblicken
+  bedeutung_fuer_ort: Ausflugsziel und Wanderregion
+  erwaehnung: Mündung Rötenbach in Wutach
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Rötenbacher Wiesen
+FACETTE: LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG: Rötenbach
+QUELLE: https://www.friedenweiler.de/touristik/wanderwege/wanderparadies-roetenbach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausweisung_datum: 2006 Herbst
+  ausweisung_rangfolge: 999. Naturschutzgebiet im Land Baden-Württemberg
+  lebensraum: seltene und gefährdete, zum Teil vom Aussterben bedrohte Tier- und Pflanzenarten
+  bluetenzeit: Mai bis Juni
+  charakteristische_pflanzen: Orchideenarten (violette Blüten), Trollblumen (gelbe Blüten)
+  superlativ: artenreichste Wiesengesellschaften Mitteleuropas
+  bedeutung_fuer_ort: Anziehungspunkt, charakteristisches Merkmal Rötenbacher Wanderparadies
+GUELTIG_AB: 2006
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: fernwanderweg
+BEZEICHNUNG: Freiburg-Bodensee / Querweg
+FACETTE: FREIZEIT | INFRA
+ORTSTEIL_BEZUG: Rötenbach
+QUELLE: https://www.friedenweiler.de/touristik/wanderwege/wanderparadies-roetenbach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verbindungspunkt: Mündung Rötenbach in Wutachschlucht
+  bedeutung_fuer_ort: Fernwanderweg-Anschluss
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: fernwanderweg
+BEZEICHNUNG: Schluchtensteig
+FACETTE: FREIZEIT | INFRA
+ORTSTEIL_BEZUG: Rötenbach
+QUELLE: https://www.friedenweiler.de/touristik/wanderwege/wanderparadies-roetenbach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  strecke_von: Stühlingen
+  strecke_bis: Wehr
+  region: Naturpark Südschwarzwald
+  verbindungspunkt: Mündung Rötenbach in Wutach
+  charakteristikum: ausgezeichneter Fernwanderweg
+  bedeutung_fuer_ort: Fernwanderweg-Anschluss
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Rötenbacher Ameisenpfad
+FACETTE: FREIZEIT | INFRA
+ORTSTEIL_BEZUG: Rötenbach
+QUELLE: https://www.friedenweiler.de/touristik/wanderwege/roetenbacher-ameisenpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 3.6
+  laenge_einheit: km
+  rundweg: ja
+  stationen_anzahl: 10
+  aktivitaeten: Kletterbäume, Balancieren über Baumstämme, Natur entdecken, Geocaching
+  leihe_ausruestung: Tourist-Information Rathaus Rötenbach
+  charakter_pädagogisch: Erlebnis für Kinder mit Abenteuer-Theme
+  figur: Ameise Amina (Schatzsuche)
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wanderroute
+BEZEICHNUNG: Zweischluchtenpfad
+FACETTE: FREIZEIT | INFRA
+ORTSTEIL_BEZUG: Rötenbach
+QUELLE: https://www.friedenweiler.de/touristik/wanderwege/wanderungen-rund-um-roetenbach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 14.9
+  laenge_einheit: km
+  hoehenmeter: 285
+  schwierigkeit: schwer
+  besonderheit: 8 Brücken über Rötenbach mit Stromschnellen und Wasserfällen
+  route_markant: Rötenbachschlucht bis Wutachmündung, Räuberschlössle, Göschweiler
+  sehenswertigkeit: Gewölbekäsekeller in Göschweiler (Käseverkostung nach Vereinbarung)
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wanderroute
+BEZEICHNUNG: Enkensteintour
+FACETTE: FREIZEIT | INFRA
+ORTSTEIL_BEZUG: Rötenbach
+QUELLE: https://www.friedenweiler.de/touristik/wanderwege/wanderungen-rund-um-roetenbach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 12.3
+  laenge_einheit: km
+  hoehenmeter: 287
+  schwierigkeit: schwer
+  abstieg: 140 Höhenmeter in Rötenbachschlucht
+  beschreibung: Schlucht als eines der ältesten Naturschutzgebiete Baden-Württembergs, Höllentalbahn-Blicke, Eisenbahnbrücke
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wanderroute
+BEZEICHNUNG: Witterschneetour
+FACETTE: FREIZEIT | INFRA
+ORTSTEIL_BEZUG: Rötenbach
+QUELLE: https://www.friedenweiler.de/touristik/wanderwege/wanderungen-rund-um-roetenbach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 9.6
+  laenge_einheit: km
+  hoehenmeter: 79
+  schwierigkeit: leicht
+  route_beschreibung: Rötenbacher Wiesen, Löffingen, Wallfahrtskirche Witterschneekreuz, Stettholz
+  merkmal_barrierefreiheit: zumeist asphaltiert, gut mit Kinderwagen oder Rollstuhl begehbar
+  beste_jahreszeit: Frühsommer (Mai, Juni) mit Blütenpracht Rötenbacher Wiesen
+  fernwanderweg_anschluss: Himmelreich-Jakobusweg
+  mobilitaetsoptionen: Bahnkombination möglich
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wanderroute
+BEZEICHNUNG: Kohlwaldrunde
+FACETTE: FREIZEIT | INFRA
+ORTSTEIL_BEZUG: Rötenbach
+QUELLE: https://www.friedenweiler.de/touristik/wanderwege/wanderungen-rund-um-roetenbach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 4.6
+  laenge_einheit: km
+  hoehenmeter: 60
+  schwierigkeit: leicht
+  route_beschreibung: Rathaus zu Grillplatz Rohrberg, Bürgermeisterdenkmal, Kohlwaldbrücke (denkmalgeschützt, Holzbau)
+  merkmal_barrierefreiheit: Kinderwagen und Rollstuhl geeignet
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wanderroute
+BEZEICHNUNG: Saurenbachschluchtweg
+FACETTE: FREIZEIT | INFRA
+ORTSTEIL_BEZUG: Rötenbach
+QUELLE: https://www.friedenweiler.de/touristik/wanderwege/wanderungen-rund-um-roetenbach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 3.5
+  laenge_einheit: km
+  hoehenmeter: 80
+  schwierigkeit: mittel
+  route_beschreibung: Eisenbahnunterführung zur Saurenbachschlucht, naturbelassener Bachverlauf, Bahnhof Rötenbach
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wanderweg_premium
+BEZEICHNUNG: Genießerpfad Rötenbachschlucht
+FACETTE: FREIZEIT | INFRA
+ORTSTEIL_BEZUG: Rötenbach
+QUELLE: https://www.friedenweiler.de/touristik/wanderwege/premiumwanderweg-roetenbachschlucht | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 10.4
+  laenge_einheit: km
+  hoehenmeter: 257
+  schwierigkeit: schwer
+  klassifikation: Schwarzwälder Genießerpfad und Premiumweg
+  aussichtspunkt: Am Hörnle mit Blick auf Feldberg und Schluchtenlandschaft
+  route_beschreibung: Rötenbachschlucht bis Wutachmündung, Roßgraben, Krebsgraben
+  familiengerecht: nördliche Schleife verläuft entlang Rötenbacher Ameisenpfad
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ausflugsziel
+BEZEICHNUNG: Räuberschlössle
+FACETTE: FREIZEIT | LAGE
+ORTSTEIL_BEZUG: Rötenbach
+QUELLE: https://www.friedenweiler.de/touristik/wanderwege/wanderungen-rund-um-roetenbach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristikum: Tiefblick hinab in die Wutachschlucht
+  bedeutung_fuer_ort: Aussichtspunkt und Wanderziel
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: aussichtspunkt
+BEZEICHNUNG: Am Hörnle
+FACETTE: FREIZEIT | LAGE
+ORTSTEIL_BEZUG: Rötenbach
+QUELLE: https://www.friedenweiler.de/touristik/wanderwege/premiumwanderweg-roetenbachschlucht | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristikum: Ausblick bis zum Feldberg und über Schluchtenlandschaft
+  bedeutung_fuer_ort: Aussichtspunkt entlang Premiumwanderweg
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Rötenbach
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Rötenbach
+QUELLE: https://de.wikipedia.org/wiki/Friedenweiler | Wikipedia
+EIGENSCHAFTEN:
+  bahn_linie: Höllentalbahn
+  verbindungen_zu: Villingen, Donaueschingen, Freiburg im Breisgau
+  fernverbindungen: Von Donaueschingen zu Karlsruhe, Bodensee, Sigmaringen, Ulm
+  bedeutung_fuer_ort: Zugang zu überregionalem Streckennetz
+  zuerreichbarkeit_wanderung: ca. 10 Minuten Fußweg zum Wanderparkplatz
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: busverkehr
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Friedenweiler | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: SüdbadenBus
+  linienanzahl: 2
+  verbindungen: Neustadt und Löffingen
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Schwarzwald-Radweg
+FACETTE: INFRA | FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Friedenweiler | Wikipedia
+EIGENSCHAFTEN:
+  strecke_von: Karlsruhe
+  strecke_bis: Lörrach
+  verbindungen_friedenweiler: mit Neustadt und Schwärzenbach
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Schwarzwald-Panorama-Radweg
+FACETTE: INFRA | FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Friedenweiler | Wikipedia
+EIGENSCHAFTEN:
+  strecke_von: Pforzheim
+  strecke_bis: Waldshut-Tiengen
+  laenge: 282
+  laenge_einheit: km
+  verlauf: nördliches, bewaldetes Gebiet entlang Langer Allee (Titisee-Neustadt zu Bräunlingen)
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Alltagsroute Radnetz Baden-Württemberg
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Friedenweiler | Wikipedia
+EIGENSCHAFTEN:
+  verbindungen: Friedenweiler und Rötenbach mit Titisee-Neustadt, über Löffinger Ortsteil Dittishausen und über Bräunlingen mit Donaueschingen
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: see_baeder
+BEZEICHNUNG: Klostersee Friedenweiler (Strandbad)
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Friedenweiler
+QUELLE: https://de.wikipedia.org/wiki/Friedenweiler | Wikipedia
+EIGENSCHAFTEN:
+  charakteristikum: kleiner Klostersee mit Strandbad
+  bedeutung_fuer_ort: Badeangebot, Freizeitattraktion
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: SV Friedenweiler-Rudenberg
+FACETTE: KULTUR | ALLTAG
+ORTSTEIL_BEZUG: Friedenweiler
+QUELLE: https://de.wikipedia.org/wiki/Friedenweiler | Wikipedia
+EIGENSCHAFTEN:
+  ursprung: Ski-Club Friedenweiler (gegründet 1924)
+  traeger_sportarten_anfang: Langlauf
+  traeger_sportarten_hinzugefuegt: Biathlon (Ende 1970er-Jahre), Skisprung
+  traeger_sportarten_aktuell: Biathlon, Langlauf
+  skisprung_status: 1980er-Jahre zurückgebaut
+  erfolge_meisterschaften: Deutsche Meisterschaften Biathlon 1996, Biathlon-Europacup 1998/99
+  prominente_athletin: Annika Knoll (Biathletin, *1993)
+GUELTIG_AB: 1924
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: athletin
+BEZEICHNUNG: Annika Knoll
+FACETTE: KULTUR | ALLTAG
+ORTSTEIL_BEZUG: Friedenweiler
+QUELLE: https://de.wikipedia.org/wiki/Friedenweiler | Wikipedia
+EIGENSCHAFTEN:
+  geburtsyear: 1993
+  sportart: Biathlon
+  verein: SV Friedenweiler-Rudenberg
+  erfolge: erfolgreichste Starterin des Vereins
+  herkunft: wuchs in Friedenweiler auf
+GUELTIG_AB: 1993
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: klinik
+BEZEICHNUNG: Fachklinik für Psychiatrie, Psychotherapie und Psychosomatik
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Friedenweiler
+QUELLE: https://de.wikipedia.org/wiki/Friedenweiler | Wikipedia
+EIGENSCHAFTEN:
+  gebaeude: ehemaliges Grand Hotel Baer's
+  lage: neben ehemalige Klosterkirche
+  betriebsbeginn: 2011
+  traeger_ab_2021: Oberberg Gruppe
+  charakteristikum: Privatklinik
+GUELTIG_AB: 2011
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: historische_einrichtung
+BEZEICHNUNG: Kinderheilstätte Schloss Friedenweiler
+FACETTE: GESCHICHTE | INFRA
+ORTSTEIL_BEZUG: Friedenweiler
+QUELLE: https://de.wikipedia.org/wiki/Friedenweiler | Wikipedia
+EIGENSCHAFTEN:
+  betriebsort: ehemaliger Konventstrakt des Klosters
+  betriebszeitraum: 1922-1983
+GUELTIG_AB: 1922
+GUELTIG_BIS: 1983
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bundesstrasse
+BEZEICHNUNG: Bundesstraße 31
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Friedenweiler | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Anbindung an überregionales Straßennetz
+  bedeutung_historisch: Grenze zwischen Friedenweiler und Rötenbach bis 1975
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit_handwerk
+BEZEICHNUNG: Thomas Winterhalder
+FACETTE: GESCHICHTE | ALLTAG
+ORTSTEIL_BEZUG: Friedenweiler
+QUELLE: https://de.wikipedia.org/wiki/Friedenweiler | Wikipedia
+EIGENSCHAFTEN:
+  berufsfeld: Uhrenmacher
+  gruendung: 1810 Vorläufer der Uhrenfabrik Winterhalder & Hofmeier
+  immobilienerwerb: 1816 Altes Haus (vom Kloster erworben)
+  bedeutung_fuer_ort: Etablierung Uhrenindustrie-Vorläufer
+GUELTIG_AB: 1810
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit_maler
+BEZEICHNUNG: Nikolaus Ganter
+FACETTE: GESCHICHTE | KULTUR | ALLTAG
+ORTSTEIL_BEZUG: Friedenweiler
+QUELLE: https://de.wikipedia.org/wiki/Friedenweiler | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1809-1886
+  berufsfeld: Maler und Schwarzwälder Lokaldichter
+  tätigkeit_wirtschaft: übernahm um 1840 das Bierhaus
+GUELTIG_AB: 1840
+GUELTIG_BIS: 1886
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit_schriftsteller
+BEZEICHNUNG: Felix Riemkasten
+FACETTE: GESCHICHTE | KULTUR | ALLTAG
+ORTSTEIL_BEZUG: Friedenweiler
+QUELLE: https://de.wikipedia.org/wiki/Friedenweiler | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1894-1969
+  berufsfeld: Schriftsteller, Esoteriker, Neugeistler und Yogalehrer
+  tätigkeit_ort: betrieb Yoga-Schule in Friedenweiler
+  berufsdauer: bis zu seinem Tod
+GUELTIG_AB: 1894
+GUELTIG_BIS: 1969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit_automobilsport
+BEZEICHNUNG: Paul Pietsch
+FACETTE: GESCHICHTE | KULTUR
+ORTSTEIL_BEZUG: Friedenweiler
+QUELLE: https://de.wikipedia.org/wiki/Friedenweiler | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1911-2012
+  berufsfeld: Automobilrennfahrer und Verleger
+  herkunft: wuchs in Friedenweiler bei seiner Mutter auf
+GUELTIG_AB: 1911
+GUELTIG_BIS: 2012
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit_geigenbauer
+BEZEICHNUNG: Simon Straub
+FACETTE: GESCHICHTE | KULTUR | ALLTAG
+ORTSTEIL_BEZUG: Friedenweiler
+QUELLE: https://de.wikipedia.org/wiki/Friedenweiler | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1662/63-1730
+  berufsfeld: Geigenbauer
+  bedeutung_klassifikation: Sohn der Gemeinde
+GUELTIG_AB: 1662
+GUELTIG_BIS: 1730
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit_landrat
+BEZEICHNUNG: Paul Baer
+FACETTE: GESCHICHTE | POLITIK | ALLTAG
+ORTSTEIL_BEZUG: Friedenweiler
+QUELLE: https://de.wikipedia.org/wiki/Friedenweiler | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1882-1957
+  amt: Landrat
+  bedeutung_klassifikation: Sohn der Gemeinde
+GUELTIG_AB: 1882
+GUELTIG_BIS: 1957
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Joachim Egon Fürst zu Fürstenberg
+FACETTE: GESCHICHTE | ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Friedenweiler | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1923-2002
+  berufsfeld: Unternehmer
+  ehrenbuergerstatus: ja
+GUELTIG_AB: 1923
+GUELTIG_BIS: 2002
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Josef Heizmann
+FACETTE: GESCHICHTE | POLITIK | ALLTAG
+ORTSTEIL_BEZUG: Friedenweiler
+QUELLE: https://de.wikipedia.org/wiki/Friedenweiler | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1903-1993
+  amt: Bürgermeister Friedenweiler 1952-1969
+  ehrenbuergerstatus_ab: 1973
+GUELTIG_AB: 1903
+GUELTIG_BIS: 1993
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Clemens Hensler
+FACETTE: GESCHICHTE | POLITIK | ALLTAG
+ORTSTEIL_BEZUG: Friedenweiler
+QUELLE: https://de.wikipedia.org/wiki/Friedenweiler | Wikipedia
+EIGENSCHAFTEN:
+  amt: Bürgermeister Friedenweiler 1980-2013
+  ehrenbuergerstatus_ab: 2013
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

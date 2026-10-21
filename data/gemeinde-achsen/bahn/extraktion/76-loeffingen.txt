@@ -1,266 +1,303 @@
 ENTITÄT: ort
 BEZEICHNUNG: Löffingen
+FACETTE: LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
 EIGENSCHAFTEN:
-  lage: Baden-württembergischer Landkreis Breisgau-Hochschwarzwald
-  verkehrsanbindung_bahn: Höllentalbahn Titisee-Neustadt–Donaueschingen
-  verkehrsanbindung_strasse: Bundesstraße 31
-  hoechster_punkt: 935 [m]
-  tiefster_punkt: 574 [m]
-  waldanteil: 45,4 [%]
-  anteil_naturraum_baar: ja
+  region: Schwarzwald-Baar-Gebiet, Westbaar
+  landkreis: Breisgau-Hochschwarzwald
+  höchster_punkt: Hochmoos, 935 m
+  tiefster_punkt: 574 m (Zusammenfluss Gauchach und Wutach)
+  waldanteil_prozent: 45,4
+  verkehrsanbindung: Höllentalbahn (Titisee-Neustadt–Donaueschingen), Bundesstraße 31
+  naturraum_charakteristik: Übergang vom dicht bewaldeten Hochschwarzwald zur offenen Baar bei Rötenbach
+  naturschutzgebiete: Wutachschlucht, Ochsenberg-Litzelstetten
+GUELTIG_AB: 
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
 ENTITÄT: ort
-BEZEICHNUNG: Löffingen
+FACETTE: GESCHICHTE | IDENTITÄT
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  erste_erwaehnung: 819
-  erwaehnung_grund: Urkunde des Klosters St. Gallen
-  stadt_gegruendet: 1261
-  stadt_gegruendet_durch: Graf Heinrich I von Fürstenberg
-  stadtrechte_verliehen: 1270
-  stadtrechte_verliehen_durch: Fürstenberger
-  staerke_herabgestufung: 1921
-  staerke_wiederherstellung: 1950
-GUELTIG_AB: 1261
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.98
-
----
-
-ENTITÄT: ort_prähistorisch
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  steinhügel_anzahl: 2500
-  steinhügel_zeitraum: 1700-1300 v. Chr.
-  kelten_nutzung: Nachbestattungen in Grabhügeln
-  kelten_zeitraum: 600-300 v. Chr.
-  römer_beleg: Münze des Kaisers Domitian
-  römer_beleg_zeitraum: 96-81 v. Chr.
-  alemannen_ansiedlung_ab: 500
-  alemannen_funde_orte: Alenberg, Käppelebuck
-GUELTIG_AB: -1700
+  erste_urkundliche_erwähnung: 819
+  stadtrechte_verleihung: 1261 (durch Graf Heinrich I von Fürstenberg)
+  gründer: Graf Heinrich I von Fürstenberg
+  gründer_titel_ab: 1245 (Wechsel von Urach zu Freiburg, dann Fürstenberg)
+  bedeutende_brände: 1535, 1571, 1907, 1921
+  brand_1921_beschreibung: 36 Häuser total zerstört, 209 Personen obdachlos
+  zeitliche_entwicklung: Zentrale Marktfunktion bis 1880, danach Wandel
+  stadtrechte_status_1921: Zur Stadtgemeinde herabgestuft (1921), Bezeichnung 1935 gestrichen
+  stadtrechte_wiederherstellung: 1950
+  eingemeindungen: Seppenhofen (1970), Göschweiler (1972), Bachheim (1974), Dittishausen/Reiselfingen/Unadingen (1975)
+  superlativ: "älteste urkundliche Erwähnung 819" (frühester Nachweis im Landkreis)
+GUELTIG_AB: 
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.92
-
----
-
-ENTITÄT: fernhandelsweg
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  verlauf: Neckarraum – Löffingen – Stallegg – Hochrhein
-  zeitraum: antike
-GUELTIG_AB: -600
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.80
-
----
-
-ENTITÄT: kirche
-BEZEICHNUNG: St. Martinskirche
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  erbaut_ab: 700
-  erbauer: Christliche Missionare
-  status_alt: Altkirche, später abgegangen
-  grund_abgang: Ersatz durch St. Michael 1342
-GUELTIG_AB: 700
-GUELTIG_BIS: 1342
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: kirche
-BEZEICHNUNG: St. Michael
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  erbaut: 1342
-  erbauer: Kloster St. Gallen
-  charakterisierung: ehemals Hauptkirche
-GUELTIG_AB: 1342
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.90
-
----
-
-ENTITÄT: kirche
-BEZEICHNUNG: Johanneskirche (evang. Kirche)
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  fertigstellung: 1954
-  konfession: evangelisch
-GUELTIG_AB: 1954
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
 ENTITÄT: wallfahrtsort
 BEZEICHNUNG: Witterschneekreuz
+FACETTE: FREIZEIT | GESCHICHTE
+ORTSTEIL_BEZUG: Witterschnee (Gewann südlich der Kernstadt)
 QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  anlass_gruendung: Dankbarkeit eines Wanderers für Rettung aus Schneesturm
-  grund_wanderer_aktion: Schneesturm
-  kreuz_errichtung: 1740
-  anerkannt: ja
-  kapelle_holzern_1: 1751
-  kapelle_holzern_2: 1850
-  kirche_erbaut: 1894-1898
-  gewaenn: Witterschnee
-  lage: südlich der Stadt
+  gründungsjahr: 1740
+  gründungsanlass: Schneesturm-Rettung eines Wanderers, der ein Kreuz aufstellen ließ
+  kapellen_baugeschichte: 1751 (Holzkapelle), 1850 (Holzkapelle), 1894–1898 (heutige Kirche)
+  kirche_konsekration: 1901
+  bedeutung_fuer_ort: "bedeutender Wallfahrtsort", Grund für Kurort-Status Löffingens
+  anbindung_infrastruktur: Kreuzweg vom Stadtzentrum (eingeweiht 1895)
 GUELTIG_AB: 1740
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.88
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: reliquie
+ENTITÄT: freizeitpark
+BEZEICHNUNG: Tatzmania
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  heiliger: Demetrius
-  ursprung: Rom
-  ueberführung_nach_löffingen: 1725
-GUELTIG_AB: 1725
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.70
+  eröffnung_jahr: 2020
+  vorgänger_name: Wildpark, Schwarzwaldpark
+  charakteristik: Wildgehege, Freizeitpark
+  bedeutung_fuer_ort: Touristischer Anziehungspunkt, erwähnt als Charakteristikum Löffingens
+GUELTIG_AB: 2020
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: stadtbrand
+ENTITÄT: bad
+BEZEICHNUNG: Waldbad Löffingen
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  datum: 1535
-  auswirkung: Stadt bis auf Kirche zerstört
-  grund_ueberlebensgebaeude: aus Stein erbaut
-GUELTIG_AB: 1535
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.92
+  anlage_jahr: 1935
+  typ: Freiluftbad, Waldbad
+GUELTIG_AB: 1935
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: stadtbrand
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
+ENTITÄT: bad
+BEZEICHNUNG: Hallenbad Löffingen
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
 EIGENSCHAFTEN:
-  datum: 4. Juli 1571
-  anlass_datum: Fest des Heiligen Ulrich
-GUELTIG_AB: 1571
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.90
+  beschreibung: Errichtet auf Fundament des ehemaligen Hallenbades (Dreifeldsporthalle 2010)
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: 
+VERTRAUEN_EXTRAKTION: 0.7
 
 ---
 
-ENTITÄT: stadtbrand
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martinskirche
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  datum: 23. März 1907
-  zerstoerte_haeuser: 15
-  lage_brand: Winkel (heutige Demetriusstraße)
-  folge_einstellung_verkehr: Postkutschenverkehr Löffingen–Bonndorf
-GUELTIG_AB: 1907
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.93
-
----
-
-ENTITÄT: stadtbrand
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  datum: 28. Juli 1921
-  zeit_tageszeit: Nachmittag
-  witterung: heißer Sommertag
-  zerstoerte_haeuser_total: 36
-  beschaedigte_haeuser_schwer: 14
-  beschaedigte_haeuser_leicht: 169
-  obdachlos_gemacht: 209
-  ausbreitungsrichtung: Stadtkern Richtung Osten zum Alenberg
-  grund_schwierigkeiten: enge Bebauung, Windeinfluss, Wassermangel
-  gesamtschaden: 20 [Millionen Reichsmark]
-  charakterisierung: zweiter großer Stadtbrand 20. Jahrhundert
-GUELTIG_AB: 1921
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.94
-
----
-
-ENTITÄT: hexenverfolgung
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  zeitraum: Oktober 1635 – März 1636
-  hinrichtungsort: Blumberg
-  opfer_frauen: 27
-  opfer_maenner: 6
-  grund: Denunziation als Hexen
-GUELTIG_AB: 1635
+  gründung: 700
+  gründer: Christliche Missionare
+  beschreibung: "die alte St. Martinskirche"
+  status: Obsolet (1342 durch St. Michael ersetzt)
+  untergang: 1342
+GUELTIG_AB: 700
+GUELTIG_BIS: 1342
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: pfarrrevolte
+ENTITÄT: kirche
+BEZEICHNUNG: St. Michaelskirche
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  ereignis: Protest gegen Vertreibung des katholischen Stadtpfarrers
-  datum: 23. Juni 1934
-  teilnehmer: 16 Löffinger Bürger
-  vertriebener_pfarrer: Guido Andris
-  grund_vertreibung: NSDAP-Ortsgruppe Löffingen
-  charakterisierung: Widerstandsakt in NS-Zeit
-GUELTIG_AB: 1934
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.90
+  erbauer: Kloster St. Gallen
+  erbauung_jahr: 1342
+  umbau_neubau_zeit: 1713–1715
+  architektur_1713: Barocke Zwiebel auf Turm
+  architektur_1809: Zwiebel durch Spitzhelm ersetzt
+  pfarrer_umbau: Markus Bosch
+  reliquien_inthronisation: 1725 (Reliquien des hl. Demetrius aus Rom)
+  patronat: Kloster St. Gallen (bis 1806)
+GUELTIG_AB: 1342
+GUELTIG_BIS: 
+IST_VERMUTUMI_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: waldprozess
+ENTITÄT: kirche
+BEZEICHNUNG: Johanneskirche
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  zeitraum: 1728-1772
-  gegner: Standesherrschaft Fürstenberg
-  ergebnis: Stadt gewinnt
-  gewinn: neues Waldgebiet
-GUELTIG_AB: 1728
-GUELTIG_BIS: 1772
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: rathaus
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  historische_funktion_frueh: Kaufhaus
-  lage: Mitte des Marktplatzes
-  sanierung: 2016-2018
-GUELTIG_AB: 1318
+  konfession: evangelisch
+  fertigstellung_einweihung: 1954
+GUELTIG_AB: 1954
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.88
+VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: kaufhaus
+ENTITÄT: kirche
+BEZEICHNUNG: St. Bartholomäus
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Seppenhofen
+QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
+EIGENSCHAFTEN:
+  denkmalschutz: ja
+  seitenaltäre_dittishausen: 1906 (zwei romanische Seitenaltäre der Gebrüder Moroder)
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: friedhof_kapelle
+BEZEICHNUNG: Löffinger Friedhofskapelle
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  neubau: 1831
-  massnahmen: Tieferlegung, Kanalisierung, Abdeckung des Bittenbachs
-GUELTIG_AB: 1318
-GUELTIG_BIS: 1831
+  bau_jahr: 1863
+  material_herkunft: Material der abgebrochenen Antoniuskapelle (Käppelebuck)
+  ersatz_fuer: Antoniuskapelle
+GUELTIG_AB: 1863
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebäude
+BEZEICHNUNG: Rathaus
+FACETTE: LAGE | ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.loeffingen.de/tourismus-freizeit/sehenswertes/historischer-stadtkern | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Zentrum des Marktplatzes (ovale Stadtkernstruktur)
+  vorgänger_nutzung: Kaufhaus (1318 als Kaufhaus erwähnt)
+  neubau_1831: Neubau mit Tieferlegung und Kanalisierung des Bittenbachs
+  sanierung: 2016–2018
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: krankenhaus
+DESIGNUNG: Krankenhaus Löffingen
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau_jahr: 1873
+  vergrößerung_modernisierung: 1921
+  umfunktionierung: 1985 (Altenpflegeheim St. Martin)
+GUELTIG_AB: 1873
+GUELTIG_BIS: 1985
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.80
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: löffinger_mess
+ENTITÄT: betrieb
+BEZEICHNUNG: Flusskraftwerk Stallegg
+FACETTE: INFRA | WIRTSCHAFT
+ORTSTEIL_BEZUG: Göschweiler (Hofgut Stallegg)
 QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  ersterwaehnung: 1318
-  charakterisierung: Markt mit Getreidehandel
-  bedeutung: schnell an Bedeutung gewonnen
-  status_ende: letzte Kornmarkt 1904
+  gründung_jahreicht: seit 1895 (Zeuge: OSM)
+  bedeutung_fuer_ort: Stromversorgung Löffingens, später unzureichend
+  ersatz: 1919 Fremdstrom vom Kraftwerk Laufenburg
+GUELTIG_AB: 1895
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Stallegger Leitung
+FACETTE: INFRA | GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zweck: Stromversorgung Löffingens und Ortsteile
+  inbetriebnahme: 1919
+GUELTIG_AB: 1919
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Nahwärmenetz
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme: 2008 (Frühjahr)
+GUELTIG_AB: 2008
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Höllentalbahn (Neustadt – Donaueschingen)
+FACETTE: INFRA | GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bahnhof_eröffnung: 1901
+  elektrifizierung_abschluss: 2019 (14. Dezember, hintere Höllentalbahn)
+  bedeutung_fuer_ort: Ersatz für Postkutschenverkehr, Ende des Kornmarktes (1904)
+  bezeichnung_hinweis: "hinteren Höllentalbahn" (Elektrifizierung 2019)
+GUELTIG_AB: 1901
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: markt
+BEZEICHNUNG: Löffinger Meß
+FACETTE: WIRTSCHAFT | ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwähnung: 1318
+  warenart: Getreidehandel
+  bedeutung: "schnell an Bedeutung gewonnen"
+  ende: 1904 (letzter Kornmarkt)
+  grund_ende: Eisenbahnanbindung 1901
 GUELTIG_AB: 1318
 GUELTIG_BIS: 1904
 IST_VERMUTLICH_AKTUELL: false
@@ -268,1073 +305,799 @@ VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: siegel
-BEZEICHNUNG: Löffinger Siegel (ältestes)
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  jahr: 1324
-  charakterisierung: ältestes Löffinger Siegel
-  darstellung: zwei fast senkrecht stehende Löffel, dazwischen eine Lilie
-  umschrift: Sigulum Burgentium de Loeffingen (Siegel der Bürger von Löffingen)
-GUELTIG_AB: 1324
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.92
-
----
-
-ENTITÄT: leprosenhaus
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  ersterwaehnung: 1330
-GUELTIG_AB: 1330
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.60
-
----
-
-ENTITÄT: badstube
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  lage: Keller des Gasthauses "Sonne" (bis 1930 Gasthaus "Lamm")
-  jahr_erwaehnung: 1439
-  wasser_zusammensetzung: enthält Salpeter und Alaun
-  wasser_ruf: in Beschreibungen deutscher Heilbäder gerühmt
-  versiegte: 1834
-GUELTIG_AB: 1439
-GUELTIG_BIS: 1834
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.78
-
----
-
-ENTITÄT: hafnerhütte
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  errichtung: 1651
-  lage: an der Mauchach
-GUELTIG_AB: 1651
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: ziegelhütte
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  erbau_date: 1681
-  lage_neu: eigene Gemarkung Löffingen
-  lage_alt: Gemarkung Rötenbach
-GUELTIG_AB: 1681
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.78
-
----
-
-ENTITÄT: sägemühle
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  genehmigung: 1780
-  genehmigung_durch: Standesherrschaft Fürstenberg
-GUELTIG_AB: 1780
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: kirche
-BEZEICHNUNG: St. Michael (Umgestaltung)
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  umbau_neubau: 1713-1715
-  bauherr: Pfarrer Markus Bosch
-  turmveraenderung_1809: Zwiebel durch Spitzhelm ersetzt
-  zwiebel_bauzeit: 1713
-GUELTIG_AB: 1713
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: friedhofskapelle
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  bau: 1863
-  material_quelle: abgebrochene Antoniuskapelle
-  antoniuskapelle_standort: Käppelebuck (zwischen Löffingen und Rötenbach)
-GUELTIG_AB: 1863
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.82
-
----
-
-ENTITÄT: krankenhaus
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  bau: 1873
-  erweiterung_modernisierung: 1921
-  folgenutzung: seit 1985 Altenpflegeheim St. Martin
-GUELTIG_AB: 1873
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.86
-
----
-
-ENTITÄT: wasserversorgung
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  aufbau: 1873
-GUELTIG_AB: 1873
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: freiwillige_feuerwehr
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  gruendung: 1863
-  gruender_anzahl: 70 Männer
-  ursprung: Nachfolge der aufgelösten Bürgerwehr
-GUELTIG_AB: 1863
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: postamt
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  gruendung: 1882
-  grund: Aufgabe der Posthalterei im Gasthaus "Löwen"
-  auflosung: 1999
-GUELTIG_AB: 1882
-GUELTIG_BIS: 1999
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.92
-
----
-
-ENTITÄT: kindergarten
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  bau: 1895
-GUELTIG_AB: 1895
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.80
-
----
-
-ENTITÄT: zunft
-BEZEICHNUNG: Zunft der Laternenbrüder
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  gruendung: 1889
-  funktion: Beginn der organisierten Fastnacht in Löffingen
-GUELTIG_AB: 1889
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: eisenbahnlinie
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  eroffnung: 1901
-  strecke: Neustadt – Donaueschingen (Höllentalbahn)
-  folge_kornmarkt: Markt kommt zum Erliegen, letzter 1904
-  bahnhof_loeffingen_eroffnung: 1901
-  elektrifizierung_fertigstellung: 14. Dezember 2019
-GUELTIG_AB: 1901
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.92
-
----
-
-ENTITÄT: forstamt
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  einrichtung: 1905
-  schließung: 1997
-  grund_schließung: Verwaltungsreform
-GUELTIG_AB: 1905
-GUELTIG_BIS: 1997
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: brauerei
+ENTITÄT: brauerrei
 BEZEICHNUNG: Brauerei Selb
+FACETTE: WIRTSCHAFT | GESCHICHTE
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
   lage: Obere Hauptstraße 7
   schließung: 1911
-  charakterisierung: letzte Brauerei, Ende der Löffinger Bierbrauertradition
-  gesamtzahl_brauereien_loeffingen: 7
+  bedeutung: Abschluss der Löffinger Bierbrauertradition
+GUELTIG_AB: 
 GUELTIG_BIS: 1911
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.87
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: stromnetz
+ENTITÄT: wirtschaftszweig
+BEZEICHNUNG: Bierbrauerei-Tradition Löffingen
+FACETTE: WIRTSCHAFT | GESCHICHTE
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  anschluss_jahr: 1919
-  anschluss_quelle: Stallegger Leitung
-GUELTIG_AB: 1919
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.90
-
----
-
-ENTITÄT: köhlerei
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  lage: Löffinger Stadtwald
-  tradition_dauer_ende: 1920 (fast 400 Jahre)
-GUELTIG_BIS: 1920
+  anzahl_brauereien: 7
+  ende_tradition: 1911
+  grund: Schließung der Brauerei Selb
+GUELTIG_AB: 
+GUELTIG_BIS: 1911
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.80
-
----
-
-ENTITÄT: schulhaus
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  neubau_beginn: 1923
-  nebenbau_festhalle: ja
-  nebenbau_turnhalle: ja
-  verzoegerung_grund: Inflation
-  fertigstellung_festhalle_turnhalle: 1936
-  name_historisch: Adolf-Hitler-Schule
-  sanierung_festhalle: 2010/2011
-GUELTIG_AB: 1936
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: waldbad
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  anlage: 1935
-GUELTIG_AB: 1935
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.82
-
----
-
-ENTITÄT: dreifeldsporthalle
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  inbetriebnahme: 30. Oktober 2010
-  fundament: ehemaliges Hallenbad
-GUELTIG_AB: 2010
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.90
-
----
-
-ENTITÄT: realschule
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  eroffnung: 1974
-  neugruppierung_2013: Schulverbund mit Werkrealschule
-  sanierung_gebaude: 2022
-GUELTIG_AB: 1974
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: verwaltungsgemeinschaft
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  partner: Friedenweiler
-  inbetriebnahme: 1. Januar 1975
-GUELTIG_AB: 1975
-IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: stadtwerke
+ENTITÄT: betrieb
+BEZEICHNUNG: Hafnerhütte
+FACETTE: WIRTSCHAFT | GESCHICHTE
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  gruendung: 1978
-GUELTIG_AB: 1978
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: nahwaermenetz
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  inbetriebnahme: Frühjahr 2008
-GUELTIG_AB: 2008
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: bauhof
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  inbetriebnahme: 2015
-GUELTIG_AB: 2015
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.82
-
----
-
-ENTITÄT: kulturnacht
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  erstereignis: 2007
-GUELTIG_AB: 2007
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.80
-
----
-
-ENTITÄT: freizeitpark
-BEZEICHNUNG: Tatzmania
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  eroffnung: 2020
-  vorgaenger: Wildpark bzw. Schwarzwaldpark
-  ausstattung: Wildgehege
-  lage: südlich der Stadt
-GUELTIG_AB: 2020
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: ortsteil
-BEZEICHNUNG: Seppenhofen
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  eingemeindet: 1. Januar 1970
-  einwohnerzahl: 994
-  einwohnerzahl_stand: 31. Dezember 2023
-GUELTIG_AB: 1970
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.92
-
----
-
-ENTITÄT: ortsteil
-BEZEICHNUNG: Göschweiler
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  eingemeindet: 1. Juni 1972
-  einwohnerzahl: 498
-  einwohnerzahl_stand: 31. Dezember 2023
-  abgegangene_ortschaften: Räuberschlößchen, Neublumberg
-GUELTIG_AB: 1972
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.92
-
----
-
-ENTITÄT: ortsteil
-BEZEICHNUNG: Bachheim
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  eingemeindet: 1. Januar 1974
-  einwohnerzahl: 377
-  einwohnerzahl_stand: 31. Dezember 2023
-  untergliederung_dorfer: Bachheim, Neuenburg
-  untergliederung_wohnplaetze: Burgmühle, Oberburg, Unterburg
-GUELTIG_AB: 1974
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.92
-
----
-
-ENTITÄT: ortsteil
-BEZEICHNUNG: Dittishausen
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  eingemeindet: 1. Januar 1975
-  einwohnerzahl: 917
-  einwohnerzahl_stand: 31. Dezember 2023
-  untergliederung_dorfer: Dittishausen
-  untergliederung_gehoefte: Weiler
-GUELTIG_AB: 1975
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.92
-
----
-
-ENTITÄT: ortsteil
-BEZEICHNUNG: Reiselfingen
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  eingemeindet: 1. Januar 1975
-  einwohnerzahl: 581
-  einwohnerzahl_stand: 31. Dezember 2023
-  untergliederung_dorfer: Reiselfingen
-  untergliederung_weilere: Dietfurt
-GUELTIG_AB: 1975
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.92
-
----
-
-ENTITÄT: ortsteil
-BEZEICHNUNG: Unadingen
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  eingemeindet: 1. Januar 1975
-  einwohnerzahl: 1038
-  einwohnerzahl_stand: 31. Dezember 2023
-  untergliederung_dorfer: Unadingen
-  untergliederung_hoefte: Eulenmühle, Grünburg
-  untergliederung_wohnplaetze: Posthaus, Bahnstation Unadingen
-GUELTIG_AB: 1975
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.92
-
----
-
-ENTITÄT: kirche
-BEZEICHNUNG: Kirche Dittishausen
-ORTSTEIL_BEZUG: Dittishausen
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  seitenaltaere: zwei romanische Seitenaltäre der Gebrüder Moroder (1906)
-  linker_altar: Gottesmutter thronend mit Heiligen Barbara und Agnes
-  rechter_altar: Heiliger Petrus mit Heiligen Josef und Wendelin
-GUELTIG_AB: 1906
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: kirche
-BEZEICHNUNG: St. Bartholomäus
-ORTSTEIL_BEZUG: Seppenhofen
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  denkmalsschutz: ja
-GUELTIG_AB: null
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: kirche
-BEZEICHNUNG: Kirche Reiselfingen
-ORTSTEIL_BEZUG: Reiselfingen
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  ersterwaehnung: 1275
-  ursprung: Damenstift Säckingen
-  status_seit: Filialkirche der Kirche von Löffingen
-  grund_unterstellung: geringe Einkünfte
-GUELTIG_AB: 1275
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.80
-
----
-
-ENTITÄT: kapelle
-BEZEICHNUNG: Kapelle am Ort des abgegangenen Gehöfts Weiler
-ORTSTEIL_BEZUG: Dittishausen
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  charakterisierung: zweitältestes Gebäude der Region (laut Erhaltungs- und Förderungsverein)
-GUELTIG_AB: null
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.65
-
----
-
-ENTITÄT: naturdenkmal
-BEZEICHNUNG: Alemannengrab Dittishausen
-ORTSTEIL_BEZUG: Dittishausen
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  charakterisierung: Fundstätte
-GUELTIG_AB: null
-IST_VERMUTLICH_AKTUELL: true
+  lage: An der Mauchach
+  erbauung: 1651
+GUELTIG_AB: 1651
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.75
 
 ---
 
-ENTITÄT: burg
-BEZEICHNUNG: Burg Neu-Blumberg
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
+ENTITÄT: betrieb
+BEZEICHNUNG: Ziegelhütte
+FACETTE: WIRTSCHAFT | GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  status: mittelalterlich, abgetragen
-  reste: gering
-GUELTIG_BIS: null
+  bau_jahr: 1681
+  lage_ursprünglich: Gemarkung Rötenbach
+  neubau_ort: Auf eigener Gemarkung Löffingen
+GUELTIG_AB: 1681
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.72
+VERTRAUEN_EXTRAKTION: 0.8
 
 ---
 
-ENTITÄT: burg
-BEZEICHNUNG: Burg Stallegg
+ENTITÄT: wirtschaftszweig
+BEZEICHNUNG: Köhlerei Löffingen
+FACETTE: WIRTSCHAFT | GESCHICHTE
+ORTSTEIL_BEZUG: Löffinger Stadtwald
+QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  dauer: fast 400 Jahre
+  ende: 1920
+GUELTIG_AB: 
+GUELTIG_BIS: 1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gebäude
+BEZEICHNUNG: Festhalle / Kulturzentrum
+FACETTE: KULTUR | LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neubau_beginn: 1923 (mit Schulhaus und Turnhalle)
+  eröffnung_als_schule: 1936 ("Adolf-Hitler-Schule")
+  sanierung: 2010/2011 (Festhalle komplett saniert)
+  einweihung_nach_sanierung: 2012
+GUELTIG_AB: 1923
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Realschule Löffingen
+FACETTE: BILDUNG | INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neubau_fertigstellung: 1974
+  schulverbund: 2013 (Werkrealschule und Realschule)
+  sanierung: 2022 (Realschulgebäude grundlegend saniert und eingeweiht)
+GUELTIG_AB: 1974
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: sportstätte
+BEZEICHNUNG: Dreifeldsporthalle
+FACETTE: SPORT | INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 2010 (30. Oktober)
+  fundament: Ehemaliges Hallenbad
+GUELTIG_AB: 2010
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: betrieb
+BEZEICHNUNG: Bauhof Löffingen
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme: 2015
+GUELTIG_AB: 2015
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Breitbandversorgung
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausbau: 2017
+  beschreibung: Schnelles Internet
+GUELTIG_AB: 2017
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Löffinger Städtlefest
+FACETTE: KULTUR | FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1986 (erstes Wochenende im August)
+GUELTIG_AB: 1986
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Kulturnacht Löffingens
+FACETTE: KULTUR | FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstausgabe: 2007
+GUELTIG_AB: 2007
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: brauch
+BEZEICHNUNG: Löffinger Fastnacht
+FACETTE: KULTUR | GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ältester_hinweis: 1764 (7. März, Andreas Kern aus Oberbränd feiert in Löffingen)
+  organisierung_anfang: 1889 (Gründung der Zunft der Laternenbrüder)
+  bedeutung: "Anfang der organisierten Fastnacht in Löffingen"
+GUELTIG_AB: 1764
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: betrieb
+BEZEICHNUNG: Freiwillige Feuerwehr Löffingen
+FACETTE: KULTUR | INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1863
+  gründer_anzahl: 70 Männer
+  nachfolge: Bürgerwehrkapelle lebt als Feuerwehrmusik wieder auf
+GUELTIG_AB: 1863
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Wasserversorgung Löffingen
+FACETTE: INFRA | GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aufbau: 1873
+GUELTIG_AB: 1873
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Postamt Löffingen
+FACETTE: INFRA | GESCHICHTE
+ORTSTITEL_BEZUG: 
+QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1882 (nach Aufgabe der Posthalterei im Gasthaus "Löwen")
+  auflösung: 1999
+GUELTIG_AB: 1882
+GUELTIG_BIS: 1999
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: badstube
+BEZEICHNUNG: Badstube "Sonne" (später "Lamm")
+FACETTE: FREIZEIT | GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Keller des Gasthauses "Sonne"
+  wasser_charakteristik: Salpeter und Alaun enthaltendes Wasser
+  wasser_ruhm: In Beschreibungen deutscher Heilbäder gerühmt
+  versiégung: 1834
+GUELTIG_AB: 1439
+GUELTIG_BIS: 1834
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: WasserWeltenSteig
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  länge: 109 km
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Wutach-Pilgerweg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gewässer_bezug: Wutach
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Schwarzwald Panorama-Radweg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
 EIGENSCHAFTEN:
-  status: mittelalterlich, abgetragen
-  reste: gering
-GUELTIG_BIS: null
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.72
+  länge: 282 km
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Drei-Welten-Radweg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
+EIGENSCHAFTEN:
+  länge: 302 km
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtkern
+DESIGNUNG: Historischer Stadtkern Löffingen
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.loeffingen.de/tourismus-freizeit/sehenswertes/historischer-stadtkern | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundriss_form: Unregelmäßiges Oval
+  hauptachse: Ehemalige Fernhandelsstraße (leicht gebogen)
+  zentrum: Marktplatz mit Rathaus in der Mitte
+  nebenstraßen: Zwei Nebenstraßen mit eng gereihten, traufständigen Häuserzeilen
+  ursprüngliche_funktion_häuser: Ackerbürgerhäuser
+  ursprüngliche_funktion_nebenstraßen: Wirtschaftshöfe
+  mauerring: Umfassend, Häuserzeilen lehnen sich rückwärts an ihn
+  besonderheit: Straßengefüge ohne private/halböffentliche Bereiche (rückwärtige Hofbereiche sind öffentlich)
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
 ENTITÄT: tor
 BEZEICHNUNG: Oberes Tor
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.loeffingen.de/tourismus-freizeit/sehenswertes/historischer-stadtkern | Gemeinde-Webseite
 EIGENSCHAFTEN:
   lage: Nordwesten zur Vorstadt hin
-  status_zeitraum: bis 19. Jahrhundert verschlossen
-GUELTIG_AB: null
+  status_bis_19jh: Verschlossen
+  erhalt: Erhalten
+GUELTIG_AB: 
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.82
+VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
 ENTITÄT: tor
 BEZEICHNUNG: Unteres Tor
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.loeffingen.de/tourismus-freizeit/sehenswertes/historischer-stadtkern | Gemeinde-Webseite
 EIGENSCHAFTEN:
   lage: Süden, westlich der Kirche
-  status_zeitraum: bis 19. Jahrhundert verschlossen
-GUELTIG_AB: null
+  status_bis_19jh: Verschlossen
+  erhalt: Erhalten
+GUELTIG_AB: 
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.82
+VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
 ENTITÄT: tor
 BEZEICHNUNG: Maienländer Tor
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.loeffingen.de/tourismus-freizeit/sehenswertes/historischer-stadtkern | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  lage: westliche Ortsausfahrt
-  funktion_urspruenglich: lokaler Verkehr
-  erbau_urspruenglich: 1580
-  neuerrichtung_grund: Brand 1921
-  status_zeitraum: bis 19. Jahrhundert verschlossen
+  lage: Westliche Ortsausfahrt
+  ursprüngliche_funktion: Nur dem lokalen Verkehr dienen
+  ursprüngliche_erbauung: 1580
+  neuerbauung_nach_brand: Nach dem Brand von 1921
 GUELTIG_AB: 1580
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: stadtkern
-QUELLE: https://www.loeffingen.de/tourismus-freizeit/sehenswertes/historischer-stadtkern | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  form: unregelmaessiges Oval
-  hauptachse: einstige Fernhandelstrasse, leichter Bogen
-  zentrum_erweiterung: Marktplatz mit Rathaus
-  nebenstrassen_anzahl: zwei
-  nebenstrassen_charakterisierung: eng gereihte, traufstaendige Haeuser, einst Ackerbuerger, umrunden Ortszentrum
-  nebenstrassen_funktion_frueh: Wirtschaftshöfe
-  haeuser_rückseitig_mauerring: lehnen sich an
-GUELTIG_AB: null
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Friedrich von Hartenberg
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  lebensdaten: 1781–1822
-  charakterisierung: Hochstapler
-  verbindung_loeffingen: Sohn der Stadt
-GUELTIG_AB: 1781
-GUELTIG_BIS: 1822
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Ambros Oschwald
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  lebensdaten: 1801–1873
-  beruf: Priester
-  aktivitaet: Gründer einer Kolonie in Wisconsin
-  wohnort_frueh: Lochmühle (Ortsteil Unadingen)
-  verbindung_loeffingen: Sohn der Stadt
-GUELTIG_AB: 1801
-GUELTIG_BIS: 1873
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.86
-
----
-
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Karl Heinrich Baader
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  lebensdaten: 1829–1900
-  beruf: Geheimer Oberregierungsrat, Mitglied des Badischen Verwaltungsgerichtshofes
-  verbindung_loeffingen: Sohn der Stadt
-GUELTIG_AB: 1829
-GUELTIG_BIS: 1900
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Anton Viesel
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  lebensdaten: vor 1870–unbekannt
-  beruf: Bildhauer
-  werke_ort: Freiburg im Breisgau
-  geburtsort: Reiselfingen
-  verbindung_loeffingen: Sohn der Stadt (aus Ortsteil)
-GUELTIG_AB: 1870
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.78
-
----
-
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Adolf Hildenbrand
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  lebensdaten: 1881–1944
-  beruf: Maler, Dozent an der Kunstgewerbeschule Pforzheim, Freimaurer
-  verbindung_loeffingen: Sohn der Stadt
-GUELTIG_AB: 1881
-GUELTIG_BIS: 1944
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Rudolf Maier
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  lebensdaten: 1886–1962
-  beruf: Landrat des Kreises Überlingen
-  verbindung_loeffingen: Sohn der Stadt
-GUELTIG_AB: 1886
-GUELTIG_BIS: 1962
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Walter von Lucadou
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1945
-  beruf: Physiker und Parapsychologe
-  verbindung_loeffingen: Sohn der Stadt
-GUELTIG_AB: 1945
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Wolfgang Zinser
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1964
-  beruf: ehemaliger deutscher Meister im Dreisprung
-  verbindung_loeffingen: Sohn der Stadt
-GUELTIG_AB: 1964
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Tutilo Burger OSB
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1965
-  beruf: Ordensgeistlicher, Erzabt der Benediktinerabtei Beuron
-  name_in_orden: Tutilo
-  verbindung_loeffingen: Sohn der Stadt
-  ordensname_jahr: 2011
-GUELTIG_AB: 1965
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Katja Marx
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1965
-  beruf: Journalistin und Medienmanagerin
-  verbindung_loeffingen: Tochter der Stadt
-GUELTIG_AB: 1965
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Gottfried Hummel
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1968
-  beruf: Komponist und Arrangeur
-  verbindung_loeffingen: Sohn der Stadt
-GUELTIG_AB: 1968
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Martin Braun
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1968
-  beruf: Fußballspieler, ehemaliger Mannschaftskapitän des SC Freiburg
-  verbindung_loeffingen: Sohn der Stadt
-GUELTIG_AB: 1968
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Martin Wehrle
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1970
-  beruf: Karriereberater und Autor
-  verbindung_loeffingen: Sohn der Stadt
-GUELTIG_AB: 1970
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Stefan Evertz
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1974
-  beruf: deutscher Schauspieler und Synchronsprecher
-  verbindung_loeffingen: Sohn der Stadt
-GUELTIG_AB: 1974
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Markus Schuler
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1977
-  beruf: Fußballspieler
-  club_letzter: Arminia Bielefeld
-  verbindung_loeffingen: Sohn der Stadt
-GUELTIG_AB: 1977
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Guido Andris
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  lebensdaten: 1879–1974
-  beruf: katholischer Stadtpfarrer
-  amtszeit: 1929–1934
-  charakterisierung: NS-Gegner
-  verbindung_loeffingen: mit Löffingen verbunden
-GUELTIG_AB: 1879
-GUELTIG_BIS: 1974
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.90
-
----
-
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Ernst Rudigier
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  lebensdaten: 1922–1981
-  beruf: Politiker (FDP)
-  amt: Bürgermeister von Göschweiler
-  verbindung_loeffingen: mit Löffingen verbunden (Ortsteil Göschweiler)
-GUELTIG_AB: 1922
-GUELTIG_BIS: 1981
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Stephan Burger
-QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1962
-  beruf: Erzbischof von Freiburg
-  wohnort_frueh: wuchs in Löffingen auf
-  verbindung_loeffingen: mit Löffingen verbunden, Sohn der Stadt
-GUELTIG_AB: 1962
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.90
-
----
-
-ENTITÄT: bürgermeister
-BEZEICHNUNG: Adolf Kuster
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Tutilo Burger (Erzabt)
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  jahr_entfernung_aus_amt: 1933
-  grund: NSDAP-Entfernung, war demokratisch gewählt
-  folge: politische und gesellschaftliche Gleichschaltung der Gemeinde
-GUELTIG_BIS: 1933
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.88
+  geburt_jahr: 1965
+  titel_position: Erzabt des Benediktinerklosters Beuron
+  ernennung_jahr: 2011 (Heinz Burger wird Erzabt Tutilo)
+  ordensname: OSB
+GUELTIG_AB: 2011
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: bürgermeister
-BEZEICHNUNG: Paul Benitz
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Stephan Burger (Erzbischof)
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  jahr_antritt: 1948
-  charakterisierung: erster demokratisch gewählter Nachkriegsbürgermeister
-GUELTIG_AB: 1948
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
+  geburt_jahr: 1962
+  titel: Erzbischof der Erzdiözese Freiburg
+  ernennung_jahr: 2014
+  ortsverbindung: Wuchs in Löffingen auf
+GUELTIG_AB: 2014
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
 ENTITÄT: bürgermeister
 BEZEICHNUNG: Tobias Link
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
 EIGENSCHAFTEN:
-  amtsantritt: 17. Februar 2014
-  wiederwaehlung: 28. November 2021
-  amtszeit_neu: ab 2021
+  amt_antritt: 2014 (17. Februar)
+  wiederwahl: 2021 (28. November)
 GUELTIG_AB: 2014
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.92
+VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: weltkrieg
+ENTITÄT: ereignis
+BEZEICHNUNG: Waldprozess Löffingen gegen Fürstenberg
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  zeitraum: 1914-1918
-  gefaelle: 41 Löffinger
-GUELTIG_AB: 1914
-GUELTIG_BIS: 1918
+  zeit_span: 1728–1772
+  gegner: Standesherrschaft Fürstenberg
+  ergebnis: Stadt Löffingen gewinnt, erhält neues Waldgebiet
+GUELTIG_AB: 1728
+GUELTIG_BIS: 1772
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.88
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: weltkrieg
+ENTITÄT: ereignis
+BEZEICHNUNG: Hexenverfolgungen Löffingen
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Blumberg (Hinrichtungsort)
 QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  zeitraum: 1939-1945
-  todesfaelle: 7 durch Bombenanschläge
-  gefaelle_wehrdienst: 88 von 438 Eingberufenen
-  vermisste_wehrdienst: 41
-  hauser_total_beschaedigt: 19
-  hauser_schwer_beschaedigt: 14
-  hauser_leicht_beschaedigt: 169
-  besetzung: April 1945 durch französische Truppen
-  uebergabe: kampflos
+  zeitraum: Oktober 1635 – März 1636
+  opfer_gesamt: 33 (27 Frauen, 6 Männer aus Löffingen)
+  hinrichtungsort: Blumberg
+GUELTIG_AB: 1635
+GUELTIG_BIS: 1636
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Löffinger Pfarrrevolte
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1934 (23. Juni)
+  protestierende_anzahl: 16 Löffinger Bürger
+  grund: Protest gegen Vertreibung des katholischen Stadtpfarrers Guido Andris durch NSDAP
+  gegner: NSDAP-Ortsgruppe Löffingen
+GUELTIG_AB: 1934
+GUELTIG_BIS: 1934
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Großfeuer Löffingen 1907
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1907 (23. März)
+  häuser_zerstört: 15
+  lage: Winkel, breitet sich in Demetriusstraße aus
+GUELTIG_AB: 1907
+GUELTIG_BIS: 1907
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Großbrand Löffingen 1921
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1921 (28. Juli, heißer Sommertag)
+  häuser_total_zerstört: 36
+  ausgangsort: Stadtkern, Ausbreitung zum Alenberg
+  obdachlos_gemacht: 209 Personen
+  gesamtschaden: Etwa 20 Millionen Reichsmark
+  erschwernisse: Enge Bebauung, Windeinfluss, Wassermangel
+GUELTIG_AB: 1921
+GUELTIG_BIS: 1921
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Zweiter Weltkrieg in Löffingen
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kriegsjahre: 1939–1945
+  bombenopfer: 7 Tote
+  besatzung_april_1945: Französische Truppen, kampflos übergeben
+  todesfälle_wehrdienst: 88 Gefallene (von 438 Einberufenen)
+  vermisste: 41
+  häuser_total_zerstört: 19
+  häuser_schwer_beschädigt: 14
+  häuser_leicht_beschädigt: 169
 GUELTIG_AB: 1939
 GUELTIG_BIS: 1945
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.90
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: landgericht
+ENTITÄT: siegel
+BEZEICHNUNG: Ältestes Löffinger Siegel
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  etablierung: 1624
-  sitz: Löffingen
-  folge_amt: Fürstlich Fürstenbergisches Amt Löffingen bekommt eigenen Scharfrichter
-  vorgaenger_amt: nachweisbar seit 1408
-GUELTIG_AB: 1624
+  jahr: 1324
+  beschreibung: Zwei fast senkrecht stehende Löffel, dazwischen eine Lilie
+  umschrift: "Sigulum Burgentium de Loeffingen" (Siegel der Bürger von Löffingen)
+GUELTIG_AB: 1324
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.80
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: scharfrichteramt
+ENTITÄT: verwaltung
+BEZEICHNUNG: Landkreis Breisgau-Hochschwarzwald
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  errichtung: 1624
-  auflosung: 1837
-  grund_auflosung: Badischer Staat
-GUELTIG_AB: 1624
-GUELTIG_BIS: 1837
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: städtlefest
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  gruendung: erstes Wochenende im August 1986
-  charakterisierung: Löffinger Städtlefest
-GUELTIG_AB: 1986
+  löffingen_zugehörigkeit: Ab 1973
+  grund: Auflösung Landkreis Hochschwarzwald (ehemals Neustadt)
+GUELTIG_AB: 1973
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: fastnacht
+ENTITÄT: verwaltung
+BEZEICHNUNG: Verwaltungsgemeinschaft Löffingen–Friedenweiler
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  ältester_beleg: 7. März 1764
-  beleg_herkunft: Stadtarchiv Bräunlingen
-  beleg_person: Andreas Kern aus Oberbränd
-  grund_andris_loeffingen: Fastnacht in Oberbränd verboten, feierte in Löffingen
-  datum_feier: Fasnachtsmontag und -dienstag
-  ende_kern: erfroren bei der Weiler Säge
-GUELTIG_AB: 1764
+  gründung_inkrafttreten: 1975 (1. Januar)
+GUELTIG_AB: 1975
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.80
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: obervogtei
+ENTITÄT: betrieb
+BEZEICHNUNG: Stadtwerke Löffingen
+FACETTE: INFRA | WIRTSCHAFT
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  errichtung: 1744
-  charakter: Fürstlich Fürstenbergische Obervogtei
-  auflosung: 1821
-GUELTIG_AB: 1744
-GUELTIG_BIS: 1821
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.82
+  gründung: 1978
+GUELTIG_AB: 1978
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: bürgerwehr
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
+ENTITÄT: siedlung
+BEZEICHNUNG: Alemannengrab Dittishausen
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Dittishausen
+QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
 EIGENSCHAFTEN:
-  erwaehnung: 1587
-  auflosung: 1849 (nach gescheiterter Badischer Revolution, durch preußische Besatzungsmacht)
-GUELTIG_AB: 1587
-GUELTIG_BIS: 1849
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.80
+  zeuge_osm: Alemannengrab Löffingen
+  beschreibung: Fundstätte
+  zeit_besiedlung: 4.–6. Jahrhundert (Alamannen-Besiedlung der Westbaar)
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
 
 ---
 
-ENTITÄT: natur_schutzgebiet
+ENTITÄT: schlucht
 BEZEICHNUNG: Wutachschlucht
+FACETTE: LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
 EIGENSCHAFTEN:
-  charakterisierung: Natur- und Landschaftsschutzgebiet
-  lage: südlich und westlich der Stadt
-  beschreibung: Schlucht
-  funktion_grenze: Grenze zum Landkreis Waldshut
-GUELTIG_AB: null
+  charakteristik: Natürliche Leitlinie und Grenze zum Landkreis Waldshut
+  besonderheit: Wirksame Verkehrsschranke bei winterlicher Witterung
+  schutzstatus: Teil des Natur- und Landschaftsschutzgebietes Wutachschlucht
+GUELTIG_AB: 
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: natur_schutzgebiet
+ENTITÄT: schutzgebiet
 BEZEICHNUNG: Ochsenberg-Litzelstetten
+FACETTE: LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
 EIGENSCHAFTEN:
-  charakterisierung: Natur- und Landschaftsschutzgebiet
-  lage_relativ: südwestlich der Kernstadt
   ausweisungjahr: 1991
-  zweck: Erhalt von Quellsumpf, Feuchtgebiete mit Streuwiesen, Heckenlandschaften
+  lage: Südwestlich der Kernstadt
+  schutzziel: Quellsumpf, Feuchtgebiete mit Streuwiesen, Heckenlandschaften
+  beschreibung: Natur- und Landschaftsschutzgebiet
 GUELTIG_AB: 1991
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.88
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: biotop_vernetzungskonzept
+ENTITÄT: konzept
+BEZEICHNUNG: Biotopvernetzungskonzept Löffingen-Seppenhofen
+FACETTE: INFRA | LANDSCHAFT
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
 EIGENSCHAFTEN:
-  erstellung_jahr: 1992
-  beschluss: Gemeinderatsbeschluss
-  gebiet: unbebaute Teile der Gemarkungen Löffingen und Seppenhofen
+  gründung_beschluss: 1992 (Gemeinderatsbeschluss)
+  geltungsbereich: Unbebaute Teile der Gemarkungen Löffingen und Seppenhofen
 GUELTIG_AB: 1992
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: besucher
-BEZEICHNUNG: Großherzog Friedrich I.
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  herkunft: Badischer Großherzog
-  lebensdaten: 1856–1907
-  anlass_besuch: Manöver
-  besuchsjahr: 1894
-GUELTIG_AB: 1894
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: kreuzweg
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  einweihung: 1895
-  ziel: Schneekreuz
-GUELTIG_AB: 1895
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.82
-
----
-
-ENTITÄT: hochwasser
-QUELLE: https://www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  jahr: 1895
-  charakterisierung: größte Hochwasserkatastrophe der Stadtgeschichte
-GUELTIG_AB: 1895
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.80
-
----
-
-ENTITÄT: gemauerter_mauerring
-QUELLE: https://www.loeffingen.de/tourismus-freizeit/sehenswertes/historischer-stadtkern | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  charakterisierung: äußere Umrandung des Stadtkerns, an den äußeren Häuserzeilen angelehnt
-GUELTIG_AB: null
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: decanalin_zentrum
+ENTITÄT: ortsteil
+BEZEICHNUNG: Seppenhofen
+FACETTE: LAGE
+ORTSTITEL_BEZUG: Seppenhofen
 QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
 EIGENSCHAFTEN:
-  dekanat: Neustadt
-  erzbistum: Erzbistum Freiburg
-  sitz: Löffingen
-GUELTIG_AB: null
+  eingemeindung: 1970 (1. Januar)
+  einwohnerzahl: 994 (Stand: 31. Dezember 2023)
+GUELTIG_AB: 1970
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.88
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Göschweiler
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Göschweiler
+QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1972 (1. Juni)
+  einwohnerzahl: 498 (Stand: 31. Dezember 2023)
+  abgegangene_ortschaften: Räuberschlößchen, Neublumberg
+GUELTIG_AB: 1972
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bachheim
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Bachheim
+QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1974 (1. Januar)
+  einwohnerzahl: 377 (Stand: 31. Dezember 2023)
+GUELTIG_AB: 1974
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Dittishausen
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Dittishausen
+QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1975 (1. Januar)
+  einwohnerzahl: 917 (Stand: 31. Dezember 2023)
+GUELTIG_AB: 1975
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Reiselfingen
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Reiselfingen
+QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1975 (1. Januar)
+  einwohnerzahl: 581 (Stand: 31. Dezember 2023)
+GUELTIG_AB: 1975
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Unadingen
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Unadingen
+QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1975 (1. Januar)
+  einwohnerzahl: 1038 (Stand: 31. Dezember 2023)
+GUELTIG_AB: 1975
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Löffingen (Kernstadt)
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
+EIGENSCHAFTEN:
+  einwohnerzahl: 3382 (Stand: 31. Dezember 2023)
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: demografi
+BEZEICHNUNG: Kirchenaustritte Löffingen
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 2022
+  austritte_katholisch: 99
+  anteil_gesamtbevölkerung_prozent: 1
+GUELTIG_AB: 2022
+GUELTIG_BIS: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: deknat
+BEZEICHNUNG: Dekanat Neustadt (Erzbistum Freiburg)
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Löffingen | Wikipedia
+EIGENSCHAFTEN:
+  sitz: Löffingen
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

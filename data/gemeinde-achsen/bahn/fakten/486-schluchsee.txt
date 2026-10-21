@@ -1,0 +1,676 @@
+ID: 486-schluchsee/001
+ENTITÄT: ort
+BEZEICHNUNG: Schluchsee
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gemeinde-schluchsee.de/schluchsee/schluchsee-in-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_heilklimatischer_kurort: true
+  liegt_im_naturpark: Naturpark Südschwarzwald
+  bundesland: Baden-Württemberg
+  landkreis: Breisgau-Hochschwarzwald
+  gemeindekennzahl: 08315102
+  einwohner: 2500
+  genauigkeit_einwohner: ca.
+  flaeche_ha: 6943
+  hoehenlage_min_m: 675
+  hoehenlage_max_m: 1300
+  postleitzahl: 79859
+  vorwahlen: 07656, 07747 (Schönenbach)
+  waldflaeche_ha: 4900
+  genauigkeit_waldflaeche: ca.
+  gemeindewald_ha: 500
+  genauigkeit_gemeindewald: ca.
+  vereine: 40
+  genauigkeit_vereine: ca.
+  landwirtschaftliche_betriebe: 60
+  genauigkeit_landwirtschaftliche_betriebe: ca.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 486-schluchsee/002
+ENTITÄT: ort
+BEZEICHNUNG: Schluchsee
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Schluchsee_(Gemeinde) | Wikipedia
+EIGENSCHAFTEN:
+  erste_gesicherte_erwaehnung_jahr: 1076
+  erwaehnung_in_urkunde_jahr: 1125
+  erwaehnung_beschreibung: Schenkung des Landgutes Schluchsee an Kloster St. Blasien
+  dreiseenbahn_eroeffnung_jahr: 1926
+  dreiseenbahn_strecke: Titisee nach Seebrugg
+  eingemeindung_faulenfuerst_jahr: 1971
+  eingemeindung_fischbach_jahr: 1971
+  eingemeindung_schoenenbach_jahr: 1973
+  eingemeindung_blasiwald_jahr: 1974
+  bedeutung_fuer_ort: Tourismusaufschwung durch Staumauer und Dreiseenbahn, Wanderort
+GUELTIG_AB: 1076
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 486-schluchsee/003
+ENTITÄT: gewaesser
+BEZEICHNUNG: Schluchsee
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gemeinde-schluchsee.de/schluchsee/schluchsee-in-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: größter See im Schwarzwald
+  bezugsraum_superlativ: Schwarzwald
+  laenge_km: 7.5
+  breite_km: 1.5
+  tiefe_max_m: 61
+  oberflaeche_km2: 5.19
+  wassermenge_millionen_kubikmeter: 67.2
+  stauziel_m_ueber_nn: 930
+  wassersportzentrum: Schwarzwald
+GUELTIG_AB: 1932
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 486-schluchsee/004
+ENTITÄT: gewaesser
+BEZEICHNUNG: Schluchsee
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gemeinde-schluchsee.de/freizeit/tourismus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_badesee: true
+  rang_badewasserqualitaet: zählt zu den saubersten Badeseen in Deutschland
+  aktivitaeten: Segeln, Wassersport, Baden, Angeln, Bootsfahrten
+GUELTIG_AB: 1932
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 486-schluchsee/005
+ENTITÄT: staumauer
+BEZEICHNUNG: Schluchsee Staumauer
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gemeinde-schluchsee.de/schluchsee/schluchsee-in-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1929-1932
+  hoehe_m: 63.50
+  breite_m: 36
+  breite_konditionen: Erdreich
+  kronenlaenge_m: 250
+  kronenbreite_m: 3.7
+  mauerinhalt_m3: 124000
+  gewicht_tonnen: 285000
+  bedeutung_fuer_ort: Energiespeicher und Freizeitwert des Sees, Grundlage des Tourismusaufschwungs
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 486-schluchsee/006
+ENTITÄT: kirche
+BEZEICHNUNG: St.-Nikolaus-Kirche
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Schluchsee_(Gemeinde) | Wikipedia
+EIGENSCHAFTEN:
+  errichtet_jahr: 1275
+  bauart_dach: Holzschindeln
+  ausstattung: von Helmut Lutz (Bildhauer aus Breisach)
+  lage_zur_bahnhof: wenige Schritte vom Bahnhof entfernt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 486-schluchsee/007
+ENTITÄT: kirche
+BEZEICHNUNG: Petruskirche Schluchsee
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gemeinde-schluchsee.de/buerger/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  pfarramt_ort: Lenzkirch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 486-schluchsee/008
+ENTITÄT: gipfel
+BEZEICHNUNG: Schnepfhalde
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gemeinde-schluchsee.de/schluchsee/schluchsee-in-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe_m: 1298
+  superlativ: höchste Erhebung der Gemeinde
+  lage: Nordwesten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 486-schluchsee/009
+ENTITÄT: gipfel
+BEZEICHNUNG: Riesenbühl
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gemeinde-schluchsee.de/schluchsee/schluchsee-in-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe_m: 1097
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 486-schluchsee/010
+ENTITÄT: gipfel
+BEZEICHNUNG: Ahaberg
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gemeinde-schluchsee.de/schluchsee/schluchsee-in-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe_m: 1180
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 486-schluchsee/011
+ENTITÄT: gipfel
+BEZEICHNUNG: Unterer Habsberg
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gemeinde-schluchsee.de/schluchsee/schluchsee-in-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe_m: 1208
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 486-schluchsee/012
+ENTITÄT: wanderweg
+BEZEICHNUNG: Jägersteig
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gemeinde-schluchsee.de/freizeit/tourismus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_premiumwanderweg: true
+  wettbewerb_schoenstes_wanderweg_deutschlands_2018: 6. Platz
+  bedeutung_fuer_ort: Attraktion und Wanderort-Status
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 486-schluchsee/013
+ENTITÄT: ort
+BEZEICHNUNG: Schluchsee
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gemeinde-schluchsee.de/freizeit | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wanderwege_km: 160
+  genauigkeit_wanderwege: ca.
+  markierte_wanderwege: ja
+  wanderort_des_jahres: 2005
+  rank_wanderort_des_jahres: Deutschlands Wanderort des Jahres
+  skiloipen_km: 60
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 486-schluchsee/014
+ENTITÄT: bad
+BEZEICHNUNG: aqua fun
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gemeinde-schluchsee.de/freizeit/freibad-aqua-fun | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bad_typ: Freibad Erlebnis-Badeanstalt
+  ausstattung: 105m Rutsche, Strömungskanal, beheiztes Schwimmbecken, Zugang zum See, Abenteuerspielplatz
+  restaurant: ja
+  barrierefrei: true
+  beachvolleyball: ja
+  fussball: ja
+  hunde: nicht erlaubt
+  status_2026: geschlossen
+  reopening_info: Öffnungsdatum 2027 wird zeitnah bekanntgegeben
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 486-schluchsee/015
+ENTITÄT: bad
+BEZEICHNUNG: Hallenbad Schönenbach
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Schönenbach
+QUELLE: https://www.gemeinde-schluchsee.de/freizeit/hallenbad-schoenenbach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bad_typ: Hallenbad mit Saunabereich
+  becken_laenge_m: 6
+  becken_breite_m: 12
+  wassertiefe_m: 1.35
+  temperatur_celsius: 29
+  saunabereich: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 486-schluchsee/016
+ENTITÄT: freizeitpark
+BEZEICHNUNG: Spaßpark Hochschwarzwald
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gemeinde-schluchsee.de/freizeit | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausstattung: Rodel- und Spaßpark, Minigolf, E-Bike Verleih
+  adresse: Fischbacher Str. 16
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 486-schluchsee/017
+ENTITÄT: segelverein
+BEZEICHNUNG: Segelverein Schluchsee e.V.
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gemeinde-schluchsee.de/buerger/vereine | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: größter Segelclub in Südbaden
+  bezugsraum_superlativ: Südbaden
+  angebote: Jugendausbildung, Fahrtensegeln, Regattasport
+  regatten_pro_jahr: 6
+  clubanlage: am Schluchseeufer
+  zentrum: Seglerhof (alter Schwarzwaldbauernhof in Vorderaha 7)
+  bedeutung_fuer_ort: Wassersport-Anziehungspunkt, Regattaveranstaltungsort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 486-schluchsee/018
+ENTITÄT: campingplatz
+BEZEICHNUNG: Campingplatz Schluchsee
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gemeinde-schluchsee.de/freizeit/camping-schluchsee | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: direkt am Schluchsee
+  betriebstage_pro_jahr: 12 Monate
+  plaetze_gesamt: 200
+  genauigkeit_plaetze: ueber
+  plaetze_schattiger_bereich: 100
+  stellplatzgroesse_qm: 75-90
+  stromanschluss: ja
+  terrassen_angelegt: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 486-schluchsee/019
+ENTITÄT: wohnmobilstellplatz
+BEZEICHNUNG: Wohnmobilstellplatz Schluchsee
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gemeinde-schluchsee.de/freizeit/wohnmobilstellplatz-schluchsee | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stellplaetze_kurzzeitbesucher: 8
+  stellplaetze_langzeitbesucher: 14
+  betrieb_ganzjaehrig: true
+  location_neben_parkplatz: aqua fun
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 486-schluchsee/020
+ENTITÄT: museum
+BEZEICHNUNG: Schwarzwälder Gebrauchsglas / Kabinett der Glashütte Aeule
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gemeinde-schluchsee.de/freizeit/glasmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Fischbacher Straße 7, 79859 Schluchsee
+  ausstellung_themen: Geschichte der Aeulemer Glashütte, Schwarzwälder Gebrauchsglas 18.-20. Jahrhundert
+  exponaten_sammlung: Netzschüssele, Fadenzainle, Kreuzschnäbel, Taufflaschen, Bier-Liesel, Geldkatzen
+  sammler: Monika und Horst Degen (Ehepaar)
+  besonderheit: architektonische Aufteilung in helle Holzfarben (Gebrauchsglas) und dunkles Schwarz (Glashütte-Atmosphäre)
+  fuehrungen: ja (auf Anfrage)
+  kinderangebot: Noppi-Glasfigur mit Fragen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 486-schluchsee/021
+ENTITÄT: blumenpfad
+BEZEICHNUNG: Blumenpfad Schluchsee
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gemeinde-schluchsee.de/freizeit/blumenpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  streckentyp: Rundweg durch Ortsmitte und Wiesengrundpark
+  fertigstellung_jahr: 2023
+  funktion: Sensibilisierung der Natur-, Kultur- und Pflanzenwelt
+  infoschilder: ja (mit Namen "Besser Wisserle")
+  foerderung: EU, Ministerium für Ernährung Baden-Württemberg, Naturpark Südschwarzwald, GlücksSpirale
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 486-schluchsee/022
+ENTITÄT: buergermeister
+BEZEICHNUNG: Jürgen Kaiser
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Schluchsee_(Gemeinde) | Wikipedia
+EIGENSCHAFTEN:
+  amtsantritt_jahr: 2009
+  partei_2009_2025: parteilos
+  partei_seit_2025: CDU
+  wiederwahl_jahr: 2017
+  wiederwahl_jahr_2: 2025
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 486-schluchsee/023
+ENTITÄT: ortsteil
+BEZEICHNUNG: Blasiwald
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Blasiwald
+QUELLE: https://de.wikipedia.org/wiki/Schluchsee_(Gemeinde) | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung_jahr: 1974
+  weiler_zubehoerig: Muchenland
+  zinken_zubehoerig: Althütte, Eisenbreche, Loch, Sommerseite, Winterseite
+  einwohner: 280
+  eigenschaften_im_gemeinderatssystem: Ortschaft mit Ortschaftsrat und Ortsvorsteher
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 486-schluchsee/024
+ENTITÄT: ortsteil
+BEZEICHNUNG: Faulenfürst
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Faulenfürst
+QUELLE: https://de.wikipedia.org/wiki/Schluchsee_(Gemeinde) | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung_jahr: 1971
+  dorf: Faulenfürst
+  ort_zubehoerig: Seebrugg (Seebruck)
+  einwohner: 170
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 486-schluchsee/025
+ENTITÄT: ortsteil
+BEZEICHNUNG: Fischbach
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Fischbach
+QUELLE: https://de.wikipedia.org/wiki/Schluchsee_(Gemeinde) | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung_jahr: 1971
+  dorf: Ober-Fischbach
+  zinken_zubehoerig: Hinterhäuser, Schwende
+  einwohner: 250
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 486-schluchsee/026
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schönenbach
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Schönenbach
+QUELLE: https://de.wikipedia.org/wiki/Schluchsee_(Gemeinde) | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung_jahr: 1973
+  dorf: Schönenbach
+  hoefe_zubehoerig: Oberschwarzhalden, Unterschwarzhalden
+  einwohner: 120
+  eigenschaften_im_gemeinderatssystem: Ortschaft mit Ortschaftsrat und Ortsvorsteher
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 486-schluchsee/027
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schluchsee
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Schluchsee
+QUELLE: https://de.wikipedia.org/wiki/Schluchsee_(Gemeinde) | Wikipedia
+EIGENSCHAFTEN:
+  rang: Hauptort
+  dorf: Schluchsee
+  weiler_zubehoerig: Äule, Oberaha, Unteraha, Unterfischbach
+  gehoeft_zubehoerig: Dresselbach
+  wohnplaetze_zubehoerig: Forsthaus Oberaha, Unterkrummen
+  einwohner: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 486-schluchsee/028
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Schluchseelauf
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Schluchsee_(Gemeinde) | Wikipedia
+EIGENSCHAFTEN:
+  laufwettbewerb_typ: Rundkurs einmal um den Schluchsee
+  erste_durchfuehrung_jahr: 1984
+  regelmaeßigkeit: jährlich
+  zeitpunkt: Sonntag des ersten Wochenende im Mai
+  laenge_km: 18
+  rang: traditioneller Laufwettbewerb
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 486-schluchsee/029
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Schluchseetriathlon
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Schluchsee_(Gemeinde) | Wikipedia
+EIGENSCHAFTEN:
+  schwimmstrecke_m: 1500
+  radsportstrecke_km: 40
+  laufstrecke_km: 10
+  zeitpunkt: Ende Juli
+  bedeutung: Abschlussveranstaltung der Baden-Württembergischen Triathlonliga
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 486-schluchsee/030
+ENTITÄT: gewaesser
+BEZEICHNUNG: Schwarza (Schwarza-Stausee)
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gemeinde-schluchsee.de/schluchsee/schluchsee-in-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: tiefste Erhebung der Gemeinde (als Zuflussgebiet)
+  beschreibung: Schwarza-Stausee
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 486-schluchsee/031
+ENTITÄT: dreiseenbahn
+BEZEICHNUNG: Dreiseenbahn
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Schluchsee_(Gemeinde) | Wikipedia
+EIGENSCHAFTEN:
+  strecke: Titisee nach Seebrugg
+  eroeffnung_jahr: 1926
+  lage: verläuft am Nordufer des Sees
+  bahnhoefe_und_haltepunkte: Seebrugg (Endbahnhof), Schluchsee, Aha
+  weiterer_anschluss: über Höllentalbahn nach Freiburg und Donaueschingen
+  bedeutung_fuer_ort: Beginn des Tourismusaufschwungs
+GUELTIG_AB: 1926
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 486-schluchsee/032
+ENTITÄT: bundesstrasse
+BEZEICHNUNG: Bundesstraße B 500 (Schwarzwaldhochstraße)
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Schluchsee_(Gemeinde) | Wikipedia
+EIGENSCHAFTEN:
+  verlaeuft: am Nordufer des Sees, durch den Ort, an der Staumauer vorbei
+  ziel: Waldshut am Hochrhein (südlich)
+  bedeutung: verkehrsgünstige Anbindung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 486-schluchsee/033
+ENTITÄT: fahrradweg
+BEZEICHNUNG: Dreiseenradweg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Schluchsee_(Gemeinde) | Wikipedia
+EIGENSCHAFTEN:
+  strecke: Freiburg über Passhöhe Rinken zum Titisee und weiter über Windgfällweiher nach Schluchsee
+  beschreibung: beliebte Radstrecke
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 486-schluchsee/034
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Sevrier
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Schluchsee_(Gemeinde) | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: Lac d'Annecy
+  partnerschaftliche_verbindung: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 486-schluchsee/035
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Baptist Eiselin
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Dresselbach
+QUELLE: https://de.wikipedia.org/wiki/Schluchsee_(Gemeinde) | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1637-1693
+  profession: Benediktiner und Historiker
+  geburtsort: Dresselbach
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1693
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 486-schluchsee/036
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Joseph Hörr
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Blasiwald-Althütte
+QUELLE: https://de.wikipedia.org/wiki/Schluchsee_(Gemeinde) | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1732-1785
+  profession: Bildhauer
+  geburtsort: Blasiwald-Althütte
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1785
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 486-schluchsee/037
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Toni Merz
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Schönenbach
+QUELLE: https://de.wikipedia.org/wiki/Schluchsee_(Gemeinde) | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1895-1966
+  profession: Maler
+  geburtsort: Schönenbach
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1966
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 486-schluchsee/038
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Otto Hitzfeld
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Schluchsee_(Gemeinde) | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1898-1990
+  profession: Regimentskommandeur des Infanterieregiments 213 der 73. Infanterie-Division der Wehrmacht
+  geburtsort: Schluchsee
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1990
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 486-schluchsee/039
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Georg Herbstritt
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Schluchsee_(Gemeinde) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsort: Schluchsee
+  geburtsjahr: 1965
+  profession: Historiker
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 486-schluchsee/040
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Julien Chaim Soussan
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Schluchsee_(Gemeinde) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsort: Schluchsee
+  geburtsjahr: 1968
+  profession: Rabbiner der Jüdischen Gemeinde Frankfurt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 486-schluchsee/041
+ENTITÄT: wanderweg
+BEZEICHNUNG: Mittelweg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Schluchsee_(Gemeinde) | Wikipedia
+EIGENSCHAFTEN:
+  fernwanderweg: ja
+  typ: Schwarzwaldverein
+  strecke: von Pforzheim nach Waldshut
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 486-schluchsee/042
+ENTITÄT: wanderweg
+BEZEICHNUNG: Schluchtensteig
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Schluchsee_(Gemeinde) | Wikipedia
+EIGENSCHAFTEN:
+  strecke: von Stühlingen nach Wehr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 486-schluchsee/043
+ENTITÄT: kulturdenkmal
+BEZEICHNUNG: Steinkreise am Schluchsee
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Schluchsee_(Gemeinde) | Wikipedia
+EIGENSCHAFTEN:
+  lage: auf dem Weg zwischen Gasthaus Eisenbreche und Staumauer
+  status: Kulturdenkmal und Sehenswürdigkeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 486-schluchsee/044
+ENTITÄT: angeln
+BEZEICHNUNG: Schluchsee als Angelgewässer
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gemeinde-schluchsee.de/freizeit/angeln-am-schluchsee | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fischarten: Aal, Hecht, Zander, Felchen, Karpfen, Schleie, Seeforelle, Regenbogenforelle, Bachforelle, Seesaibling, Quappe, Barsch, Weißfische
+  beliebteste_angelstelle: Kaiserbucht (südwestliches Ende des Sees)
+  kaiserbucht_eignung: Karpfen- und Raubfischangler
+  flache_uferzonen_beliebt: Aha (für Friedfischangler)
+  fangmethode: Schleppen mit Wobblern in tiefen Bereichen
+  tiefe_bereiche_fische: Felchen und Seesaiblinge
+  voraussetzung_angeln: gültiger deutscher Fischereischein und Angelkarte erforderlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 486-schluchsee/045
+ENTITÄT: klima
+BEZEICHNUNG: Klima Schluchsee
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Schluchsee_(Gemeinde) | Wikipedia
+EIGENSCHAFTEN:
+  durchschnittstemperatur_celsius: 5.6
+  temperatur_januar_celsius: -2.2
+  temperatur_juli_celsius: 14.4
+  niederschlag_mm: 1503
+  niederschlagverteilung: gleichmäßig über das ganze Jahr
+  trockenster_monat: September
+  naessester_monat: Dezember
+  datengrundlage: 1961-1990
+GUELTIG_AB: 1961
+GUELTIG_BIS: 1990
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8

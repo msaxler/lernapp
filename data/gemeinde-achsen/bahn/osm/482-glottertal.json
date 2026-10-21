@@ -1,0 +1,863 @@
+{
+ "ort": "482-glottertal",
+ "gebiet": "Gemeindegrenze",
+ "kategorien": {
+  "Gipfel": [
+   {
+    "name": "Brombeerkopf",
+    "zusatz": "864 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   },
+   {
+    "name": "Flaunser",
+    "zusatz": "866 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   },
+   {
+    "name": "Eschbacher Höchst",
+    "zusatz": "870 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   },
+   {
+    "name": "Hornbühl",
+    "zusatz": "727 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   },
+   {
+    "name": "Gullerkopf",
+    "zusatz": "817 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   },
+   {
+    "name": "Kranzkopf",
+    "zusatz": "816 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   },
+   {
+    "name": "Härterer Felsen",
+    "zusatz": "976 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   },
+   {
+    "name": "Schlosseck",
+    "zusatz": "634 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   },
+   {
+    "name": "Scherersköpfle",
+    "zusatz": "716 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   },
+   {
+    "name": "Flissertkopf",
+    "zusatz": "506 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   },
+   {
+    "name": "Eichberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   }
+  ],
+  "Aussicht": [
+   {
+    "name": "Leimeneck",
+    "zusatz": "422 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "viewpoint"
+    }
+   }
+  ],
+  "Klinik": [
+   {
+    "name": "Deutsches Rotes Kreuz Sanitätsraum",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "hospital"
+    }
+   },
+   {
+    "name": "Thure-von-Uexküll-Klinik",
+    "zusatz": "",
+    "wikipedia": "de:Carlsbau",
+    "website": "https://www.uexkuell-klinik.de/",
+    "tags": {
+     "amenity": "clinic"
+    }
+   },
+   {
+    "name": "Rehaklinik Glotterbad",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.rehaklinik-glotterbad.de/",
+    "tags": {
+     "amenity": "clinic"
+    }
+   }
+  ],
+  "Freizeit": [
+   {
+    "name": "Schwarzwaldklinik",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "attraction"
+    }
+   },
+   {
+    "name": "Hilzinger Mühle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "attraction"
+    }
+   }
+  ],
+  "Gewässer": [
+   {
+    "name": "Badbächle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Stecklebächle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Steinhohlebach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Föhrenbächle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Hartererbächli",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Kandelbächlein",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Gscheidbühlbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Ahlenbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Ohrensgraben",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Glotter",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Schlemblerdobel",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Ohrensbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Winterhohlenbächle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Allmendbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Krunklerbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Wuspenhofbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Elzendobel",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Ohrensbächle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   }
+  ],
+  "Sportstätte": [
+   {
+    "name": "Glottertäler Schützenverein",
+    "zusatz": "shooting",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "shooting"
+    }
+   },
+   {
+    "name": "Tennisplatz",
+    "zusatz": "tennis",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "recreation_ground",
+     "leisure": "sports_centre",
+     "sport": "tennis"
+    }
+   }
+  ],
+  "Kultur": [
+   {
+    "name": "Eichberghalle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "arts_centre"
+    }
+   }
+  ],
+  "Brauerei/Winzer": [
+   {
+    "name": "Winzergenossenschaft Glottertal",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "craft": "winery"
+    }
+   }
+  ],
+  "Bad": [
+   {
+    "name": "Panoramafreibad Glottertal",
+    "zusatz": "swimming",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "recreation_ground",
+     "leisure": "water_park",
+     "sport": "swimming"
+    }
+   }
+  ],
+  "Wanderweg": [
+   {
+    "name": "Zähringer-Wanderweg",
+    "zusatz": "74 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Breisgauer Weinweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Josef-Seger-Weg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Denzlingen - Furtwangen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kandel-Höhenweg [05. St. Peter→Freiburg]",
+    "zusatz": "",
+    "wikipedia": "de:Kandelhöhenweg",
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Streckereck - Weidberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Am Hohstiegskopf - Überm Elzendobel",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Am Wuspenhof - Wuspeneck",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Am Hohstiegskopf - Streckereck",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hornbühlweg - Streckereck",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Attental Albrechtenhof - Streckereck",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Grundhofwald - Wuspeneck",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Am Wuspeneck - Wuspeneck",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kandelpyramide - Kreuzacker",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Gummenhofhütte - Hoschgetkreuz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Gummenwald - Oberhalb Dilgerhäusle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Gummenwald - Häuslewald",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Alter Rohrweg - Häuslewald",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Gummenhofhütte - Parkplatz Kaibeloch",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Gummenhofhütte - Oberhalb Dilgerhäusle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Im Ränkwald - Kunklerwald",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Gummenwald - Im Kandelwald",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Gullerkopf - Im Kandelwald",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Moosbühl - Bei der Thomashütte",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Bei der Thomashütte - Hoschgetkreuz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Bei der Thomashütte - Großer Kandelfelsen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kreuzacker - Über den Felsen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hilzinger Mühle - Oberglottertal Ehem. Gschwandersäge",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Holzplatz - Hilzinger Mühle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kunklerwald - Holzplatz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Rebwald - Wissereck",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Wartbühl - Rebwald",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Luser - Am Luser",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Vogesenblick - Am Luser",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Vogesenblick - Vogesenblick",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Heidelbeereckle - Vogesenblick",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Wäldele - Luser",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Über dem Heuweg - Am Kranzkopf",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Luser - Über dem Heuweg",
+    "zusatz": "0.4 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Vogesenblick - Luser",
+    "zusatz": "0.8 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Schlosswaldeck - Unter dem Stollen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Im Schlosswald - Schlosswaldeck",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Schlosswaldeck - Überm Adamshof",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Wissereck - Reschhof",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Stockacker - Im Schlosswald",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Schlossberg - Stockacker",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Wissereck - Im Schlosswald",
+    "zusatz": "1.0 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Wissereck - Schlossberg",
+    "zusatz": "1.0 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Beim Schätzlehof - Wissereck",
+    "zusatz": "0.6 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Oberglottertal Ehem. Gschwandersäge - Oberglottertal Ehem. Gschwandersäge",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   }
+  ],
+  "Betrieb": [
+   {
+    "name": "Gewerbegebiet Engematten",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "industrial"
+    }
+   }
+  ],
+  "Radweg": [
+   {
+    "name": "Badischer Weinradweg - Etappe 2 Variante: Freiburg/Glottertal",
+    "zusatz": "seit 2020, 43 km",
+    "wikipedia": null,
+    "website": "https://www.touren-schwarzwald.info/de/tour/radfahren/badischer-weinradweg-variante-zu-etappe-2-freiburg-glottertal/32683013/",
+    "tags": {
+     "route": "bicycle"
+    }
+   }
+  ]
+ }
+}
