@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2-portraet",
+ "ort": "501-oberhonnefeld-gierend",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 9995,
+ "token_ein": 154957,
+ "token_aus": 4267,
+ "usage": {
+  "input_tokens": 14,
+  "cache_creation_input_tokens": 22379,
+  "cache_read_input_tokens": 132564,
+  "output_tokens": 4267,
+  "output_tokens_details": {
+   "thinking_tokens": 1880
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 22379,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 2885,
+    "cache_read_input_tokens": 28133,
+    "cache_creation_input_tokens": 1148,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 1148
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.37434979999999995,
+ "sekunden": 77,
+ "fehler": false,
+ "zeit": "2026-10-27T10:52:03"
+}

@@ -1,0 +1,262 @@
+ID: 495-freisenbruch/001
+ENTITÄT: ort
+FACETTE: LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/freisenbruch_2/fischlaken_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Stadtteil im Osten der Stadt Essen
+  lage_grenzen_west: Steele
+  lage_grenzen_nord: Leithe
+  lage_grenzen_ost: Wattenscheid
+  lage_grenzen_sued: Horst
+  gepraegt_von: Wohngebieten, Park- und Grünanlagen, landwirtschaftlichen Flächen
+  gewerbe: kleine Gewerbeflächen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 495-freisenbruch/002
+ENTITÄT: ort
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/freisenbruch_2/freisenbruch_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: Im 11. Jahrhundert Friesenbroke genannt; Friese/Friesen wahrscheinlich, Bruch = Moor oder sumpfiges Gelände (sicher)
+  erstmals_urkundlich_erwaehnt_jahr: 1047
+  erstmals_urkundlich_erwaehnt_quelle: Verzeichnis der Abtei Werden
+  eingemeindet_zu_essen: 1. August 1929
+  war_bis_1885: eine der vier märkischen Gemeinden
+  grundsteuerpflicht_gegenueber: Grafschaft Mark
+  zugehoerig_ab_1920: Amt Königssteele
+GUELTIG_AB: 1047
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 495-freisenbruch/003
+ENTITÄT: bad
+BEZEICHNUNG: Schwimmzentrum Oststadt
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/freisenbruch_2/freisenbruch_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flaeche: 27000 [m²]
+  ausstattung: Hallen- und Freibad, Baby-, Kinder-, Schwimm- und Sprungbecken, Liegewiesen
+  bedeutung_fuer_ort: gehört zu den größten Bädern in Essen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 495-freisenbruch/004
+ENTITÄT: kulturzentrum
+BEZEICHNUNG: Bürgerhaus Oststadt
+FACETTE: KULTUR
+QUELLE: https://www.essen.de/dasistessen/stadtteile/freisenbruch_2/fischlaken_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  denkmalschutz: ja, seit 1976
+  funktion: Stadtteiltreffpunkt
+  einrichtungen: Veranstaltungen, Workshops, Sportkurse, Stadtteilbibliothek
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 495-freisenbruch/005
+ENTITÄT: bibliothek
+BEZEICHNUNG: Stadtteilbibliothek Freisenbruch
+FACETTE: ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/freisenbruch_2/fischlaken_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flaeche: 120 [m²]
+  standort: Bürgerhaus Oststadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 495-freisenbruch/006
+ENTITÄT: parkanlage
+BEZEICHNUNG: Parkanlage Bergmannsbusch
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/freisenbruch_2/freisenbruch_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: Naherholungsgebiet
+  aktivitaeten: Wandern, Fahrradfahren, Sporttreiben, Entspannen
+  geschichte: Bauer Bergmann forstete Gelände Anfang 20. Jahrhundert auf; Familie Bergmann bis 1412 nachgewiesen, ist Namensgeberin
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 495-freisenbruch/007
+ENTITÄT: baudenkmal
+BEZEICHNUNG: Schacht Heintzmann (Zeche Eintracht Tiefbau)
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Freisenbruch | Wikipedia
+EIGENSCHAFTEN:
+  standort: Ende Alleestraße
+  besonderheit: im Ruhrgebiet seltener und historisch interessanter Kokskohleturm
+  noch_vorhanden: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 495-freisenbruch/008
+ENTITÄT: bergwerk
+BEZEICHNUNG: Zeche Eintracht Tiefbau
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Freisenbruch | Wikipedia
+EIGENSCHAFTEN:
+  betriebsbeginn: 1756
+  charakterisierung: größte Zeche im Essener Osten
+  schacht_2_name: Schacht Heintzmann
+  schacht_1_3_stillegung: 1925
+  grund_stillegung: Mangel an abbauwürdigen Kohlevorräten
+GUELTIG_AB: 1756
+GUELTIG_BIS: 1925
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 495-freisenbruch/009
+ENTITÄT: bergwerk
+BEZEICHNUNG: Zeche Eiberg
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Eiberg
+QUELLE: https://de.wikipedia.org/wiki/Freisenbruch | Wikipedia
+EIGENSCHAFTEN:
+  entstehung: 1882 aus Zeche Jacob, konsolidiert ab 1899 mit Zeche Fridolin
+  stillegung_1914: ja
+  nachtrag_foerderung: 1951–1968 erneute Kohleförderung
+  heute: Reihenhaussiedlung
+GUELTIG_AB: 1882
+GUELTIG_BIS: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 495-freisenbruch/010
+ENTITÄT: bergwerk
+BEZEICHNUNG: Zeche Fridolin
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Eiberg
+QUELLE: https://de.wikipedia.org/wiki/Freisenbruch | Wikipedia
+EIGENSCHAFTEN:
+  betriebsbeginn: 1836
+  konsolidierung: ab 1899 mit Zeche Eiberg
+GUELTIG_AB: 1836
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 495-freisenbruch/011
+ENTITÄT: bergwerk
+BEZEICHNUNG: Hünninghauser Erbstolln
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Freisenbruch | Wikipedia
+EIGENSCHAFTEN:
+  betrieb: 1725–1815
+  standort: äußerster Westen, beim heutigen Bahnhof Essen-Steele Ost
+GUELTIG_AB: 1725
+GUELTIG_BIS: 1815
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 495-freisenbruch/012
+ENTITÄT: hüttenwerk
+BEZEICHNUNG: Freisenbrucher Hütte
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Horst
+QUELLE: https://de.wikipedia.org/wiki/Freisenbruch | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_gewerkschaft: Neu-Schottland, 1856
+  betriebsbeginn: ab 1860
+  charakterisierung: Schmelzwerk mit zwei Hochöfen zur Eisenerzeugung
+  spaetere_firmennamen: Union Horst, Eisenwerk Steele
+  nachnutzung: 1904–1993 Vereinigte Schraubenwerke
+  heute_erinnerung: benachbarte Bushaltestelle
+GUELTIG_AB: 1860
+GUELTIG_BIS: 1993
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 495-freisenbruch/013
+ENTITÄT: gross_wohnsiedlung
+BEZEICHNUNG: Bergmannsfeld
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Freisenbruch-Süd
+QUELLE: https://de.wikipedia.org/wiki/Freisenbruch | Wikipedia
+EIGENSCHAFTEN:
+  errichtung_ab: 1966
+  bauweise: Großwohnsiedlung aus Fertigteilen
+  einwohner_ca: 5000
+  grund_entstehung: Wohnungsnot und erwartetes Wachstum der 1960er Jahre
+  auszeichnung: Preis der Bau-Ausstellung Deubau
+  bewohnte_bebauung: mehr als fünfgeschossige Wohnhäuser
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 495-freisenbruch/014
+ENTITÄT: brauch
+BEZEICHNUNG: Karnevalsumzug und Gänsereiten
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Freisenbruch | Wikipedia
+EIGENSCHAFTEN:
+  anlass: jeden Karnevalssonntag
+  besonderheit: Gänsereiten des Gänsereiter-Vereins voraus
+  verein: Gänsereiter-Club, gegründet 1926
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 495-freisenbruch/015
+ENTITÄT: sportverein
+BEZEICHNUNG: TC Freisenbruch 02
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Freisenbruch | Wikipedia
+EIGENSCHAFTEN:
+  spielkategorie: Kreisliga A Süd
+  besonderheit: weltweit Aufmerksamkeit durch digitale Verfahren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 495-freisenbruch/016
+ENTITÄT: schule
+BEZEICHNUNG: Antoniusschule
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Freisenbruch | Wikipedia
+EIGENSCHAFTEN:
+  typ: städtisch-katholische Grundschule
+  gruendung: 1893
+  standort: Im Haferfeld
+GUELTIG_AB: 1893
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 495-freisenbruch/017
+ENTITÄT: bahnhof
+BEZEICHNUNG: Essen-Steele Ost
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Freisenbruch | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1862
+  eisenbahn: Bergisch-Märkische Eisenbahn
+  bisherige_namen: Königssteele, Steele, Steele-Nord, Steele Hbf
+  heutige_linien: S1, S3
+GUELTIG_AB: 1862
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 495-freisenbruch/018
+ENTITÄT: bahnhof
+BEZEICHNUNG: Essen-Eiberg
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Eiberg
+QUELLE: https://de.wikipedia.org/wiki/Freisenbruch | Wikipedia
+EIGENSCHAFTEN:
+  linien: S1
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 495-freisenbruch/019
+ENTITÄT: bevoelkerung
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Freisenbruch | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 16484
+  stand_datum: 31. März 2025
+  anteil_unter_18_jahren_prozent: 20.2
+  anteil_unter_18_jahren_essen_durchschnitt_prozent: 16.9
+  anteil_mindestens_65_jahren_prozent: 22.1
+  anteil_mindestens_65_jahren_essen_durchschnitt_prozent: 21.7
+  auslaenderanteil_prozent: 18.8
+  auslaenderanteil_essen_durchschnitt_prozent: 20.6
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94

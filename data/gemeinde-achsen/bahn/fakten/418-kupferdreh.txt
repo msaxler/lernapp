@@ -1,829 +1,744 @@
 ID: 418-kupferdreh/001
 ENTITÄT: ort
 BEZEICHNUNG: Kupferdreh
+FACETTE: LAGE | GESCHICHTE | ALLTAG
 QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
 EIGENSCHAFTEN:
-  lage: Stadtteil im äußersten Südosten von Essen
-  grenzen_nordosten: Stadtteil Byfang
-  grenzen_osten: Hattingen-Niederbonsfeld
-  grenzen_sueden: Velbert-Langenberg
+  lage: Stadtteil im südösten von Essen
+  an_ruhr: true
+  am_baldeneysee: true
+  topographie: Niederbergisch-Märkisches Hügelland
+  grenzen_norden: Byfang
+  grenzen_nordosten: Hattingen-Niederbonsfeld
+  grenzen_sued: Velbert-Langenberg
   grenzen_suedwesten: Velbert-Mitte, Heidhausen
   grenzen_westen: Fischlaken, Heisingen
-  lage_wasser: unmittelbar an der Ruhr und am Baldeneysee
-  einwohner: 11428
-  bevölkerungsanteil_unter_18: 16.8 %
-  bevölkerungsanteil_ab_65: 23.2 %
-  ausländeranteil: 9.1 %
-  topographie: Niederbergisch-Märkisches Hügelland
-IST_VERMUTLICH_AKTUELL: true
+  ist_stadtteil_essen: true
+  anbindung_bundesstraße: 227
+  anbindung_bundesautobahn: 44
 GUELTIG_AB: 1929
+IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 418-kupferdreh/002
-ENTITÄT: steinkiste
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+ENTITÄT: ort
+BEZEICHNUNG: Kupferdreh
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_geschichte.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  alter: 4000 Jahre
-  alter_genauigkeit: ca.
-  fundort: Kupferdreher Gebiet
-  fundjahr: 1937
-  fundkontext: Bau der ehemaligen Ruhrlandkaserne
-  beschreibung: Ältestes Zeugnis einer Besiedlung auf Kupferdreher Gebiet
-GUELTIG_AB: -2000
-IST_VERMUTLICH_AKTUELL: false
+  namensherkunft: Kupfer bezieht sich auf Kupferhütte/Kupferhammer als Landmarke; Dreh bezeichnet eine gefährliche 180-Grad-Biegung der Ruhr
+  gehört_zu_essen_seit: 1929-08-01
+  erstmalige_offizielle_namensnennung: 1855
+GUELTIG_AB: 1855
+IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 418-kupferdreh/003
-ENTITÄT: bauerschaft
-BEZEICHNUNG: Dilldorf
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Kupferdreh
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_geschichte.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  zeitraum: Mittelalter
-  urspruengliche_zugehoerigkeit: sächsische Brukteren, später Herrschaft Hardenberg in Neviges
-  zusammenschluss: 1899 der Gemeinde Kupferdreh zugeordnet
-  sprache_teile: Westfälisch, Bergisch
-GUELTIG_AB: 1150
-GUELTIG_BIS: 1899
-IST_VERMUTLICH_AKTUELL: false
+  entwerfer: Kurt Schweder
+  zeitraum_entwurf: Ende 1980er Jahre
+  beschreibung: Wassermühlenrad (Referenz zu Kupferhammer), alchemistisches Kupferzeichen, Wellensparren (Ruhr-Drehe)
+  art: redend (sprechend)
+  offizieller_charakter: false
 VERTRAUEN_EXTRAKTION: 0.85
 ---
 ID: 418-kupferdreh/004
-ENTITÄT: honnschaft
-BEZEICHNUNG: Hinsbeck
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  ursprung: fränkisch
-  zugehoerigkeit: Reichsabtei Werden
-  erwähnung: 1150 im Heberegister der Äbte von Werden
-GUELTIG_AB: 1150
-GUELTIG_BIS: 1875
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 418-kupferdreh/005
-ENTITÄT: honnschaft
-BEZEICHNUNG: Rodberg
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  ursprung: fränkisch
-  zugehoerigkeit: Reichsabtei Werden
-  erwähnung: 1150 im Heberegister der Äbte von Werden
-GUELTIG_AB: 1150
-GUELTIG_BIS: 1875
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 418-kupferdreh/006
-ENTITÄT: kupferhütte
-BEZEICHNUNG: Deiler Koperhut
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  gruenung: 1550
-  standort: Kupferdreher Gebiet
-GUELTIG_AB: 1550
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 418-kupferdreh/007
-ENTITÄT: hammer
-BEZEICHNUNG: Deilbachhammer
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  typ: Eisenhammer
-  gruenung: ca. 1660
-  benannt_nach: Fluss Deilbach
-  standort: Grenze zum Stadtteil Essen-Byfang
-GUELTIG_AB: 1660
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 418-kupferdreh/008
-ENTITÄT: fluss
-BEZEICHNUNG: Deilbach
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  muendung: Ruhr
-  bedeutung: Vorreiter der Industrialisierung im Ruhrgebiet seit 16. Jahrhundert
-  abbau_materialien: Steinkohle, Kupfer, Eisen, Zink
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 418-kupferdreh/009
-ENTITÄT: bahn
-BEZEICHNUNG: Deilthaler Eisenbahn
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  alternativname: Prinz-Wilhelm-Eisenbahn
-  erbauer: Friedrich Harkort
-  gruenung: 1831
-  laenge: 7.3 km
-  betriebsart_initial: Pferdeanzug
-  zweck: Kohletransport nach Nierenhof ins Bergische Land
-  erste_als_gesellschaft_betriebene_bahn: Deutschland
-  umstellung_dampf: 1844
-  erweiterung: bis Vohwinkel
-GUELTIG_AB: 1831
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 418-kupferdreh/010
-ENTITÄT: eisenhuette
-BEZEICHNUNG: Phoenix
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  ansiedlung: 1852
-  auflosung: 1914
-  nebenprodukt: Schlacke
-  standort: Kupferdreh
-GUELTIG_AB: 1852
-GUELTIG_BIS: 1914
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 418-kupferdreh/011
-ENTITÄT: bahnbetriebswerk
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  gruendung: 1872
-  standort: Kupferdreh
-GUELTIG_AB: 1872
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 418-kupferdreh/012
-ENTITÄT: eisenbahnbruecke
-DESIGNIERTES: Ruhr
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  bau: 1872
-  teil_der_bahn: Ruhrtalbahn, Bergisch-Märkische Eisenbahn
-  originalform: runde Bögen
-  umgestaltung: 1929 während Bau des Baldeneysees
-  zerstoerung_krieg: Zweiter Weltkrieg
-  wiederaufbau: eingleisig
-  heutiger_verwendung: Fußgängerbrücke, Gleise entfernt
-GUELTIG_AB: 1872
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 418-kupferdreh/013
-ENTITÄT: bahnhof
-BEZEICHNUNG: Kupferdreh
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  eroeffnung_original: 1898
-  eroeffnung_neubau: April 2012
-  bahnsteig_funktion: vorderer Bahnsteig für Ruhrtalbahn
-  s_bahn_linie: 9
-  regional_express: RE 49
-  typ_neubau: aufgeständerter Haltepunkt
-GUELTIG_AB: 1898
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 418-kupferdreh/014
-ENTITÄT: bahn
-BEZEICHNUNG: Hespertalbahn
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  alternativname: Pörtingsiepenbahn
-  abzweig: vor der Ruhrbrücke
-  zielort: damalige Zeche Pörtingsiepen
-GUELTIG_AB: 1872
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
----
-ID: 418-kupferdreh/015
-ENTITÄT: zementfabrik
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  entstehung: gegen Ende 19. Jahrhundert
-  standort: Kupferdreh
-  rohstoff_quelle: Schlacke von Eisenhütte Phoenix, Kalk aus Velbert
-  rohstoff_produkt: Portlandzement
-GUELTIG_AB: 1890
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
----
-ID: 418-kupferdreh/016
-ENTITÄT: steinwerke
-BEZEICHNUNG: Kupferdreher Steinwerke
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  gruendung: 1897
-  zweck: Verarbeitung der Zementfabrik-Produkte vor Ort
-GUELTIG_AB: 1897
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 418-kupferdreh/017
-ENTITÄT: bruecke
-BEZEICHNUNG: Kampmannbrücke
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  verbindung: Kupferdreh mit Heisingen
-  bautyp_1895: Pontonbrücke
-  fertigstellung_1895: 1895
-  umgestaltung: 1950-1951 zu Beton-Balkenbrücke
-  neubau: 2019 Schrägseilbrücke
-  grund_neubau: Baufälligkeit
-GUELTIG_AB: 1895
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 418-kupferdreh/018
-ENTITÄT: gemeinde
-BEZEICHNUNG: Kupferdreh
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  gruendung: 15. Januar 1875
-  bildung_aus: Honnschaften Hinsbeck und Rodberg aus Gemeinde Siebenhonnschaften
-  kreisbehoerde: Landkreis Essen
-  zusammenschluss_byfang: 1. April 1922
-  eingemeindung_essen: 1. August 1929
-  erweiterung_1899: Bauerschaft Dilldorf und Teile von Voßnacken
-GUELTIG_AB: 1875
-GUELTIG_BIS: 1929
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 418-kupferdreh/019
-ENTITÄT: buergermeisterei
-BEZEICHNUNG: Kupferdreh
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  errichtung: 15. Oktober 1896
-  herausloesung_aus: Bürgermeisterei Werden-Land
-  status_ab_1922: bestand nur noch aus Gesamtgemeinde
-  eingemeindung_essen: 1. August 1929
-  sitz: Kupferdreher Straße 251
-GUELTIG_AB: 1896
-GUELTIG_BIS: 1929
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 418-kupferdreh/020
-ENTITÄT: buergermeister
-BEZEICHNUNG: Jacob Hubert Arntz
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  amtsantritt: 13. August 1896
-  reihenfolge: 1. Bürgermeister
-  amtsdauer: 1896-1901
-GUELTIG_AB: 1896
-GUELTIG_BIS: 1901
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 418-kupferdreh/021
-ENTITÄT: buergermeister
-BEZEICHNUNG: Johann Wilhelm Krake
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  amtsantritt_kommissarisch: September 1901
-  amtsantritt_endgueltig: 12. Juli 1902
-  reihenfolge: 2. Bürgermeister
-  amtsdauer: 1901-1910
-GUELTIG_AB: 1902
-GUELTIG_BIS: 1910
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 418-kupferdreh/022
-ENTITÄT: buergermeister
-BEZEICHNUNG: Hermann Pieper
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  herkunft: Essener Oberstadtsekretär
-  amtsantritt: Dezember 1920
-  reihenfolge: 3. Bürgermeister (letzter)
-  amtsdauer: 1920-1929
-GUELTIG_AB: 1920
-GUELTIG_BIS: 1929
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 418-kupferdreh/023
-ENTITÄT: garnisonsstadt
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  zeitraum: 1937-1994
-GUELTIG_AB: 1937
-GUELTIG_BIS: 1994
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 418-kupferdreh/024
-ENTITÄT: kaserne
-BEZEICHNUNG: Ruhrlandkaserne
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  standort: Hochplateau in der Gemarkung Hinsbeck
-  funktion: Garnison
-  nutzung: 1937-1994
-  nachnutzung: 2004 Neubaugebiet Dilldorfer Höhe
-GUELTIG_AB: 1937
-GUELTIG_BIS: 1994
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 418-kupferdreh/025
-ENTITÄT: anlage
-BEZEICHNUNG: Kruppsche Nachtscheinanlage
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  betreiber: Luftwaffe
-  standort: Rottberg und angrenzender Ludscheid
-  zweck: Täuschung der alliierten Bomber
-  folge: zahlreiche Bombenangriffe auf ländliche Umgebung
-GUELTIG_AB: 1939
-GUELTIG_BIS: 1945
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 418-kupferdreh/026
-ENTITÄT: wappen
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  entwerfer: Kurt Schweder
-  entwurf_zeitraum: Ende 1980er
-  erbauerung_kontext: Heraldiker schuf Wappen für alle Essener Stadtteile
-  offizielle_status_urspruenglich: nein
-  akzeptanz: von Essener Bevölkerung gut angenommen
-  symbolik: Wassermühlenrad (Kupferhammer), Alchemie-Zeichen für Kupfer (Ruhrkrümmung), redenes Wappen
-  beschreibung: In Rot über gestürztem silbernem Wellensparren ein goldenes achtspeichiges Wassermühlenrad, dahinter Alchemie-Zeichen für Kupfer, Ring mit nach unten zeigendem Kreuz
-GUELTIG_AB: 1980
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 418-kupferdreh/027
-ENTITÄT: radweg
-BEZEICHNUNG: RuhrtalRadweg
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  strecke: Duisburg bis Sauerland
-  verlauf: entlang der Ruhr
-  bedeutung: Naherholung und Radtourismus in Kupferdreh
-GUELTIG_AB: 1990
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 418-kupferdreh/028
-ENTITÄT: radweg
-BEZEICHNUNG: Kaiser-Route
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  laenge: 370 km
-  verlauf: historische Verbindung der Kaiserpfalzen Aachen und Paderborn
-  bedeutung: Radtourismus in Kupferdreh
-GUELTIG_AB: 1990
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
----
-ID: 418-kupferdreh/029
-ENTITÄT: kirche
-BEZEICHNUNG: St. Mariä Geburt
-ORTSTEIL_BEZUG: Dilldorf
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  bautyp: Pfarrkirche, katholisch
-  baujahr: 1878
-  baumaterial: Ruhrsandstein
-  denkmalschutz: ja
-  architekt: Wilhelm Oslender (Erbauer)
-GUELTIG_AB: 1878
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 418-kupferdreh/030
-ENTITÄT: kirche
-BEZEICHNUNG: Christuskirche
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  konfession: evangelisch
-  bautyp: Kirche
-  baujahr_beginn: 1877
-  baujahr_ende: 1878
-  architekt: Wilhelm Bovensiepen
-  denkmalschutz: ja
-GUELTIG_AB: 1878
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 418-kupferdreh/031
-ENTITÄT: kirche
-BEZEICHNUNG: St. Josef
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  konfession: katholisch
-  bautyp: Pfarrkirche
-  weihe: 1904
-  profanation: 23. November 2013
-  abbruch: Dezember 2015
-GUELTIG_AB: 1904
-GUELTIG_BIS: 2015
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 418-kupferdreh/032
-ENTITÄT: institution
-BEZEICHNUNG: Kraftwerkssimulationszentrum
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  groesse: weltgröß
-  funktion: Training des Betriebspersonals für Kernkraftwerkstörfälle
-  betreiber: VGB PowerTech / Kraftwerks-Simulator-Gesellschaft KSG
-  gruendung: 1987
-  standort_gelaende: ehemalige Bergische Elektrizitätsversorgung
-  standort_gelaende_stilllegung: 1977
-GUELTIG_AB: 1987
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 418-kupferdreh/033
-ENTITÄT: neubaugebiet
-BEZEICHNUNG: Dilldorfer Höhe
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  fertigstellung: 2004
-  planung_zielgroesse: ca. 1000 Wohneinheiten
-  planung_bevölkerung: ca. 2500 Bewohner
-  gelaende_groesse: ca. 17000 Quadratmeter
-  kauf_allbau_ag: 1995
-  kaufpreis: 13.6 Millionen D-Mark
-  trennung_stadtteil: Bundesstraße 227 (seit 2010 BA 44)
-  ursprung_gelaende: Ruhrlandkaserne
-GUELTIG_AB: 2004
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 418-kupferdreh/034
-ENTITÄT: grundschule
-BEZEICHNUNG: Josefschule
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  traeger: städtisch-katholisch
-  standort: Kupferdreh
-  funktion: auch Schule für Kinder aus benachbartem Byfang
-GUELTIG_AB: 1990
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 418-kupferdreh/035
-ENTITÄT: grundschule
-BEZEICHNUNG: Hinsbeckschule
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  traeger: städtisch
-  standort: Kupferdreh
-  abzweig: seit 2024 Oslenderstraße
-  funktion: auch Schule für Kinder aus benachbartem Byfang
-GUELTIG_AB: 1990
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 418-kupferdreh/036
-ENTITÄT: kindertagestaette
-BEZEICHNUNG: Evangelische Kindertagesstätte an der Benderstraße
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  konfession: evangelisch
-  standort: Benderstraße, Kupferdreh
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
----
-ID: 418-kupferdreh/037
-ENTITÄT: kindertagestaette
-BEZEICHNUNG: Kindertagesstätte an der Nierenhofer Straße
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  standort: Nierenhofer Straße, Kupferdreh
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
----
-ID: 418-kupferdreh/038
-ENTITÄT: kindertagestaette
-BEZEICHNUNG: Katholischer Kindergarten St. Mariä Geburt
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  konfession: katholisch
-  standort: Kupferdreh
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
----
-ID: 418-kupferdreh/039
-ENTITÄT: kindertagestaette
-BEZEICHNUNG: Katholische Kindertagesstätte St. Josef
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  konfession: katholisch
-  standort: Kupferdreh
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
----
-ID: 418-kupferdreh/040
-ENTITÄT: hochschule
-BEZEICHNUNG: Hochschule der bildenden Künste Essen
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  gruendung: 2013
-  standort: Kupferdreh
-  fachbereich: bildende Künste
-GUELTIG_AB: 2013
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 418-kupferdreh/041
 ENTITÄT: museum
-BEZEICHNUNG: Mineralien-Museum Kupferdreh
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+BEZEICHNUNG: Mineralienmuseum Kupferdreh
+FACETTE: KULTUR UND FREIZEIT
+ORTSTEIL_BEZUG: Dilldorf
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_kultur_freizeit.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  eroeffnung: 1984
-  standort_gebaeude: ehemalige Hinsbeckschule an der Kupferdreher Straße
+  art: Außenstelle Ruhr Museum
+  gründung: 1984
+  standort: ehemalige Hinsbeckschule, Kupferdreher Straße
   gebaeude_material: Ruhrsandstein
-  gebaeude_schutz: Denkmalschutz
-  traeger: Außenstelle des Ruhr Museums (ehemals Ruhrlandmuseum)
+  gebaeude_status: Denkmalschutz
 GUELTIG_AB: 1984
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
-ID: 418-kupferdreh/042
-ENTITÄT: wanderweg
-BEZEICHNUNG: Deilbachsteig
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+ID: 418-kupferdreh/005
+ENTITÄT: museumslandschaft
+BEZEICHNUNG: Kulturlandschaft Deilbachtal
+FACETTE: KULTUR UND FREIZEIT | GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_startseite.de.jsp | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  typ: Rundwanderweg
-  eroeffnung: Juni 2023
-  verlauf: durch Kupferdreher Zentrum und Museumslandschaft Deilbachtal
-GUELTIG_AB: 2023
+  beschreibung: vielfältige Eindrücke in die vorindustrielle Vergangenheit
+  bedeutung_fuer_ort: Museumslandschaft, beliebte Haltestelle für Radfahrer
+GUELTIG_AB: 1984
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 0.8
 ---
-ID: 418-kupferdreh/043
-ENTITÄT: event
-BEZEICHNUNG: Karnevalszug
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+ID: 418-kupferdreh/006
+ENTITÄT: schwimmbad
+BEZEICHNUNG: Stadtbad Kupferdreh
+FACETTE: FREIZEIT | INFRA
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_kultur_freizeit.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  zeitpunkt: jährlich am Rosenmontag
-  route: Kupferdreher Straße
-  organisation: Festausschuss Kupferdreher Karneval
-  jubilaeum: 150-jähriges Bestehen 2025
-GUELTIG_AB: 1875
+  traeger: Interessengemeinschaft Stadtbad Kupferdreh e.V.
+  ausstattung: Schwimmbecken, Sauna, Gymnastikraum, Solarium, Seminarraum
+  standort: Schwermannstraße 45
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 ---
-ID: 418-kupferdreh/044
-ENTITÄT: park
-BEZEICHNUNG: Benderpark
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+ID: 418-kupferdreh/007
+ENTITÄT: radweg
+BEZEICHNUNG: RuhrtalRadweg
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_kultur_freizeit.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  ursprung: Villa und Park des Chemikers August Bender
-  schenkung: Familie Bender vermachte Gelände der Gemeinde
-  auflage: Park für Kupferdreher Bürger
-  grenzen: Kupferdreher Straße, St.-Josef-Krankenhaus, Byfanger Straße
-  lage: nahe Josef-Schule
-GUELTIG_AB: 1930
+  länge: 230 km
+  verlauf: entlang der Ruhr
+  bedeutung_fuer_ort: beliebter Radweg, viele Radfahrer halten in Kupferdreh
+  charakteristikum: ja
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
-ID: 418-kupferdreh/045
-ENTITÄT: krankenhaus
-BEZEICHNUNG: St. Josef-Krankenhaus
+ID: 418-kupferdreh/008
+ENTITÄT: radweg
+BEZEICHNUNG: Kaiser-Route
+FACETTE: FREIZEIT
 QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
 EIGENSCHAFTEN:
-  traeger: Katholische Kliniken Ruhrhalbinsel gGmbH
-  gruendung_kloester: 14. Mai 1895 Niederlassung Waldbreitbacher Franziskanerinnen
-  grundstueck_kauf: 1900 durch Katholischen Krankenhausbauverein
-  grundstueck_standort: ehemaliger Feldmannshof
-  betten_gesamt: 443
-  betten_intensiv: ja
-  altenkrankenheim_betten: 126
+  länge: 370 km
+  verlauf: zwischen Kaiserpfalzen Aachen und Paderborn
+  beschreibung: Radweg, der die historische Verbindung der Kaiserpfalzen nachzeichnet
+  quert_kupferdreh: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/009
+ENTITÄT: eisenbahn
+BEZEICHNUNG: Prinz-Wilhelm-Eisenbahn (Deilthaler Eisenbahn)
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  erbauer: Friedrich Harkort
+  erstes_jahr: 1831
+  länge: 7.3 km
+  antrieb_anfang: Pferdeantrieb
+  umbau_zu_dampf: 1844
+  zweck: Kohletransport nach Nierenhof
+  streckenverlauf: von Unterbyfang durch Hinsbeck, Deilbachtal nach Nierenhof
+  verlängerung: bis Vohwinkel
+  superlativ: erste als Gesellschaft betriebene Eisenbahn Deutschlands
+  bedeutung_fuer_ort: erste Eisenbahn Deutschlands
+GUELTIG_AB: 1831
+GUELTIG_BIS: 1844
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/010
+ENTITÄT: eisenbahn
+BEZEICHNUNG: Hespertalbahn
+FACETTE: KULTUR UND FREIZEIT | GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betrieb_als_museumseisenbahn_seit: 1976
+  verkehrsstrecke: zwischen Alter Bahnhof Kupferdreh und Haus Scheppen am Baldeneysee
+  frequenz: an Wochenenden mehrmals täglich
+  verlauf: durch ehemaliges Zechengebiet
+  alternativname: Pörtingsiepenbahn
+  charakteristikum: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/011
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Essen-Kupferdreh
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  eröffnung: 1898
+  neugestaltung: April 2012
+  bauweise: aufgeständerter Haltepunkt
+  sbahn_linie: S9
+  regional_express: RE 49
+  bedeutung_historisch: vorderer Bahnsteig für Ruhrtalbahn
+GUELTIG_AB: 1898
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/012
+ENTITÄT: brücke
+BEZEICHNUNG: Eisenbahnbrücke über die Ruhr
+FACETTE: INFRA | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  erbauer: 1872
+  originalform: runde Bögen
+  umbau: 1929 während Baldeneysee-Bau
+  wwii_schicksal: gesprengt im Zweiten Weltkrieg
+  wiederaufbau: eingleisig als Bahnbrücke
+  heutiger_zweck: Fußgängerbrücke (Gleise entfernt)
+  verbundene_eisenbahn: Bergisch-Märkische Eisenbahn, Ruhrtalbahn
+GUELTIG_AB: 1872
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/013
+ENTITÄT: brücke
+BEZEICHNUNG: Kampmannbrücke
+FACETTE: INFRA | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  verbindung: Kupferdreh mit Heisingen
+  erste_version: 1895
+  erste_version_bauweise: Pontonbrücke
+  zweite_version: 1950-1951
+  zweite_version_bauweise: Betonbalkenbrücke
+  dritte_version: 2019
+  dritte_version_bauweise: Schrägseilbrücke
+  dritte_version_grund: Baufälligkeit der Vorgängerin
 GUELTIG_AB: 1895
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
-ID: 418-kupferdreh/046
-ENTITÄT: person
-BEZEICHNUNG: Carl Julius Anstock
+ID: 418-kupferdreh/014
+ENTITÄT: wanderweg
+BEZEICHNUNG: Rundwanderweg Deilbachsteig
+FACETTE: FREIZEIT
 QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
 EIGENSCHAFTEN:
-  beruf: Schulleiter
-  schule: evangelische Hinsbeckschule
-  amtszeit: 1870-1916
-  anerkennung_strasse: Anstockstraße benannt 1937
-GUELTIG_AB: 1870
-GUELTIG_BIS: 1916
+  eröffnung: Juni 2023
+  verlauf: durch Kupferdreher Zentrum und Museumslandschaft Deilbachtal
+  charakteristikum: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/015
+ENTITÄT: gewässer
+BEZEICHNUNG: Baldeneysee
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  bau: 1929
+  überflutet: Kupperdrehe (Ruhr-Biegung), alter Hafen
+  freizeit_aktivitäten: Wandern, Inliner fahren, Paddeln, Segeln
+  bedeutung_fuer_ort: Naherholungsgebiet
+GUELTIG_AB: 1929
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/016
+ENTITÄT: personenschifffahrt
+BEZEICHNUNG: Weiße Flotte Baldeney
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angebot: Personenschifffahrten über Ruhr, Baldeneysee, Rhein-Herne-Kanal
+  haltestelle: Prinz-Friedrich-Straße 1
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 418-kupferdreh/017
+ENTITÄT: kirche
+BEZEICHNUNG: St. Mariä Geburt
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Dilldorf
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  erbauersjahr: 1878
+  material: Ruhrsandstein
+  denkmalschutz: true
+  konfession: katholisch
+  rektor: Wilhelm Oslender (1872-1905)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/018
+ENTITÄT: kirche
+BEZEICHNUNG: Christuskirche
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  erbauersjahr: 1877-1878
+  architekt: Wilhelm Bovensiepen
+  konfession: evangelisch
+  denkmalschutz: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/019
+ENTITÄT: kirche
+BEZEICHNUNG: St. Josef
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  weihe: 1904
+  konfession: katholisch
+  profanierung: 23. November 2013
+  abriss: Dezember 2015
+  pfarrer_erstem: Friedrich Schwermann (1900-1930)
+GUELTIG_AB: 1904
+GUELTIG_BIS: 2015
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.9
 ---
-ID: 418-kupferdreh/047
-ENTITÄT: person
-BEZEICHNUNG: August Bender
+ID: 418-kupferdreh/020
+ENTITÄT: krankenhaus
+BEZEICHNUNG: St. Josef-Krankenhaus
+FACETTE: INFRA
 QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
 EIGENSCHAFTEN:
-  lebensjahre: 1847-1926
-  beruf: Chemiker
-  unternehmen: Mitinhaber Zementfabrik Narjes & Bender
-  anerkennung_strasse: Benderstraße benannt 1935
-GUELTIG_AB: 1847
-GUELTIG_BIS: 1926
+  traeger: Katholische Kliniken Ruhrhalbinsel gGmbH
+  gründung_ursprung: 14. Mai 1895 (Waldbreitbacher Franziskanerinnen)
+  grundstückserwerb: 1900 durch Katholischen Krankenhausbauverein auf Feldmannshof-Gelände
+  betten: 443
+  intensivstation: true
+  altenkrankenheim_betten: 126
+  bedeutung_fuer_ort: Gesundheitsversorgung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/021
+ENTITÄT: park
+BEZEICHNUNG: Benderpark
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  ursprung: Gelände der Villa Bender (Chemiker August Bender, Mitinhaber Zementfabrik)
+  vermächtnis: Familie Bender vermachte Gelände der Gemeinde zur Parkanlage
+  grenzen: Kupferdreher Straße, St.-Josef-Krankenhaus, Byfanger Straße, Josef-Schule (nahebei)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/022
+ENTITÄT: simulationszentrum
+BEZEICHNUNG: Kraftwerkssimulationszentrum
+FACETTE: ALLTAG | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  superlativ: weltgrößtes Kraftwerkssimulationszentrum
+  gründung: 1987
+  betreiber: VGB PowerTech / Kraftwerks-Simulator-Gesellschaft KSG
+  standort_gelände: ehemalige Bergische Elektrizitätsversorgung (stillgelegt 1977)
+  zweck: Training Betriebspersonal für Kernkraftwerkstörfälle
+  bedeutung_fuer_ort: großer Arbeitgeber, technisches Zentrum von internationaler Bedeutung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/023
+ENTITÄT: bauerschaft
+BEZEICHNUNG: Hinsbeck
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  herkunft: fränkisch, Honnschaft (Hundertschaft)
+  zugehörigkeit_mittelalter: Reichsabtei Werden
+  ersterwähnung: 1150 im Heberegister der Äbte von Werden
+  eingemeindung: 1875 (zusammen mit Rodberg zur Gemeinde Kupferdreh)
+GUELTIG_AB: 1150
+GUELTIG_BIS: 1875
 IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/024
+ENTITÄT: bauerschaft
+BEZEICHNUNG: Rodberg
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  herkunft: fränkisch, Honnschaft (Hundertschaft)
+  zugehörigkeit_mittelalter: Reichsabtei Werden
+  ersterwähnung: 1150 im Heberegister der Äbte von Werden
+  eingemeindung: 1875 (zusammen mit Hinsbeck zur Gemeinde Kupferdreh)
+GUELTIG_AB: 1150
+GUELTIG_BIS: 1875
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/025
+ENTITÄT: bauerschaft
+BEZEICHNUNG: Dilldorf
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  herkunft: sächsisch, Bruktereren
+  herrschaft_mittelalter: Hardenberg in Neviges
+  eingemeindung: 1. April 1899 (zur Gemeinde Kupferdreh)
+  zugehörigkeit_heute: Stadtteil Kupferdreh
+GUELTIG_AB: 1150
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/026
+ENTITÄT: wohnsiedlung
+BEZEICHNUNG: Dilldorfer Höhe
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  erbauung: 2004
+  vorgänger: Ruhrlandkaserne
+  fläche: ca. 17000 Quadratmeter
+  ankauf: 1995 durch Allbau-AG für ca. 13,6 Millionen D-Mark
+  geplante_wohneinheiten: ca. 1000
+  geplante_bewohner: ca. 2500
+  zielgruppe: junge Menschen und Familien
+  trennung_vom_stadtteil: Bundesstraße 227 (seit Bauzeit), seit 2010 Teil der Bundesautobahn 44
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/027
+ENTITÄT: wohnsiedlung
+BEZEICHNUNG: Seebogen
+FACETTE: ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_statistik.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zielgruppe: junge Menschen und Familien
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 418-kupferdreh/028
+ENTITÄT: gemeinde
+BEZEICHNUNG: Gemeinde Kupferdreh
+FACETTE: GESCHICHTE | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 15. Januar 1875
+  zusammensetzung_gründung: Honnschaften Hinsbeck und Rodberg
+  bürgermeisterei: 15. Oktober 1896
+  erweiterung_1899: Bauerschaft Dilldorf, Teile von Voßnacken
+  zusammenschluss: 1. April 1922 (Gemeinden Byfang und Kupferdreh)
+  eingemeindung_essen: 1. August 1929
+GUELTIG_AB: 1875
+GUELTIG_BIS: 1929
+IST_VERMUTUNG_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.95
 ---
-ID: 418-kupferdreh/048
+ID: 418-kupferdreh/029
+ENTITÄT: buergemeister
+BEZEICHNUNG: Jacob Hubert Arntz
+FACETTE: POLITIK | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  amt: 1. Bürgermeister von Kupferdreh
+  amtsantritt: 13. August 1896
+  amtsende: 1901
+  rathaus: Kupferdreher Straße 251
+GUELTIG_AB: 1896
+GUELTIG_BIS: 1901
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/030
+ENTITÄT: buergemeister
+BEZEICHNUNG: Johann Wilhelm Krake
+FACETTE: POLITIK | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  amt: 2. Bürgermeister von Kupferdreh
+  amtsantritt: 12. Juli 1902
+  amtsende: 1910
+GUELTIG_AB: 1902
+GUELTIG_BIS: 1910
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/031
+ENTITÄT: buergemeister
+BEZEICHNUNG: Hermann Gerhard Pieper
+FACETTE: POLITIK | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  amt: 3. Bürgermeister von Kupferdreh
+  amtsantritt: Dezember 1920
+  amtsende: 1. August 1929
+  vorbeschäftigung: Essener Oberstadtsekretär
+GUELTIG_AB: 1920
+GUELTIG_BIS: 1929
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/032
+ENTITÄT: industrie
+BEZEICHNUNG: Kupferhütte Deiler Koperhut
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1550
+  standort: Kupferdreher Gebiet
+  produkt: Kupfer
+  bedeutung_fuer_region: Vorreiter der Industrialisierung im Ruhrgebiet
+GUELTIG_AB: 1550
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/033
+ENTITÄT: industrie
+BEZEICHNUNG: Deilbachhammer
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  gründung: ca. 1660
+  art: Eisenhammer
+  benannt_nach: Fluss Deilbach (mündet hier in Ruhr)
+  standort: Grenze zum Stadtteil Essen-Byfang
+  hafen: Hafen in der Deilbachmündung (17. Jahrhundert)
+  bedeutung_fuer_region: Vorreiter der Industrialisierung im Ruhrgebiet
+GUELTIG_AB: 1660
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/034
+ENTITÄT: industrie
+BEZEICHNUNG: Eisenhütte Phoenix
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1852
+  begünstigung: Eisenbahnanschluss
+  aufgelöst: 1914
+  nebenprodukt: Schlacke (Rohstoff für Portlandzement)
+GUELTIG_AB: 1852
+GUELTIG_BIS: 1914
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/035
+ENTITÄT: industrie
+BEZEICHNUNG: Zementfabrik
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  entstehung: Ende 19. Jahrhundert
+  rohstoff: Schlacke (aus Eisenhütte Phoenix) + Kalk (aus Velbert)
+  produkt: Portlandzement
+GUELTIG_AB: 1890
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 418-kupferdreh/036
+ENTITÄT: industrie
+BEZEICHNUNG: Kupferdreher Steinwerke
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1897
+  zweck: Verarbeitung von Zementfabrik-Produkten vor Ort
+GUELTIG_AB: 1897
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 418-kupferdreh/037
+ENTITÄT: bahnbau
+BEZEICHNUNG: Bahnbetriebswerk und Eisenbahnbrücke
+FACETTE: GESCHICHTE | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  erbauung: 1872
+  bedeutung_fuer_ort: Beginn eines der größten Eisenbahnknotenpunkte des Ruhrgebietes
+GUELTIG_AB: 1872
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/038
+ENTITÄT: kaserne
+BEZEICHNUNG: Ruhrlandkaserne
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Hinsbeck
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  standort: Hochplateau in der Gemarkung Hinsbeck
+  garnisonsstatus: 1937-1994
+  zeugnis: Steinkiste (ca. 4000 Jahre alt, 1937 freigelegt)
+  nachnutzung: 1995 Allbau-AG kauft Gelände zurück, 2004 Dilldorfer Höhe erbaut
+GUELTIG_AB: 1937
+GUELTIG_BIS: 1994
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/039
+ENTITÄT: militäranlage
+BEZEICHNUNG: Kruppsche Nachtscheinanlage
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: Luftwaffe
+  standorte: Rottberg und Ludscheid
+  zweck: Täuschung der alliierten Bomber
+  folge: zog zahlreiche Bombenangriffe auf die ländliche Umgebung nach sich
+GUELTIG_AB: 1941
+GUELTIG_BIS: 1945
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 418-kupferdreh/040
+ENTITÄT: fest
+BEZEICHNUNG: Karnevalszug Kupferdreh
+FACETTE: KULTUR UND FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  zeitpunkt: jährlich am Rosenmontag
+  route: Kupferdreher Straße
+  veranstalter: Festausschuss Kupferdreher Karneval
+  jubel: 2025 150-jähriges Bestehen
+  charakteristikum: ja
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/041
+ENTITÄT: musikgruppe
+BEZEICHNUNG: 257ers
+FACETTE: KULTUR UND FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  genre: Hip-Hop
+  herkunft: Kupferdreh
+  gründung: 2006
+  art: Rapcrew
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/042
 ENTITÄT: person
 BEZEICHNUNG: Wilhelm Bovensiepen
+FACETTE: KULTUR UND GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
 EIGENSCHAFTEN:
-  geburt: 25. Januar 1829
   beruf: Baumeister, Architekt
-  werke_kupferdreh: Christuskirche (1879)
-  werke_andere: Villa Waldrich in Siegen (1879), Villa Lohmann in Witten (1873), Werdener Rathaus (1879-1880)
-GUELTIG_AB: 1829
-IST_VERMUTLICH_AKTUELL: false
+  geburt: 25. Januar 1829
+  werke: Christuskirche Kupferdreh (1879), Villa Waldrich Siegen (1879), Villa Lohmann Witten (1873), Werdener Rathaus (1879-1880)
+IST_VERMUTUNG_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.9
 ---
-ID: 418-kupferdreh/049
+ID: 418-kupferdreh/043
 ENTITÄT: person
-BEZEICHNUNG: Karl Denkhaus
+BEZEICHNUNG: August Bender
+FACETTE: GESCHICHTE | ALLTAG
 QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
 EIGENSCHAFTEN:
-  funktion: 1. Pfarrvikar
-  gemeinde: evangelische Gemeinde Kupferdreh
-  amtszeit: 1875-1876
-GUELTIG_AB: 1875
-GUELTIG_BIS: 1876
-IST_VERMUTLICH_AKTUELL: false
+  beruf: Chemiker, Unternehmer
+  lebensjahre: 1847-1926
+  betätigung: Mitbegründer Zementfabrik Narjes & Bender
+  vermächtnis: Benderpark
+  straße_benannt_nach: Benderstraße (1935)
+IST_VERMUTUNG_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.9
 ---
-ID: 418-kupferdreh/050
+ID: 418-kupferdreh/044
 ENTITÄT: person
-BEZEICHNUNG: Josef Götte
+BEZEICHNUNG: Theodor Narjes
+FACETTE: GESCHICHTE | ALLTAG
 QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
 EIGENSCHAFTEN:
-  funktion: letzter Amtsleiter des Kupferdreher Bezirksamts
-  amtsende: 30. Oktober 1973
-  anerkennung_preis: Josef-Götte-Bürgermedaille seit 1990 von Bürgerschaft Kupferdreh vergeben
-GUELTIG_AB: 1945
-GUELTIG_BIS: 1973
-IST_VERMUTLICH_AKTUELL: false
+  beruf: Chemiker, Unternehmer
+  lebensjahre: 1847-1905
+  betätigung: Mitbegründer Zementfabrik Narjes & Bender
+  straße_benannt_nach: Narjesstraße (1935)
+IST_VERMUTUNG_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.9
 ---
-ID: 418-kupferdreh/051
+ID: 418-kupferdreh/045
+ENTITÄT: person
+BEZEICHNUNG: Friedrich Harkort
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Eisenbahn-Erbauer
+  werk: Prinz-Wilhelm-Eisenbahn / Deilthaler Eisenbahn (1831, 7,3 km)
+  namensgebung: verwendete Namen "An der Kupperdrehe" für Bahnstation 1831 und 1844
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/046
 ENTITÄT: person
 BEZEICHNUNG: Heinrich Hempel
+FACETTE: KULTUR
 QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
 EIGENSCHAFTEN:
   lebensjahre: 1885-1973
-  fachgebiete: Germanistik, Mediävistik, Skandinavistik
+  fachgebiete: Germanist, Mediävist, Skandinavist
   beruf: Hochschullehrer
-GUELTIG_AB: 1885
-GUELTIG_BIS: 1973
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
 ---
-ID: 418-kupferdreh/052
-ENTITÄT: person
-BEZEICHNUNG: Arthur Klotzbach
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  lebensjahre: 1877-1938
-  beruf: Montanwirtschaftsführer
-GUELTIG_AB: 1877
-GUELTIG_BIS: 1938
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 418-kupferdreh/053
-ENTITÄT: person
-BEZEICHNUNG: Theodor Narjes
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  lebensjahre: 1847-1905
-  beruf: Chemiker
-  unternehmen: Mitbegründer Zementfabrik Narjes & Bender
-  anerkennung_strasse: Narjesstraße benannt 1935
-GUELTIG_AB: 1847
-GUELTIG_BIS: 1905
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 418-kupferdreh/054
-ENTITÄT: person
-BEZEICHNUNG: Wilhelm Oslender
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  beruf: Rektor
-  kirche: St. Mariä Geburt in Dilldorf
-  amtszeit: 1872-1905
-  funktion_zusatz: Erbauer der Dilldorfer Kirche
-  anerkennung_strasse: Oslenderstraße benannt 1955
-GUELTIG_AB: 1872
-GUELTIG_BIS: 1905
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 418-kupferdreh/055
-ENTITÄT: person
-BEZEICHNUNG: Robert Quardt
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  lebensjahre: 1893-1971
-  beruf: katholischer Priester, Erzieher, geistlicher Schriftsteller
-GUELTIG_AB: 1893
-GUELTIG_BIS: 1971
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 418-kupferdreh/056
-ENTITÄT: person
-BEZEICHNUNG: Friedrich Schwermann
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  beruf: Pfarrer
-  kirche: St. Josef in Kupferdreh
-  amtszeit: 1900-1930
-  anerkennung_strasse: Schwermannstraße benannt 1934
-GUELTIG_AB: 1900
-GUELTIG_BIS: 1930
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 418-kupferdreh/057
-ENTITÄT: person
-BEZEICHNUNG: Siegfried Dorschel
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  lebensjahre: 1912-1988
-  beruf: Maler, Grafiker, Bildhauer
-  aktivitaet_kupferdreh: Atelier 1945-1960
-GUELTIG_AB: 1912
-GUELTIG_BIS: 1988
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 418-kupferdreh/058
-ENTITÄT: person
-BEZEICHNUNG: Karl Dungs
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  beruf: Pfarrer
-  kirche: evangelische Christuskirche in Kupferdreh
-  amtszeit: 1933-1945
-  partei: NSDAP-Mitglied
-  charakterisierung: konsequenter Deutscher Christ
-GUELTIG_AB: 1933
-GUELTIG_BIS: 1945
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 418-kupferdreh/059
+ID: 418-kupferdreh/047
 ENTITÄT: person
 BEZEICHNUNG: Johanna Langefeld
+FACETTE: GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
 EIGENSCHAFTEN:
   lebensjahre: 1900-1974
   funktion: Oberaufseherin
-  orte: Konzentrationslager Ravensbrück und Auschwitz
-GUELTIG_AB: 1900
-GUELTIG_BIS: 1974
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 418-kupferdreh/060
-ENTITÄT: musikgruppe
-BEZEICHNUNG: 257ers
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  typ: Hip-Hop Band, Rapcrew
-  wurzeln: Kupferdreh
-  gruendung: 2006
-GUELTIG_AB: 2006
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 418-kupferdreh/061
-ENTITÄT: namensherkunft
-DESIGNATION: Kupferdreh
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  etymologie: mundartlich Kopperdreih bzw. Kupperdrehe
-  benannt_nach: Drehung der Ruhr
-  ruhrkruemmung_grad: ca. 180 Grad
-  grund: schärfste Flusskrümmung mit hoher Fließgeschwindigkeit bei Hinsbeck in der Deilbachmündung
-  offizialname_ab: 1855 (erste offizielle Verwendung beim Namen der Postexpedition)
-GUELTIG_AB: 1550
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 418-kupferdreh/062
-ENTITÄT: industrialisierung
-QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
-EIGENSCHAFTEN:
-  beschreibung: Deilbachtal gilt als Vorreiter der Industrialisierung im Ruhrgebiet
-  begruendung: seit 16. Jahrhundert Abbau von Steinkohle, Kupfer, Eisen und Zink
-  infrastruktur_entwicklung: ab 1780 Ruhr schiffbar gemacht
-  bedeutung_eisenbahn: Deilthaler Eisenbahn 1831 erste als Gesellschaft betriebene Eisenbahn Deutschlands
-GUELTIG_AB: 1550
-IST_VERMUTLICH_AKTUELL: false
+  dienststellen: Konzentrationslager Ravensbrück, Auschwitz
+  regime: NS-Regime
+IST_VERMUTUNG_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/048
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Trinkwasseranlage Kupferdreher Markt
+FACETTE: INFRA
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Kupferdreher Markt
+  funktion: öffentliche Trinkwasserversorgung
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 418-kupferdreh/049
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Notfall-Infopunkt Kupferdreh
+FACETTE: INFRA
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Kupferdreher Straße 82-86 (Feuerwehr Essen)
+  funktion: Informationsaustausch und Notfallmeldungsaufnahme in Krisensituationen
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 418-kupferdreh/050
+ENTITÄT: schule
+BEZEICHNUNG: Josefschule
+FACETTE: ALLTAG | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  art: Grundschule
+  träger: städtisch-katholisch
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 418-kupferdreh/051
+ENTITÄT: schule
+BEZEICHNUNG: Hinsbeckschule
+FACETTE: ALLTAG | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  art: Grundschule
+  träger: städtisch
+  anmerkung: seit 2024 mit Abzweig Oslenderstraße
+  nutzung_ehemalig: Mineralien-Museum Kupferdreh (seit 1984)
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/052
+ENTITÄT: hochschule
+BEZEICHNUNG: Hochschule der bildenden Künste Essen
+FACETTE: BILDUNG
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 2013
+  standort: Kupferdreh
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/053
+ENTITÄT: population
+BEZEICHNUNG: Bevölkerung Kupferdreh
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_31_märz_2025: 11428
+  anteil_unter_18_jahren: 16.8 %
+  anteil_über_65_jahren: 23.2 %
+  ausländeranteil: 9.1 %
+GUELTIG_AB: 2025-03-31
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

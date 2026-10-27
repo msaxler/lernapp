@@ -51338,129 +51338,170 @@ window.QA_DATEN = {
 "lon": 7.46056,
 "karten": [
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "weißer Zollturm als Namensgeber",
+"rang": 3,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Weißenthurm",
-"steckbrief": "Stadt mit rund 8.900 Einwohnern, 11 km nordwestlich von Koblenz.",
-"frage": "Woraus setzte sich das Gebiet der Gemeinde Weißenthurm bei ihrer Bildung zusammen?",
+"steckbrief": "Stadt mit knapp 9.000 Einwohnern, 11 km nordwestlich von Koblenz.",
+"frage": "Der weiß verputzte Turm, nach dem die Stadt heißt, stammt aus dem Spätmittelalter. Wozu diente er?",
 "optionen": [
-"Aus zwei zusammengelegten älteren Dörfern",
-"Aus Flächen eines einzigen Nachbarorts",
-"Aus Grundstücken dreier Orte und einer Rheininsel",
-"Aus vier Höfen eines aufgelösten Klosters"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre, dass einfach ältere Dörfer zusammengelegt wurden. Tatsächlich setzte ein Beschluss die Gemeinde aus Grundstücken von Kettig, Kärlich und Andernach sowie einer Rheininsel zusammen. Er legitimierte damit ein schon lange bestehendes Gemeinwesen. Richtig war 3.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Weißenthurm",
-"faktencheck": "unsicher",
-"id": "140-weissenthurm/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Weißenthurm",
-"steckbrief": "Stadt mit rund 8.900 Einwohnern, 11 km nordwestlich von Koblenz.",
-"frage": "Wie viele Einwohner kommen in Weißenthurm auf einen Quadratkilometer?",
-"optionen": [
-"unter 500",
-"500 bis unter 1.000",
-"1.000 bis unter 2.000",
-"2.000 und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Für eine Kleinstadt im Umland liegt eine lockerere Besiedlung nahe. Doch Weißenthurm hat nur knapp vier Quadratkilometer Fläche. Darauf leben 8.944 Menschen, 2.242 je Quadratkilometer. Richtig war 4.",
-"quelle": "berechnet aus Einwohnerzahl (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
-"faktencheck": "bestätigt",
-"id": "140-weissenthurm/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Weißenthurm",
-"steckbrief": "Stadt mit rund 8.900 Einwohnern, 11 km nordwestlich von Koblenz.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Schon um 1707 bauten die Bewohner eine erste Kapelle.",
-"1865 verfügte der preußische König, dass Weißenthurm eigene Gemeinde wird.",
-"2024 holte die SPD die meisten Stadtratssitze."
-],
-"art": "luege",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Eine Kapelle schon um 1707 klingt früh, ist aber belegt. Auch das stimmt: 1865 verfügte der preußische König die Gemeindebildung, und ab 1866 war Weißenthurm selbständig. Gelogen ist der Stadtrat: 2024 holte die Freie Wählergruppe (FWG) 11 Sitze, die SPD nur 4. Die Lüge war 3.",
-"quelle": "Stadt Weißenthurm, weissenthurm.de",
-"faktencheck": "korrigiert",
-"id": "140-weissenthurm/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Weißenthurm",
-"steckbrief": "Stadt mit rund 8.900 Einwohnern, 11 km nordwestlich von Koblenz.",
-"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Weißenthurm bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 30 %",
-"30 bis unter 35 %",
-"35 bis unter 40 %",
-"40 % und mehr"
+"Er war der Glockenturm einer Kapelle.",
+"Er war ein Zollturm an einer Landesgrenze.",
+"Er war ein Signalturm für die Rheinschiffer.",
+"Er war der Turm einer Windmühle."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Im Umland von Koblenz würde man eher die CDU vorn erwarten. Stärkste Kraft wurde aber die AfD mit 33 Prozent der Zweitstimmen, vor der CDU. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "140-weissenthurm/v0.8/4",
+"rueckseite": "Du hattest [Option] getippt. Am Rhein liegt der Gedanke an Schiffe nahe, doch der Zoll wurde auf der Handelsstraße von Mainz über Koblenz und Bonn nach Köln erhoben. Der Wohn- und Zollturm stand dort, wo Kurtrier an Kurköln stieß. Sein heller Verputz gab ihm den Namen und der Stadt gleich mit. Bis heute ist er ihr Wahrzeichen, zu sehen in der Altestraße. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.ich-geh-wandern.de/weißenthurm",
+"faktencheck": "korrigiert",
+"id": "140-weissenthurm/v0.9/1",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Metternichs Taufstein in der Pfarrkirche",
+"rang": 5,
 "familie": "A",
-"sorte": "Klassiker",
+"sorte": "Geschichte",
 "ort": "Weißenthurm",
-"steckbrief": "Stadt mit rund 8.900 Einwohnern, 11 km nordwestlich von Koblenz.",
-"frage": "Zu welchem Landkreis gehört die Stadt Weißenthurm?",
+"steckbrief": "Stadt mit knapp 9.000 Einwohnern, 11 km nordwestlich von Koblenz.",
+"frage": "In der Pfarrkirche St. Trinitatis steht der Taufstein, an dem Fürst Metternich getauft wurde. Woher stammt dieser Stein?",
 "optionen": [
-"Landkreis Neuwied",
-"Landkreis Ahrweiler",
-"Rhein-Lahn-Kreis",
-"Landkreis Mayen-Koblenz"
+"Er kam aus dem Trierer Dom.",
+"Er kam aus der Abtei Maria Laach.",
+"Er kam aus der Koblenzer Liebfrauenkirche.",
+"Er kam aus dem Wiener Stephansdom."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei Metternich denkt man an Wien, wo der österreichische Außenminister den Wiener Kongress mitprägte. Geboren wurde er aber in Koblenz, und aus der dortigen Liebfrauenkirche stammt der Stein. So steht in einer Kleinstadt am Rhein ein Stück europäischer Geschichte, in einer Kirche, die Johann Claudius von Lassaulx entwarf. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.ich-geh-wandern.de/weißenthurm",
+"faktencheck": "bestätigt",
+"id": "140-weissenthurm/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Stadt an der Nettemündung",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weißenthurm",
+"steckbrief": "Stadt mit knapp 9.000 Einwohnern, 11 km nordwestlich von Koblenz.",
+"frage": "In Weißenthurm mündet die Nette in den Rhein. Wo entspringt dieser Fluss?",
+"optionen": [
+"Sie entspringt im Hunsrück.",
+"Sie entspringt im Westerwald.",
+"Sie entspringt im Taunus.",
+"Sie entspringt im Brohltal."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Neuwied liegt ebenfalls nahe Koblenz, deshalb liegt der Tipp nahe. Weißenthurm gehört aber zum Landkreis Mayen-Koblenz, Hauptkennzeichen MYK. Richtig war 4.",
-"quelle": "dewiki Infobox",
+"rueckseite": "Du hattest [Option] getippt. Der Westerwald liegt nahe, denn er grenzt ans Rheintal. Doch er liegt rechts des Rheins, die Nette kommt von links: Sie entspringt bei Hohenleimbach im Brohltal. An ihrer Mündung in Weißenthurm liegt der Nette-Park mit kleinem Weiher und einem Spazierweg zum Rheinufer. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.ich-geh-wandern.de/weißenthurm",
 "faktencheck": "bestätigt",
-"id": "140-weissenthurm/v0.8/6",
+"id": "140-weissenthurm/v0.9/3",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "ALLTAG",
+"charakteristikum": "Blechverpackungs-Großbetrieb in Kleinstadt",
+"rang": 2,
+"familie": "D",
+"sorte": "Geschichte",
 "ort": "Weißenthurm",
-"steckbrief": "Stadt mit rund 8.900 Einwohnern, 11 km nordwestlich von Koblenz.",
-"frage": "Wie weit ist die Landeshauptstadt Mainz in Luftlinie von Weißenthurm entfernt?",
+"steckbrief": "Stadt mit knapp 9.000 Einwohnern, 11 km nordwestlich von Koblenz.",
+"frage": "Ein Industriezweig prägt die Stadt bis heute. Welchen dieser vier Betriebe gibt es in Weißenthurm?",
 "optionen": [
-"unter 80 km",
-"80 bis unter 100 km",
-"100 bis unter 120 km",
-"120 km und mehr"
+"ein Werk für Blechverpackungen",
+"eine Sektkellerei",
+"eine Glashütte",
+"ein Weingut mit Steillagen"
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Wer die Strecke über Straße oder Schiene kennt, schätzt leicht zu hoch, denn beide verlaufen selten schnurgerade. In Luftlinie liegt Mainz nur 76 Kilometer von Weißenthurm entfernt. Richtig war 1.",
-"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"rueckseite": "Du hattest [Option] getippt. Am Mittelrhein denkt man zuerst an Wein und Sekt. Weißenthurm aber ist Industriestadt: Hier verarbeitet ein Großbetrieb Blech zu Verpackungen. Laut Stadt prägen er und viele mittelständische Unternehmen die Wirtschaft. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, weissenthurm.de/index.php/wirtschaft",
+"faktencheck": "korrigiert",
+"id": "140-weissenthurm/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "französisches Staatsdenkmal auf dem Frauenberg",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weißenthurm",
+"steckbrief": "Stadt mit knapp 9.000 Einwohnern, 11 km nordwestlich von Koblenz.",
+"frage": "Auf dem Frauenberg erinnert ein Denkmal an den französischen General Hoche. Wem gehört das Denkmalsgelände?",
+"optionen": [
+"Es gehört der Stadt Weißenthurm.",
+"Es gehört der Französischen Republik.",
+"Es gehört dem Land Rheinland-Pfalz.",
+"Es gehört dem Bistum Trier."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Denkmal in einer deutschen Stadt hält man für deren Besitz. Doch das Gelände gehört dem französischen Staat. Das frühklassizistische Monument erinnert an die Rheinquerung der Sambre- und Maas-Armee unter Hoche, der in Neuwied die Österreicher besiegte. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.ich-geh-wandern.de/weißenthurm",
+"faktencheck": "korrigiert",
+"id": "140-weissenthurm/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Fürstenbahnhof an der linken Rheinstrecke",
+"rang": 9,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Weißenthurm",
+"steckbrief": "Stadt mit knapp 9.000 Einwohnern, 11 km nordwestlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Raiffeisenbrücke führt hinüber nach Neuwied.",
+"Der Bahnhof liegt an der rechten Rheinstrecke.",
+"Der Bahnhof trug anfangs den Namen der Stadt gegenüber."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Raiffeisenbrücke führt nach Neuwied, und Neuwied liegt rechts des Rheins. Weißenthurm liegt also links, und sein Bahnhof liegt seit 1858 an der linksrheinischen Eisenbahn. Anfangs hieß er sogar „Neuwied, linksrheinischer Bahnhof“. Weil ihn wohl auch das Fürstenhaus zu Wied nutzte, baute man ihn stattlicher als die Bahnhöfe der Nachbarorte. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, weissenthurm.de/index.php/geschichte",
+"faktencheck": "korrigiert",
+"id": "140-weissenthurm/v0.9/6",
+"tisch": false
+},
+{
+"facette": "POLITIK",
+"charakteristikum": "Wahlbeteiligung weit unter dem Land",
+"rang": 7,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Weißenthurm",
+"steckbrief": "Stadt mit knapp 9.000 Einwohnern, 11 km nordwestlich von Koblenz.",
+"frage": "Bei der Bundestagswahl 2025 gingen in Rheinland-Pfalz 83 % zur Wahl. Wie hoch war die Wahlbeteiligung in Weißenthurm?",
+"optionen": [
+"86 % und mehr",
+"83 bis unter 86 %",
+"77 bis unter 83 %",
+"unter 77 %"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. So nah an Koblenz erwartet man leicht einen Wert um den Landesschnitt. In Weißenthurm gingen aber nur 74,1 % zur Wahl, 8,9 Punkte weniger als im Land. Gut jeder vierte Wahlberechtigte blieb zu Hause; stärkste Kraft wurde die AfD mit 33 %. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23; Landeswert: Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes",
 "faktencheck": "bestätigt",
-"id": "140-weissenthurm/v0.8/7",
+"id": "140-weissenthurm/v0.9/7",
 "tisch": false
 }
 ],
 "anschluss_von": "47-andernach",
 "anschluss": [
-"Fläche: Andernach ist gut dreizehnmal so groß wie Weißenthurm.",
-"Kennzeichen: In Andernach wie in Weißenthurm steht MYK am Auto."
+"Andernach hat über dreizehnmal so viel Fläche wie Weißenthurm.",
+"In Andernach gewann 2025 die CDU, in Weißenthurm die AfD."
 ],
 "anschluesse": {
 "29-lahnstein": [
@@ -51472,8 +51513,8 @@ window.QA_DATEN = {
 "Vallendar und Weißenthurm sind fast gleich groß: rund 9.000 und 8.900 Einwohner."
 ],
 "47-andernach": [
-"Fläche: Andernach ist gut dreizehnmal so groß wie Weißenthurm.",
-"Kennzeichen: In Andernach wie in Weißenthurm steht MYK am Auto."
+"Andernach hat über dreizehnmal so viel Fläche wie Weißenthurm.",
+"In Andernach gewann 2025 die CDU, in Weißenthurm die AfD."
 ],
 "53-koblenz": [
 "Kreisgrenze: Koblenz ist kreisfrei, Weißenthurm gehört zum Landkreis Mayen-Koblenz.",
@@ -51561,6 +51602,32 @@ window.QA_DATEN = {
 },
 "ags": "07137228",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Linksrheinisch zwischen Andernach und Koblenz im Neuwieder Becken, an der Nettemündung, gegenüber von Neuwied; knapp vier Quadratkilometer."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Früher Platzenborn genannt, Marktrecht 1663, Stadtrechte erst 1966; Wahrzeichen ist der weiße Zollturm in der Altestraße."
+},
+{
+"facette": "ALLTAG",
+"text": "Einst „3B-Stadt“ aus Bims, Brauereien und Blech; die Großbrauereien sind Geschichte, die Blechverpackung prägt die Stadt bis heute."
+},
+{
+"facette": "FREIZEIT",
+"text": "Nette-Park an der Mündung, Hoche-Denkmal auf dem Frauenberg, Stadion und Stadthalle, Bootshafen am Rhein, Turnverein von 1868."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof an der linken Rheinstrecke, Raiffeisenbrücke nach Neuwied, Bundesstraßen B 9 und B 256, Partnerstadt Courrières."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: AfD 33 %, CDU 24,9 %; Wahlbeteiligung 74,1 %, deutlich unter dem Landeswert von 83 %."
+}
+],
 "km_vom_vorigen": 5.0
 },
 {
@@ -89739,197 +89806,224 @@ window.QA_DATEN = {
 "lon": 6.98333,
 "karten": [
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Park auf ehemaliger Giftmülldeponie",
+"rang": 1,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Leverkusen",
-"steckbrief": "Leverkusen hat rund 168.000 Einwohner und liegt am Rhein, 25 Kilometer Luftlinie von Düsseldorf.",
-"frage": "Woher hat die Stadt Leverkusen ihren Namen?",
+"steckbrief": "Rund 168.000 Einwohner, kreisfreie Stadt am rechten Rheinufer, 25 km Luftlinie von Düsseldorf.",
+"frage": "Am Rhein liegt der Neuland-Park, Schauplatz der Landesgartenschau 2005. Worauf wurde er angelegt?",
 "optionen": [
-"Die Stadt heißt nach einem alten Rittergeschlecht.",
-"Die Stadt heißt nach einem Apotheker und Fabrikanten.",
-"Die Stadt heißt nach einem Bach im Stadtgebiet.",
-"Die Stadt heißt nach einem früheren Kloster."
+"Er liegt auf einem früheren Truppenübungsplatz.",
+"Er liegt auf einer ehemaligen Giftmülldeponie.",
+"Er liegt auf einem stillgelegten Güterbahnhof.",
+"Er liegt auf einer abgerissenen Zechenanlage."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Bei alten Ortsnamen denkt man schnell an Bäche, Klöster oder Ritter. Die Stadt übernahm 1930 aber einen Namen, den der Apotheker Carl Leverkus seinem Werksgelände am Rhein gegeben hatte. Er benannte es nach dem Stammhof seiner Familie bei Lennep. Später kaufte Bayer seine Fabriken. Richtig war 2.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Leverkusen",
+"rueckseite": "Du hattest [Option] getippt. Ein Zechengelände läge in Nordrhein-Westfalen nahe, ein Güterbahnhof in jeder Großstadt. Doch der Park liegt auf einer alten Deponie: Ab 1923 landeten hier Bauschutt, Hausmüll und Chemieabfälle von Bayer. Die giftigen Rückstände wurden abgedichtet, 2005 kam die Landesgartenschau. Für eine Bayer-Stadt ein passendes Bild: Grün auf früherem Abfall. Richtig war 2.",
+"quelle": "baukunst-nrw.de",
 "faktencheck": "korrigiert",
-"id": "193-leverkusen/v0.8/1",
+"id": "193-leverkusen/v0.9/1",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "GESCHICHTE",
+"charakteristikum": "Stadtname von bergischer Hofschaft",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
 "ort": "Leverkusen",
-"steckbrief": "Leverkusen hat rund 168.000 Einwohner und liegt am Rhein, 25 Kilometer Luftlinie von Düsseldorf.",
-"frage": "Wie groß ist das Stadtgebiet von Leverkusen?",
+"steckbrief": "Rund 168.000 Einwohner, kreisfreie Stadt am rechten Rheinufer, 25 km Luftlinie von Düsseldorf.",
+"frage": "Der Stadtname geht auf die Werkssiedlung des Fabrikanten Carl Leverkus zurück. Woher stammt der Name der Siedlung?",
 "optionen": [
-"unter 40 km²",
-"40 bis unter 60 km²",
-"60 bis unter 100 km²",
-"100 km² und mehr"
+"Er stammt von einem Flurnamen am Rhein.",
+"Er stammt von einem Farbstoff der Fabrik.",
+"Er stammt vom Herkunftsort der Familie Leverkus.",
+"Er stammt vom Geburtsnamen seiner Ehefrau."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Bei einer Großstadt erwarten viele eine größere Fläche, ähnlich anderer Großstädte. Leverkusen kommt aber auf 78,87 Quadratkilometer, die Menschen leben also recht dicht beieinander. Richtig war 3.",
-"quelle": "Wikidata P2046",
-"faktencheck": "bestätigt",
-"id": "193-leverkusen/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Leverkusen",
-"steckbrief": "Leverkusen hat rund 168.000 Einwohner und liegt am Rhein, 25 Kilometer Luftlinie von Düsseldorf.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Die Wiesdorfer Rheinfähre nach Merkenich fährt noch heute.",
-"Ein Schwager Napoleons besaß einst Schloss Morsbroich.",
-"Die Wupper mündet in Leverkusen in den Rhein."
-],
-"art": "luege",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Die Fähre klingt glaubwürdig, denn am Rhein fahren vielerorts noch Fähren. Die Wiesdorfer Fähre nach Merkenich machte aber 1969 ihre letzte Fahrt. Napoleons Schwager Murat erhob Schloss Morsbroich tatsächlich zum Mittelpunkt einer Grafschaft, und die Wupper mündet wirklich in Leverkusen. Die Lüge war 1.",
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre, dass Carl Leverkus die Siedlung einfach nach sich selbst benannte. Tatsächlich trägt sie den Namen der Hofschaft Leverkusen bei Lennep im Bergischen Land, aus der seine Familie stammte. So wanderte ein Hofname vom Bergischen an den Rhein und wurde zum Namen einer Stadt mit heute rund 168.000 Einwohnern. Richtig war 3.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Leverkusen",
-"faktencheck": "korrigiert",
-"id": "193-leverkusen/v0.8/3",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Leverkusen",
-"steckbrief": "Leverkusen hat rund 168.000 Einwohner und grenzt am Rhein an Köln.",
-"frage": "Welche Partei holte bei der Bundestagswahl 2025 in Leverkusen die zweitmeisten Zweitstimmen?",
-"optionen": [
-"SPD",
-"Grüne",
-"AfD",
-"CDU"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Wer an das grüne Köln nebenan denkt, tippt leicht auf die Grünen. In Leverkusen kamen sie aber nur auf 11,8 Prozent. Zweitstärkste wurde die SPD mit 21,4 Prozent, hinter der CDU mit 28 Prozent; die AfD folgte mit 17,2 Prozent. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
 "faktencheck": "bestätigt",
-"id": "193-leverkusen/v0.8/4",
+"id": "193-leverkusen/v0.9/2",
 "tisch": false
 },
 {
+"facette": "ALLTAG",
+"charakteristikum": "Stadt gewachsen um das Bayer-Werk",
+"rang": 2,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Leverkusen",
-"steckbrief": "Leverkusen hat rund 168.000 Einwohner und liegt am Rhein, 25 Kilometer Luftlinie von Düsseldorf.",
-"frage": "1929 unterschrieb Kölns Oberbürgermeister Konrad Adenauer ein Abkommen, das Schlebusch in Köln eingliedern sollte. Was wurde daraus?",
+"steckbrief": "Rund 168.000 Einwohner, kreisfreie Stadt am rechten Rheinufer, 25 km Luftlinie von Düsseldorf.",
+"frage": "Die Bayer-Farbenfabriken verlegten einst ihren Firmensitz nach Wiesdorf, heute Stadtteil von Leverkusen. Wo saßen sie vorher?",
 "optionen": [
-"Schlebusch wurde tatsächlich ein Stadtteil von Köln.",
-"Das Abkommen wurde später für ungültig erklärt.",
-"Schlebusch blieb danach dauerhaft eine eigene Gemeinde.",
-"Schlebusch wurde stattdessen ein Teil von Opladen."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Mit der Unterschrift des Kölner Oberbürgermeisters wirkte die Sache besiegelt, Köln war ja der große Nachbar. Doch das Abkommen wurde später für ungültig erklärt. Schlebusch ging in der neuen Stadt Leverkusen auf, zusammen mit Wiesdorf, Steinbüchel und Rheindorf. Richtig war 2.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Leverkusen",
-"faktencheck": "unsicher",
-"id": "193-leverkusen/v0.8/5",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Leverkusen",
-"steckbrief": "Leverkusen hat rund 168.000 Einwohner und grenzt am Rhein an Köln.",
-"frage": "Wie weit ist es von Leverkusen in Luftlinie bis zur Landeshauptstadt Düsseldorf?",
-"optionen": [
-"unter 10 km",
-"10 bis unter 20 km",
-"20 bis unter 35 km",
-"35 km und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Wer Leverkusen dem Kölner Raum zuordnet, schätzt Düsseldorf oft weit entfernt. Tatsächlich sind es nur 25 Kilometer Luftlinie bis zur Landeshauptstadt. Richtig war 3.",
-"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
-"faktencheck": "bestätigt",
-"id": "193-leverkusen/v0.8/6",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Leverkusen",
-"steckbrief": "Leverkusen hat rund 168.000 Einwohner und liegt am Rhein, 25 Kilometer Luftlinie von Düsseldorf.",
-"frage": "Das erste Bayer-Kreuz entstand 1933 als riesige Leuchtwerbung. Was wurde aus dieser ersten Anlage?",
-"optionen": [
-"Sie leuchtet bis heute an derselben Stelle.",
-"Sie wurde später auf LED-Lampen umgerüstet.",
-"Sie wurde nach dem Krieg wieder eingeschaltet.",
-"Sie wurde abgeschaltet und im Krieg demontiert."
+"Der Firmensitz lag vorher in Köln.",
+"Der Firmensitz lag vorher in Krefeld.",
+"Der Firmensitz lag vorher in Aachen.",
+"Der Firmensitz lag vorher in Elberfeld."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Wer das heutige Bayer-Kreuz kennt, hält es leicht für das Original. Die erste Anlage wurde aber 1939 abgeschaltet und 1944 im Krieg demontiert. Das heutige Kreuz von 1958 ist eine neue, kleinere Konstruktion an anderer Stelle; erst sie bekam 2009 LEDs. Richtig war 4.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Leverkusen",
+"rueckseite": "Du hattest [Option] getippt. Köln liegt als großer Nachbar nahe. Doch die Farbenfabriken Bayer kamen aus Elberfeld, wo der Platz knapp wurde. 1891 kauften sie die Fabrik von Carl Leverkus am Rhein und bauten sie nach Plänen von Carl Duisberg aus. 1912 wurde der Standort Firmensitz. Leverkusen ist um dieses Werk herum gewachsen. Richtig war 4.",
+"quelle": "bayer.com",
 "faktencheck": "korrigiert",
-"id": "193-leverkusen/v0.8/7",
+"id": "193-leverkusen/v0.9/3",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "Wuppermündung in den Rhein",
+"rang": 5,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Leverkusen",
-"steckbrief": "Leverkusen hat rund 168.000 Einwohner und liegt am Rhein, 25 Kilometer Luftlinie von Düsseldorf.",
-"frage": "Bracknell Forest in Großbritannien ist Partnerstadt Leverkusens. Wie kam Leverkusen zu dieser Partnerschaft?",
+"steckbrief": "Rund 168.000 Einwohner, kreisfreie Stadt am rechten Rheinufer, 25 km Luftlinie von Düsseldorf.",
+"frage": "Durch Leverkusen fließt die Wupper. Wo endet der Fluss?",
 "optionen": [
-"Leverkusen schloss sie als allererste Städtepartnerschaft.",
-"Bergisch Neukirchen brachte sie bei der Eingemeindung mit.",
-"Opladen brachte sie bei der Eingemeindung mit.",
-"Sie entstand aus Kontakten nach der Wiedervereinigung."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre, dass Leverkusen den Kontakt selbst geknüpft hat. Geschlossen hatte die Partnerschaft aber Opladen. Als Opladen Teil Leverkusens wurde, übernahm Leverkusen sie. Hauptziel war, die europäische Einheit zu stärken. Richtig war 3.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Leverkusen",
-"faktencheck": "unsicher",
-"id": "193-leverkusen/v0.8/8",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Leverkusen",
-"steckbrief": "Leverkusen hat rund 168.000 Einwohner und liegt am Rhein, 25 Kilometer Luftlinie von Düsseldorf.",
-"frage": "Der Neuland-Park am Leverkusener Rheinufer war Gelände einer Landesgartenschau. Worauf wurde er angelegt?",
-"optionen": [
-"Er liegt auf einer ehemaligen Giftmülldeponie.",
-"Er liegt auf einem früheren Militärflugplatz.",
-"Er liegt auf dem Gelände einer Zeche.",
-"Er liegt auf einer früheren Pferderennbahn."
+"Sie mündet in Leverkusen in den Rhein.",
+"Sie mündet in Düsseldorf in den Rhein.",
+"Sie mündet in Köln in den Rhein.",
+"Sie mündet in Essen in die Ruhr."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Bei einem Park am Fluss denkt man an alte Wiesen oder einstige Industrieflächen. Der Neuland-Park entstand aber auf einer ehemaligen Deponie für Bauschutt, Hausmüll und Chemieabfälle von Bayer. Sie wurde abgedichtet und saniert, bevor 2005 die Landesgartenschau kam. Richtig war 1.",
+"rueckseite": "Du hattest [Option] getippt. Wer an Wuppertal denkt, sucht die Mündung leicht an der Ruhr oder in einer großen Nachbarstadt. Doch die Wupper erreicht den Rhein in Leverkusen, im Stadtteil Rheindorf. Die Stadt liegt am rechten Rheinufer, und an der Mündung führt eine Schiffsbrücke über den Fluss. Beim Vorbeifahren lohnt der Blick: Hier endet die Wupper. Richtig war 1.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Leverkusen",
 "faktencheck": "korrigiert",
-"id": "193-leverkusen/v0.8/9",
+"id": "193-leverkusen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Eisenbahnwerkstätte machte Opladen groß",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leverkusen",
+"steckbrief": "Rund 168.000 Einwohner, kreisfreie Stadt am rechten Rheinufer, 25 km Luftlinie von Düsseldorf.",
+"frage": "Opladen, seit 1975 Teil Leverkusens, war zuvor Kreisstadt. Welcher Grund verschaffte dem Ort laut Ortsgeschichte den nötigen Wachstumsschub?",
+"optionen": [
+"Ein neuer Rheinhafen zog Handel an.",
+"Eine Eisenbahn-Hauptwerkstätte siedelte sich an.",
+"Eine Heilquelle machte den Ort zum Kurbad.",
+"Ein Braunkohletagebau brachte viele Bergleute."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Hafen läge nahe, schließlich gehört Opladen heute zu einer Stadt am Rhein. Doch den Schub brachte die Eisenbahn: 1903 war ihre Hauptwerkstätte fertig, 1908 arbeiteten dort schon über 1.800 Menschen. Bis 1914 wuchs Opladen von rund 4.600 auf fast 12.000 Einwohner. Im selben Jahr wurde es Kreisstadt. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Leverkusen",
+"faktencheck": "korrigiert",
+"id": "193-leverkusen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Stadt aus vielen alten Orten",
+"rang": 8,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Leverkusen",
+"steckbrief": "Rund 168.000 Einwohner, kreisfreie Stadt am rechten Rheinufer, 25 km Luftlinie von Düsseldorf.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Hitdorf gehörte vor Leverkusen zur Stadt Düsseldorf.",
+"Wiesdorf war schon vor Leverkusens Gründung eine Stadt.",
+"Die Villa Römer war nach Kriegsende Militärregierungssitz."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Düsseldorf liegt rheinabwärts nicht weit, ein Wechsel scheint denkbar. Doch Hitdorf kam aus Monheim am Rhein zu Leverkusen. Wiesdorf war schon Stadt, bevor es mit Schlebusch, Steinbüchel und Rheindorf Leverkusen bildete, und in der Opladener Villa Römer saß nach Kriegsende eine Militärregierung. Leverkusen ist zusammengesetzt aus alten Orten mit eigener Geschichte. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Leverkusen",
+"faktencheck": "unsicher",
+"id": "193-leverkusen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Großstadt im Schatten Kölns",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Leverkusen",
+"steckbrief": "Kreisfreie Stadt am rechten Rheinufer, knapp 79 km² groß, 25 km Luftlinie von Düsseldorf.",
+"frage": "Wie viele Einwohner hat die kreisfreie Stadt Leverkusen?",
+"optionen": [
+"unter 100.000",
+"100.000 bis unter 130.000",
+"130.000 bis unter 160.000",
+"160.000 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Neben dem Nachbarn Köln wirkt Leverkusen klein, daher liegt eine niedrigere Spanne nahe. Tatsächlich lebten Ende 2025 rund 168.300 Menschen in der Stadt, gut 2.100 je Quadratkilometer. Damit ist Leverkusen klar eine Großstadt, auch wenn man sie vor allem als Bayer-Standort kennt. Richtig war 4.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "193-leverkusen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "leuchtendes Bayer-Kreuz als Wahrzeichen",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leverkusen",
+"steckbrief": "Rund 168.000 Einwohner, kreisfreie Stadt am rechten Rheinufer, 25 km Luftlinie von Düsseldorf.",
+"frage": "Das leuchtende Bayer-Kreuz ist Leverkusens Wahrzeichen. Was wurde aus dem Plan, es 2007 abzubauen?",
+"optionen": [
+"Das Kreuz wurde abgebaut und verschrottet.",
+"Nach Protesten wurde der Plan abgebrochen.",
+"Das Kreuz zog auf das Stadiondach um.",
+"Das Kreuz steht seitdem in einem Museum."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das Stadiondach liegt nahe: Über der BayArena war tatsächlich ein flaches LED-Kreuz geplant, dazu eine Leuchtfassade am Bayer-Hochhaus. Verwirklicht wurde beides nicht. Das Kreuz zwischen zwei 120 Meter hohen Stahlrohrmasten blieb und leuchtet heute mit LEDs. Wer nachts vorbeifährt, sieht es von Weitem. Richtig war 2.",
+"quelle": "kuladig.de",
+"faktencheck": "korrigiert",
+"id": "193-leverkusen/v0.9/8",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "zeitgenössische Kunst im Schloss",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leverkusen",
+"steckbrief": "Rund 168.000 Einwohner, kreisfreie Stadt am rechten Rheinufer, 25 km Luftlinie von Düsseldorf.",
+"frage": "Im Schloss Morsbroich, einst Adelssitz, ist heute ein überregional bekanntes Museum. Was zeigt es?",
+"optionen": [
+"Es zeigt zeitgenössische Kunst.",
+"Es zeigt die Geschichte der Chemieindustrie.",
+"Es zeigt Jagdwaffen und Trophäen des Adels.",
+"Es zeigt Kutschen und Schlitten früherer Zeiten."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. In einer Bayer-Stadt läge Chemiegeschichte nahe, in einem Schloss eher Adelsglanz. Doch Morsbroich zeigt zeitgenössische Kunst, und laut Stadt reicht sein Ruf weit über Leverkusen hinaus. Selbst im Schlosspark stehen Skulpturen. Für eine Industriestadt ist das ein überraschender Gegenpol: neue Kunst im alten Adelssitz. Richtig war 1.",
+"quelle": "museum-morsbroich.de; leverkusen.de",
+"faktencheck": "korrigiert",
+"id": "193-leverkusen/v0.9/9",
 "tisch": false
 }
 ],
 "anschluss_von": "192-koeln",
 "anschluss": [
-"Der Leverkusener Carl-Duisberg-Park liegt teilweise auf Kölner Stadtgebiet.",
-"Einwohner: Köln hat rund sechsmal so viele wie Leverkusen."
+"Köln hat rund sechsmal so viele Einwohner wie Leverkusen.",
+"Der Wanderweg „Rund um Leverkusen“ führt teilweise durch Köln."
 ],
 "anschluesse": {
 "191-huerth": [
 "Leverkusen hat gut zweieinhalbmal so viele Einwohner wie Hürth."
 ],
 "192-koeln": [
-"Der Leverkusener Carl-Duisberg-Park liegt teilweise auf Kölner Stadtgebiet.",
-"Einwohner: Köln hat rund sechsmal so viele wie Leverkusen."
+"Köln hat rund sechsmal so viele Einwohner wie Leverkusen.",
+"Der Wanderweg „Rund um Leverkusen“ führt teilweise durch Köln."
 ],
 "194-langenfeld": [
 "Leverkusen hat fast dreimal so viele Einwohner wie Langenfeld."
@@ -89949,6 +90043,32 @@ window.QA_DATEN = {
 },
 "ags": "05316000",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Kreisfreie Großstadt am rechten Rheinufer, knapp 79 km² groß, 25 km von Düsseldorf; die Wupper mündet hier."
+},
+{
+"facette": "GESCHICHTE",
+"text": "1930 aus Wiesdorf, Schlebusch, Steinbüchel und Rheindorf gegründet; 1975 kamen Opladen und Bergisch Neukirchen dazu."
+},
+{
+"facette": "ALLTAG",
+"text": "Geprägt vom Bayer-Konzern; Bayer und die Abspaltung Lanxess sind Hauptarbeitgeber, dazu große Werkssiedlungen."
+},
+{
+"facette": "FREIZEIT",
+"text": "Bayer 04 in der BayArena, Japanischer Garten, Wildpark Reuschenberg, Bürgerbusch, Wanderweg „Rund um Leverkusen“, Balkantrasse, Jazztage."
+},
+{
+"facette": "INFRA",
+"text": "Rund 168.000 Einwohner, sechs Bahnhöfe und Haltestellen, darunter Leverkusen Mitte und Opladen; Klinikum in Schlebusch."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU vorn mit 28 Prozent, Wahlbeteiligung 81,2 Prozent, knapp unter dem Landesschnitt."
+}
+],
 "km_vom_vorigen": 10.3
 },
 {
@@ -89958,189 +90078,215 @@ window.QA_DATEN = {
 "lon": 6.95,
 "karten": [
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Posthorn im Wappen, Postkutschenstadt",
+"rang": 4,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Langenfeld",
-"steckbrief": "Langenfeld hat rund 60.000 Einwohner und liegt 10 km nördlich von Leverkusen.",
-"frage": "Im Langenfelder Stadtwappen prangt ein goldenes Posthorn. Wofür steht es?",
+"steckbrief": "Stadt mit rund 60.000 Einwohnern, 10 km nördlich von Leverkusen.",
+"frage": "Im Langenfelder Stadtwappen ist neben dem Bergischen Löwen ein Horn zu sehen. Woran erinnert es?",
 "optionen": [
 "Es erinnert an eine alte Poststation.",
-"Es erinnert an alte Jagdrechte im Wald.",
-"Es zeigt, dass hier Hörner gefertigt wurden.",
-"Es steht für die Blasmusik der Stadt."
+"Es erinnert an die Jagdrechte der Landesherren.",
+"Es erinnert an eine Zunft der Instrumentenbauer.",
+"Es erinnert an die Signalhörner der Rheinschiffer."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein Horn lässt an Jagd denken, doch hier geht es um Post: Es erinnert an die alte Posthalterei „im langen Feld“. Sie war eine Station der Fürsten von Thurn und Taxis an der Straße von Köln nach Arnheim. Der rote Löwe darunter steht dafür, dass Langenfeld einst zur Grafschaft Berg gehörte. Richtig war 1.",
-"quelle": "Stadt Langenfeld, langenfeld.de (Stadtwappen, Stadtgeschichte)",
-"faktencheck": "korrigiert",
-"id": "194-langenfeld/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Langenfeld",
-"steckbrief": "Langenfeld hat rund 60.000 Einwohner und liegt 10 km nördlich von Leverkusen.",
-"frage": "Wie viele Einwohner leben in Langenfeld rechnerisch auf einem Quadratkilometer?",
-"optionen": [
-"unter 1.000",
-"1.000 bis unter 2.000",
-"2.000 bis unter 3.000",
-"3.000 und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Wer an die nahen Großstädte denkt, schätzt die Dichte leicht zu hoch. Langenfeld ist aber keine Großstadt: Rechnerisch leben dort 1.454 Menschen auf einem Quadratkilometer. Richtig war 2.",
-"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
-"faktencheck": "bestätigt",
-"id": "194-langenfeld/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Langenfeld",
-"steckbrief": "Langenfeld hat rund 60.000 Einwohner und liegt 10 km nördlich von Leverkusen.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Eine gleislose Bahn fuhr einst nach Monheim.",
-"Eine Straßenbahn fährt bis heute nach Ohligs.",
-"Das Naturschutzgebiet Further Moor liegt in Langenfeld."
-],
-"art": "luege",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Die gleislose Bahn klingt erfunden, sie fuhr aber von 1904 bis 1908 wirklich nach Monheim, als früher Oberleitungsbus. Gelogen war die Straßenbahn: Früher fuhr eine nach Solingen-Ohligs, heute gibt es sie nicht mehr. Das Further Moor ist tatsächlich Naturschutzgebiet. Die Lüge war 2.",
+"rueckseite": "Du hattest [Option] getippt. Ein Horn im Wappen lässt an Jagd oder Musik denken. Es ist aber ein Posthorn: 1774 richteten die Fürsten von Thurn und Taxis hier eine „Kayserliche Reichs-Posthalterey“ ein. Die Posttradition prägt Langenfeld bis heute: Vor der Stadtgalerie stehen ein Postillon und die Christel von der Post in Bronze. Richtig war 1.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Langenfeld_(Rheinland)",
 "faktencheck": "korrigiert",
-"id": "194-langenfeld/v0.8/3",
+"id": "194-langenfeld/v0.9/1",
 "tisch": false
 },
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Kotten der Messergriff-Macher im Volksgarten",
+"rang": 3,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Langenfeld",
-"steckbrief": "Langenfeld hat rund 60.000 Einwohner und liegt 10 km nördlich von Leverkusen.",
-"frage": "In Wiescheid arbeiteten Männer als Schalenschneider. Was stellten sie her?",
+"steckbrief": "Stadt mit rund 60.000 Einwohnern, 10 km nördlich von Leverkusen.",
+"frage": "Im Langenfelder Volksgarten steht ein wiederaufgebauter Kotten der Wiescheider Schalenschneider. Was stellten die Schalenschneider her?",
 "optionen": [
+"Sie drechselten Schüsseln und Schalen aus Holz.",
 "Sie fertigten Holzgriffe für Messer.",
-"Sie drechselten hölzerne Obstschalen für Märkte.",
-"Sie schnitten Knöpfe aus Muschelschalen.",
-"Sie schälten Baumrinde für Gerbereien."
+"Sie schnitzten Holzschuhe für die Bauern.",
+"Sie schälten Eichenrinde für Gerbereien."
 ],
 "art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. „Schale“ klingt nach Obstschüssel, gemeint sind aber die Griffschalen eines Messers. Männer aus Wiescheid schnitten in Lohnarbeit Holzgriffe für die Solinger Schneidwarenindustrie. Ein wiederaufgebauter Schalenschneiderkotten erinnert heute daran. Richtig war 1.",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. „Schalenschneider“ klingt nach Schüsseln. Gemeint sind aber die Griffschalen von Messern: Männer aus Wiescheid fertigten in Lohnarbeit Holzgriffe für die Solinger Schneidwarenindustrie. Ihr Kotten, eine kleine Werkstatt, steht heute als Ausstellungshalle im Volksgarten. Er zeigt, wie eng Langenfelder Handwerk mit der Klingenstadt nebenan verbunden war. Richtig war 2.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Langenfeld_(Rheinland)",
 "faktencheck": "unsicher",
-"id": "194-langenfeld/v0.8/5",
+"id": "194-langenfeld/v0.9/2",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Langenfeld",
-"steckbrief": "Langenfeld hat rund 60.000 Einwohner und liegt 10 km nördlich von Leverkusen.",
-"frage": "Wie weit ist es von Langenfeld in Luftlinie bis zur Landeshauptstadt Düsseldorf?",
-"optionen": [
-"unter 10 km",
-"10 bis unter 20 km",
-"20 bis unter 30 km",
-"30 km und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Wer Fahrzeiten und Straßenkilometer im Kopf hat, schätzt die Strecke oft zu lang. In Luftlinie trennen Langenfeld und die Landeshauptstadt Düsseldorf nur 17 Kilometer. Richtig war 2.",
-"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
-"faktencheck": "bestätigt",
-"id": "194-langenfeld/v0.8/6",
-"tisch": false
-},
-{
+"facette": "LAGE",
+"charakteristikum": "Rheinlandstadt ohne Rheinufer",
+"rang": 5,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Langenfeld",
-"steckbrief": "Langenfeld hat rund 60.000 Einwohner und liegt 10 km nördlich von Leverkusen.",
-"frage": "Der Langenfelder Automobilrennfahrer Willi Bergmeister trat auch als Förderer hervor. Wen förderte er?",
+"steckbrief": "Stadt mit rund 60.000 Einwohnern, 10 km nördlich von Leverkusen.",
+"frage": "Langenfeld liegt östlich des Rheins, zwischen Düsseldorf und Leverkusen. Wie nah kommt die Stadt dem Fluss?",
 "optionen": [
-"Er förderte Sebastian Vettel.",
-"Er förderte Nico Rosberg.",
-"Er förderte Michael Schumacher.",
-"Er förderte Jochen Rindt."
+"Die Stadtgrenze verläuft am Rheinufer.",
+"Die Stadt hat einen eigenen Rheinhafen.",
+"Die Stadt reicht nicht bis an den Rhein.",
+"Eine Fähre setzt von hier über den Rhein."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Vettel und Rosberg liegen als deutsche Weltmeister nahe, doch Michael Schumacher machte in den 1980er-Jahren bei Willi Bergmeister seine Lehre als Kfz-Mechaniker. Auch Bergmeisters Söhne Tim und Jörg wurden Rennfahrer, Jörg lebt in Langenfeld. Richtig war 3.",
+"rueckseite": "Du hattest [Option] getippt. Der Zusatz „Rheinland“ im Namen und die Lage zwischen Düsseldorf und Leverkusen lassen ein Rheinufer erwarten. Doch Langenfeld liegt östlich von Monheim und hat keinen direkten Zugang zum Rhein. Die Bäche der Stadt sammeln sich im Langforter Bach, der in einen Altrheinarm in Düsseldorf-Urdenbach mündet. Richtig war 3.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Langenfeld_(Rheinland)",
-"faktencheck": "korrigiert",
-"id": "194-langenfeld/v0.8/7",
+"faktencheck": "unsicher",
+"id": "194-langenfeld/v0.9/3",
 "tisch": false
 },
 {
+"facette": "ALLTAG",
+"charakteristikum": "schuldenfreie Stadt ab 2008",
+"rang": 1,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Langenfeld",
-"steckbrief": "Langenfeld hat rund 60.000 Einwohner und liegt 10 km nördlich von Leverkusen.",
-"frage": "Am Wenzelnberg in Langenfeld steht ein Mahnmal. Woran erinnert es?",
+"steckbrief": "Stadt mit rund 60.000 Einwohnern, 10 km nördlich von Leverkusen.",
+"frage": "Am 3. Oktober 2008 änderte sich etwas Grundlegendes an Langenfelds Stadtkasse. Was?",
 "optionen": [
-"Es erinnert an verunglückte Bergleute.",
-"Es erinnert an von Gestapo-Leuten ermordete Häftlinge.",
-"Es erinnert an die Opfer eines Flugzeugabsturzes.",
-"Es erinnert an die Toten einer Hochwasserflut."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Eine Schlucht lässt an ein Unglück denken, doch das Mahnmal erinnert an ein Verbrechen: Kurz vor Kriegsende ermordeten Gestapo- und Kripo-Leute in der Wenzelnbergschlucht Häftlinge, die meisten aus dem Zuchthaus Lüttringhausen. Nach Kriegsende mussten NSDAP-Mitglieder die Toten ausgraben, 1965 wurden sie am Mahnmal beigesetzt. Richtig war 2.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Langenfeld_(Rheinland)",
-"faktencheck": "korrigiert",
-"id": "194-langenfeld/v0.8/8",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Langenfeld",
-"steckbrief": "Langenfeld hat rund 60.000 Einwohner und liegt 10 km nördlich von Leverkusen.",
-"frage": "Ende 2008 baute Langenfeld die Schuldenuhr am Rathaus ab. Welchen Grund nennt die Ortsgeschichte?",
-"optionen": [
-"Die Uhr war defekt und nicht mehr reparabel.",
-"Ein Gericht untersagte die Anzeige am Rathaus.",
-"Die Landesregierung ließ alle Schuldenuhren abbauen.",
-"Die Stadt hatte ihr Schuldenziel erreicht."
+"Die Stadt war plötzlich zahlungsunfähig.",
+"Die Stadt verkaufte ihr Rathaus an Investoren.",
+"Die Stadt bekam Geld aus dem Länderfinanzausgleich.",
+"Die Stadt hatte keine Schulden mehr."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Ein Abbau klingt nach Defekt oder Ärger, doch der Grund war ein Erfolg: Im Oktober 2008 hatte Langenfeld sein Schuldenziel erreicht. Die Uhr hatte die Schulden von Stadt, Land und Bund gezeigt und wurde danach an Grevenbroich verliehen. Richtig war 4.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Langenfeld_(Rheinland)",
-"faktencheck": "korrigiert",
-"id": "194-langenfeld/v0.8/9",
+"rueckseite": "Du hattest [Option] getippt. Ein Datum am Tag der Deutschen Einheit klingt nach Festakt, und von Stadtkassen hört man meist Klagen. In Langenfeld war es umgekehrt: Ab diesem Tag war die Stadt schuldenfrei. Für eine Stadt, die heute knapp 60.000 Einwohner zählt, war das eine Seltenheit, denn viele Kommunen leben dauerhaft mit Krediten. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Langenfeld_(Rheinland); Einwohner: Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "unsicher",
+"id": "194-langenfeld/v0.9/4",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Mahnmal für Massaker bei Kriegsende",
+"rang": 2,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Langenfeld",
-"steckbrief": "Langenfeld hat rund 60.000 Einwohner und liegt 10 km nördlich von Leverkusen.",
-"frage": "Mit welcher Sportart wurde der FC Langenfeld mehrmals deutscher Mannschaftsmeister?",
+"steckbrief": "Stadt mit rund 60.000 Einwohnern, 10 km nördlich von Leverkusen.",
+"frage": "In der Wenzelnbergschlucht in Langenfeld steht das Mahnmal Wenzelnberg. Woran erinnert es?",
 "optionen": [
-"Der Verein siegte im Badminton.",
-"Der Verein siegte im Fußball.",
-"Der Verein siegte im Tischtennis.",
-"Der Verein siegte im Feldhockey."
+"Es erinnert an ein Verbrechen kurz vor Kriegsende.",
+"Es erinnert an ein schweres Grubenunglück.",
+"Es erinnert an die Opfer einer Pestepidemie.",
+"Es erinnert an eine Schlacht gegen die Schweden."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. „FC“ klingt nach Fußball, doch der FC Langenfeld ist im Badminton zu Hause und wurde dort zweimal deutscher Mannschaftsmeister. Richtig war 1.",
+"rueckseite": "Du hattest [Option] getippt. Eine Schlucht mit Mahnmal lässt zuerst an ein Unglück denken. Am 13. April 1945 erschossen Gestapo und Kriminalpolizei hier Häftlinge, die meisten aus dem Zuchthaus Lüttringhausen, ein Verbrechen der Kriegsendphase. Seit 1965 liegen die Toten am Wenzelnberg begraben; die Schlucht am Rand der Stadt ist ein Gedenkort. Richtig war 1.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Langenfeld_(Rheinland)",
 "faktencheck": "korrigiert",
-"id": "194-langenfeld/v0.8/10",
+"id": "194-langenfeld/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "gleislose Bahn nach Monheim",
+"rang": 7,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Langenfeld",
+"steckbrief": "Stadt mit rund 60.000 Einwohnern, 10 km nördlich von Leverkusen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Einst fuhr eine Straßenbahn von Langenfeld nach Solingen-Ohligs.",
+"Einst fuhr eine Zahnradbahn von Langenfeld nach Monheim.",
+"Heute liegt Langenfeld an der Bahnstrecke Köln–Duisburg."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Straßenbahn nach Solingen-Ohligs klingt am ehesten erfunden, fuhr aber wirklich, bis Busse sie ablösten. Gelogen ist die Zahnradbahn: Dafür ist das Land am Rhein zu flach. Zwischen Monheim und Langenfeld fuhr stattdessen eine „gleislose Bahn“, ein früher Oberleitungsbus. Sie hielt nur wenige Jahre; die Stadt blieb ein Ort der Wege zwischen Köln und Düsseldorf. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Langenfeld_(Rheinland)",
+"faktencheck": "unsicher",
+"id": "194-langenfeld/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "dicht besiedelt auf kleiner Fläche",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Langenfeld",
+"steckbrief": "Stadt mit rund 60.000 Einwohnern, 10 km nördlich von Leverkusen.",
+"frage": "Wie groß ist die Fläche der Stadt Langenfeld?",
+"optionen": [
+"unter 20 km²",
+"20 bis unter 35 km²",
+"35 bis unter 50 km²",
+"50 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Stadt mit knapp 60.000 Einwohnern so nah an Leverkusen und Düsseldorf wirkt eng bebaut, das spricht für eine kleine Fläche. Langenfeld misst aber 41,15 Quadratkilometer. Mit rund 1.450 Einwohnern je Quadratkilometer ist es dicht besiedelt und hat trotzdem Platz für Wald und Moor. Richtig war 3.",
+"quelle": "Wikidata P2046; Einwohner: Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "194-langenfeld/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Badminton-Hochburg mit Meistertiteln",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Langenfeld",
+"steckbrief": "Stadt mit rund 60.000 Einwohnern, 10 km nördlich von Leverkusen.",
+"frage": "Der FC Langenfeld wurde mehrmals Deutscher Mannschaftsmeister. In welcher Sportart?",
+"optionen": [
+"Die Titel gewann die Badmintonmannschaft.",
+"Die Titel gewann die Fußballmannschaft.",
+"Die Titel gewann die Tischtennismannschaft.",
+"Die Titel gewann die Ringerstaffel."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. „FC“ klingt nach Fußball, doch der FC Langenfeld holte seine Meistertitel im Badminton. Spieler des Vereins gewannen 115 Einzelmeisterschaften; der Langenfelder Björn Joppien wurde siebenmal Deutscher Meister im Einzel. Für eine Stadt mit knapp 60.000 Einwohnern ist das eine erstaunliche Federball-Adresse. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Langenfeld_(Rheinland)",
+"faktencheck": "unsicher",
+"id": "194-langenfeld/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Heimat bekannter Sportler und Politiker",
+"rang": 8,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Langenfeld",
+"steckbrief": "Stadt mit rund 60.000 Einwohnern, 10 km nördlich von Leverkusen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Fußballnationalspieler Mahmoud Dahoud wuchs in Langenfeld auf.",
+"Der Politiker Herbert Reul stammt aus Langenfeld.",
+"Cora Schumacher aus Langenfeld heiratete Michael Schumacher."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Gelogen ist die Ehe: Cora Schumacher aus Langenfeld war mit Rennfahrer Ralf Schumacher verheiratet, nicht mit Michael. Der berühmtere Name drängt sich auf, deshalb klingt die Lüge so echt. Herbert Reul wurde 1952 in Langenfeld geboren. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Langenfeld_(Rheinland)",
+"faktencheck": "korrigiert",
+"id": "194-langenfeld/v0.9/9",
 "tisch": false
 }
 ],
 "anschluss_von": "193-leverkusen",
 "anschluss": [
-"Kennzeichen: In Langenfeld steht ME am Auto, in Leverkusen LEV.",
-"Einwohner: Leverkusen hat fast dreimal so viele wie Langenfeld."
+"Leverkusen hat fast dreimal so viele Einwohner wie Langenfeld.",
+"Langenfelds germanisches Gräberfeld Rosendahlsberg liegt an der Grenze zu Leverkusen."
 ],
 "anschluesse": {
 "192-koeln": [
@@ -90148,8 +90294,8 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: Auf Platz zwei kam in Köln die Grünen, in Langenfeld die SPD."
 ],
 "193-leverkusen": [
-"Kennzeichen: In Langenfeld steht ME am Auto, in Leverkusen LEV.",
-"Einwohner: Leverkusen hat fast dreimal so viele wie Langenfeld."
+"Leverkusen hat fast dreimal so viele Einwohner wie Langenfeld.",
+"Langenfelds germanisches Gräberfeld Rosendahlsberg liegt an der Grenze zu Leverkusen."
 ],
 "195-duesseldorf": [
 "Düsseldorf hat gut zehnmal so viele Einwohner wie Langenfeld."
@@ -90179,6 +90325,32 @@ window.QA_DATEN = {
 },
 "ags": "05158020",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 60.000 Einwohner auf gut 41 km², östlich des Rheins zwischen Düsseldorf und Leverkusen, mit Further Moor und Wenzelnberg."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Entstanden aus Richrath und Reusrath, Stadt seit 1948; Posthorn und Bergischer Löwe im Wappen."
+},
+{
+"facette": "ALLTAG",
+"text": "Drittgrößte Stadt im Kreis Mettmann nach Ratingen und Velbert; die Autos tragen meist das Kennzeichen ME."
+},
+{
+"facette": "FREIZEIT",
+"text": "Stadtmuseum, Kulturzentrum Schauplatz, Segelfluggelände Wiescheid; im Jahreslauf Erdbeerfest, Schoppenfest und Flugplatzfest."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof Langenfeld und Haltepunkt Berghausen an der Strecke Köln–Duisburg; LVR-Klinik in Galkhausen, St.-Martinus-Krankenhaus."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag die CDU mit 34,1 Prozent vorn; die Wahlbeteiligung lag mit 85,2 Prozent drei Punkte über dem Land."
+}
+],
 "km_vom_vorigen": 9.6
 },
 {
@@ -91108,169 +91280,170 @@ window.QA_DATEN = {
 "lon": 7.01306,
 "karten": [
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Baden im Baldeneysee",
+"rang": 2,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Essen",
-"steckbrief": "Ruhrgebietsstadt an der Ruhr mit rund 574.000 Einwohnern, 30 km Luftlinie von Düsseldorf.",
-"frage": "Die Isenburg über dem Baldeneysee ließ Dietrich von Isenberg um 1240 errichten. Welchen Anlass nennt die Stadt Essen?",
+"steckbrief": "Großstadt mit rund 574.000 Einwohnern, etwa 30 km Luftlinie von Düsseldorf.",
+"frage": "Neben Hallen-, Kombi- und Freibädern hat Essen eine Badestelle unter freiem Himmel. Wo liegt sie?",
 "optionen": [
-"Er sollte die Gegend für Köln bewachen.",
-"Er hatte seine Burg bei Hattingen verkauft.",
-"Er baute sie als Witwensitz für seine Mutter.",
-"Er wollte damit sein Erbe zurückfordern."
+"Sie liegt am Rhein-Herne-Kanal.",
+"Sie liegt an der renaturierten Emscher.",
+"Sie liegt im Kemnader See.",
+"Sie liegt am Baldeneysee."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Eine Burg über dem Wasser lässt an eine Wache für einen Landesherrn denken. Die Stadt Essen nennt einen anderen Anlass: Die Hattinger Isenburg war nach einem Überfall, bei dem Erzbischof Engelbert von Köln starb, zerstört worden. Mit der neuen Burg wollte Dietrich von Isenberg sein Erbe zurückfordern. Köln eroberte sie später. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/leben_im_gruenen_/isenburg_/die_isenburg.de.html",
-"faktencheck": "unsicher",
-"id": "199-essen/v0.8/1",
+"rueckseite": "Du hattest [Option] getippt. Wer an das Ruhrgebiet denkt, denkt an Kanäle und Zechengewässer, deshalb liegt der Rhein-Herne-Kanal nahe. Die Badestelle der Essener Bäder liegt aber am Baldeneysee. Für eine Großstadt mit rund 574.000 Einwohnern ist Baden in einem See im eigenen Stadtgebiet bemerkenswert; dazu kommen Hallen-, Kombi- und Freibäder bis zum Grugabad. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.essen.de/leben/sport_und_freizeit_/schwimmen/baeder_startseite.de.html; Einwohner: Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "199-essen/v0.9/1",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "GESCHICHTE",
+"charakteristikum": "Opernsängerin regierte das Fürstentum Essen",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
 "ort": "Essen",
-"steckbrief": "Ruhrgebietsstadt an der Ruhr mit rund 574.000 Einwohnern, 30 km Luftlinie von Düsseldorf.",
-"frage": "Wie viele Einwohner leben in Essen durchschnittlich auf einem Quadratkilometer?",
+"steckbrief": "Großstadt mit rund 574.000 Einwohnern, etwa 30 km Luftlinie von Düsseldorf.",
+"frage": "Maria Kunigunde von Sachsen regierte als Fürstäbtissin das Fürstentum Essen. Was hatte sie zuvor in Dresden gemacht?",
 "optionen": [
-"unter 3.000",
-"3.000 bis unter 4.000",
-"4.000 bis unter 5.000",
-"5.000 und mehr"
+"Sie trat als erfolgreiche Opernsängerin auf.",
+"Sie regierte Sachsen als Kurfürstin.",
+"Sie leitete eine Porzellanmanufaktur.",
+"Sie führte die Hofapotheke."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Beim Ruhrgebiet denken viele an Zechen und Häuserzeilen dicht an dicht, also an eine sehr hohe Dichte. Doch auch eine Großstadt hat Parks, Wälder und Wasserflächen, die den Schnitt drücken. Rechnerisch kommen in Essen 2.727 Einwohner auf einen Quadratkilometer. Richtig war 1.",
-"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
-"faktencheck": "bestätigt",
-"id": "199-essen/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Essen",
-"steckbrief": "Ruhrgebietsstadt an der Ruhr mit rund 574.000 Einwohnern, 30 km Luftlinie von Düsseldorf.",
-"frage": "Es geht um drei Herrscherinnen des Fürstentums Essen. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Bernardine Sophia suchte Preußens Hilfe gegen die Stadt.",
-"Maria Kunigunde trat früher als Opernsängerin auf.",
-"Franziska Christine stiftete in Steele ein Waisenhaus."
-],
-"art": "luege",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Die Opernsängerin wirkt wie die Erfindung, doch Maria Kunigunde von Sachsen sang tatsächlich in Dresden, bevor sie Fürstäbtissin wurde. Gelogen war die Sache mit Preußen: Bernardine Sophia von Ostfriesland und Rietberg verteidigte das Fürstentum Essen unnachgiebig gegen Brandenburg-Preußen und gegen die protestantische Stadt Essen. Die Lüge war 1.",
+"rueckseite": "Du hattest [Option] getippt. Porzellan oder Apotheke liegen näher, weil man sie mit dem Dresdner Hof verbindet. Doch Maria Kunigunde trat in Dresden als erfolgreiche Opernsängerin auf, bevor sie als Fürstäbtissin, also geistliche Landesherrin, das Fürstentum Essen regierte. Den Park von Schloss Borbeck ließ sie zum englisch-chinesischen Landschaftspark umgestalten. Richtig war 1.",
 "quelle": "Gemeinde-Webseite, www.essen.de/leben/kultur_/schloss_borbeck_/schloss_borbeck_.de.html",
 "faktencheck": "korrigiert",
-"id": "199-essen/v0.8/3",
+"id": "199-essen/v0.9/2",
 "tisch": false
 },
 {
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Essen",
-"steckbrief": "Ruhrgebietsstadt an der Ruhr mit rund 574.000 Einwohnern, 30 km Luftlinie von Düsseldorf.",
-"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Essen bei den Zweitstimmen zweitstärkste Kraft?",
-"optionen": [
-"CDU",
-"AfD",
-"SPD",
-"Grüne"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet gilt die SPD als traditionell stark, darum tippen viele sie auf Platz eins. Bei der Bundestagswahl 2025 lag in Essen bei den Zweitstimmen aber die CDU vorn. Die SPD wurde zweitstärkste Partei, vor AfD und Grünen. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "199-essen/v0.8/4",
-"tisch": false
-},
-{
+"facette": "ALLTAG",
+"charakteristikum": "Arbeitersiedlung neben Krupps Gussstahlfabrik",
+"rang": 5,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Essen",
-"steckbrief": "Ruhrgebietsstadt an der Ruhr mit rund 574.000 Einwohnern, 30 km Luftlinie von Düsseldorf.",
-"frage": "Die Hirtsiefer-Siedlung in Altendorf, nahe der Krupp'schen Gussstahlfabrik, wurde mit Mehrfamilienhäusern bebaut. Was war ursprünglich geplant?",
+"steckbrief": "Großstadt mit rund 574.000 Einwohnern, etwa 30 km Luftlinie von Düsseldorf.",
+"frage": "Die Hirtsiefer-Siedlung in Altendorf entstand ab 1918 neben der Krupp'schen Gussstahlfabrik. Wer hat sie gegründet?",
 "optionen": [
-"Geplant war ein Wohnheim für ledige Arbeiter.",
-"Geplant war eine Erweiterung der Gussstahlfabrik.",
-"Geplant waren Hochhäuser mit einer Ladenstraße.",
-"Geplant waren Ein- und Zweifamilienhäuser mit parkähnlicher Grünanlage."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Wer Mehrfamilienhäuser sieht, vermutet leicht, ursprünglich sei noch größer geplant gewesen, etwa mit Hochhäusern. Es war umgekehrt: Geplant waren Ein- und Zweifamilienhäuser an einer parkähnlichen Grünanlage. Wegen der Wohnungsnot nach dem Ersten Weltkrieg wurde diese Planung verworfen, stattdessen entstanden Mehrfamilienhäuser. Zu den führenden Gründern der Genossenschaft gehörten Heinrich Hirtsiefer und Christian Kloft. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtgeschichte_1/baudenkmalschutz_und_pflege/einblicke_in_baudenkmalschutz_und__pflege.de.html",
-"faktencheck": "korrigiert",
-"id": "199-essen/v0.8/5",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Essen",
-"steckbrief": "Ruhrgebietsstadt an der Ruhr mit rund 574.000 Einwohnern, 30 km Luftlinie von Düsseldorf.",
-"frage": "Zu Essens Partnerstädten gehört Zabrze. In welchem Land liegt sie?",
-"optionen": [
-"Polen",
-"Kroatien",
-"Slowakei",
-"Slowenien"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Zabrze klingt slawisch und erinnert an Zagreb, deshalb liegen auch Kroatien, Slowenien oder die Slowakei nahe. Die Partnerstadt liegt aber in Polen. Zu Essens weiteren Partnerstädten gehören Sunderland in England, Tampere in Finnland, Grenoble in Frankreich und Tel Aviv-Jaffa in Israel. Richtig war 1.",
-"quelle": "Wikidata P190; Gemeinde-Webseite, www.essen.de/dasistessen/stadtportraet/stadtportraet_.de.html",
-"faktencheck": "bestätigt",
-"id": "199-essen/v0.8/6",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Essen",
-"steckbrief": "Ruhrgebietsstadt an der Ruhr mit rund 574.000 Einwohnern, 30 km Luftlinie von Düsseldorf.",
-"frage": "Die Neue Pauluskirche in Huttrop zeigte zur Steeler Straße eine Bruchsteinfassade mit wenigen Öffnungen. Wofür war sie laut Stadt Essen bewusst konzipiert?",
-"optionen": [
-"Sie sollte an die Zechen des Reviers erinnern.",
-"Sie sollte gegen den Lärm des Verkehrs schützen.",
-"Sie sollte viel direkte Sonne in die Kirche lassen.",
-"Sie sollte die Kirche vor Bergschäden schützen."
+"Die Firma Krupp baute sie für ihre Arbeiter.",
+"Christliche Gewerkschafter und katholische Arbeiter gründeten sie.",
+"Die Stadt Essen baute sie als Notquartiere.",
+"Eine Bergwerksgesellschaft errichtete sie als Zechenkolonie."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet denkt man bei grobem Stein schnell an Zechen und Bergbau. Die Stadt Essen nennt einen anderen Zweck: Die Fassaden zur Steeler Straße und zur Knaudtstraße waren bewusst als Schutzschild gegen den Lärm des Großstadtverkehrs konzipiert und hatten nur wenige Öffnungen. Das Bruchsteinmauerwerk unterstrich die Massivität des damals als Bollwerk konzipierten Baus. Licht kam durch gerasterte Betonelemente der Nordfassade, ohne direkte Sonneneinstrahlung. Richtig war 2.",
+"rueckseite": "Du hattest [Option] getippt. Krupp liegt nahe, denn die Siedlung liegt neben der Gussstahlfabrik, und Werkssiedlungen waren im Ruhrgebiet üblich. Gegründet haben sie aber Heinrich Hirtsiefer und Christian Kloft aus der christlichen Metallarbeitergewerkschaft bei Krupp und der katholischen Arbeiterbewegung Altendorf. Wer vorbeikommt, sieht hell verputzte, symmetrisch angeordnete Häuser um eine rautenförmige Grünanlage mitten im dicht bebauten Stadtteil. Richtig war 2.",
 "quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtgeschichte_1/baudenkmalschutz_und_pflege/einblicke_in_baudenkmalschutz_und__pflege.de.html",
-"faktencheck": "korrigiert",
-"id": "199-essen/v0.8/7",
+"faktencheck": "unsicher",
+"id": "199-essen/v0.9/3",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "Burgruine auf Fels über dem Baldeneysee",
+"rang": 3,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Essen",
-"steckbrief": "Ruhrgebietsstadt an der Ruhr mit rund 574.000 Einwohnern, 30 km Luftlinie von Düsseldorf.",
-"frage": "Im Jahr 2002 feierte Essen ein Stadtjubiläum. Welches?",
+"steckbrief": "Großstadt mit rund 574.000 Einwohnern, etwa 30 km Luftlinie von Düsseldorf.",
+"frage": "Von der mittelalterlichen Isenburg ist nur eine Ruine geblieben. Wo steht sie?",
 "optionen": [
-"Essen feierte sein 750-jähriges Bestehen.",
-"Essen feierte sein 1000-jähriges Bestehen.",
-"Essen feierte sein 1150-jähriges Bestehen.",
-"Essen feierte sein 1250-jähriges Bestehen."
+"Sie steht auf einer Insel im Baldeneysee.",
+"Sie steht auf einer Halde im Emschertal.",
+"Sie steht auf einem Felssporn hoch überm Baldeneysee.",
+"Sie steht flach am Ufer der Ruhr."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Beim Ruhrgebiet denken viele an Zechen und Industrie, also an eine junge Stadt. Doch die Geschichte Essens ist älter als die Berlins, Dresdens oder Münchens. Im Jahr 2002 feierte die Stadt das 1150-jährige Jubiläum von Stift und Stadt Essen. Richtig war 3.",
+"rueckseite": "Du hattest [Option] getippt. Eine Insel liegt nahe, denn Wasserburgen kennt man aus dem flachen Rheinland. Die Isenburg aber steht auf einem felsigen Sporn hoch über dem Baldeneysee. Dietrich von Isenberg baute sie, um das Erbe seines Vaters zurückzufordern, der nach dem Überfall auf Erzbischof Engelbert von Köln hingerichtet worden war. Heute ist die Ruine Bau- und Bodendenkmal und gehört der Stadt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/leben_im_gruenen_/isenburg_/die_isenburg.de.html",
+"faktencheck": "korrigiert",
+"id": "199-essen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Partnerschaft mit Sunderland seit Nachkriegszeit",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Essen",
+"steckbrief": "Großstadt mit rund 574.000 Einwohnern, etwa 30 km Luftlinie von Düsseldorf.",
+"frage": "Eine Städtepartnerschaft Essens besteht schon seit 1949. Mit welcher Stadt?",
+"optionen": [
+"Die Partnerstadt ist Grenoble in Frankreich.",
+"Die Partnerstadt ist Tampere in Finnland.",
+"Die Partnerstadt ist Tel Aviv-Jaffa in Israel.",
+"Die Partnerstadt ist Sunderland in England."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Frankreich liegt nahe, weil deutsch-französische Partnerschaften als Klassiker gelten. Mit Sunderland in England ist Essen aber schon seit 1949 verbunden, mitten in der Nachkriegszeit. Heute reichen Essens Partnerschaften von Finnland über Polen bis Israel und China, ein Netz, das zu einer Großstadt mit rund 574.000 Einwohnern passt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtportraet/stadtportraet_.de.html; Einwohner: Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "199-essen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "heimliche Hauptstadt des Ruhrgebiets",
+"rang": 4,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Essen",
+"steckbrief": "Großstadt mit rund 574.000 Einwohnern, etwa 30 km Luftlinie von Düsseldorf.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Essen beschreibt sich als Metropole im Herzen Westfalens.",
+"Essen ist älter als die Stadt München.",
+"Die RWE AG hat ihre Konzernzentrale in Essen."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Dass Essen älter als München ist, klingt nach der Lüge, stimmt aber. Westfalen liegt nahe, weil das Ruhrgebiet bis nach Westfalen reicht; die Stadt beschreibt sich aber als Metropole im Herzen des Ruhrgebiets. Konzernzentralen wie RWE, Evonik und Hochtief zeigen, worauf sich dieser Anspruch stützt. Die Lüge war 1.",
 "quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtportraet/stadtportraet_.de.html",
 "faktencheck": "korrigiert",
-"id": "199-essen/v0.8/8",
+"id": "199-essen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "dichte Großstadt auf kleiner Fläche",
+"rang": 7,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Essen",
+"steckbrief": "Großstadt mit rund 574.000 Einwohnern, etwa 30 km Luftlinie von Düsseldorf.",
+"frage": "Wie groß ist das Stadtgebiet von Essen?",
+"optionen": [
+"unter 150 km²",
+"150 bis unter 250 km²",
+"250 bis unter 400 km²",
+"400 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei über einer halben Million Einwohnern vermutet man leicht eine riesige Fläche. Essen misst aber gut 210 Quadratkilometer. Im Schnitt leben damit gut 2.700 Menschen auf jedem Quadratkilometer, eine sehr dichte Besiedlung. Richtig war 2.",
+"quelle": "Wikidata P2046 (Fläche); Wikidata P1082, Stand 2025-12-31 (Einwohner); Dichte berechnet aus Einwohnern und Fläche",
+"faktencheck": "bestätigt",
+"id": "199-essen/v0.9/7",
 "tisch": false
 }
 ],
 "anschluss_von": "198-muelheim",
 "anschluss": [
-"Einwohner: Essen hat gut dreimal so viele wie Mülheim.",
-"Bundestagswahl 2025: Mülheim hatte höhere Wahlbeteiligung als Essen."
+"Essen hat über dreimal so viele Einwohner wie Mülheim.",
+"In Mülheim war die Wahlbeteiligung 2025 höher als in Essen."
 ],
 "anschluesse": {
 "197-duisburg": [
@@ -91278,8 +91451,8 @@ window.QA_DATEN = {
 "Essen hat rund 73.000 Einwohner mehr als Duisburg."
 ],
 "198-muelheim": [
-"Einwohner: Essen hat gut dreimal so viele wie Mülheim.",
-"Bundestagswahl 2025: Mülheim hatte höhere Wahlbeteiligung als Essen."
+"Essen hat über dreimal so viele Einwohner wie Mülheim.",
+"In Mülheim war die Wahlbeteiligung 2025 höher als in Essen."
 ],
 "200-gelsenkirchen": [
 "Bundestagswahl 2025: In Gelsenkirchen lag die AfD vorn, in Essen die CDU.",
@@ -91349,6 +91522,32 @@ window.QA_DATEN = {
 },
 "ags": "05113000",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Großstadt in Nordrhein-Westfalen im Herzen des Ruhrgebiets, an der Ruhr, gut 210 Quadratkilometer, rund 574.000 Einwohner."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Einst Fürstentum unter Fürstäbtissinnen mit Schloss Borbeck; 2002 feierte Essen 1150 Jahre, älter als Berlin."
+},
+{
+"facette": "ALLTAG",
+"text": "Zentralen von RWE, Evonik und Hochtief, ein Messeplatz der deutschen Top Ten, Arbeitersiedlungen neben Krupp."
+},
+{
+"facette": "FREIZEIT",
+"text": "Hallen-, Kombi- und Freibäder wie das Grugabad, Badestelle am Baldeneysee, Museum Folkwang, Ruine der Isenburg."
+},
+{
+"facette": "INFRA",
+"text": "Zahlreiche Bahnhöfe von Kettwig bis Zollverein Nord; Partnerstädte von Sunderland bis Tel Aviv-Jaffa."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU vor SPD und AfD, Wahlbeteiligung 80,1 Prozent, etwas unter dem Landeswert."
+}
+],
 "korridor": 7000,
 "km_vom_vorigen": 9.4
 },
@@ -106157,169 +106356,170 @@ window.QA_DATEN = {
 "lon": 7.42889,
 "karten": [
 {
+"facette": "ALLTAG",
+"charakteristikum": "Europas größter Zahnbürstenanbieter im Westerwald",
+"rang": 1,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Neustadt (Wied)",
-"steckbrief": "Die Gemeinde hat rund 6.500 Einwohner und liegt 27 km südöstlich von Bonn.",
-"frage": "In Neustadt (Wied) stößt man auf einen alten Damm, Brückenruinen und einen Tunnel. Woher stammen sie?",
+"steckbrief": "Gemeinde mit rund 6.500 Einwohnern, 27 km südöstlich von Bonn.",
+"frage": "Ein Industriebetrieb in Neustadt (Wied) gilt in seiner Branche als Europas größter Hersteller. Was stellt er her?",
 "optionen": [
-"Sie gehörten zu einem nie vollendeten Kanal.",
-"Sie stammen von einer römischen Wasserleitung.",
-"Sie gehörten zu einer stillgelegten Eisenbahnlinie.",
-"Sie sind Reste einer Festungslinie aus Kriegszeiten."
+"Er baut Holzspielzeug aus Westerwälder Buchen.",
+"Er stellt Zahnbürsten her.",
+"Er fertigt Bremsen für Lastwagen.",
+"Er produziert Gartenmöbel aus Kunststoff."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die M+C Schiffer GmbH mit Hauptsitz in Neustadt stellt Zahnbürsten her und gilt als Europas größter Zahnbürstenhersteller; allein hier laufen täglich über eine Million vom Band. Holzspielzeug liegt als Theorie nahe, weil man im waldreichen Westerwald eher Handwerk aus Holz erwartet. Für eine Gemeinde mit gut 6.500 Einwohnern ist ein Hersteller dieser Reichweite ungewöhnlich. Richtig war 2.",
+"quelle": "t-online, „Hidden Champions“",
+"faktencheck": "korrigiert",
+"id": "340-neustadt-wied/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Sayner Gründung, neugotische Bruchsteinkirche",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Neustadt (Wied)",
+"steckbrief": "Gemeinde im Landkreis Neuwied mit rund 6.500 Einwohnern, 27 km südöstlich von Bonn.",
+"frage": "Neustadts Pfarrkirche St. Margarita wurde 1229 gegründet. Wer gründete sie?",
+"optionen": [
+"Die Dorfgemeinde baute sie aus eigenen Mitteln.",
+"Ein Ritter stiftete sie nach einem Kreuzzug.",
+"Ein Graf gründete sie mit einer Adligen.",
+"Mönche gründeten sie als Klosterkirche."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Tunnel und Brückenruinen lassen an eine Festungslinie aus Kriegszeiten denken. Tatsächlich sind der alte Bahndamm, die Brücken und der Tunnel Reste der ehemaligen Eisenbahnlinie Linz–Altenkirchen. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.neustadt-wied.de/sehenswürdigkeiten",
-"faktencheck": "korrigiert",
-"id": "340-neustadt-wied/v0.8/1",
+"rueckseite": "Du hattest [Option] getippt. Gegründet haben die Pfarrkirche Graf Heinrich III. von Sayn und Mechthilde von Sayn. Dass Dorfleute ihre Kirche selbst bauten, liegt nahe, weil man das von vielen Dorfkirchen kennt; im Mittelalter stifteten aber oft Adlige. Wer heute an der Wiedtalstraße vorbeifährt, sieht nicht den Gründungsbau, sondern eine neugotische Bruchsteinhalle; die alte Kirche stand an der Hauptstraße. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.neustadt-wied.de/kirchen",
+"faktencheck": "unsicher",
+"id": "340-neustadt-wied/v0.9/2",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "FREIZEIT",
+"charakteristikum": "viertägige Kirmes mit Bürgermeister-Fassanstich",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
 "ort": "Neustadt (Wied)",
-"steckbrief": "Die Westerwaldgemeinde zählt rund 6.500 Einwohner und liegt 27 km südöstlich von Bonn.",
-"frage": "Wie viele Einwohner leben in Neustadt (Wied) durchschnittlich auf einem Quadratkilometer?",
+"steckbrief": "Gemeinde mit rund 6.500 Einwohnern im Wiedtal, 27 km südöstlich von Bonn.",
+"frage": "Zur viertägigen Neustädter Kirmes gehört ein traditioneller Fassanstich. Wer sticht das Fass an?",
 "optionen": [
-"unter 60",
-"60 bis unter 120",
-"120 bis unter 160",
-"160 und mehr"
+"Der Pfarrer sticht nach dem Festgottesdienst an.",
+"Der Schützenkönig des Vorjahres sticht an.",
+"Das jüngste Kirmespaar sticht gemeinsam an.",
+"Der Ortsbürgermeister sticht das Fass an."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Wald, Wiedtal und viele kleine Ortsteile lassen an eine dünne Besiedlung denken. Doch auf einen Quadratkilometer kommen in Neustadt (Wied) rund 183 Einwohner, berechnet aus Einwohnerzahl und Gemeindefläche. Richtig war 4.",
-"quelle": "Grunddaten dichte_ew_km2, berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
-"faktencheck": "bestätigt",
-"id": "340-neustadt-wied/v0.8/2",
+"rueckseite": "Du hattest [Option] getippt. Den traditionellen Fassanstich auf der Neustädter Kirmes übernimmt der Ortsbürgermeister. Der Pfarrer liegt als Theorie nahe, weil viele Kirmesfeste auf die Kirchweih zurückgehen; hier aber zapft die Gemeinde selbst an, die die Kirmes auch veranstaltet. An den vier Festtagen nannte die Gemeinde den Kirmesplatz das Herz der Ortsgemeinde; in einem Ort mit gut 6.500 Einwohnern ist das Fass Chefsache. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.neustadt-wied.de/neustadter-kirmes-begeistert-mit-tradition-gemeinschaft-und-bester-stimmung",
+"faktencheck": "korrigiert",
+"id": "340-neustadt-wied/v0.9/3",
 "tisch": false
 },
 {
+"facette": "INFRA",
+"charakteristikum": "ICE-Schnellstrecke im Tunnel unter Fernthal",
+"rang": 2,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Neustadt (Wied)",
+"steckbrief": "Gemeinde mit rund 6.500 Einwohnern, 27 km südöstlich von Bonn.",
+"frage": "Welche dieser vier Dinge gibt es in Neustadt (Wied)?",
+"optionen": [
+"einen Tunnel der ICE-Schnellfahrstrecke",
+"eine Hochschule",
+"einen Flugplatz",
+"eine Bundeswehrkaserne"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Beim Ortsteil Fernthal liegt der Fernthaltunnel der Schnellfahrstrecke Köln–Rhein/Main, und beim Ortsteil Ammerich gibt es mit dem Ammerichtunnel einen weiteren Eisenbahntunnel. Ein Flugplatz liegt als Theorie nahe, weil man auf dem Land eher Segelflieger als Hochgeschwindigkeitszüge erwartet. So quert eine große Fernbahnachse die Gemeinde mit gut 6.500 Einwohnern – im Tunnel, also fast unbemerkt. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Neustadt_(Wied)",
+"faktencheck": "unsicher",
+"id": "340-neustadt-wied/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Vulkankuppe mit Blick zum Siebengebirge",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Neustadt (Wied)",
+"steckbrief": "Gemeinde mit rund 6.500 Einwohnern im Wiedtal, 27 km südöstlich von Bonn.",
+"frage": "Der Bertenauer Kopf ist die höchste Erhebung der Gemeinde. Was für ein Berg ist er?",
+"optionen": [
+"Er ist eine aufgeschüttete Bergbauhalde.",
+"Er ist eine Vulkankuppe.",
+"Er ist der Rest eines Korallenriffs.",
+"Er ist ein Rücken aus hartem Quarzit."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Bertenauer Kopf beim Ortsteil Bertenau ist eine Vulkankuppe. Quarzit liegt als Theorie nahe, weil harte Gesteinsrücken im Schiefergebirge oft als Kuppen stehen bleiben. Vom Gipfel blickt man laut Gemeinde in den Hohen Westerwald und ins Siebengebirge am Rhein, das ebenfalls vulkanisch entstanden ist: Neustadts höchster Punkt schaut auf seine Verwandtschaft. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.neustadt-wied.de/tourismus",
+"faktencheck": "unsicher",
+"id": "340-neustadt-wied/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Wappen mit Adlerköpfen der Panauer Vögte",
+"rang": 4,
 "familie": "B",
 "sorte": "Geschichte",
 "ort": "Neustadt (Wied)",
-"steckbrief": "Die Gemeinde im Westerwald hat rund 6.500 Einwohner und liegt 27 km südöstlich von Bonn.",
+"steckbrief": "Gemeinde mit rund 6.500 Einwohnern im Westerwald, 27 km südöstlich von Bonn.",
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Im Dreißigjährigen Krieg blieb Neustadt von Verwüstung verschont.",
-"Neustadt gehörte früher einmal zum Kurfürstentum Köln.",
-"Eine Westerwälder Räuberbande fand in Neustadt ihr Ende."
+"Eine dreiköpfige Räuberbande fand in Neustadt ihr Ende.",
+"ESC-Sänger Roman Lob ist in Neustadt aufgewachsen.",
+"Das Wappen trägt Adlerköpfe der Grafen von Sayn."
 ],
 "art": "luege",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Die Räuberbande klingt nach Sage, ist aber belegt: Sie fand in Neustadt ein spektakuläres Ende. Auch Kurköln stimmt; später kam der Ort an den Fürsten zu Wied. Gelogen ist das Verschontbleiben: Ein schwedisches Heer hinterließ schwere Verwüstungen. Die Lüge war 1.",
-"quelle": "Gemeinde-Webseite, www.neustadt-wied.de/geschichte",
-"faktencheck": "korrigiert",
-"id": "340-neustadt-wied/v0.8/3",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Neustadt (Wied)",
-"steckbrief": "Die Westerwaldgemeinde hat rund 6.500 Einwohner und liegt 27 km südöstlich von Bonn.",
-"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Neustadt (Wied) nach Zweitstimmen zweitstärkste Kraft?",
-"optionen": [
-"SPD",
-"AfD",
-"GRÜNE",
-"FDP"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Hinter der CDU hätte man die SPD erwarten können, die im Westen lange Platz zwei belegte. Doch in Neustadt (Wied) kam die AfD mit 22,7 Prozent auf Platz zwei, deutlich vor der SPD. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "340-neustadt-wied/v0.8/4",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Neustadt (Wied)",
-"steckbrief": "Neustadt (Wied) zählt rund 6.500 Einwohner und liegt 27 km südöstlich von Bonn.",
-"frage": "1250 ging das Amt Altenwied an das Erzstift Köln über. Auf welchem Weg?",
-"optionen": [
-"Köln eroberte die Burg in einer Fehde.",
-"Es kam als Mitgift durch eine Heirat.",
-"Eine verwitwete Gräfin verkaufte es an Köln.",
-"Der Kaiser schenkte es dem Erzbischof."
-],
-"art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Burgen und Ämter wechselten im Mittelalter oft durch Fehden den Herrn, daher liegt die Eroberung nahe. Doch nach dem Tod ihres Mannes verkaufte Mechthilde von Sayn das Amt. Das Erzstift war das weltliche Herrschaftsgebiet des Kölner Erzbischofs. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.neustadt-wied.de/geschichte",
-"faktencheck": "bestätigt",
-"id": "340-neustadt-wied/v0.8/5",
+"rueckseite": "Du hattest [Option] getippt. Gelogen ist die Herkunft der Adlerköpfe: Sie stammen aus dem Wappen der Vögte von Panau, die gekreuzten Lilienstäbe von der Familie Munt von Neustadt. Sayn liegt nahe, weil Adler oft in Wappen großer Grafenhäuser stehen. Die Räuberbande fand tatsächlich hier ihr Ende, und Roman Lob wuchs hier auf. So erzählt das Wappen von zwei Familien, nicht von einem großen Grafenhaus. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Neustadt_(Wied)",
+"faktencheck": "unsicher",
+"id": "340-neustadt-wied/v0.9/6",
 "tisch": false
 },
 {
+"facette": "INFRA",
+"charakteristikum": "Kleinstadtgröße aus vielen Ortsteilen",
+"rang": 7,
 "familie": "C",
 "sorte": "Klassiker",
 "ort": "Neustadt (Wied)",
-"steckbrief": "Die Gemeinde in Rheinland-Pfalz hat rund 6.500 Einwohner und liegt 27 km südöstlich von Bonn.",
-"frage": "Wie weit ist es von Neustadt (Wied) Luftlinie bis zur Landeshauptstadt Mainz?",
+"steckbrief": "Gemeinde im Landkreis Neuwied, knapp 36 km² groß, 27 km südöstlich von Bonn.",
+"frage": "Wie viele Menschen lebten Ende 2025 in der Gemeinde Neustadt (Wied)?",
 "optionen": [
-"unter 40 km",
-"40 bis unter 60 km",
-"60 bis unter 80 km",
-"80 km und mehr"
+"unter 2.000",
+"2.000 bis unter 4.000",
+"4.000 bis unter 6.000",
+"6.000 und mehr"
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Weil Neustadt in Rheinland-Pfalz liegt, scheint die Landeshauptstadt nicht weit. Doch nach Bonn ist es viel näher; bis Mainz sind es 93 Kilometer Luftlinie. Richtig war 4.",
-"quelle": "Grunddaten km_landeshauptstadt, berechnet aus Koordinaten (Wikidata, staedte.json)",
-"faktencheck": "bestätigt",
-"id": "340-neustadt-wied/v0.8/6",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Neustadt (Wied)",
-"steckbrief": "Die Gemeinde hat rund 6.500 Einwohner und liegt 27 km südöstlich von Bonn.",
-"frage": "Die Pfarrkirche St. Margarita hat einen Vorgängerbau von 1229. Wer ließ ihn bauen?",
-"optionen": [
-"Das Grafenpaar von Sayn ließ ihn bauen.",
-"Der Kölner Erzbischof ließ ihn bauen.",
-"Die Bauern des Wiedtals bauten ihn selbst.",
-"Die Mönche von Maria Laach ließen ihn bauen."
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Bei einer Pfarrkirche denkt man an einen Bischof als Bauherrn. Bauen ließen den Vorgängerbau aber Graf Heinrich III. von Sayn und seine Gemahlin Mechthilde. Die heutige Kirche ist ein späterer Neubau. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.neustadt-wied.de/geschichte",
-"faktencheck": "bestätigt",
-"id": "340-neustadt-wied/v0.8/7",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Neustadt (Wied)",
-"steckbrief": "Die Gemeinde zählt rund 6.500 Einwohner und liegt 27 km südöstlich von Bonn.",
-"frage": "Zur katholischen Pfarrkirche von Neustadt gehört ein Stein aus dem 3. Jahrhundert. Was für ein Stein ist das?",
-"optionen": [
-"Es ist ein römischer Meilenstein.",
-"Es ist ein römischer Opferstein.",
-"Es ist ein germanischer Runenstein.",
-"Es ist ein Grenzstein des Limes."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ein Stein aus der Römerzeit lässt an Straßen oder den Limes denken, die römische Grenzanlage. Tatsächlich ist es ein römischer Opferstein, also ein Altar für Gaben an Götter. An derselben Kirche befinden sich auch Grabplatten eines Junkers und seiner Witwe. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.neustadt-wied.de/sehenswürdigkeiten",
+"rueckseite": "Du hattest [Option] getippt. Ende 2025 lebten in der Gemeinde Neustadt (Wied) 6.546 Menschen. Die Spanne darunter liegt nahe, weil man in einem Ort im Wiedtal eher ein Dorf erwartet. Gut 6.500 Einwohner auf knapp 36 Quadratkilometern ergeben rund 183 je Quadratkilometer; verteilt auf viele Ortsteile ist Neustadt eher ländlich geprägt. Richtig war 4.",
+"quelle": "Wikidata P1082, Stand 2025-12-31; Fläche Wikidata P2046",
 "faktencheck": "korrigiert",
-"id": "340-neustadt-wied/v0.8/8",
+"id": "340-neustadt-wied/v0.9/7",
 "tisch": false
 }
 ],
 "anschluss_von": "339-troisdorf",
 "anschluss": [
-"Troisdorf hat über elfmal so viele Einwohner wie Neustadt (Wied).",
-"Kennzeichen: SU in Troisdorf, NR in Neustadt (Wied)."
+"Troisdorf hat fast zwölfmal so viele Einwohner wie Neustadt (Wied).",
+"Neustadt (Wied) hatte 2025 eine höhere Wahlbeteiligung als Troisdorf."
 ],
 "anschluesse": {
 "185-bad-breisig": [
@@ -106418,12 +106618,38 @@ window.QA_DATEN = {
 "Kreisgrenze: Wolfenacker gehört zum Landkreis Landkreis Neuwied, Neustadt (Wied) zum Landkreis Neuwied."
 ],
 "339-troisdorf": [
-"Troisdorf hat über elfmal so viele Einwohner wie Neustadt (Wied).",
-"Kennzeichen: SU in Troisdorf, NR in Neustadt (Wied)."
+"Troisdorf hat fast zwölfmal so viele Einwohner wie Neustadt (Wied).",
+"Neustadt (Wied) hatte 2025 eine höhere Wahlbeteiligung als Troisdorf."
 ]
 },
 "ags": "07138044",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Im Wiedtal im Naturpark Rhein-Westerwald, 27 km südöstlich von Bonn; höchster Punkt ist die Vulkankuppe Bertenauer Kopf."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals urkundlich erwähnt 1185; Burg Altenwied war Sitz eines kurkölnischen Amtes; sehenswert sind Burgruine und Kloster Ehrenstein."
+},
+{
+"facette": "ALLTAG",
+"text": "Gut 6.500 Einwohner auf knapp 36 km² in 56 Ortsteilen; größter Arbeitgeber ist ein Zahnbürstenhersteller."
+},
+{
+"facette": "FREIZEIT",
+"text": "Viertägige Kirmes, Heimatmuseum „Bi et fröher wor“ im Fachwerkhaus, Natur-Erholungsgebiet Berschau an der Wied, Kanufahren und Angeln."
+},
+{
+"facette": "INFRA",
+"text": "Grundzentrum mit Grundschule, Realschule plus und Wiedtal-Gymnasium; Fernthaltunnel der Schnellfahrstrecke Köln–Rhein/Main; Kennzeichen NR."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU 39,8 %, AfD 22,7 %; Wahlbeteiligung 84,4 %, etwas über dem Landeswert von 83 %."
+}
+],
 "km_vom_vorigen": 29.0
 },
 {
@@ -106433,162 +106659,209 @@ window.QA_DATEN = {
 "lon": 7.35431,
 "karten": [
 {
-"familie": "A",
+"facette": "FREIZEIT",
+"charakteristikum": "18-Loch-Golfplatz bei 4.700 Einwohnern",
+"rang": 3,
+"familie": "D",
 "sorte": "Geschichte",
 "ort": "Windhagen",
-"steckbrief": "Gemeinde mit rund 4.700 Einwohnern, 21 km südöstlich von Bonn.",
-"frage": "Die Hallerbacher Kapelle ist nicht nach Osten, sondern nach Nordwesten ausgerichtet. Welchen Grund nennt die Ortsgeschichte?",
+"steckbrief": "Gemeinde mit knapp 4.700 Einwohnern, 21 km südöstlich von Bonn.",
+"frage": "Welches dieser vier Dinge gibt es in Windhagen?",
 "optionen": [
-"Der Stifter wollte zu seinem Hof blicken.",
-"Sie zeigt auf eine keltische Kultstätte.",
-"Ein Baumeister verwechselte die Himmelsrichtungen.",
-"Sie wurde nach einem Brand gedreht wiederaufgebaut."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Kirchen blicken meist nach Osten, eine Abweichung wirkt daher wie ein Versehen oder eine Laune des Stifters. Die Ortsgeschichte nennt einen anderen Grund: Die Hallerbacher Kapelle ist nach Nordwesten ausgerichtet, auf eine keltische Kultstätte hin. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, windhagen.de/html/geschichte.htm",
-"faktencheck": "bestätigt",
-"id": "341-windhagen/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Windhagen",
-"steckbrief": "Gemeinde im Landkreis Neuwied, 21 km südöstlich von Bonn.",
-"frage": "Wie viele Einwohner hat die Gemeinde Windhagen?",
-"optionen": [
-"unter 1.500",
-"1.500 bis unter 3.000",
-"3.000 bis unter 6.000",
-"6.000 und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Wer an einen Ort im Naturpark Rhein-Westerwald denkt, tippt leicht auf ein kleines Dorf. Windhagen zählte Ende 2025 aber 4.664 Einwohner. Richtig war 3.",
-"quelle": "Wikidata P1082, Stand 2025-12-31",
-"faktencheck": "bestätigt",
-"id": "341-windhagen/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Windhagen",
-"steckbrief": "Gemeinde mit rund 4.700 Einwohnern, 21 km südöstlich von Bonn.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Das Friedhofskreuz von Windhagen besteht aus Basaltlava.",
-"Die Pfarrkirche St. Bartholomäus ist eine evangelische Kirche.",
-"Die Glocke der Dreifaltigkeitskapelle wurde in Neuwied gegossen."
-],
-"art": "luege",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Basaltlava und eine Glocke aus Neuwied klingen nach Erfindung, sind aber belegt. Gelogen war die Konfession: St. Bartholomäus ist katholisch und bildet den Mittelpunkt des Ortszentrums. Wer an das katholisch geprägte Rheinland und den Heiligennamen dachte, lag richtig. Die Lüge war 2.",
-"quelle": "Gemeinde-Webseite, windhagen.de/html/sehenswertes.htm",
-"faktencheck": "bestätigt",
-"id": "341-windhagen/v0.8/3",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Windhagen",
-"steckbrief": "Gemeinde mit rund 4.700 Einwohnern, 21 km südöstlich von Bonn.",
-"frage": "Der Taubenbrunnen in der Ortsmitte steht sogar im Gemeindewappen. Wogegen half sein Wasser nach mittelalterlichem Volksmund?",
-"optionen": [
-"Es sollte Augenleiden heilen.",
-"Es sollte Gehörschäden heilen.",
-"Es sollte Zahnschmerzen lindern.",
-"Es sollte vor Fieber schützen."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Heilwasser galt oft als gut für die Augen, und der Name lässt eher an Vögel denken als an Ohren. Nach mittelalterlichem Volksmund sollte das Wasser des Taubenbrunnens in der Ortsmitte bei Gehörschäden helfen. Das Gemeindewappen zeigt ihn als goldenen Brunnen. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, windhagen.de/html/geschichte.htm",
-"faktencheck": "bestätigt",
-"id": "341-windhagen/v0.8/5",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Windhagen",
-"steckbrief": "Gemeinde mit rund 4.700 Einwohnern im Landkreis Neuwied, 21 km südöstlich von Bonn.",
-"frage": "Wie weit ist es von Windhagen in Luftlinie bis zur Landeshauptstadt Mainz?",
-"optionen": [
-"unter 60 km",
-"60 bis unter 90 km",
-"90 bis unter 120 km",
-"120 km und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Wer Rheinland-Pfalz für klein hält, schätzt leicht zu kurz. Windhagen gehört zu Rheinland-Pfalz, liegt aber nahe an Bonn in Nordrhein-Westfalen. Die Landeshauptstadt Mainz ist dagegen 99 Kilometer Luftlinie entfernt. Richtig war 3.",
-"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
-"faktencheck": "bestätigt",
-"id": "341-windhagen/v0.8/6",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Windhagen",
-"steckbrief": "Gemeinde mit rund 4.700 Einwohnern, 21 km südöstlich von Bonn.",
-"frage": "Das Glöckchen der Kapelle St. Mariä Heimsuchung in Hüngsberg stammt nicht aus der Gegend. Wie kam es dorthin?",
-"optionen": [
-"Es war ein Geschenk aus Frankreich.",
-"Es läutete früher auf einem Hamburger Dampfer.",
-"Es kam aus einer Kirche in Bayern.",
-"Es kam als Leihglocke aus Schlesien."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Ein Geschenk oder ein ausgedientes Schiffsglöckchen klingen nach typischer Dorfgeschichte. Das Glöckchen von 1863 stammt aber aus Schlesien und kam nach dem Krieg hierher. Heute steht es als Leihglocke zur Verfügung: eine Glocke, die eine Gemeinde nutzt, ohne dass sie ihr gehört. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, windhagen.de/html/sehenswertes.htm",
-"faktencheck": "korrigiert",
-"id": "341-windhagen/v0.8/7",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Windhagen",
-"steckbrief": "Gemeinde mit rund 4.700 Einwohnern, 21 km südöstlich von Bonn.",
-"frage": "Die Brüder Roth stifteten in Stockhausen Startkapital und Baugrund für eine Marienkapelle. Was war ihr Anlass?",
-"optionen": [
-"Sie dankten für ihre unversehrte Kriegsheimkehr.",
-"Sie dankten für das Ende einer Seuche.",
-"Sie dankten für ihre Rettung aus Hochwasser.",
-"Sie dankten für ihr Glück als Auswanderer."
+"ein Golfplatz",
+"ein Freibad",
+"eine Sommerrodelbahn",
+"ein Wildpark"
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Seuchen waren ein häufiger Anlass für Dankkapellen, deshalb liegt diese Theorie nahe. Die Brüder Roth dankten aber für ihre unversehrte Rückkehr aus dem Deutsch-Französischen Krieg. Geweiht wurde die Kapelle der Immerwährenden Hilfe. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, windhagen.de/html/sehenswertes.htm",
-"faktencheck": "bestätigt",
-"id": "341-windhagen/v0.8/8",
+"rueckseite": "Du hattest [Option] getippt. Ein Freibad wäre die naheliegende Wette, weil es in vielen Gemeinden dieser Größe eins gibt. Belegt ist aber der Golf Course Siebengebirge, ein 18-Loch-Platz, den die Gemeinde landschaftlich wunderschön gelegen nennt. Für einen Ort mit knapp 4.700 Einwohnern ist ein ganzer Golfplatz bemerkenswert; Windhagen liegt im Norden des Naturparks Rhein-Westerwald. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, windhagen.de/html/vereine.htm und windhagen.de/html/geschichte.htm",
+"faktencheck": "korrigiert",
+"id": "341-windhagen/v0.9/1",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Kapelle auf keltische Kultstätte ausgerichtet",
+"rang": 4,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Windhagen",
-"steckbrief": "Gemeinde mit rund 4.700 Einwohnern, 21 km südöstlich von Bonn.",
-"frage": "Das Gemeindewappen von Windhagen zeigt drei Rosen und einen blauen Wellenbalken. Woher stammt dieses Motiv?",
+"steckbrief": "Gemeinde mit knapp 4.700 Einwohnern und vielen kleinen Ortsteilen, 21 km südöstlich von Bonn.",
+"frage": "Die kleine Dreifaltigkeitskapelle im Ortsteil Hallerbach zeigt nicht nach Osten wie üblich, sondern nach Nordwesten. Warum?",
 "optionen": [
-"Es erinnert an einen alten Rosenmarkt.",
-"Es stammt aus dem Wappen eines Adelsgeschlechts.",
-"Es geht auf ein Schützenabzeichen zurück.",
-"Es zeigt das Siegel einer Zunft."
+"Sie blickt in Richtung des Bischofssitzes.",
+"Sie wurde auf eine keltische Kultstätte ausgerichtet.",
+"Ein Baumeister vertauschte beim Bau die Himmelsrichtungen.",
+"Ein Stifter wollte sein Hofgut im Blick haben."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Rosen lassen an Gärten oder Märkte denken. Das Feld mit dem Wellenbalken, einem gewellten Querstreifen, stammt aber aus dem Wappen derer von Schoenebeck. Das niederadlige Geschlecht kam vom Niederrhein nach Windhagen. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, windhagen.de/html/geschichte.htm",
+"rueckseite": "Du hattest [Option] getippt. Die Bischofstheorie liegt nahe, denn Köln liegt von Windhagen aus im Nordwesten. Nach der Ortsgeschichte der Gemeinde wurde die Kapelle aber auf eine keltische Kultstätte gerichtet; sie gilt dort als Beleg dafür, dass der Ortsname wahrscheinlich keltischen Ursprungs ist. Das weiß verputzte Kapellchen mit Schiefertürmchen erinnert so an die Kelten, deren Ringwälle auf den Höhen der Umgebung lagen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, windhagen.de/html/geschichte.htm und windhagen.de/html/sehenswertes.htm",
+"faktencheck": "korrigiert",
+"id": "341-windhagen/v0.9/2",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Weltfirma für Straßenbaumaschinen",
+"rang": 1,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Windhagen",
+"steckbrief": "Gemeinde mit knapp 4.700 Einwohnern, 21 km südöstlich von Bonn.",
+"frage": "Ein Betrieb macht Windhagen weit über die Region hinaus bekannt. Wofür steht Windhagen?",
+"optionen": [
+"Wohnmobile",
+"Fahrräder",
+"Straßenbaumaschinen",
+"Spielzeug"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wohnmobile oder Fahrräder passen zu einer Ausflugsgegend am Siebengebirge, doch Windhagens großer Name ist Wirtgen: Maschinen für Straßenbau und Instandsetzung, 1961 von Reinhard Wirtgen gegründet. Seit 2017 gehört die Wirtgen Group zum US-Konzern John Deere. Nach Angaben des Unternehmens arbeiten am Stammsitz rund 2.100 Menschen, bei knapp 4.700 Einwohnern. Richtig war 3.",
+"quelle": "Börsen-Zeitung, boersen-zeitung.de/unternehmen-branchen/deere-legt-sich-wirtgen-fur-5-mrd-dollar-zu; Wirtgen Group",
+"faktencheck": "korrigiert",
+"id": "341-windhagen/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Hochfläche zwischen Siebengebirge und Westerwald",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Windhagen",
+"steckbrief": "Gemeinde im Landkreis Neuwied mit knapp 4.700 Einwohnern, 21 km südöstlich von Bonn.",
+"frage": "Windhagen liegt auf einer Hochfläche am Übergang zwischen zwei Mittelgebirgen. Zwischen welchen?",
+"optionen": [
+"Es liegt zwischen Eifel und Hunsrück.",
+"Es liegt zwischen Bergischem Land und Sauerland.",
+"Es liegt zwischen Taunus und Westerwald.",
+"Es liegt zwischen Siebengebirge und Westerwald."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Taunus und Westerwald klingt vertraut, weil beide oft in einem Atemzug fallen. Windhagen liegt aber auf der Asbacher Hochfläche am Übergang vom Siebengebirge in den Westerwald. Damit ist es doppelt ein Grenzort: zwischen zwei Mittelgebirgen und, unmittelbar an Nordrhein-Westfalen, zwischen zwei Bundesländern. Die Gemeinde liegt im Norden des Naturparks Rhein-Westerwald. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Windhagen; Gemeinde-Webseite, windhagen.de/html/geschichte.htm",
+"faktencheck": "korrigiert",
+"id": "341-windhagen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "ICE-Schnellfahrstrecke durchs Gemeindegebiet",
+"rang": 5,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Windhagen",
+"steckbrief": "Gemeinde mit knapp 4.700 Einwohnern, 21 km südöstlich von Bonn.",
+"frage": "Welches dieser vier Dinge gibt es im Gemeindegebiet von Windhagen?",
+"optionen": [
+"eine ICE-Schnellfahrstrecke",
+"einen Bahnhof mit Regionalzügen",
+"eine Rheinfähre",
+"eine Stadtbahnlinie"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wo Schienen sind, vermutet man schnell einen Bahnhof. Belegt ist aber die Schnellfahrstrecke Köln–Rhein/Main durch das Gemeindegebiet; als ICE-Knoten in der Nähe nennt die Gemeinde Bonn-Siegburg und Montabaur. Mit der A 3 und dem Rastplatz Hambitz liegt Windhagen an zwei großen Fernstrecken; Unternehmen schätzen das, sagt die Gemeinde. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Windhagen",
+"faktencheck": "unsicher",
+"id": "341-windhagen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Wappen mit Kölner Kreuz",
+"rang": 8,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Windhagen",
+"steckbrief": "Gemeinde im Landkreis Neuwied mit knapp 4.700 Einwohnern, 21 km südöstlich von Bonn.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Wappenkreuz steht für einen Ritterorden.",
+"Die Wappenrosen stammen von einem Adelsgeschlecht.",
+"Heimgekehrte Brüder stifteten aus Dank eine Kapelle."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein schwarzes Kreuz hält man leicht für ein Ordenskreuz. Es steht aber für die Zugehörigkeit zum Erzbistum Köln und dessen grundherrliche Rechte. Die Rosen gehören dem niederadligen Geschlecht von Schoenebeck vom Niederrhein; die Brüder Roth stifteten die Marienkapelle Stockhausen nach dem deutsch-französischen Krieg. Das Wappen zeigt, wer Windhagen prägte: die Kölner Kirche und eine Adelsfamilie, die bis heute hier ansässig ist. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, windhagen.de/html/geschichte.htm; windhagen.de/html/sehenswertes.htm",
+"faktencheck": "korrigiert",
+"id": "341-windhagen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "13 Quadratkilometer, dicht besiedelt",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Windhagen",
+"steckbrief": "Gemeinde mit knapp 4.700 Einwohnern, 21 km südöstlich von Bonn.",
+"frage": "Wie groß ist das Gemeindegebiet von Windhagen?",
+"optionen": [
+"unter 5 km²",
+"5 bis unter 10 km²",
+"10 bis unter 20 km²",
+"20 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei knapp 4.700 Einwohnern tippt man leicht auf ein kleines Gebiet unter 10 km². Es sind aber 13,11 km². Das ergibt rund 356 Einwohner je Quadratkilometer, für eine Gemeinde abseits der Großstadt eine recht dichte Besiedlung. Richtig war 3.",
+"quelle": "Wikidata P2046 (Fläche); Wikidata P1082 (Einwohner, Stand 2025-12-31); Dichte berechnet",
 "faktencheck": "bestätigt",
-"id": "341-windhagen/v0.8/10",
+"id": "341-windhagen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "56 Jahre derselbe Bürgermeister",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Windhagen",
+"steckbrief": "Gemeinde mit knapp 4.700 Einwohnern, 21 km südöstlich von Bonn.",
+"frage": "Josef Rüddel war Ortsbürgermeister von Windhagen. Wie lange blieb er im Amt?",
+"optionen": [
+"Er war 18 Jahre im Amt.",
+"Er war 32 Jahre im Amt.",
+"Er war 44 Jahre im Amt.",
+"Er war 56 Jahre im Amt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Schon zwei oder drei Amtszeiten gelten als lang, darum wirkt eine kleinere Zahl realistisch. Der Landwirt Josef Rüddel führte Windhagen aber von 1963 bis 2019 und galt zuletzt als dienstältester und ältester Bürgermeister Deutschlands. Die Gemeinde machte ihn 2019 zum Ehrenbürger, und ihr Kulturzentrum trägt heute seinen Namen: Josef-Rüddel-Forum. Richtig war 4.",
+"quelle": "dpa/Volksstimme, 21.05.2019; KOMMUNAL, kommunal.de/josef-rueddel-er-schreibt-geschichte; Gemeinde-Webseite, windhagen.de/html/vereine.htm",
+"faktencheck": "korrigiert",
+"id": "341-windhagen/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Brunnenwasser gegen Gehörschäden",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Windhagen",
+"steckbrief": "Gemeinde mit knapp 4.700 Einwohnern, 21 km südöstlich von Bonn.",
+"frage": "Dem Wasser des Taubenbrunnens in der Ortsmitte sprach der Volksmund vermutlich schon im Mittelalter Heilkräfte zu. Wogegen sollte es helfen?",
+"optionen": [
+"Es sollte bei Gehörschäden helfen.",
+"Es sollte bei Augenleiden helfen.",
+"Es sollte gegen Gicht und Rheuma helfen.",
+"Es sollte gegen Fieber helfen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Heilbrunnen denkt man eher an Augen, Gelenke oder Fieber; an die Ohren denkt kaum jemand. Dem Windhagener Brunnenwasser sprach der mittelalterliche Volksmund aber Heilkräfte bei Gehörschäden zu. Der goldene Brunnen im dritten Feld des Ortswappens erinnert daran; so steht die Überlieferung vom heilsamen Wasser bis heute im Ortszeichen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, windhagen.de/html/geschichte.htm",
+"faktencheck": "korrigiert",
+"id": "341-windhagen/v0.9/9",
 "tisch": false
 }
 ],
@@ -106689,6 +106962,32 @@ window.QA_DATEN = {
 },
 "ags": "07138077",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Knapp 4.700 Einwohner auf 13,11 Quadratkilometern, 21 km südöstlich von Bonn, direkt an der Grenze zu Nordrhein-Westfalen."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Keltische Ringwälle in der Umgebung, Barockkreuze von 1702 und 1731, Kapellen in Hallerbach, Hüngsberg, Stockhausen und Rederscheid."
+},
+{
+"facette": "ALLTAG",
+"text": "Ein Industrieort mit Wirtgen, Nölken, JK-Ergoline und Geutebrück; der Gewerbeverein lädt alle zwei Jahre zur Gewerbeschau."
+},
+{
+"facette": "FREIZEIT",
+"text": "18-Loch-Golfplatz, Jugendzeltplatz Kirchwies im Pfaffenbachtal, Rollitennis, ein Marathon der Eintracht und Karneval mit dem Möhnenclub Rubbeldi Dupp."
+},
+{
+"facette": "INFRA",
+"text": "Autobahn A 3 mit Anschluss Bad Honnef/Linz und Rastplatz Hambitz, ICE-Schnellfahrstrecke, Josef-Rüddel-Forum, Erich-Kästner-Grundschule."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag die Wahlbeteiligung bei 87,2 Prozent, vier Punkte über dem Land; die CDU lag mit 35,9 Prozent vorn."
+}
+],
 "km_vom_vorigen": 5.8
 },
 {
@@ -106698,31 +106997,128 @@ window.QA_DATEN = {
 "lon": 7.34806,
 "karten": [
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Basaltsäulen im Gemeindewappen",
+"rang": 7,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Vettelschoß",
-"steckbrief": "Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn.",
-"frage": "In den 1920er-Jahren entstand im Ortsteil Kalenborn ein Schmelzbasaltwerk. Von wem stammte die Idee zum Schmelzbasalt?",
+"steckbrief": "Gemeinde mit rund 3.700 Einwohnern, 22 km südöstlich von Bonn.",
+"frage": "Das Gemeindewappen von Vettelschoß zeigt neben Schwert und Hufeisen auch Säulen. Wofür stehen die Säulen?",
 "optionen": [
-"Die Idee stammte von einem französischen Arzt.",
-"Die Idee stammte von einem deutschen Steinbruchmeister.",
-"Die Idee stammte von einem englischen Chemiker.",
-"Die Idee stammte von einem belgischen Ingenieur."
+"Sie stehen für die Herren von Rennenberg.",
+"Sie erinnern an eine alte Gerichtsstätte.",
+"Sie stehen für die Pfarrkirche St. Michael.",
+"Sie stehen für den Basaltbergbau."
 ],
 "art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein Steinbruchmeister liegt nahe, denn bei Vettelschoß wurde Basalt gebrochen. Doch die Idee stammte von einem französischen Arzt, der in Laborversuchen den Grundstein legte. In Kalenborn wurde Schmelzbasalt dann industriell hergestellt. Der Werkstoff schützt gegen Verschleiß. Richtig war 1.",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Säulen lassen an Kirchen oder Gerichte denken, und der Heilige der Pfarrkirche ist tatsächlich dabei: Das Flammschwert steht für den Erzengel Michael, das Hufeisen für die Landwirtschaft. Die Säulen aber sind Basaltsäulen und stehen für den Bergbau. So fasst das Wappen den Ort in drei Bildern zusammen: Glaube, Landwirtschaft und Stein. Richtig war 4.",
 "quelle": "Gemeinde-Webseite, www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/",
-"faktencheck": "korrigiert",
-"id": "342-vettelschoss/v0.8/1",
+"faktencheck": "bestätigt",
+"id": "342-vettelschoss/v0.9/1",
 "tisch": false
 },
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Dorfmuseum im ältesten Fachwerkhaus",
+"rang": 9,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vettelschoß",
+"steckbrief": "Gemeinde mit rund 3.700 Einwohnern, 22 km südöstlich von Bonn.",
+"frage": "Das Dorfmuseum im Schmitzhof, einem alten Fachwerkhaus, stellt eine bestimmte Zeit nach. Welche?",
+"optionen": [
+"Es zeigt das Dorfleben von 1900 bis 1910.",
+"Es zeigt das Dorfleben im Dreißigjährigen Krieg.",
+"Es zeigt das Dorfleben um das Jahr 1800.",
+"Es zeigt das Dorfleben der 1950er Jahre."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Das Fachwerkhaus stammt aus der Zeit um 1640, da liegt der Dreißigjährige Krieg nahe, und einst gehörte es dem Kloster St. Katharinen. Das Museum zeigt aber die Jahre 1900 bis 1910. So zeigt der Ort die Welt seiner Urgroßeltern in einem Haus, das als ältestes erhaltenes Fachwerkhaus von Vettelschoß gilt. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.vettelschoss.de/gemeinde-vettelschoss/in-und-um-vettelschoss/dorfmuseum/",
+"faktencheck": "korrigiert",
+"id": "342-vettelschoss/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "vom Basaltabbau abgetragener Berg",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vettelschoß",
+"steckbrief": "Gemeinde mit rund 3.700 Einwohnern, 22 km südöstlich von Bonn.",
+"frage": "Am Willscheider Berg westlich des Ortskerns liegt heute ein See. Wie ist er entstanden?",
+"optionen": [
+"Ein Bergrutsch staute dort einen Bach auf.",
+"Er füllt einen Basaltsteinbruch, der 1974 stillgelegt wurde.",
+"Er füllt den Krater eines alten Vulkans.",
+"Er wurde als Wasserspeicher für den Ort angelegt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Basalt ist erstarrte Lava, deshalb liegt ein Vulkankrater als Erklärung nahe. Entstanden ist der See aber durch Menschenhand: Ab 1884 brachen hier Zerwas & Söhne Basalt, später die BAG Linz, und 1974 wurde der Bruch stillgelegt. Danach füllte Wasser die Grube. Der Berg zeigt, wie sehr der Basalt Vettelschoß geformt hat. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/; regionalgeschichte.net (Willscheiderberg)",
+"faktencheck": "korrigiert",
+"id": "342-vettelschoss/v0.9/3",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "nächtlicher Gebetsgang um die Kapelle",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vettelschoß",
+"steckbrief": "Gemeinde mit rund 3.700 Einwohnern, 22 km südöstlich von Bonn.",
+"frage": "Früher kannte Vettelschoß den Brauch „Füßen“, einen Bittgang, auch bei Krankheiten. Was tat man dabei?",
+"optionen": [
+"Man wusch Kranken nachts die Füße.",
+"Man lief barfuß bis zur Nachbarpfarrei.",
+"Man tanzte nachts stampfend um ein Feuer.",
+"Man umschritt betend die Kapelle, Schritt für Schritt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach Fußwaschung, und die liegt bei Kranken nahe. Beim Füßen umschritt man aber die Michaelskapelle, hielt bei jedem Schritt an und betete ein Vaterunser und ein Ave Maria, meist nachts und oft viele Stunden lang. Der Brauch erinnerte an die Pestjahre, in denen der Ort viele Tote zu beklagen hatte. Er zeigt, wo das Dorf in Not seine Mitte hatte: an der Kapelle am Kapellenplatz. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/",
+"faktencheck": "korrigiert",
+"id": "342-vettelschoss/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "früh erschlossener Ortsteil Kalenborn",
+"rang": 8,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Vettelschoß",
+"steckbrief": "Gemeinde mit rund 3.700 Einwohnern, 22 km südöstlich von Bonn.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Kalenborn bekam eine Straße lange vor der Bahn.",
+"Kalenborns Bahnanschluss stammt erst aus der Nachkriegszeit.",
+"Ein Grundstücksverkauf bezahlte den Stromanschluss des Orts."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Bahnhof im Ortsteil klingt nach später Nebenstrecke. Die Bahn ab Linz erreichte Kalenborn aber schon 1912; die Straße Kretzhaus–Neustadt gab es seit 1860. Den Stromanschluss der Gemeinde bezahlte der Erlös aus einem Grundstück, das für das Schmelzbasaltwerk verkauft wurde. So hängen in Vettelschoß Bahn, Basalt und Strom eng zusammen. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/; regionalgeschichte.net (Willscheiderberg)",
+"faktencheck": "korrigiert",
+"id": "342-vettelschoss/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "kleine, dicht bewohnte Gemeinde",
+"rang": 10,
 "familie": "C",
 "sorte": "Klassiker",
 "ort": "Vettelschoß",
-"steckbrief": "Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn.",
-"frage": "Wie groß ist die Fläche der Gemeinde Vettelschoß?",
+"steckbrief": "Gemeinde im Landkreis Neuwied mit rund 3.700 Einwohnern, 22 km südöstlich von Bonn.",
+"frage": "Wie groß ist das Gemeindegebiet von Vettelschoß?",
 "optionen": [
 "unter 5 km²",
 "5 bis unter 10 km²",
@@ -106731,176 +107127,86 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Bei einem Ort dieser Einwohnerzahl denkt man an ein Dorf mit weiten Feldern und Wäldern ringsum. Doch Vettelschoß ist klein: Die Gemeinde misst nur 6,91 Quadratkilometer und ist entsprechend dicht besiedelt. Richtig war 2.",
-"quelle": "Wikidata P2046",
+"rueckseite": "Du hattest [Option] getippt. Bei rund 3.700 Einwohnern und ländlicher Lage erwartet man viel Feld und Wald drumherum, also eine größere Fläche. Vettelschoß misst aber nur 6,91 km². Auf jeden Quadratkilometer kommen damit gut 530 Menschen: eine kleine, dicht bewohnte Gemeinde. Richtig war 2.",
+"quelle": "Wikidata P2046; Einwohner: Wikidata P1082, Stand 2025-12-31; Dichte berechnet aus Einwohnern und Fläche",
 "faktencheck": "bestätigt",
-"id": "342-vettelschoss/v0.8/2",
+"id": "342-vettelschoss/v0.9/7",
 "tisch": false
 },
 {
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Vettelschoß",
-"steckbrief": "Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Bis 1803 gehörte der Schmitzhof einem Kloster.",
-"1778 fand eine Äbtissin den Katharinenhof in Kalenborn abgebrannt vor.",
-"Um 1900 lebten in Vettelschoß überwiegend Protestanten."
-],
-"art": "luege",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Gelogen war die Konfession: Um 1900 war Vettelschoß vollständig katholisch. Die evangelische Johanneskirche kam erst Jahrzehnte später. Wahr sind dagegen die alten Hofgeschichten, auch wenn sie erfunden klingen: Der Schmitzhof gehörte bis 1803 dem Kloster St. Katharinen, und 1778 fand die Äbtissin den Katharinenhof in Kalenborn abgebrannt und öde vor. Die Lüge war 3.",
-"quelle": "Gemeinde-Webseite, www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/",
-"faktencheck": "korrigiert",
-"id": "342-vettelschoss/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Vettelschoß",
-"steckbrief": "Vettelschoß ist eine Gemeinde mit rund 3.700 Einwohnern, 22 km südöstlich von Bonn.",
-"frage": "Wie hoch war bei der Bundestagswahl 2025 in Vettelschoß der Zweitstimmenanteil der stärksten Partei?",
-"optionen": [
-"unter 25 %",
-"25 bis unter 31 %",
-"31 bis unter 36 %",
-"36 % und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Wer das bundesweite Ergebnis der Union im Kopf hat, tippt eher auf eine mittlere Spanne. Doch in Vettelschoß lag die CDU klar vorn: Sie holte 37,3 Prozent der Zweitstimmen, deutlich vor der AfD auf Platz zwei. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "342-vettelschoss/v0.8/4",
-"tisch": false
-},
-{
+"facette": "ALLTAG",
+"charakteristikum": "weltweit erstes Schmelzbasaltwerk",
+"rang": 3,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Vettelschoß",
-"steckbrief": "Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn.",
-"frage": "Im März 1945 nahmen US-Truppen die Ludendorff-Brücke zwischen Remagen und Erpel ein. Was folgte daraus für Vettelschoß?",
+"steckbrief": "Gemeinde mit rund 3.700 Einwohnern, 22 km südöstlich von Bonn.",
+"frage": "1924 entstand im Ortsteil Kalenborn das erste Schmelzbasaltwerk der Welt. Woher stammte das Verfahren?",
 "optionen": [
-"In Vettelschoß tobten heftige Bodenkämpfe.",
-"Vettelschoß wurde kampflos an die Amerikaner übergeben.",
-"Vettelschoß lag abseits der Front und blieb verschont.",
-"Vettelschoß wurde nur aus der Luft angegriffen."
+"Es kam von einem schwedischen Bergingenieur.",
+"Es ging auf einen belgischen Glasmacher zurück.",
+"Es ging auf Laborversuche eines französischen Arztes zurück.",
+"Es kam von einem Vorarbeiter im örtlichen Steinbruch."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Vorarbeiter aus dem Steinbruch liegt nahe, Basalt gab es vor der Haustür. Die Idee ging aber auf Laborversuche eines französischen Arztes zurück; Kalenborn setzte sie großtechnisch um. Schmelzbasalt ist geschmolzenes und wieder erstarrtes Basaltgestein, heute weltweit als Schutz gegen Verschleiß im Einsatz. So trägt das Werk den Ortsteil in die Welt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/",
+"faktencheck": "korrigiert",
+"id": "342-vettelschoss/v0.9/8",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Badesee im alten Steinbruch",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vettelschoß",
+"steckbrief": "Gemeinde mit rund 3.700 Einwohnern, 22 km südöstlich von Bonn.",
+"frage": "Der Blaue See ist ein beliebtes Ausflugsziel in Vettelschoß. Wie ist er entstanden?",
+"optionen": [
+"Er füllt einen stillgelegten Basaltsteinbruch.",
+"Er entstand in einer alten Tongrube.",
+"Ein Bach wurde für eine Mühle gestaut.",
+"Er wurde als Löschteich für das Dorf angelegt."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Wer an die Brücke denkt, sieht den Krieg am Rheinufer und das Hinterland verschont. Doch nach der Einnahme gab es heftige Bodenkämpfe bis nach Vettelschoß: In Kalenborn, Oberwillscheid und Kretzhaus wurden Häuser stark beschädigt oder völlig zerstört. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/",
-"faktencheck": "bestätigt",
-"id": "342-vettelschoss/v0.8/5",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Vettelschoß",
-"steckbrief": "Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn.",
-"frage": "Zu welchem Landkreis gehört Vettelschoß?",
-"optionen": [
-"Landkreis Ahrweiler",
-"Landkreis Neuwied",
-"Rhein-Sieg-Kreis",
-"Landkreis Altenkirchen"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Bonn spricht für den Rhein-Sieg-Kreis. Doch zwischen Bonn und Vettelschoß verläuft die Landesgrenze: Vettelschoß liegt in Rheinland-Pfalz und gehört zum Landkreis Neuwied, die Autos tragen meist NR. Richtig war 2.",
-"quelle": "dewiki Infobox",
-"faktencheck": "bestätigt",
-"id": "342-vettelschoss/v0.8/6",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Geschichte",
-"ort": "Vettelschoß",
-"steckbrief": "Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn.",
-"frage": "Nach dem Zweiten Weltkrieg siedelte sich die Firma Streif Schalungsbau in Vettelschoß an. Später wurde sie eine große Fertighausfirma. Wie viele Mitarbeiter hatte sie in ihrer Spitzenzeit?",
-"optionen": [
-"unter 500",
-"500 bis unter 2.000",
-"2.000 bis unter 8.000",
-"8.000 und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Eine Firma in einem Dorf dieser Größe stellt man sich mittelständisch vor. Doch Streif wurde nach Angaben der Gemeinde eine der größten Fertighausfirmen Deutschlands, mit insgesamt bis zu 5.000 Mitarbeitern, mehr als Vettelschoß heute Einwohner hat. Später traf der Niedergang der Bauwirtschaft auch Streif. Richtig war 3.",
+"rueckseite": "Du hattest [Option] getippt. Der Westerwald ist für Ton bekannt, deshalb liegt eine Tongrube nahe. Der Blaue See liegt aber in einem alten Basaltsteinbruch: Ab 1914 brachen die Gebrüder Uhrmacher am Geißen- und Türkenhügel Basalt, dort, wo heute der See und eine Tennisanlage liegen. Aus dem Ort harter Arbeit ist ein Ausflugsziel geworden. Richtig war 1.",
 "quelle": "Gemeinde-Webseite, www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/",
 "faktencheck": "korrigiert",
-"id": "342-vettelschoss/v0.8/7",
+"id": "342-vettelschoss/v0.9/9",
 "tisch": false
 },
 {
+"facette": "ALLTAG",
+"charakteristikum": "Fertighausriese der Wirtschaftswunderzeit",
+"rang": 5,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Vettelschoß",
-"steckbrief": "Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn.",
-"frage": "Für die heutige Michaelskirche musste die alte Dorfkirche weichen. Woher kam der Professor, der den Neubau plante?",
+"steckbrief": "Gemeinde mit rund 3.700 Einwohnern, 22 km südöstlich von Bonn.",
+"frage": "In den 1970ern hatte die Firma Streif ihren Sitz in Vettelschoß. Womit machte sie sich einen Namen?",
 "optionen": [
-"Er kam aus Trier.",
-"Er kam aus Zürich.",
-"Er kam aus Aachen.",
-"Er kam aus Münster."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Bei einer Dorfkirche denkt man an einen Planer aus der Region oder aus einer Bischofsstadt. Doch den Neubau plante Prof. Dahinden aus Zürich. Die alte Kirche zur Heiligen Familie musste weichen, weil die Kirchengemeinde stark gewachsen war und Kriegsschäden ihren Bauzustand verschlechtert hatten. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/",
-"faktencheck": "bestätigt",
-"id": "342-vettelschoss/v0.8/8",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Vettelschoß",
-"steckbrief": "Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn.",
-"frage": "1862 stiftete Johann Anton Stockhausen 735 Taler für Vettelschoß. Wofür war das Geld bestimmt?",
-"optionen": [
-"Das Geld war für eine Dorfschule bestimmt.",
-"Das Geld ging an die Armen des Dorfes.",
-"Das Geld bezahlte eine neue Glocke der Kapelle.",
-"Das Geld sicherte einen regelmäßigen Sonntagsgottesdienst."
+"Sie stellte Basaltschotter für den Straßenbau her.",
+"Sie fertigte Sandalen und Hausschuhe.",
+"Sie baute Landmaschinen für Bauernhöfe.",
+"Sie baute Fertighäuser in großer Zahl."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Eine Schule oder die Armen wären typische Stiftungszwecke. Doch Vettelschoß hatte noch keinen eigenen Geistlichen; Sonntagsgottesdienste hingen von auswärtigen Priestern ab. Stockhausens Geld sollte sie regelmäßig sichern. Ein eigener Geistlicher kam erst später mit Vikar Johann Klöckner. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/",
-"faktencheck": "unsicher",
-"id": "342-vettelschoss/v0.8/9",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Vettelschoß",
-"steckbrief": "Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn.",
-"frage": "Kalenborn, heute Ortsteil von Vettelschoß, gilt als erstmals 1209 urkundlich belegt. Worum ging es in dieser Urkunde?",
-"optionen": [
-"Kalenborn erhielt das Stadtrecht.",
-"Die Bauern erhielten dort ein Marktrecht.",
-"Ein Erzbischof verzichtete auf ein Wildbannrecht.",
-"Kalenborn bekam eine eigene Pfarrkirche."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein Marktrecht oder Stadtrecht liegt nahe, denn solche Rechte wurden oft beurkundet. In der Urkunde aber verzichtete Erzbischof Dietrich von Köln auf ein Wildbannrecht, also ein Jagdrecht in einem Gebiet. Richtig war 3.",
+"rueckseite": "Du hattest [Option] getippt. Basalt liegt nahe, er prägte den Ort lange. Streif kam aber vom Schalungsbau und baute Fertighäuser; die Firma galt als eine der größten Fertighausfirmen Deutschlands. Ende der 1970er traf sie die Krise der Bauwirtschaft. Nach dem Krieg war sie ein wichtiger Wirtschaftsfaktor des Orts, an den heute noch die Hans-Streif-Straße im Gewerbegebiet erinnert. Richtig war 4.",
 "quelle": "Gemeinde-Webseite, www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/",
 "faktencheck": "korrigiert",
-"id": "342-vettelschoss/v0.8/10",
+"id": "342-vettelschoss/v0.9/10",
 "tisch": false
 }
 ],
 "anschluss_von": "341-windhagen",
 "anschluss": [
-"Vettelschoß und Windhagen teilen sich eine evangelische Kirchengemeinde.",
-"Fläche: Windhagen ist fast doppelt so groß wie Vettelschoß."
+"Windhagen hat fast doppelt so viel Fläche wie Vettelschoß.",
+"Windhagens Wahlbeteiligung 2025 lag knapp über der von Vettelschoß."
 ],
 "anschluesse": {
 "185-bad-breisig": [
@@ -106943,8 +107249,8 @@ window.QA_DATEN = {
 "Neustadt (Wied) hat fast doppelt so viele Einwohner wie Vettelschoß."
 ],
 "341-windhagen": [
-"Vettelschoß und Windhagen teilen sich eine evangelische Kirchengemeinde.",
-"Fläche: Windhagen ist fast doppelt so groß wie Vettelschoß."
+"Windhagen hat fast doppelt so viel Fläche wie Vettelschoß.",
+"Windhagens Wahlbeteiligung 2025 lag knapp über der von Vettelschoß."
 ],
 "343-asbach": [
 "Asbach hat gut doppelt so viele Einwohner wie Vettelschoß."
@@ -107006,6 +107312,32 @@ window.QA_DATEN = {
 },
 "ags": "07138075",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Auf der Asbacher Hochfläche am Westrand des Westerwalds, 22 km südöstlich von Bonn, im Naturpark Rhein-Westerwald."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Vettelschoß ist erstmals 1344 urkundlich genannt, der Ortsteil Kalenborn schon 1209. Lange gehörte es den Herren von Rennenberg."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 3.700 Einwohner. Gewerbegebiete Willscheider Berg, Hans-Streif-Straße und Zur Heide; früher Basaltsteinbrüche und ein Teerwerk in Kalenborn."
+},
+{
+"facette": "FREIZEIT",
+"text": "Aussichtspunkt Wäller Blick, Dorfmuseum im Schmitzhof, Kirmes Anfang Oktober und in Kalenborn Ende Mai, 25 km Wanderwege."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof Kalenborn an der Kasbachtalbahn, Grundschule, Kindergarten, Freiwillige Feuerwehr seit 1899, Postleitzahl 53560, Vorwahl 02645."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag die CDU mit 37,3 Prozent vorn. Die Wahlbeteiligung lag mit 86,1 Prozent über dem Landesschnitt."
+}
+],
 "km_vom_vorigen": 2.9
 },
 {
@@ -107236,188 +107568,192 @@ window.QA_DATEN = {
 "lon": 7.28333,
 "karten": [
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Geburtsort der Jugendherbergsidee",
+"rang": 2,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Hennef",
-"steckbrief": "Hennef hat rund 48.000 Einwohner und liegt 14 km östlich von Bonn.",
-"frage": "In Hennef gibt es Bödingen und Altenbödingen. Warum heißt das ursprüngliche Bödingen heute Altenbödingen?",
+"steckbrief": "Hennef an der Sieg zählt gut 48.000 Einwohner und liegt 14 km östlich von Bonn.",
+"frage": "Im Hennefer Ortsteil Bröl entstand die Grundidee der Jugendherberge. Wie kam es dazu?",
 "optionen": [
-"Um einen neuen Bahnhof entstand ein zweites Bödingen.",
-"Um ein neues Bergwerk entstand ein zweites Bödingen.",
-"Um eine neue Wallfahrtskirche entstand ein zweites Bödingen.",
-"Um eine neue Burg entstand ein zweites Bödingen."
+"Wandernde Handwerksgesellen suchten günstige Nachtlager.",
+"Ein Bauer ließ eine Schulklasse im Heu schlafen.",
+"Ein Gewitter trieb eine Schulklasse in eine Schule.",
+"Eine Fabrik bot ihr Lehrlingsheim Schülern an."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Burgen zogen im Mittelalter oft Siedler an, das liegt nahe. In Bödingen war es eine Wallfahrtskirche: An einem bis dahin unbesiedelten Platz entstand um sie ein neuer Ort. Das ursprüngliche Dorf heißt heute Altenbödingen. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.hennef.de/stadtgeschichte/",
+"rueckseite": "Du hattest [Option] getippt. Ein Pfarrhaus als Herberge klingt nach alter Gastfreundschaft und liegt darum nahe. Tatsächlich überraschte 1909 ein Gewitter den Lehrer Richard Schirrmann mit seiner Klasse, und sie fanden Zuflucht in der Bröler Schule. Das Erlebnis wurde zum Auslöser für das Deutsche Jugendherbergswerk. So beginnt eine Idee, die heute ganz Deutschland kennt, in einem Hennefer Ortsteil. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hennef_(Sieg)",
 "faktencheck": "korrigiert",
-"id": "344-hennef/v0.8/1",
+"id": "344-hennef/v0.9/2",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "ALLTAG",
+"charakteristikum": "Waagenfabrik mit Welterfindung",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
 "ort": "Hennef",
-"steckbrief": "Hennef hat rund 48.000 Einwohner und liegt 14 km östlich von Bonn.",
-"frage": "Auf welcher Höhe über dem Meeresspiegel liegt Hennef?",
+"steckbrief": "Hennef liegt mit gut 48.000 Einwohnern 14 km östlich von Bonn.",
+"frage": "Eine Hennefer Maschinenfabrik hieß später Chronos-Werk. Was erfanden dort Carl Reuther und Eduard Reisert?",
 "optionen": [
-"unter 30 m",
-"30 bis unter 45 m",
-"45 bis unter 60 m",
-"60 m und mehr"
+"Sie bauten die erste Stempeluhr für Fabriken.",
+"Sie bauten die erste Nähmaschine mit Elektromotor.",
+"Sie bauten den ersten Fahrkartenautomaten.",
+"Sie bauten die erste automatische eichfähige Waage."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Wer an die Nähe zu Bonn denkt, tippt eher niedrig. Hennef liegt aber auf 68 Metern über dem Meer. Richtig war 4.",
-"quelle": "Wikidata P2044; dewiki Infobox",
-"faktencheck": "bestätigt",
-"id": "344-hennef/v0.8/2",
+"rueckseite": "Du hattest [Option] getippt. Chronos ist griechisch für Zeit, darum denkt man an Uhren. Doch Carl Reuther und Eduard Reisert bauten die erste automatische eichfähige Waage der Welt; eichfähig heißt, amtlich zum Wiegen im Handel zulassbar. Der Betrieb war lange ein großer Arbeitgeber und prägte die Stadt; der Name lebt im Chronos-Areal an der Sieg fort. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hennef_(Sieg)",
+"faktencheck": "unsicher",
+"id": "344-hennef/v0.9/3",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "Stadt aus rund hundert Ortsteilen",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hennef",
+"steckbrief": "Hennef hat gut 48.000 Einwohner und liegt 14 km östlich von Bonn an der Sieg.",
+"frage": "Hennef trägt den Beinamen „Stadt der hundert Dörfer“. Woher kommt er?",
+"optionen": [
+"Die Stadt besteht aus rund hundert Ortsteilen.",
+"Ein Graf schenkte dem Ort hundert Dörfer.",
+"Ein altes Lied besingt hundert Dörfer im Siegtal.",
+"Hennefer Märkte belieferten einst hundert Dörfer."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Name wie aus einem Lied klingt nach Heimatromantik. Gemeint ist aber schlicht die Gestalt der Stadt: Zu Hennef gehören rund hundert Ortsteile. Neben dem Zentrum zählen dazu etwa Uckerath, Bödingen und Stadt Blankenberg; Hennef ist eher ein Verbund vieler Orte als ein einziger Ort. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hennef_(Sieg)",
+"faktencheck": "unsicher",
+"id": "344-hennef/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Sportschule mit Leistungszentren",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hennef",
+"steckbrief": "In Hennef leben gut 48.000 Menschen, 14 km östlich von Bonn.",
+"frage": "Die Sportschule Hennef ist Bundes- und Landesleistungszentrum. Wer ist ihr Träger?",
+"optionen": [
+"Der Deutsche Fußball-Bund betreibt sie.",
+"Der Fußball-Verband Mittelrhein betreibt sie.",
+"Der 1. FC Köln betreibt sie.",
+"Die Deutsche Sporthochschule Köln betreibt sie."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Weil dort auch der Deutsche Fußball-Bund Lehrgänge abhält, liegt er als Träger nahe. Träger ist aber der Fußball-Verband Mittelrhein. Dabei geht es nicht nur um Fußball: Es gibt Leistungsstützpunkte für Boxen, Ringen, Judo und Gewichtheben, und auch Taekwondo hat eine eigene Halle. Für eine Stadt mit gut 48.000 Einwohnern holt die Schule damit Spitzensport vieler Disziplinen nach Hennef. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hennef_(Sieg); Einwohner: Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "korrigiert",
+"id": "344-hennef/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "mittelalterliche Stadt im Ortsteil",
+"rang": 7,
 "familie": "B",
 "sorte": "Geschichte",
 "ort": "Hennef",
-"steckbrief": "Die Stadt Hennef mit rund 48.000 Einwohnern liegt 14 km östlich von Bonn.",
+"steckbrief": "Hennef liegt 14 km östlich von Bonn und hat gut 48.000 Einwohner.",
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Schwedische Truppen hielten einst die Burg Blankenberg besetzt.",
-"Hennefs Posthalteramt lag an der Postlinie Köln–Aachen.",
-"In Allner wurde aus einer Wasserburg ein Schloss."
+"Hennef selbst ist seit dem Mittelalter Stadt.",
+"Stadt Blankenberg erhielt im Mittelalter Stadtrechte.",
+"In Bödingen entstand im Mittelalter ein Kloster."
 ],
 "art": "luege",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Schwedische Truppen klingen erfunden, doch im Dreißigjährigen Krieg hielt eine schwedische Abteilung die Burg Blankenberg besetzt. Gelogen war Aachen: Aachen liegt westlich von Köln, Hennef östlich. Hennefs Posthalteramt lag an der Postlinie Köln–Frankfurt von Thurn und Taxis. Die Lüge war 2.",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Stadt dieser Größe wirkt alt gewachsen, darum klingt die erste Aussage glaubhaft. Doch mittelalterliche Stadtrechte bekam Blankenberg, der Ort an der Burg der Grafen von Sayn; Hennef wurde erst vor wenigen Jahrzehnten Stadt. Auch Bödingen ist alt: Im Spätmittelalter wurden die Priesterstellen an der Wallfahrtskirche in ein Kloster der Augustinerchorherren umgewandelt. Hennefs Mittelalter sucht man deshalb besser in Blankenberg und Bödingen als im Zentrum. Die Lüge war 1.",
 "quelle": "Gemeinde-Webseite, www.hennef.de/stadtgeschichte/",
 "faktencheck": "korrigiert",
-"id": "344-hennef/v0.8/3",
+"id": "344-hennef/v0.9/6",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "große Fläche, städtische Dichte",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hennef",
+"steckbrief": "Hennef hat gut 48.000 Einwohner und liegt 14 km östlich von Bonn.",
+"frage": "Wie viele Einwohner leben in Hennef im Schnitt auf einem Quadratkilometer?",
+"optionen": [
+"unter 150",
+"150 bis unter 250",
+"250 bis unter 400",
+"400 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Das Siegtal mit seinen bewaldeten Höhen wirkt ländlich, darum liegt eine kleine Zahl nahe. Tatsächlich leben in Hennef 454 Menschen je Quadratkilometer: gut 48.000 Einwohner auf knapp 106 Quadratkilometern. Die große Fläche täuscht also: So nah an Bonn ist Hennef trotz Wald und Höhen ziemlich dicht bewohnt. Richtig war 4.",
+"quelle": "GRUNDDATEN, dichte_ew_km2 berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "344-hennef/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Karnevalshochburg mit sieben Umzügen",
+"rang": 8,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Hennef",
-"steckbrief": "Hennef hat rund 48.000 Einwohner und liegt 14 km östlich von Bonn.",
-"frage": "In Bödingen steht die Wallfahrtskirche Mater Dolorosa. Anlass für ihren Bau war ein Marienbild. Woher stammte es?",
+"steckbrief": "Hennef, gut 48.000 Einwohner, liegt 14 km östlich von Bonn.",
+"frage": "Hennef ist eine Karnevalshochburg im Rheinland. Welchen Narrenruf hört man dort?",
 "optionen": [
-"Ein Pilger brachte es aus Rom mit.",
-"Ein Kreuzritter brachte es aus Jerusalem mit.",
-"Ein Einsiedler ließ es in Köln anfertigen.",
-"Ein Händler erwarb es in Antwerpen."
+"Die Narren rufen Helau.",
+"Die Narren rufen Ahoi.",
+"Die Narren rufen Alaaf.",
+"Die Narren rufen Narri-Narro."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein Bild aus der Ferne passt zu einer Wallfahrt, das liegt nahe. Doch der Einsiedler Christian von Lauthausen hatte eine Vision und ließ das Marienbild in Köln anfertigen. Bald galt es als wundertätig. Mit Peter Meisenbach, dem Pastor von Geistingen, erbaute er die Kirche. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.hennef.de/stadtgeschichte/",
-"faktencheck": "bestätigt",
-"id": "344-hennef/v0.8/5",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Hennef",
-"steckbrief": "Hennef hat rund 48.000 Einwohner und liegt 14 km östlich von Bonn.",
-"frage": "Welches ist das Hauptkennzeichen für Autos aus Hennef?",
-"optionen": [
-"GM",
-"NR",
-"AK",
-"SU"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Bonn ist die nächste Großstadt, doch ihr Kennzeichen steht nicht zur Wahl. Also tippt man auf einen Nachbarkreis. In Hennef ist SU das Hauptkennzeichen. Richtig war 4.",
-"quelle": "Wikidata P395",
+"rueckseite": "Du hattest [Option] getippt. Helau liegt nahe, denn so ruft man auch im rheinischen Düsseldorf. Hennef aber ruft wie Köln Alaaf. Der größte Zug rollt am Rosenmontag durch den Zentralort, weitere Züge ziehen durch Ortsteile wie Uckerath und Bröl. Für eine Stadt mit gut 48.000 Einwohnern ist das eine Menge Karneval. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hennef_(Sieg); Einwohner: Wikidata P1082, Stand 2025-12-31",
 "faktencheck": "korrigiert",
-"id": "344-hennef/v0.8/6",
+"id": "344-hennef/v0.9/8",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Dorf, gewachsen um ein Gnadenbild",
+"rang": 5,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Hennef",
-"steckbrief": "Die Stadt Hennef hat rund 48.000 Einwohner und liegt 14 km östlich von Bonn.",
-"frage": "Hennef wird „Stadt der 100 Dörfer“ genannt. In welchem Jahr wurde Hennef selbst zur Stadt erhoben?",
+"steckbrief": "Hennef liegt an der Sieg, 14 km östlich von Bonn, und hat gut 48.000 Einwohner.",
+"frage": "Das heutige Bödingen, ein Ortsteil von Hennef, entstand an einem zuvor unbesiedelten Platz. Was zog die Menschen dorthin?",
 "optionen": [
-"Hennef wurde 1981 zur Stadt erhoben.",
-"Hennef wurde 1856 zur Stadt erhoben.",
-"Hennef wurde 1935 zur Stadt erhoben.",
-"Hennef wurde 1969 zur Stadt erhoben."
+"Ein Marienbild galt als wundertätig.",
+"Eine Mühle nutzte die Kraft eines Bachs.",
+"Im Hang fand man eine Erzader.",
+"Die Grafen von Sayn gründeten dort eine Stadt."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Bei einer so großen Stadt denkt man an alte Stadtrechte, das liegt nahe. Doch Hennef blieb lange ein Dorf und wurde erst 1981 zur Stadt erhoben. Erstmals genannt wurde der Ort als „Hanafo“. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.hennef.de/stadtgeschichte/",
-"faktencheck": "bestätigt",
-"id": "344-hennef/v0.8/7",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Hennef",
-"steckbrief": "Hennef hat rund 48.000 Einwohner und liegt 14 km östlich von Bonn.",
-"frage": "Die Wallfahrtskapelle Zum Heiligen Kreuz in Süchterscheid wurde im 20. Jahrhundert neu gebaut. Was geschah dabei mit dem älteren, wohl mittelalterlichen Bau?",
-"optionen": [
-"Man riss ihn vollständig ab.",
-"Seine Reste wurden in den Neubau einbezogen.",
-"Er wurde fortan als Wohnhaus genutzt.",
-"Er wurde in ein Freilichtmuseum versetzt."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Bei einem Neubau denkt man zuerst an Abriss, das liegt nahe. In Süchterscheid blieb Altes erhalten: Reste des älteren Baus, der wohl aus dem Mittelalter stammt, wurden in den Neubau einbezogen. Ein Benefizium hatte hier einst Bertram von Nesselrode gestiftet, eine Stiftung für den Unterhalt eines Geistlichen. Richtig war 2.",
+"rueckseite": "Du hattest [Option] getippt. Im nahen Blankenberg ließen die Grafen von Sayn eine Stadt entstehen, darum liegt eine weltliche Gründung nahe. Bödingen aber entstand um eine Wallfahrtskirche: Der Einsiedler Christian von Lauthausen ließ nach einer Vision ein Marienbild in Köln anfertigen, dessen scheinbare Wunderkraft sich schnell herumsprach. Für den Pilgerzustrom baute er mit dem Geistinger Pastor eine Kirche, und um sie wuchs der Ort. Richtig war 1.",
 "quelle": "Gemeinde-Webseite, www.hennef.de/stadtgeschichte/",
 "faktencheck": "korrigiert",
-"id": "344-hennef/v0.8/8",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Hennef",
-"steckbrief": "Hennef hat rund 48.000 Einwohner und liegt 14 km östlich von Bonn.",
-"frage": "Im 17. Jahrhundert wurde dicht neben der Frankfurter Straße eine Kapelle zum Heiligen Johann von Nepomuk gegründet. Wer hat sie gegründet?",
-"optionen": [
-"Die Fährleute des Ortes stifteten sie gemeinsam.",
-"Ein durchreisender Kaufmann ließ sie errichten.",
-"Eine Bruderschaft der Brückenbauer gründete sie.",
-"Der Posthalter und Schultheiß von Geistingen gründete sie."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Johann von Nepomuk gilt als Brückenheiliger, darum denkt man an Leute vom Wasser. Gegründet hat die Kapelle aber Werner de Warth, Posthalter und Schultheiß in Geistingen. Er gründete sie vor dem Dreigiebelhaus. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.hennef.de/stadtgeschichte/",
-"faktencheck": "korrigiert",
-"id": "344-hennef/v0.8/9",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Hennef",
-"steckbrief": "Hennef hat rund 48.000 Einwohner und liegt 14 km östlich von Bonn.",
-"frage": "Für das späte Mittelalter gibt es Hinweise auf eine „Niedere Schule“ in Blankenberg. Für wen war sie gedacht?",
-"optionen": [
-"Sie war für Kinder herzoglicher Beamter und Gewerbetreibender.",
-"Sie bildete Novizen für die umliegenden Klöster aus.",
-"Sie war nur für Waisenkinder der Stadt gedacht.",
-"Sie war eine Ritterakademie für junge Adlige."
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Bei Schulen im Mittelalter denkt man an Klöster, das liegt nahe. Blankenberg war aber Verwaltungssitz eines bergischen Amtes. Es gibt Hinweise auf eine „Niedere Schule“ für die Kinder der herzoglichen Beamten und der Gewerbetreibenden. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.hennef.de/stadtgeschichte/",
-"faktencheck": "korrigiert",
-"id": "344-hennef/v0.8/10",
+"id": "344-hennef/v0.9/9",
 "tisch": false
 }
 ],
 "anschluss_von": "343-asbach",
 "anschluss": [
-"Kennzeichen: In Hennef steht SU am Auto, in Asbach NR.",
+"Hennefs Ortsteil Uckerath grenzt direkt an die Gemeinde Asbach.",
 "Hennef hat gut sechsmal so viele Einwohner wie Asbach."
 ],
 "anschluesse": {
@@ -107448,7 +107784,7 @@ window.QA_DATEN = {
 "Hennef hat dreizehnmal so viele Einwohner wie Vettelschoß."
 ],
 "343-asbach": [
-"Kennzeichen: In Hennef steht SU am Auto, in Asbach NR.",
+"Hennefs Ortsteil Uckerath grenzt direkt an die Gemeinde Asbach.",
 "Hennef hat gut sechsmal so viele Einwohner wie Asbach."
 ],
 "345-sankt-augustin": [
@@ -107467,6 +107803,32 @@ window.QA_DATEN = {
 },
 "ags": "05382020",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Hennef liegt an der Sieg, 14 km östlich von Bonn, 68 m hoch, mit rund hundert Ortsteilen."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Stadt erst seit 1981; älter sind Geistingen, Burg und Stadt Blankenberg und der Wallfahrtsort Bödingen."
+},
+{
+"facette": "ALLTAG",
+"text": "Gut 48.000 Einwohner, 454 je Quadratkilometer; einst prägte das Chronos-Werk die Stadt."
+},
+{
+"facette": "FREIZEIT",
+"text": "Kurpark mit Wildgehege, Kur-Theater, Turm- und Heimatmuseum in Blankenberg, Natursteig Sieg, Karneval und Hennefer Kirmes."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhöfe Hennef, Blankenberg (Sieg) und Hennef Im Siegbogen; Kennzeichen SU; Partnerstädte Banbury, Le Pecq, Nowy Dwór Gdański, Selçuk."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU vorn mit 32,6 Prozent, Wahlbeteiligung 85,8 Prozent, über dem Landeswert von 82,2."
+}
+],
 "km_vom_vorigen": 16.3
 },
 {
@@ -107653,149 +108015,193 @@ window.QA_DATEN = {
 "lon": 7.20444,
 "karten": [
 {
+"facette": "ALLTAG",
+"charakteristikum": "Druckfarben-Weltfirma in der Kreisstadt",
+"rang": 1,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Siegburg",
-"steckbrief": "Stadt mit rund 42.000 Einwohnern, 11 km nordöstlich von Bonn.",
-"frage": "Die Löschgruppe Stallberg eröffnete 1976 ihre Florianstube, einen Treffpunkt für Mitglieder und Freunde. Wo wurde sie eingerichtet?",
+"steckbrief": "Stadt mit gut 42.000 Einwohnern, 11 km nordöstlich von Bonn.",
+"frage": "Die Firma Siegwerk mit Sitz in Siegburg gilt als einer der weltweit führenden Hersteller ihrer Branche. Was stellt sie her?",
 "optionen": [
-"Sie entstand auf dem Dachboden des katholischen Pfarrhauses.",
-"Sie entstand im Keller der alten Schule.",
-"Sie entstand in einem ausgedienten Eisenbahnwaggon.",
-"Sie entstand im Hinterzimmer einer Gaststätte."
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein Hinterzimmer in der Kneipe wäre der klassische Vereinstreff. Die Löschgruppe Stallberg richtete sich stattdessen unterm Dach ein: Ihre Florianstube entstand auf dem Dachboden des katholischen Pfarrhauses. Dort treffen sich laut Chronik Mitglieder, Familien und Freunde. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, siegburg.de/medien/dokumente/feuerwehr-siegburg-chronik-der-loeschgruppe-4.pdf?cid=8ss",
-"faktencheck": "korrigiert",
-"id": "346-siegburg/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Siegburg",
-"steckbrief": "Stadt 11 km nordöstlich von Bonn, rund 24 km² Fläche.",
-"frage": "Wie viele Einwohner hat Siegburg? Zum Vergleich: Sankt Augustin hat rund 56.000.",
-"optionen": [
-"unter 30.000",
-"30.000 bis unter 50.000",
-"50.000 bis unter 70.000",
-"70.000 und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Wer Sankt Augustin mit rund 56.000 Einwohnern im Kopf hat, schätzt Siegburg leicht ähnlich groß ein. Die Stadt ist aber deutlich kleiner: Ende 2025 zählte sie 42.204 Einwohner. Richtig war 2.",
-"quelle": "Wikidata P1082, Stand 2025-12-31",
-"faktencheck": "bestätigt",
-"id": "346-siegburg/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Siegburg",
-"steckbrief": "Stadt mit rund 42.000 Einwohnern, 11 km nordöstlich von Bonn.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Siegburgs Altertumsverein entstand erst nach dem Zweiten Weltkrieg.",
-"Stallberg entwickelte sich nach dem Zweiten Weltkrieg industriell.",
-"Siegburg ist die Kreisstadt des Rhein-Sieg-Kreises."
-],
-"art": "luege",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Mancher hält die Kreisstadt für gelogen, weil man den Kreissitz in einer größeren Nachbarstadt vermutet. Doch Siegburg ist Kreisstadt. Gelogen ist der Verein: Der Geschichts- und Altertumsverein stammt noch aus der Kaiserzeit und hieß zuerst Altertumsverein Siegburg. Stallberg dagegen entwickelte sich tatsächlich nach dem Zweiten Weltkrieg baulich und industriell. Die Lüge war 1.",
-"quelle": "Gemeinde-Webseite, siegburg.de/buergerservice-views/leistungen/NRW:entry:41713-VLR/geschichts-und-altertumsverein/",
-"faktencheck": "unsicher",
-"id": "346-siegburg/v0.8/3",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Siegburg",
-"steckbrief": "Stadt mit rund 42.000 Einwohnern, 11 km nordöstlich von Bonn.",
-"frage": "Welche Partei holte bei der Bundestagswahl 2025 in Siegburg die zweitmeisten Zweitstimmen?",
-"optionen": [
-"AfD",
-"GRÜNE",
-"CDU",
-"SPD"
+"Siegwerk stellt Keramikfliesen für Bad und Küche her.",
+"Siegwerk stellt Siegellack für Urkunden und Briefe her.",
+"Siegwerk stellt Dichtungen für Autos und Maschinen her.",
+"Siegwerk stellt Farben für den Druck her."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Bundesweit kam die AfD 2025 auf Platz zwei, darum liegt sie als Tipp nahe. In Siegburg reichte es nur für Platz drei mit 16,4 Prozent. Zweitstärkste Partei wurde die SPD mit 18,1 Prozent, hinter der CDU. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "346-siegburg/v0.8/4",
+"rueckseite": "Du hattest [Option] getippt. Siegellack liegt nahe, weil der Firmenname nach Siegel klingt, Fliesen, weil Siegburg als alte Töpferstadt gilt. Doch Siegwerk zählt zu den weltweit führenden Herstellern von Druckfarben, vor allem für Verpackungen, und hat seinen Hauptsitz in Siegburg. Angefangen hat die Firma vor rund 200 Jahren mit Stoffdruck. Richtig war 4.",
+"quelle": "printweek.in; siegwerk.com",
+"faktencheck": "korrigiert",
+"id": "346-siegburg/v0.9/1",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "alte Töpferstadt, Siegburger Steinzeug",
+"rang": 3,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Siegburg",
-"steckbrief": "Stadt mit rund 42.000 Einwohnern, 11 km nordöstlich von Bonn.",
-"frage": "In Siegburg findet regelmäßig ein Musikfest statt, das den Namen eines Komponisten trägt. Nach wem ist es benannt?",
+"steckbrief": "Stadt mit gut 42.000 Einwohnern, 11 km nordöstlich von Bonn.",
+"frage": "Siegburg gilt als alte Töpferstadt. Wohin zog um 1600 ein großer Teil der Töpfer?",
 "optionen": [
-"Es ist nach Engelbert Humperdinck benannt.",
-"Es ist nach Johannes Brahms benannt.",
-"Es ist nach Carl Maria von Weber benannt.",
-"Es ist nach Franz Schubert benannt."
+"Sie zogen in den Westerwald, ins Kannebäckerland.",
+"Sie zogen nach Delft in Holland.",
+"Sie zogen nach Meißen in Sachsen.",
+"Sie zogen nach Nürnberg in Franken."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Brahms und Schubert sind die geläufigeren Namen, doch Siegburg hält es mit Engelbert Humperdinck. Das Humperdinck-Musikfest zählt die Stadt zu den Höhepunkten ihres kulturellen Lebens, und ihre Musikwerkstatt widmet sich seinem Leben und Werk sowie der Förderung junger, hochbegabter Instrumentalisten und Komponisten. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, siegburg.de/kultur-freizeit/",
+"rueckseite": "Du hattest [Option] getippt. Meißen liegt nahe, weil man es mit Porzellan verbindet. Ein großer Teil der Töpfer ging aber in den Westerwald, ins Kannebäckerland, und brachte das Steinzeug dort zur Blüte. Typisch für Siegburger Steinzeug war die Schnelle, ein hoher, schlanker Krug. Die Töpfereien lagen in der Aulgasse, und im Juli findet auf dem Marktplatz ein internationaler Keramikmarkt statt. Richtig war 1.",
+"quelle": "lpb.rlp.de; museum-digital; siegburg.de",
 "faktencheck": "korrigiert",
-"id": "346-siegburg/v0.8/5",
+"id": "346-siegburg/v0.9/2",
 "tisch": false
 },
 {
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Siegburg",
-"steckbrief": "Stadt mit rund 42.000 Einwohnern, 11 km nordöstlich von Bonn.",
-"frage": "Wie weit liegt Siegburg in Luftlinie von der Landeshauptstadt Düsseldorf entfernt?",
-"optionen": [
-"41 km",
-"56 km",
-"71 km",
-"86 km"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Die Landeshauptstadt wirkt von Siegburg aus weit weg, zumal Straßen und Staus jede Fahrt dehnen. Luftlinie trennen Siegburg und Düsseldorf aber nur 56 Kilometer. Richtig war 2.",
-"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
-"faktencheck": "bestätigt",
-"id": "346-siegburg/v0.8/6",
-"tisch": false
-},
-{
+"facette": "FREIZEIT",
+"charakteristikum": "Humperdinck-Musikfest in seiner Geburtsstadt",
+"rang": 4,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Siegburg",
-"steckbrief": "Stadt mit rund 42.000 Einwohnern, 11 km nordöstlich von Bonn.",
-"frage": "Der Leisepark in Siegburg hieß nicht immer so. Wie hieß die Anlage vor ihrer Umgestaltung?",
+"steckbrief": "Stadt mit gut 42.000 Einwohnern, 11 km nordöstlich von Bonn.",
+"frage": "Siegburg hat ein regelmäßiges Musikfest und eine Musikwerkstatt, die sich um Leben und Werk eines Komponisten dreht. Um wen geht es?",
 "optionen": [
-"Sie hieß vorher Schlossgarten.",
-"Sie hieß vorher Kurpark.",
-"Sie hieß vorher Alter Friedhof.",
-"Sie hieß vorher Schützenwiese."
+"Es geht um Johannes Brahms.",
+"Es geht um Engelbert Humperdinck.",
+"Es geht um Max Reger.",
+"Es geht um Georg Friedrich Händel."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Brahms oder Händel liegen nahe, weil Musikfeste oft große Klassiknamen tragen. Gemeint ist aber der Komponist Engelbert Humperdinck. Nach ihm heißt das Humperdinck-Musikfest, das wie die Siegburger Literaturwochen für Höhepunkte des Kulturlebens der Stadt sorgt. In der Musikwerkstatt dreht sich alles um sein Leben und Werk und um die Förderung junger, hochbegabter Musiker. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, siegburg.de/kultur-freizeit/",
+"faktencheck": "korrigiert",
+"id": "346-siegburg/v0.9/3",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Garnison des Stabsmusikkorps",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Siegburg",
+"steckbrief": "Stadt mit gut 42.000 Einwohnern, 11 km nordöstlich von Bonn.",
+"frage": "Jahrzehntelang lagen das Wachbataillon der Bundeswehr und ihr großes Musikkorps in Siegburg. Was geschah nach der Wiedervereinigung?",
+"optionen": [
+"Beide Einheiten zogen nach Berlin um.",
+"Beide Einheiten blieben in Siegburg.",
+"Die Musiker blieben, das Wachbataillon zog nach Berlin.",
+"Das Wachbataillon blieb, die Musiker zogen nach Berlin."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Der Name Leisepark lässt an einen stillen Kurpark denken. Tatsächlich war die Anlage der Alte Friedhof; erst eine Umgestaltung machte daraus den Leisepark, gefördert als Projekt des Stadtentwicklungskonzepts für die Innenstadt. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, siegburg.de/feeds/citykey/news.json",
+"rueckseite": "Du hattest [Option] getippt. Dass beide nach Berlin gingen, liegt nahe, denn mit der Hauptstadt zog vieles um. Das Wachbataillon, das bei Staatsbesuchen den protokollarischen Ehrendienst leistet, zog schrittweise nach Berlin; die letzten Soldaten verließen Siegburg 2014. Das Musikkorps blieb in der Brückberg-Kaserne. Bis 2000 hieß es Stabsmusikkorps, heute Musikkorps der Bundeswehr. Richtig war 3.",
+"quelle": "bundeswehr.de",
 "faktencheck": "korrigiert",
-"id": "346-siegburg/v0.8/7",
+"id": "346-siegburg/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Abtei auf erloschenem Vulkan",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Siegburg",
+"steckbrief": "Stadt mit gut 42.000 Einwohnern, 11 km nordöstlich von Bonn.",
+"frage": "Auf dem Michaelsberg, Siegburgs Wahrzeichen, steht die frühere Benediktinerabtei. Was ist der Berg seinem Ursprung nach?",
+"optionen": [
+"Er ist eine Endmoräne aus der Eiszeit.",
+"Er ist eine alte Abraumhalde des Erzbergbaus.",
+"Er ist der Rest eines urzeitlichen Korallenriffs.",
+"Er ist ein erloschener Vulkan."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Halde klingt plausibel, weil der Berg so einzeln aus der Ebene ragt. Der Michaelsberg ist aber ein erloschener Vulkan aus Basalttuff, entstanden vor rund 25 Millionen Jahren wie das Siebengebirge. Früher hieß er Sygberg oder Sigeberg, seinen heutigen Namen trägt er nach dem Klosterpatron Michael. Richtig war 4.",
+"quelle": "Stadtmuseum Siegburg; Geologischer Dienst NRW",
+"faktencheck": "korrigiert",
+"id": "346-siegburg/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Hexenturm an der Stadtmauer",
+"rang": 7,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Siegburg",
+"steckbrief": "Stadt mit gut 42.000 Einwohnern, 11 km nordöstlich von Bonn.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"In der Siegburger Abtei war einst eine Irrenanstalt.",
+"Freischärler versuchten einst, das preußische Zeughaus zu stürmen.",
+"Der Hexenturm war einst ein Glockenturm der Abtei."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Glockenturm klingt plausibel, weil Siegburg eine alte Abteistadt ist. Der Hexenturm war aber ein Wachturm der Stadtmauer an der Bergstraße. Seinen Namen bekam er erst im 19. Jahrhundert durch Werke des Heimatdichters Wilhelm Herchenbach; Hexenprozesse fanden dort nie statt. Wer die Bergstraße hinaufgeht, sieht in ihm einen Rest der alten Stadtbefestigung. Die Lüge war 3.",
+"quelle": "LVR-KuLaDig, kuladig.de",
+"faktencheck": "korrigiert",
+"id": "346-siegburg/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "dicht bebaute, flächenarme Stadt",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Siegburg",
+"steckbrief": "Stadt mit gut 42.000 Einwohnern, 11 km nordöstlich von Bonn.",
+"frage": "Wie groß ist das Stadtgebiet von Siegburg?",
+"optionen": [
+"unter 15 km²",
+"15 bis unter 30 km²",
+"30 bis unter 50 km²",
+"50 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Für eine Stadt mit gut 42.000 Einwohnern rechnet man leicht mit mehr Fläche, denn viele Städte dieser Größe haben weitläufige Ortsteile. Siegburg kommt aber mit 23,66 Quadratkilometern aus. Auf jedem davon leben im Schnitt rund 1.800 Menschen; das ist dicht besiedelt, wie man es eher aus Großstädten kennt. Richtig war 2.",
+"quelle": "Wikidata P2046 (Fläche); Wikidata P1082, Stand 2025-12-31 (Einwohner); Dichte berechnet aus Einwohnern und Fläche",
+"faktencheck": "bestätigt",
+"id": "346-siegburg/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Heimatstadt eines Fußballweltmeisters",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Siegburg",
+"steckbrief": "Stadt mit gut 42.000 Einwohnern, 11 km nordöstlich von Bonn.",
+"frage": "Fußballweltmeister Wolfgang Overath ist gebürtiger Siegburger. Bei welchem Verein begann seine Karriere?",
+"optionen": [
+"Er begann bei Borussia Mönchengladbach.",
+"Er begann bei Alemannia Aachen.",
+"Er begann beim Siegburger SV 04.",
+"Er begann beim 1. FC Kaiserslautern."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an Overath denkt, denkt an den 1. FC Köln, dessen Präsident er wurde. Angefangen hat er aber beim Siegburger Sportverein 1904, kurz SSV 04. Seine Geburtsstadt hat ihn zum Ehrenbürger ernannt; ein Weltmeister aus dem eigenen Verein ist für eine Stadt mit gut 42.000 Einwohnern ein seltener Stolz. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Siegburg",
+"faktencheck": "unsicher",
+"id": "346-siegburg/v0.9/8",
 "tisch": false
 }
 ],
 "anschluss_von": "345-sankt-augustin",
 "anschluss": [
-"Kennzeichen: In Siegburg und Sankt Augustin steht SU am Auto.",
-"Einwohner: Sankt Augustin hat rund 14.000 mehr als Siegburg."
+"Sankt Augustin grenzt als Nachbarstadt direkt an Siegburg.",
+"Siegburg ist dichter besiedelt als das größere Sankt Augustin."
 ],
 "anschluesse": {
 "188-bonn": [
@@ -107820,8 +108226,8 @@ window.QA_DATEN = {
 "Hennef hat rund 5.900 Einwohner mehr als Siegburg."
 ],
 "345-sankt-augustin": [
-"Kennzeichen: In Siegburg und Sankt Augustin steht SU am Auto.",
-"Einwohner: Sankt Augustin hat rund 14.000 mehr als Siegburg."
+"Sankt Augustin grenzt als Nachbarstadt direkt an Siegburg.",
+"Siegburg ist dichter besiedelt als das größere Sankt Augustin."
 ],
 "347-lohmar": [
 "Siegburg hat rund 11.000 Einwohner mehr als Lohmar.",
@@ -107833,6 +108239,32 @@ window.QA_DATEN = {
 },
 "ags": "05382060",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Gut 42.000 Einwohner auf knapp 24 Quadratkilometern an der Sieg, 11 Kilometer nordöstlich von Bonn."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Abteistadt am Michaelsberg seit dem 11. Jahrhundert, früh Markt-, Zoll- und Münzstadt, lange Töpferstadt."
+},
+{
+"facette": "ALLTAG",
+"text": "Kreisstadt des Rhein-Sieg-Kreises, Verwaltungs- und Dienstleistungszentrum, Druckfarbenhersteller Siegwerk, Wochenmarkt mitten in der Fußgängerzone."
+},
+{
+"facette": "FREIZEIT",
+"text": "Freizeitbad Oktopus, Stadtmuseum, Rhein Sieg Forum, Studiobühne, Keramikmarkt im Juli, Literaturwochen im November."
+},
+{
+"facette": "INFRA",
+"text": "ICE-Bahnhof Siegburg/Bonn mit Stadtbahn nach Bonn, Bahnhof Siegburg Nord, Autobahnen A 3 und A 560."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU vorn mit 29,1 Prozent, Wahlbeteiligung 81,5 Prozent, knapp unter dem Landesschnitt."
+}
+],
 "km_vom_vorigen": 3.7
 },
 {
@@ -107842,169 +108274,193 @@ window.QA_DATEN = {
 "lon": 7.2166,
 "karten": [
 {
-"familie": "A",
+"facette": "FREIZEIT",
+"charakteristikum": "bergiges Jedermann-Radrennen",
+"rang": 5,
+"familie": "D",
 "sorte": "Geschichte",
 "ort": "Lohmar",
-"steckbrief": "Lohmar zählt rund 31.000 Einwohner und liegt 15 km nordöstlich von Bonn.",
-"frage": "1997 sollte ein Bürgerentscheid die Rathaus-Planung an der Hauptstraße stoppen. Wie ging er aus?",
+"steckbrief": "Stadt mit rund 31.000 Einwohnern, 15 km nordöstlich von Bonn.",
+"frage": "Welches dieser vier Rennen hatte in Lohmar Premiere?",
 "optionen": [
-"Die Mehrheit stimmte gegen den Stopp.",
-"Der Stopp wurde mit Mehrheit beschlossen.",
-"Beide Seiten erhielten genau gleich viele Stimmen.",
-"Der Stopp bekam mehr Stimmen und scheiterte trotzdem."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Wer mehr Stimmen bekommt, gewinnt, denken die meisten. Für den Stopp stimmten 23,6 Prozent der Wahlberechtigten, dagegen nur 21,1 Prozent. Doch es galt ein Quorum: Mindestens 25 Prozent aller Wahlberechtigten mussten für den Stopp stimmen. Diese Hürde verfehlte er, also scheiterte er. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/",
-"faktencheck": "korrigiert",
-"id": "347-lohmar/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Lohmar",
-"steckbrief": "Lohmar zählt rund 31.000 Einwohner und liegt 15 km nordöstlich von Bonn.",
-"frage": "Wie groß ist das Stadtgebiet von Lohmar?",
-"optionen": [
-"unter 70 km²",
-"70 bis unter 90 km²",
-"90 bis unter 120 km²",
-"120 km² und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Lohmar besteht aus vielen Ortsteilen, von Birk bis Wahlscheid. Das lässt eine weitläufige Fläche vermuten. Tatsächlich misst das Stadtgebiet 65,62 Quadratkilometer. Richtig war 1.",
-"quelle": "Wikidata P2046",
-"faktencheck": "bestätigt",
-"id": "347-lohmar/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Lohmar",
-"steckbrief": "Lohmar zählt rund 31.000 Einwohner und liegt 15 km nordöstlich von Bonn.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Eltern gründeten in Neuhonrath eine Kita als Notgemeinschaft.",
-"Lohmars altes Bahnhofsgebäude dient heute als Kulturzentrum.",
-"Orkan Kyrill entwurzelte in Lohmar zahlreiche Nadelbäume."
-],
-"art": "luege",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Umgenutzte Bahnhöfe gibt es in vielen Orten, deshalb klingt die Aussage glaubhaft. Lohmars Bahnhofsgebäude an der Kirchstraße wurde jedoch abgerissen, an seiner Stelle entstand ein Kreisverkehr. Die Kita in Neuhonrath gründeten Eltern, weil die vorhandenen Plätze nicht reichten. Die Lüge war 2.",
-"quelle": "Gemeinde-Webseite, www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/",
-"faktencheck": "unsicher",
-"id": "347-lohmar/v0.8/3",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Lohmar",
-"steckbrief": "Lohmar zählt rund 31.000 Einwohner und liegt 15 km nordöstlich von Bonn.",
-"frage": "1993 begann man in Wahlscheid, den Landschaftsgarten Aggerbogen anzulegen. Was war auf der Fläche vorher?",
-"optionen": [
-"Dort lag eine stillgelegte Kiesgrube.",
-"Dort stand eine alte Fabrik.",
-"Dort lag eine Mülldeponie.",
-"Dort war Weideland."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Viele Landschaftsgärten entstehen auf ehemaligen Industrie- oder Abbauflächen, deshalb liegt eine Kiesgrube nahe. Der Landschaftsgarten Aggerbogen in Wahlscheid wurde dagegen auf Weideland angelegt. Er sollte Naturschutz und Erholung miteinander vereinbaren. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/",
-"faktencheck": "bestätigt",
-"id": "347-lohmar/v0.8/5",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Lohmar",
-"steckbrief": "Lohmar zählt rund 31.000 Einwohner und liegt 15 km nordöstlich von Bonn.",
-"frage": "Wie weit ist es von Lohmar in Luftlinie bis zur Landeshauptstadt Düsseldorf?",
-"optionen": [
-"unter 60 km",
-"60 bis unter 75 km",
-"75 bis unter 90 km",
-"90 km und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Düsseldorf wirkt weit weg, weil man von Lohmar aus erst an Köln vorbei muss. Die Luftlinie von Lohmar bis Düsseldorf beträgt aber nur 52 Kilometer. Richtig war 1.",
-"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
-"faktencheck": "bestätigt",
-"id": "347-lohmar/v0.8/6",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Lohmar",
-"steckbrief": "Lohmar zählt rund 31.000 Einwohner und liegt 15 km nordöstlich von Bonn.",
-"frage": "Im Juni 1991 spielte Borussia Dortmund im Lohmarer Stadion gegen eine Lohmarer Stadtauswahl. Wie ging das Spiel aus?",
-"optionen": [
-"Dortmund gewann 12:0.",
-"Dortmund gewann 20:1.",
-"Dortmund gewann knapp 3:2.",
-"Es endete 2:2 unentschieden."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ein Profiklub gegen Amateure endet meist deutlich zu null, daran denken viele. Dortmund gewann im Lohmarer Stadion zwar 20:1, doch die Stadtauswahl schaffte immerhin ein Tor. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/",
-"faktencheck": "bestätigt",
-"id": "347-lohmar/v0.8/7",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Lohmar",
-"steckbrief": "Lohmar zählt rund 31.000 Einwohner und liegt 15 km nordöstlich von Bonn.",
-"frage": "Seit wann trägt Lohmar den Titel Stadt?",
-"optionen": [
-"Lohmar ist seit 1652 Stadt.",
-"Lohmar ist seit 1934 Stadt.",
-"Lohmar ist seit 1991 Stadt.",
-"Lohmar ist seit 1969 Stadt."
+"Ein Drachenbootrennen auf dem Fluss",
+"Ein Galopprennen auf eigener Rennbahn",
+"Ein bergiges Jedermann-Radrennen",
+"Ein Motocross-Rennen am Stadtrand"
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Viele Städte im Rheinland tragen ihren Titel seit Jahrhunderten, deshalb liegt ein altes Stadtrecht nahe. Lohmar wurde aber erst 1991 Stadt. Gefeiert wurde das mit einem Festakt in der Jabachhalle. Richtig war 3.",
+"rueckseite": "Du hattest [Option] getippt. Ein Drachenbootrennen liegt nahe, durch Lohmar fließt die Agger. Doch Lohmar setzte aufs Rad: Am Pfingstsonntag hatte die Lohmar Challenge Premiere, ein Jedermann-Radrennen über bergreiche Strecken zwischen Lohmar, Overath und Much. Das passt zu Lohmars Lage im südlichen Bergischen Land, einer Hügellandschaft vor den Toren von Bonn. Richtig war 3.",
 "quelle": "Gemeinde-Webseite, www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/",
-"faktencheck": "bestätigt",
-"id": "347-lohmar/v0.8/8",
+"faktencheck": "unsicher",
+"id": "347-lohmar/v0.9/1",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Napoleon zu Gast auf Schloss Auel",
+"rang": 1,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Lohmar",
-"steckbrief": "Lohmar zählt rund 31.000 Einwohner und liegt 15 km nordöstlich von Bonn.",
-"frage": "2007 wurde die gründlich restaurierte Naafer Mühle neu eröffnet. Welche Nutzung bekam sie damals?",
+"steckbrief": "Stadt mit rund 31.000 Einwohnern, 15 km nordöstlich von Bonn.",
+"frage": "Im Lohmarer Ortsteil Wahlscheid steht Schloss Auel. Der Überlieferung nach machte Napoleon dort Station. Aus welchem Anlass?",
 "optionen": [
-"Sie wurde eine Einrichtung für ehemals drogenabhängige Jugendliche.",
-"Sie wurde ein Mühlenmuseum mit Schaumahlen.",
-"Sie wurde ein Ausflugslokal mit Biergarten.",
-"Sie wurde ein Trauort des Standesamts."
+"Er war auf dem Rückzug aus Russland.",
+"Er traf dort heimlich den König von Preußen.",
+"Er kurierte dort eine Verwundung aus Spanien aus.",
+"Er war auf Inspektionsreise bei der Rheinarmee."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Rückzug aus Russland liegt nahe, er ist Napoleons bekanntester Weg nach Westen. Doch der Besuch lag davor: Der Überlieferung nach übernachtete Napoleon 1811 auf Schloss Auel, als er seine Rheinarmee inspizierte. Heute ist das Schloss ein Ausflugsziel mit Golfplatz nebenan, und der Kaiserbesuch ist seine große Geschichte. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Lohmar",
+"faktencheck": "korrigiert",
+"id": "347-lohmar/v0.9/2",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Erzgruben im Bergischen Land",
+"rang": 2,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Lohmar",
+"steckbrief": "Stadt mit rund 31.000 Einwohnern, 15 km nordöstlich von Bonn.",
+"frage": "Lohmar liegt im südlichen Bergischen Land. Welches dieser vier Dinge gab es früher im heutigen Stadtgebiet?",
+"optionen": [
+"Gruben für Kupfer-, Blei- und Zinkerz",
+"Ein Steinkohlenbergwerk",
+"Eine Saline mit Gradierwerk",
+"Ein Kalisalzbergwerk"
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Restaurierte Mühlen werden oft Museen oder Ausflugslokale, darum liegt das nahe. Die Naafer Mühle bekam einen sozialen Zweck: eine Einrichtung für ehemals drogenabhängige Jugendliche. Als Betreiber nennt die Stadtchronik die Oberbergische Gesellschaft. Richtig war 1.",
+"rueckseite": "Du hattest [Option] getippt. Steinkohle liegt nahe, das Ruhrgebiet ist nicht weit. Doch in Lohmar ging es um Erz: Die Grube Aurora bei Honrath förderte Blei- und Zinkerz, die Grube Walpot bei Deesem Kupfererz, aus einem Stollen, der noch mit Schlägel und Eisen geschlagen wurde. Wer durch Honrath oder Deesem fährt, fährt über altes Bergbauland. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Lohmar",
+"faktencheck": "korrigiert",
+"id": "347-lohmar/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Agger und Sülz im Wappen",
+"rang": 9,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lohmar",
+"steckbrief": "Stadt mit rund 31.000 Einwohnern, 15 km nordöstlich von Bonn.",
+"frage": "Das Lohmarer Wappen zeigt unten ein Stück Landschaft. Welches?",
+"optionen": [
+"Den Rhein vor dem Siebengebirge",
+"Den Zusammenfluss von Agger und Sülz",
+"Die Quelle der Agger",
+"Das Tal des Naafbachs"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Rhein liegt nahe, Bonn ist nur 15 Kilometer entfernt. Doch Lohmar liegt rechts des Rheins im Bergischen Land, und sein Wappen zeigt unten den Zusammenfluss von Agger und Sülz, darüber den Bergischen Löwen. Die Agger fließt durch das Stadtgebiet und mündet weiter unten in die Sieg. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Lohmar",
+"faktencheck": "korrigiert",
+"id": "347-lohmar/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Fernmeldeturm, aber kein Innenstadtbahnhof",
+"rang": 3,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Lohmar",
+"steckbrief": "Stadt mit rund 31.000 Einwohnern, 15 km nordöstlich von Bonn.",
+"frage": "Welches dieser vier Dinge gibt es heute in Lohmar?",
+"optionen": [
+"Einen Personenbahnhof in der Lohmarer Innenstadt",
+"Einen Haltepunkt an der Siegstrecke",
+"Einen Fernmeldeturm der Telekom",
+"Einen Güterbahnhof an der Strecke nach Olpe"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Den Innenstadtbahnhof gab es wirklich, an der Strecke Siegburg–Olpe. Doch der Personenverkehr endete, später auch der Güterverkehr, heute ist die Trasse ein Radweg. Züge halten nur noch in Honrath, an der Oberbergischen Bahn von Köln nach Overath. Was es dagegen gibt: den Fernmeldeturm der Telekom im Ortsteil Birk. Für eine Stadt mit rund 31.000 Einwohnern ist das wenig Bahn. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Lohmar",
+"faktencheck": "korrigiert",
+"id": "347-lohmar/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "fränkischer Name, bergische Vergangenheit",
+"rang": 6,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Lohmar",
+"steckbrief": "Rechtsrheinische Stadt mit rund 31.000 Einwohnern, 15 km nordöstlich von Bonn.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Lohmar wurde einst von Römern als Lager gegründet.",
+"Die heutige Stadt wuchs aus mehreren Gemeinden zusammen.",
+"Lohmar gehörte früher zum bergischen Amt Blankenberg."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Römer liegen nahe, Bonn hatte ein Römerlager. Doch Lohmar liegt rechts des Rheins, und der Name gilt als fränkisch: Loh heißt Wald, Mar stehendes Gewässer oder Sumpf. Wahr ist: Die heutige Stadt wuchs 1969 aus Gemeinden wie Wahlscheid und Scheiderhöhe zusammen, und Lohmar gehörte zum Amt Blankenberg im Herzogtum Berg. Daran erinnert der Bergische Löwe oben im Stadtwappen. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Lohmar",
+"faktencheck": "korrigiert",
+"id": "347-lohmar/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Flächenstadt im Bonner Umland",
+"rang": 7,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Lohmar",
+"steckbrief": "Stadt mit rund 31.000 Einwohnern, 15 km nordöstlich von Bonn.",
+"frage": "Wie groß ist das Stadtgebiet von Lohmar?",
+"optionen": [
+"60 bis unter 90 km²",
+"40 bis unter 60 km²",
+"20 bis unter 40 km²",
+"unter 20 km²"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei rund 31.000 Einwohnern im Umland von Bonn denkt man an eine kompakte Stadt. Lohmar misst aber 65,62 Quadratkilometer. Mit rund 470 Einwohnern je Quadratkilometer ist es eher locker besiedelt, eine Stadt mit viel Raum zwischen ihren Ortsteilen. Richtig war 1.",
+"quelle": "Wikidata P2046; Altbestand staedte.json (Einwohner: Wikidata P1082, Stand 2025-12-31)",
+"faktencheck": "bestätigt",
+"id": "347-lohmar/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Kulturfest an 22 Orten",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lohmar",
+"steckbrief": "Stadt mit rund 31.000 Einwohnern, 15 km nordöstlich von Bonn.",
+"frage": "Die Lohmarer Kulturtage begannen als neuartige Festform. Wo fanden die 30 Veranstaltungen der Premiere statt?",
+"optionen": [
+"Alle in der Jabachhalle der Stadt.",
+"In einem Festzelt am Rathaus.",
+"An 22 Orten in der ganzen Stadt.",
+"Auf einer Bühne am Ufer der Agger."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Jabachhalle liegt nahe, denn auf ihrer Bühne begann die Premiere, mit Chören und dem Lohmarer Blasorchester. Die Veranstaltungen selbst verteilten sich aber auf 22 Orte der Stadt. So war das neue Fest von Anfang an in ganz Lohmar zu Gast. Richtig war 3.",
 "quelle": "Gemeinde-Webseite, www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/",
-"faktencheck": "unsicher",
-"id": "347-lohmar/v0.8/9",
+"faktencheck": "korrigiert",
+"id": "347-lohmar/v0.9/8",
 "tisch": false
 }
 ],
 "anschluss_von": "346-siegburg",
 "anschluss": [
-"Fläche: Lohmar ist fast dreimal so groß wie Siegburg.",
-"Bundestagswahl 2025: Die CDU war in Lohmar stärker als in Siegburg."
+"Lohmar hat weniger Einwohner als Siegburg, aber fast dreifache Fläche.",
+"In Lohmar war die Wahlbeteiligung 2025 höher als in Siegburg."
 ],
 "anschluesse": {
 "188-bonn": [
@@ -108028,8 +108484,8 @@ window.QA_DATEN = {
 "Sankt Augustin hat fast doppelt so viele Einwohner wie Lohmar."
 ],
 "346-siegburg": [
-"Fläche: Lohmar ist fast dreimal so groß wie Siegburg.",
-"Bundestagswahl 2025: Die CDU war in Lohmar stärker als in Siegburg."
+"Lohmar hat weniger Einwohner als Siegburg, aber fast dreifache Fläche.",
+"In Lohmar war die Wahlbeteiligung 2025 höher als in Siegburg."
 ],
 "348-roesrath": [
 "Rösrath und Lohmar sind fast gleich groß: rund 29.000 und 31.000 Einwohner."
@@ -108037,6 +108493,32 @@ window.QA_DATEN = {
 },
 "ags": "05382028",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rechtsrheinisch im südlichen Bergischen Land, 15 km nordöstlich von Bonn, an der Agger; das Stadtgebiet misst 65,62 Quadratkilometer."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Name von fränkischen Siedlern, einst bergisches Amt Blankenberg, 1969 aus sechs Gemeinden gebildet, Stadt seit 1991."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 31.000 Einwohner, Arbeitgeber wie GKN Walterscheid und Emitec, Einkaufszentrum Lohmarer Höfe; früher Erzgruben bei Honrath und Deesem."
+},
+{
+"facette": "FREIZEIT",
+"text": "Schloss Auel mit Golfplatz, Golfplatz Naafshäuschen, Jabachhalle, Villa Friedlinde, Naturschule im Aggerbogen, Naturschutzgebiete Naafbachtal und Wahner Heide."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhalt nur in Honrath an der Aggertalbahn, Fernmeldeturm in Birk, Gymnasium und Gesamtschule, ein Bürgerbus-Verein."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU mit 35,1 Prozent vorn, Wahlbeteiligung 86,6 Prozent, gut vier Punkte über dem Landeswert."
+}
+],
 "km_vom_vorigen": 4.5
 },
 {
@@ -108046,148 +108528,216 @@ window.QA_DATEN = {
 "lon": 7.18333,
 "karten": [
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Ortsname aus einem Hammerwerk",
+"rang": 4,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Rösrath",
 "steckbrief": "Stadt mit rund 28.700 Einwohnern, 10 km südlich von Bergisch Gladbach.",
-"frage": "Im 16. Jahrhundert kam der evangelische Glaube ins Sülztal, mitten im sonst katholisch geprägten Rösrath. Wer brachte ihn mit?",
+"frage": "Woher hat der Rösrather Ortsteil Hoffnungsthal seinen Namen?",
 "optionen": [
-"Ein Wanderprediger aus der Schweiz brachte ihn.",
-"Söldner aus Schweden brachten ihn heim.",
-"Bergleute aus Sachsen brachten ihn mit.",
-"Ein Mönch aus Bayern predigte ihn."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein Prediger liegt nahe, denn so verbreitete sich die Reformation vielerorts. Ins Sülztal sollen aber sächsische Bergleute den evangelischen Glauben gebracht haben; sicher belegen lässt sich das nicht. Der Bergbau hatte hier Tradition, schon die Römer schürften am Lüderich. Die Kirchengemeinde Volberg wurde zum evangelischen Gegenpol im sonst katholischen Rösrath. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.roesrath.de/freizeit-kultur/kultur-partner/stadtgeschichte/",
-"faktencheck": "korrigiert",
-"id": "348-roesrath/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Rösrath",
-"steckbrief": "Stadt mit rund 28.700 Einwohnern, 10 km südlich von Bergisch Gladbach.",
-"frage": "Wie groß ist das Stadtgebiet von Rösrath?",
-"optionen": [
-"unter 12 km²",
-"12 bis unter 20 km²",
-"20 bis unter 30 km²",
-"30 km² und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Für eine Stadt dieser Größe in direkter Nachbarschaft zu Köln liegt eine kleine, dicht bebaute Fläche nahe. Rösrath hat aber 38,8 Quadratkilometer, dazu zählt viel Grün, etwa im Königsforst. Richtig war 4.",
-"quelle": "Wikidata P2046; Altbestand staedte.json",
-"faktencheck": "bestätigt",
-"id": "348-roesrath/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Rösrath",
-"steckbrief": "Stadt mit rund 28.700 Einwohnern, 10 km südlich von Bergisch Gladbach.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Schloss Eulenbroich war einst Amtssitz des Bürgermeisters.",
-"Schloss Eulenbroich beherbergte früher ein Mädcheninternat.",
-"Die Bergwerksgesellschaft Vieille Montagne kam aus Hamburg."
-],
-"art": "luege",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein Mädcheninternat im Schloss klingt am ehesten erfunden, stimmt aber: Eulenbroich war auch Amtssitz des Bürgermeisters und Altenheim. Der französische Name Vieille Montagne verrät die Lüge: Die Bergwerksgesellschaft, die am Lüderich Schürfrechte besaß, kam aus Lüttich. Die Lüge war 3.",
-"quelle": "Gemeinde-Webseite, www.roesrath.de/freizeit-kultur/kultur-partner/stadtgeschichte/",
-"faktencheck": "bestätigt",
-"id": "348-roesrath/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Rösrath",
-"steckbrief": "Stadt mit rund 28.700 Einwohnern, 10 km südlich von Bergisch Gladbach.",
-"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Rösrath bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 28 %",
-"28 bis unter 34 %",
-"34 bis unter 40 %",
-"40 % und mehr"
+"Eine Heilquelle weckte Hoffnung auf Genesung.",
+"Ein Hammerwerk brachte dem armen Sülztal Aufschwung.",
+"Pilger fanden dort Zuflucht vor einer Seuche.",
+"Auswanderer sammelten sich dort vor der Überfahrt."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ein höherer Wert liegt nahe, denn Vororte im Bergischen gelten oft als CDU-Hochburgen. In Rösrath holte die CDU 32,2 Prozent der Zweitstimmen; zweitstärkste Partei wurde die SPD. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "348-roesrath/v0.8/4",
+"rueckseite": "Du hattest [Option] getippt. Bei so einem Namen denkt man an Heilung oder Rettung, an Pilger oder Kranke. Tatsächlich steht ein Betrieb dahinter: der Hoffnungsthaler Hammer, ein metallverarbeitender Betrieb. Seine hoffnungsvolle Entwicklung hob den Lebensstandard im armen Sülztal, und so ging sein Name auf den Ort über. Wer heute durch Hoffnungsthal fährt, fährt durch einen Ortsnamen, den die Industrie geprägt hat. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.roesrath.de/freizeit-kultur/kultur-partner/stadtgeschichte/",
+"faktencheck": "unsicher",
+"id": "348-roesrath/v0.9/1",
 "tisch": false
 },
 {
-"familie": "A",
+"facette": "FREIZEIT",
+"charakteristikum": "Schloss am See als Wahrzeichen",
+"rang": 6,
+"familie": "D",
 "sorte": "Geschichte",
 "ort": "Rösrath",
 "steckbrief": "Stadt mit rund 28.700 Einwohnern, 10 km südlich von Bergisch Gladbach.",
-"frage": "1890 bekam das Sülztal eine Eisenbahn von Bensberg aus. Wer hat sie im Wesentlichen bezahlt?",
+"frage": "Welches dieser Ausflugsziele gibt es in Rösrath?",
 "optionen": [
-"Die armen Bauern des Tals legten zusammen.",
-"Ein Adliger ließ sie für Jagdgäste bauen.",
-"Ein Metallbetrieb und eine Bergwerksgesellschaft zahlten sie.",
-"Ein Wanderverein wollte Ausflügler ins Tal holen."
+"eine Sommerrodelbahn am Hang",
+"ein Freizeitpark mit Achterbahn",
+"ein Schloss an einem kleinen See",
+"ein Tropenhaus mit Schmetterlingen"
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein Ausflugsverein liegt nahe, denn an der Sülz treibt man heute gern Sport an der frischen Luft. Bezahlt haben sie aber im Wesentlichen zwei Unternehmen: die Hoffnungsthaler Firma Reusch, ein Metallbetrieb, und die Bergwerksgesellschaft Altenberg (Vieille Montagne). Die Firma Reusch half, den Lebensstandard im einst bitterarmen Sülztal zu heben. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.roesrath.de/freizeit-kultur/kultur-partner/stadtgeschichte/",
+"rueckseite": "Du hattest [Option] getippt. Am Rand des Bergischen Landes läge eine Rodelbahn am Hang nahe. Gemeint ist aber Schloss Eulenbroich, an einem kleinen See und eingebettet in einen Park. Es diente schon als Amtssitz des Bürgermeisters, Mädcheninternat und Altenheim und ist heute ein beliebter Veranstaltungsort. Überregional ist Rösrath vor allem für dieses Schloss bekannt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.roesrath.de/freizeit-kultur/tourismus/stadtportrait/ und www.roesrath.de/freizeit-kultur/tourismus/ausflugsziele/",
 "faktencheck": "korrigiert",
-"id": "348-roesrath/v0.8/5",
+"id": "348-roesrath/v0.9/2",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "LAGE",
+"charakteristikum": "Stadt an der Sülz",
+"rang": 10,
+"familie": "A",
+"sorte": "Geschichte",
 "ort": "Rösrath",
-"steckbrief": "Stadt mit rund 28.700 Einwohnern, 10 km südlich von Bergisch Gladbach.",
-"frage": "Wie weit ist es von Rösrath in Luftlinie bis zur Landeshauptstadt Düsseldorf?",
+"steckbrief": "Stadt mit rund 28.700 Einwohnern zwischen Köln und dem Bergischen Land, 10 km südlich von Bergisch Gladbach.",
+"frage": "Durch Rösrath fließt die Sülz. In welchen Fluss mündet sie?",
 "optionen": [
-"unter 20 km",
-"20 bis unter 30 km",
-"30 bis unter 40 km",
-"40 km und mehr"
+"Sie mündet direkt in den Rhein.",
+"Sie mündet in die Wupper.",
+"Sie mündet in die Sieg.",
+"Sie mündet in die Agger."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Weil Rösrath in direkter Nachbarschaft zu Köln liegt und Köln und Düsseldorf oft in einem Atemzug genannt werden, schätzt man die Landeshauptstadt gern näher. In Luftlinie sind es aber 46 Kilometer. Richtig war 4.",
-"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
-"faktencheck": "bestätigt",
-"id": "348-roesrath/v0.8/6",
+"rueckseite": "Du hattest [Option] getippt. Die Sieg liegt nahe, denn dorthin gelangt das Wasser am Ende, allerdings erst über die Agger: Die Sülz ist ein Nebenfluss der Agger. Sie schlängelt sich durch Lindlar, Overath, Rösrath und Lohmar, vorbei an Wiesen und Wäldern. Für Rösrath ist sie der grüne Faden; entlang der Sülz kann man wandern und Rad fahren. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.roesrath.de/freizeit-kultur/freizeit/erholungsgebiete/",
+"faktencheck": "korrigiert",
+"id": "348-roesrath/v0.9/3",
 "tisch": false
 },
 {
+"facette": "ALLTAG",
+"charakteristikum": "letzte Kornbrennerei im Bergischen",
+"rang": 3,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Rösrath",
+"steckbrief": "Stadt mit rund 28.700 Einwohnern, 10 km südlich von Bergisch Gladbach.",
+"frage": "Welchen dieser Betriebe gibt es in Rösrath?",
+"optionen": [
+"eine Kornbrennerei",
+"eine Sektkellerei",
+"eine Porzellanmanufaktur",
+"eine Schokoladenfabrik"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. So nahe an Köln denkt man eher an Schokolade. In Rösrath gibt es aber eine Kornbrennerei: Hoffer Alter auf dem alten Hofferhof, in fünfter Generation betrieben. Die Stadt nennt sie die letzte Kornbrennerei des Bergischen Landes. Dass sich hier ein ländliches Handwerk hält, passt zu Rösraths Lage zwischen Köln und Bergischem Land. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.roesrath.de/freizeit-kultur/tourismus/ausflugsziele/",
+"faktencheck": "korrigiert",
+"id": "348-roesrath/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Partner und Wege Richtung Westen",
+"rang": 9,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Rösrath",
+"steckbrief": "Stadt mit rund 28.700 Einwohnern zwischen Köln und dem Bergischen Land, 10 km südlich von Bergisch Gladbach.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Bahn nach Köln hält an drei Stellen im Stadtgebiet.",
+"Rösraths Partnergemeinden liegen in Polen und Tschechien.",
+"Rösrath hat einen direkten Anschluss an die Autobahn A3."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Gelogen war die Sache mit Polen und Tschechien, auch wenn viele Städte Partner im Osten haben. Rösrath pflegt seine Partnerschaften im Westen: mit Veurne in Belgien und mit dem Pays de Gallie in Frankreich. Die Bahn nach Köln hält an drei Stellen in der Stadt, und über die A3 ist Rösrath direkt mit Köln, Düsseldorf, dem Ruhrgebiet und Aachen verbunden. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.roesrath.de/freizeit-kultur/kultur-partner/partnerstaedte/ und www.roesrath.de/rathaus-buergerservice/verwaltung/wirtschaftsfoerderung/",
+"faktencheck": "korrigiert",
+"id": "348-roesrath/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "tiefgelegenes Tor zum Bergischen",
+"rang": 7,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rösrath",
+"steckbrief": "Stadt mit rund 28.700 Einwohnern zwischen Köln und dem Bergischen Land, 10 km südlich von Bergisch Gladbach.",
+"frage": "Wie hoch über dem Meeresspiegel liegt Rösrath?",
+"optionen": [
+"200 m und mehr",
+"150 bis unter 200 m",
+"100 bis unter 150 m",
+"unter 100 m"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer Bergisches Land hört, rechnet mit Höhe, und tatsächlich führt im Stadtgebiet ein Wanderweg hinauf auf den Lüderich. Die Stadt selbst liegt aber je nach Quelle nur auf 89 bis 92 Metern. Das passt zu Rösrath, das als Tor zum Bergischen Land gilt: Der Ort liegt noch tief, die Höhen beginnen hier erst. Richtig war 4.",
+"quelle": "GRUNDDATEN hoehe_m (Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite); Gemeinde-Webseite, www.roesrath.de/freizeit-kultur/tourismus/ausflugsziele/",
+"faktencheck": "korrigiert",
+"id": "348-roesrath/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Badewannenrennen auf der Sülz",
+"rang": 2,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Rösrath",
 "steckbrief": "Stadt mit rund 28.700 Einwohnern, 10 km südlich von Bergisch Gladbach.",
-"frage": "Rösrath nennt sich selbst die jüngste Stadt im Bergischen. Seit wann trägt es den Titel Stadt?",
+"frage": "Am ersten Maiwochenende gibt es auf der Sülz in Hoffnungsthal ein Rennen. Womit fahren die Teilnehmenden?",
 "optionen": [
-"Seit 2001 ist Rösrath eine Stadt.",
-"Seit 1975 ist Rösrath eine Stadt.",
-"Seit 1956 ist Rösrath eine Stadt.",
-"Seit 1929 ist Rösrath eine Stadt."
+"Sie fahren in Badewannen.",
+"Sie fahren in Drachenbooten.",
+"Sie paddeln in Kajaks.",
+"Sie treiben auf Luftmatratzen."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein früheres Jahr liegt nahe, denn der Ort selbst ist viel älter. Den Titel Stadt trägt Rösrath aber erst seit dem 1. Januar 2001, und zwar als Mittlere kreisangehörige Stadt, eine Stufe im Gemeinderecht von Nordrhein-Westfalen. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.roesrath.de/freizeit-kultur/kultur-partner/stadtgeschichte/",
-"faktencheck": "unsicher",
-"id": "348-roesrath/v0.8/7",
+"rueckseite": "Du hattest [Option] getippt. Bei einem Rennen auf einem Fluss denkt man an Boote oder Flöße. In Hoffnungsthal sind es Badewannen: Seit vielen Jahren findet auf der Sülz das Badewannenrennen statt. So wird der idyllische Fluss, der sich durch Rösrath schlängelt, einmal im Jahr zur Rennstrecke für ein Fest, das man nicht vergisst. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.roesrath.de/freizeit-kultur/freizeit/erholungsgebiete/",
+"faktencheck": "bestätigt",
+"id": "348-roesrath/v0.9/8",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Erzbergbau am Lüderich",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rösrath",
+"steckbrief": "Stadt mit rund 28.700 Einwohnern, 10 km südlich von Bergisch Gladbach.",
+"frage": "Auf dem Lüderich in Rösrath lag ein Bergwerk. Was wurde dort gefördert?",
+"optionen": [
+"Dort wurde Steinkohle gefördert.",
+"Dort wurde Braunkohle gefördert.",
+"Dort wurden Erze gefördert.",
+"Dort wurde Schiefer gefördert."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei Bergbau im Rheinland denkt man an Kohle, an Ruhrgebiet oder Braunkohletagebau. Der Lüderich war aber ein Erzberg: Nachweislich schon seit der Römerzeit wurde hier Erz abgebaut, bis die Grube schloss. Vom Bergbau in Rösrath zeugt heute noch der Förderturm am Franziska-Schacht, erreichbar nur zu Fuß über Wanderwege. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.roesrath.de/freizeit-kultur/kultur-partner/stadtgeschichte/ und www.roesrath.de/freizeit-kultur/tourismus/ausflugsziele/",
+"faktencheck": "korrigiert",
+"id": "348-roesrath/v0.9/9",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Luftschutzstollen unter der Rotdornallee",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rösrath",
+"steckbrief": "Stadt mit rund 28.700 Einwohnern, 10 km südlich von Bergisch Gladbach.",
+"frage": "In der Rotdornallee in Hoffnungsthal führt ein Stollen in den Berg. Wofür wurde er angelegt?",
+"optionen": [
+"Er diente dem Abbau von Bleierz.",
+"Er diente als Schutzraum bei Luftangriffen.",
+"Er diente einer Brauerei als Lagerkeller.",
+"Er diente der Wasserversorgung des Orts."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Stollen denkt man zuerst an Bergbau. Dieser entstand aber im Zweiten Weltkrieg als Luftschutzanlage und ist heute ein Gedenk- und Lernort. Wer durch die Rotdornallee fährt, kommt an einem Schutzraum vorbei, der für bis zu 800 Menschen ausgelegt war. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.roesrath.de/freizeit-kultur/tourismus/ausflugsziele/",
+"faktencheck": "korrigiert",
+"id": "348-roesrath/v0.9/10",
 "tisch": false
 }
 ],
 "anschluss_von": "347-lohmar",
 "anschluss": [
-"Kennzeichen: In Lohmar steht SU am Auto, in Rösrath GL."
+"Die Sülz fließt sowohl durch Rösrath als auch durch Lohmar.",
+"Lohmar ist flächenmäßig deutlich größer als Rösrath, bei ähnlicher Einwohnerzahl."
 ],
 "anschluesse": {
 "188-bonn": [
@@ -108211,11 +108761,38 @@ window.QA_DATEN = {
 "Siegburg hat anderthalbmal so viele Einwohner wie Rösrath."
 ],
 "347-lohmar": [
-"Kennzeichen: In Lohmar steht SU am Auto, in Rösrath GL."
+"Die Sülz fließt sowohl durch Rösrath als auch durch Lohmar.",
+"Lohmar ist flächenmäßig deutlich größer als Rösrath, bei ähnlicher Einwohnerzahl."
 ]
 },
 "ags": "05378028",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 28.700 Einwohner auf 38,8 Quadratkilometern, an der Sülz zwischen Köln und Bergischem Land, zur Hälfte Wald."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Seit 2001 Stadt, erstmals urkundlich erwähnt 1356; Hoffnungsthal hieß früher Volberg, in Forsbach gibt es mittelsteinzeitliche Siedlungsspuren."
+},
+{
+"facette": "ALLTAG",
+"text": "Früher Erzbergbau am Lüderich und ein Hammerwerk in Hoffnungsthal, heute die Kornbrennerei Hoffer Alter im Hofferhof."
+},
+{
+"facette": "FREIZEIT",
+"text": "Schloss Eulenbroich, Freibad Hoffnungsthal, Bergischer Weg, Wahner Heide mit Heideportal Turmhof, Königsforst und Skulpturengarten."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhöfe Rösrath und Hoffnungsthal an der Oberbergischen Bahn nach Köln, Autobahnanschluss in Scharrenbroich, Partner in Belgien und Frankreich."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU vorn mit 32,2 Prozent, Wahlbeteiligung 86,2 Prozent, vier Punkte über dem Landesschnitt."
+}
+],
 "km_vom_vorigen": 6.9
 },
 {
@@ -108225,31 +108802,151 @@ window.QA_DATEN = {
 "lon": 7.01667,
 "karten": [
 {
+"facette": "ALLTAG",
+"charakteristikum": "Färberei an der Wupper",
+"rang": 4,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Leichlingen",
-"steckbrief": "Stadt mit rund 28.000 Einwohnern, 8 km südwestlich von Solingen.",
-"frage": "Welche Bauten prägen laut Stadt die Denkmallandschaft Leichlingens?",
+"steckbrief": "Leichlingen hat rund 28.000 Einwohner und liegt 8 km südwestlich von Solingen.",
+"frage": "Die Firma A. Weyermann & Söhne betrieb im 19. Jahrhundert in Leichlingen einen Großbetrieb. Was tat man dort?",
 "optionen": [
-"Backsteinbauten nach niederrheinischer Art prägen sie.",
-"Fachwerkbauten vom Bauernhof bis zum Bürgerhaus prägen sie.",
-"Gründerzeitliche Mietshäuser prägen sie.",
-"Siedlungshäuser der Nachkriegszeit prägen sie."
+"Dort wurden Textilien rot gefärbt.",
+"Dort wurde Papier hergestellt.",
+"Dort wurde Bier gebraut.",
+"Dort wurden Äpfel zu Saft gepresst."
 ],
 "art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Backstein liegt nahe, denn im Rheinland baut man vielerorts mit Ziegeln. Die Stadt selbst spricht aber von bergischer Wohnkultur: Fachwerkbauten prägen ihre Denkmallandschaft, von bäuerlichen Hofanlagen bis zu Bürgerhäusern. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.leichlingen.de/bauen-wirtschaft-und-mobilitaet/denkmalschutz/denkmallandschaft",
-"faktencheck": "bestätigt",
-"id": "349-leichlingen/v0.8/1",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Saft läge nahe, denn Leichlingen ist für sein Obst bekannt. Doch die Firma A. Weyermann & Söhne betrieb hier eine Großfärberei. Sie färbte Garn in Türkischrot, einem kräftigen Rot aus der Krappwurzel. 1890 übernahm die Opladener Türkischrot-Färberei Römer den Betrieb. Die Fabrikbauten an der Wupper sind längst abgerissen. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Leichlingen_(Rheinland)",
+"faktencheck": "korrigiert",
+"id": "349-leichlingen/v0.9/1",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "kurze Luftschiff-Ära um 1910",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leichlingen",
+"steckbrief": "Leichlingen hat rund 28.000 Einwohner und liegt 8 km südwestlich von Solingen.",
+"frage": "Um 1910 galt Leichlingen als „Friedrichshafen des Bergischen Landes“. Was beendete diese Zeit?",
+"optionen": [
+"Oskar Erbslöh wanderte nach Amerika aus.",
+"Ein Luftschiff stürzte nach einem Riss der Hülle ab.",
+"Das Militär beschlagnahmte alle Luftschiffe.",
+"Der Kaiser verbot Flüge über dem Rheinland."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Eingriff von oben liegt nahe, denn Luftschiffe galten damals auch als Kriegsgerät. Doch das Ende kam mit einem Unglück. Am 13. Juli 1910 durchbrach das Luftschiff „Erbslöh“ den Nebel. In der Sonnenwärme entstand vermutlich ein Überdruck, der die Hülle zerriss. Alle fünf Männer an Bord starben, auch Oskar Erbslöh. Seine Halle stand im Ortsteil Balken. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Leichlingen_(Rheinland)",
+"faktencheck": "korrigiert",
+"id": "349-leichlingen/v0.9/2",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Obstweg mit Sortenschildern",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leichlingen",
+"steckbrief": "Leichlingen hat rund 28.000 Einwohner und liegt 8 km südwestlich von Solingen.",
+"frage": "Der Leichlinger Obstweg ist ein Rundweg von rund neun Kilometern durch Wälder und vorbei an bergischen Dörfern. Welches Zeichen weist den Weg?",
+"optionen": [
+"Eine Blüte markiert den Weg.",
+"Eine Birne markiert den Weg.",
+"Ein Apfel markiert den Weg.",
+"Eine Raute mit Ziffer 6 markiert den Weg."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Blüte läge nahe, denn Obstbäume fallen vor allem zur Blütezeit auf. Doch den Obstweg markiert ein Apfelsymbol, ebenso den kürzeren Witzheldener Obstweg. Unterwegs informieren Tafeln und Sortenschilder über den Lebensraum Obstwiese und über alte Obstsorten. Dass eine Stadt einen eigenen Rundweg ihren Obstwiesen widmet, zeigt, wie sehr sie zwischen Wald und bergischen Dörfern zu Leichlingen gehören. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.leichlingen.de/freizeit-und-tourismus/wandern/obstweg",
+"faktencheck": "korrigiert",
+"id": "349-leichlingen/v0.9/3",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Sendestandort Witzhelden",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leichlingen",
+"steckbrief": "Leichlingen hat rund 28.000 Einwohner und liegt 8 km südwestlich von Solingen.",
+"frage": "Im Leichlinger Ortsteil Witzhelden wurde 2017 ein über 200 Meter hohes Bauwerk gesprengt. Was war es?",
+"optionen": [
+"Es war ein Kraftwerksschornstein.",
+"Es war ein Windrad.",
+"Es war ein Funkmast des Militärs.",
+"Es war ein Sendemast fürs Fernsehen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Militärmast läge nahe, denn hohe Masten dienen oft dem Funk. Doch es war ein Sendemast für das Fernsehen, den die Witzheldener „Äu“ nannten. Er stand mehr als 50 Jahre. Weil er nicht mehr gebraucht wurde, sprengte man ihn am 7. November 2017. Betrieben hatte ihn zuletzt die Telekom-Tochter Deutsche Funkturm. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Leichlingen_(Rheinland)",
+"faktencheck": "korrigiert",
+"id": "349-leichlingen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Blütenstadt zwischen Bergland und Ebene",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leichlingen",
+"steckbrief": "Leichlingen hat rund 28.000 Einwohner und liegt 8 km südwestlich von Solingen.",
+"frage": "Seit 2013 trägt Leichlingen offiziell einen Zusatz zum Stadtnamen. Welchen?",
+"optionen": [
+"Der Zusatz lautet „Blütenstadt“.",
+"Der Zusatz lautet „Wupperstadt“.",
+"Der Zusatz lautet „Apfelstadt“.",
+"Der Zusatz lautet „Fachwerkstadt“."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. „Apfelstadt“ läge nahe, denn Leichlingen lieferte schon im 15. Jahrhundert Obst auf den Kölner Markt. Der offizielle Zusatz lautet seit 2013 aber „Blütenstadt“. Die Stadt liegt am Übergang vom Bergischen Land zur Niederrheinischen Tiefebene, und Obstwiesen prägen ihre Landschaft. Wer im Frühjahr vorbeifährt, kann sich den Beinamen leicht erklären. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Leichlingen_(Rheinland)",
+"faktencheck": "korrigiert",
+"id": "349-leichlingen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Wupperfisch im Stadtwappen",
+"rang": 7,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Leichlingen",
+"steckbrief": "Leichlingen hat rund 28.000 Einwohner und liegt 8 km südwestlich von Solingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Kirche und Hof Leichlingens wurden einst dem Kloster Deutz geschenkt.",
+"Schon im Mittelalter wurde in Leichlingen in Schleifereien gearbeitet.",
+"Im Leichlinger Stadtwappen erinnert ein Apfelzweig an den Obstanbau."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Apfel klingt nach Leichlingens Obstwiesen, doch das Wappen erzählt von etwas anderem. Oben steht der rote bergische Löwe, unten ein silberner Fisch mit roten Flossen. Der Fisch erinnert an den einstigen Fischreichtum der Wupper und stammt aus dem Wappen der Familie von Vorst. So verbindet das Wappen die Zugehörigkeit zu Berg mit dem Fluss. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Leichlingen_(Rheinland)",
+"faktencheck": "korrigiert",
+"id": "349-leichlingen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "dicht besiedelt trotz Obstwiesen",
+"rang": 8,
 "familie": "C",
 "sorte": "Klassiker",
 "ort": "Leichlingen",
-"steckbrief": "Stadt mit rund 28.000 Einwohnern, 8 km südwestlich von Solingen.",
-"frage": "Wie viele Einwohner leben in Leichlingen auf einem Quadratkilometer?",
+"steckbrief": "Leichlingen hat rund 28.000 Einwohner und liegt 8 km südwestlich von Solingen.",
+"frage": "Wie viele Einwohner leben in Leichlingen im Schnitt auf einem Quadratkilometer?",
 "optionen": [
 "unter 300",
 "300 bis unter 600",
@@ -108258,116 +108955,40 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Neben der Großstadt Solingen erwartet man leicht eine dichte Vorstadt mit vierstelligem Wert. Auf einen Quadratkilometer Leichlingen kommen aber 757 Einwohner, berechnet aus Einwohnerzahl und Stadtfläche. Richtig war 3.",
-"quelle": "GRUNDDATEN dichte_ew_km2, berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"rueckseite": "Du hattest [Option] getippt. Wer an Obstwiesen und Wälder denkt, schätzt eher niedrig. Doch Ende 2025 lebten 28.205 Menschen auf 37,26 Quadratkilometern, das sind 757 je Quadratkilometer. Das passt zur Lage in der Metropolregion Rhein-Ruhr zwischen Solingen, Leverkusen und Langenfeld: Leichlingen ist trotz seiner Obstwiesen eine Mittelstadt nah an den großen Städten. Richtig war 3.",
+"quelle": "GRUNDDATEN, berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
 "faktencheck": "bestätigt",
-"id": "349-leichlingen/v0.8/2",
+"id": "349-leichlingen/v0.9/7",
 "tisch": false
 },
 {
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Leichlingen",
-"steckbrief": "Stadt mit rund 28.000 Einwohnern, 8 km südwestlich von Solingen.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Der Denkmalbereich „Dorf“ liegt im Ortsteil Witzhelden.",
-"Auch Ritter- und Adelssitze stehen unter Denkmalschutz.",
-"Auch technische Bauwerke stehen unter Denkmalschutz."
-],
-"art": "luege",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Der Name „Dorf“ klingt nach dem ländlichen Witzhelden, doch dort gilt ein eigener Denkmalbereich. Das „Dorf“ ist ein geschütztes Ensemble im Leichlinger Ortskern an Marktstraße und Mittelstraße. Ritter- und Adelssitze sowie technische Bauwerke gehören tatsächlich zur Leichlinger Denkmallandschaft. Die Lüge war 1.",
-"quelle": "Gemeinde-Webseite, www.leichlingen.de/bauen-wirtschaft-und-mobilitaet/denkmalschutz/denkmallandschaft (WÖRTER RÜCKSEITE: 46. Vermerk: Der Negativnachweis für Option 1 stützt sich jetzt auf die eigene Satzung „Denkmalbereich Witzhelden“ der Gemeinde.)",
-"faktencheck": "korrigiert",
-"id": "349-leichlingen/v0.8/3",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Leichlingen",
-"steckbrief": "Stadt mit rund 28.000 Einwohnern, 8 km südwestlich von Solingen.",
-"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Leichlingen nach Zweitstimmen zweitstärkste Kraft?",
-"optionen": [
-"SPD",
-"Grüne",
-"AfD",
-"FDP"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Die AfD wurde bundesweit Zweite, daher liegt sie als Tipp nahe. In Leichlingen folgte hinter der CDU mit 33 Prozent aber die SPD mit 19 Prozent, vor Grünen mit 14,7 und AfD mit 14,2 Prozent. Richtig war 1.",
-"quelle": "GRUNDDATEN wahl_btw25, Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "349-leichlingen/v0.8/4",
-"tisch": false
-},
-{
+"facette": "FREIZEIT",
+"charakteristikum": "Schießsport-Zentrum mit Landesverband",
+"rang": 2,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Leichlingen",
-"steckbrief": "Stadt mit rund 28.000 Einwohnern, 8 km südwestlich von Solingen.",
-"frage": "Einer der beiden Denkmalbereiche Leichlingens liegt im Stadtteil Witzhelden. Was steht dort als Denkmalbereich unter Schutz?",
+"steckbrief": "Leichlingen hat rund 28.000 Einwohner und liegt 8 km südwestlich von Solingen.",
+"frage": "In Leichlingen hat der Landesverband einer Sportart seine Geschäftsstelle. Welche Sportart?",
 "optionen": [
-"Eine alte Hofanlage am Ortsrand steht unter Schutz.",
-"Der Ortskern des Stadtteils steht unter Schutz.",
-"Eine Mühle samt Wehr und Graben steht unter Schutz.",
-"Eine Bergarbeitersiedlung steht unter Schutz."
+"Es ist der Kanusport.",
+"Es ist der Schießsport.",
+"Es ist der Radsport.",
+"Es ist der Reitsport."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Bei Denkmalschutz denkt man zuerst an ein einzelnes Gebäude, etwa einen alten Hof. Ein Denkmalbereich schützt dagegen ein ganzes Ensemble aus Häusern, Straßen und Plätzen. In Witzhelden ist das der Ortskern des Stadtteils. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.leichlingen.de/bauen-wirtschaft-und-mobilitaet/denkmalschutz/denkmallandschaft",
-"faktencheck": "bestätigt",
-"id": "349-leichlingen/v0.8/5",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Leichlingen",
-"steckbrief": "Stadt mit rund 28.000 Einwohnern, 8 km südwestlich von Solingen.",
-"frage": "Wie groß ist das Stadtgebiet von Leichlingen?",
-"optionen": [
-"unter 15 km²",
-"15 bis unter 30 km²",
-"30 bis unter 45 km²",
-"45 km² und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Neben einer Großstadt wie Solingen wirkt Leichlingen klein, also tippt man eher niedrig. Das Stadtgebiet misst aber 37,26 Quadratkilometer. Richtig war 3.",
-"quelle": "GRUNDDATEN flaeche_km2, Wikidata P2046",
-"faktencheck": "bestätigt",
-"id": "349-leichlingen/v0.8/6",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Leichlingen",
-"steckbrief": "Stadt mit rund 28.000 Einwohnern, 8 km südwestlich von Solingen.",
-"frage": "Welches Kennzeichen tragen die meisten Autos in Leichlingen?",
-"optionen": [
-"SG",
-"LEV",
-"ME",
-"GL"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Solingen ist die nächste Großstadt, also liegt SG nahe. Das Hauptkennzeichen in Leichlingen ist aber GL, das Kürzel für Bergisch Gladbach. Richtig war 4.",
-"quelle": "GRUNDDATEN kfz, Wikidata P395",
-"faktencheck": "bestätigt",
-"id": "349-leichlingen/v0.8/7",
+"rueckseite": "Du hattest [Option] getippt. Kanusport läge nahe, denn die Wupper fließt durch die Stadt. Doch in Leichlingen sitzt die Geschäftsstelle des Rheinischen Schützenbunds, des Landesverbands der Sportschützen. Auch Vereine wie die Balker Schießgesellschaft und der Schützenverein Trompete pflegen hier den Schießsport. Für eine Stadt mit rund 28.000 Einwohnern ist das ein bemerkenswertes Gewicht. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Leichlingen_(Rheinland)",
+"faktencheck": "korrigiert",
+"id": "349-leichlingen/v0.9/8",
 "tisch": false
 }
 ],
 "anschluss_von": "348-roesrath",
 "anschluss": [
-"Einwohner Ende 2025: Rösrath zählt knapp 500 mehr als Leichlingen.",
-"Bundestagswahl 2025: In Leichlingen wählten 86,8 Prozent, in Rösrath 86,2."
+"Leichlingen und Rösrath haben fast gleich viele Einwohner, rund 28.000.",
+"Leichlingen und Rösrath tragen beide das Kennzeichen GL."
 ],
 "anschluesse": {
 "192-koeln": [
@@ -108400,12 +109021,38 @@ window.QA_DATEN = {
 "Wülfrath liegt rund 210 Meter höher als Leichlingen."
 ],
 "348-roesrath": [
-"Einwohner Ende 2025: Rösrath zählt knapp 500 mehr als Leichlingen.",
-"Bundestagswahl 2025: In Leichlingen wählten 86,8 Prozent, in Rösrath 86,2."
+"Leichlingen und Rösrath haben fast gleich viele Einwohner, rund 28.000.",
+"Leichlingen und Rösrath tragen beide das Kennzeichen GL."
 ]
 },
 "ags": "05378016",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Leichlingen liegt an der Wupper zwischen Solingen, Leverkusen, Langenfeld und Burscheid und hat rund 28.000 Einwohner auf gut 37 km²."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Stadtrechte seit 1856, Witzhelden gehört seit 1975 dazu, und um 1910 war Leichlingen kurz die „Stadt der jungen Luftfahrt“."
+},
+{
+"facette": "ALLTAG",
+"text": "Früher prägten Färberei, Webereien und Metallbetriebe die Stadt; Kronenberg Profil beim Bahnhof besteht noch."
+},
+{
+"facette": "FREIZEIT",
+"text": "Blütenbad, Obstmarkt im Oktober, Obstweg, Wupperweg, Balkantrasse, elf Karnevalsvereine und ein Zentrum für Schießsport."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof an der Strecke Gruiten–Köln, Anschluss an die A 3, Fernmeldeturm Witzhelden, Reha-Klinik Roderbirken."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU vorn mit 33 Prozent, Wahlbeteiligung 86,8 Prozent, deutlich über dem Landeswert von 82,2."
+}
+],
 "km_vom_vorigen": 26.8
 },
 {
@@ -108628,169 +109275,170 @@ window.QA_DATEN = {
 "lon": 6.93944,
 "karten": [
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Heimat eines Begründers der Chirurgie",
+"rang": 2,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Hilden",
 "steckbrief": "Stadt mit rund 55.000 Einwohnern, 10 km westlich von Solingen.",
-"frage": "Eine mittelalterliche Urkunde belegt, dass es in Hilden schon 985 einen Hof gab. Wem gehörte er?",
+"frage": "Wilhelm Fabry aus Hilden lebte von 1560 bis 1634. Als Begründer wovon gilt er in Deutschland?",
 "optionen": [
-"Dem Bischof von Münster.",
-"Dem Erzbischof von Trier.",
-"Der Abtei Fulda.",
-"Dem Erzbischof von Köln."
+"Er gilt als Begründer der Homöopathie in Deutschland.",
+"Er gilt als Begründer der Pockenimpfung in Deutschland.",
+"Er gilt als Begründer der wissenschaftlichen Chirurgie in Deutschland.",
+"Er gilt als Begründer des Gehörlosenunterrichts in Deutschland."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wilhelm Fabry war Wundarzt und gilt als Begründer der wissenschaftlichen Chirurgie in Deutschland, weil er neue Instrumente und Operationsmethoden entwickelte. Die Homöopathie liegt nahe, weil sie ebenfalls in Deutschland entstand, aber erst um 1800, lange nach Fabrys Tod. Für eine Stadt mit rund 55.000 Einwohnern ist das ein Name, der weit in die Medizingeschichte reicht. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/; Deutsche Biographie, www.deutsche-biographie.de/118531751.html",
+"faktencheck": "korrigiert",
+"id": "351-hilden/v0.9/1",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Kornbrennerei mit Dampfmaschine im Museum",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hilden",
+"steckbrief": "Rund 55.000 Einwohner, 10 km westlich von Solingen.",
+"frage": "Zum Wilhelm-Fabry-Museum gehört ein Industriedenkmal mit alter Dampfmaschine. Was wurde dort früher hergestellt?",
+"optionen": [
+"Dort wurde früher Garn gesponnen.",
+"Dort wurde früher Papier hergestellt.",
+"Dort wurde früher Bier gebraut.",
+"Dort wurde früher Korn gebrannt."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Klöster und Bistümer besaßen im Mittelalter weit verstreut Land, darum liegt ein ferner Herr nahe. Der Hof gehörte aber dem Erzbischof von Köln. Menschen lebten hier schon in der Stein-, Bronze- und Eisenzeit. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/",
-"faktencheck": "korrigiert",
-"id": "351-hilden/v0.8/1",
+"rueckseite": "Du hattest [Option] getippt. Zum Museum gehört die Brennerei Vogelsang, eine historische Kornbrennerei. Sie zeigt, wie früher Korn und andere Spirituosen hergestellt wurden; eine Dampfmaschine ist darin eingebaut. Bier liegt nahe, weil Brauerei und Brennerei ähnlich klingen und beide Getreide verarbeiten, doch Bier wird gebraut, Korn gebrannt. So zeigt das Museum neben Kunst und Medizin auch ein Stück Hildener Industriegeschichte. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.hilden.de/de/kultur-freizeit/kultureinrichtungen/wilhelm-fabry-museum/",
+"faktencheck": "bestätigt",
+"id": "351-hilden/v0.9/2",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "LAGE",
+"charakteristikum": "Itter durchzieht Stadt und Wappen",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
 "ort": "Hilden",
-"steckbrief": "Stadt in Nordrhein-Westfalen auf knapp 26 Quadratkilometern, 10 km westlich von Solingen.",
-"frage": "Wie viele Einwohner hatte Hilden Ende 2025?",
+"steckbrief": "Stadt mit rund 55.000 Einwohnern, 10 km westlich von Solingen.",
+"frage": "Hilden nennt sich selbst „Stadt an“ einem Fluss. Welcher Fluss ist es?",
 "optionen": [
-"unter 60.000",
-"60.000 bis unter 100.000",
-"100.000 bis unter 200.000",
-"200.000 und mehr"
+"Es ist die Itter.",
+"Es ist die Erft.",
+"Es ist die Niers.",
+"Es ist die Volme."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Hilden ist sehr dicht besiedelt und liegt nah an Düsseldorf, da schätzt man leicht zu hoch. Ende 2025 lebten 54.859 Menschen in der Stadt. Richtig war 1.",
-"quelle": "Wikidata P1082, Stand 2025-12-31",
-"faktencheck": "bestätigt",
-"id": "351-hilden/v0.8/2",
+"rueckseite": "Du hattest [Option] getippt. Die Stadt begrüßt ihre Gäste als „Stadt an der Itter“. Die Erft liegt nahe, weil sie als Fluss im Rheinland bekannter ist. Hildens eigener Fluss ist aber die kleine Itter. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "351-hilden/v0.9/3",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Reformationskirche mit katholischem Patron",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hilden",
+"steckbrief": "Stadt mit rund 55.000 Einwohnern, 10 km westlich von Solingen.",
+"frage": "Die Reformationskirche in Hilden ist viel älter als die Reformation. Wem war sie ursprünglich geweiht?",
+"optionen": [
+"Sie war dem heiligen Nikolaus geweiht.",
+"Sie war dem heiligen Petrus geweiht.",
+"Sie war dem heiligen Jacobus geweiht.",
+"Sie war Johannes dem Täufer geweiht."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die heutige Reformationskirche war ursprünglich dem heiligen Jacobus geweiht. Petrus liegt nahe, weil er Patron vieler alter Kirchen ist. Den Namen des Heiligen trägt heute die katholische Kirchengemeinde St. Jacobus in Hilden: ein Heiliger, zwei Gemeinden, eine Stadt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "351-hilden/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Polizeigewerkschaft und tschechische Partnerstadt",
+"rang": 7,
 "familie": "B",
 "sorte": "Geschichte",
 "ort": "Hilden",
-"steckbrief": "Stadt mit rund 55.000 Einwohnern, 10 km westlich von Solingen.",
-"frage": "Drei Aussagen über das Stadtwappen von Hilden. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"steckbrief": "Rund 55.000 Einwohner, 10 km westlich von Solingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Der rote Balken stammt aus dem bergischen Landeswappen.",
-"Das silberne Band steht für die Itter.",
-"Das Kammrad steht für die Landwirtschaft."
+"In Hilden hat die Polizeigewerkschaft GdP ihren Verwaltungssitz.",
+"Die Partnerstadt Nové Město nad Metují ist polnisch.",
+"Der Bahnhof Hilden liegt im Westen der Stadt."
 ],
 "art": "luege",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Die Itter klingt erfunden, ist aber der Fluss, der durch Hilden fließt; ihn zeigt das silberne Band. Das Kammrad, ein Zahnrad, steht für die Industrie, die Sichel für die Landwirtschaft. Der rote Balken aus dem Wappen der Grafen von Berg zeigt die Zugehörigkeit zum Bergischen Land. Die Lüge war 3.",
-"quelle": "Gemeinde-Webseite, www.hilden.de/de/stadt-rathaus/die-stadt/stadtwappen-logo/",
-"faktencheck": "bestätigt",
-"id": "351-hilden/v0.8/3",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Nové Město nad Metují liegt in Tschechien. Polen liegt nahe, weil beide Sprachen verwandt klingen; auf Polnisch hieße eine Neustadt aber Nowe Miasto. Wahr ist: Die Gewerkschaft der Polizei hat ihren politischen Sitz in Berlin und ihren Verwaltungssitz in Hilden, und der Bahnhof liegt im Westen der Stadt. Für eine Stadt mit rund 55.000 Einwohnern ist ein Bundessitz neben Berlin bemerkenswert. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.hilden.de/de/stadt-rathaus/die-stadt/staedtepartnerschaften/; Satzung der GdP; LVR KuLaDig, www.kuladig.de/Objektansicht/KLD-354055",
+"faktencheck": "korrigiert",
+"id": "351-hilden/v0.9/6",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "dicht besiedelt auf kleiner Fläche",
+"rang": 3,
 "familie": "C",
 "sorte": "Klassiker",
 "ort": "Hilden",
-"steckbrief": "Stadt mit rund 55.000 Einwohnern, 10 km westlich von Solingen und 13 km von Düsseldorf.",
-"frage": "Welchen Anteil der Zweitstimmen holte die stärkste Partei in Hilden bei der Bundestagswahl 2025?",
+"steckbrief": "Rund 55.000 Einwohner, 10 km westlich von Solingen, 13 km von Düsseldorf.",
+"frage": "Wie groß ist die Fläche des Hildener Stadtgebiets?",
 "optionen": [
-"unter 20 %",
-"20 bis unter 27 %",
-"27 bis unter 34 %",
-"34 % und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Wer ein enges Rennen zwischen CDU und SPD erwartet, tippt niedriger. Stärkste Partei in Hilden wurde aber die CDU mit 30,4 % der Zweitstimmen, deutlich vor der SPD mit 20,1 %. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "351-hilden/v0.8/4",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Hilden",
-"steckbrief": "Stadt mit rund 55.000 Einwohnern, 10 km westlich von Solingen.",
-"frage": "Hilden machte Otto von Bismarck zum Ehrenbürger. In welchem Jahr?",
-"optionen": [
-"Hilden ehrte ihn im Jahr 1871.",
-"Hilden ehrte ihn im Jahr 1880.",
-"Hilden ehrte ihn im Jahr 1890.",
-"Hilden ehrte ihn im Jahr 1895."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Die Reichsgründung liegt nahe, als Bismarck auf dem Gipfel seines Ruhms stand. Hilden ernannte ihn aber erst am 11. März 1895 zum Ehrenbürger. Später folgten unter anderen Fabrikanten und Beigeordnete. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/",
-"faktencheck": "korrigiert",
-"id": "351-hilden/v0.8/5",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Hilden",
-"steckbrief": "Stadt mit rund 55.000 Einwohnern, 10 km westlich von Solingen und 13 km von Düsseldorf.",
-"frage": "Welches Kennzeichen tragen die meisten Autos in Hilden?",
-"optionen": [
-"ME",
-"SG",
-"D",
-"W"
+"unter 30 km²",
+"30 bis unter 50 km²",
+"50 bis unter 90 km²",
+"90 km² und mehr"
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Solingen ist die nächste Großstadt, Düsseldorf liegt ebenfalls nah; beide Kennzeichen sind naheliegend. In Hilden tragen die meisten Autos aber ME. Richtig war 1.",
-"quelle": "Wikidata P395",
+"rueckseite": "Du hattest [Option] getippt. Hilden misst knapp 26 Quadratkilometer. Eine größere Spanne liegt nahe, weil Städte dieser Größe oft weite Ortsteile und Felder eingemeindet haben. Auf dieser kleinen Fläche leben rund 55.000 Menschen, gut 2.100 je Quadratkilometer: eine sehr dichte Besiedlung. Richtig war 1.",
+"quelle": "Wikidata P2046 (Fläche); Wikidata P1082, Stand 2025-12-31 (Einwohner); Dichte aus beiden berechnet",
 "faktencheck": "bestätigt",
-"id": "351-hilden/v0.8/6",
+"id": "351-hilden/v0.9/7",
 "tisch": false
 },
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Hallenbad Hildorado, überörtlich bekannt",
+"rang": 8,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Hilden",
-"steckbrief": "Stadt mit rund 55.000 Einwohnern, 10 km westlich von Solingen.",
-"frage": "Nach dem Hildener Wilhelm Fabry, der von 1560 bis 1634 lebte, ist ein Museum benannt. Womit machte er sich einen Namen?",
+"steckbrief": "Rund 55.000 Einwohner, 10 km westlich von Solingen.",
+"frage": "Viele in der Region kennen das Hildorado in Hilden. Was ist das?",
 "optionen": [
-"Er war ein gefragter Glockengießer am Niederrhein.",
-"Er begründete die wissenschaftliche Chirurgie in Deutschland.",
-"Er brachte die Tuchweberei nach Hilden.",
-"Er malte gefeierte Altarbilder für rheinische Kirchen."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Das Museum mit seinem Namen zeigt auch Kunst, ein Maler liegt daher nahe. Fabry war aber Wundarzt. Er entwickelte neue chirurgische Instrumente und Operationsmethoden und gilt als Begründer der wissenschaftlichen Chirurgie. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/",
-"faktencheck": "korrigiert",
-"id": "351-hilden/v0.8/7",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Hilden",
-"steckbrief": "Stadt mit rund 55.000 Einwohnern, 10 km westlich von Solingen.",
-"frage": "Mit dem Bau der Hildener Reformationskirche wurde Anfang des 13. Jahrhunderts begonnen. Wem war sie ursprünglich geweiht?",
-"optionen": [
-"Sie war dem heiligen Petrus geweiht.",
-"Sie war der Gottesmutter Maria geweiht.",
-"Sie war dem heiligen Jacobus geweiht.",
-"Sie war dem heiligen Martin geweiht."
+"Es ist ein Einkaufszentrum.",
+"Es ist ein Freizeitpark.",
+"Es ist ein Schwimmbad.",
+"Es ist ein Kino."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Maria und Petrus sind häufige Kirchenpatrone, darum liegen sie nahe. Ursprünglich war die Kirche aber dem heiligen Jacobus geweiht. Ihr heutiger Name täuscht: Begonnen wurde sie lange vor der Reformation. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/",
-"faktencheck": "bestätigt",
-"id": "351-hilden/v0.8/8",
+"rueckseite": "Du hattest [Option] getippt. Das Hildorado ist ein Spaß- und Freizeitbad, das über Hilden hinaus bekannt ist. Ein Freizeitpark liegt nahe, weil der Name an Eldorado erinnert, das sagenhafte Goldland, und nach Vergnügen klingt. Gemeint ist aber ein Bad. Dazu hat Hilden mit dem Waldbad ein zweites Bad, das man auch von außerhalb kennt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.hilden.de/de/kultur-freizeit/",
+"faktencheck": "korrigiert",
+"id": "351-hilden/v0.9/8",
 "tisch": false
 }
 ],
 "anschluss_von": "350-solingen",
 "anschluss": [
-"Solingen hat etwa dreimal so viele Einwohner wie Hilden.",
-"Kennzeichen: In Solingen steht SG am Auto, in Hilden ME."
+"Hilden ist dichter besiedelt als das größere Solingen.",
+"Hilden hatte 2025 eine höhere Wahlbeteiligung als Solingen."
 ],
 "anschluesse": {
 "193-leverkusen": [
@@ -108809,8 +109457,8 @@ window.QA_DATEN = {
 "Hilden hat doppelt so viele Einwohner wie Leichlingen."
 ],
 "350-solingen": [
-"Solingen hat etwa dreimal so viele Einwohner wie Hilden.",
-"Kennzeichen: In Solingen steht SG am Auto, in Hilden ME."
+"Hilden ist dichter besiedelt als das größere Solingen.",
+"Hilden hatte 2025 eine höhere Wahlbeteiligung als Solingen."
 ],
 "352-haan": [
 "Hilden hat fast doppelt so viele Einwohner wie Haan."
@@ -108831,6 +109479,32 @@ window.QA_DATEN = {
 },
 "ags": "05158016",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Hilden liegt zwischen Düsseldorf, Wuppertal und Solingen, rund 50 Meter hoch, auf knapp 26 Quadratkilometern; die Itter durchzieht die Stadt."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Heimat des Wundarztes Wilhelm Fabry; die Reformationskirche ist spätromanisch; das Stadtwappen wurde 1900 verliehen."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 55.000 Einwohner, sehr dicht besiedelt; größtes 3M-Werk Europas, dazu AkzoNobel, früher Wiederhold-Lackfabriken."
+},
+{
+"facette": "FREIZEIT",
+"text": "Hallenbad Hildorado, Waldbad im Stadtwald, Wilhelm-Fabry-Museum mit Kornbrennerei, Stadthalle, jährlicher Künstlermarkt in der Innenstadt."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof Hilden und Haltepunkt Hilden Süd an der S1, St.-Josefs-Krankenhaus, Partnerstädte Warrington und Nové Město nad Metují."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU vorn mit 30,4 Prozent, Wahlbeteiligung 83,2 Prozent, etwas über dem Landeswert."
+}
+],
 "km_vom_vorigen": 10.1
 },
 {
@@ -108840,30 +109514,127 @@ window.QA_DATEN = {
 "lon": 7.00853,
 "karten": [
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Hahn als redendes Wappentier",
+"rang": 5,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Haan",
-"steckbrief": "Haan hat rund 30.000 Einwohner und liegt 6 km nordwestlich von Solingen.",
-"frage": "In Haan gibt es eine Alsenstraße. Wonach ist sie benannt?",
+"steckbrief": "Stadt mit rund 30.000 Einwohnern, 6 km nordwestlich von Solingen.",
+"frage": "Was zeigt das Haaner Stadtwappen?",
 "optionen": [
-"Nach einer Familie, die dort Land besaß.",
-"Nach einem Bach, der dort entspringt.",
-"Nach einer dänischen Insel.",
-"Nach einem Ratsherrn der Stadt Haan."
+"Es zeigt drei grüne Bäume als Hain.",
+"Es zeigt einen roten bergischen Löwen.",
+"Es zeigt einen Hahn.",
+"Es zeigt ein Schleifrad über Wellen."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Alsen klingt wie ein Familienname, und viele Straßen tragen Namen früherer Grundbesitzer. Die Haaner Alsenstraße ist aber nach der dänischen Insel Alsen und dem Alsensund benannt. Dort landeten im Deutsch-Dänischen Krieg preußische Truppen. Die Landung endete mit einem deutschen Sieg. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Legendenschilder-Haaner-Straßennamen/",
-"faktencheck": "bestätigt",
-"id": "352-haan/v0.8/1",
+"rueckseite": "Du hattest [Option] getippt. Haan klingt nach Hain, und der Löwe ist ein bekanntes bergisches Wappentier. Das Haaner Wappen von 1937 zeigt aber einen Hahn, den die Stadt den „Bergischen Kräher“ nennt. In der Bevölkerung gilt er als starkes Bildzeichen. Auch das hellgrüne Stadtlogo, das aus dem stilisierten Wappen entwickelt wurde, behält ihn bewusst bei. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Wappen-Logo/",
+"faktencheck": "korrigiert",
+"id": "352-haan/v0.9/2",
 "tisch": false
 },
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Straßenkirmes mit etwa 400.000 Besuchern",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Haan",
+"steckbrief": "Stadt mit rund 30.000 Einwohnern, 6 km nordwestlich von Solingen.",
+"frage": "Die Haaner Kirmes ist das große Volksfest der Stadt. Wo stehen ihre Fahrgeschäfte und Buden?",
+"optionen": [
+"Sie steht auf einem Festplatz am Stadtrand.",
+"Sie füllt die Wiesen im Ittertal.",
+"Sie steht auf dem Parkplatz eines Möbelhauses.",
+"Sie füllt die gesperrten Straßen der Innenstadt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem großen Volksfest denkt man an einen Festplatz am Stadtrand. Doch die Haaner Kirmes ist eine Straßenkirmes: Mehrere Tage lang ist dafür die Kaiserstraße gesperrt, die Hauptstraße durch die Innenstadt. Für eine Stadt mit rund 30.000 Einwohnern ist das ein großes Ereignis. Die Kirmes zieht viele Besucherinnen und Besucher ins Zentrum. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.haan.de/Kultur-Freizeit/Tourismus/Einkaufen-in-Haan/",
+"faktencheck": "korrigiert",
+"id": "352-haan/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Steinbruch als gesperrtes Naturschutzgebiet",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Haan",
+"steckbrief": "Stadt mit rund 30.000 Einwohnern, 6 km nordwestlich von Solingen.",
+"frage": "Die „Grube 7“ in Haan-Gruiten ist heute ein Naturschutzgebiet mit Orchideen und schützenswerten Kröten. Was geschah dort früher?",
+"optionen": [
+"Dort wurde Dolomitgestein gebrochen.",
+"Dort wurde Steinkohle gefördert.",
+"Dort wurde Dachschiefer abgebaut.",
+"Dort wurde Eisenerz gefördert."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. „Grube“ klingt nach Bergwerk, und Schiefer sieht man an vielen Haaner Häusern. Doch Grube 7 war ein Steinbruch, in dem Dolomit gebrochen wurde, ein kalkhaltiges Gestein. Heute darf man das Schutzgebiet nicht betreten, aber Wanderwege führen zu Aussichtspunkten an den alten Bruchkanten. So wurde aus einer Abbaustelle ein Naherholungsgebiet für Haan. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.haan.de/Kultur-Freizeit/Tourismus/Haan-entdecken/",
+"faktencheck": "bestätigt",
+"id": "352-haan/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Itter als Grenzfluss zu Solingen",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Haan",
+"steckbrief": "Stadt mit rund 30.000 Einwohnern, 6 km nordwestlich von Solingen.",
+"frage": "Die Itter entspringt in Solingen und fließt durch Haan. Wohin fließt ihr Wasser am Ende?",
+"optionen": [
+"Sie mündet in die Wupper.",
+"Sie mündet direkt in den Rhein.",
+"Sie mündet in die Düssel.",
+"Sie mündet in die Ruhr."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Wupper ist der große Fluss des Bergischen Landes, und das Düsseltal liegt gleich im Norden Haans. Doch die Itter fließt über Hilden und Düsseldorf weiter und mündet in den Rhein. Zwischen Haan und Solingen bildet sie über weite Strecken die Grenze, und das Ittertal auf Haaner Gebiet ist heute Naturschutzgebiet. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.haan.de/Kultur-Freizeit/Tourismus/Haan-entdecken/",
+"faktencheck": "korrigiert",
+"id": "352-haan/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Wasserkraft-Schleifkotten an der Itter",
+"rang": 8,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Haan",
+"steckbrief": "Stadt mit rund 30.000 Einwohnern, 6 km nordwestlich von Solingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Mehrere Haaner Straßen erinnern an Kämpfe preußischer Truppen.",
+"Im Ortsteil Gruiten stehen viele gut erhaltene Fachwerkhäuser.",
+"Die Schleifkotten an der Itter liefen mit Dampfkraft."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Dampfkraft klingt nach Industriezeitalter. Doch die Kotten, kleine Schleifwerkstätten, nutzten über Jahrhunderte die Wasserkraft der Itter: Wasserräder trieben die Schleifsteine an. Abgelöst wurden sie erst durch die Elektrizität. Die Straßen erinnern an Alsen, Düppel und Königgrätz. Einige Kotten stehen noch, teils unter Denkmalschutz, und dienen heute als Wohnhäuser oder Restaurants. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.haan.de/Kultur-Freizeit/Tourismus/Haan-entdecken/",
+"faktencheck": "unsicher",
+"id": "352-haan/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "dicht besiedelt auf 24 km²",
+"rang": 9,
 "familie": "C",
 "sorte": "Klassiker",
 "ort": "Haan",
-"steckbrief": "Haan ist eine Stadt in Nordrhein-Westfalen mit rund 30.000 Einwohnern, 6 km nordwestlich von Solingen.",
+"steckbrief": "Stadt mit rund 30.000 Einwohnern, 6 km nordwestlich von Solingen.",
 "frage": "Wie groß ist das Stadtgebiet von Haan?",
 "optionen": [
 "unter 8 km²",
@@ -108873,116 +109644,40 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Bei rund 30.000 Einwohnern wirkt Haan wie eine kompakte Stadt, darum liegt eine kleinere Fläche nahe. Tatsächlich umfasst das Stadtgebiet 24,19 Quadratkilometer. Richtig war 4.",
-"quelle": "Wikidata P2046; Altbestand staedte.json",
+"rueckseite": "Du hattest [Option] getippt. Bei rund 30.000 Einwohnern denkt man an eine kompakte Kleinstadt mit wenig Fläche. Tatsächlich misst das Haaner Stadtgebiet gut 24 Quadratkilometer, zu denen auch der Ortsteil Gruiten gehört. Auf jeden Quadratkilometer kommen rund 1.240 Einwohner; Haan ist also dicht bewohnt. Richtig war 4.",
+"quelle": "GRUNDDATEN, Wikidata P2046 (Fläche); Einwohner Wikidata P1082, Stand 2025-12-31; Dichte berechnet",
 "faktencheck": "bestätigt",
-"id": "352-haan/v0.8/2",
+"id": "352-haan/v0.9/7",
 "tisch": false
 },
 {
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Haan",
-"steckbrief": "Haan hat rund 30.000 Einwohner und liegt 6 km nordwestlich von Solingen.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Die Königgrätzer Straße erinnert an eine preußische Niederlage.",
-"Die Düppelstraße erinnert an eine dänische Befestigungsanlage.",
-"Haans Stadtlogo zeigt den Bergischen Kräher."
-],
-"art": "luege",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Dass Haans Logo einen Kräher zeigt, klingt erfunden, stimmt aber. Gelogen ist die Niederlage: Die Königgrätzer Straße erinnert an einen kriegsentscheidenden Sieg der Preußen über die österreichisch-sächsische Armee. Nach Niederlagen benennt man selten Straßen. Die Düppeler Schanzen dagegen waren eine dänische Befestigung, die preußische Truppen eroberten. Die Lüge war 1.",
-"quelle": "Gemeinde-Webseite, www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Legendenschilder-Haaner-Straßennamen/; www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Wappen-Logo/",
-"faktencheck": "korrigiert",
-"id": "352-haan/v0.8/3",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Haan",
-"steckbrief": "Haan hat rund 30.000 Einwohner und liegt 6 km nordwestlich von Solingen, 16 km Luftlinie von Düsseldorf.",
-"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Haan nach Zweitstimmen zweitstärkste Kraft?",
-"optionen": [
-"GRÜNE",
-"SPD",
-"AfD",
-"FDP"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Bundesweit schnitt die AfD stark ab, darum liegt sie nahe. In Haan kam sie bei den Zweitstimmen nur auf Platz vier: Hinter der CDU mit 33,7 Prozent wurde die SPD mit 18,5 Prozent Zweite, vor Grünen und AfD. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "352-haan/v0.8/4",
-"tisch": false
-},
-{
+"facette": "ALLTAG",
+"charakteristikum": "Rasiermesser-Erfinder aus dem Ernenkotten",
+"rang": 6,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Haan",
-"steckbrief": "Haan hat rund 30.000 Einwohner und liegt 6 km nordwestlich von Solingen.",
-"frage": "Am Alten Kirchplatz stand einst Haans frühere Kirche, geweiht von einem Erzbischof. Wann war die Weihe?",
+"steckbrief": "Stadt mit rund 30.000 Einwohnern, 6 km nordwestlich von Solingen.",
+"frage": "Carl Friedrich Ern war Schleifer im Ernenkotten an der Itter in Haan. Mit welcher Erfindung wurde er weltweit bekannt?",
 "optionen": [
-"Die Weihe war im 8. Jahrhundert.",
-"Die Weihe war im 12. Jahrhundert.",
-"Die Weihe war im 10. Jahrhundert.",
-"Die Weihe war im 14. Jahrhundert."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Romanische Dorfkirchen stammen oft aus dem Hochmittelalter, darum liegt ein späteres Jahrhundert nahe. Haans frühere Kirche ist deutlich älter belegt: Erzbischof Wichfried weihte sie im Jahr 935. Später wurde sie abgebrochen. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.haan.de/Stadt-Rathaus/Stadt/Denkmalpflege/",
-"faktencheck": "bestätigt",
-"id": "352-haan/v0.8/5",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Haan",
-"steckbrief": "Haan hat rund 30.000 Einwohner und liegt 6 km nordwestlich von Solingen.",
-"frage": "Welches Kfz-Kennzeichen tragen die meisten Autos in Haan?",
-"optionen": [
-"SG",
-"D",
-"W",
-"ME"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Solingen ist die nächste Großstadt, auch Düsseldorf liegt nicht weit, darum liegen SG oder D nahe. Die meisten Autos in Haan tragen aber das Hauptkennzeichen ME. Richtig war 4.",
-"quelle": "Wikidata P395",
-"faktencheck": "bestätigt",
-"id": "352-haan/v0.8/6",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Haan",
-"steckbrief": "Haan hat rund 30.000 Einwohner und liegt 6 km nordwestlich von Solingen.",
-"frage": "Die Kornbrennerei und Likörfabrik Borgmann in Haan: Wer hat sie gegründet?",
-"optionen": [
-"Ihr Gründer trug einen ganz anderen Namen.",
-"Ihr Gründer hieß selbst Borgmann.",
-"Mönche eines Klosters gründeten sie.",
-"Eine Genossenschaft von Bauern gründete sie."
+"Mit einer Maschine zum Rasiermesserschleifen.",
+"Mit einer Maschine zum Scherenschmieden.",
+"Mit einem bruchsicheren Schleifstein.",
+"Mit einem Taschenmesser mit Klappschere."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Der Firmenname legt nahe, dass ein Herr Borgmann die Kornbrennerei und Likörfabrik gründete. Gegründet hat sie aber Ludwig Forsthoff. Gebrannt wurde Alkohol aus Weizen, Roggen und Gerste. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.haan.de/Stadt-Rathaus/Stadt/Denkmalpflege/",
+"rueckseite": "Du hattest [Option] getippt. In der Klingenregion um Solingen liegt eine Maschine für Scheren nahe. Carl Friedrich Ern, Enkel von Carl Wilhelm Ern, der den Ernenkotten groß ausgebaut hatte, erfand aber eine Rasiermesserschleifmaschine und wurde weltweit bekannt. Ein Kotten ist eine wassergetriebene Schleiferei. Der Ernenkotten an der Itter steht noch: ein verschiefertes Fachwerkhaus, heute denkmalgeschütztes Wohnhaus. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.haan.de/Kultur-Freizeit/Tourismus/Haan-entdecken/",
 "faktencheck": "korrigiert",
-"id": "352-haan/v0.8/7",
+"id": "352-haan/v0.9/9",
 "tisch": false
 }
 ],
 "anschluss_von": "351-hilden",
 "anschluss": [
-"Einwohner: Hilden hat fast doppelt so viele wie Haan.",
-"Bundestagswahl 2025: In Haan Grüne vor AfD, in Hilden umgekehrt."
+"Hilden hat fast doppelt so viele Einwohner wie Haan.",
+"Die Itter fließt von Haan weiter durch Hilden."
 ],
 "anschluesse": {
 "193-leverkusen": [
@@ -109004,8 +109699,8 @@ window.QA_DATEN = {
 "Solingen hat gut fünfmal so viele Einwohner wie Haan."
 ],
 "351-hilden": [
-"Einwohner: Hilden hat fast doppelt so viele wie Haan.",
-"Bundestagswahl 2025: In Haan Grüne vor AfD, in Hilden umgekehrt."
+"Hilden hat fast doppelt so viele Einwohner wie Haan.",
+"Die Itter fließt von Haan weiter durch Hilden."
 ],
 "353-erkrath": [
 "Erkrath hat fast anderthalbmal so viele Einwohner wie Haan."
@@ -109031,6 +109726,32 @@ window.QA_DATEN = {
 },
 "ags": "05158008",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 30.000 Einwohner auf gut 24 Quadratkilometern, zwischen Düsseltal im Norden und Ittertal im Süden, 6 km von Solingen."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Ein Hahn im Wappen, das Fachwerkdorf Gruiten mit dem Haus am Quall, Straßen nach preußischen Schlachten, alte Kotten an der Itter."
+},
+{
+"facette": "ALLTAG",
+"text": "Gartenstadt mit vielen kleinen inhabergeführten Geschäften und Wochenmarkt am Neuen Markt; ansässig sind Visaton, Bohle und Ostermann."
+},
+{
+"facette": "FREIZEIT",
+"text": "Haaner Kirmes, Haaner Sommer mit Stadtstrand, neanderland STEIG, Panoramaradweg niederbergbahn, Heimatmuseum Haus Stöcken und ein Autoradiomuseum."
+},
+{
+"facette": "INFRA",
+"text": "Haltepunkt Haan; Partnerstädte sind Eu, Berwick-upon-Tweed, Bad Lauchstädt und Forte dei Marmi; Gymnasium, Waldorfschule in Gruiten."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU vorn mit 33,7 Prozent, Wahlbeteiligung 84,7 Prozent, über dem Landeswert von 82,2."
+}
+],
 "km_vom_vorigen": 5.5
 },
 {
@@ -109040,169 +109761,170 @@ window.QA_DATEN = {
 "lon": 6.91472,
 "karten": [
 {
-"familie": "A",
+"facette": "FREIZEIT",
+"charakteristikum": "Schädelturm am Fundort des Neanderthalers",
+"rang": 1,
+"familie": "D",
 "sorte": "Geschichte",
 "ort": "Erkrath",
-"steckbrief": "Stadt mit rund 44.000 Einwohnern, 10 km östlich von Düsseldorf.",
-"frage": "Die Bahnstrecke von Erkrath hinauf nach Hochdahl ist sehr steil. Wie kamen die Züge dort zu Beginn hinauf?",
+"steckbrief": "Stadt mit rund 43.500 Einwohnern, 10 km östlich von Düsseldorf.",
+"frage": "Im Neandertal lag die Feldhofer Grotte, Fundort des Neanderthalers. Was steht heute an ihrer Stelle?",
 "optionen": [
-"Ein Wasserrad am Bach trieb ein Zugseil an.",
-"Eine feststehende Dampfmaschine zog sie am Seil.",
-"Ein Zahnrad griff in eine Zahnstange im Gleis.",
-"Die Strecke umging den Hang in langen Kehren."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Bei steilen Bahnen denkt man an Zahnradbahnen wie in den Alpen. Hier aber zog anfangs ein Seil die Züge hinauf, angetrieben von einer stehenden Dampfmaschine. Später ersetzten zusätzliche Dampflokomotiven den Seilzug. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.erkrath.de/rathaus-politik/stadt/stadtportraet/geschichte",
-"faktencheck": "bestätigt",
-"id": "353-erkrath/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Erkrath",
-"steckbrief": "Stadt mit rund 44.000 Einwohnern, 10 km östlich von Düsseldorf.",
-"frage": "Wie groß ist das Stadtgebiet von Erkrath?",
-"optionen": [
-"unter 10 km²",
-"10 bis unter 20 km²",
-"20 bis unter 30 km²",
-"30 km² und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Bei einer Stadt dieser Größe vermutet man leicht ein weitläufiges Stadtgebiet. Doch Erkrath ist dicht besiedelt: Alt-Erkrath, Hochdahl und Unterfeldhaus teilen sich 26,88 Quadratkilometer. Richtig war 3.",
-"quelle": "Wikidata P2046",
-"faktencheck": "bestätigt",
-"id": "353-erkrath/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Erkrath",
-"steckbrief": "Stadt mit rund 44.000 Einwohnern, 10 km östlich von Düsseldorf.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Ein Sohn eines Bayer-Mitbegründers erwarb eine Hochdahler Villa.",
-"Erkrath besitzt Stadtrechte schon seit dem Mittelalter.",
-"Ziegel von St. Franziskus zeigen sichtbare Fingerabdrücke."
-],
-"art": "luege",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Die Bayer-Villa klingt erfunden, doch Friedrich Bayer, Sohn eines Mitbegründers der Bayer-Werke, erwarb sie als Sommerhaus. Gelogen ist das Mittelalter: Der Name Erkrath ist zwar früh belegt, Stadt wurde Erkrath aber erst in der Nachkriegszeit; die Urkunde wurde im Kaiserhof-Theater überreicht. Die Lüge war 2.",
-"quelle": "Gemeinde-Webseite, www.erkrath.de/rathaus-politik/stadt/stadtportraet/geschichte",
-"faktencheck": "bestätigt",
-"id": "353-erkrath/v0.8/3",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Erkrath",
-"steckbrief": "Stadt mit rund 44.000 Einwohnern, 10 km östlich von Düsseldorf.",
-"frage": "Im August 1856 kamen in der Feldhofer Grotte Knochen eines Neandertalers ans Licht. Wer stieß darauf?",
-"optionen": [
-"Ein Förster suchte dort nach einem Fuchsbau.",
-"Arbeiter bereiteten dort Sprengarbeiten vor.",
-"Ein Forscher grub dort gezielt nach Fossilien.",
-"Spielende Kinder krochen in die Höhle."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ein Forscher liegt nahe, denn mit dem Fund ist der Name Johann Carl Fuhlrott verbunden. Doch Arbeiter stießen bei Vorbereitungen zu Sprengarbeiten auf die Knochen. Der Kalkbruchbesitzer benachrichtigte Fuhlrott, und der erkannte darin Reste eines urtümlichen Menschen. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.erkrath.de/rathaus-politik/stadt/stadtportraet",
-"faktencheck": "korrigiert",
-"id": "353-erkrath/v0.8/5",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Erkrath",
-"steckbrief": "Stadt mit rund 44.000 Einwohnern, 10 km östlich von Düsseldorf.",
-"frage": "Eine Partnerstadt Erkraths liegt in Haiti. Welche ist es?",
-"optionen": [
-"Jacmel",
-"Cap-Haïtien",
-"Port-de-Paix",
-"Les Cayes"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Cap-Haïtien liegt nahe, weil es zu den bekannteren Städten Haitis gehört. Erkraths Partnerstadt in Haiti ist aber Port-de-Paix. Weitere Partnerstädte sind Leinefelde, Cergy und West Lancashire. Richtig war 3.",
-"quelle": "Wikidata P190",
-"faktencheck": "bestätigt",
-"id": "353-erkrath/v0.8/6",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Erkrath",
-"steckbrief": "Stadt mit rund 44.000 Einwohnern, 10 km östlich von Düsseldorf.",
-"frage": "Was geschah bei der Neugliederung 1975 mit Unterbach, bis dahin ein Stadtteil Erkraths?",
-"optionen": [
-"Unterbach wurde eigene Gemeinde im Kreis Mettmann.",
-"Unterbach bildete mit Hochdahl eine neue Stadt.",
-"Unterbach kam zum Kreis Neuss.",
-"Unterbach wurde nach Düsseldorf eingemeindet."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Eine Zusammenlegung liegt nahe, denn bei derselben Neugliederung schlossen sich die alte Stadt Erkrath und die Gemeinde Hochdahl zusammen. Unterbach aber wurde zum gleichen Zeitpunkt nach Düsseldorf eingemeindet. Der Unterbacher See liegt heute am Rande Erkraths. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.erkrath.de/rathaus-politik/stadt/stadtportraet/geschichte und www.erkrath.de/rathaus-politik/stadt/stadtportraet",
-"faktencheck": "korrigiert",
-"id": "353-erkrath/v0.8/7",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Erkrath",
-"steckbrief": "Stadt mit rund 44.000 Einwohnern, 10 km östlich von Düsseldorf.",
-"frage": "Das Erkrather Stadtwappen zeigt unter einem roten Löwen ein rotes Mühlrad. Wofür steht das Mühlrad?",
-"optionen": [
-"Es steht für Millrath, den alten Namen Hochdahls.",
-"Es zeigt ein Rad der Eisenbahn nach Hochdahl.",
-"Die Grafen von Berg führten es im Wappen.",
-"Es war das Siegel des Nonnenstifts Haus Morp."
+"ein Aussichtsturm mit Schädeldach-Kuppel",
+"ein Planetarium mit Ganzkuppel-Projektion",
+"eine Sternwarte mit Beobachtungstürmen",
+"ein Eisenbahnmuseum mit Lokomotiven"
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. An Mühlen oder die Eisenbahn zu denken liegt nahe, beides kennt Erkrath. Doch das Rad ist redend, es spricht einen Namen bildlich aus: Millrath, der alte Name Hochdahls, klingt nach Mühle. Tatsächlich geht Millrath auf Milroyde zurück, die Rodung des Milo. Der Löwe stammt aus dem Wappen der Grafen von Berg. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.erkrath.de/rathaus-politik/stadt/stadtportraet/stadtwappen-und-stadtlogo und www.erkrath.de/rathaus-politik/stadt/stadtportraet/geschichte",
+"rueckseite": "Du hattest [Option] getippt. Die Knochen kamen bei Vorbereitungen zu Sprengarbeiten ans Licht; an Stelle der zerstörten Grotte steht heute der Erlebnisturm Höhlenblick. Seine Kuppel ist eine überlebensgroße Kopie des Schädeldachs, in der Turmspitze liegen Repliken der Knochen. Ein Planetarium läge nahe, denn Erkrath hat eines, allerdings in Hochdahl. Der Fund machte das Tal weltberühmt; heute gehört das Neandertal zu den vielbesuchten Erholungsgebieten. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.erkrath.de/kultur-freizeit/tourismus/sehenswuerdigkeiten/neandertal",
 "faktencheck": "korrigiert",
-"id": "353-erkrath/v0.8/8",
+"id": "353-erkrath/v0.9/1",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Mühlrad im Wappen für Millrath",
+"rang": 5,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Erkrath",
-"steckbrief": "Stadt mit rund 44.000 Einwohnern, 10 km östlich von Düsseldorf.",
-"frage": "Die Neanderkirche wurde aus Mauerstein aus dem Neandertal gebaut. Nach wem ist sie benannt?",
+"steckbrief": "Stadt mit rund 43.500 Einwohnern, 10 km östlich von Düsseldorf.",
+"frage": "Erkraths Stadtwappen zeigt über einem Tal ein rotes Mühlrad. Wofür steht das Mühlrad?",
 "optionen": [
-"Sie ist nach dem Neandertaler benannt.",
-"Sie ist nach ihrem ersten Pfarrer benannt.",
-"Sie ist nach einem Kirchenliederdichter benannt.",
-"Sie ist nach einem Geldgeber des Baus benannt."
+"Es zeigt eigentlich ein Eisenbahnrad der Steilrampe.",
+"Es spielt auf den Ortsnamen Millrath an.",
+"Es stammt von den Grafen von Berg.",
+"Es ehrt die Stindermühle im Neandertal."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das Mühlrad ist ein redendes Wappenbild: Es steht für Millrath, den früheren Namen der Gemeinde Hochdahl. An die Stindermühle zu denken liegt nahe, denn sie steht wirklich im Neandertal. Der rote Löwe darüber ist der Bergische Löwe, das Tal das Neandertal. Im alten Erkrather Wappen beherrschte noch eine Autobahnbrücke das Bild. So erzählt das Wappen, dass Erkrath aus zwei Orten zusammengewachsen ist. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.erkrath.de/rathaus-politik/stadt/stadtportraet/stadtwappen-und-stadtlogo",
+"faktencheck": "korrigiert",
+"id": "353-erkrath/v0.9/2",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Seilzug-Steilrampe nach Hochdahl",
+"rang": 2,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Erkrath",
+"steckbrief": "Stadt mit rund 43.500 Einwohnern, 10 km östlich von Düsseldorf.",
+"frage": "Zwischen Erkrath und Hochdahl liegt eine Steilrampe der Eisenbahn. Womit kamen Züge von 1841 bis 1926 hinauf?",
+"optionen": [
+"an einem Seil hinaufgezogen",
+"mit einem Zahnradantrieb",
+"mit Pferden als Vorspann",
+"über Spitzkehren im Zickzack"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Seil zog die Züge hinauf, zuerst bewegt von einer stehenden Dampfmaschine, später mit Lokomotiven als Gegengewicht. Ein Zahnrad liegt nahe, so bezwingen Bergbahnen Steigungen. Die Rampe steigt mit 33,3 Promille auf rund 2,5 Kilometern um 82 Meter. Daran erinnert heute die am Hochdahler Bahnhof aufgestellte Umlenkrolle; in Hochdahl erzählt außerdem der Lokschuppen, ein Eisenbahnmuseum, davon. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.erkrath.de/rathaus-politik/stadt/stadtportraet/geschichte; KuLaDig (LVR), KLD-255222",
+"faktencheck": "korrigiert",
+"id": "353-erkrath/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "junge Stadt aus Erkrath und Hochdahl",
+"rang": 9,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Erkrath",
+"steckbrief": "Stadt mit rund 43.500 Einwohnern, 10 km östlich von Düsseldorf.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Erkrath bekam bei der Neugliederung Unterbach von Düsseldorf.",
+"Die heutige Stadt vereint Erkrath und Hochdahl.",
+"Nach dem Krieg plante man Hochdahl als neue Stadt."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Es war umgekehrt: Bei der Neugliederung ging Unterbach von Erkrath an Düsseldorf. Für Badegäste am Unterbacher See änderte sich dadurch nichts. Die Lüge wirkt glaubhaft, weil Erkrath damals tatsächlich neu zusammengesetzt wurde. Heute hat Hochdahl mehr Einwohner als Alt-Erkrath; beide Stadtteile haben eigene Zentren mit Fußgängerzone. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.erkrath.de/rathaus-politik/stadt/stadtportraet/geschichte",
+"faktencheck": "korrigiert",
+"id": "353-erkrath/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "dicht besiedelt trotz viel Grün",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Erkrath",
+"steckbrief": "Stadt mit rund 43.500 Einwohnern, 10 km östlich von Düsseldorf.",
+"frage": "Wie viele Einwohner leben in Erkrath auf einem Quadratkilometer?",
+"optionen": [
+"unter 500",
+"500 bis unter 1.000",
+"1.000 bis unter 2.000",
+"2.000 und mehr"
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Der Neandertaler liegt nahe, zumal sogar die Steine der Kirche aus dem Neandertal stammen. Benannt ist sie aber nach Joachim Neander, Theologe und Kirchenliederdichter. Den Bau brachten Initiatoren mit Spendengeldern auf den Weg. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.erkrath.de/kultur-freizeit/tourismus/sehenswuerdigkeiten/stolpersteine-denkmaeler-und-kunst",
+"rueckseite": "Du hattest [Option] getippt. In Erkrath leben rund 1.620 Menschen auf einem Quadratkilometer. Über 2.000 liegt nahe, weil die Stadt an Düsseldorf grenzt; doch Neandertal, Parks und Feuchtwiesen bringen viel Grün. Gut 43.500 Einwohner teilen sich knapp 27 Quadratkilometer, etwas dichter als im Nachbarort Haan. Richtig war 3.",
+"quelle": "berechnet aus Wikidata P1082 (Einwohner, Stand 2025-12-31) und Wikidata P2046 (Fläche)",
 "faktencheck": "bestätigt",
-"id": "353-erkrath/v0.8/9",
+"id": "353-erkrath/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Wisente und nachgezüchtete Eiszeittiere",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Erkrath",
+"steckbrief": "Stadt mit rund 43.500 Einwohnern, 10 km östlich von Düsseldorf.",
+"frage": "Im Eiszeitlichen Wildgehege im Neandertal leben Wisente, Auerochsen und Tarpane. Was ist das Besondere an Auerochsen und Tarpanen?",
+"optionen": [
+"Sie wurden aus altem Erbgut geklont.",
+"Sie wurden aus ursprünglichen Rassen nachgezüchtet.",
+"Sie wurden in sibirischen Steppen eingefangen.",
+"Sie sind überlebende Wildbestände aus der Eiszeit."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Auerochse und Tarpan, ein Wildpferd, sind ausgestorben. Die Tiere im Gehege sind Abbildzüchtungen: durch Kreuzung ursprünglicher Rassen gezüchtet, sodass sie ihren Vorfahren ähneln. Klonen liegt nahe, weil man davon oft hört; hier wurde gekreuzt. Gegründet hat das Gehege der Naturschutzverein Neandertal. Für eine Stadt mit gut 43.500 Einwohnern sind Wisente im Wildgehege ein ungewöhnlicher Anblick. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.erkrath.de/kultur-freizeit/tourismus/sehenswuerdigkeiten/neandertal",
+"faktencheck": "bestätigt",
+"id": "353-erkrath/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Kirche aus Neandertaler Bruchstein",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Erkrath",
+"steckbrief": "Stadt mit rund 43.500 Einwohnern, 10 km östlich von Düsseldorf.",
+"frage": "Erkraths Neanderkirche wurde ab 1903 gebaut. Woraus sind ihre Mauern?",
+"optionen": [
+"Aus handgeformten Ziegeln aus Erkrath.",
+"Aus Sandstein von der Ruhr.",
+"Aus Basalt aus der Eifel.",
+"Aus Stein aus Brüchen des Neandertals."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Mauerstein der Neanderkirche kommt aus den heimischen Brüchen des Neandertals. Ziegel liegen nahe, denn St. Franziskus wurde aus Ziegeln gebaut, die Menschen vor Ort mit eigenen Händen formten. Angestoßen haben den Bau Einwohner, bezahlt wurde er mit Spenden; der Name ehrt den Kirchenliederdichter Joachim Neander. So steckt in ihren Mauern ein Stück des weltberühmten Tals. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.erkrath.de/kultur-freizeit/tourismus/sehenswuerdigkeiten/stolpersteine-denkmaeler-und-kunst",
+"faktencheck": "korrigiert",
+"id": "353-erkrath/v0.9/9",
 "tisch": false
 }
 ],
 "anschluss_von": "352-haan",
 "anschluss": [
-"Kennzeichen: In Haan wie in Erkrath steht ME am Auto.",
-"Einwohner: Erkrath zählt rund 13.500 mehr als Haan."
+"Erkraths höchster Punkt liegt an der Stadtgrenze zu Haan.",
+"Erkrath hat rund 13.500 Einwohner mehr als Haan."
 ],
 "anschluesse": {
 "194-langenfeld": [
@@ -109224,8 +109946,8 @@ window.QA_DATEN = {
 "Hilden hat rund 11.000 Einwohner mehr als Erkrath."
 ],
 "352-haan": [
-"Kennzeichen: In Haan wie in Erkrath steht ME am Auto.",
-"Einwohner: Erkrath zählt rund 13.500 mehr als Haan."
+"Erkraths höchster Punkt liegt an der Stadtgrenze zu Haan.",
+"Erkrath hat rund 13.500 Einwohner mehr als Haan."
 ],
 "354-mettmann": [
 "Erkrath hat rund 4.000 Einwohner mehr als Mettmann."
@@ -109256,6 +109978,32 @@ window.QA_DATEN = {
 },
 "ags": "05158004",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 43.500 Einwohner auf knapp 27 Quadratkilometern, zehn Kilometer östlich von Düsseldorf, am Neandertal in den Ausläufern des Bergischen Landes."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 1148 urkundlich erwähnt, Stadt seit 1966; drei Stadtteile: Alt-Erkrath, Hochdahl und Unterfeldhaus."
+},
+{
+"facette": "ALLTAG",
+"text": "Im Stadtteil Unterfeldhaus liegt an den Autobahnen 3 und 46 das größte Gewerbegebiet der Stadt."
+},
+{
+"facette": "FREIZEIT",
+"text": "Neanderthal Museum, Planetarium und Sternwarte, Lokschuppen-Museum, Bayer Park und Morper Park, der Unterbacher See am Stadtrand."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhalte Erkrath, Erkrath Nord, Hochdahl und Hochdahl-Millrath; Partnerstädte unter anderem Cergy und West Lancashire."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU vor SPD und AfD, Wahlbeteiligung 81,7 Prozent, knapp unter dem Landeswert."
+}
+],
 "km_vom_vorigen": 7.3
 },
 {
@@ -109504,169 +110252,193 @@ window.QA_DATEN = {
 "lon": 7.03333,
 "karten": [
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Vom Brand zum Marktflecken",
+"rang": 5,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Wülfrath",
-"steckbrief": "Wülfrath hat rund 20.700 Einwohner und liegt 9 km westlich von Wuppertal.",
-"frage": "Nach dem großen Brand von 1578 war Wülfrath zerstört. Womit half der Landesherr, Herzog Wilhelm, dem Dorf wieder auf?",
+"steckbrief": "Gut 20.000 Einwohner, 9 km westlich von Wuppertal.",
+"frage": "Nach dem Großbrand im 16. Jahrhundert, der das Dorf Wülfrath zerstörte, half der Herzog. Was bewilligte er?",
 "optionen": [
-"Er verlieh dem Dorf die vollen Stadtrechte.",
-"Er ließ zum Wiederaufbau Kalksteinbrüche anlegen.",
-"Er ließ das Dorf woanders neu aufbauen.",
-"Er erlaubte dem Dorf steuerfreie Märkte."
+"Er verlieh dem Dorf die Stadtrechte.",
+"Er erlaubte einen eigenen Pferdemarkt.",
+"Er verlieh dem Dorf das Münzrecht.",
+"Er bewilligte dem Dorf steuerfreie Jahrmärkte."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Stadtrechte wären das große Geschenk gewesen, doch die erhielt Wülfrath endgültig erst sehr viel später. Herzog Wilhelm von Jülich-Kleve-Berg erlaubte vier steuerfreie Märkte, damit sich das Dorf wirtschaftlich erholte. Später handelte man dort mit Speck, Schinken und Früchten. Den Marktbrief zählt das Stadtarchiv zu seinen Schmuckstücken. Richtig war 4.",
+"rueckseite": "Du hattest [Option] getippt. Stadtrechte liegen nahe, weil Märkte und Städte oft zusammengehören; Stadt wurde Wülfrath aber erst viel später. Herzog Wilhelm von Jülich-Kleve-Berg bewilligte vier steuerfreie Märkte im Jahr. So konnten Handel und Gewerbe wieder erstarken, und Wülfrath wurde ein Marktflecken. Richtig war 4.",
 "quelle": "Gemeinde-Webseite, www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte",
 "faktencheck": "korrigiert",
-"id": "355-wuelfrath/v0.8/1",
+"id": "355-wuelfrath/v0.9/2",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "FREIZEIT",
+"charakteristikum": "Erdgeschichtliches Museum „Zeittunnel“",
+"rang": 6,
+"familie": "D",
+"sorte": "Geschichte",
 "ort": "Wülfrath",
-"steckbrief": "Wülfrath hat rund 20.700 Einwohner und liegt 9 km westlich von Wuppertal.",
-"frage": "Wie viele Einwohner leben in Wülfrath durchschnittlich auf einem Quadratkilometer?",
+"steckbrief": "Gut 20.000 Einwohner, 9 km westlich von Wuppertal.",
+"frage": "Wülfrath hat einen „Zeittunnel“. Was verbirgt sich hinter dem Namen?",
 "optionen": [
-"unter 700",
-"700 bis unter 1.000",
-"1.000 bis unter 1.500",
-"1.500 und mehr"
+"ein erdgeschichtliches Museum",
+"eine Sternwarte mit Planetarium",
+"ein Uhrenmuseum",
+"eine Geisterbahn im Freizeitpark"
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Wuppertal lässt an eine dicht bebaute Vorstadt denken. Doch zu Wülfrath gehören auch dörfliche Ortsteile wie Düssel und große Kalksteinbrüche. Im Schnitt leben 642 Einwohner auf einem Quadratkilometer. Richtig war 1.",
-"quelle": "GRUNDDATEN, berechnet aus Einwohnerzahl (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
-"faktencheck": "bestätigt",
-"id": "355-wuelfrath/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Wülfrath",
-"steckbrief": "Wülfrath hat rund 20.700 Einwohner und liegt 9 km westlich von Wuppertal.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Der Kalkabbau begann erst nach dem Zweiten Weltkrieg.",
-"Ein Bürgermeister rief die Freiwillige Feuerwehr ins Leben.",
-"Nach einer Feuersbrunst halfen Nachbargemeinden beim Wiederaufbau."
-],
-"art": "luege",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Nachbarschaftshilfe nach einem Brand klingt nach schöner Legende, ist aber belegt. Und Bürgermeister Albert Kirschbaum rief tatsächlich die Freiwillige Feuerwehr ins Leben. Gelogen war der späte Kalkabbau: Kalksteinbrüche entstanden lange vor dem Krieg, nachdem die Eisenbahn kam, und Thyssen baute Kalk im industriellen Rahmen ab. Die Lüge war 1.",
-"quelle": "Gemeinde-Webseite, www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte",
-"faktencheck": "bestätigt",
-"id": "355-wuelfrath/v0.8/3",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Wülfrath",
-"steckbrief": "Wülfrath hat rund 20.700 Einwohner und liegt 9 km westlich von Wuppertal.",
-"frage": "Welche Partei holte bei der Bundestagswahl 2025 in Wülfrath die zweitmeisten Zweitstimmen?",
-"optionen": [
-"CDU",
-"AfD",
-"SPD",
-"Grüne"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Die AfD legte 2025 bundesweit stark zu und kam auch in Wülfrath auf 18,7 Prozent. Für Platz zwei reichte das nicht: Die SPD erhielt 20,7 Prozent, nur die CDU lag vor ihr. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "355-wuelfrath/v0.8/4",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Wülfrath",
-"steckbrief": "Wülfrath hat rund 20.700 Einwohner und liegt 9 km westlich von Wuppertal.",
-"frage": "August Havemann war ab 1919 Bürgermeister von Wülfrath und wurde nach der Machtergreifung 1933 NSDAP-Mitglied. Was ist aus der NS-Zeit über ihn überliefert?",
-"optionen": [
-"Er drängte die NSDAP-Ortsgruppe aus der Kommunalpolitik.",
-"Er übernahm selbst die Leitung der NSDAP-Ortsgruppe.",
-"Er trat ständig bei öffentlichen Aufmärschen auf.",
-"Er schützte eine jüdische Familie vor der Deportation."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Ein Parteibuch und ein Bürgermeisteramt klingen nach Macht im Regime. Doch die NSDAP drängte Havemann weitgehend an die Seite, die Kommunalpolitik bestimmte nun vor allem die Ortsgruppenleitung; er trat nur noch selten öffentlich auf. Bis zu seinem Tod hielt er schützend seine Hand über die jüdische Familie Beyth und bewahrte sie vor der Deportation. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/sichtbare-geschichte-strassen-tragen-buergermeister-namen",
+"rueckseite": "Du hattest [Option] getippt. Beim Wort Zeit denkt man an Uhren, doch gemeint ist die Erdgeschichte: Der Zeittunnel ist ein erdgeschichtliches Museum. Er ist Ausgangspunkt, um die Industriekultur und -natur der Steinbrüche rund um Wülfrath zu erkunden. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.wuelfrath.net/kultur-tourismus/uebersicht-stadtportrait",
 "faktencheck": "korrigiert",
-"id": "355-wuelfrath/v0.8/5",
+"id": "355-wuelfrath/v0.9/3",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Wülfrath",
-"steckbrief": "Wülfrath hat rund 20.700 Einwohner und liegt 9 km westlich von Wuppertal.",
-"frage": "Wie weit ist Wülfrath in Luftlinie von der Landeshauptstadt Düsseldorf entfernt?",
-"optionen": [
-"unter 25 km",
-"25 bis unter 40 km",
-"40 bis unter 60 km",
-"60 km und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Der Steckbrief nennt Wuppertal als nahe Großstadt, da wirkt die Landeshauptstadt am Rhein weiter weg. Doch auch Düsseldorf liegt nur 19 Kilometer Luftlinie entfernt, gut doppelt so weit wie Wuppertal. Richtig war 1.",
-"quelle": "GRUNDDATEN, berechnet aus Koordinaten (Wikidata, staedte.json)",
-"faktencheck": "bestätigt",
-"id": "355-wuelfrath/v0.8/6",
-"tisch": false
-},
-{
+"facette": "INFRA",
+"charakteristikum": "Hundertwasser-Kindergarten mit goldener Kuppel",
+"rang": 3,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Wülfrath",
-"steckbrief": "Wülfrath hat rund 20.700 Einwohner und liegt 9 km westlich von Wuppertal.",
-"frage": "Der Zeittunnel Wülfrath zeigt die Entwicklung von Flora und Fauna aus 400 Millionen Jahren. Was war der Tunnel früher?",
+"steckbrief": "Gut 20.000 Einwohner, 9 km westlich von Wuppertal.",
+"frage": "Der Wülfrather Kindergarten Düsseler Tor ist ein architektonischer Akzent. Woran orientiert sich seine Bauweise?",
 "optionen": [
-"Er war ein Bierkeller einer alten Brauerei.",
-"Er war ein Abbautunnel in einem Kalksteinbruch.",
-"Er war ein Fluchtgang der mittelalterlichen Wasserburg.",
-"Er war ein Stollen eines Erzbergwerks."
+"An bergischen Fachwerkhäusern mit grünen Fensterläden.",
+"An der Formensprache Friedensreich Hundertwassers.",
+"Am Bauhaus mit weißen Würfeln und Flachdach.",
+"An einer Ritterburg der Grafen von Berg."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ein Tunnel in einer alten Stadt lässt an Keller oder geheime Fluchtgänge denken. Doch der Zeittunnel liegt in einem ehemaligen Abbautunnel des Bochumer Bruchs, eines stillgelegten Kalksteinbruchs. Neben der Erdgeschichte erzählt er auch von der Kalkindustrie. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.wuelfrath.net/kultur-tourismus/kulturtourismus-sehenswertes",
-"faktencheck": "bestätigt",
-"id": "355-wuelfrath/v0.8/7",
+"rueckseite": "Du hattest [Option] getippt. Im Bergischen Land liegt Fachwerk mit grünen Läden nahe, denn so sehen viele alte Häuser der Gegend aus. Der Kindergarten folgt aber der Formensprache Friedensreich Hundertwassers. Zusammen mit einem neuen Wohngebiet setzt er einen architektonischen Akzent, den man in einer Stadt mit gut 20.000 Einwohnern nicht erwartet. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.wuelfrath.net/kultur-tourismus/uebersicht-stadtportrait",
+"faktencheck": "korrigiert",
+"id": "355-wuelfrath/v0.9/4",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "Europas größter Kalksteinbruch",
+"rang": 1,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Wülfrath",
-"steckbrief": "Wülfrath hat rund 20.700 Einwohner und liegt 9 km westlich von Wuppertal.",
-"frage": "Flurnamen wie Osterparten deuten darauf hin, dass das mittelalterliche Wülfrath eine Befestigung mit Pforten, Toren und einer Mauer hatte. Wozu diente sie vermutlich laut Ortsgeschichte?",
+"steckbrief": "Gut 20.000 Einwohner, 9 km westlich von Wuppertal.",
+"frage": "Das Werk Flandersbach in Wülfrath gilt als Europas größtes seiner Art. Was ist es?",
 "optionen": [
-"Sie zeigte Wülfraths Rang als Stadt.",
-"Sie schirmte den Dorfkern von der Eisenbahn ab.",
-"Sie hielt Wölfe und umherziehende Räuber ab.",
-"Sie sicherte die Sparkasse und ihre Einlagen."
+"Es ist ein Braunkohletagebau.",
+"Es ist ein Steinkohlebergwerk.",
+"Es ist ein Kalkwerk.",
+"Es ist eine Ziegelei."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Mauer und Tore klingen nach einer stolzen Stadt, doch Wülfrath war damals ein Dorf. Die Ortsgeschichte nimmt an, dass die Befestigung einigermaßen vor Wölfen und zum Teil vor umherziehenden Räubern schützte. Darauf deuten Flurnamen wie Osterparten für die östliche Pforte und Pörtzges für das Pförtchen. Richtig war 3. (Neue Negativnachweise: 2 – Weg (a), die Niederbergbahn kam erst 1886 (LVR KLD-343037, 355-wuelfrath/027). 4 – Weg (a), die Sparkasse wurde erst 1842 gegründet (Orts-Anschluss).)",
-"quelle": "Gemeinde-Webseite, www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte",
+"rueckseite": "Du hattest [Option] getippt. Braunkohle liegt nahe, denn die riesigen Tagebaue des Rheinlands sind bekannt. Flandersbach gilt aber als das größte Kalkwerk Europas. Dort werden jedes Jahr rund 7,5 Millionen Tonnen Kalkstein abgebaut und gebrannt. Für eine Stadt mit gut 20.000 Einwohnern prägt das Werk Landschaft und Arbeitsleben. Richtig war 3.",
+"quelle": "LVR-KuLaDig, www.kuladig.de/Objektansicht/KLD-343042; ZKG International 9/2011",
 "faktencheck": "korrigiert",
-"id": "355-wuelfrath/v0.8/8",
+"id": "355-wuelfrath/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "NSDAP-Bürgermeister schützte jüdische Familie",
+"rang": 2,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Wülfrath",
+"steckbrief": "Gut 20.000 Einwohner, 9 km westlich von Wuppertal.",
+"frage": "August Havemann war von 1919 bis 1940 Bürgermeister von Wülfrath. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Er wurde in der NS-Zeit NSDAP-Mitglied.",
+"Er schützte eine jüdische Familie vor Deportation.",
+"Bei linken Parteien war er verhasst."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem späteren NSDAP-Mitglied liegt nahe, dass die Linke ihn ablehnte. Doch der antidemokratisch gesinnte Havemann genoss wegen seiner Tüchtigkeit und sozialen Einstellung Sympathien auch bei linken Parteien. Bis zu seinem Tod schützte er die jüdische Familie Beyth vor der Deportation. In Wülfrath tragen Straßen die Namen früherer Bürgermeister; die Havemannstraße hat ein erklärendes Schild. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/sichtbare-geschichte-strassen-tragen-buergermeister-namen",
+"faktencheck": "bestätigt",
+"id": "355-wuelfrath/v0.9/6",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Kleinstadt zwischen zwei Großstädten",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wülfrath",
+"steckbrief": "Stadt 9 km westlich von Wuppertal, 19 km von Düsseldorf.",
+"frage": "Wie viele Einwohner hat Wülfrath?",
+"optionen": [
+"unter 25.000",
+"25.000 bis unter 40.000",
+"40.000 bis unter 60.000",
+"60.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Zwischen Wuppertal und Düsseldorf schätzt man leicht höher, weil man dichte Vorstädte erwartet. Wülfrath hat aber 20.704 Einwohner (Stand Ende 2025). Auf gut 32 Quadratkilometern sind das rund 640 je Quadratkilometer: eine Kleinstadt im Umland zweier Großstädte. Richtig war 1.",
+"quelle": "Wikidata P1082, Stand 2025-12-31; Fläche Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "355-wuelfrath/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Radweg auf alter Bahntrasse",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wülfrath",
+"steckbrief": "Gut 20.000 Einwohner, 9 km westlich von Wuppertal.",
+"frage": "Durch Wülfrath führt ein Radweg über Viadukte und Brücken. Was verlief früher auf seiner Strecke?",
+"optionen": [
+"Dort verlief ein Kanal für Lastkähne.",
+"Dort fuhren Züge einer Bahnstrecke.",
+"Dort verlief eine römische Heerstraße.",
+"Dort verlief ein Aquädukt für Trinkwasser."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei Viadukten denkt man auch an Aquädukte, doch hier fuhr die Niederbergbahn. Nach ihrer Stilllegung wurde die Trasse zum PanoramaRadweg niederbergbahn. Er führt durch Wülfrath, Velbert, Heiligenhaus und Haan und hat Anschluss an den Ruhrtalradweg. Unterwegs sieht man Eisenbahngeschichte und Relikte der Kalkindustrie: Der Weg erzählt, was die Gegend geprägt hat. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.wuelfrath.net/kultur-tourismus/wander-und-radwege",
+"faktencheck": "unsicher",
+"id": "355-wuelfrath/v0.9/8",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Diakonie als größter Arbeitgeber",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wülfrath",
+"steckbrief": "Gut 20.000 Einwohner, 9 km westlich von Wuppertal.",
+"frage": "Wer bezeichnet sich als größter Arbeitgeber in Wülfrath?",
+"optionen": [
+"Das Kalkunternehmen Rheinkalk",
+"Der Farbenhersteller Jonas",
+"Der Kinderfahrzeugbauer PUKY",
+"Die Bergische Diakonie Aprath"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Rheinkalk liegt nahe, weil man in einer Industriestadt einen Industriebetrieb erwartet. Als größter Arbeitgeber Wülfraths bezeichnet sich aber die Bergische Diakonie Aprath. Sie hat ihren Sitz in Wülfrath und betreibt Altenheime, Kinder- und Jugendhilfe sowie Hilfen bei psychischer Erkrankung und Sucht. Die Stadt lebt also nicht nur von Industrie, sondern auch von Pflege und Betreuung. Richtig war 4.",
+"quelle": "Kaiserswerther Generalkonferenz, Mitgliederprofil Bergische Diakonie Aprath",
+"faktencheck": "korrigiert",
+"id": "355-wuelfrath/v0.9/9",
 "tisch": false
 }
 ],
 "anschluss_von": "354-mettmann",
 "anschluss": [
-"Sparkasse: Mettmann und Wülfrath gründeten 1842 eine gemeinsame.",
-"Einwohner: Mettmann hat fast doppelt so viele wie Wülfrath."
+"Mettmann hat fast doppelt so viele Einwohner wie Wülfrath.",
+"Wülfrath und Mettmann tragen beide das Kennzeichen ME."
 ],
 "anschluesse": {
 "194-langenfeld": [
@@ -109708,8 +110480,8 @@ window.QA_DATEN = {
 "Wülfrath liegt rund 210 Meter höher als Erkrath."
 ],
 "354-mettmann": [
-"Sparkasse: Mettmann und Wülfrath gründeten 1842 eine gemeinsame.",
-"Einwohner: Mettmann hat fast doppelt so viele wie Wülfrath."
+"Mettmann hat fast doppelt so viele Einwohner wie Wülfrath.",
+"Wülfrath und Mettmann tragen beide das Kennzeichen ME."
 ],
 "356-wuppertal": [
 "Wuppertal hat siebzehnmal so viele Einwohner wie Wülfrath."
@@ -109783,6 +110555,32 @@ window.QA_DATEN = {
 },
 "ags": "05158036",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Kleinstadt im Niederbergischen Land, 9 km westlich von Wuppertal und 19 km von Düsseldorf, an der Anger."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Seit 1856 Stadt; zwei Großbrände, 1578 und 1678; Fachwerkdorf Düssel mit romanischer St.-Maximin-Kirche."
+},
+{
+"facette": "ALLTAG",
+"text": "Kalkabbau prägt die Wirtschaft; dazu Jonas Farbenwerke, Kinderfahrzeuge von PUKY und die Bergische Diakonie Aprath."
+},
+{
+"facette": "FREIZEIT",
+"text": "Niederbergisches Museum, Zeittunnel, Weihnachtsmarkt auf dem Kirchplatz, neanderland STEIG, Bergischer Weg und Kaiserroute."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof Wülfrath und Haltepunkt Wülfrath-Aprath; gut 20.700 Einwohner auf gut 32 km²; Partnerstädte Bondues und Ware."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU 31,3 %, SPD 20,7 %, AfD 18,7 %; Wahlbeteiligung 83,2 %, einen Punkt über Landesschnitt."
+}
+],
 "km_vom_vorigen": 5.9
 },
 {
@@ -109995,189 +110793,216 @@ window.QA_DATEN = {
 "lon": 7.04163,
 "karten": [
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "falsche Krupp-Fabrik auf dem Rottberg",
+"rang": 1,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Velbert",
-"steckbrief": "Rund 82.000 Einwohner, 12 km nordwestlich von Wuppertal.",
-"frage": "Im Stadtwappen von Velbert sitzt ein grünes Eichenblatt. Wofür steht es?",
+"steckbrief": "Velbert, rund 82.000 Einwohner, liegt 12 km nordwestlich von Wuppertal.",
+"frage": "Von 1941 bis 1944 betrieb die Luftwaffe auf dem Velberter Rottberg eine besondere Anlage. Wozu diente sie?",
 "optionen": [
-"Es erinnert an eine alte Gerichtseiche.",
-"Es steht für einen jahrhundertealten Eichenbestand.",
-"Es ehrt die Gerber, die Eichenrinde nutzten.",
-"Es steht für die Holzkohle der Schmieden."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Eine Gerichtseiche liegt nahe, denn alte Eichen zieren oft Wappen als Zeichen von Recht und Dorfmitte. Das Velberter Blatt meint aber den jahrhundertealten Eichenbestand auf einer Anhöhe Langenbergs. Auch das frühere Langenberger Wappen trug eine stilisierte rote Eiche. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.velbert.de/stadtleben/stadt-velbert/wappen",
-"faktencheck": "bestätigt",
-"id": "357-velbert/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Velbert",
-"steckbrief": "Rund 82.000 Einwohner, 12 km nordwestlich von Wuppertal.",
-"frage": "Wie groß ist das gesamte Stadtgebiet von Velbert?",
-"optionen": [
-"unter 25 km²",
-"25 bis unter 50 km²",
-"50 bis unter 100 km²",
-"100 km² und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Bei gut 82.000 Einwohnern vor den Toren Wuppertals schätzt man leicht eine kompakte Stadt. Velbert misst aber 74,9 Quadratkilometer. Rechnerisch kommen damit knapp 1.100 Menschen auf einen Quadratkilometer. Richtig war 3.",
-"quelle": "Wikidata P2046; Einwohner: Wikidata P1082, Stand 2025-12-31",
-"faktencheck": "bestätigt",
-"id": "357-velbert/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Velbert",
-"steckbrief": "Rund 82.000 Einwohner, 12 km nordwestlich von Wuppertal.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Die heutige Stadt vereint Velbert, Langenberg und Neviges.",
-"Der Ortsteil Neviges ist seit Jahrhunderten ein Wallfahrtsort.",
-"Langenbergs Sender startete erst nach dem Zweiten Weltkrieg."
-],
-"art": "luege",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Der Sender Langenberg ging schon in den Zwanzigerjahren in Betrieb, in der Frühzeit des Rundfunks. Die Nachkriegszeit liegt nahe, weil viele große Sendemasten erst mit dem Fernsehen entstanden. Die beiden anderen Aussagen stimmen. Die Lüge war 3.",
-"quelle": "Gemeinde-Webseite, www.velbert.de/stadtleben/stadt-velbert/geschichte",
-"faktencheck": "bestätigt",
-"id": "357-velbert/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Velbert",
-"steckbrief": "Rund 82.000 Einwohner, 12 km nordwestlich von Wuppertal.",
-"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte in Velbert die stärkste Partei?",
-"optionen": [
-"unter 30 Prozent",
-"30 bis unter 35 Prozent",
-"35 bis unter 40 Prozent",
-"40 Prozent und mehr"
+"Sie lenkte Bomber auf eine nachgebaute Fabrik ab.",
+"Sie ortete feindliche Bomber mit Radar.",
+"Sie beleuchtete einen Landeplatz für Nachtjäger.",
+"Sie diente als bombensicheres Munitionslager."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. In einer Stadt im Umland denkt man leicht an eine Union über 30 Prozent. In Velbert holte die CDU aber 29 Prozent, dahinter folgten SPD und AfD mit je rund einem Fünftel. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "357-velbert/v0.8/4",
+"rueckseite": "Du hattest [Option] getippt. Auf dem Rottberg stand eine Nachtscheinanlage: Mit Lichtern ahmte sie in groben Zügen die Krupp-Werke in Essen nach und sollte nächtliche Bombenangriffe ablenken. Radar liegt näher, weil man bei der Luftwaffe zuerst an Abwehr denkt. Seit Mai 1942 kannten die Alliierten die Täuschung, Anfang 1944 wurde die Anlage stillgelegt. Erhalten ist nur der Leitbunker, heute ein Baudenkmal. Richtig war 1.",
+"quelle": "LVR-Amt für Denkmalpflege, www.kuladig.de/Objektansicht/O-64369-20130417-2",
+"faktencheck": "korrigiert",
+"id": "357-velbert/v0.9/1",
 "tisch": false
 },
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Marienwallfahrt mit Böhm-Dom in Neviges",
+"rang": 3,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Velbert",
-"steckbrief": "Rund 82.000 Einwohner, 12 km nordwestlich von Wuppertal.",
-"frage": "Im Velberter Ortsteil Langenberg steht ein schlossartiges Bürgerhaus mit Türmen und Erkern. Wer hatte es gestiftet?",
+"steckbrief": "Velbert, rund 82.000 Einwohner, liegt 12 km nordwestlich von Wuppertal; Neviges ist einer seiner Stadtteile.",
+"frage": "In Neviges steht eine Wallfahrtskirche von Gottfried Böhm. Was verehren die Pilger dort?",
 "optionen": [
-"Ein Schlossfabrikant und seine Frau stifteten es.",
-"Ein Seidenfabrikanten-Ehepaar stiftete es.",
-"Die evangelische Kirchengemeinde stiftete es.",
-"Ein Bergwerksbesitzer stiftete es."
+"Sie verehren die Gebeine eines heiligen Bischofs.",
+"Sie verehren ein Marienbild als Gnadenbild.",
+"Sie verehren ein Kreuz, das einen Brand überstand.",
+"Sie verehren das Grab einer heiligen Einsiedlerin."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Bei einem prächtigen Haus mit Türmen und Sälen denkt man schnell an Geld aus Kohle, zumal es im Velberter Raum Bergbau gab. Gestiftet haben es aber die Seidenfabrikanten Sophie und Adalbert Colsman. Heute steht das Haus unter Denkmalschutz. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.velbert.de/kultur/historisches-buergerhaus-langenberg",
-"faktencheck": "bestätigt",
-"id": "357-velbert/v0.8/5",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Velbert",
-"steckbrief": "Rund 82.000 Einwohner, 12 km nordwestlich von Wuppertal.",
-"frage": "Welches Kfz-Kennzeichen tragen die meisten Autos in Velbert?",
-"optionen": [
-"W",
-"E",
-"ME",
-"EN"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. W liegt nahe, denn Wuppertal ist die nächste Großstadt. Velbert gehört aber zum Kreis Mettmann, und der vergibt ME. Die Stadt liegt im Nordosten des Kreises, zentral zwischen Düsseldorf, Essen und Wuppertal. Richtig war 3.",
-"quelle": "Wikidata P395; Kreiszugehörigkeit: Gemeinde-Webseite, www.velbert.de/stadtleben/stadt-velbert/daten-fakten",
+"rueckseite": "Du hattest [Option] getippt. Neviges ist seit 1681 ein Marienwallfahrtsort: Die Pilger kommen zum Gnadenbild der Unbefleckten Empfängnis, einem Bild, dem besondere Gnade zugeschrieben wird. Gebeine oder Gräber liegen nahe, weil viele Wallfahrten bei einem Heiligen beginnen. Nach dem Zweiten Weltkrieg kamen immer mehr Pilger. Deshalb baute Gottfried Böhm von 1965 bis 1968 den Mariendom, eine Betonkirche mit freitragendem Faltdach. Richtig war 2.",
+"quelle": "LVR-Amt für Denkmalpflege, www.kuladig.de/Objektansicht/KLD-310621; www.mariendom.de",
 "faktencheck": "korrigiert",
-"id": "357-velbert/v0.8/6",
+"id": "357-velbert/v0.9/2",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "Hügelstadt vom Deilbach bis Neviges",
+"rang": 7,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Velbert",
-"steckbrief": "Rund 82.000 Einwohner, 12 km nordwestlich von Wuppertal.",
-"frage": "Ab 1700 machte sich Velbert in Europa einen Namen. Womit?",
+"steckbrief": "Velbert, rund 82.000 Einwohner, liegt 12 km nordwestlich von Wuppertal.",
+"frage": "Velberts höchster Punkt liegt mit 303 Metern in Neviges. Wo liegt der tiefste Punkt der Stadt?",
 "optionen": [
-"Velbert wurde für Porzellan und Steingut bekannt.",
-"Velbert wurde für Taschenuhren und Uhrwerke bekannt.",
-"Velbert wurde für Glas und Spiegel bekannt.",
-"Velbert wurde für Schlösser und Beschläge bekannt."
+"Er liegt in Velbert-Mitte unterhalb des Rathauses.",
+"Er liegt in Neviges unterhalb von Schloss Hardenberg.",
+"Er liegt am Deilbach an der Essener Grenze.",
+"Er liegt im Windrather Tal in Neviges."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Am tiefsten liegt Velbert am Deilbach in Langenberg, wo die Stadt an Essen grenzt. Ein Ortskern liegt als Antwort nahe, weil Städte oft im Tal wachsen. Der tiefste Punkt liegt aber am Stadtrand, an einem Bach. Velbert liegt an den nördlichen Ausläufern des Bergischen Landes; vom Deilbach bis zum Fettenberger Weg in Neviges ist die Stadt ein Auf und Ab. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.velbert.de/stadtleben/stadt-velbert/daten-fakten",
+"faktencheck": "korrigiert",
+"id": "357-velbert/v0.9/3",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Schlösser und Beschläge, „Schlüsselregion“",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Velbert",
+"steckbrief": "Velbert, rund 82.000 Einwohner, liegt 12 km nordwestlich von Wuppertal.",
+"frage": "Velbert wirbt zusammen mit einer Nachbarstadt als „Schlüsselregion“. Was steckt hinter dem Namen?",
+"optionen": [
+"Ein Kloster des heiligen Petrus gab den Namen.",
+"Die Gegend war für Schlüsselblumen bekannt.",
+"Ein alter Handelsweg hieß hier Schlüsselweg.",
+"Hier sitzt ein Zentrum der Schließ- und Sicherheitstechnik."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Porzellan liegt nahe, weil damals manche Orte mit feiner Manufakturware berühmt wurden. Velbert machte sich aber als Herkunftsort von Schlössern und Beschlägen einen Namen. Daran erinnert heute das Deutsche Schloss- und Beschlägemuseum in Velbert-Mitte. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.velbert.de/stadtleben/stadt-velbert/geschichte",
+"rueckseite": "Du hattest [Option] getippt. Der Name ist wörtlich gemeint: Velbert ist Sitz einer bedeutenden Schloss- und Beschlägeindustrie. Ein Kloster oder eine Blume liegen nahe, weil alte Ortsnamen oft so entstehen; dieser ist aber ein Netzwerk der Industrie. Hergestellt werden Hausschlüssel, Schließsysteme für Fahrzeuge und Beschlagteile. Das Deutsche Schloss- und Beschlägemuseum in Velbert-Mitte erzählt die Geschichte der Schließtechnik. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.velbert.de/wirtschaft/die-schluesselregion",
 "faktencheck": "korrigiert",
-"id": "357-velbert/v0.8/7",
+"id": "357-velbert/v0.9/4",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "ein Wappen aus drei Städten",
+"rang": 8,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Velbert",
-"steckbrief": "Rund 82.000 Einwohner, 12 km nordwestlich von Wuppertal.",
-"frage": "1919 wählte Neviges, heute Teil Velberts, erstmals eine Frau ins Stadtparlament: Anna Küpper. Für welche Partei trat sie an?",
+"steckbrief": "Velbert, rund 82.000 Einwohner, liegt 12 km nordwestlich von Wuppertal.",
+"frage": "Im Velberter Wappen trägt der Knauf des Schlüssels ein grünes Eichenblatt. Wofür steht es?",
 "optionen": [
-"Sie kandidierte für die USPD.",
-"Sie kandidierte für die katholische Zentrumspartei.",
-"Sie kandidierte für die SPD.",
-"Sie kandidierte für die liberale DDP."
+"Es steht für Eichen auf einer Langenberger Anhöhe.",
+"Es erinnert an eine alte Gerichtseiche im Ortskern.",
+"Es steht für die Eichenrinde früherer Gerbereien.",
+"Es ehrt die Wälder um Schloss Hardenberg."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Die SPD liegt nahe, denn sie hatte das Frauenwahlrecht lange gefordert. Anna Küpper trat aber für die USPD an, eine Abspaltung der SPD. Im Stadtparlament arbeitete sie in Kommissionen für Gesundheit, Wohlfahrt, Schulbildung und Jugendpflege. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.velbert.de/stadtleben/stadt-velbert/geschichte/frauenwahlrecht",
+"rueckseite": "Du hattest [Option] getippt. Das Eichenblatt steht für den Eichenbestand auf einer Anhöhe Langenbergs; schon Langenbergs altes Wappen zeigte einen Dreiberg mit Eiche. Eine Gerichtseiche liegt nahe, weil Eichen oft an alte Gerichtsplätze erinnern. Die Herrschaft Hardenberg steckt im schwarzen Doppelsparren am Bart. Das Wappen vereint Elemente der früheren Wappen von Velbert, Langenberg und Neviges, die heute eine Stadt sind. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.velbert.de/stadtleben/stadt-velbert/wappen",
 "faktencheck": "bestätigt",
-"id": "357-velbert/v0.8/8",
+"id": "357-velbert/v0.9/5",
 "tisch": false
 },
 {
-"familie": "A",
+"facette": "INFRA",
+"charakteristikum": "Bahn erst im Tal, Sender Langenberg",
+"rang": 6,
+"familie": "B",
 "sorte": "Geschichte",
 "ort": "Velbert",
-"steckbrief": "Rund 82.000 Einwohner, 12 km nordwestlich von Wuppertal.",
-"frage": "1861 legte die Velberter Firma David Peters den Grundstein für ein betriebliches Sozialversicherungssystem. Womit?",
+"steckbrief": "Velbert, rund 82.000 Einwohner, liegt 12 km nordwestlich von Wuppertal.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Mit einer Pensionskasse für alte Arbeiter.",
-"Mit einer Kasse gegen Unfälle im Betrieb.",
-"Mit einer Kasse für Krankheit und Sterbefälle.",
-"Mit einer Sparkasse für die Belegschaft."
+"Schon früh führte eine Bahnlinie über Langenberg und Neviges.",
+"Das alte Velbert bekam die Bahn vor Langenberg und Neviges.",
+"In Langenberg ging in den Zwanzigerjahren ein Rundfunksender in Betrieb."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Gelogen ist die frühe Bahn fürs alte Velbert: Die Strecke Steele–Vohwinkel über Langenberg und Neviges war 1847 vollendet, Velbert wurde erst 1888 ans Eisenbahnnetz angeschlossen. Die Lüge liegt nahe, weil in Velbert-Mitte heute das Rathaus steht. Velbert, Langenberg und Neviges waren damals noch getrennte Orte. Der Sender Langenberg ging 1927 in Betrieb. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.velbert.de/stadtleben/stadt-velbert/geschichte",
+"faktencheck": "korrigiert",
+"id": "357-velbert/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "weitläufige Stadt aus drei Teilen",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Velbert",
+"steckbrief": "Velbert, rund 82.000 Einwohner, liegt 12 km nordwestlich von Wuppertal.",
+"frage": "Wie groß ist das Stadtgebiet von Velbert?",
+"optionen": [
+"unter 35 km²",
+"35 bis unter 55 km²",
+"55 bis unter 85 km²",
+"85 km² und mehr"
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Eine Unfallkasse liegt nahe, denn Fabrikarbeit war damals gefährlich. Am Anfang stand aber eine Unterstützungskasse für Krankheit und Sterbefälle. Daraus wuchs ein umfangreiches betriebliches Sozialversicherungssystem, lange bevor der Staat eine Krankenversicherung einführte. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.velbert.de/stadtleben/stadt-velbert/geschichte",
+"rueckseite": "Du hattest [Option] getippt. Velbert misst 74,9 km². Eine kleinere Spanne liegt nahe, weil man eine Stadt dieser Größe kompakt vermutet. Doch Velbert hat drei große Stadtteile: Neviges mit gut 28 km², Velbert-Mitte mit knapp 27 und Langenberg mit knapp 20. Wuppertal kommt auf rund 168 km². Zwischen den Stadtteilen liegen Wälder, Wiesen und Bachauen. Richtig war 3.",
+"quelle": "Wikidata P2046; Stadtteilflächen: Gemeinde-Webseite, www.velbert.de/stadtleben/stadt-velbert/daten-fakten",
 "faktencheck": "bestätigt",
-"id": "357-velbert/v0.8/9",
+"id": "357-velbert/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Langenberg: Seide, Sender, Segelflug",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Velbert",
+"steckbrief": "Velbert, rund 82.000 Einwohner, liegt 12 km nordwestlich von Wuppertal; Langenberg ist einer seiner Stadtteile.",
+"frage": "In den 1930er-Jahren warb Langenberg mit drei Wörtern: „Seide – Sender – …“. Wofür stand das dritte?",
+"optionen": [
+"Das dritte Wort war Schlösser.",
+"Das dritte Wort war Segelflug.",
+"Das dritte Wort war Steinkohle.",
+"Das dritte Wort war Sommerfrische."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Spruch lautete „Seide – Sender – Segelflug“. Auf dem Wallmichrath in Langenberg lag von 1928 bis 1952 ein Segelflugplatz. Schlösser liegen nahe, weil Velbert heute dafür bekannt ist, doch der Spruch galt dem damals eigenständigen Langenberg. Seide stand für die Seidenfabrikanten, Sender für den Rundfunksender. Richtig war 2.",
+"quelle": "Deutsche Digitale Bibliothek, J. Lohbeck: Seide – Sender – Segelflug (2014)",
+"faktencheck": "korrigiert",
+"id": "357-velbert/v0.9/8",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Weltmeister im Formationstanz",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Velbert",
+"steckbrief": "Velbert, rund 82.000 Einwohner, liegt 12 km nordwestlich von Wuppertal.",
+"frage": "Ein Velberter Verein wurde mehrfach Weltmeister, bekannt war er für die Figur „Velberter Rose“. In welcher Sportart?",
+"optionen": [
+"Die Rose war eine Figur im Eiskunstlauf.",
+"Die Rose war eine Figur im Synchronschwimmen.",
+"Die Rose war eine Figur im Rollkunstlauf.",
+"Die Rose war eine Figur im lateinamerikanischen Formationstanz."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die „Velberter Rose“ war eine Figur des TSZ Velbert im lateinamerikanischen Formationstanz. Eiskunstlauf oder Synchronschwimmen liegen nahe, weil man auch dort Figuren zeigt. Die Lateinformation des TSZ Velbert wurde mehrfach Weltmeister. Für eine Stadt mit rund 82.000 Einwohnern ist das eine ungewöhnliche Bilanz. Richtig war 4.",
+"quelle": "Deutscher Tanzsportverband, www.tanzsport.de (Hall of Fame, Weltmeister Formationen)",
+"faktencheck": "korrigiert",
+"id": "357-velbert/v0.9/9",
 "tisch": false
 }
 ],
 "anschluss_von": "356-wuppertal",
 "anschluss": [
-"Einwohner: Wuppertal zählt mehr als viermal so viele wie Velbert.",
-"Erste Stadtverordnete im heutigen Velbert-Neviges: Anna Küpper, geboren in Wuppertal-Cronenberg."
+"Velbert hatte 2025 mit 82 Prozent höhere Wahlbeteiligung als Wuppertal.",
+"Die erste Frau im Nevigeser Stadtparlament kam aus Cronenberg, heute Wuppertal."
 ],
 "anschluesse": {
 "196-ratingen": [
@@ -110213,8 +111038,8 @@ window.QA_DATEN = {
 "Velbert hat viermal so viele Einwohner wie Wülfrath."
 ],
 "356-wuppertal": [
-"Einwohner: Wuppertal zählt mehr als viermal so viele wie Velbert.",
-"Erste Stadtverordnete im heutigen Velbert-Neviges: Anna Küpper, geboren in Wuppertal-Cronenberg."
+"Velbert hatte 2025 mit 82 Prozent höhere Wahlbeteiligung als Wuppertal.",
+"Die erste Frau im Nevigeser Stadtparlament kam aus Cronenberg, heute Wuppertal."
 ],
 "358-heiligenhaus": [
 "Velbert hat gut dreimal so viele Einwohner wie Heiligenhaus."
@@ -110275,6 +111100,32 @@ window.QA_DATEN = {
 },
 "ags": "05158032",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Velbert liegt im Niederbergischen Land, 12 km nordwestlich von Wuppertal, zwischen 70,6 und 303 Metern hoch; Fläche 74,9 km²."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Seit 1975 eine Stadt aus Velbert, Langenberg und Neviges; 875 erstmals als „Feldbrahti“ erwähnt; Schloss Hardenberg in Neviges."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 82.000 Einwohner; Zentrum der Schloss- und Beschlägeherstellung, zusammen mit Heiligenhaus „Schlüsselregion“ genannt."
+},
+{
+"facette": "FREIZEIT",
+"text": "Mariendom Neviges, Schloss- und Beschlägemuseum, Historisches Bürgerhaus, Bismarckturm und Klettergarten in Langenberg."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhöfe Velbert Hauptbahnhof, Langenberg, Nierenhof und Rosenhügel; Helios Klinikum Niederberg; Sender Langenberg; Kennzeichen ME."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU 29 %, SPD 20,1 %, AfD 20 %; Wahlbeteiligung 82 %, fast genau wie im Land."
+}
+],
 "km_vom_vorigen": 12.8
 },
 {
@@ -110800,208 +111651,215 @@ window.QA_DATEN = {
 "lon": 7.065,
 "karten": [
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Denkmal für Flugzeugabsturz im Nebel",
+"rang": 2,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Heisingen",
-"steckbrief": "Essener Stadtteil mit rund 14.000 Einwohnern, 7 km südöstlich der Stadtmitte.",
-"frage": "Haus Heisingen geht auf den Hof Kofeld zurück, der im 11. und 12. Jahrhundert zu einer kleinen Burg ausgebaut wurde. Welche Aufgabe hatte der Hof schon im 9. Jahrhundert?",
+"steckbrief": "Essener Stadtteil mit knapp 13.000 Einwohnern, 7 km südöstlich der Stadtmitte.",
+"frage": "In Heisingen steht ein Fliegerdenkmal. Woran erinnert es?",
 "optionen": [
-"Er schützte Kohlevorräte der ersten Zechen.",
-"Er war Sommersitz eines Bischofs.",
-"Er sicherte die Ansprüche der Franken an der Grenze zu den Sachsen.",
-"Er schützte eine Zollstelle am Rhein."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein befestigter Hof lässt an Kohle oder einen Bischofssitz denken, doch Kohle wurde hier erst viel später entdeckt. Im 9. Jahrhundert lag Heisingen an der Grenze zwischen fränkischem und sächsischem Siedlungsgebiet, und der Hof Kofeld sicherte die Ansprüche der Franken. Im 11. und 12. Jahrhundert wurde er zur kleinen Burg ausgebaut, ab dem 13. Jahrhundert war er ein Lehen des Klosters Werden. Richtig war 3.",
-"quelle": "LVR, KuLaDig, kuladig.de/Objektansicht/A-CW-20090514-0031",
-"faktencheck": "korrigiert",
-"id": "360-heisingen/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Heisingen",
-"steckbrief": "Stadtteil von Essen mit rund 13.000 Einwohnern, 7 km südöstlich der Stadtmitte, auf einer Halbinsel in einer Ruhrschleife.",
-"frage": "Wie groß ist die Fläche des Stadtteils Heisingen?",
-"optionen": [
-"unter 3 km²",
-"3 bis unter 4,5 km²",
-"4,5 bis unter 6 km²",
-"6 km² oder mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Ein Stadtteil mit Ortskern und lockerer Wohnbebauung wirkt klein. Doch Heisingen misst 6,83 km²; neben Wohngebieten liegen dort auch die Heisinger Ruhraue und das Vogelschutzgebiet Heisinger Bogen. Richtig war 4.",
-"quelle": "Wikidata P2046",
-"faktencheck": "bestätigt",
-"id": "360-heisingen/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Heisingen",
-"steckbrief": "Essener Stadtteil mit rund 13.000 Einwohnern, 7 km südöstlich der Stadtmitte.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Die Kirche St. Georg ist aus Ruhrsandstein gebaut.",
-"Der Stemmerhof belieferte den Werdener Propst mit Fisch.",
-"Die Zeche Carl Funke fördert noch heute Kohle."
-],
-"art": "luege",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet klingt Kohle nach Alltag, doch die Zeche Carl Funke wurde 1973 stillgelegt; ihr Fördergerüst von 1921 ist heute ein Baudenkmal. Wahr sind die anderen: St. Georg wurde aus heimischem Ruhrsandstein gebaut, und der Stemmerhof hatte die Aufgabe, den Propst von Werden mit Fisch zu versorgen. Die Lüge war 3.",
-"quelle": "LVR, KuLaDig, kuladig.de",
-"faktencheck": "korrigiert",
-"id": "360-heisingen/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Heisingen",
-"steckbrief": "Essener Stadtteil mit rund 13.000 Einwohnern, 7 km südöstlich der Stadtmitte.",
-"frage": "Bundestagswahl 2025, Zweitstimmen in ganz Essen: Wie viel Prozent holte die stärkste Partei?",
-"optionen": [
-"unter 24 %",
-"24 bis unter 28 %",
-"28 bis unter 32 %",
-"32 % oder mehr"
+"Es erinnert an einen Flugpionier aus dem Ort.",
+"Es erinnert an einen Absturz im dichten Nebel.",
+"Es erinnert an einen Abschuss im Luftkampf.",
+"Es erinnert an eine Notlandung ohne Verletzte."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet erwarten viele eine übermächtige SPD. In ganz Essen lag aber die CDU vorn, mit 26,5 Prozent der Zweitstimmen, vor der SPD. Die Zahl gilt für ganz Essen, nicht eigens für Heisingen. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "360-heisingen/v0.8/4",
+"rueckseite": "Du hattest [Option] getippt. An einen Abschuss denkt man schnell, denn das Unglück geschah im Ersten Weltkrieg. Doch über Heisingen stürzte ein Staaken-Flugzeug der Deutschen Fliegertruppe in dichtem Nebel ab; Besatzungsmitglieder kamen dabei ums Leben. Das Denkmal erinnert an diesen Absturz. Für einen grünen Wohnort am Wasser ist das ein überraschend dramatisches Stück Geschichte. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html",
+"faktencheck": "korrigiert",
+"id": "360-heisingen/v0.9/1",
 "tisch": false
 },
 {
-"familie": "A",
+"facette": "FREIZEIT",
+"charakteristikum": "Bergbaumuseum im Altenzentrum",
+"rang": 3,
+"familie": "D",
 "sorte": "Geschichte",
 "ort": "Heisingen",
-"steckbrief": "Essener Stadtteil mit rund 13.000 Einwohnern, 7 km südöstlich der Stadtmitte.",
-"frage": "Im Ortskern feiert Heisingen traditionell das Wottelfest. Was ist mit „Wottel“ gemeint?",
+"steckbrief": "Stadtteil im Essener Süden, knapp 13.000 Einwohner, 7 km südöstlich der Stadtmitte.",
+"frage": "Welche dieser vier Dinge gibt es in Heisingen?",
 "optionen": [
-"„Wottel“ meint eine Wurst.",
-"„Wottel“ meint ein Bierfass.",
-"„Wottel“ meint eine Möhre.",
-"„Wottel“ meint einen Tanz."
+"Ein Hallenbad mit Sprungturm",
+"Eine Brauerei mit Biergarten",
+"Ein Bergbau- und Heimatmuseum im Altenzentrum",
+"Eine Knappschaftsklinik für Bergleute"
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Bei einem Volksfest denkt man zuerst an Wurst oder Bier. Doch „Wottel“ stammt von „Wurzel“, gemeint ist die Möhre. Richtig war 3.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Heisingen",
-"faktencheck": "unsicher",
-"id": "360-heisingen/v0.8/5",
+"rueckseite": "Du hattest [Option] getippt. Die Klinik für Bergleute klingt passend, denn in Heisingen wurde lange Kohle gefördert. Tatsächlich gibt es ein Bergbau- und Heimatmuseum im Paulushof; getragen wird es von einem offenen Kreis der evangelischen Kirchengemeinde Essen-Heisingen. So hütet der Stadtteil seine Zechenzeit mitten im Gemeindeleben, nicht in einem großen Museumsbau. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_startseite.de.jsp; Ev. Kirchengemeinde Essen-Heisingen (e-pflicht.ulb.hhu.de/download/pdf/115477)",
+"faktencheck": "korrigiert",
+"id": "360-heisingen/v0.9/2",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Heisingen",
-"steckbrief": "Stadtteil im Süden Essens mit rund 13.000 Einwohnern, 7 km südöstlich der Stadtmitte.",
-"frage": "In welchem Zeitraum wurde Heisingen nach Essen eingemeindet?",
-"optionen": [
-"vor 1890",
-"1890 bis 1909",
-"1910 bis 1924",
-"1925 oder später"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Wer an das rasche Wachstum Essens in der Kaiserzeit denkt, tippt früh. Heisingen hatte aber noch ein eigenes Rathaus und kam erst am 1. August 1929 zu Essen. Richtig war 4.",
-"quelle": "dewiki Infobox",
-"faktencheck": "bestätigt",
-"id": "360-heisingen/v0.8/6",
-"tisch": false
-},
-{
+"facette": "LAGE",
+"charakteristikum": "Ruhrhalbinsel am Baldeneysee",
+"rang": 5,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Heisingen",
-"steckbrief": "Essener Stadtteil mit rund 14.000 Einwohnern, 7 km südöstlich der Stadtmitte.",
-"frage": "Der spätere Nationaltorwart Jens Lehmann, ein gebürtiger Essener, spielte als Kind in Heisingen. Bei welchem Verein begann er?",
+"steckbrief": "Essener Stadtteil mit knapp 13.000 Einwohnern, 7 km südöstlich der Stadtmitte.",
+"frage": "Westlich von Heisingen liegt der Baldeneysee. Was für ein See ist das?",
 "optionen": [
-"Er begann bei der DJK Heisingen.",
-"Er begann bei Rot-Weiß Oberhausen.",
-"Er begann bei Westfalia Herne.",
-"Er begann bei Preußen Münster."
+"Er ist ein Baggersee ohne Verbindung zur Ruhr.",
+"Er ist ein Senkungssee, gespeist nur von Grubenwasser.",
+"Er ist ein von der Ruhr verlassener Altarm.",
+"In ihn geht die Ruhr direkt über."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Senkungssee liegt nahe, denn im Ruhrgebiet sackte über alten Stollen oft der Boden ab, und in Heisingen gab es Bergbau. Doch der Baldeneysee ist aufgestaute Ruhr: Der Ruhrverband ließ in Werden eine Staumauer bauen, hinter der sich der Fluss zum See weitet. Zusammen mit dem Schellenberger Wald rahmt er den Stadtteil auf der Ruhrhalbinsel ein, ein Wohn- und Ausflugsort im Grünen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_startseite.de.jsp; KuLaDig, www.kuladig.de/Objektansicht/A-KHB-20080829-0031",
+"faktencheck": "korrigiert",
+"id": "360-heisingen/v0.9/3",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Zechenort Carl Funke an der Ruhr",
+"rang": 1,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Heisingen",
+"steckbrief": "Essener Stadtteil zwischen Baldeneysee und Schellenberger Wald, knapp 13.000 Einwohner.",
+"frage": "Wofür stand Heisingen lange als Arbeitsort?",
+"optionen": [
+"Eine Steinkohlenzeche an der Ruhr",
+"Ein Stahlwerk mit Hochofen",
+"Eine Textilfabrik mit Weberei",
+"Eine Glashütte mit Schmelzofen"
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Bei einem späteren Nationaltorwart denkt man an einen großen Revierklub. Jens Lehmann begann aber bei der DJK Heisingen. Später wurde er Vize-Weltmeister und Vize-Europameister. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Heisingen",
+"rueckseite": "Du hattest [Option] getippt. Ein Stahlwerk liegt nahe, weil viele bei Essen zuerst an Stahl denken. Heisingen aber war ein Bauern- und Bergarbeiterort: Schon früh wurde hier Kohle gefördert und über die Ruhr verschifft, später fasste Carl Funke die Kleinzechen zu einem Großbetrieb zusammen, und mit der Zeche wuchs der Stadtteil. An der Lanfermannfähre steht noch ein Förderturm als Industriedenkmal. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_geschichte.de.html; www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_startseite.de.jsp",
 "faktencheck": "korrigiert",
-"id": "360-heisingen/v0.8/7",
+"id": "360-heisingen/v0.9/4",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Jens Lehmanns erster Fußballverein",
+"rang": 4,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Heisingen",
-"steckbrief": "Essener Stadtteil mit rund 13.000 Einwohnern, 7 km südöstlich der Stadtmitte.",
-"frage": "Woher hat der Stadtteil Heisingen seinen Namen?",
+"steckbrief": "Stadtteil im Essener Süden mit knapp 13.000 Einwohnern, 7 km von der Stadtmitte.",
+"frage": "Der frühere Nationaltorwart Jens Lehmann machte seine ersten Fußballschritte in Heisingen. Bei welchem Verein?",
 "optionen": [
-"Der Name erinnert an heiße Quellen.",
-"Der Name erinnert an eine Waldlichtung.",
-"Der Name erinnert an eine Heerstraße.",
-"Der Name erinnert an eine Ruhrfähre."
+"Er begann beim Heisinger SV 52/96.",
+"Er begann bei der DJK Heisingen.",
+"Er begann beim SV Essen-Heisingen 1958.",
+"Er begann bei der Sportgemeinschaft Ruhr 1929."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. „Heis“ klingt nach heiß, daher liegen Quellen nahe. Doch der Name verweist auf das Waldgebiet Heißi, das schon 796 in einer Werdener Urkunde genannt wird. Ein Rest davon sind die Wälder der Heisinger Mark. Richtig war 2.",
-"quelle": "LVR, KuLaDig, kuladig.de/Objektansicht/A-KL-20090624-0001",
-"faktencheck": "korrigiert",
-"id": "360-heisingen/v0.8/8",
+"rueckseite": "Du hattest [Option] getippt. Der Heisinger SV 52/96 liegt nahe, denn er gilt heute als wichtiger Teil des Heisinger Lebens. Gegründet wurde er aber erst 1996, als die Fußballabteilung der DJK Heisingen mit dem FC Heisingen fusionierte; Lehmanns erste Schritte lagen davor. Dass ein späterer Vize-Weltmeister aus dem Vereinsleben eines Stadtteils kommt, zeigt, wie sehr Fußball hier dazugehört. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html",
+"faktencheck": "unsicher",
+"id": "360-heisingen/v0.9/5",
 "tisch": false
 },
 {
-"familie": "A",
+"facette": "INFRA",
+"charakteristikum": "Kohlenbahn durchs Ruhrtal",
+"rang": 8,
+"familie": "B",
 "sorte": "Geschichte",
 "ort": "Heisingen",
-"steckbrief": "Essener Stadtteil mit rund 13.000 Einwohnern, 7 km südöstlich der Stadtmitte.",
-"frage": "Im Wald am Wechselpfad steht ein Fliegerdenkmal. Woran erinnert es?",
+"steckbrief": "Essener Stadtteil auf der Ruhrhalbinsel, knapp 13.000 Einwohner, 7 km südöstlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Es erinnert an Opfer eines Bombenangriffs.",
-"Es erinnert an die Bruchlandung eines Luftschiffs.",
-"Es erinnert an einen Flugpionier aus Heisingen.",
-"Es erinnert an tote Besatzungsmitglieder eines Militärflugzeugs."
+"Eine Schrägseilbrücke führt über die Ruhr nach Kupferdreh.",
+"Die Ruhrtalbahn entstand vor allem für Ausflügler.",
+"In Heisingen wird eine Bundesstraße zur Autobahn."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Gelogen ist die Ausflüglerbahn. Das klingt plausibel, weil das Ruhrtal heute ein Ausflugsgebiet ist. Die Ruhrtalbahn der Bergisch-Märkischen Eisenbahn-Gesellschaft sollte aber vor allem Kohle aus den Zechen im Ruhrtal zum Hafen Ruhrort bringen. Für den Bergbauort Heisingen war sie die Verbindung zur größeren Wirtschaft; der Bahnhof lag unten am Ende der Bahnhofstraße. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Heisingen",
+"faktencheck": "unsicher",
+"id": "360-heisingen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "viel Fläche mit Aue und Wald",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Heisingen",
+"steckbrief": "Essener Stadtteil auf der Ruhrhalbinsel, knapp 13.000 Einwohner, 7 km südöstlich der Stadtmitte.",
+"frage": "Wie groß ist die Fläche des Stadtteils Heisingen?",
+"optionen": [
+"unter 2 km²",
+"2 bis unter 4 km²",
+"4 bis unter 6 km²",
+"6 km² und mehr"
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Bei einem Fliegerdenkmal denkt man an Bombenangriffe, und der Typname „Zeppelin“ lässt an ein Luftschiff denken. Doch die Zeppelin (Staaken) R.VI war ein deutsches Militärflugzeug. Das Denkmal erinnert an Besatzungsmitglieder, die bei einem Unfall ums Leben kamen. Richtig war 4.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Heisingen",
-"faktencheck": "unsicher",
-"id": "360-heisingen/v0.8/9",
+"rueckseite": "Du hattest [Option] getippt. Ein Stadtteil klingt klein, deshalb liegt eine niedrige Spanne nahe. Heisingen umfasst aber 6,83 Quadratkilometer. Dazu gehören die geschützte Heisinger Ruhraue und Teile des Schellenberger Walds. Rund 13.000 Menschen teilen sich diese Fläche mit Aue, Wald und Wasser. Richtig war 4.",
+"quelle": "GRUNDDATEN, Wikidata P2046; Einwohner: Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_startseite.de.jsp, Stand 31.03.2025; OpenStreetMap",
+"faktencheck": "bestätigt",
+"id": "360-heisingen/v0.9/7",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Sommerresidenz der Werdener Äbte",
+"rang": 7,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Heisingen",
-"steckbrief": "Essener Stadtteil mit rund 13.000 Einwohnern, 7 km südöstlich der Stadtmitte.",
-"frage": "Die Kampmannbrücke verbindet Heisingen mit Kupferdreh. 1950/51 entstand dort eine Behelfsbrücke. Bis wann war sie in Betrieb?",
+"steckbrief": "Essener Stadtteil mit knapp 13.000 Einwohnern, 7 km südöstlich der Stadtmitte.",
+"frage": "Am rechten Ruhrufer steht das denkmalgeschützte Haus Heisingen. Wozu diente es früher?",
 "optionen": [
-"Sie war bis 1962 in Betrieb.",
-"Sie war bis 1979 in Betrieb.",
-"Sie war bis 2016 in Betrieb.",
-"Sie war bis 1995 in Betrieb."
+"Es war eine Lateinschule für Klosterschüler.",
+"Es war Sommerresidenz von Klosteräbten.",
+"Es war ein Kurhaus mit eigener Heilquelle.",
+"Es war ein Gasthof für Fuhrleute."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Gasthof liegt nahe, weil an Flüssen oft alte Häuser Reisende bewirteten. Haus Heisingen aber war die Sommerresidenz der Äbte der Abtei Werden. Heisingen gehörte lange zur Abtei; das Haus am Ruhrufer zeigt bis heute, wie eng Ort und Kloster verbunden waren. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html",
+"faktencheck": "unsicher",
+"id": "360-heisingen/v0.9/8",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Wottelfest, ein Möhrenfest",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heisingen",
+"steckbrief": "Essener Stadtteil zwischen Baldeneysee und Schellenberger Wald, knapp 13.000 Einwohner.",
+"frage": "Heisingen feiert alljährlich das Wottelfest. Was bedeutet „Wottel“?",
+"optionen": [
+"Wottel ist ein altes Wort für Kohle.",
+"Wottel ist Mundart für die Wachtel.",
+"Wottel bedeutet Wurzel, gemeint ist die Möhre.",
+"Wottel bezeichnet eine Fähre über die Ruhr."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Eine Behelfsbrücke klingt nach wenigen Jahren Übergang. Doch sie blieb bis 2016 in Betrieb. Ihr Nachfolger ist eine Schrägseilbrücke; die erste Kampmannbrücke war eine Pontonbrücke. Richtig war 3.",
+"rueckseite": "Du hattest [Option] getippt. Kohle liegt in einem alten Bergbauort nahe. Wottel heißt aber Wurzel, gemeint ist die Möhre. Das Fest gehört zur Wottelkirmes und gilt als alljährliches Highlight im Ort. Ein Gemüse im Festnamen passt zur dörflichen Atmosphäre, die Essen seinem Stadtteil Heisingen bescheinigt. Richtig war 3.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Heisingen",
 "faktencheck": "unsicher",
-"id": "360-heisingen/v0.8/10",
+"id": "360-heisingen/v0.9/9",
 "tisch": false
 }
 ],
 "anschluss_von": "359-hattingen",
 "anschluss": [
-"Kennzeichen: In Heisingen steht E am Auto, in Hattingen WIT."
+"Hattingen hat gut zehnmal so viel Fläche wie Heisingen."
 ],
 "anschluesse": {
 "196-ratingen": [
@@ -111038,12 +111896,769 @@ window.QA_DATEN = {
 "Kreisgrenze: Heiligenhaus ist kreisfrei, Heisingen gehört zum Landkreis Stadtkreis Essen."
 ],
 "359-hattingen": [
-"Kennzeichen: In Heisingen steht E am Auto, in Hattingen WIT."
+"Hattingen hat gut zehnmal so viel Fläche wie Heisingen."
 ]
 },
 "ags": "05113000",
 "ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Auf der Ruhrhalbinsel, 7 km südöstlich der Essener Mitte, zwischen Baldeneysee und Schellenberger Wald; 6,83 Quadratkilometer."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 796 erwähnt, rund tausend Jahre bei der Abtei Werden, ab 1910 eigene Gemeinde, seit 1929 bei Essen."
+},
+{
+"facette": "ALLTAG",
+"text": "Wohnort im Grünen mit knapp 13.000 Einwohnern; früher prägte die Zeche Carl Funke den Ort, ein Förderturm steht noch."
+},
+{
+"facette": "FREIZEIT",
+"text": "Segel- und Kanuvereine, Bergbau- und Heimatmuseum, Korteklippe, Ruhrtalradweg, BaldeneySteig, Bergischer Weg und das Wottelfest."
+},
+{
+"facette": "INFRA",
+"text": "Kampmannbrücke nach Kupferdreh, die Ruhrtalbahn, und in Heisingen wird die B 227 zur A 44."
+}
+],
 "km_vom_vorigen": 8.4
+},
+{
+"slug": "496-neuwied",
+"name": "Neuwied",
+"lat": 50.42861,
+"lon": 7.46139,
+"karten": [
+{
+"facette": "ALLTAG",
+"charakteristikum": "handwerkliche Edelobstbrennerei in Gönnersdorf",
+"rang": 10,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Neuwied",
+"steckbrief": "Kreisstadt mit rund 67.000 Einwohnern, 12 km nordwestlich von Koblenz.",
+"frage": "Welches dieser vier Dinge gibt es in Neuwied?",
+"optionen": [
+"eine Edelobstbrennerei",
+"eine Sektkellerei",
+"eine Zuckerfabrik",
+"eine Porzellanmanufaktur"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Am Rhein bei Koblenz liegt der Sekt nahe, denn Wein und Sekt verbindet man mit dem Mittelrhein. Neuwied hat stattdessen eine handwerkliche Brennerei für Edelobstbrand, die Gönnersdorfer Edelobstbrennerei. Sie liegt in Gönnersdorf, einem Ortsteil von Feldkirchen. Für eine Kreisstadt mit gut 67.000 Einwohnern ist das ein Stück Dorfhandwerk. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/tourismus; OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "496-neuwied/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Raiffeisens Bürgermeisteramt in Heddesdorf",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Neuwied",
+"steckbrief": "Rund 67.000 Einwohner, 12 km nordwestlich von Koblenz.",
+"frage": "Friedrich Wilhelm Raiffeisen gilt als einer der Gründer des deutschen Genossenschaftswesens. Welche Rolle spielte er im heutigen Neuwied?",
+"optionen": [
+"Er war Landrat des Kreises Neuwied.",
+"Er war Bürgermeister der Gemeinde Heddesdorf.",
+"Er war Pfarrer der Gemeinde Engers.",
+"Er war Lehrer an der Schule in Irlich."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Landrat liegt nahe, denn Neuwied ist Kreisstadt, und ein Mann mit so großer Wirkung scheint in ein hohes Amt zu passen. Raiffeisen war aber ab 1852 Bürgermeister von Heddesdorf, damals eine Gemeinde bei Neuwied; heute ist Heddesdorf ein Stadtteil. An ihn erinnert in Neuwied die Raiffeisenbrücke. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/geschichtliches/der-deich; Neue Deutsche Biographie",
+"faktencheck": "korrigiert",
+"id": "496-neuwied/v0.9/2",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Eishockeyhalle im Rheintal",
+"rang": 6,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Neuwied",
+"steckbrief": "Stadt am Rhein mit rund 67.000 Einwohnern, 12 km nordwestlich von Koblenz.",
+"frage": "Welches dieser vier Dinge gibt es in Neuwied?",
+"optionen": [
+"eine Sommerrodelbahn",
+"ein Planetarium",
+"eine Eishockeyhalle",
+"eine Galopprennbahn"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eis im milden Rheintal klingt unwahrscheinlich, deshalb liegt die Sommerrodelbahn näher. Neuwied hat aber das Icehouse, eine Eissporthalle, in der der EHC Neuwied seine Eishockeyspiele austrägt, oft vor mehr als tausend Zuschauern. Für eine Stadt mit gut 67.000 Einwohnern am Rhein ist das ein Stück Wintersport mitten im Tal. Richtig war 3.",
+"quelle": "Die Rheinpfalz; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "496-neuwied/v0.9/3",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Deich als Wahrzeichen der Deichstadt",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Neuwied",
+"steckbrief": "Rund 67.000 Einwohner, am rechten Rheinufer, 12 km nordwestlich von Koblenz.",
+"frage": "Neuwied nennt sich Deichstadt. Auf wessen Betreiben entstand der Deich, der die Stadt vor dem Rhein schützt?",
+"optionen": [
+"Der Fürst zu Wied ließ ihn errichten.",
+"Die Fabrikanten am Ufer setzten ihn durch.",
+"Ein Bürgerverein sammelte Geld und baute ihn.",
+"Der Bürgermeister der Stadt trieb ihn voran."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Den Fürsten zu Wied hätte man vermutet, denn in einer Residenzstadt baut oft der Landesherr. Den Deich brachte aber Bürgermeister Robert Krups auf den Weg, nach mehreren schweren Hochwassern, die die Altstadt trafen; auf der Deichpromenade steht seine Bronzestatue. Der Deich ist Wahrzeichen der Deichstadt: Er schützt sie vor Hochwasser und ermöglichte erst ihre weitere Entwicklung. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/geschichtliches/der-deich",
+"faktencheck": "korrigiert",
+"id": "496-neuwied/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Roentgen-Möbel aus der Residenzstadt",
+"rang": 7,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Neuwied",
+"steckbrief": "Rund 67.000 Einwohner, 12 km nordwestlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"In der jungen Stadt galt schon früh Religionsfreiheit.",
+"Das Schloss war einst Regierungssitz des Fürstentums Wied.",
+"In Neuwied bauten die Roentgens vor allem Kirchenorgeln."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Orgeln klingen nach einer Residenzstadt mit Kirchen und Hof, darum wirkt die Lüge glaubhaft. Abraham und David Roentgen bauten in ihrer Werkstatt in der Pfarrstraße aber Möbel mit raffinierter Mechanik, die an Fürstenhöfen ganz Europas bekannt waren. Religionsfreiheit und Regierungssitz stimmen. So hatte die Residenzstadt am Rhein eine Werkstatt von Weltruf. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/geschichtliches/schriftenreihe",
+"faktencheck": "unsicher",
+"id": "496-neuwied/v0.9/6",
+"tisch": false
+},
+{
+"facette": "POLITIK",
+"charakteristikum": "Wahlbeteiligung deutlich unter dem Landeswert",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Neuwied",
+"steckbrief": "Kreisstadt mit rund 67.000 Einwohnern, 12 km nordwestlich von Koblenz.",
+"frage": "Bei der Bundestagswahl 2025 gingen in Rheinland-Pfalz 83 Prozent wählen. Wie lag die Wahlbeteiligung in Neuwied im Vergleich dazu?",
+"optionen": [
+"mehr als 2 Punkte darüber",
+"höchstens 2 Punkte Abstand",
+"mehr als 2 bis 8 Punkte darunter",
+"mehr als 8 Punkte darunter"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Kreisstadt nahe Koblenz könnte man nah am Landesschnitt erwarten. Tatsächlich gingen in Neuwied 77,4 Prozent wählen, 5,6 Punkte weniger als die 83 Prozent im Land. In größeren Städten liegt die Beteiligung oft unter dem Umland. Für eine Stadt mit gut 67.000 Einwohnern ist der Abstand deutlich; vorn lag die CDU vor der AfD. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23; Landeswert: Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes; Einwohner: Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "496-neuwied/v0.9/7",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Schienen für die erste deutsche Eisenbahn",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Neuwied",
+"steckbrief": "Rund 67.000 Einwohner, 12 km nordwestlich von Koblenz.",
+"frage": "Die Eisen- und Stahlindustrie spielte in Neuwieds Wirtschaft eine zentrale Rolle. Was lieferte das Metallunternehmen Rasselstein für die erste deutsche Dampfeisenbahn zwischen Nürnberg und Fürth?",
+"optionen": [
+"Es baute die Lokomotive für die Strecke.",
+"Es stellte die Schienen für die Strecke her.",
+"Es lieferte die eisernen Personenwagen.",
+"Es baute die Bahnhofshalle in Nürnberg."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei der ersten deutschen Dampfeisenbahn denkt man zuerst an die Lokomotive, sie ist das bekannte Prunkstück. Aus Neuwied kamen aber die Schienen: Das Metallunternehmen Rasselstein stellte sie her. Eisen und Stahl prägten Neuwieds Wirtschaft lange; heute hat die Kreisstadt einen Branchenmix aus Industrie, Dienstleistung und Handel. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/wirtschaft/daten-fakten; museum-digital Rheinland-Pfalz",
+"faktencheck": "korrigiert",
+"id": "496-neuwied/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Siedlungsplatz eiszeitlicher Jäger in Gönnersdorf",
+"rang": 3,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Neuwied",
+"steckbrief": "Rund 67.000 Einwohner, 12 km nordwestlich von Koblenz.",
+"frage": "Im Neuwieder Ortsteil Gönnersdorf haben Archäologen gegraben. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Siedlungsplatz dort stammt aus römischer Zeit.",
+"Archäologen fanden dort Knochen von Mammut und Ren.",
+"Dort fand man Schieferplättchen mit Zeichnungen darauf."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Römer liegen nahe, denn in Neuwied erinnern Limestürme an ihre Grenze. Der Siedlungsplatz in Gönnersdorf ist aber viel älter: Dort lebten eiszeitliche Jäger, und die Grabung brachte Knochen von Mammut bis Eisfuchs, Werkzeuge und Schmuck zutage. Mitten im heutigen Stadtgebiet lässt sich so das Leben am Rhein in der Eiszeit ablesen. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/feldkirchen; OpenStreetMap",
+"faktencheck": "bestätigt",
+"id": "496-neuwied/v0.9/9",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Forschungsreisender aus dem Fürstenhaus",
+"rang": 9,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Neuwied",
+"steckbrief": "Rund 67.000 Einwohner, 12 km nordwestlich von Koblenz.",
+"frage": "Prinz Maximilian zu Wied war ein Nachfahre des Stadtgründers. Wodurch wurde er im 19. Jahrhundert bekannt?",
+"optionen": [
+"Er schrieb Opern für das Schlosstheater.",
+"Er baute als Ingenieur Brücken über den Rhein.",
+"Er erforschte auf Expeditionen Amerika.",
+"Er erfand eine frühe Rechenmaschine."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Prinz aus einer Residenzstadt mit Schlosstheater lässt an Musik und Hof denken. Maximilian zu Wied war aber Forschungsreisender und zog auf Expeditionen durch Amerika; die Stadt vergleicht seine Bedeutung mit der Alexander von Humboldts. Ihm zu Ehren gibt es im Zoo Neuwied eine Südamerika-Halle. So reicht das Fürstenhaus der Stadt bis zu den Expeditionen nach Amerika. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/tourismus",
+"faktencheck": "korrigiert",
+"id": "496-neuwied/v0.9/10",
+"tisch": false
+}
+],
+"anschluss_von": "360-heisingen",
+"anschluss": [
+"Neuwied hat fast dreizehnmal so viel Fläche wie Heisingen."
+],
+"anschluesse": {
+"360-heisingen": [
+"Neuwied hat fast dreizehnmal so viel Fläche wie Heisingen."
+]
+},
+"ags": "07138045",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Am rechten Rheinufer, 12 km nordwestlich von Koblenz, 86,5 Quadratkilometer groß; nördlich liegt der Naturpark Rhein-Westerwald."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Einstige Residenz der Grafen und Fürsten zu Wied, mit Schloss und Schlosstheater; Spitzname Deichstadt."
+},
+{
+"facette": "ALLTAG",
+"text": "Kreisstadt mit gut 67.000 Einwohnern; früher Industriestandort mit Eisenwerk und Bims, heute Mittelzentrum mit Branchenmix."
+},
+{
+"facette": "FREIZEIT",
+"text": "Allwetterbad Deichwelle, Eishalle IceHouse, Zoo Neuwied, Deutsches Flippermuseum, Deichstadtfest im Juli, Wiedweg und Rheinsteig-Rundtour Fürstenweg."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhöfe Neuwied und Engers, Raiffeisenbrücke über den Rhein, zwei Marienhaus-Kliniken; Kennzeichen NR."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag die CDU vorn, vor AfD und SPD."
+}
+],
+"km_vom_vorigen": 111.9
+},
+{
+"slug": "497-altwied",
+"name": "Altwied",
+"lat": 50.4828,
+"lon": 7.46778,
+"karten": [
+{
+"facette": "ALLTAG",
+"charakteristikum": "preisgekröntes, gepflegtes Dorfbild",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Altwied",
+"steckbrief": "Stadtteil von Neuwied mit rund 670 Einwohnern, 16 km nordwestlich von Koblenz.",
+"frage": "Altwied trat 1975 im Bundeswettbewerb „Unser Dorf soll schöner werden“ an. Wie schnitt der Stadtteil ab?",
+"optionen": [
+"Altwied holte die Goldplakette als Bundessieger.",
+"Altwied schied schon im Kreisentscheid aus.",
+"Altwied landete knapp hinter den Siegern.",
+"Altwied holte eine Silberplakette auf Bundesebene."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Gold liegt nahe, denn wer mit diesem Wettbewerb wirbt, hat meist gewonnen. Altwied bekam Silber, war damit laut Stadt Neuwied aber einer von 31 Siegern unter fast 5000 Konkurrenten. Für einen Stadtteil mit rund 670 Einwohnern ist das viel; beim Durchfahren sieht man die gepflegten Gassen und Fachwerkhäuser. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/altwied",
+"faktencheck": "korrigiert",
+"id": "497-altwied/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Altwied als Vorläufer Neuwieds",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Altwied",
+"steckbrief": "Stadtteil von Neuwied mit rund 670 Einwohnern, 16 km nordwestlich von Koblenz.",
+"frage": "Altwied verlor einst seine Rolle als Ort des gräflichen Hofs. Welchen Grund nennt die Stadtgeschichte?",
+"optionen": [
+"Neuwied wurde gegründet, der Grafenhof zog ab.",
+"Ein Hochwasser der Wied verwüstete den Ort.",
+"Ein Bergsturz verschüttete Teile des Orts.",
+"Die Wied verlegte ihr Bett, das Tal versumpfte."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Im engen Wiedtal liegt eine Naturkatastrophe als Erklärung nahe. Die Stadtgeschichte nennt aber die Gründung Neuwieds und den Abzug der gräflichen Hofhaltung. Sie sieht in Altwied territorialgeschichtlich den Vorläufer der heutigen Stadt Neuwied. Zur Stadt wuchs Altwied selbst nicht heran, weil es verkehrsabgeschieden im engen Tal lag; heute leben dort rund 670 Menschen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/altwied",
+"faktencheck": "korrigiert",
+"id": "497-altwied/v0.9/2",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Dorfkapelle als Grafengrablege",
+"rang": 9,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Altwied",
+"steckbrief": "Stadtteil von Neuwied mit rund 670 Einwohnern, 16 km nordwestlich von Koblenz.",
+"frage": "Unter dem Chor der St.-Antonius-Kapelle in Altwied befand sich früher etwas Besonderes. Was?",
+"optionen": [
+"Ein Geheimgang führte von dort zur Burg.",
+"Dort lag zeitweise die Grablege der Grafen zu Wied.",
+"Dort lagerte der Zehntwein der Pfarrei.",
+"Dort verbargen Mönche einen Reliquienschatz."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Gang zur Burg klingt verlockend, denn Geheimgänge gehören zu vielen Burgsagen. Tatsächlich war die spätgotische Kapelle zeitweise Grablege der Grafen zu Wied; eiserne und steinerne Grabplatten sind in Chorwände und Außenmauern eingelassen. Dazu kommen im Chor alte ornamentale Fresken in lichten Farben. So trägt ein Dorf mit rund 670 Einwohnern ein Stück Grafengeschichte in seiner Kirche. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/altwied",
+"faktencheck": "korrigiert",
+"id": "497-altwied/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Ort in der Wiedschleife",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Altwied",
+"steckbrief": "Stadtteil von Neuwied mit rund 670 Einwohnern, 16 km nordwestlich von Koblenz.",
+"frage": "Wie liegt Altwied in der Landschaft?",
+"optionen": [
+"Der Ort liegt hoch über dem Wiedtal.",
+"Der Ort liegt direkt am Rheinufer.",
+"Der Ort liegt in einer Wiedschleife im Tal.",
+"Der Ort liegt in einem Seitental der Lahn."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Ort mit Burg denkt man leicht an eine Höhenlage. Altwied liegt aber tief eingebettet in einer Schleife des Wiedbachs im engen Wiedtal. Die Siedlung entstand unten in der Talaue, überragt von der Burgruine. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/altwied",
+"faktencheck": "korrigiert",
+"id": "497-altwied/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "uraltes Wasserkraftwerk unter der Burg",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Altwied",
+"steckbrief": "Stadtteil von Neuwied mit rund 670 Einwohnern, 16 km nordwestlich von Koblenz.",
+"frage": "Am Fuß der Burg Altwied steht eine Anlage, die zu den ältesten ihrer Art in Deutschland zählt. Welche?",
+"optionen": [
+"Es ist eine der ältesten Brauereien Deutschlands.",
+"Es ist eine der ältesten Hängebrücken Deutschlands.",
+"Es ist eine der ältesten Glockengießereien Deutschlands.",
+"Es ist eines der ältesten Wasserkraftwerke Deutschlands."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Unter einer Burg vermutet man eher Bier oder altes Handwerk. Tatsächlich steht dort ein Wasserkraftwerk, das die Stadt Neuwied zu den ältesten Deutschlands zählt, und es wird regelmäßig auf den neuesten Stand der Technik gebracht. In einem Ort mit rund 670 Einwohnern zeigt das, dass die Wied hier nicht nur Kulisse ist, sondern Strom liefert. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/altwied",
+"faktencheck": "korrigiert",
+"id": "497-altwied/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "gefreiter Burgflecken mit Selbstverwaltung",
+"rang": 7,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Altwied",
+"steckbrief": "Stadtteil von Neuwied mit rund 670 Einwohnern, 16 km nordwestlich von Koblenz.",
+"frage": "Altwied war einst ein Burgflecken. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Altwieder mussten den Grafen Frondienste leisten.",
+"Die Altwieder wählten Bürgermeister und Senat selbst.",
+"Die Altwieder stellten eine eigene Bürgerwache."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Senat klingt für ein Dorf zu groß, deshalb wirkt die Senatswahl verdächtig. Gelogen ist aber die Fron: Altwied war ein „gefreiter“ Ort mit gehobenen Rechten, befreit von Frondiensten, Einquartierungen und bestimmten Reichssteuern, mit eigenen Flurschützen. Für einen Ort, in dem heute rund 670 Menschen leben, war das ein beachtliches Bündel an Freiheiten. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/altwied",
+"faktencheck": "unsicher",
+"id": "497-altwied/v0.9/6",
+"tisch": false
+},
+{
+"facette": "POLITIK",
+"charakteristikum": "Beteiligung deutlich unter dem Land",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Altwied",
+"steckbrief": "Stadtteil von Neuwied mit rund 670 Einwohnern, 16 km nordwestlich von Koblenz.",
+"frage": "Bei der Bundestagswahl 2025 lag die Wahlbeteiligung in Rheinland-Pfalz bei 83 Prozent. Wie hoch war sie in der Stadt Neuwied, zu der Altwied gehört?",
+"optionen": [
+"unter 75 Prozent",
+"75 bis unter 80 Prozent",
+"80 bis unter 85 Prozent",
+"85 Prozent und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Mit dem Landeswert im Kopf tippt man leicht knapp darunter oder darüber. Die Stadt Neuwied, zu der Altwied gehört, lag mit 77,4 Prozent aber 5,6 Punkte unter dem Land. In Städten liegt die Beteiligung oft niedriger als in Dörfern; Altwieds rund 670 Einwohner gehen in diesem Stadtwert auf. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23; Landeswert: Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes",
+"faktencheck": "bestätigt",
+"id": "497-altwied/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Stammburg der Grafen zu Wied",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Altwied",
+"steckbrief": "Stadtteil von Neuwied mit rund 670 Einwohnern, 16 km nordwestlich von Koblenz.",
+"frage": "Um den Beginn des 12. Jahrhunderts ließ Metfried, Graf im Engersgau, die Burg Altwied bauen. Wozu diente sie ursprünglich?",
+"optionen": [
+"Sie sicherte als Zollburg den Rhein.",
+"Sie schützte ein Kloster im Wiedtal.",
+"Sie war Mittelpunkt seiner Grundherrschaft.",
+"Sie diente einem Bischof als Sommersitz."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Burgen an Flüssen denkt man sich gern als Zollstationen. Diese Burg war aber Mittelpunkt von Metfrieds Grundherrschaft und wurde zur Stammburg der Grafen zu Wied. Heute ist sie eine Ruine. Für einen Stadtteil mit rund 670 Einwohnern ist das viel Geschichte: Von hier stammt das Grafenhaus Wied. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/altwied",
+"faktencheck": "bestätigt",
+"id": "497-altwied/v0.9/8",
+"tisch": false
+}
+],
+"anschluss_von": "496-neuwied",
+"anschluss": [
+"Neuwied hat rund hundertmal so viele Einwohner wie Altwied.",
+"Altwied gehört seit 1970 zur Stadt Neuwied."
+],
+"anschluesse": {
+"496-neuwied": [
+"Neuwied hat rund hundertmal so viele Einwohner wie Altwied.",
+"Altwied gehört seit 1970 zur Stadt Neuwied."
+]
+},
+"ags": "07138045",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Kleiner Stadtteil im Norden von Neuwied, in einer Wiedschleife im Naturpark Rhein-Westerwald, 16 Kilometer nordwestlich von Koblenz."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Stammburg der Grafen zu Wied, Vorläufer der Stadt Neuwied; bis 1970 eigene Gemeinde, seitdem Stadtteil."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 670 Einwohner, gepflegte Gassen, Fachwerkhäuser aus dem 17. und 18. Jahrhundert, Silberplakette im Dorfwettbewerb 1975."
+},
+{
+"facette": "FREIZEIT",
+"text": "Burgruine, Reste der Ringmauer und die spätgotische St.-Antonius-Kapelle mit alten Fresken."
+},
+{
+"facette": "INFRA",
+"text": "Wasserkraftwerk am Fuß der Burg; Postleitzahl 56567, Vorwahl 02631, Kennzeichen NR."
+},
+{
+"facette": "POLITIK",
+"text": "Die Stadt Neuwied wählte bei der Bundestagswahl 2025 CDU vor AfD und SPD; Beteiligung 77,4 Prozent."
+}
+],
+"km_vom_vorigen": 6.0
+},
+{
+"slug": "498-rengsdorf",
+"name": "Rengsdorf",
+"lat": 50.50222,
+"lon": 7.49722,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Alterssitz des Henkel-Gründers",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rengsdorf",
+"steckbrief": "Gemeinde mit rund 3.000 Einwohnern, 18 Kilometer nördlich von Koblenz.",
+"frage": "Friedrich Karl Henkel gründete den Henkel-Konzern. Welche Verbindung hatte er zu Rengsdorf?",
+"optionen": [
+"Er gründete in Rengsdorf sein erstes Werk.",
+"Er wurde in Rengsdorf geboren.",
+"Er verbrachte seinen Lebensabend in Rengsdorf.",
+"Er machte in Rengsdorf seine Kaufmannslehre."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Konzerngründer denkt man zuerst an Fabrik oder Geburtshaus; beides liegt nahe. Friedrich Karl Henkel kam aber erst im Alter: Er hatte seinen Alterswohnsitz in Rengsdorf und starb dort. Dass ein Großindustrieller ausgerechnet ein Dorf mit heute rund 3.000 Einwohnern als Ruhesitz wählte, macht Rengsdorf zu einer stillen Adresse der Industriegeschichte. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rengsdorf",
+"faktencheck": "bestätigt",
+"id": "498-rengsdorf/v0.9/1",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Heilklimatischer Kurort",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rengsdorf",
+"steckbrief": "Gemeinde mit rund 3.000 Einwohnern, 18 Kilometer nördlich von Koblenz.",
+"frage": "Rengsdorf ist als Kurort anerkannt. Worauf stützt sich diese Anerkennung?",
+"optionen": [
+"Eine Thermalquelle im Ort liefert Heilwasser.",
+"Heilschlamm aus einem nahen Moor wird genutzt.",
+"Salzhaltige Sole aus der Tiefe wird genutzt.",
+"Das Klima des Orts ist als heilsam anerkannt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei „Kurort“ denkt man zuerst an Thermalquellen, Sole oder Moor, denn so sind die meisten Heilbäder bekannt. Rengsdorf ist aber heilklimatischer Kurort: Anerkannt ist das Klima selbst. Für ein Dorf mit rund 3.000 Einwohnern ist das ein Markenzeichen mit langer gesundheitstouristischer Tradition. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rengsdorf",
+"faktencheck": "unsicher",
+"id": "498-rengsdorf/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Fränkischer Wall mit Rheinsteig-Aussicht",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rengsdorf",
+"steckbrief": "Gemeinde mit rund 3.000 Einwohnern, 18 Kilometer nördlich von Koblenz.",
+"frage": "Der Rheinsteig führt bei Rengsdorf über den „Römergraben“, einen Wall mit Blick über das Neuwieder Becken. Was ist er nach heutiger Deutung?",
+"optionen": [
+"Er gilt als Grenzwall aus fränkischer Zeit.",
+"Er ist ein Rest des römischen Limes.",
+"Er gehörte zu einer römischen Wasserleitung.",
+"Er ist ein Schützengraben aus dem Ersten Weltkrieg."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Name legt die Römer nahe, und früher hielt man den Wall für einen Rest des Limes. Heute gilt er als Anlage aus fränkischer Zeit, erst nach dem Abzug der Römer entstanden; er diente wohl als Grenze zwischen Siedlungsbereichen. Heute führt der Rheinsteig darüber, mit weiter Aussicht über das Neuwieder Becken. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rengsdorf",
+"faktencheck": "korrigiert",
+"id": "498-rengsdorf/v0.9/3",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Sitz eines bundesweiten Badebetreibers",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rengsdorf",
+"steckbrief": "Gemeinde mit rund 3.000 Einwohnern, 18 Kilometer nördlich von Koblenz.",
+"frage": "Die Firma monte mare hat ihre Hauptverwaltung in Rengsdorf, weit weg vom Meer. Womit ist sie bundesweit bekannt?",
+"optionen": [
+"Sie handelt mit Fisch und Meeresfrüchten.",
+"Sie ist ein Betreiber von Bädern.",
+"Sie baut Segelboote und Jachten.",
+"Sie stellt Kosmetik aus Meersalz her."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. „Monte mare“ heißt Berg und Meer, das klingt nach Fisch, Salz oder Booten. Tatsächlich betreibt das Unternehmen Bäder; seine Hauptverwaltung sitzt in Rengsdorf. Für einen Ort mit rund 3.000 Einwohnern ist der Sitz eines bundesweit bekannten Badebetreibers eine große Adresse. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rengsdorf",
+"faktencheck": "unsicher",
+"id": "498-rengsdorf/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Bismarcksäule am Kaisereichenplatz",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rengsdorf",
+"steckbrief": "Gemeinde mit rund 3.000 Einwohnern, 18 Kilometer nördlich von Koblenz.",
+"frage": "Am südlichen Ortseingang von Rengsdorf steht eine Ehrensäule. Wen ehrt sie?",
+"optionen": [
+"Es ehrt Kaiser Wilhelm I.",
+"Es ehrt Feldmarschall Helmuth von Moltke.",
+"Es ehrt Reichskanzler Otto von Bismarck.",
+"Es ehrt Kaiser Friedrich III."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Kaiser- und Feldherrndenkmäler waren um 1900 verbreitet, deshalb liegen Wilhelm I., Friedrich III. oder Moltke nahe. Die Säule am südlichen Ortseingang ist aber eine Bismarcksäule, benannt nach Otto von Bismarck, dem ersten Kanzler des Deutschen Reichs. Die Gemeinde zählt sie zu ihren historischen Baudenkmälern. Richtig war 3.",
+"quelle": "Verbandsgemeinde Rengsdorf-Waldbreitbach, rengsdorf-waldbreitbach.de",
+"faktencheck": "korrigiert",
+"id": "498-rengsdorf/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Bundesstraße mit Umgehung, französische Partnergemeinde",
+"rang": 8,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Rengsdorf",
+"steckbrief": "Gemeinde mit rund 3.000 Einwohnern, 18 Kilometer nördlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Eine Ortsumgehung leitet die Bundesstraße um Rengsdorf herum.",
+"Rengsdorf pflegt eine Gemeindepartnerschaft nach Polen.",
+"Die Bundesstraße verbindet Rengsdorf mit Neuwied und Altenkirchen."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Partnerschaften nach Polen sind häufig, deshalb klingt das glaubhaft. Rengsdorfs Partnergemeinde ist aber Saint-Pierre-le-Moûtier in Burgund, Frankreich. Wahr sind die anderen: Die B 256 verbindet Neuwied und Altenkirchen, eine Ortsumgehung führt sie um den Ort herum. Wer heute auf der Umgehung vorbeifährt, sieht den Ort mit rund 3.000 Einwohnern also eher von der Seite. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rengsdorf",
+"faktencheck": "bestätigt",
+"id": "498-rengsdorf/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Dichter Ort auf kleiner Fläche",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rengsdorf",
+"steckbrief": "Gemeinde mit rund 3.000 Einwohnern, 18 Kilometer nördlich von Koblenz.",
+"frage": "Wie viele Einwohner leben in Rengsdorf auf einem Quadratkilometer?",
+"optionen": [
+"unter 500",
+"500 bis unter 1.000",
+"1.000 bis unter 2.000",
+"2.000 oder mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Koblenz lässt an dichte Vorortbebauung denken, deshalb liegt ein höherer Wert nahe. Tatsächlich leben in Rengsdorf etwa 434 Menschen je Quadratkilometer: 2.996 Einwohner auf 6,91 Quadratkilometern. Für ein Dorf ist das trotzdem dicht, denn die Gemeindefläche ist klein. Richtig war 1.",
+"quelle": "GRUNDDATEN, berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "498-rengsdorf/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Rockveranstaltung mit überregionalen Bands",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rengsdorf",
+"steckbrief": "Gemeinde mit rund 3.000 Einwohnern, 18 Kilometer nördlich von Koblenz.",
+"frage": "Jeden Sommer gibt es in Rengsdorf „Rock the Forest“. Was steckt dahinter?",
+"optionen": [
+"Ein Volkslauf führt quer durch den Wald.",
+"Kletterer messen sich an Felsen im Wald.",
+"Überregionale Künstler spielen bei einer Rockmusik-Veranstaltung.",
+"Holzfäller treten zu einem Wettkampf an."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. „Forest“ heißt Wald, und „Rock“ bedeutet im Englischen auch Fels – da liegen Lauf, Klettern oder Holzfäller nahe. Gemeint ist aber Rockmusik: Die Rockfreunde Rengsdorf veranstalten jeden Sommer ein Rockfestival und holen dafür auch Bands von außerhalb der Region. Für ein Dorf mit rund 3.000 Einwohnern ist das eine überörtlich bekannte Veranstaltung. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rengsdorf",
+"faktencheck": "korrigiert",
+"id": "498-rengsdorf/v0.9/8",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Firmensitze mit überregionalem Namen",
+"rang": 5,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Rengsdorf",
+"steckbrief": "Gemeinde mit rund 3.000 Einwohnern, 18 Kilometer nördlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Firma meta aus Rengsdorf fertigt Feuerwehrschläuche.",
+"Lohmann & Rauscher aus Rengsdorf fertigt Verbandstoffe.",
+"Berge & Meer aus Rengsdorf verkauft Reisen."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei „Berge & Meer“ aus einem Ort fern der Küste stutzt man, doch das stimmt: Das Reiseunternehmen ist eine Beteiligung der TUI Deutschland. Auch Lohmann & Rauscher mit Verband- und Medikalstoffen sitzt in Rengsdorf. Gelogen ist meta: Die Firma baut Trennwandanlagen und liefert international. Für einen Ort mit rund 3.000 Einwohnern sind das erstaunlich bekannte Firmensitze. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rengsdorf",
+"faktencheck": "unsicher",
+"id": "498-rengsdorf/v0.9/9",
+"tisch": false
+}
+],
+"anschluss_von": "497-altwied",
+"anschluss": [
+"Rengsdorf hat gut viermal so viele Einwohner wie Altwied.",
+"In Rengsdorf war die Wahlbeteiligung 2025 höher als in Neuwied."
+],
+"anschluesse": {
+"497-altwied": [
+"Rengsdorf hat gut viermal so viele Einwohner wie Altwied.",
+"In Rengsdorf war die Wahlbeteiligung 2025 höher als in Neuwied."
+]
+},
+"ags": "07138061",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 3.000 Einwohner auf knapp 7 Quadratkilometern, 18 Kilometer nördlich von Koblenz, im Landkreis Neuwied."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Ältester Beleg um 857; von 1956 bis 1958 saß eine Schule für Nachrichtenwesen der Bundeswehr im Hotel Rheinhöhe."
+},
+{
+"facette": "ALLTAG",
+"text": "Firmensitz von Lohmann & Rauscher, monte mare, Berge & Meer und meta; dazu Süßwarenmaschinen von Winkler und Dünnebier."
+},
+{
+"facette": "FREIZEIT",
+"text": "Heilklimatischer Kurort mit Freibad, Rheinsteig über den Römergraben, im Sommer „Rock the Forest“, dazu Kirmes und Karneval."
+},
+{
+"facette": "INFRA",
+"text": "Sitz der Verbandsgemeinde Rengsdorf-Waldbreitbach, B 256 mit Ortsumgehung, regionaler Busverkehr, Grundschule und zwei Kindergärten."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU vorn mit 32,7 Prozent, dann AfD und SPD; Wahlbeteiligung 82,6 Prozent."
+}
+],
+"km_vom_vorigen": 3.0
 },
 {
 "slug": "404-niederbieber",
@@ -111052,168 +112667,170 @@ window.QA_DATEN = {
 "lon": 7.46861,
 "karten": [
 {
+"facette": "ALLTAG",
+"charakteristikum": "Mühle als Keimzelle der Industrie",
+"rang": 2,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Niederbieber",
-"steckbrief": "Stadtteil von Neuwied mit rund 4.600 Einwohnern, 14 km nordwestlich von Koblenz (Luftlinie).",
-"frage": "Beim Schulzentrum liegt eine Erdzeiten-Uhr aus Beton. Was dient bei ihr als Zeiger?",
+"steckbrief": "Stadtteil von Neuwied, rund 4.600 Einwohner, 14 km nordwestlich von Koblenz.",
+"frage": "Der Rasselstein an der Wied spielte für Niederbieber eine besondere Rolle. Welche?",
 "optionen": [
-"Der Schatten eines Stabs zeigt die Zeit.",
-"Ein Wasserstrahl wandert über das Zifferblatt.",
-"Wer den Zentralstein umrundet, ist selbst der Zeiger.",
-"Ein Motor dreht einen Zeiger aus Stahl."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Eine liegende Uhr mit Stein in der Mitte erinnert an eine Sonnenuhr. Doch den Zeiger spielt, wer um den Zentralstein geht. Das Zifferblatt erzählt die Erdgeschichte als einen Tag: Der Frühmensch Homo habilis erscheint erst kurz vor Mitternacht. Geschaffen hat sie Alfred Hörchner aus Höhr-Grenzhausen. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/niederbieber",
-"faktencheck": "bestätigt",
-"id": "404-niederbieber/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Niederbieber",
-"steckbrief": "Stadtteil von Neuwied, 14 km nordwestlich von Koblenz (Luftlinie).",
-"frage": "Wie viele Einwohner hat Niederbieber?",
-"optionen": [
-"unter 2.000",
-"2.000 bis unter 3.500",
-"3.500 bis unter 4.500",
-"4.500 bis unter 6.000"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Wer bei „Stadtteil“ an ein kleines Dorf am Stadtrand denkt, schätzt zu niedrig. In Niederbieber leben 4.633 Menschen. Aus dem einstigen Bauerndorf wurde eine Arbeiter- und Industriesiedlung. Richtig war 4.",
-"quelle": "dewiki Infobox, Stand 2026-07-06",
-"faktencheck": "bestätigt",
-"id": "404-niederbieber/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Niederbieber",
-"steckbrief": "Stadtteil von Neuwied mit rund 4.600 Einwohnern, 14 km nordwestlich von Koblenz (Luftlinie).",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Wellen im alten Ortswappen standen für Aubach und Wied.",
-"Im Rat- und Backhaus backt die Gemeinde bis heute ihr Brot.",
-"Mühlen wie der Rasselstein waren Keimzelle der Industrie."
-],
-"art": "luege",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Der Name lässt an frisches Brot denken, doch ihr Brot backt die Gemeinde dort längst nicht mehr. Heute nutzt der Verein Niederbieberer Bürger das Haus für Veranstaltungen. Einst tagte im Fachwerkobergeschoss der Gemeinderat. Wahr sind die Wellen im alten Wappen für Aubach und Wied und die Mühlen, etwa der Rasselstein an der Wied, als Keimzelle der Industrie. Die Lüge war 2.",
-"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/niederbieber",
-"faktencheck": "korrigiert",
-"id": "404-niederbieber/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Niederbieber",
-"steckbrief": "Stadtteil von Neuwied mit rund 4.600 Einwohnern, 14 km nordwestlich von Koblenz (Luftlinie).",
-"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in der Stadt Neuwied, zu der Niederbieber gehört?",
-"optionen": [
-"unter 72 %",
-"72 bis unter 79 %",
-"79 bis unter 85 %",
-"85 % und mehr"
+"Dort legten die Rheinschiffe des Orts an.",
+"Eine Mühle dort gehörte zur Keimzelle der Industrie.",
+"Ein Felsen markierte dort die alte Dorfgrenze.",
+"Eine Fähre verband dort die beiden Wiedufer."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Wer die hohe Beteiligung dieser Wahl im Kopf hat, schätzt leicht zu hoch. In der Stadt Neuwied, zu der Niederbieber gehört, gingen 77,4 Prozent der Wahlberechtigten zur Wahl. Stärkste Partei wurde die CDU, vor der AfD. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "404-niederbieber/v0.8/4",
+"rueckseite": "Du hattest [Option] getippt. Am Rasselstein standen Mühlen an der Wied. Die Ortsgeschichte zählt die Mühle dort zu den Mühlen, die zusammen die Keimzelle der industriellen Entwicklung Niederbiebers bildeten. Mit ihnen begann der Weg vom Bauerndorf zur landstädtischen Arbeiter- und Industriesiedlung mit heute rund 4.600 Einwohnern. Richtig war 2. (Vermerk: Die neue Option 1 ist mit keiner Quelle als falsch belegt. Sie ist nur unplausibel, weil der Rasselstein an der Wied liegt und nicht am Rhein. Die Optionen 3 und 4 sind ungeprüft.)",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/niederbieber",
+"faktencheck": "korrigiert",
+"id": "404-niederbieber/v0.9/1",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Reformator-Erzbischof unter dem Dorfaltar",
+"rang": 3,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Niederbieber",
-"steckbrief": "Stadtteil von Neuwied mit rund 4.600 Einwohnern, 14 km nordwestlich von Koblenz (Luftlinie).",
-"frage": "Unter dem Altar der evangelischen Pfarrkirche wurde 1552 Graf Hermann zu Wied beigesetzt. Welches Amt hatte er?",
+"steckbrief": "Ortsteil im Norden von Neuwied, rund 4.600 Einwohner, 14 km nordwestlich von Koblenz.",
+"frage": "Unter dem Altar der evangelischen Pfarrkirche wurde 1552 ein bedeutender Mann beigesetzt. Wer war er?",
 "optionen": [
-"Er war Fürstbischof von Bamberg.",
-"Er war Kurfürst-Erzbischof von Trier.",
-"Er war Kurfürst-Erzbischof von Köln.",
-"Er war Fürstbischof von Passau."
+"Ein Abt, der das Dorf gegründet hatte.",
+"Ein Ritter, der im Kampf gefallen war.",
+"Ein Kölner Erzbischof, der Reformator war.",
+"Ein Kaufmann, der die Kirche gestiftet hatte."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Trier drängt sich auf, denn das nahe Koblenz war lange kurtrierisch. Doch Hermann zu Wied war Kurfürst-Erzbischof von Köln und zugleich Reformator. Die Grafen von Wied hatten in der Kirche ihre Grablege. Richtig war 3.",
+"rueckseite": "Du hattest [Option] getippt. Bei einem Grab unter dem Altar denkt man zuerst an einen Stifter. Hier liegt aber Graf Hermann zu Wied, Kölner Kurfürst-Erzbischof und Reformator. Die Kirche war Grablege der Grafen von Wied. Dass ein Kölner Kurfürst in einem Ort mit heute rund 4.600 Einwohnern ruht, zeigt, wie eng Niederbieber mit den Grafen von Wied verbunden war. Richtig war 3.",
 "quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/niederbieber",
-"faktencheck": "korrigiert",
-"id": "404-niederbieber/v0.8/5",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Niederbieber",
-"steckbrief": "Stadtteil von Neuwied mit rund 4.600 Einwohnern, 14 km nordwestlich von Koblenz (Luftlinie).",
-"frage": "Wie weit ist es von Niederbieber in Luftlinie bis zur Landeshauptstadt Mainz?",
-"optionen": [
-"unter 30 km",
-"30 bis unter 50 km",
-"50 bis unter 70 km",
-"70 bis unter 90 km"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Koblenz liegt nah, und von dort scheint Mainz nur ein Stück rheinaufwärts. Doch zwischen Niederbieber und der Landeshauptstadt liegen 78 Kilometer Luftlinie. Richtig war 4.",
-"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
 "faktencheck": "bestätigt",
-"id": "404-niederbieber/v0.8/6",
+"id": "404-niederbieber/v0.9/2",
 "tisch": false
 },
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Erdzeiten-Uhr mit Besuchern als Zeiger",
+"rang": 4,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Niederbieber",
-"steckbrief": "Stadtteil von Neuwied mit rund 4.600 Einwohnern, 14 km nordwestlich von Koblenz (Luftlinie).",
-"frage": "Um 260 n. Chr. endete das Römerkastell bei Niederbieber. Was geschah mit ihm?",
+"steckbrief": "Neuwieder Stadtteil mit rund 4.600 Einwohnern, 14 km nordwestlich von Koblenz.",
+"frage": "Nahe dem Schulzentrum steht eine Erdzeiten-Uhr aus Beton: 4,5 Milliarden Jahre Erdgeschichte auf 24 Stunden verteilt. Was dient als Zeiger?",
 "optionen": [
-"Angreifer von jenseits der Grenze zerstörten es.",
-"Ein Hochwasser riss die Mauern fort.",
-"Ein Erdbeben ließ die Mauern einstürzen.",
-"Ein Blitzschlag setzte das ganze Lager in Brand."
+"Ein Uhrwerk dreht einen Zeiger aus Beton.",
+"Ein Wasserstrahl aus der Mitte zeigt die Zeit.",
+"Ein Lichtband im Boden wandert langsam weiter.",
+"Die Besucher werden beim Rundgang selbst zum Zeiger."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Uhr erwartet man einen Zeiger, der sich von selbst bewegt. Hier gehen die Besucher um einen Zentralstein herum und werden dabei selbst zum Zeiger. Der frühe Mensch erscheint erst kurz vor Mitternacht. Ein Kunstwerk zum Mitgehen passt zu einem Ortsteil, dessen Siedlungsgeschichte bis in die Jungsteinzeit zurückreicht. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/niederbieber",
+"faktencheck": "bestätigt",
+"id": "404-niederbieber/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "am Zusammenfluss von Aubach und Wied",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niederbieber",
+"steckbrief": "Stadtteil von Neuwied, rund 4.600 Einwohner, 14 km nordwestlich von Koblenz.",
+"frage": "Niederbieber liegt nördlich der Neuwieder Innenstadt dort, wo zwei Gewässer zusammentreffen. Welche sind es?",
+"optionen": [
+"Hier fließen Aubach und Wied zusammen.",
+"Hier mündet die Wied in den Rhein.",
+"Hier fließen Saynbach und Brexbach zusammen.",
+"Hier fließen Holzbach und Wied zusammen."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ruinen lassen oft an Naturgewalten denken. Doch das Kastell wurde zerstört, als die Franken über den Limes vorrückten. Heute liegt sein Gelände überbaut zwischen altem und neuem Friedhof; gesichert sind die Grundmauern eines großen Bades. Richtig war 1.",
+"rueckseite": "Du hattest [Option] getippt. Weil Neuwied am Rhein liegt, denkt man zuerst an die Wiedmündung. Niederbieber liegt aber nördlich der Innenstadt, dort, wo Aubach und Wied zusammenfließen. Wasser und der Naturpark Rhein-Westerwald, an dessen Rand der Ort liegt, prägen die Lage des Neuwieder Stadtteils. Richtig war 1.",
 "quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/niederbieber",
-"faktencheck": "korrigiert",
-"id": "404-niederbieber/v0.8/7",
+"faktencheck": "unsicher",
+"id": "404-niederbieber/v0.9/4",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "großer jüdischer Friedhof am Weißen Berg",
+"rang": 5,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Niederbieber",
-"steckbrief": "Stadtteil von Neuwied mit rund 4.600 Einwohnern, 14 km nordwestlich von Koblenz (Luftlinie).",
-"frage": "Bei Niederbieber fanden Archäologen Spuren der sogenannten Federmesser-Gruppen. Wie lebten diese Menschen?",
+"steckbrief": "Neuwieder Stadtteil, rund 4.600 Einwohner, 14 km nordwestlich von Koblenz.",
+"frage": "Auf dem Weißen Berg liegt ein Friedhof, der zu den größten und ältesten seiner Art in Rheinland-Pfalz zählt. Was für einer?",
 "optionen": [
-"Sie bauten Getreide an und hielten Vieh.",
-"Sie lebten als Jäger und Sammler.",
-"Sie schmolzen Erz und schmiedeten Bronzewerkzeug.",
-"Sie lebten als Hirten mit großen Rinderherden."
+"Es ist ein Soldatenfriedhof der Weltkriege.",
+"Es ist ein jüdischer Friedhof.",
+"Es ist ein mittelalterlicher Pestfriedhof.",
+"Es ist der Friedhof eines früheren Klosters."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Wer Siedlungsreste hört, denkt leicht an Bauern mit festen Höfen. Doch die Federmesser-Gruppen lebten am Ende der Eiszeit als Jäger und Sammler, lange vor dem Ackerbau. Ihre Funde in Niederbieber brachten wichtige Erkenntnisse über das Leben jener Zeit. Richtig war 2.",
-"quelle": "Römisch-Germanisches Zentralmuseum, Forschungszentrum Monrepos (Monographie zu Niederbieber), books.ub.uni-heidelberg.de/propylaeum/catalog/view/1590/2717/123535",
+"rueckseite": "Du hattest [Option] getippt. Große Friedhöfe auf einer Anhöhe sind oft Soldatenfriedhöfe, das liegt nahe. Auf dem Weißen Berg reichen die jüdischen Bestattungen aber bis ins 17. Jahrhundert zurück. In der Pogromnacht wurde die gesamte Anlage samt Trauerhalle zerstört. Dass ein so bedeutender jüdischer Friedhof in einem Ortsteil mit rund 4.600 Einwohnern liegt, überrascht; heute steht er unter Denkmalschutz. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/niederbieber",
+"faktencheck": "unsicher",
+"id": "404-niederbieber/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "großes Römerkastell am Limes",
+"rang": 1,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Niederbieber",
+"steckbrief": "Stadtteil von Neuwied mit rund 4.600 Einwohnern, 14 km nordwestlich von Koblenz.",
+"frage": "Am Limes stand hier ein römisches Kastell. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Goethe besuchte einst die Ruinen des Kastells.",
+"Ein Teil der Soldaten kam aus Britannien.",
+"Vorrückende Alamannen zerstörten das Kastell schließlich."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Alamannen liegen nahe, denn sie stehen oft für den Fall des Limes. Nach der Ortsgeschichte waren es hier aber die vorrückenden Franken. Goethe besuchte die Ruinen wirklich, und germanische Soldaten aus Britannien gehörten zur Besatzung. Das Kastell gehörte zu den größten am obergermanischen Limes; seine doppeltürmige Tormauer stand im früheren Wappen Niederbiebers, die Grundmauern seines Bades sind gesichert. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/niederbieber",
 "faktencheck": "korrigiert",
-"id": "404-niederbieber/v0.8/8",
+"id": "404-niederbieber/v0.9/6",
+"tisch": false
+},
+{
+"facette": "POLITIK",
+"charakteristikum": "Wahlbeteiligung deutlich unter dem Landeswert",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Niederbieber",
+"steckbrief": "Stadtteil von Neuwied, rund 4.600 Einwohner, 14 km nordwestlich von Koblenz.",
+"frage": "Bei der Bundestagswahl 2025 gingen in Rheinland-Pfalz 83 Prozent wählen. Wie hoch war die Wahlbeteiligung in der ganzen Stadt Neuwied?",
+"optionen": [
+"86 Prozent oder mehr",
+"83 bis unter 86 Prozent",
+"80 bis unter 83 Prozent",
+"unter 80 Prozent"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer den Landeswert von 83 Prozent kennt, tippt leicht auf einen ähnlichen Wert. Die Stadt Neuwied lag mit 77,4 Prozent aber 5,6 Punkte darunter; in Städten gehen oft weniger Menschen wählen als auf dem Land. Der Wert gilt für ganz Neuwied, nicht für Niederbieber allein, das mit rund 4.600 Einwohnern nur ein Stadtteil ist. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23; Landeswert: Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes",
+"faktencheck": "bestätigt",
+"id": "404-niederbieber/v0.9/7",
 "tisch": false
 }
 ],
-"anschluss_von": "360-heisingen",
+"anschluss_von": "498-rengsdorf",
 "anschluss": [
-"Kennzeichen: In Heisingen steht E am Auto, in Niederbieber NR."
+"Niederbieber hat rund 1.600 Einwohner mehr als Rengsdorf.",
+"Rengsdorf hatte 2025 eine höhere Wahlbeteiligung als die Stadt Neuwied."
 ],
 "anschluesse": {
 "10-vallendar": [
@@ -111309,13 +112926,40 @@ window.QA_DATEN = {
 "417-wolfenacker": [
 "Wolfenacker liegt rund 180 Meter höher als Niederbieber."
 ],
-"360-heisingen": [
-"Kennzeichen: In Heisingen steht E am Auto, in Niederbieber NR."
+"498-rengsdorf": [
+"Niederbieber hat rund 1.600 Einwohner mehr als Rengsdorf.",
+"Rengsdorf hatte 2025 eine höhere Wahlbeteiligung als die Stadt Neuwied."
 ]
 },
 "ags": "07138045",
 "ortsteil": true,
-"km_vom_vorigen": 108.8
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Neuwieder Stadtteil am Zusammenfluss von Aubach und Wied, 14 km nordwestlich von Koblenz, am Rand des Naturparks Rhein-Westerwald."
+},
+{
+"facette": "GESCHICHTE",
+"text": "1204 erstmals urkundlich erwähnt, bis 1910 eigene Gemeinde; Römerkastell am Limes, Grab des Reformators Hermann zu Wied."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 4.600 Einwohner; vom Bauerndorf zur Arbeiter- und Industriesiedlung, angefangen mit der Mühle Rasselstein an der Wied."
+},
+{
+"facette": "FREIZEIT",
+"text": "Erdzeiten-Uhr am Schulzentrum, Altes Rat- und Backhaus von 1736, gesicherte Grundmauern des römischen Kastellbads."
+},
+{
+"facette": "INFRA",
+"text": "Postleitzahl 56567, Vorwahl 02631; die meisten Autos tragen das Neuwieder Kennzeichen NR."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025 in ganz Neuwied: CDU vor AfD und SPD, Wahlbeteiligung 77,4 Prozent."
+}
+],
+"km_vom_vorigen": 5.2
 },
 {
 "slug": "405-segendorf",
@@ -111324,149 +112968,170 @@ window.QA_DATEN = {
 "lon": 7.45917,
 "karten": [
 {
-"familie": "A",
+"facette": "FREIZEIT",
+"charakteristikum": "Forschungsmuseum zur menschlichen Verhaltensevolution",
+"rang": 1,
+"familie": "D",
 "sorte": "Geschichte",
 "ort": "Segendorf",
 "steckbrief": "Segendorf ist ein Stadtteil von Neuwied mit rund 1.800 Einwohnern, 15 km nordwestlich von Koblenz.",
-"frage": "Auf den Höhen Neuwieds bei Segendorf liegt Monrepos. Was steckt hinter dem Namen?",
+"frage": "Welches dieser vier Dinge gibt es in Segendorf?",
 "optionen": [
-"Er bedeutet auf Französisch „mein Berg“.",
-"Er bedeutet auf Französisch „meine Ruhe“.",
-"Er geht auf einen keltischen Bergnamen zurück.",
-"Er erinnert an eine Gräfin namens Repos."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. „Mein Berg“ liegt nahe, denn französisch „mont“ heißt Berg, und Monrepos liegt auf den Höhen Neuwieds. Doch „mon repos“ bedeutet „meine Ruhe“. Das passt: Monrepos ist ein historisches Naherholungsgebiet inmitten ausgedehnter Wälder am Rand des Westerwaldes. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/segendorf",
-"faktencheck": "bestätigt",
-"id": "405-segendorf/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Segendorf",
-"steckbrief": "Segendorf ist ein Stadtteil von Neuwied, 15 km nordwestlich von Koblenz.",
-"frage": "Wie viele Einwohner hat Segendorf?",
-"optionen": [
-"unter 1.000",
-"1.000 bis unter 1.500",
-"1.500 bis unter 2.000",
-"2.000 und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Weniger liegt nahe, denn viele Stadtteile sind kleine eingemeindete Dörfer. Doch in Segendorf leben 1.815 Menschen. Richtig war 3.",
-"quelle": "dewiki Infobox, Stand 2026-07-06",
-"faktencheck": "bestätigt",
-"id": "405-segendorf/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Segendorf",
-"steckbrief": "Segendorf, rund 1.800 Einwohner, ist ein Stadtteil von Neuwied, 15 km nordwestlich von Koblenz.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"In Segendorf gab es einst ein wiedisches Hofgericht.",
-"Auf dem einstigen Herrengut Nodhausen lag lange ein beliebtes Ausflugsziel.",
-"Monrepos über Neuwied wurde ursprünglich als Kloster erbaut."
-],
-"art": "luege",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Das Hofgericht klingt erfunden, doch es ist für Segendorf bezeugt: ein Gericht der Grafen von Wied. Und auf dem einstigen Gut Nodhausen lockten neue Anlagen viele Jahrzehnte Ausflügler an. Gelogen ist das Kloster: Monrepos ließ Graf Alexander zu Wied-Neuwied als Sommersitz bauen. Der französische Name, „meine Ruhe“, passt dazu. Die Lüge war 3.",
-"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/segendorf; KuLaDig, www.kuladig.de/Objektansicht/O-111964-20150115-4",
-"faktencheck": "korrigiert",
-"id": "405-segendorf/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Segendorf",
-"steckbrief": "Segendorf, Stadtteil von Neuwied mit rund 1.800 Einwohnern, liegt 15 km nordwestlich von Koblenz.",
-"frage": "Bundestagswahl 2025, Zweitstimmen in der ganzen Stadt Neuwied: Wie viel Prozent holte die stärkste Partei?",
-"optionen": [
-"unter 28 %",
-"28 bis unter 32 %",
-"32 bis unter 36 %",
-"36 % und mehr"
+"ein Museum zur Evolution menschlichen Verhaltens",
+"ein Erlebnisbad mit Riesenrutsche",
+"eine Sternwarte",
+"eine Eissporthalle"
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Mehr liegt nahe, denn auf dem Land liegen Wahlsieger oft deutlicher vorn. In der Stadt Neuwied lag die CDU mit 27,1 Prozent vorn, vor AfD und SPD. Die Zahl gilt für die ganze Stadt, nicht nur für Segendorf. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"rueckseite": "Du hattest [Option] getippt. Ein Erlebnisbad erwartet man in einem Wohnort am ehesten. Segendorf aber hat auf Monrepos, im früheren Palais Waldheim, ein archäologisches Forschungszentrum mit Museum: Die Ausstellung zeigt, wie sich menschliches Verhalten über Jahrmillionen entwickelt hat. Für einen Ort mit gut 1.800 Einwohnern ist eine Forschungsstätte mit Museum ein ungewöhnlicher Schatz. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/segendorf",
 "faktencheck": "bestätigt",
-"id": "405-segendorf/v0.8/4",
+"id": "405-segendorf/v0.9/1",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Ersterwähnung durch einen Burgmann",
+"rang": 4,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Segendorf",
 "steckbrief": "Segendorf ist ein Stadtteil von Neuwied mit rund 1.800 Einwohnern, 15 km nordwestlich von Koblenz.",
-"frage": "Als erste Erwähnung Segendorfs gilt eine Urkunde von 1218. In welchem Zusammenhang wird der Ort dort genannt?",
+"frage": "Als erste urkundliche Erwähnung Segendorfs gilt eine Urkunde von 1218, in der ein Rudeger von Sehterndorf vorkommt. Als was taucht er darin auf?",
 "optionen": [
-"Ein Graf verpfändete das Dorf einem Erzbischof.",
-"Ein nach dem Ort benannter Burgmann war Zeuge.",
-"Eine Steuerliste zählte die Höfe des Dorfes auf.",
-"Ein Pfarrer weihte im Dorf eine Kapelle."
+"Er verkaufte einem Kloster seinen Hof.",
+"Er bezeugte als Burgmann eine Schenkung.",
+"Er wurde als Dorfpfarrer eingesetzt.",
+"Er klagte vor Gericht um Weiderechte."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Eine Steuerliste liegt nahe, denn so tauchen viele Dörfer erstmals auf. Hier war es anders: Rudeger von Sehterndorf, ein wiedischer Burgmann, bezeugte eine Schenkung des Burggrafen von Isenburg an das Kloster Rommersdorf. Ein Burgmann diente auf einer Burg seines Herrn. Richtig war 2.",
+"rueckseite": "Du hattest [Option] getippt. Ein Verkauf liegt nahe, denn viele Orte tauchen zuerst in Besitzurkunden auf. Rudeger von Sehterndorf aber war ein wiedischer Burgmann und bezeugte eine Schenkung des Burggrafen von Isenburg an das Kloster Rommersdorf. So beginnt Segendorfs belegte Geschichte, soweit bekannt, nicht mit Bauern oder Mönchen, sondern mit einem Burgmann. Richtig war 2. /",
 "quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/segendorf",
 "faktencheck": "korrigiert",
-"id": "405-segendorf/v0.8/5",
+"id": "405-segendorf/v0.9/2",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "FREIZEIT",
+"charakteristikum": "Kreuzung dreier Fernwanderwege bei Monrepos",
+"rang": 3,
+"familie": "D",
+"sorte": "Geschichte",
 "ort": "Segendorf",
-"steckbrief": "Segendorf, rund 1.800 Einwohner, ist ein Stadtteil von Neuwied, 15 km nordwestlich von Koblenz.",
-"frage": "In welchem Jahr wurde Segendorf nach Neuwied eingemeindet?",
+"steckbrief": "Segendorf ist ein Stadtteil von Neuwied mit rund 1.800 Einwohnern, 15 km nordwestlich von Koblenz.",
+"frage": "Welches dieser vier Dinge gibt es in Segendorf?",
 "optionen": [
-"vor 1900",
-"1900 bis unter 1950",
-"1950 bis unter 1980",
-"1980 und später"
+"eine Sommerrodelbahn",
+"ein Segelflugplatz",
+"ein Knotenpunkt großer Fernwanderwege",
+"ein Baumwipfelpfad"
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Früher liegt nahe, denn viele Vororte kamen schon mit dem Wachstum der Städte im Industriezeitalter dazu. Segendorf wurde erst 1970 eingemeindet. Richtig war 3.",
-"quelle": "dewiki Infobox",
+"rueckseite": "Du hattest [Option] getippt. Eine Sommerrodelbahn passt scheinbar gut zu bewaldeten Höhen. Bei Monrepos aber kreuzen sich Fernwanderwege: Rheinsteig, Limeswanderweg und Rheinhöhenweg. Monrepos ist ein historisches Naherholungsgebiet inmitten ausgedehnter Wälder. Ein solcher Wanderknoten ist für einen Stadtteil mit gut 1.800 Einwohnern ungewöhnlich. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/segendorf",
 "faktencheck": "bestätigt",
-"id": "405-segendorf/v0.8/6",
+"id": "405-segendorf/v0.9/3",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "am rechten Ufer der Wied",
+"rang": 5,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Segendorf",
 "steckbrief": "Segendorf ist ein Stadtteil von Neuwied mit rund 1.800 Einwohnern, 15 km nordwestlich von Koblenz.",
-"frage": "Bei Segendorf liegt Monrepos. Dort sitzen heute ein Forschungszentrum und ein Museum. Womit befassen sie sich?",
+"frage": "An welchem Fluss liegt der Neuwieder Stadtteil Segendorf?",
 "optionen": [
-"Sie erforschen die Geschichte des Fürstenhauses Wied.",
-"Sie erforschen Wildtiere und Wälder des Westerwalds.",
-"Sie erforschen den Weinbau am Mittelrhein.",
-"Sie erforschen die Evolution menschlichen Verhaltens."
+"Segendorf liegt an der Lahn.",
+"Segendorf liegt an der Sieg.",
+"Segendorf liegt an der Mosel.",
+"Segendorf liegt an der Wied."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Das Fürstenhaus liegt nahe, denn Monrepos war einst Sommerresidenz der Fürsten zu Wied. Heute forschen dort Archäologen aus aller Welt. Das Museum spannt den Bogen vom Verhalten der Urmenschen bis zu unserem eigenen. Richtig war 4.",
+"rueckseite": "Du hattest [Option] getippt. Lahn und Mosel liegen nahe, denn beide münden nahe Koblenz in den Rhein. Segendorf aber liegt an der Wied, und zwar am rechten Ufer: Der enge Nachbar Niederbieber liegt gegenüber auf der linken Wiedseite. Die beiden Orte bildeten einst sogar eine gemeinsame Gemeinde. Richtig war 4.",
 "quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/segendorf",
+"faktencheck": "korrigiert",
+"id": "405-segendorf/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Bauerndorf unter wiedischer Herrschaft",
+"rang": 8,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Segendorf",
+"steckbrief": "Segendorf ist ein Stadtteil von Neuwied mit rund 1.800 Einwohnern, 15 km nordwestlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Segendorf war ursprünglich ein kleines Fischerdorf.",
+"Segendorf und Niederbieber bildeten einst eine gemeinsame Gemeinde.",
+"Segendorf gehörte vermutlich schon zur Grundherrschaft der Grafen von Wied."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Fischerdorf klingt nach einer naheliegenden Herkunft, doch Segendorf war ein Bauerndorf. Die beiden anderen Aussagen stimmen: Segendorf gehörte vermutlich schon zur Grundherrschaft der Grafen von Wied, und mit dem Nachbarort Niederbieber bildete es einst eine gemeinsame Gemeinde. Aus dem Bauerndorf ist eine freundliche Wohnsiedlung mit landstädtischem Charakter geworden. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/segendorf",
+"faktencheck": "korrigiert",
+"id": "405-segendorf/v0.9/6",
+"tisch": false
+},
+{
+"facette": "POLITIK",
+"charakteristikum": "Wahlbeteiligung deutlich unter Landesschnitt",
+"rang": 6,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Segendorf",
+"steckbrief": "Segendorf ist ein Stadtteil von Neuwied mit rund 1.800 Einwohnern, 15 km nordwestlich von Koblenz.",
+"frage": "Bei der Bundestagswahl 2025 lag die Wahlbeteiligung in Rheinland-Pfalz bei 83 Prozent. Und in der Stadt Neuwied, zu der Segendorf gehört?",
+"optionen": [
+"83 % oder mehr",
+"80 bis unter 83 %",
+"75 bis unter 80 %",
+"unter 75 %"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Knapp unter dem Landeswert liegt nahe, denn eine Stadt nahe Koblenz wirkt wie ein Durchschnittsort. Tatsächlich gingen in Neuwied 77,4 Prozent wählen, 5,6 Punkte weniger als im Land. Die Zahl gilt für die ganze Stadt, nicht für Segendorf allein. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
 "faktencheck": "bestätigt",
-"id": "405-segendorf/v0.8/7",
+"id": "405-segendorf/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Nodhausen, einstiges Ausflugsziel mit Vergnügungsanlagen",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Segendorf",
+"steckbrief": "Segendorf ist ein Stadtteil von Neuwied mit rund 1.800 Einwohnern, 15 km nordwestlich von Koblenz.",
+"frage": "Am Südzipfel von Segendorf lag einst das wiedische Herrengut Nodhausen. Wofür wurde der Ort später bekannt?",
+"optionen": [
+"Er wurde ein beliebtes Ausflugsziel mit Parkanlagen.",
+"Er diente den Grafen als Gefängnis.",
+"Er wurde ein Wallfahrtsort mit Kapelle.",
+"Er wurde eine Pferdewechselstation an der Landstraße."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Herrengut, also einem Gut der Landesherren, denkt man eher an Herrschaft, etwa an ein Gefängnis. Die Bauten des Herrenguts zwischen Tonnenmühle und Rasselstein wurden aber abgetragen, und danach entstanden dort Park- und Vergnügungsanlagen. Sie machten Nodhausen viele Jahrzehnte lang zu einem beliebten Ausflugsziel. Richtig war 1. /",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/segendorf",
+"faktencheck": "korrigiert",
+"id": "405-segendorf/v0.9/8",
 "tisch": false
 }
 ],
 "anschluss_von": "404-niederbieber",
 "anschluss": [
-"Gericht: Segendorf gehörte einst zum Kirchspielgericht Niederbieber.",
-"Einwohner: Niederbieber hat mehr als doppelt so viele wie Segendorf."
+"Niederbieber hat mehr als doppelt so viele Einwohner wie Segendorf.",
+"Segendorf und Niederbieber bildeten einst eine gemeinsame Gemeinde."
 ],
 "anschluesse": {
 "10-vallendar": [
@@ -111518,8 +113183,8 @@ window.QA_DATEN = {
 "Vettelschoß hat doppelt so viele Einwohner wie Segendorf."
 ],
 "404-niederbieber": [
-"Gericht: Segendorf gehörte einst zum Kirchspielgericht Niederbieber.",
-"Einwohner: Niederbieber hat mehr als doppelt so viele wie Segendorf."
+"Niederbieber hat mehr als doppelt so viele Einwohner wie Segendorf.",
+"Segendorf und Niederbieber bildeten einst eine gemeinsame Gemeinde."
 ],
 "406-datzeroth": [
 "Kreisgrenze: Datzeroth gehört zum Landkreis Neuwied, Segendorf zum Landkreis Landkreis Neuwied.",
@@ -111566,6 +113231,32 @@ window.QA_DATEN = {
 },
 "ags": "07138045",
 "ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Stadtteil von Neuwied am rechten Ufer der Wied, 15 km nordwestlich von Koblenz, im Naturpark Rhein-Westerwald."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Bauerndorf seit dem hohen Mittelalter, 1218 erstmals erwähnt, unter den Grafen von Wied; seit 1970 Stadtteil von Neuwied."
+},
+{
+"facette": "ALLTAG",
+"text": "Heute eine freundliche Wohnsiedlung mit landstädtischem Charakter und rund 1.800 Einwohnern."
+},
+{
+"facette": "FREIZEIT",
+"text": "Monrepos mit archäologischem Forschungsmuseum, Kreuzung von Rheinsteig, Limeswanderweg und Rheinhöhenweg; Schießstand der Neuwieder Schützengesellschaft in Nodhausen."
+},
+{
+"facette": "INFRA",
+"text": "Kennzeichen NR, Postleitzahl 56567, Vorwahl 02631; bis Mainz sind es 80 Kilometer Luftlinie."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 wählten in ganz Neuwied 77,4 Prozent, im Land 83 Prozent."
+}
+],
 "km_vom_vorigen": 1.1
 },
 {
@@ -112124,169 +113815,193 @@ window.QA_DATEN = {
 "lon": 7.50111,
 "karten": [
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Jahrmärkte unter alten Eichen",
+"rang": 4,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Oberbieber",
-"steckbrief": "Rund 4.900 Einwohner; Stadtteil von Neuwied, 14 km nördlich von Koblenz.",
-"frage": "Einst fanden in Oberbieber drei Jahrmärkte statt, der Überlieferung nach auf dem Hermesplatz. Warum endeten sie dort 1662?",
+"steckbrief": "Oberbieber ist ein Stadtteil von Neuwied mit knapp 4.900 Einwohnern, 14 km nördlich von Koblenz.",
+"frage": "Der Überlieferung nach fanden unter den alten Eichen am heutigen Hermesplatz einst drei Jahrmärkte statt. Was geschah mit ihnen?",
 "optionen": [
-"Die Händler zogen freiwillig in größere Städte.",
-"Mangels Händlern wurden die Märkte ersatzlos aufgegeben.",
-"Der Graf verlegte sie in seine neue Residenz.",
-"Die Märkte wanderten ins nahe Engers ab."
+"Ein Kloster der Umgebung übernahm sie.",
+"Sie zogen auf den Platz an der Kirche.",
+"Der Graf holte sie in seine neue Residenz.",
+"Sie wurden ersatzlos abgeschafft."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein Niedergang liegt nahe, denn Kriege trafen viele Dörfer jener Zeit. Doch Graf Friedrich verlegte die Jahrmärkte in seine neue Residenz Neuwied. Richtig war 3.",
+"rueckseite": "Du hattest [Option] getippt. Graf Friedrich verlegte die Jahrmärkte in seine neue Residenz Neuwied. Abschaffen liegt nahe, weil viele alte Dorfmärkte irgendwann einfach eingeschlafen sind. Das Dorf am Aubach verlor seine Märkte damit an die Stadt, zu der es heute selbst gehört. Richtig war 3.",
 "quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/oberbieber",
 "faktencheck": "korrigiert",
-"id": "408-oberbieber/v0.8/1",
+"id": "408-oberbieber/v0.9/2",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "ALLTAG",
+"charakteristikum": "bedeutender Außenlaternen-Hersteller im Stadtteil",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
 "ort": "Oberbieber",
-"steckbrief": "Rund 4.900 Einwohner; Stadtteil von Neuwied, 14 km nördlich von Koblenz, am Rand des Westerwalds.",
-"frage": "Auf welcher Höhe über dem Meeresspiegel liegt Oberbieber?",
+"steckbrief": "Oberbieber ist ein Stadtteil von Neuwied mit knapp 4.900 Einwohnern, 14 km nördlich von Koblenz.",
+"frage": "Ein Betrieb hat seit dem Zweiten Weltkrieg seinen Sitz in Oberbieber. Was stellt er her?",
 "optionen": [
-"unter 70 m",
-"70 bis unter 85 m",
-"85 bis unter 95 m",
-"95 m und mehr"
+"Er gießt Glocken für Kirchen.",
+"Er fertigt Spielzeug aus Holz.",
+"Er stellt Fahrradrahmen her.",
+"Er fertigt Laternen für draußen."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Neuwied liegt am Rhein, das legt eine niedrige Höhe nahe. Oberbieber liegt aber schon an den Hügeln des Westerwalds, wo der Aubach dem Neuwieder Becken zufließt. Die Quellen nennen 100 bis 102 Meter. Richtig war 4.",
-"quelle": "Wikidata P2044; dewiki Infobox; GeoNames 2861261",
-"faktencheck": "bestätigt",
-"id": "408-oberbieber/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Oberbieber",
-"steckbrief": "Stadtteil von Neuwied mit rund 4.900 Einwohnern, 14 km nördlich von Koblenz.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Der Aubach trieb zahlreiche Mühlen an.",
-"Töpfer und Lohgerber arbeiteten früher im Ort.",
-"Für Weinbau war Oberbieber immer zu kühl."
-],
-"art": "luege",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Am Rand des Westerwalds klingt Kälte plausibel. Doch der Weinbau war in Oberbieber von Bedeutung, auf dem Wingertsberg standen Reben. Mühlen am Aubach, Töpfer und Lohgerber gab es wirklich. Die Lüge war 3.",
-"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/oberbieber",
+"rueckseite": "Du hattest [Option] getippt. Der Betrieb heißt Rech-Laternen und stellt Leuchten und Laternen für draußen her, etwa für Straßen und Plätze. Holzspielzeug liegt nahe, weil es oft aus waldreichen Mittelgebirgen kommt. Für einen Stadtteil mit knapp 4.900 Einwohnern ist ein solcher Industriebetrieb bemerkenswert. Richtig war 4.",
+"quelle": "Rechlaternen GmbH, www.rechlaternen.de/html/body_portrait.html; Wikipedia, de.wikipedia.org/wiki/Oberbieber",
 "faktencheck": "korrigiert",
-"id": "408-oberbieber/v0.8/3",
+"id": "408-oberbieber/v0.9/3",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Oberbieber",
-"steckbrief": "Rund 4.900 Einwohner; Stadtteil von Neuwied, 14 km nördlich von Koblenz.",
-"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei bei der Bundestagswahl 2025 in der Stadt Neuwied, zu der Oberbieber gehört?",
-"optionen": [
-"unter 25 %",
-"25 bis unter 30 %",
-"30 bis unter 35 %",
-"35 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Am Westerwaldrand vermutet man eine sehr starke CDU. Die Zahl gilt aber für die ganze Stadt Neuwied, nicht nur für Oberbieber: Dort lag die CDU vorn, mit 27,1 Prozent der Zweitstimmen. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "408-oberbieber/v0.8/4",
-"tisch": false
-},
-{
+"facette": "LAGE",
+"charakteristikum": "Ort an der Kante Westerwald–Becken",
+"rang": 8,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Oberbieber",
-"steckbrief": "Rund 4.900 Einwohner; Stadtteil von Neuwied, 14 km nördlich von Koblenz.",
-"frage": "Woher hat Oberbieber seinen Namen?",
+"steckbrief": "Oberbieber ist ein Stadtteil von Neuwied mit knapp 4.900 Einwohnern, 14 km nördlich von Koblenz.",
+"frage": "In Oberbieber verlässt der Aubach die bewaldeten Hügel. Welche zwei Landschaften treffen hier aufeinander?",
 "optionen": [
-"Der Ort ist nach einem fränkischen Grundherrn benannt.",
-"Der Name meint ein Dorf an einer Flussbiegung.",
-"Der Ort ist nach seinem Bach benannt.",
-"Der Ort ist nach einer verschwundenen Burg benannt."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Viele Ortsnamen gehen auf Burgen oder Grundherren zurück, und „Bieber“ klingt nach Biegung. Oberbieber aber trägt den alten Namen des Aubachs: Eine Urkunde nennt ihn „biuira“, gedeutet als Biberbach. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/oberbieber",
-"faktencheck": "korrigiert",
-"id": "408-oberbieber/v0.8/5",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Oberbieber",
-"steckbrief": "Rund 4.900 Einwohner; Stadtteil von Neuwied, 14 km nördlich von Koblenz.",
-"frage": "In welchem Jahr wurde Oberbieber in die Stadt Neuwied eingemeindet?",
-"optionen": [
-"vor 1900",
-"1900 bis 1944",
-"1945 bis 1964",
-"1965 oder später"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Bei einem Stadtteil so nah an der Kernstadt liegt eine frühe Eingemeindung nahe. Oberbieber kam aber erst am 7. November 1970 zu Neuwied. Bis dahin war es eine eigene Gemeinde. Richtig war 4.",
-"quelle": "dewiki Infobox",
-"faktencheck": "bestätigt",
-"id": "408-oberbieber/v0.8/6",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Oberbieber",
-"steckbrief": "Stadtteil von Neuwied mit rund 4.900 Einwohnern, 14 km nördlich von Koblenz.",
-"frage": "Auf dem Wingertsberg steht ein Wachturm, wie ihn die Römer am Limes bauten. Was stimmt über ihn?",
-"optionen": [
-"Er ist ein Nachbau aus dem 20. Jahrhundert.",
-"Er ist ein Römer-Original aus dem 2. Jahrhundert.",
-"Mönche bauten ihn im 12. Jahrhundert nach.",
-"Er war ein Wehrturm aus dem 16. Jahrhundert."
+"Der Westerwald trifft das Neuwieder Becken.",
+"Die Eifel trifft das Neuwieder Becken.",
+"Der Westerwald trifft das Lahntal.",
+"Der Hunsrück trifft das Mittelrheintal."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein echter Römerturm liegt nahe, denn der Limes verlief tatsächlich über den Wingertsberg. Doch dieser Turm ist ein Nachbau: Er wurde im 20. Jahrhundert als Denkmal für die historische Grenze errichtet. Richtig war 1.",
+"rueckseite": "Du hattest [Option] getippt. Oberbieber liegt dort, wo der Aubach die bewaldeten Hügel des Westerwalds in Richtung Neuwieder Becken verlässt. Die Eifel liegt nahe, weil sie das Becken auf der anderen Rheinseite begrenzt. Der Ort hat also Wald im Rücken und die Ebene vor sich; mit Niederbieber ist er durch Bebauung locker verbunden. Richtig war 1. /",
 "quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/oberbieber",
 "faktencheck": "korrigiert",
-"id": "408-oberbieber/v0.8/7",
+"id": "408-oberbieber/v0.9/4",
 "tisch": false
 },
 {
+"facette": "INFRA",
+"charakteristikum": "elektrische Bahn in die Stadt",
+"rang": 7,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Oberbieber",
-"steckbrief": "Stadtteil von Neuwied mit rund 4.900 Einwohnern, 14 km nördlich von Koblenz.",
-"frage": "Kaiser Heinrich II. schenkte Oberbieber im Jahr 1021 einem Frauenstift. Wo lag dieses Stift?",
+"steckbrief": "Oberbieber ist ein Stadtteil von Neuwied mit knapp 4.900 Einwohnern, 14 km nördlich von Koblenz.",
+"frage": "Ab 1901 fuhr halbstündlich eine Bahn von Oberbieber nach Neuwied. Wie wurde sie angetrieben?",
 "optionen": [
-"Das Stift lag bei Trier.",
-"Das Stift lag bei Aachen.",
-"Das Stift lag bei Fulda.",
-"Das Stift lag bei Bonn."
+"Pferde zogen die Wagen über die Schienen.",
+"Sie fuhr mit elektrischem Strom.",
+"Eine kleine Dampflok zog die Wagen.",
+"Ein Benzinmotor trieb den Triebwagen an."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Es war eine elektrische Bahn; den Strom lieferte das Elektrizitätswerk Neuwied. Sie fuhr halbstündlich zwischen Oberbieber und Neuwied und beförderte bis 1950 Fahrgäste. Die Dampflok liegt nahe, weil sie das Bild der frühen Eisenbahn prägt. Für einen Ort, der heute knapp 4.900 Einwohner hat, war ein Halbstundentakt in die Stadt viel; heute gehört Oberbieber selbst zu Neuwied. Richtig war 2. /",
+"quelle": "Rhein-Zeitung, www.rhein-zeitung.de/lokales/kreis-neuwied/rueckblick-in-die-geschichte-vor-120-jahren-fuhr-die-erste-strassenbahn_arid-2276798.html; Stadt Neuwied",
+"faktencheck": "korrigiert",
+"id": "408-oberbieber/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "nachgebauter Römerturm auf dem Limes",
+"rang": 2,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Oberbieber",
+"steckbrief": "Oberbieber ist ein Stadtteil von Neuwied mit knapp 4.900 Einwohnern, 14 km nördlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Auf dem Wingertsberg steht ein erhaltener Römerturm.",
+"Auf dem Wingertsberg wuchsen früher einmal Weinreben.",
+"Einst arbeiteten im Ort Töpfer und Gerber."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Römerturm ist ein Modell des Wachturms, der einst auf der Kuppe des Wingertsbergs stand; es entspricht den wenigen antiken Reliefbildern solcher Limeswachttürme. Die Grundmauern des echten Turms liegen nicht weit davon im Boden, heute überbaut. Glaubhaft wirkt die Lüge, weil der Limes wirklich über den Berg lief. Wer vorbeifährt, sieht also ein Denkmal für die römische Grenze, nicht ihr Original. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/oberbieber",
+"faktencheck": "korrigiert",
+"id": "408-oberbieber/v0.9/6",
+"tisch": false
+},
+{
+"facette": "POLITIK",
+"charakteristikum": "Wahlbeteiligung unter dem Landeswert",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Oberbieber",
+"steckbrief": "Oberbieber ist ein Stadtteil von Neuwied mit knapp 4.900 Einwohnern, 14 km nördlich von Koblenz.",
+"frage": "Bei der Bundestagswahl 2025 lag die Wahlbeteiligung in Rheinland-Pfalz bei 83 %. Wie hoch war sie in der Stadt Neuwied?",
+"optionen": [
+"86 % und mehr",
+"83 bis unter 86 %",
+"80 bis unter 83 %",
+"unter 80 %"
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Trier liegt nahe, denn das Erzbistum war am Mittelrhein mächtig. Doch die Schenkung ging an das Frauenstift Dietkirchen zu Bonn. Später gab das Stift Oberbieber im Tausch gegen ein Gut in Oberwinter an die Abtei Rommersdorf. Richtig war 4.",
+"rueckseite": "Du hattest [Option] getippt. In der Stadt Neuwied, zu der Oberbieber gehört, gaben 77,4 Prozent ihre Stimme ab, 5,6 Punkte weniger als im Land. Ein Wert nah am Landesschnitt liegt nahe, doch größere Städte wählen oft etwas seltener als ländliche Gemeinden. Die Zahl gilt für ganz Neuwied, nicht eigens für Oberbieber. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23; Landeswert: Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes",
+"faktencheck": "bestätigt",
+"id": "408-oberbieber/v0.9/7",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Silberschmelzhütte im Aubachtal",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberbieber",
+"steckbrief": "Oberbieber ist ein Stadtteil von Neuwied mit knapp 4.900 Einwohnern, 14 km nördlich von Koblenz.",
+"frage": "Wo heute das obere Ende des Aubach-Stausees liegt, stand im 19. Jahrhundert eine Hütte. Was geschah dort?",
+"optionen": [
+"Dort wurde Glas geschmolzen.",
+"Dort wurden Ziegel gebrannt.",
+"Dort wurde Silber geschmolzen.",
+"Dort wurde Kalk gebrannt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Dort stand eine Silberschmelzhütte, am Fuß des Windelbergs, beim heutigen Waldhaus des Musikvereins Eintracht. Glas liegt nahe, weil Glashütten früher oft im Wald standen. Wo heute ein Naherholungsgebiet liegt, wurde also einst Metall geschmolzen. Richtig war 3.",
 "quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/oberbieber",
+"faktencheck": "bestätigt",
+"id": "408-oberbieber/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "ältester Kirchenbau im Landkreis",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberbieber",
+"steckbrief": "Oberbieber ist ein Stadtteil von Neuwied mit knapp 4.900 Einwohnern, 14 km nördlich von Koblenz.",
+"frage": "Ein Bauteil der evangelischen Kirche Oberbieber stammt noch aus dem 11. oder 12. Jahrhundert und ist ihr ältester. Welcher ist das?",
+"optionen": [
+"Es ist die Apsis einer Kapelle.",
+"Es ist der Kirchturm.",
+"Es ist das Kirchenschiff.",
+"Es ist die Sakristei."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die zweigeschossige romanische Apsis, ein halbrunder Anbau, stammt von der Nikolauskapelle aus dem 11. oder 12. Jahrhundert und dient heute als Chor, also als Altarraum. Der Turm liegt nahe, weil Türme oft das Älteste an einer Kirche sind; hier kamen sie erst im frühen 13. Jahrhundert dazu. Wer an der Kirche vorbeifährt, sieht an einem einzigen Bau Teile aus vielen Jahrhunderten. Richtig war 1.",
+"quelle": "KuLaDig, www.kuladig.de/Objektansicht/O-112258-20150116-4",
 "faktencheck": "korrigiert",
-"id": "408-oberbieber/v0.8/9",
+"id": "408-oberbieber/v0.9/9",
 "tisch": false
 }
 ],
 "anschluss_von": "407-niederbreitbach",
 "anschluss": [
-"Einwohner: Oberbieber hat gut dreimal so viele wie Niederbreitbach.",
-"Luftlinie nach Koblenz: von Oberbieber 14 km, von Niederbreitbach 23."
+"Oberbieber hat gut dreimal so viele Einwohner wie Niederbreitbach.",
+"Oberbieber liegt neun Kilometer näher an Koblenz als Niederbreitbach."
 ],
 "anschluesse": {
 "10-vallendar": [
@@ -112348,8 +114063,8 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: In Datzeroth lag die AfD vorn, in Oberbieber die CDU."
 ],
 "407-niederbreitbach": [
-"Einwohner: Oberbieber hat gut dreimal so viele wie Niederbreitbach.",
-"Luftlinie nach Koblenz: von Oberbieber 14 km, von Niederbreitbach 23."
+"Oberbieber hat gut dreimal so viele Einwohner wie Niederbreitbach.",
+"Oberbieber liegt neun Kilometer näher an Koblenz als Niederbreitbach."
 ],
 "409-melsbach": [
 "Kreisgrenze: Melsbach gehört zum Landkreis Neuwied, Oberbieber zum Landkreis Landkreis Neuwied.",
@@ -112385,6 +114100,32 @@ window.QA_DATEN = {
 },
 "ags": "07138045",
 "ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Stadtteil von Neuwied auf rund 100 Metern, 14 km nördlich von Koblenz, wo der Aubach den Westerwald verlässt."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Bis 1970 eine eigene Gemeinde; der Limes lief über den Wingertsberg, auf dem früher auch Wein wuchs."
+},
+{
+"facette": "ALLTAG",
+"text": "Früher prägten Wasserkraft, Töpfer und Gerber den Ort; heute sitzt hier der Laternenhersteller Rech-Laternen."
+},
+{
+"facette": "FREIZEIT",
+"text": "Freibad, Reitsportanlagen und Aubach-Stausee; dazu Rheinsteig, Deutsche Limesstraße und Historische Raiffeisenstraße."
+},
+{
+"facette": "INFRA",
+"text": "Postleitzahl 56566, Vorwahl 02631, Kennzeichen NR; früher fuhr eine elektrische Bahn nach Neuwied."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag in ganz Neuwied die CDU vor AfD und SPD."
+}
+],
 "km_vom_vorigen": 8.8
 },
 {
@@ -112394,31 +114135,151 @@ window.QA_DATEN = {
 "lon": 7.47833,
 "karten": [
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Kreuzkirche, einst vielbesuchter Wallfahrtsort",
+"rang": 4,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Melsbach",
-"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 17 km nordwestlich von Koblenz.",
-"frage": "Bis 1880 arbeitete in Melsbach ein Alaunwerk. Was liegt heute auf seiner früheren Abraumhalde?",
+"steckbrief": "Melsbach hat rund 1.950 Einwohner und liegt 17 km nordwestlich von Koblenz.",
+"frage": "Die Melsbacher Kreuzkirche wird im Jahr 1399 zum ersten Mal erwähnt. Als was?",
 "optionen": [
-"Auf der Halde liegt heute der Friedhof.",
-"Auf der Halde liegt heute der Sportplatz.",
-"Auf der Halde steht heute ein Aussichtsturm.",
-"Auf der Halde liegt heute ein Freibad."
+"Als Wallfahrtsort.",
+"Als Sitz eines Bischofs.",
+"Als Zollstation am Rhein.",
+"Als Pfarrkirche einer Reichsstadt."
 ],
 "art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Alte Halden ragen oft als Hügel auf, da denkt man an Aussicht oder Grün. In Melsbach wurde aus der Abraumhalde des Alaunwerks, das nach der Stilllegung abgerissen wurde, der Sportplatz. Alaun ist ein Salz, das man früher etwa zum Gerben und Färben brauchte. Richtig war 2.",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Bischofssitz, ein Rheinzoll oder eine Reichsstadt waren in Melsbach nie. Die Ortsgeschichte nennt etwas anderes: 1399 wird die Kreuzkirche zum ersten Mal erwähnt, und zwar als Wallfahrtsort. Für ein Dorf mit heute knapp 2.000 Einwohnern ist das ein altes Erbe: Schon vor über 600 Jahren zogen Pilger nach Melsbach. Richtig war 1.",
 "quelle": "Gemeinde-Webseite, www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html",
-"faktencheck": "unsicher",
-"id": "409-melsbach/v0.8/1",
+"faktencheck": "korrigiert",
+"id": "409-melsbach/v0.9/1",
 "tisch": false
 },
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Burschenverein richtet viertägige Kirmes aus",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Melsbach",
+"steckbrief": "Melsbach hat rund 1.950 Einwohner und liegt 17 km nordwestlich von Koblenz.",
+"frage": "Seit 1863 feiert Melsbach Kirmes, heute vier Tage rund um den zweiten Sonntag im August. Wer richtet sie aus?",
+"optionen": [
+"Die Freiwillige Feuerwehr richtet sie aus.",
+"Der Burschenverein richtet sie aus.",
+"Der Sportverein SV Melsbach richtet sie aus.",
+"Die Kirchengemeinde richtet sie aus."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Kirmes kommt von Kirchweih, darum liegt die Kirchengemeinde nahe. In Melsbach richten aber die Burschen das Fest aus, zusammen mit den Maimädels. Zur Kirmes schmücken viele ihr Haus in den Ortsfarben grün-weiß, und das schönste wird prämiert. Für einen Ort mit knapp 2.000 Einwohnern ist ein Fest von vier Tagen eine Ansage. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html und www.gemeinde-melsbach.de/?view=article&id=354:traditionelle-kirmes-in-melsbach&catid=120",
+"faktencheck": "korrigiert",
+"id": "409-melsbach/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Anhöhe am Rand des Westerwaldes",
+"rang": 9,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Melsbach",
+"steckbrief": "Melsbach hat rund 1.950 Einwohner und liegt 17 km nordwestlich von Koblenz.",
+"frage": "Melsbach liegt auf einer Anhöhe am Neuwieder Becken. Am Rand welches Mittelgebirges?",
+"optionen": [
+"Melsbach liegt am Rand der Eifel.",
+"Melsbach liegt am Rand des Hunsrücks.",
+"Melsbach liegt am Rand des Westerwaldes.",
+"Melsbach liegt am Rand des Taunus."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. „Nordwestlich von Koblenz“ klingt nach Eifel, doch die beginnt auf der anderen Rheinseite. Hunsrück und Taunus beginnen erst südlich von Mosel und Lahn. Melsbach sitzt am Rand des Westerwaldes, auf einer Anhöhe am Neuwieder Becken. Es liegt an der Schwelle vom Rheintal ins Bergland und gehört zum Naturpark Rhein-Westerwald. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html",
+"faktencheck": "bestätigt",
+"id": "409-melsbach/v0.9/3",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Ton für Hochöfen der Stahlindustrie",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Melsbach",
+"steckbrief": "Melsbach hat rund 1.950 Einwohner und liegt 17 km nordwestlich von Koblenz.",
+"frage": "In Melsbach wurde bis 1990 in Bergwerken Ton gefördert. Welchen Zweck nennt die Ortsgeschichte dafür?",
+"optionen": [
+"Er wurde zu Heilerde für Kurbäder verarbeitet.",
+"Er dichtete Deiche und Kanäle ab.",
+"Er wurde zu Westerwälder Steinzeug gebrannt.",
+"Er kleidete Hochöfen für die Stahlproduktion aus."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ton aus dem Westerwald denkt man sich als graues Steinzeug, das liegt nahe. Die Ortsgeschichte nennt für beide Melsbacher Tonbergwerke aber einen anderen Zweck: Der Ton kleidete Hochöfen aus, er ging also an die Stahlindustrie. Für ein Dorf von knapp 2.000 Einwohnern war das viel Industrie; Melsbach war bis in die jüngere Vergangenheit ein Bergbauort. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html",
+"faktencheck": "unsicher",
+"id": "409-melsbach/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Alaunwerk-Halde wurde zum Sportplatz",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Melsbach",
+"steckbrief": "Melsbach hat rund 1.950 Einwohner und liegt 17 km nordwestlich von Koblenz.",
+"frage": "Im Ortsteil Kreuzkirch arbeitete bis 1880 ein Alaunwerk. Was wurde aus seiner Abraumhalde?",
+"optionen": [
+"Auf ihr wurde der Sportplatz angelegt.",
+"Sie wurde abgetragen und als Baustoff verkauft.",
+"Auf ihr wurde der Friedhof angelegt.",
+"Sie wurde mit Fichten aufgeforstet."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Abraum aus Bergbau wird oft verwertet oder wächst zu, beides liegt nahe. In Melsbach liegt auf der ehemaligen Halde des Alaunwerks heute der Sportplatz des Orts. Alaun ist ein Salz, das man früher etwa zum Gerben und Färben brauchte. Den Rohstoff fand man in Tonlagern bei Kreuzkirch, wo man eigentlich nach Steinkohle gebohrt hatte. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html",
+"faktencheck": "korrigiert",
+"id": "409-melsbach/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "erste Schule lange vor 1896",
+"rang": 8,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Melsbach",
+"steckbrief": "Melsbach hat rund 1.950 Einwohner und liegt 17 km nordwestlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ab 1357 gab es in Melsbach eine Zollstation.",
+"Seine erste Schule bekam Melsbach erst 1896.",
+"Die Freiwillige Feuerwehr Melsbach wurde 1907 gegründet."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Jahreszahl um 1900 klingt für eine Dorfschule plausibel. Eine eigene Schule wurde in Melsbach aber schon zwischen 1692 und 1720 errichtet. Zollstation und Feuerwehr stimmen: 1357 wurde Melsbach Zollstation, 1907 entstand die Freiwillige Feuerwehr. Für einen Ort mit heute knapp 2.000 Einwohnern ist das eine lange Schulgeschichte. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html",
+"faktencheck": "korrigiert",
+"id": "409-melsbach/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "fast 700 Einwohner je km²",
+"rang": 3,
 "familie": "C",
 "sorte": "Klassiker",
 "ort": "Melsbach",
-"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 17 km nordwestlich von Koblenz.",
-"frage": "Wie viele Einwohner leben in Melsbach je Quadratkilometer?",
+"steckbrief": "Melsbach hat rund 1.950 Einwohner und liegt 17 km nordwestlich von Koblenz.",
+"frage": "Wie viele Einwohner leben in Melsbach rechnerisch auf einem Quadratkilometer?",
 "optionen": [
 "unter 200",
 "200 bis unter 500",
@@ -112427,96 +114288,40 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein Dorf am Rand des Westerwaldes klingt nach viel Platz. Doch die Gemeindefläche ist mit 2,8 Quadratkilometern klein, und darauf leben 1.953 Menschen. Das ergibt 698 Einwohner je Quadratkilometer. Richtig war 3.",
+"rueckseite": "Du hattest [Option] getippt. Ein Dorf im Grünen lässt an viel Platz und wenige Menschen denken. Doch Melsbachs Gemeindefläche ist winzig: Rund 1.950 Einwohner teilen sich 2,8 Quadratkilometer, das sind rund 700 je Quadratkilometer. Für ein Dorf ist das eine fast städtische Dichte, getragen von der sehr kleinen Fläche. Richtig war 3.",
 "quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
 "faktencheck": "bestätigt",
-"id": "409-melsbach/v0.8/2",
+"id": "409-melsbach/v0.9/7",
 "tisch": false
 },
 {
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Melsbach",
-"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 17 km nordwestlich von Koblenz.",
-"frage": "Bundestagswahl 2025, Zweitstimmen: Welche Partei wurde in Melsbach zweitstärkste Kraft?",
-"optionen": [
-"SPD",
-"AfD",
-"CDU",
-"GRÜNE"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Die AfD liegt als Tipp nahe, denn bundesweit kam sie 2025 auf Platz zwei. In Melsbach aber holte die SPD mit 20,1 Prozent knapp Rang zwei, die AfD folgte mit 19,5 Prozent. Vorn lag die CDU. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "409-melsbach/v0.8/4",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Melsbach",
-"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 17 km nordwestlich von Koblenz.",
-"frage": "Wie weit ist es von Melsbach in Luftlinie bis zur Landeshauptstadt Mainz?",
-"optionen": [
-"unter 40 km",
-"40 bis unter 70 km",
-"70 bis unter 100 km",
-"100 km und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Koblenz liegt um die Ecke, und wie Koblenz liegt auch Mainz am Rhein. Das lässt die Landeshauptstadt näher wirken. Doch von Melsbach bis Mainz sind es 80 Kilometer Luftlinie. Wer mit dem Auto fährt, legt noch mehr zurück. Richtig war 3.",
-"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
-"faktencheck": "bestätigt",
-"id": "409-melsbach/v0.8/6",
-"tisch": false
-},
-{
+"facette": "ALLTAG",
+"charakteristikum": "Dachschiefergruben am Laubach",
+"rang": 6,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Melsbach",
-"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 17 km nordwestlich von Koblenz.",
-"frage": "Das Melsbacher Wappen zeigt eine Eiche auf einem grünen Dreiberg. Wofür steht der Dreiberg?",
+"steckbrief": "Melsbach hat rund 1.950 Einwohner und liegt 17 km nordwestlich von Koblenz.",
+"frage": "Um 1750 gab es am Laubach in Melsbach neun Gruben. Was holte man dort heraus?",
 "optionen": [
-"Er steht für die Höhenlage des Ortes.",
-"Er steht für die waldreiche Umgebung.",
-"Er steht für den Bach im Ortsnamen.",
-"Er steht für die früheren Tongruben."
+"Man grub dort Braunkohle für die Öfen.",
+"Man brach dort blauen Dachschiefer.",
+"Man förderte dort Eisenerz für Hütten.",
+"Man stach dort Torf als Brennstoff."
 ],
 "art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Grün und Berg lassen an Wald denken, doch für die waldreiche Umgebung steht die Eiche. Der Dreiberg, in der Wappenkunde drei gerundete Hügel, zeigt die Höhenlage des Ortes zwischen Wied- und Wallbachtal. Der silberne Wellenbalken steht für das Grundwort -bach im Ortsnamen. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Melsbach",
-"faktencheck": "unsicher",
-"id": "409-melsbach/v0.8/8",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Melsbach",
-"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 17 km nordwestlich von Koblenz.",
-"frage": "Um 1780 ließ der Unternehmer Heinrich Wilhelm Remy bei Melsbach bohren. Was hoffte er zu finden?",
-"optionen": [
-"Er hoffte auf eine ergiebige Silberader.",
-"Er hoffte auf eine heilkräftige Mineralquelle.",
-"Er hoffte auf Steinkohle für ein Hüttenwerk.",
-"Er hoffte auf ein Vorkommen von Gold."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Silber und Gold klingen nach typischen Zielen alter Bohrungen. Remy aber vermutete ein Steinkohlelager, denn das Hütten- und Walzwerk Rasselstein im Wiedtal bei Neuwied brauchte Kohle. Gefunden wurde nur unbrauchbare Braunkohle zwischen Tonlagern. In den Tonlagern erkannte man später den Grundstoff für Alaun, ein Salz zum Gerben und Färben. Richtig war 3.",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Braunkohle und Eisenerz baute man im Westerwald vielerorts ab, das liegt nahe. Die Gruben am Laubach lieferten aber blauen Dachschiefer, das Material für Schieferdächer. Für einen Ort mit heute knapp 2.000 Einwohnern zeigt das: Melsbach lebte schon früh auch vom Gestein im Boden. Richtig war 2.",
 "quelle": "Gemeinde-Webseite, www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html",
-"faktencheck": "korrigiert",
-"id": "409-melsbach/v0.8/9",
+"faktencheck": "bestätigt",
+"id": "409-melsbach/v0.9/9",
 "tisch": false
 }
 ],
 "anschluss_von": "408-oberbieber",
 "anschluss": [
-"Einwohner: Oberbieber hat mehr als doppelt so viele wie Melsbach."
+"Oberbieber hat zweieinhalbmal so viele Einwohner wie ganz Melsbach.",
+"Melsbach liegt auf seiner Anhöhe höher als Oberbieber."
 ],
 "anschluesse": {
 "10-vallendar": [
@@ -112594,7 +114399,8 @@ window.QA_DATEN = {
 "Niederbreitbach hat dreimal so viel Fläche wie Melsbach, aber weniger Einwohner."
 ],
 "408-oberbieber": [
-"Einwohner: Oberbieber hat mehr als doppelt so viele wie Melsbach."
+"Oberbieber hat zweieinhalbmal so viele Einwohner wie ganz Melsbach.",
+"Melsbach liegt auf seiner Anhöhe höher als Oberbieber."
 ],
 "410-hardert": [
 "Melsbach hat fast zweieinhalbmal so viele Einwohner wie Hardert.",
@@ -112630,6 +114436,32 @@ window.QA_DATEN = {
 },
 "ags": "07138043",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Melsbach liegt 130 bis 200 Meter hoch auf einer Anhöhe am Neuwieder Becken, am Westerwaldrand, im Naturpark Rhein-Westerwald."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 1267 erwähnt. Der Limes verlief nahe der Kreuzkirche, die bis ins 16. Jahrhundert ein Wallfahrtsort war."
+},
+{
+"facette": "ALLTAG",
+"text": "Lange ein Bergbauort: Schiefer am Laubach, ein Alaunwerk bis 1880, Tonbergwerke bis 1990."
+},
+{
+"facette": "FREIZEIT",
+"text": "Kirmes im August, ausgerichtet vom Burschenverein; der SV Melsbach von 1919 steht für Turnen und Fußball."
+},
+{
+"facette": "INFRA",
+"text": "Eine Schule gab es schon um 1700, die Grundschule seit 1971 und die Freiwillige Feuerwehr seit 1907."
+},
+{
+"facette": "POLITIK",
+"text": "Rund 1.950 Einwohner auf 2,8 Quadratkilometern. Wahlbeteiligung bei der Bundestagswahl 2025: 86,2 Prozent, über dem Landesschnitt von 83 Prozent."
+}
+],
 "km_vom_vorigen": 2.5
 },
 {
@@ -112639,149 +114471,170 @@ window.QA_DATEN = {
 "lon": 7.51778,
 "karten": [
 {
+"facette": "ALLTAG",
+"charakteristikum": "staatlich anerkannter Luftkurort",
+"rang": 1,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Hardert",
-"steckbrief": "Die Gemeinde mit rund 850 Einwohnern liegt 19 km nördlich von Koblenz.",
-"frage": "Was bedeutet der Ortsname Hardert ursprünglich?",
+"steckbrief": "Westerwald-Gemeinde mit gut 800 Einwohnern, 19 km nördlich von Koblenz.",
+"frage": "Hardert trägt einen staatlich anerkannten Titel. Welchen?",
 "optionen": [
-"Der Name meint gerodetes Land im Bergwald.",
-"Der Name meint harten, steinigen Ackerboden.",
-"Der Name meint einen Wachposten auf der Höhe.",
-"Der Name meint eine Furt am Bach."
+"Hardert ist ein staatlich anerkanntes Heilbad.",
+"Hardert ist ein staatlich anerkannter Kneippkurort.",
+"Hardert ist ein staatlich anerkannter Erholungsort.",
+"Hardert ist ein staatlich anerkannter Luftkurort."
 ],
 "art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Wer „hart“ hört, denkt an mühsamen Boden. Doch der Name geht auf „-rode“ zurück, also auf gerodetes Waldland. 1321 hieß der Ort noch Harterode. Die Ortschronik deutet ihn als Rodung eines Mannes namens Hardo. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.hardert.de/geschichte-chronik.html",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Erholungsort liegt nahe, denn so heißen viele kleine Ferienorte im Mittelgebirge. Hardert aber ist staatlich anerkannter Luftkurort. Ein Heilbad bräuchte ein natürliches Heilmittel des Bodens wie eine Heilquelle, ein Kneippkurort Einrichtungen für die Kneipp-Therapie. Für ein Dorf mit gut 800 Einwohnern auf rund 300 Metern Höhe ist der Titel ein Aushängeschild: Er steht für die Westerwälder Höhenluft. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.hardert.de; Wikipedia, de.wikipedia.org/wiki/Hardert",
 "faktencheck": "korrigiert",
-"id": "410-hardert/v0.8/1",
+"id": "410-hardert/v0.9/1",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Hardert",
-"steckbrief": "Das Westerwalddorf mit rund 850 Einwohnern liegt 19 km nördlich von Koblenz.",
-"frage": "Wie viele Einwohner leben in Hardert rechnerisch auf einem Quadratkilometer?",
-"optionen": [
-"unter 150",
-"150 bis unter 400",
-"400 bis unter 1.000",
-"1.000 und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ein Westerwalddorf klingt nach viel Wald und wenig Menschen. Doch die Gemarkung ist klein, nur 3,44 Quadratkilometer. Darauf kommen rechnerisch 246 Einwohner je Quadratkilometer. Richtig war 2.",
-"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
-"faktencheck": "bestätigt",
-"id": "410-hardert/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Hardert",
-"steckbrief": "Die Gemeinde mit rund 850 Einwohnern liegt 19 km nördlich von Koblenz.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Das Wappen von Hardert wurde 1981 genehmigt.",
-"Die 700-Jahr-Feier fand wie geplant 2021 statt.",
-"Im Jahr 1815 zählte Hardert 160 Einwohner."
-],
-"art": "luege",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ein Jubiläum feiert man gewöhnlich im Jubiläumsjahr, deshalb klingt die Feier 2021 glaubwürdig. Doch die Corona-Pandemie kam dazwischen: Hardert holte sein 700-jähriges Bestehen erst im Juni 2022 nach. Wappen und Einwohnerzahl stimmen. Die Lüge war 2.",
-"quelle": "Gemeinde-Webseite, www.hardert.de/geschichte.html",
-"faktencheck": "unsicher",
-"id": "410-hardert/v0.8/3",
-"tisch": false
-},
-{
+"facette": "GESCHICHTE",
+"charakteristikum": "Rodungsort im Bergwald",
+"rang": 2,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Hardert",
-"steckbrief": "Das Westerwalddorf mit rund 850 Einwohnern liegt 19 km nördlich von Koblenz.",
-"frage": "Das Wappen von Hardert ist rot und golden. Woher stammen diese Farben?",
+"steckbrief": "Gemeinde mit gut 800 Einwohnern im Westerwald, 19 km nördlich von Koblenz.",
+"frage": "Bei seiner ersten Erwähnung hieß der Ort Harterode. Woher kommt der Name?",
 "optionen": [
-"Sie stammen von den Grafen, denen Hardert gehörte.",
-"Sie erinnern an einen großen Dorfbrand.",
-"Sie wurden von den Ortsvereinen übernommen.",
-"Sie zeigen die Farben des heimischen Gesteins."
+"Er bedeutet gerodetes Land im Bergwald.",
+"Er meint den harten, steinigen Boden.",
+"Er erinnert an frühere Harzgewinnung im Wald.",
+"Er bezeichnet eine alte Furt am Bach."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Rot und Gold wirken wie Feuer, daher liegt ein Dorfbrand nahe. Tatsächlich stammen die Farben aus dem Wappen der Grafen, später Fürsten zu Wied, die Hardert in Besitz nahmen. Richtig war 1.",
+"rueckseite": "Du hattest [Option] getippt. Wer „Hardert“ hört, denkt an harten, steinigen Boden – naheliegend, aber falsch. Die alte Form Harterode verrät es: „hart“ meinte Hoch- oder Bergwald, „-rode“ gerodetes Gelände. Hardert ist also ein Rodungsort im Wald. Das passt in den Westerwald, wo viele Orte ihre Rodung im Namen tragen. Richtig war 1.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Hardert",
 "faktencheck": "unsicher",
-"id": "410-hardert/v0.8/5",
+"id": "410-hardert/v0.9/2",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Hardert",
-"steckbrief": "Die Gemeinde in Rheinland-Pfalz mit rund 850 Einwohnern liegt 19 km nördlich von Koblenz.",
-"frage": "Wie weit ist es von Hardert in Luftlinie bis zur Landeshauptstadt Mainz?",
-"optionen": [
-"unter 60 km",
-"60 bis unter 90 km",
-"90 bis unter 120 km",
-"120 km und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Weil Koblenz und Mainz beide am Rhein liegen, wirkt der Weg kurz. Von Hardert sind es bis Mainz aber 81 Kilometer Luftlinie. Richtig war 2.",
-"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
-"faktencheck": "bestätigt",
-"id": "410-hardert/v0.8/6",
-"tisch": false
-},
-{
+"facette": "FREIZEIT",
+"charakteristikum": "Chor seit 1888",
+"rang": 4,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Hardert",
-"steckbrief": "Das Dorf mit rund 850 Einwohnern liegt im Westerwald, 19 km nördlich von Koblenz.",
-"frage": "Hardert ist erstmals 1321 urkundlich belegt. Wer stellte diese Urkunde aus?",
+"steckbrief": "Westerwald-Gemeinde mit gut 800 Einwohnern, 19 km nördlich von Koblenz.",
+"frage": "Welcher Verein ist nach Angaben der Gemeinde Harderts ältester kulturtragender Verein?",
 "optionen": [
-"Die Abtei Maria Laach stellte sie aus.",
-"Die Grafen von Sayn stellten sie aus.",
-"Das Koblenzer Stift St. Kastor stellte sie aus.",
-"Das Kloster Arnstein stellte sie aus."
+"Es ist der Burschenverein.",
+"Es ist der Gesangverein.",
+"Es ist der Feuerwehrverein.",
+"Es ist der Frauenclub."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Feuerwehrverein liegt nahe, denn die Feuerwehr ist in vielen Dörfern Keimzelle des Vereinslebens. Doch den Feuerwehrverein Hardert gibt es erst seit 1996. Ältester kulturtragender Verein ist laut Gemeinde der Gesangverein von 1888, der dem Chorgesang verpflichtet ist. Für ein Dorf mit gut 800 Einwohnern ist ein Chor mit so langer Geschichte ein Stück Ortsidentität. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.hardert.de/vereine.html",
+"faktencheck": "korrigiert",
+"id": "410-hardert/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Höhendorf über dem Birzenbach",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hardert",
+"steckbrief": "Gemeinde mit gut 800 Einwohnern im Westerwald, 19 km nördlich von Koblenz.",
+"frage": "Bei Hardert fließt der Birzenbach. Wie liegt das Dorf zu diesem Bach?",
+"optionen": [
+"Hardert liegt unten im Tal des Birzenbachs.",
+"Der Birzenbach fließt mitten durch Hardert.",
+"Hardert liegt östlich und oberhalb des Birzenbachs.",
+"Hardert liegt westlich und oberhalb des Birzenbachs."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Bei einer frühen Urkunde denkt man an Landesherren oder ein großes Kloster der Gegend. Tatsächlich stellte sie ein Stift in Koblenz aus: Hardert wird in einer Pachturkunde von St. Kastor genannt. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.hardert.de/geschichte-chronik.html",
-"faktencheck": "korrigiert",
-"id": "410-hardert/v0.8/7",
+"rueckseite": "Du hattest [Option] getippt. Das Tal liegt nahe, denn viele Dörfer sind an Bächen entstanden, wo Wasser und Wiesen waren. Hardert aber liegt östlich und oberhalb des Birzenbachs, nicht unten am Wasser. Auf rund 300 Metern ist Hardert ein Höhendorf des Westerwalds; der Bach fließt westlich unterhalb. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hardert",
+"faktencheck": "unsicher",
+"id": "410-hardert/v0.9/4",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "Steinkopf nördlich über dem Dorf",
+"rang": 6,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Hardert",
-"steckbrief": "Die Gemeinde mit rund 850 Einwohnern liegt 19 km nördlich von Koblenz.",
-"frage": "Im Wappen von Hardert sind Schwerter zu sehen. Worauf deuten sie hin?",
+"steckbrief": "Westerwald-Gemeinde mit gut 800 Einwohnern, 19 km nördlich von Koblenz.",
+"frage": "Nördlich von Hardert erhebt sich ein 386 Meter hoher Berg. Wie heißt er?",
 "optionen": [
-"Sie erinnern an eine Schlacht beim Dorf.",
-"Sie deuten auf ein Adelsgeschlecht des Ortes.",
-"Sie erinnern an eine berühmte Dorfschmiede.",
-"Sie ehren Soldaten aus den Weltkriegen."
+"Er heißt Eichelberg.",
+"Er heißt Hohe Warte.",
+"Er heißt Birkenkopf.",
+"Er heißt Steinkopf."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Baumname wie Eichelberg oder Birkenkopf liegt nahe, denn der Westerwald ist waldreich. Der Berg nördlich von Hardert heißt aber Steinkopf. Mit 386 Metern überragt er das Dorf, das selbst schon auf rund 300 Metern liegt. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hardert",
+"faktencheck": "unsicher",
+"id": "410-hardert/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Wappen mit Schwertern und Eichenlaub",
+"rang": 5,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Hardert",
+"steckbrief": "Westerwald-Gemeinde mit gut 800 Einwohnern, 19 km nördlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Hardert verschob den Festakt zum Ortsjubiläum wegen Corona.",
+"Schwerter im Ortswappen erinnern an ein Adelsgeschlecht.",
+"Eichenblätter im Ortswappen erinnern an eine Gerichtseiche."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eichen und Gericht passen gut zusammen, denn vielerorts tagte man einst unter alten Bäumen. Im Wappen von Hardert stehen die Eichenblätter aber für den Waldreichtum. Die Schwerter erinnern an das Geschlecht derer von Hartenrode, und den Festakt zum Ortsjubiläum holte Hardert nach der Corona-Verschiebung nach. Das Wappen liest sich wie ein Ortsporträt: Adel, Wald und Ackerbau. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hardert; Gemeinde-Webseite, www.hardert.de/geschichte.html",
+"faktencheck": "unsicher",
+"id": "410-hardert/v0.9/6",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "kleines Dorf nahe Koblenz",
+"rang": 7,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hardert",
+"steckbrief": "Westerwald-Gemeinde auf 3,44 Quadratkilometern, 19 km nördlich von Koblenz.",
+"frage": "Wie viele Einwohner hat die Gemeinde Hardert?",
+"optionen": [
+"unter 500",
+"500 bis unter 1.000",
+"1.000 bis unter 2.000",
+"2.000 oder mehr"
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Schwerter im Wappen lassen an Kampf denken, an eine Schlacht vor Ort. Gemeint ist aber das Ortsadelsgeschlecht derer von Hartenrode: Ein Siegel Heinrichs von Hartenrode von 1494 zeigt zwei gekreuzte Schwerter. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.hardert.de/geschichte-chronik.html; Wikipedia, de.wikipedia.org/wiki/Hardert",
-"faktencheck": "korrigiert",
-"id": "410-hardert/v0.8/8",
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Koblenz lässt an ein größeres Pendlerdorf denken, doch Hardert ist klein: Ende 2025 lebten hier 847 Menschen. Auf 3,44 Quadratkilometern Gemarkung sind das rund 246 Einwohner je Quadratkilometer. Richtig war 2.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "410-hardert/v0.9/7",
 "tisch": false
 }
 ],
 "anschluss_von": "409-melsbach",
 "anschluss": [
-"Einwohner: Melsbach hat mehr als doppelt so viele wie Hardert.",
-"Fläche: Hardert hat 3,44 Quadratkilometer, Melsbach nur 2,8."
+"Melsbach hat mehr als doppelt so viele Einwohner wie Hardert.",
+"Hardert liegt über hundert Meter höher als Melsbach."
 ],
 "anschluesse": {
 "10-vallendar": [
@@ -112857,8 +114710,8 @@ window.QA_DATEN = {
 "Oberbieber hat fast sechsmal so viele Einwohner wie Hardert."
 ],
 "409-melsbach": [
-"Einwohner: Melsbach hat mehr als doppelt so viele wie Hardert.",
-"Fläche: Hardert hat 3,44 Quadratkilometer, Melsbach nur 2,8."
+"Melsbach hat mehr als doppelt so viele Einwohner wie Hardert.",
+"Hardert liegt über hundert Meter höher als Melsbach."
 ],
 "411-ehlscheid": [
 "Ehlscheid hat fast doppelt so viele Einwohner wie Hardert."
@@ -112886,6 +114739,32 @@ window.QA_DATEN = {
 },
 "ags": "07138026",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Hardert liegt im Westerwald auf rund 300 Metern, 19 km nördlich von Koblenz, über dem Birzenbach; nördlich ragt der Steinkopf."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 1321 als Harterode erwähnt. Bis 1553 gab es das Adelsgeschlecht von Hartenrode, danach gehörte der Ort den Grafen zu Wied."
+},
+{
+"facette": "ALLTAG",
+"text": "Über Jahrhunderte lebte man von Land- und Forstwirtschaft. Heute ist Hardert staatlich anerkannter Luftkurort mit 847 Einwohnern."
+},
+{
+"facette": "FREIZEIT",
+"text": "Vereine: Gesangverein von 1888, Burschenverein Club Edelweiß, Alte Burschen, Frauenclub und Feuerwehrverein."
+},
+{
+"facette": "INFRA",
+"text": "Hardert gehört zur Verbandsgemeinde Rengsdorf-Waldbreitbach im Kreis Neuwied, mit Kennzeichen NR und Postleitzahl 56579."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag die CDU mit 26,2 Prozent knapp vor der AfD mit 24,6 Prozent."
+}
+],
 "km_vom_vorigen": 4.2
 },
 {
@@ -112895,128 +114774,170 @@ window.QA_DATEN = {
 "lon": 7.46806,
 "karten": [
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Ehlscheid",
-"steckbrief": "Gemeinde im Landkreis Neuwied, gut 6 Quadratkilometer groß, 20 km nordwestlich von Koblenz.",
-"frage": "Wie viele Einwohner hat Ehlscheid?",
-"optionen": [
-"unter 2.000",
-"2.000 bis unter 3.500",
-"3.500 bis unter 5.000",
-"5.000 und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Koblenz lässt an eine größere Wohngemeinde denken. Tatsächlich zählt Ehlscheid 1.544 Einwohner, Stand Ende 2025. Richtig war 1.",
-"quelle": "Wikidata P1082, Stand 2025-12-31",
-"faktencheck": "bestätigt",
-"id": "411-ehlscheid/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Ehlscheid",
-"steckbrief": "Gemeinde mit rund 1.500 Einwohnern, 20 km nordwestlich von Koblenz.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Ursprünglich lebte Ehlscheid von Land- und Forstwirtschaft.",
-"Nach dem Zweiten Weltkrieg wurde Ehlscheid Fremdenverkehrsort.",
-"Sommerfrischler kamen erst nach dem Zweiten Weltkrieg."
-],
-"art": "luege",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Weil Ehlscheid erst nach dem Krieg zum Fremdenverkehrsort wurde, wirkt die Lüge glaubhaft. Doch schon das Wort Sommerfrischler klingt nach Kaiserzeit: Sommerfrischler kamen laut Ortsgeschichte bereits 1905. Die Lüge war 3.",
-"quelle": "Gemeinde-Webseite, www.ehlscheid.de/unsere-geschichte",
-"faktencheck": "bestätigt",
-"id": "411-ehlscheid/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Ehlscheid",
-"steckbrief": "Gemeinde mit rund 1.500 Einwohnern im Landkreis Neuwied, 20 km nordwestlich von Koblenz.",
-"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Ehlscheid?",
-"optionen": [
-"unter 25 %",
-"25 bis unter 30 %",
-"30 bis unter 35 %",
-"35 % und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Auf dem Land erwartet man oft eine übermächtige CDU. In Ehlscheid lag sie zwar vorn, aber mit 32,9 Prozent unter einem Drittel. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "411-ehlscheid/v0.8/4",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Ehlscheid",
-"steckbrief": "Gemeinde mit rund 1.500 Einwohnern im Landkreis Neuwied, 20 km nordwestlich von Koblenz.",
-"frage": "Wie weit ist Ehlscheid in Luftlinie von der Landeshauptstadt Mainz entfernt?",
-"optionen": [
-"unter 100 km",
-"100 bis unter 130 km",
-"130 bis unter 160 km",
-"160 km und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Wer an die Fahrt über Koblenz und das Rheintal denkt, schätzt leicht zu hoch. In Luftlinie trennen Ehlscheid und Mainz nur 83 Kilometer. Richtig war 1.",
-"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
-"faktencheck": "bestätigt",
-"id": "411-ehlscheid/v0.8/6",
-"tisch": false
-},
-{
+"facette": "FREIZEIT",
+"charakteristikum": "zugeschüttetes Freibad des Fremdenverkehrsorts",
+"rang": 3,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Ehlscheid",
-"steckbrief": "Gemeinde mit rund 1.500 Einwohnern im Landkreis Neuwied, 20 km nordwestlich von Koblenz.",
-"frage": "Im Ehlscheider Wappen stehen eine Ähre und zwei Eichenblätter. Was ist darunter abgebildet?",
+"steckbrief": "Ehlscheid hat gut 1.500 Einwohner und liegt 20 km nordwestlich von Koblenz.",
+"frage": "Ehlscheid hatte einst ein beheiztes Freibad. Was ist heute daraus geworden?",
 "optionen": [
-"Darunter steht ein Mühlrad am Bach.",
-"Darunter steht ein Westerwälder Fachwerkhaus.",
-"Darunter steht ein überdachter Ziehbrunnen.",
-"Darunter steht eine kleine Dorfkirche."
+"Es wurde zum Hallenbad überdacht.",
+"Es wurde saniert und ist wieder geöffnet.",
+"Es wurde geschlossen und nicht wieder eröffnet.",
+"Ein Verein betreibt es bis heute."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein Fachwerkhaus läge nahe, es ist in der Gegend ein typisches Motiv. Im Wappen steht aber unten in der Spitze ein überdachter goldener Ziehbrunnen. Darüber stehen die goldene Ähre und zu beiden Seiten je ein silbernes Eichenblatt. Richtig war 3.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Ehlscheid (Vermerk: Blasonierung ohne zweiten Beleg)",
+"rueckseite": "Du hattest [Option] getippt. Eine Rettung liegt nahe, so haben viele Gemeinden alte Bäder erhalten; auch in Ehlscheid kämpfte ein Förderverein darum. Doch die Besucher wurden weniger, und ab 2012 zeigten sich Schäden, deren Sanierung auf über 300.000 Euro geschätzt wurde. Das Bad blieb geschlossen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.ehlscheid.de/unsere-geschichte; NR-Kurier, 29.04.2013",
 "faktencheck": "korrigiert",
-"id": "411-ehlscheid/v0.8/8",
+"id": "411-ehlscheid/v0.9/1",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "Höhendorf über dem Neuwieder Becken",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ehlscheid",
+"steckbrief": "Ehlscheid hat gut 1.500 Einwohner und liegt 20 km nordwestlich von Koblenz.",
+"frage": "Ehlscheid liegt nahe an Rheinsteig und Westerwaldsteig. Zu welchem Naturpark gehört der Ort?",
+"optionen": [
+"Ehlscheid liegt im Naturpark Nassau.",
+"Ehlscheid liegt im Naturpark Rhein-Westerwald.",
+"Ehlscheid liegt im Naturpark Siebengebirge.",
+"Ehlscheid liegt im Naturpark Vulkaneifel."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Nassau oder Siebengebirge liegen nahe, beide Naturparke sind nicht weit entfernt. Ehlscheid gehört aber zum Naturpark Rhein-Westerwald, das schreibt die Gemeinde selbst. Zwei große Fernwanderwege, Rheinsteig und Westerwaldsteig, verlaufen ganz in der Nähe. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.ehlscheid.de",
+"faktencheck": "korrigiert",
+"id": "411-ehlscheid/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Bundesstraße 256 östlich am Dorf",
+"rang": 9,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ehlscheid",
+"steckbrief": "Ehlscheid hat gut 1.500 Einwohner und liegt 20 km nordwestlich von Koblenz.",
+"frage": "Östlich von Ehlscheid verläuft die Bundesstraße 256 von Neuwied aus. Wohin führt sie?",
+"optionen": [
+"Sie führt nach Hachenburg.",
+"Sie führt nach Westerburg.",
+"Sie führt nach Altenkirchen.",
+"Sie führt nach Bad Marienberg."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Hachenburg oder Westerburg liegen nahe, beide sind bekannte Westerwaldstädte. Die B 256 verbindet aber Neuwied mit Altenkirchen und läuft östlich an Ehlscheid vorbei, über Straßenhaus, wo eine Ortsumgehung geplant ist. Unterwegs stellt sie auch den Anschluss an die A 3 her. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Ehlscheid; Landesbetrieb Mobilität Rheinland-Pfalz, planfeststellung.lbm.rlp.de (B 256 Ortsumgehung Straßenhaus)",
+"faktencheck": "korrigiert",
+"id": "411-ehlscheid/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "vom Hundert-Seelen-Dorf zum Wohnort",
+"rang": 4,
 "familie": "B",
 "sorte": "Geschichte",
 "ort": "Ehlscheid",
-"steckbrief": "Gemeinde mit rund 1.500 Einwohnern, 20 km nordwestlich von Koblenz.",
+"steckbrief": "Ehlscheid hat gut 1.500 Einwohner und liegt 20 km nordwestlich von Koblenz.",
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Ehlscheid war über Jahrhunderte katholisch geprägt.",
-"Ehlscheid stand früher unter der Herrschaft von Wied.",
-"Nach dem Zweiten Weltkrieg zogen Katholiken zu."
+"1870 zählte das Dorf 1.000 Einwohner.",
+"1959 zählte das Dorf 371 Einwohner.",
+"1975 zählte das Dorf 950 Einwohner."
 ],
 "art": "luege",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Rund um Koblenz denkt man zuerst an katholische Dörfer. Ehlscheid gehörte aber zu Wied, und dort hatten die Grafen die Reformation eingeführt. So blieb das Dorf bis ins 20. Jahrhundert evangelisch. Die Lüge war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Ehlscheid",
+"rueckseite": "Du hattest [Option] getippt. Der Sprung von 371 auf 950 Einwohner wirkt verdächtig, stimmt aber. Gelogen war 1870: Damals lebten nur 100 Menschen in Ehlscheid. Heute sind es gut 1.500; das Dorf ist seitdem auf mehr als das Fünfzehnfache gewachsen, besonders schnell zwischen 1959 und 1975. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.ehlscheid.de/unsere-geschichte; Einwohner heute: Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "411-ehlscheid/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "kleines, dicht bewohntes Gemeindegebiet",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ehlscheid",
+"steckbrief": "Ehlscheid hat gut 1.500 Einwohner und liegt 20 km nordwestlich von Koblenz.",
+"frage": "Wie groß ist das Gemeindegebiet von Ehlscheid?",
+"optionen": [
+"unter 8 km²",
+"8 bis unter 15 km²",
+"15 bis unter 25 km²",
+"25 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei gut 1.500 Einwohnern rechnet man mit mehr Fläche, denn Dörfer auf der Höhe haben oft viel Wald und Feld. Ehlscheid kommt aber mit 6,27 Quadratkilometern aus. Das sind rund 246 Einwohner je Quadratkilometer, recht dicht für ein Dorf auf dem Land. Richtig war 1.",
+"quelle": "Wikidata P2046; Einwohner: Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "411-ehlscheid/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Kurpark mit Baumlehrpfad am Ortseingang",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ehlscheid",
+"steckbrief": "Ehlscheid hat gut 1.500 Einwohner und liegt 20 km nordwestlich von Koblenz.",
+"frage": "Im Kurpark am Ortseingang stehen 13 Tafeln auf einem Lehrpfad. Was erklären sie?",
+"optionen": [
+"Sie erklären die Geschichte des Kurorts.",
+"Sie erklären die Bäume im Kurpark.",
+"Sie erklären die Vögel des Westerwalds.",
+"Sie erklären das heilsame Klima."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. In einem Kurpark erwartet man Tafeln zu Kur und Klima. Die 13 Tafeln des Baumlehrpfads erklären aber die Bäume im Park. Gleich daneben liegen Barfußpfad und Schaukelbank, ober- und unterhalb schließt ein Entdeckerpfad an: Der Kurpark am Ortseingang wird so ein Ort zum Entdecken und Lernen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.ehlscheid.de/baumlehrpfad",
 "faktencheck": "korrigiert",
-"id": "411-ehlscheid/v0.8/9",
+"id": "411-ehlscheid/v0.9/8",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Klosterweg zwischen zwei Fernwanderwegen",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ehlscheid",
+"steckbrief": "Ehlscheid hat gut 1.500 Einwohner und liegt 20 km nordwestlich von Koblenz.",
+"frage": "Ehlscheid ist an den Wanderweg Klosterweg angebunden. Welche zwei Fernwege verbindet er?",
+"optionen": [
+"Er verbindet Rheinsteig und Moselsteig.",
+"Er verbindet Westerwaldsteig und Lahnwanderweg.",
+"Er verbindet Eifelsteig und Rheinsteig.",
+"Er verbindet Westerwaldsteig und Rheinsteig."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Mosel oder Eifel liegen nahe, denn auch dort gibt es bekannte Steige. Der Klosterweg verbindet aber Westerwaldsteig und Rheinsteig und führt an einigen Aussichtspunkten vorbei. Für ein Dorf mit gut 1.500 Einwohnern ist das eine Anbindung an gleich zwei große Fernwanderwege. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Ehlscheid",
+"faktencheck": "unsicher",
+"id": "411-ehlscheid/v0.9/9",
 "tisch": false
 }
 ],
 "anschluss_von": "410-hardert",
 "anschluss": [
-"Fläche: Ehlscheid ist fast doppelt so groß wie Hardert.",
-"Bundestagswahl 2025: In Ehlscheid wählten 86,7 Prozent, in Hardert 84,7."
+"Ehlscheid hat fast doppelt so viele Einwohner wie Hardert.",
+"Ehlscheid hatte 2025 zwei Punkte mehr Wahlbeteiligung als Hardert."
 ],
 "anschluesse": {
 "10-vallendar": [
@@ -113105,8 +115026,8 @@ window.QA_DATEN = {
 "Ehlscheid liegt rund 180 Meter höher als Melsbach."
 ],
 "410-hardert": [
-"Fläche: Ehlscheid ist fast doppelt so groß wie Hardert.",
-"Bundestagswahl 2025: In Ehlscheid wählten 86,7 Prozent, in Hardert 84,7."
+"Ehlscheid hat fast doppelt so viele Einwohner wie Hardert.",
+"Ehlscheid hatte 2025 zwei Punkte mehr Wahlbeteiligung als Hardert."
 ],
 "412-kurtscheid": [
 "Ehlscheid hat anderthalbmal so viele Einwohner wie Kurtscheid."
@@ -113131,6 +115052,32 @@ window.QA_DATEN = {
 },
 "ags": "07138015",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Ehlscheid liegt auf gut 340 Metern über dem Neuwieder Becken, im Naturpark Rhein-Westerwald, 20 km nordwestlich von Koblenz."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Urkundlich erstmals 1311 erwähnt. Das Dorf gehörte zur Grafschaft Wied und war lange evangelisch. 1870 hatte es 100 Einwohner."
+},
+{
+"facette": "ALLTAG",
+"text": "Früher lebte man von Land- und Forstwirtschaft, nach dem Krieg vom Fremdenverkehr; den heilklimatischen Kurtitel gab Ehlscheid 2024 zurück."
+},
+{
+"facette": "FREIZEIT",
+"text": "Kurpark mit Baumlehrpfad, Barfußpfad und Schaukelbank, dazu der Klosterweg, die OktoberGaudi in der Heimathalle und ein Hofflohmarkt im ganzen Dorf."
+},
+{
+"facette": "INFRA",
+"text": "Die B 256 führt östlich vorbei. Bahnhof und Anschluss an die A 3 liegen in Neuwied, ICE-Halte in Koblenz und Montabaur."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag die CDU vorn. Die Wahlbeteiligung war mit 86,7 Prozent höher als im Land (83 Prozent)."
+}
+],
 "km_vom_vorigen": 3.5
 },
 {
@@ -113140,169 +115087,170 @@ window.QA_DATEN = {
 "lon": 7.46583,
 "karten": [
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Häuser verlegt, um katholisch zu bleiben",
+"rang": 1,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Kurtscheid",
-"steckbrief": "Gemeinde mit rund 1.000 Einwohnern, 22 km nördlich von Koblenz.",
-"frage": "1556 trat der Graf zu Wied zum evangelischen Glauben über. Was taten Kurtscheider, die katholisch bleiben wollten?",
+"steckbrief": "Gut 1.000 Einwohner, 22 km nördlich von Koblenz.",
+"frage": "Als der Graf zu Wied evangelisch wurde, lagen elf Kurtscheider Häuser auf seinem Gebiet. Was taten die Bewohner?",
 "optionen": [
-"Sie bauten sofort eine eigene Kirche.",
-"Sie kauften dem Grafen das Dorf ab.",
-"Sie verlegten Häuser auf benachbartes katholisches Gebiet.",
-"Sie traten nur zum Schein evangelisch über."
+"Sie wurden mit ihrem Grafen evangelisch.",
+"Sie versetzten ihre Häuser auf kurkölnisches Gebiet.",
+"Sie feierten heimlich katholische Messen im Wald.",
+"Sie kauften sich beim Grafen frei."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Nach dem Grundsatz „Cuius regio, eius religio“ folgten Dörfer meist dem Glauben ihres Landesherrn, das liegt nahe. Die Grenze zwischen Wied und Kurköln lief aber mitten durch Kurtscheid. Laut Gemeinde rissen die Bewohner ihre elf Häuser auf wiedischem Gebiet ab und bauten sie weiter nördlich auf kurkölnischem Boden wieder auf. Richtig war 2.",
+"quelle": "Ortsgemeinde Kurtscheid, kurtscheid.de/geschichte_zeitreise.html",
+"faktencheck": "korrigiert",
+"id": "412-kurtscheid/v0.9/1",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Turnverein, von Frauen gegründet",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kurtscheid",
+"steckbrief": "Rund 1.000 Einwohner, 22 Kilometer nördlich von Koblenz.",
+"frage": "Der Turn- und Sportverein TuS Kurtscheid hat eine besondere Gründungsgeschichte. Wer hat ihn gegründet?",
+"optionen": [
+"Die Pfarrgemeinde gründete ihn als Jugendgruppe.",
+"Ein Sportlehrer der Dorfschule gründete ihn.",
+"Eine Gruppe sportlicher Frauen gründete ihn.",
+"Ehemalige Fußballer gründeten ihn als Ausgleich."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre ein Scheinübertritt, denn damals bestimmte der Landesherr die Konfession. Die Kurtscheider rissen aber ihre elf Häuser auf wiedischem Gebiet ab und bauten sie etwas weiter nördlich auf kurkölnischem Gebiet wieder auf. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.kurtscheid.de/geschichte_zeitreise.html“ In der Fakt-Datei 412-kurtscheid/003 ist 1556 auf 1546 zu ändern.",
+"rueckseite": "Du hattest [Option] getippt. Pfarrei oder Lehrer liegen nahe, denn so entstanden viele Dorfvereine. Den TuS Kurtscheid gründeten laut Gemeinde aber sportliche Frauen; heute bietet er Gymnastik, Turnen und Walking. In einem Dorf mit gut 1.000 Einwohnern steht er damit neben Schützen, Feuerwehr und Musikverein. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.kurtscheid.de/vereine.html",
 "faktencheck": "korrigiert",
-"id": "412-kurtscheid/v0.8/1",
+"id": "412-kurtscheid/v0.9/2",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "LAGE",
+"charakteristikum": "Ort auf einer Wasserscheide",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
 "ort": "Kurtscheid",
-"steckbrief": "Dorf mit rund 1.000 Einwohnern, 22 km nördlich von Koblenz.",
-"frage": "Aus welchem Zeitraum stammt die erste gesicherte urkundliche Erwähnung von Kurtscheid?",
+"steckbrief": "Gut 1.000 Einwohner, 22 km nördlich von Koblenz.",
+"frage": "Was bedeutet die Endung -scheid im Ortsnamen Kurtscheid?",
 "optionen": [
-"vor 1300",
-"1300 bis vor 1400",
-"1400 bis vor 1450",
-"1450 bis vor 1500"
+"Hier wurde früher Brennholz zu Scheiten gespalten.",
+"Der Ort entstand an einer Bachfurt.",
+"Der Ort lag an einer alten Poststraße.",
+"Der Ort liegt auf einer Wasserscheide."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Ein früher Tipp liegt nahe, denn viele Dörfer sind älter als ihre erste Urkunde. Gesichert belegt ist Kurtscheid aber erst 1457, als „Kurtschyt“. Eine Nennung von 1314 gilt als ungesichert. Bestanden haben kann der Ort schon vorher. Richtig war 4.",
-"quelle": "Wikidata P1249; Namensform und ungesicherte Nennung: Wikipedia, de.wikipedia.org/wiki/Kurtscheid",
-"faktencheck": "unsicher",
-"id": "412-kurtscheid/v0.8/2",
+"rueckseite": "Du hattest [Option] getippt. Scheid klingt nach Holzscheit, das liegt nahe. Die Endung gilt aber als Hinweis auf eine Wasserscheide, eine Höhe, von der Wasser nach verschiedenen Seiten abfließt. Wer nach Kurtscheid fährt, fährt hinauf: Laut Gemeinde ist es mit rund 400 Metern die höchstgelegene Gemeinde im Kreis Neuwied. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Kurtscheid (Namensdeutung); Ortsgemeinde Kurtscheid, kurtscheid.de/ueber-kurtscheid.html",
+"faktencheck": "korrigiert",
+"id": "412-kurtscheid/v0.9/3",
 "tisch": false
 },
 {
+"facette": "ALLTAG",
+"charakteristikum": "Supermarkt ohne Personal im Dorf",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kurtscheid",
+"steckbrief": "Gut 1.000 Einwohner, 22 km nördlich von Koblenz.",
+"frage": "Kurtscheid hat einen eigenen Supermarkt, den NAH SUPER. Wer sitzt dort an der Kasse?",
+"optionen": [
+"Niemand, die Kundschaft scannt und zahlt selbst.",
+"Ehrenamtliche aus dem Dorf wechseln sich ab.",
+"Eine Verkäuferin sitzt morgens an der Kasse.",
+"Der Bäcker im Laden kassiert gleich mit."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Im Dorfladen erwartet man eine Verkäuferin, und auf dem Land helfen oft Ehrenamtliche aus. Der NAH SUPER kommt laut Gemeinde ohne Personal aus: Die Kundschaft scannt ihre Waren selbst und kassiert selbst. Für einen Ort mit gut 1.000 Einwohnern schließt er eine Versorgungslücke; auch Leute aus anderen Gemeinden und Camper aus dem Wiedtal kaufen dort ein. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.kurtscheid.de/nah-super.html",
+"faktencheck": "korrigiert",
+"id": "412-kurtscheid/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Kirchenglocke als Spende des Papstes",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kurtscheid",
+"steckbrief": "Gut 1.000 Einwohner, 22 km nördlich von Koblenz.",
+"frage": "Eine Glocke der katholischen Kirche in Kurtscheid wurde aus einer Spende angeschafft. Von wem kam das Geld?",
+"optionen": [
+"Von Kaiser Wilhelm II.",
+"Von Papst Pius XI.",
+"Von Reichspräsident Friedrich Ebert.",
+"Von Kölns Oberbürgermeister Konrad Adenauer."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Konrad Adenauer liegt nahe: ein bekannter Katholik aus dem Rheinland. Laut Gemeinde wurde die Glocke aber aus einer Spende von Papst Pius XI. angeschafft; geweiht ist sie dem heiligen Kastor. Geld vom Papst für ein Dorf, das heute gut 1.000 Einwohner zählt – so etwas erwartet man eher in einer Domstadt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.kurtscheid.de/kirchengemeinde-katholisch.html",
+"faktencheck": "korrigiert",
+"id": "412-kurtscheid/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Höhendorf ohne Bahnhof, Bundesstraße nebenan",
+"rang": 8,
 "familie": "B",
 "sorte": "Geschichte",
 "ort": "Kurtscheid",
-"steckbrief": "Gemeinde mit rund 1.000 Einwohnern, 22 km nördlich von Koblenz.",
+"steckbrief": "Gut 1.000 Einwohner, 22 km nördlich von Koblenz.",
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Kurtscheids erste eigene Kirche stammt aus dem Mittelalter.",
-"Eine Glocke ist dem heiligen Franziskus Xaverius geweiht.",
-"Eine Kurtscheider Kirche wurde an einem Pfingstmontag geweiht."
+"Östlich vorbei führt die Bundesstraße Neuwied–Altenkirchen.",
+"Kurtscheid hat einen eigenen Bahnhof für Regionalzüge.",
+"Zum ICE fährt man nach Koblenz oder Montabaur."
 ],
 "art": "luege",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein altes Dorf, eine alte Kirche – das liegt nahe. Doch eine eigene Kirche bekam Kurtscheid erst 1842; vorher gab es nur eine Kapelle. Die Glocke ehrt Franziskus Xaverius, den Schutzpatron der ersten Kurtscheider Kapelle. Am Pfingstmontag geweiht wurde eine spätere, neue Kirche. Die Lüge war 1.",
-"quelle": "Gemeinde-Webseite, www.kurtscheid.de/kirchengemeinde-katholisch.html",
-"faktencheck": "korrigiert",
-"id": "412-kurtscheid/v0.8/3",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Kurtscheid",
-"steckbrief": "Dorf mit rund 1.000 Einwohnern im ländlichen Raum, 22 km nördlich von Koblenz.",
-"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Kurtscheid nach Zweitstimmen zweitstärkste Kraft?",
-"optionen": [
-"SPD",
-"AfD",
-"GRÜNE",
-"Die Linke"
-],
-"art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Die SPD liegt als alte Volkspartei nahe. In Kurtscheid kam bei der Bundestagswahl 2025 aber die AfD mit 19,5 Prozent der Zweitstimmen auf Platz zwei, hinter der CDU mit 38,6 Prozent. Die SPD folgte mit 12,2 Prozent. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "412-kurtscheid/v0.8/4",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Kurtscheid",
-"steckbrief": "Westerwalddorf mit rund 1.000 Einwohnern, 22 km nördlich von Koblenz.",
-"frage": "Eine Glocke der katholischen Kirche in Kurtscheid ist dem heiligen Kastor geweiht. Aus wessen Spende wurde sie angeschafft?",
-"optionen": [
-"Aus einer Spende von Kaiser Wilhelm I.",
-"Aus einer Spende von Kaiserin Augusta.",
-"Aus einer Spende von Papst Pius XI.",
-"Aus einer Spende von Otto von Bismarck."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein Landesherr als Stifter liegt nahe, denn Fürsten beschenkten oft die Kirchen ihrer Dörfer. Diese Glocke wurde aber aus einer Spende von ganz oben angeschafft: von Papst Pius XI. Nach ihrem Ton heißt sie Fis-Glocke; geweiht ist sie dem heiligen Kastor. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.kurtscheid.de/kirchengemeinde-katholisch.html“ In den Negativnachweisen ist für die Optionen 1, 2 und 4 jeweils das Todesjahr vor 1922 anzugeben.",
+"rueckseite": "Du hattest [Option] getippt. Die Autobahn klingt weit weg, doch laut Gemeinde erreicht man die A 3 nach rund 7 km. Einen eigenen Bahnhof hat Kurtscheid nicht: Der nächste liegt 17 km entfernt in Neuwied. Zum ICE geht es nach Koblenz oder Montabaur. Für ein Höhendorf mit gut 1.000 Einwohnern ist das typisch. Die Lüge war 2.",
+"quelle": "Ortsgemeinde Kurtscheid, kurtscheid.de/ueber-kurtscheid.html",
 "faktencheck": "korrigiert",
-"id": "412-kurtscheid/v0.8/5",
+"id": "412-kurtscheid/v0.9/6",
 "tisch": false
 },
 {
+"facette": "POLITIK",
+"charakteristikum": "auffällig hohe Wahlbeteiligung",
+"rang": 6,
 "familie": "C",
 "sorte": "Klassiker",
 "ort": "Kurtscheid",
-"steckbrief": "Dorf mit rund 1.000 Einwohnern auf der Höhe, 22 km nördlich von Koblenz.",
-"frage": "Wie viele Einwohner leben in Kurtscheid rechnerisch auf einem Quadratkilometer?",
+"steckbrief": "Gut 1.000 Einwohner, 22 km nördlich von Koblenz.",
+"frage": "Bei der Bundestagswahl 2025 gingen in Rheinland-Pfalz 83 % wählen. Wie hoch war die Wahlbeteiligung in Kurtscheid?",
 "optionen": [
-"unter 80",
-"80 bis unter 130",
-"130 bis unter 180",
-"180 bis unter 230"
+"unter 80 %",
+"80 bis unter 83 %",
+"83 bis unter 86 %",
+"86 % oder mehr"
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Ein Dorf mit rund tausend Einwohnern klingt nach viel Platz und dünner Besiedlung. Doch die Fläche der Gemeinde ist klein: Auf 5,1 Quadratkilometern leben 1.007 Menschen, rechnerisch 197 je Quadratkilometer. Richtig war 4.",
-"quelle": "berechnet aus Wikidata P1082 (Einwohner, Stand 2025-12-31) und Wikidata P2046 (Fläche)",
+"rueckseite": "Du hattest [Option] getippt. Ein Wert um den Landesschnitt wirkt plausibel, denn 83 % sind schon viel. Kurtscheid lag bei der Bundestagswahl 2025 aber bei 89,1 %, gut sechs Punkte über dem Landeswert. In einem Dorf mit gut 1.000 Einwohnern gingen damit fast neun von zehn Wahlberechtigten zur Wahl. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
 "faktencheck": "bestätigt",
-"id": "412-kurtscheid/v0.8/6",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Kurtscheid",
-"steckbrief": "Gemeinde mit rund 1.000 Einwohnern, 22 km nördlich von Koblenz.",
-"frage": "Das Wappen von Kurtscheid zeigt unten ein silbernes Zahnrad. Wofür steht es?",
-"optionen": [
-"Es steht für frühere Erzgruben und heutige Industrie.",
-"Es erinnert an eine alte Getreidemühle im Ort.",
-"Es erinnert an eine frühere Uhrmacherwerkstatt.",
-"Es erinnert an den Bau einer Bahnstrecke."
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein Zahnrad im Dorfwappen deutet man leicht als Mühlrad, denn Mühlen gehörten zu fast jedem Dorf. Gemeint sind aber die früheren Silber- und Eisenerzgruben und die Industrie, die es heute in der Gemeinde gibt. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Kurtscheid",
-"faktencheck": "unsicher",
-"id": "412-kurtscheid/v0.8/7",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Kurtscheid",
-"steckbrief": "Gemeinde mit rund 1.000 Einwohnern, 22 km nördlich von Koblenz.",
-"frage": "Die Kurtscheider Kirche von 1923 diente nur bis 1957 für Gottesdienste. Was geschah dann mit ihr?",
-"optionen": [
-"Sie wurde zu einem Gemeindesaal umgebaut.",
-"Sie wurde abgerissen und durch einen Neubau ersetzt.",
-"Sie wurde der evangelischen Gemeinde überlassen.",
-"Sie wurde zu Wohnungen umgebaut."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Eine Kirche, die erst wenige Jahrzehnte steht, baut man eher um, als sie aufzugeben – so geht man heute oft mit Kirchen um. Kurtscheid riss sie aber ab und ersetzte sie durch einen Neubau. Die Gemeinde-Webseite nennt das rückblickend vielleicht einen Fehler. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.kurtscheid.de/kirchengemeinde-katholisch.html",
-"faktencheck": "bestätigt",
-"id": "412-kurtscheid/v0.8/8",
+"id": "412-kurtscheid/v0.9/7",
 "tisch": false
 }
 ],
 "anschluss_von": "411-ehlscheid",
 "anschluss": [
-"Katholiken aus Ehlscheid gehörten ab 1842 zur Pfarrvikarie Kurtscheid.",
-"Mehrere Jahrhunderte lang verlief zwischen Kurtscheid und Ehlscheid eine Konfessionsgrenze."
+"Kurtscheid und Ehlscheid trennte über Jahrhunderte eine Konfessionsgrenze.",
+"Ehlscheid hat rund 500 Einwohner mehr als Kurtscheid."
 ],
 "anschluesse": {
 "10-vallendar": [
@@ -113394,8 +115342,8 @@ window.QA_DATEN = {
 "Kurtscheid hat rund 200 Einwohner mehr als Hardert."
 ],
 "411-ehlscheid": [
-"Katholiken aus Ehlscheid gehörten ab 1842 zur Pfarrvikarie Kurtscheid.",
-"Mehrere Jahrhunderte lang verlief zwischen Kurtscheid und Ehlscheid eine Konfessionsgrenze."
+"Kurtscheid und Ehlscheid trennte über Jahrhunderte eine Konfessionsgrenze.",
+"Ehlscheid hat rund 500 Einwohner mehr als Kurtscheid."
 ],
 "413-rossbach-wied": [
 "Roßbach hat fast anderthalbmal so viele Einwohner wie Kurtscheid.",
@@ -113417,6 +115365,32 @@ window.QA_DATEN = {
 },
 "ags": "07138036",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Kurtscheid liegt 22 km nördlich von Koblenz im Landkreis Neuwied, im Naturpark Rhein-Westerwald, auf rund 380 Metern Höhe."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Das Dorf wurde 1457 als „Kurtschyt“ erstmals erwähnt. Von 1556 bis 1803 war es zwischen Wied und Kurköln geteilt."
+},
+{
+"facette": "ALLTAG",
+"text": "Gut 1.000 Einwohner leben auf 5,1 Quadratkilometern. Ein Supermarkt ohne Personal sorgt für die Nahversorgung."
+},
+{
+"facette": "FREIZEIT",
+"text": "Es gibt Musikverein, Männergesangverein, Schützenbruderschaft, Karnevalsclub und Kirmesgesellschaft, dazu den Dorfplatz Kornbitze mit Tribüne und die Wiedhöhenhalle."
+},
+{
+"facette": "INFRA",
+"text": "Kurtscheid hat keinen Bahnhof, der nächste ist in Neuwied. Östlich verläuft die B 256, die A 3 erreicht man bei Neuwied."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag die CDU mit 38,6 % vorn, die AfD folgte mit 19,5 %. Die Wahlbeteiligung war 89,1 %."
+}
+],
 "km_vom_vorigen": 2.3
 },
 {
@@ -113426,149 +115400,216 @@ window.QA_DATEN = {
 "lon": 7.41611,
 "karten": [
 {
-"familie": "A",
+"facette": "ALLTAG",
+"charakteristikum": "Luftkurort im Wiedtal",
+"rang": 2,
+"familie": "D",
 "sorte": "Geschichte",
 "ort": "Roßbach",
-"steckbrief": "Gemeinde mit rund 1.500 Einwohnern, 27 km nordwestlich von Koblenz.",
-"frage": "Die Ortsgeschichte nennt einen klaren Ursprung des Dorfs. Woraus ist Roßbach entstanden?",
+"steckbrief": "Roßbach im Kreis Neuwied hat knapp 1.500 Einwohner und liegt 27 km nordwestlich von Koblenz.",
+"frage": "Welchen staatlich anerkannten Titel erhielt Roßbach im Jahr 1969?",
 "optionen": [
-"Roßbach entstand aus einer Siedlung von Pferdezüchtern.",
-"Roßbach entstand aus dem Hof eines Ritterordens.",
-"Roßbach entstand aus einer Siedlung von Basaltarbeitern.",
-"Roßbach entstand aus einer Zollstation an der Wied."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Das Ross im Ortsnamen lässt an Pferdezüchter denken. Die Ortsgeschichte führt Roßbach aber auf einen Hof der Waldbreitbacher Deutschherren zurück; so hießen die Ritter eines geistlichen Ordens. Später nennt die Ortsgeschichte weitere Höfe, etwa Buchenau und Spreitchen. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.rossbach-wied.de/unser-dorf/geschichte/",
-"faktencheck": "bestätigt",
-"id": "413-rossbach-wied/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Roßbach",
-"steckbrief": "Gemeinde mit rund 1.500 Einwohnern, 27 km nordwestlich von Koblenz.",
-"frage": "Wie groß ist das Gemeindegebiet von Roßbach?",
-"optionen": [
-"unter 2 km²",
-"2 bis unter 5 km²",
-"5 bis unter 10 km²",
-"10 km² oder mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein Dorf dieser Größe stellt man sich auf engem Raum vor. Doch zur Gemeinde gehören neben dem Hauptort auch Ortsteile wie Reifert und Schimmelshahn. Das Gemeindegebiet misst 6,4 km². Richtig war 3.",
-"quelle": "Wikidata P2046",
-"faktencheck": "bestätigt",
-"id": "413-rossbach-wied/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Roßbach",
-"steckbrief": "Gemeinde mit rund 1.500 Einwohnern, 27 km nordwestlich von Koblenz.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Bomben beschädigten im Krieg die Kirche Sankt Michael.",
-"Das Roßbe Platt zählt zu den niederdeutschen Mundarten.",
-"Oberbuchenau war einst ein Hof mit eigener Stromversorgung."
-],
-"art": "luege",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Platt klingt nach Norddeutschland, wo die Mundart oft so heißt. Das Roßbacher Platt liegt aber zwischen Ripuarisch und Moselfränkisch, ist also mitteldeutsch. Wahr sind die Bombenschäden an Sankt Michael im Zweiten Weltkrieg und der stattliche Hof mit eigener Stromversorgung, aus dem Oberbuchenau hervorging. Die Lüge war 2.",
-"quelle": "Gemeinde-Webseite, www.rossbach-wied.de/unser-dorf/os-sproch/ und www.rossbach-wied.de/unser-dorf/",
-"faktencheck": "korrigiert",
-"id": "413-rossbach-wied/v0.8/3",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Roßbach",
-"steckbrief": "Gemeinde mit rund 1.500 Einwohnern, 27 km nordwestlich von Koblenz.",
-"frage": "Aus dem Aussiedlerhof Lache machte ein phantasiereicher Bürger etwas ganz Neues. Was?",
-"optionen": [
-"Er legte dort einen Golfplatz an.",
-"Er schuf dort ein Ferienhausgebiet mit See.",
-"Er baute dort eine Motocross-Strecke.",
-"Er gründete dort einen Reiterhof."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Charly Reuschenbach machte aus dem einstigen Aussiedlerhof, einem aus dem Dorf verlegten Bauernhof, ein Ferienhausgebiet mit See und Gaststätte. Dass dort heute noch viele Pferde stehen, erinnert an den alten Hof. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.rossbach-wied.de/unser-dorf/ortsteile/",
-"faktencheck": "korrigiert",
-"id": "413-rossbach-wied/v0.8/5",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Roßbach",
-"steckbrief": "Gemeinde mit rund 1.500 Einwohnern, 27 km nordwestlich von Koblenz.",
-"frage": "Wie viele Einwohner kommen in Roßbach rechnerisch auf einen Quadratkilometer?",
-"optionen": [
-"unter 100",
-"100 bis unter 200",
-"200 bis unter 300",
-"300 oder mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein Dorf mit mehreren kleinen Ortsteilen wirkt locker besiedelt. Doch rechnerisch kommen 228 Einwohner auf jeden Quadratkilometer. Richtig war 3.",
-"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
-"faktencheck": "bestätigt",
-"id": "413-rossbach-wied/v0.8/6",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Geschichte",
-"ort": "Roßbach",
-"steckbrief": "Gemeinde mit rund 1.500 Einwohnern, 27 km nordwestlich von Koblenz.",
-"frage": "Wie viele Gästeübernachtungen verzeichnete Roßbach im Jahr 1971?",
-"optionen": [
-"unter 5.000",
-"5.000 bis unter 20.000",
-"20.000 bis unter 50.000",
-"50.000 oder mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Für ein Dorf dieser Größe wirkt eine fünfstellige Zahl hoch, deshalb liegen die kleinen Spannen nahe. Doch die Ortsgeschichte verzeichnet für jenes Jahr 66.883 Gästeübernachtungen. Kurz zuvor war eine neue Campinganlage entstanden. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.rossbach-wied.de/unser-dorf/geschichte/",
-"faktencheck": "bestätigt",
-"id": "413-rossbach-wied/v0.8/7",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Roßbach",
-"steckbrief": "Gemeinde mit rund 1.500 Einwohnern, 27 km nordwestlich von Koblenz.",
-"frage": "Das Gemeindewappen von Roßbach zeigt neben einem Ross ein Kreuz. Wofür steht das Kreuz?",
-"optionen": [
-"Es erinnert an die lange Zugehörigkeit zu Kurköln.",
-"Es steht für die Kirche Sankt Michael.",
-"Es erinnert an die Johanniter.",
-"Es steht für die Schützenbruderschaft St. Hubertus."
+"Luftkurort",
+"Heilbad",
+"Seebad",
+"Heilklimatischer Kurort"
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein Kreuz im Dorfwappen deutet man leicht auf die eigene Kirche. Doch es ist das Kurkölner Kreuz. Es erinnert an den langen kölnischen Einfluss, der vor allem in der Sprache bis heute erkennbar ist. Die Spaltung in der Wappenmitte soll die Wied darstellen, also einen Bach. Zusammen mit dem Ross ergibt das Roßbach: ein redendes Wappen. Richtig war 1.",
+"rueckseite": "Du hattest [Option] getippt. Heilbad oder Seebad liegen nahe, denn viele Kurorte leben von Quellen oder vom Meer. Roßbach dagegen wurde 1969 staatlich anerkannter Luftkurort; gefragt war die Luft, nicht das Wasser. 1971 zählte der Ort 66.883 Gästeübernachtungen. Für ein Dorf mit heute knapp 1.500 Einwohnern ist das viel, und Hotels und Ferienwohnungen gehören weiter zum Ortsbild. Richtig war 1.",
 "quelle": "Gemeinde-Webseite, www.rossbach-wied.de/unser-dorf/geschichte/",
 "faktencheck": "korrigiert",
-"id": "413-rossbach-wied/v0.8/8",
+"id": "413-rossbach-wied/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Dorf aus einem Ordenshof",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Roßbach",
+"steckbrief": "Roßbach im Kreis Neuwied hat knapp 1.500 Einwohner und liegt 27 km nordwestlich von Koblenz.",
+"frage": "Die Gemeinde schätzt Roßbachs Anfänge auf etwa 1250. Woraus ist das Dorf entstanden?",
+"optionen": [
+"Es entstand aus einer Pferdewechselstation.",
+"Es entstand aus dem Hof eines Ritterordens.",
+"Es entstand rund um eine Getreidemühle.",
+"Es entstand aus einem Fischerdorf am Fluss."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das »Roß« im Namen lässt an Pferde denken, an Fuhrleute und Pferdewechsel. Nach der Ortsgeschichte wuchs Roßbach aber aus einem Hof der Waldbreitbacher Deutschherren, eines geistlichen Ritterordens. Aus diesem Hof ist eine Gemeinde mit knapp 1.500 Einwohnern geworden, die heute vom Tal bis auf die Höhe reicht. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.rossbach-wied.de/unser-dorf/geschichte/",
+"faktencheck": "bestätigt",
+"id": "413-rossbach-wied/v0.9/2",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Landeplatz für Gleitschirmflieger",
+"rang": 1,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Roßbach",
+"steckbrief": "Roßbach hat knapp 1.500 Einwohner und liegt im Wiedtal, 27 km nordwestlich von Koblenz.",
+"frage": "Bei Niederbuchenau, einem Roßbacher Ortsteil an der Wied, gibt es einen Landeplatz. Wer landet dort?",
+"optionen": [
+"Heißluftballone",
+"Segelflugzeuge",
+"Gleitschirm- und Drachenflieger",
+"Ultraleichtflugzeuge"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Landeplatz denkt man an Motor- oder Segelflieger, doch die bräuchten eine Piste. Bei Niederbuchenau im Wiedbogen landen Gleitschirm- und Drachenflieger, die vom nahen Finkenberg starten; vom Campingplatz Wiedschleife aus kann man Start und Landung beobachten. Dank günstiger Thermik können sie lange über der Landschaft bleiben. Für ein Dorf mit knapp 1.500 Einwohnern ist ein Landeplatz für Flieger ungewöhnlich. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.rossbach-wied.de/unser-dorf/ortsteile/",
+"faktencheck": "korrigiert",
+"id": "413-rossbach-wied/v0.9/3",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "alte Schule als Dorfzentrum",
+"rang": 9,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Roßbach",
+"steckbrief": "Roßbach im Kreis Neuwied hat knapp 1.500 Einwohner und liegt 27 km nordwestlich von Koblenz.",
+"frage": "Roßbachs alte Schule wurde 2001 umgebaut. Was wurde aus ihr?",
+"optionen": [
+"Sie wurde zum Feuerwehrhaus des Dorfes.",
+"Sie wurde eine Pension für Kurgäste.",
+"Sie wurde zum Rathaus der Verbandsgemeinde.",
+"Sie bekam Arztpraxis, Sparkasse und Wohnungen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Rathaus liegt nahe, denn viele Dörfer machen aus der alten Schule ein Verwaltungsgebäude. In Roßbach wurde sie zum Dienstleistungszentrum: Arztpraxis, Sparkasse, Jugendraum, Gemeindearchiv und Wohnungen. So holte ein Dorf mit knapp 1.500 Einwohnern vieles, was man im Alltag braucht, unter das Dach der alten Schule. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.rossbach-wied.de/unser-dorf/geschichte/",
+"faktencheck": "bestätigt",
+"id": "413-rossbach-wied/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Pendlerdorf ohne Gewerbegebiet",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Roßbach",
+"steckbrief": "Roßbach im Kreis Neuwied hat knapp 1.500 Einwohner und liegt 27 km nordwestlich von Koblenz.",
+"frage": "Roßbach hat keine größeren Gewerbeflächen. Welchen Grund nennt die Gemeinde dafür?",
+"optionen": [
+"Die Tallagen lassen keinen Platz dafür.",
+"Naturschutz verbietet dort jede neue Bebauung.",
+"Der Boden gehört größtenteils der Kirche.",
+"Ein Truppenübungsplatz grenzt an den Ort."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Naturschutz liegt nahe, denn rund um Roßbach wächst viel Wald. Die Gemeinde nennt aber die Lage: Das von Tallagen geprägte Gemeindegebiet verhindert geradezu die Ansiedlung größerer Gewerbeflächen. Die meisten Berufstätigen arbeiten auswärts, nur wenige im Ort. Für ein Dorf mit knapp 1.500 Einwohnern heißt das: Roßbach ist ein Pendlerort, gewohnt wird im Ort, gearbeitet meist anderswo. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.rossbach-wied.de/wohnen-und-leben/gewerbe/",
+"faktencheck": "korrigiert",
+"id": "413-rossbach-wied/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "redendes Wappen mit Ross und Wied",
+"rang": 7,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Roßbach",
+"steckbrief": "Roßbach im Kreis Neuwied hat knapp 1.500 Einwohner und liegt 27 km nordwestlich von Koblenz.",
+"frage": "Es geht um Roßbachs Gemeindewappen. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Kreuz im Wappen steht für Kurköln.",
+"Das Ross im Wappen steht für den Namen.",
+"Die Mitte des Wappens zeigt eine Landesgrenze."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Grenze klingt plausibel, denn Wappen erzählen oft von Herrschaften. Doch die Spaltung in der Mitte soll die Wied als Bach darstellen; zusammen mit dem Ross ergibt sie den Namen Roßbach, ein »redendes Wappen«. Das Kreuz erinnert an Kurköln, zu dem Roßbach jahrhundertelang gehörte. So erzählt das Wappen von Fluss, Name und Herrschaft – das Dorf an der Wied auf einen Blick. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.rossbach-wied.de/unser-dorf/geschichte/",
+"faktencheck": "korrigiert",
+"id": "413-rossbach-wied/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Dorf unten im Wiedtal",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Roßbach",
+"steckbrief": "Roßbach hat knapp 1.500 Einwohner und liegt im Wiedtal, 27 km nordwestlich von Koblenz.",
+"frage": "Auf welcher Höhe über dem Meer liegt Roßbach?",
+"optionen": [
+"unter 60 m",
+"60 bis unter 100 m",
+"100 bis unter 200 m",
+"200 m und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an den Westerwald denkt, schätzt Roßbach leicht höher ein – doch der Ort liegt unten im Wiedtal, auf 116 bis 122 Metern; die Quellen nennen beide Werte. Der Ortsteil Reifert dagegen liegt auf der Höhe, auf dem Bergrücken zwischen Wied- und Rheintal. Wer durch Roßbach fährt, fährt durchs Tal. Richtig war 3.",
+"quelle": "GRUNDDATEN – Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "413-rossbach-wied/v0.9/7",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Hausberg als ehemaliger Basaltbruch",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Roßbach",
+"steckbrief": "Roßbach hat knapp 1.500 Einwohner und liegt im Wiedtal, 27 km nordwestlich von Koblenz.",
+"frage": "Das Roßbacher Häubchen ist heute ein Ausflugsziel. Was begann dort im Jahr 1883?",
+"optionen": [
+"Dort begann der Weinbau.",
+"Dort begann der Basaltabbau.",
+"Dort begannen Militärübungen.",
+"Dort begann der Schieferabbau."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Schiefer liegt nahe, denn Schieferdächer prägen viele Dörfer im Rheinland. Am Roßbacher Häubchen aber begann 1883 der Basaltabbau. Heute lohnt sich eine Tour zum Häubchen, und ein Roßbacher Rundweg heißt „Unterm Häubchen“. Wer im Wiedtal den Berg mit dem Namen des Dorfs sieht, blickt auf ein Stück Arbeitsgeschichte. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.rossbach-wied.de/unser-dorf/geschichte/",
+"faktencheck": "korrigiert",
+"id": "413-rossbach-wied/v0.9/8",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Feriensiedlung mit See aus Bürgerhand",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Roßbach",
+"steckbrief": "Roßbach im Kreis Neuwied hat knapp 1.500 Einwohner und liegt 27 km nordwestlich von Koblenz.",
+"frage": "Im Roßbacher Ortsteil Lache gibt es ein Ferienhausgebiet mit See. Wer hat es entwickelt?",
+"optionen": [
+"Ein Reiseveranstalter von außerhalb legte es an.",
+"Die Gemeinde selbst legte es an.",
+"Ein Energieversorger legte dort einen Stausee an.",
+"Ein einfallsreicher Bürger des Orts entwickelte es."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ferienhäuser mit See klingen nach Investor oder Gemeindeprojekt. Entwickelt hat das Gebiet aber Charly Reuschenbach, ein phantasiereicher Bürger: Aus einem ehemaligen Aussiedlerhof wurden Ferienhäuser mit See und einer Gaststätte, dem Lacher Stall. Heute ist Lache ein beliebter Wohnort für viele Zugereiste, mit verstärkter Pferdehaltung. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.rossbach-wied.de/unser-dorf/ortsteile/",
+"faktencheck": "korrigiert",
+"id": "413-rossbach-wied/v0.9/9",
 "tisch": false
 }
 ],
 "anschluss_von": "412-kurtscheid",
 "anschluss": [
-"Höhe: Kurtscheid liegt gut 250 Meter höher als Roßbach.",
-"Zufall: Kurtscheid wurde 1457 erstmals erwähnt, Roßbach hat 1457 Einwohner."
+"Roßbach liegt gut 250 Meter tiefer als Kurtscheid.",
+"Kurtscheid wurde 1457 erstmals erwähnt, Roßbach hat 1457 Einwohner."
 ],
 "anschluesse": {
 "47-andernach": [
@@ -113656,8 +115697,8 @@ window.QA_DATEN = {
 "Ehlscheid liegt rund 230 Meter höher als Roßbach."
 ],
 "412-kurtscheid": [
-"Höhe: Kurtscheid liegt gut 250 Meter höher als Roßbach.",
-"Zufall: Kurtscheid wurde 1457 erstmals erwähnt, Roßbach hat 1457 Einwohner."
+"Roßbach liegt gut 250 Meter tiefer als Kurtscheid.",
+"Kurtscheid wurde 1457 erstmals erwähnt, Roßbach hat 1457 Einwohner."
 ],
 "414-hausen-wied": [
 "Hausen (Wied) hat rund 400 Einwohner mehr als Roßbach.",
@@ -113677,6 +115718,32 @@ window.QA_DATEN = {
 },
 "ags": "07138065",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Roßbach liegt im Mittleren Wiedtal auf 116 bis 122 Metern, 27 km nordwestlich von Koblenz."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 1307 erwähnt, bis 1802 kurkölnisch, dann Wied, Nassau, Preußen; seit 1946 Rheinland-Pfalz."
+},
+{
+"facette": "ALLTAG",
+"text": "Knapp 1.500 Einwohner auf 6,4 Quadratkilometern; je rund 40 Prozent Wald und Landwirtschaft."
+},
+{
+"facette": "FREIZEIT",
+"text": "Wanderer finden Westerwaldsteig und Wiedweg, Radler den Wied-Radweg durch den Ort; dazu Wiedhalle und Campingplatz Wiedschleife."
+},
+{
+"facette": "INFRA",
+"text": "Im Ort kreuzen sich die Landesstraßen 255 und 256; der nächste Bahnhof ist Linz am Rhein."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 kam die CDU auf 40,7 Prozent, bei 86,3 Prozent Wahlbeteiligung."
+}
+],
 "km_vom_vorigen": 5.5
 },
 {
@@ -113960,153 +116027,1719 @@ window.QA_DATEN = {
 "km_vom_vorigen": 3.7
 },
 {
+"slug": "499-bonefeld",
+"name": "Bonefeld",
+"lat": 50.52389,
+"lon": 7.49083,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "sechs Grabhügel der Hallstattzeit",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bonefeld",
+"steckbrief": "Rund 940 Einwohner, 20 km nördlich von Koblenz am Rand des Westerwalds.",
+"frage": "Östlich von Bonefeld liegen am Westhang des Steinkopfs mehrere flache Hügel. Was sind sie?",
+"optionen": [
+"Es sind Schanzen aus dem Dreißigjährigen Krieg.",
+"Es sind Lesesteinhaufen früherer Ackerbauern.",
+"Es sind keltische Grabhügel der älteren Eisenzeit.",
+"Es sind Meilerplätze mittelalterlicher Köhler."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das liegt bei flachen Hügeln im Wald nahe. Doch es sind Grabhügel der älteren Eisenzeit, etwa aus dem 6. bis 3. Jahrhundert vor Christus. Elf sind noch sichtbar, einer wurde originalgetreu nachgebaut. Gefunden wurden unter anderem bronzene Wendelringe. Ein Dorf mit rund 940 Einwohnern hat damit Spuren, die weit vor jede Urkunde zurückreichen. Richtig war 3.",
+"quelle": "Verbandsgemeinde Rengsdorf-Waldbreitbach, www.rengsdorf-waldbreitbach.de/gemeinden-infrastruktur/gemeinden/bonefeld; Gemeinde-Webseite, www.bonefeld.de/wappen.html",
+"faktencheck": "korrigiert",
+"id": "499-bonefeld/v0.9/1",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Schwanenteich am „Bur“ aus Bürgerhand",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bonefeld",
+"steckbrief": "Rund 940 Einwohner, auf 345 m Höhe, 20 km nördlich von Koblenz.",
+"frage": "Den Schwanenteich in Bonefeld legte eine Bürgerinitiative an, aus der der Burverein hervorging. Was bedeutet das Wort ‚Bur‘ im Vereinsnamen?",
+"optionen": [
+"Bur ist Mundart für Burg.",
+"Bur ist Mundart für Bauer.",
+"Bur ist Mundart für Bursche.",
+"Bur ist Mundart für Brunnen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. ‚Bauer‘ liegt nahe, denn im Norden Deutschlands heißt der Bauer mundartlich Buur. In Bonefeld aber meint ‚Bur‘ den Brunnen. Einige Einwohner gestalteten das Sumpfgebiet am Bur in mühevoller Kleinarbeit um: Es entstanden der Schwanenteich und eine Gartenanlage. Aus dieser Bürgerinitiative ging der Burverein hervor, und heute gehört das Burfest fest zum Dorfleben. Für ein Dorf mit rund 940 Einwohnern ist so ein selbst angelegter Weiher ein sichtbares Stück Ehrenamt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.bonefeld.de/burverein.html",
+"faktencheck": "korrigiert",
+"id": "499-bonefeld/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Basaltboden, im Wappen als Säulen",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bonefeld",
+"steckbrief": "Rund 940 Einwohner, Gemeinde im Landkreis Neuwied, 20 km nördlich von Koblenz.",
+"frage": "Im Bonefelder Wappen steht eine Gruppe aus vier schwarzen Säulen. Wofür stehen sie?",
+"optionen": [
+"Sie stehen für Basalt im Gemeindegebiet.",
+"Sie erinnern an vier Gründerhöfe des Dorfs.",
+"Sie zeigen die Pfeiler einer alten Brücke.",
+"Sie erinnern an Säulen einer früheren Kirche."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei Säulen denkt man zuerst an eine Kirche. Gemeint ist aber Basalt, der im Gemeindegebiet vorkommt; das Gestein erstarrt oft zu genau solchen Säulen. Auch sonst erzählt das Wappen von der Landschaft: Blau steht für Wasservorkommen, Eichenlaub für Waldreichtum, nur Rot und Gold sind die wiedischen Farben. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.bonefeld.de/wappen.html",
+"faktencheck": "korrigiert",
+"id": "499-bonefeld/v0.9/3",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "alter Grafenhof als Dorfgasthaus",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bonefeld",
+"steckbrief": "Rund 940 Einwohner, 20 km nördlich von Koblenz, im Landkreis Neuwied.",
+"frage": "Der Deichwiesenhof in Bonefeld wurde später zur Gastwirtschaft mit Saalbau umgebaut. Was war er ursprünglich?",
+"optionen": [
+"Er war eine Wassermühle an der Deichwiese.",
+"Er war ein Hof, gebaut unter einem Grafen.",
+"Er war ein Zollhaus an der Landstraße.",
+"Er war eine Kapelle mit Pilgerherberge."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name mit Deich und Wiese lässt an Wasser und eine Mühle denken. Tatsächlich ließ hier ein Graf von Wied einen Hof errichten. Erst viel später machte die Erbengemeinschaft Lücker daraus eine Gastwirtschaft mit Saalbau. Der heutige „Historische Deichwiesenhof“ steht vermutlich auf den alten Grundmauern; renoviert hat ihn die Ortsgemeinde. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.bonefeld.de/chronik.html",
+"faktencheck": "korrigiert",
+"id": "499-bonefeld/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Dorfschule in einer fürstlichen Scheune",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bonefeld",
+"steckbrief": "Rund 940 Einwohner, auf 345 m Höhe, 20 km nördlich von Koblenz.",
+"frage": "Bonefelds Dorfschule bestand rund 250 Jahre. Woraus entstand um 1836 ihr neues Schulhaus?",
+"optionen": [
+"Es entstand aus einer alten Dorfkapelle.",
+"Es entstand aus einem früheren Forsthaus.",
+"Es entstand aus der Scheune eines fürstlichen Hofs.",
+"Es entstand aus einem ehemaligen Pfarrhaus."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Pfarrhaus oder Kapelle liegen nahe, weil Schule und Kirche früher eng zusammenhingen. In Bonefeld aber wurde das neue Schulhaus aus der ehemaligen Scheune des fürstlichen Hofgebäudes gefertigt; es lag am südlichen Rand des Dorfes. Vorher hatte man im alten Hofhaus unterrichtet. Ein Dorf dieser Größe hielt seine eigene Schule erstaunlich lange, bis sie geschlossen wurde. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.bonefeld.de/chronik.html",
+"faktencheck": "korrigiert",
+"id": "499-bonefeld/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Höhendorf ohne Bahn, an der Bundesstraße",
+"rang": 6,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bonefeld",
+"steckbrief": "Rund 940 Einwohner, auf 345 m Höhe über dem Neuwieder Becken, 20 km nördlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Bonefeld liegt an der Bundesstraße nach Altenkirchen.",
+"Bonefeld hat einen eigenen Bahnhof mit Zughalt.",
+"Der Ort Bonefeld liegt im Naturpark Rhein-Westerwald."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Bahnhof klingt bei einer Bundesstraße mitten durch den Ort nicht abwegig. Doch Bonefeld liegt auf der Höhe am Rand des Westerwalds über dem Neuwieder Becken, und eine Bahnstrecke führt nicht hindurch. Erschlossen ist das Dorf über die Bundesstraße 256 von Neuwied nach Altenkirchen, die Historische Raiffeisenstraße. Wer hierherkommt, kommt also über die Straße, nicht über die Schiene. Die Lüge war 2.",
+"quelle": "Verbandsgemeinde Rengsdorf-Waldbreitbach, www.rengsdorf-waldbreitbach.de/gemeinden-infrastruktur/gemeinden/bonefeld",
+"faktencheck": "korrigiert",
+"id": "499-bonefeld/v0.9/6",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Dorf knapp unter tausend Einwohnern",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bonefeld",
+"steckbrief": "Gemeinde im Landkreis Neuwied mit 5,2 km² Fläche, auf 345 m Höhe, 20 km nördlich von Koblenz.",
+"frage": "Wie viele Einwohner hatte Bonefeld Ende 2025?",
+"optionen": [
+"unter 1.000",
+"1.000 bis unter 2.000",
+"2.000 bis unter 4.000",
+"4.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Über 1.000 liegt nahe, denn Hausen (Wied) im selben Landkreis hat fast doppelt so viele Einwohner. Bonefeld zählte Ende 2025 aber 938. Auf 5,2 Quadratkilometern sind das rund 180 Menschen je Quadratkilometer, ein ländliches Dorf auf der Höhe. Richtig war 1.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "korrigiert",
+"id": "499-bonefeld/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Zehntdorf der Koblenzer Kastorkirche",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bonefeld",
+"steckbrief": "Rund 940 Einwohner, im Landkreis Neuwied, 20 km nördlich von Koblenz.",
+"frage": "Bonefeld ist erstmals 1321 in einer Urkunde belegt. Worum ging es in dieser Urkunde?",
+"optionen": [
+"Es ging um einen Grenzstreit zweier Nachbardörfer.",
+"Es ging um den Zehnt im Dorf und eine Abgabe daraus.",
+"Es ging um die Weihe einer Dorfkapelle.",
+"Es ging um die Schlichtung eines Waldstreits."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Grenz- und Waldstreit sind typischer Stoff alter Urkunden. Bonefeld aber taucht auf, weil das Kapitel der Koblenzer St. Kastorkirche festhielt, wer den Zehnten zu „Boninvelt“ innehatte: zwei Herren, die dafür Hafer abgeben mussten. Der Zehnt war eine Abgabe auf die Ernte. Das Höhendorf, rund 20 Kilometer von Koblenz entfernt, war so schon früh mit der Stadt am Rhein verbunden. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.bonefeld.de/chronik.html",
+"faktencheck": "korrigiert",
+"id": "499-bonefeld/v0.9/8",
+"tisch": false
+}
+],
+"anschluss_von": "414-hausen-wied",
+"anschluss": [],
+"anschluesse": {},
+"ags": "07138005",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 20 Kilometer nördlich von Koblenz auf 345 Metern, am Nordrand des Westerwalds im Naturpark Rhein-Westerwald."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Seit 1321 urkundlich belegt; sechs Hügelgräber der Hallstattzeit zeugen von viel früherer Besiedlung."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 940 Einwohner auf 5,2 Quadratkilometern im Landkreis Neuwied; Gastwirtschaft im historischen Deichwiesenhof."
+},
+{
+"facette": "FREIZEIT",
+"text": "Schwanenteich mit Gartenanlage, Burfest, Schützenhalle, Skaterbahn, Theatergruppe, Frauenchor, Männergesangverein und Akkordeonclub."
+},
+{
+"facette": "INFRA",
+"text": "Bundesstraße 256 von Neuwied nach Altenkirchen; der nächste Bahnhof und die Autobahn A 3 liegen bei Neuwied."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag die CDU mit 30 Prozent vorn; die Wahlbeteiligung lag gut vier Punkte über dem Landesschnitt."
+}
+],
+"km_vom_vorigen": 6.3
+},
+{
+"slug": "500-strassenhaus",
+"name": "Straßenhaus",
+"lat": 50.53917,
+"lon": 7.51861,
+"karten": [
+{
+"facette": "ALLTAG",
+"charakteristikum": "traditionsreicher Jahrmarkt „Jorschelder Moat“",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Straßenhaus",
+"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 21 km nördlich von Koblenz.",
+"frage": "Im Ort heißt etwas in Mundart „Jorschelder Moat“. Was verbirgt sich dahinter?",
+"optionen": [
+"Gemeint ist ein Wassergraben um einen Hof.",
+"Gemeint ist ein Markt mit Waren aller Art.",
+"Gemeint ist ein Moor bei Jahrsfeld.",
+"Gemeint ist ein Schützenfest der Dorfvereine."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. „Moat“ klingt nach dem englischen Wort für Wassergraben, doch hier ist es Mundart für Markt. Der Jorschelder Moat ist der Jahrfelder Markt, jährlich am ersten Donnerstag im September. Für einen Ort mit rund 2.000 Einwohnern ist ein traditionsreicher Markt mit Waren aller Art bemerkenswert. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Straßenhaus",
+"faktencheck": "unsicher",
+"id": "500-strassenhaus/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Ortsname von Gast- und Zollhaus",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Straßenhaus",
+"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 21 km nördlich von Koblenz.",
+"frage": "Straßenhaus ist nach einem alten Haus an der Horhäuser Straße benannt. Wozu diente dieses Haus einst?",
+"optionen": [
+"Es diente als Forsthaus für die Wälder.",
+"Es diente als Pfarrhaus für die Umgebung.",
+"Es diente als Gasthaus und Zollstation.",
+"Es diente als Schulhaus für mehrere Dörfer."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Forst- oder Pfarrhaus liegt nahe, denn viele Orte wuchsen um ein einzelnes Amtshaus. Das Haus der Familie Reinhard nahe dem heutigen Marktplatz war aber Gasthaus und Zollstation, denn hier verlief einst die Grenze zwischen der Grafschaft Wied und dem Kurfürstentum Trier. Vom Haus an der Straße hat der Ort seinen Namen. Wer über den Marktplatz fährt, passiert seinen Ursprung. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Straßenhaus",
+"faktencheck": "unsicher",
+"id": "500-strassenhaus/v0.9/2",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Naturbad aus der Kurort-Zeit",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Straßenhaus",
+"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 21 km nördlich von Koblenz.",
+"frage": "Am Höllsbach in Niederhonnefeld liegt ein Naturschwimmbad. Welchen Grund nennt die Ortsgeschichte für die Gründung seines Zweckverbands?",
+"optionen": [
+"Soldaten einer Garnison sollten schwimmen lernen.",
+"Ein Fabrikant wollte ein Bad für Arbeiter.",
+"Bergleute brauchten nach der Schicht ein Bad.",
+"Der Ort wollte seinen Kurbetrieb fördern."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bergleute liegen nahe, denn im Westerwald wurde vielerorts Erz und Ton abgebaut. Doch der Zweckverband, ein Zusammenschluss für eine gemeinsame Aufgabe, entstand für den Kurbetrieb: Straßenhaus entwickelte sich zum Kurort, und das Naturbad gehörte dazu. Später kamen Vorwärmbecken und Kinderplanschbecken hinzu. Ein Naturbad am Bach in einem Ort mit rund 2.000 Einwohnern erzählt noch von dieser Zeit. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Straßenhaus",
+"faktencheck": "unsicher",
+"id": "500-strassenhaus/v0.9/3",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Höhendorf mit schneller Fernanbindung",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Straßenhaus",
+"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 21 km nördlich von Koblenz.",
+"frage": "Nahe Straßenhaus verläuft die Schnellfahrstrecke Köln–Rhein/Main. Welcher Bahnhof dieser Strecke liegt am nächsten?",
+"optionen": [
+"Am nächsten liegt Montabaur.",
+"Am nächsten liegt Limburg Süd.",
+"Am nächsten liegt Siegburg/Bonn.",
+"Am nächsten liegt Köln/Bonn Flughafen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein großer Knoten wie Siegburg/Bonn liegt nahe, weil Köln nicht weit scheint. Doch der nächste Bahnhof an der Schnellfahrstrecke ist Montabaur. Der Ort selbst liegt an der Bundesstraße 256, nahe der Autobahn 3. Für einen Ort mit rund 2.000 Einwohnern auf 365 Metern Höhe ist das eine schnelle Anbindung an Köln und Rhein/Main. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Straßenhaus",
+"faktencheck": "korrigiert",
+"id": "500-strassenhaus/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Waldhöhe im Naturpark Rhein-Westerwald",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Straßenhaus",
+"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 21 km nördlich von Koblenz.",
+"frage": "Rund um Straßenhaus prägen Wälder die Landschaft. In welchem Naturpark liegt die Gemeinde?",
+"optionen": [
+"Straßenhaus liegt im Naturpark Nassau.",
+"Straßenhaus liegt im Naturpark Rhein-Westerwald.",
+"Straßenhaus liegt im Naturpark Siebengebirge.",
+"Straßenhaus liegt im Naturpark Rhein-Taunus."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Nassau liegt nahe, denn der Name klingt nach Westerwald und Lahn. Straßenhaus gehört aber zum Naturpark Rhein-Westerwald. Der Eichenzweig im Gemeindewappen steht für die alten Eichen auf dem Marktplatz und die waldreiche Umgebung; dazu kommen die Felsformationen Stangenstein und Hangeley. Auf 365 Metern liegt der Ort deutlich über dem Rheintal. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Straßenhaus",
+"faktencheck": "korrigiert",
+"id": "500-strassenhaus/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "preußischer Telegrafenturm im Wappen",
+"rang": 1,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Straßenhaus",
+"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 21 km nördlich von Koblenz.",
+"frage": "Auf der Jahrsfelder Anhöhe stand einst eine optische Telegrafenstation. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Telegrafenlinie verband Berlin mit Koblenz.",
+"Ein Telegraf ziert heute das Gemeindewappen.",
+"Betrieben wurde die Station vom Kurfürstentum Trier."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Trier klingt glaubhaft, weil Koblenz einst zum Kurfürstentum gehörte. Die Station gehörte aber zur preußischen Linie Berlin–Coblenz: Flügel auf einem Turm zeigten Zeichen, die von Station zu Station weitergegeben wurden. Später ersetzte eine elektromagnetische Verbindung die Anlage. Bis heute zeigt das Gemeindewappen den Telegrafen. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Straßenhaus",
+"faktencheck": "korrigiert",
+"id": "500-strassenhaus/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "weitläufige Gemeinde mit lockerer Besiedlung",
+"rang": 7,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Straßenhaus",
+"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 21 km nördlich von Koblenz.",
+"frage": "Wie groß ist die Fläche der Gemeinde Straßenhaus?",
+"optionen": [
+"unter 3 km²",
+"3 bis unter 6 km²",
+"6 bis unter 9 km²",
+"9 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei rund 2.000 Einwohnern liegt eine kleine Fläche nahe, doch die Gemeinde misst 10,17 Quadratkilometer. Mit 196 Einwohnern je Quadratkilometer ist Straßenhaus etwas dünner besiedelt als Deutschland im Schnitt, eine ländliche Gemeinde auf 365 Metern Höhe. Richtig war 4.",
+"quelle": "Wikidata P2046 (Fläche); Einwohner Wikidata P1082, Stand 2025-12-31; Dichte berechnet; Höhe Wikidata P2044",
+"faktencheck": "bestätigt",
+"id": "500-strassenhaus/v0.9/7",
+"tisch": false
+}
+],
+"anschluss_von": "499-bonefeld",
+"anschluss": [
+"Straßenhaus hat gut doppelt so viele Einwohner wie Bonefeld.",
+"Die Wahlbeteiligung 2025 war in Bonefeld höher als in Straßenhaus."
+],
+"anschluesse": {
+"499-bonefeld": [
+"Straßenhaus hat gut doppelt so viele Einwohner wie Bonefeld.",
+"Die Wahlbeteiligung 2025 war in Bonefeld höher als in Straßenhaus."
+]
+},
+"ags": "07138071",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 2.000 Einwohner auf 365 Metern Höhe, 21 km nördlich von Koblenz im Naturpark Rhein-Westerwald, Kreis Neuwied."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Benannt nach einem Gast- und Zollhaus an der alten Grenze Wied–Trier; preußischer Telegraf im Wappen."
+},
+{
+"facette": "ALLTAG",
+"text": "Kurort-Entwicklung ab 1911; am ersten Donnerstag im September der Jahrfelder Markt, erstmals erwähnt 1707."
+},
+{
+"facette": "FREIZEIT",
+"text": "Naturschwimmbad am Höllsbach in Niederhonnefeld; Naturdenkmäler: alte Eichen am Marktplatz, Felsen Stangenstein und Hangeley."
+},
+{
+"facette": "INFRA",
+"text": "Grundschule seit 1931; Bundesstraße 256, Autobahn 3, nächster Bahnhof Montabaur; Partnergemeinden Ellingen und Hohenberg-Krusemark."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU 29,3 %, AfD 22,5 %, SPD 19,4 %; Wahlbeteiligung 80,7 %, etwas unter dem Landeswert."
+}
+],
+"km_vom_vorigen": 2.6
+},
+{
+"slug": "501-oberhonnefeld-gierend",
+"name": "Oberhonnefeld-Gierend",
+"lat": 50.55278,
+"lon": 7.51972,
+"karten": [
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Burschenhütte im Gierender Tal",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberhonnefeld-Gierend",
+"steckbrief": "Gut 1.000 Einwohner, 23 km nördlich von Koblenz.",
+"frage": "Unterhalb von Gierend steht im Gierender Tal eine Hütte. Wer ist ihr Träger?",
+"optionen": [
+"Der Burschenverein ist ihr Träger.",
+"Der Männergesangverein ist ihr Träger.",
+"Der Feuerwehrverein ist ihr Träger.",
+"Die evangelische Kirchengemeinde ist ihr Träger."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Hütte im Gierender Tal unterhalb von Gierend hat als Träger den Burschenverein Oberhonnefeld. Der Männergesangverein liegt nahe, weil Chöre auf dem Dorf oft eigene Treffpunkte haben. Für eine Gemeinde mit gut 1.000 Einwohnern ist das viel Vereinsleben: Burschen, Sänger und Feuerwehr haben je einen eigenen Verein. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, oberhonnefeld.de/ortsteile.html",
+"faktencheck": "bestätigt",
+"id": "501-oberhonnefeld-gierend/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Kuh bricht in Schulsaal",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberhonnefeld-Gierend",
+"steckbrief": "Gut 1.000 Einwohner, 23 km nördlich von Koblenz.",
+"frage": "An der alten Dorfschule neben der Kirche befand sich ein Stall. Was rannte einmal während des Unterrichts durch die Wand?",
+"optionen": [
+"Ein Pferd rannte aus dem Stall durch die Wand.",
+"Eine Kuh rannte aus dem Stall durch die Wand.",
+"Ein Ziegenbock rannte aus dem Stall durch die Wand.",
+"Ein Schwein rannte aus dem Stall durch die Wand."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Es war eine Kuh: An der Schule befand sich ein Kuhstall, und eines Morgens, als die Kinder lernten, rannte eine Kuh durch die Wand und schaute in den Schulsaal. Ein Pferd liegt nahe, weil man ihm die Kraft eher zutraut. Das Schulhaus wurde später das Haus Kleinmann. Schule und Kuhstall Wand an Wand, die Kirche gleich daneben: So dicht lebte das Bauerndorf beieinander. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, oberhonnefeld.de/chronik.html",
+"faktencheck": "korrigiert",
+"id": "501-oberhonnefeld-gierend/v0.9/2",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Hunde trieben das Göppelwerk",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberhonnefeld-Gierend",
+"steckbrief": "Gut 1.000 Einwohner, 23 km nördlich von Koblenz.",
+"frage": "Ein Nagelschmied im Ort fertigte früher Schuhnägel. Hinter seinem Haus lief ein Antriebswerk. Wer oder was hielt es in Gang?",
+"optionen": [
+"Ein Wasserrad am Bach hielt es in Gang.",
+"Ein Pferd hielt es in Gang.",
+"Hunde hielten es in Gang.",
+"Der Schmied hielt es mit Fußkraft in Gang."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Es waren Hunde: Hinter dem Haus lief ein Göppel, ein Rundlauf, in dem Tiere im Kreis gehen und eine Welle drehen. Ein Pferd liegt nahe, weil Göppel meist mit Pferden liefen. Als auf Gierenderhöhe eine Schmiede entstand, verlor der Nagelschmied sein Gewerbe und arbeitete dort. Die Höhe an der Straße zog schon damals das Handwerk an, heute liegt dort das Gewerbegebiet. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, oberhonnefeld.de/chronik.html",
+"faktencheck": "korrigiert",
+"id": "501-oberhonnefeld-gierend/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Taldorf, durch Bach zweigeteilt",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberhonnefeld-Gierend",
+"steckbrief": "Gut 1.000 Einwohner, 23 km nördlich von Koblenz.",
+"frage": "Der Ortsteil Gierend liegt in einem kleinen Tal und besteht aus zwei Dorfteilen. Was trennt die beiden?",
+"optionen": [
+"Die Bundesstraße läuft zwischen ihnen hindurch.",
+"Die Autobahn läuft zwischen ihnen hindurch.",
+"Ein bewaldeter Höhenrücken liegt zwischen ihnen.",
+"Ein Bach fließt zwischen ihnen hindurch."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Bach trennt die beiden Dorfteile. Die Straße liegt nahe, weil Bundesstraße und Autobahn in der Nähe verlaufen; doch Gierend liegt abseits der Bundesstraße in einem kleinen Tal. Früher war das Dorf mit Zäunen umrandet, man kam durch Tore hinein. In den letzten Jahren kamen nur wenige neue Häuser dazu: Gierend ist der stille Gegenpol zur Gierenderhöhe an der Autobahn. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, oberhonnefeld.de/chronik.html und oberhonnefeld.de/ortsteile.html",
+"faktencheck": "korrigiert",
+"id": "501-oberhonnefeld-gierend/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "erstes Telefon im Wirtshaus",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberhonnefeld-Gierend",
+"steckbrief": "Gut 1.000 Einwohner, 23 km nördlich von Koblenz.",
+"frage": "Laut Schulchronik bekam die Gemeinde 1910 ihr erstes Telefon. Wo stand es?",
+"optionen": [
+"Es stand in der Gastwirtschaft Blum.",
+"Es stand in der Schmiede.",
+"Es stand im Pfarrhaus.",
+"Es stand in der alten Schule."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Laut Schulchronik stand das erste Telefon der Gemeinde 1910 in der Gastwirtschaft Blum. Das Pfarrhaus liegt nahe, weil Pfarrer auf dem Land oft als Erste Neues bekamen. Das Wirtshaus wurde so zum Draht nach draußen; Strom, Dorflampen und das erste Radio kamen erst Jahre später. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, oberhonnefeld.de/chronik.html",
+"faktencheck": "korrigiert",
+"id": "501-oberhonnefeld-gierend/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Kirche nach Turmeinsturz lange Ruine",
+"rang": 4,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Oberhonnefeld-Gierend",
+"steckbrief": "Gut 1.000 Einwohner, 23 km nördlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Den eingestürzten Kirchturm baute man sofort wieder auf.",
+"Im Krieg wurde die große Kirchenglocke abgegeben.",
+"Neue Glocken erhielten die Namen Glaube, Hoffnung, Liebe."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gelogen war der rasche Wiederaufbau: Nach dem Einsturz fehlte das Geld, und der Turm blieb lange eine Ruine; die neue Kirche wurde erst Jahrzehnte später fertig. Die Glockennamen klingen erfunden, stimmen aber; und die große Glocke musste im Krieg sogar ein zweites Mal abgegeben werden. Die Gemeinde nennt ihre Kirche noch heute ein Wahrzeichen des Honnefelder Landes. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, oberhonnefeld.de/kirche-.html",
+"faktencheck": "korrigiert",
+"id": "501-oberhonnefeld-gierend/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "drei Ortsteile auf kleiner Fläche",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Oberhonnefeld-Gierend",
+"steckbrief": "Gut 1.000 Einwohner in drei Ortsteilen, 23 km nördlich von Koblenz.",
+"frage": "Wie groß ist die Fläche der ganzen Gemeinde?",
+"optionen": [
+"unter 2 km²",
+"2 bis unter 3,5 km²",
+"3,5 bis unter 6 km²",
+"6 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Gemeinde ist 3,97 Quadratkilometer groß. Mehr liegt nahe, weil sie aus drei Ortsteilen besteht; doch Oberhonnefeld, Gierend und Gierenderhöhe teilen sich eine kleine Fläche. Auf jeden Quadratkilometer kommen so rund 266 Menschen – für ein Dorf mit gut 1.000 Einwohnern ist das dicht. Richtig war 3.",
+"quelle": "Wikidata P2046; Dichte berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche",
+"faktencheck": "bestätigt",
+"id": "501-oberhonnefeld-gierend/v0.9/7",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Lohntag der Erzfuhrleute",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberhonnefeld-Gierend",
+"steckbrief": "Gut 1.000 Einwohner, 23 km nördlich von Koblenz.",
+"frage": "Laut Schulchronik gab es in der Wirtschaft Fischer regelmäßig „ein lustiges Treiben“. Welchen Anlass nennt die Chronik dafür?",
+"optionen": [
+"Den Markttag.",
+"Den Lohntag.",
+"Die Kirmes.",
+"Das Schützenfest."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Täglich rollten erzbeladene Pferdefuhrwerke über die heutige B 256. Einmal in der Woche kam der Fuhrunternehmer mit Säckchen voller Taler: Es war Lohntag. Dann gab es laut Chronik in der Wirtschaft Fischer ein lustiges Treiben. Die Kirmes liegt nahe, weil sie im Dorf das große Wirtshausfest war. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, oberhonnefeld.de/chronik.html",
+"faktencheck": "korrigiert",
+"id": "501-oberhonnefeld-gierend/v0.9/8",
+"tisch": false
+}
+],
+"anschluss_von": "500-strassenhaus",
+"anschluss": [
+"Straßenhaus hat fast doppelt so viele Einwohner wie Oberhonnefeld-Gierend.",
+"Straßenhaus hat mehr als die doppelte Fläche von Oberhonnefeld-Gierend."
+],
+"anschluesse": {
+"500-strassenhaus": [
+"Straßenhaus hat fast doppelt so viele Einwohner wie Oberhonnefeld-Gierend.",
+"Straßenhaus hat mehr als die doppelte Fläche von Oberhonnefeld-Gierend."
+]
+},
+"ags": "07138053",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Gut 1.000 Einwohner auf knapp vier Quadratkilometern, rund 390 Meter hoch, im Naturpark Rhein-Westerwald, Kreis Neuwied."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Klassizistische Saalkirche als Wahrzeichen des Honnefelder Landes; im Ort geboren sind Hofjäger David Dreydoppel und Bibliothekar Martin Cremer."
+},
+{
+"facette": "ALLTAG",
+"text": "Gewerbegebiete Gierender Höhe und Westerwaldpark; früher Grube Georg, Erzfuhrleute und ein Nagelschmied in Gierend."
+},
+{
+"facette": "FREIZEIT",
+"text": "Männergesangverein von 1875, Burschenverein, Backes in Gierend, Kultur- und Jugendzentrum, Weiher in Hölzbach mit Wanderwegen."
+},
+{
+"facette": "INFRA",
+"text": "A3-Ausfahrt an der Gierenderhöhe, Bundesstraße 256 von Neuwied nach Altenkirchen, Kennzeichen NR, Vorwahl 02634."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: AfD knapp vor CDU, Wahlbeteiligung 85,1 Prozent, über dem Landeswert von 83 Prozent."
+}
+],
+"km_vom_vorigen": 1.5
+},
+{
+"slug": "502-willroth",
+"name": "Willroth",
+"lat": 50.56806,
+"lon": 7.52889,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Weißer Stein als Dreiherrenpunkt",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Willroth",
+"steckbrief": "Knapp 1.000 Einwohner, 24 km nördlich von Koblenz.",
+"frage": "Der „Weiße Stein“ bei Willroth ist bis heute erhalten. Was markierte er laut Ortsgeschichte im Jahr 1595?",
+"optionen": [
+"Er trennte Kurpfalz und Hessen.",
+"Er war der Altarstein einer Kapelle.",
+"Er erinnerte an ein Unglück im Bergwerk.",
+"Dort stießen drei Herrschaftsgebiete aneinander."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Stein mit eigenem Namen lässt an Kapelle, Gedenken oder große Länder denken. Doch 1595 trafen am Weißen Stein drei Landeshoheiten aufeinander: Isenburg, die Niedere und die Obere Grafschaft Wied. Später trennte er die Kreise Altenkirchen und Neuwied. Willroth lag also lange an einer Grenze, und der Stein ist bis heute erhalten. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.vg-altenkirchen-flammersfeld.de/gemeinde-politik/uebersicht-ortsgemeinden/willroth",
+"faktencheck": "korrigiert",
+"id": "502-willroth/v0.9/1",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Dorf im Naturpark Rhein-Westerwald",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Willroth",
+"steckbrief": "Rund 1.000 Einwohner, 24 km nördlich von Koblenz.",
+"frage": "Die Gemarkung von Willroth liegt in einem Naturpark. In welchem?",
+"optionen": [
+"Sie liegt im Naturpark Siebengebirge.",
+"Sie liegt im Naturpark Rhein-Westerwald.",
+"Sie liegt im Naturpark Nassau.",
+"Sie liegt im Naturpark Bergisches Land."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das Siebengebirge kennen viele, und es liegt ebenfalls nördlich von Koblenz; daher der Tipp. Die Gemarkung von Willroth gehört aber zum Naturpark Rhein-Westerwald. Das Dorf mit knapp 1.000 Einwohnern liegt auf einer der Höhen des Westerwaldes; wer durch den Ort fährt, ist im Naturpark. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.vg-altenkirchen-flammersfeld.de/gemeinde-politik/uebersicht-ortsgemeinden/willroth",
+"faktencheck": "korrigiert",
+"id": "502-willroth/v0.9/3",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Eisenerzgrube Georg mit Fördergerüst",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Willroth",
+"steckbrief": "Knapp 1.000 Einwohner, 24 km nördlich von Koblenz.",
+"frage": "Bis 1965 wurde in Willroth in der Grube Georg gefördert. Was wurde dort abgebaut?",
+"optionen": [
+"Dort wurde Ton für Steinzeug gefördert.",
+"Dort wurde Dachschiefer abgebaut.",
+"Dort wurde Eisenerz abgebaut.",
+"Dort wurde Braunkohle gefördert."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Westerwald ist für Ton und Schiefer bekannt, daher liegt das nahe. Die Grube Georg förderte aber Eisenerz und galt als eine der bedeutendsten Gruben im siegerländisch-wiedischen Eisenerzbergbau. Ihr Fördergerüst erinnert an die lange Bergbaugeschichte, die Willroth geprägt hat, und ist von weitem sichtbar; heute ist die Anlage ein Ausflugsziel. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.vg-altenkirchen-flammersfeld.de/gemeinde-politik/uebersicht-ortsgemeinden/willroth",
+"faktencheck": "korrigiert",
+"id": "502-willroth/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Rose der Ortspatronin im Wappen",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Willroth",
+"steckbrief": "Knapp 1.000 Einwohner, 24 km nördlich von Koblenz.",
+"frage": "Im Wappen von Willroth steht eine silberne Rose auf rotem Grund. Wofür steht sie?",
+"optionen": [
+"Sie erinnert an ein altes Adelsgeschlecht.",
+"Sie steht für früheren Rosenanbau im Dorf.",
+"Sie spielt auf den Ortsnamen an.",
+"Sie steht für die Kirchen- und Ortspatronin."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Rosen in Wappen gehen oft auf Adelsfamilien zurück, daher liegt das nahe. In Willroth steht die Rose aber für die heilige Theresia von Lisieux, die Kirchen- und Ortspatronin; die Rose ist ihr Erkennungszeichen. So steckt die Patronin der Dorfkirche auch im Wappen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.vg-altenkirchen-flammersfeld.de/gemeinde-politik/uebersicht-ortsgemeinden/willroth",
+"faktencheck": "korrigiert",
+"id": "502-willroth/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Dorf an der A3-Ausfahrt",
+"rang": 6,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Willroth",
+"steckbrief": "Knapp 1.000 Einwohner, 24 km nördlich von Koblenz im Kreis Altenkirchen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Bundesstraße 256 trägt zur guten Verkehrslage bei.",
+"Die A3-Ausfahrt 36 bei Willroth heißt Montabaur.",
+"Größere Betriebe sitzen im Gewerbegebiet nahe der A3."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Montabaur kennt man von der A3, daher klingt der Name glaubhaft. Die Ausfahrt 36 heißt aber Neuwied-Altenkirchen. Der Name passt: Willroth selbst gehört zum Kreis Altenkirchen. Mit Autobahn, Bundesstraße und Landesstraße liegt das Dorf mit knapp 1.000 Einwohnern verkehrsgünstig. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Willroth",
+"faktencheck": "unsicher",
+"id": "502-willroth/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Dorf auf den Westerwaldhöhen",
+"rang": 5,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Willroth",
+"steckbrief": "Knapp 1.000 Einwohner, 24 km nördlich von Koblenz auf den Höhen des Westerwaldes.",
+"frage": "Auf welcher Höhe über dem Meer liegt Willroth?",
+"optionen": [
+"unter 300 m",
+"300 bis unter 400 m",
+"400 bis unter 500 m",
+"500 m und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an Koblenz und das Rheintal denkt, schätzt leicht zu tief. Willroth liegt aber auf den Höhen des Westerwaldes, je nach Quelle auf 368 oder 385 Metern. Die Gemarkung reicht laut Gemeinde von 300 bis 402 Metern; das Dorf liegt also im oberen Teil davon. Richtig war 2.",
+"quelle": "Wikidata P2044; dewiki Infobox; Gemeinde-Webseite, www.vg-altenkirchen-flammersfeld.de/gemeinde-politik/uebersicht-ortsgemeinden/willroth",
+"faktencheck": "bestätigt",
+"id": "502-willroth/v0.9/7",
+"tisch": false
+}
+],
+"anschluss_von": "501-oberhonnefeld-gierend",
+"anschluss": [
+"Oberhonnefeld-Gierend hat rund doppelt so viel Fläche wie Willroth.",
+"Oberhonnefeld-Gierend liegt im Kreis Neuwied, Willroth im Kreis Altenkirchen."
+],
+"anschluesse": {
+"501-oberhonnefeld-gierend": [
+"Oberhonnefeld-Gierend hat rund doppelt so viel Fläche wie Willroth.",
+"Oberhonnefeld-Gierend liegt im Kreis Neuwied, Willroth im Kreis Altenkirchen."
+]
+},
+"ags": "07132116",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Knapp 1.000 Einwohner auf knapp zwei Quadratkilometern, 368 bis 385 Meter hoch im Naturpark Rhein-Westerwald, 24 Kilometer nördlich von Koblenz."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 1338 urkundlich erwähnt, lange kurtrierisch, ab 1815 preußisch; der Weiße Stein markierte alte Grenzen."
+},
+{
+"facette": "ALLTAG",
+"text": "Eisenerzbergbau in der Grube Georg bis 1965; heute Handwerksbetriebe, Dienstleister und ein Gewerbegebiet nahe der A3."
+},
+{
+"facette": "FREIZEIT",
+"text": "Karneval mit Hunderten Jecken; Sportfest des FC Willroth und Dorffest wechseln sich jährlich ab."
+},
+{
+"facette": "INFRA",
+"text": "A3-Ausfahrt Neuwied-Altenkirchen, Bundesstraße 256, Landesstraße 270; die Schnellfahrstrecke Köln–Rhein/Main führt nahe vorbei."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025 in der Verbandsgemeinde: CDU vor AfD, Wahlbeteiligung 82,2 Prozent."
+}
+],
+"km_vom_vorigen": 1.8
+},
+{
+"slug": "503-horhausen",
+"name": "Horhausen",
+"lat": 50.58889,
+"lon": 7.5325,
+"karten": [
+{
+"facette": "ALLTAG",
+"charakteristikum": "Hutfabrik statt Bergwerk",
+"rang": 5,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Horhausen",
+"steckbrief": "Gut 2.100 Einwohner, 26 km nördlich von Koblenz im Westerwald.",
+"frage": "Nach dem Zweiten Weltkrieg siedelten sich in Horhausen Fabriken an. Welche dieser vier war dabei?",
+"optionen": [
+"eine Steinzeugfabrik",
+"eine Glashütte",
+"eine Hutfabrik",
+"eine Möbelfabrik"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Steinzeug läge nahe, dafür ist der Westerwald bekannt. Doch in Horhausen siedelten sich nach Krieg und Währungsreform die Hutfabrik Meissner und Eckrath und die Westerwälder Bekleidungsfabrik Webefa an. Der heimische Bergbau war zu Ende, die Menschen wurden mobiler; die Fabriken sollten sie an die Heimat binden. Hüte statt Erz: So fand das Bergmannsdorf neue Arbeit vor der eigenen Tür. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.horhausen.de/gemeinde/geschichte",
+"faktencheck": "unsicher",
+"id": "503-horhausen/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Kardinalsdenkmal zeitweise ohne Kopf",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Horhausen",
+"steckbrief": "Gut 2.100 Einwohner, 26 km nördlich von Koblenz im Westerwald.",
+"frage": "In Horhausen steht ein Denkmal für Kardinal Joseph Höffner. 2010 wurde ihm für einige Monate der Kopf abgenommen. Warum?",
+"optionen": [
+"Diebe hatten den Kopf abgesägt.",
+"Ein Sturm hatte den Kopf beschädigt.",
+"Kritiker fanden das Gesicht dem Kardinal unähnlich.",
+"Der Bildhauer war noch nicht ganz bezahlt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem abgenommenen Kopf denkt man zuerst an Diebe oder Vandalen. Hier ging es ums Geld: Die Bronzefigur war nie ganz bezahlt worden, dem Bildhauer Klaus Ringwald fehlten noch 18.000 Euro. Nach der Zahlung stand der Kardinal am 20. November 2010 wieder vollständig auf seinem Sockel. Der in Horhausen geborene Höffner war von 1969 bis 1987 Erzbischof von Köln. Richtig war 4.",
+"quelle": "AK-Kurier, 23.11.2010, www.ak-kurier.de/akkurier/www/artikel/10271; Rhein-Zeitung, 07.07.2010; Gemeinde-Webseite, www.horhausen.de/persoenlichkeiten",
+"faktencheck": "korrigiert",
+"id": "503-horhausen/v0.9/2",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Steinpark neben der Pfarrkirche",
+"rang": 9,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Horhausen",
+"steckbrief": "Gut 2.100 Einwohner im Westerwald, 26 km nördlich von Koblenz.",
+"frage": "Welche dieser vier Anlagen gibt es in Horhausen?",
+"optionen": [
+"einen Steinpark neben der Pfarrkirche",
+"eine Sommerrodelbahn am Ortsrand",
+"einen Hochseilgarten im Wald",
+"eine Kartbahn an der Bundesstraße"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Rodelbahn, Hochseilgarten oder Kartbahn locken anderswo im Westerwald Ausflügler an. Horhausen bietet Ruhigeres: Unmittelbar neben der Pfarrkirche St. Maria Magdalena liegt der Kirchpark mit einem Steinpark, mit Pflanzen und Tieren, gedacht für Rast und Erholung. Mitten im Ort ist er die grüne Ecke an der Kirche, ein Platz zum Durchatmen auf der Durchfahrt. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.horhausen.de/freizeit-sport-tourismus/sport-u-freizeitanlagen",
+"faktencheck": "unsicher",
+"id": "503-horhausen/v0.9/3",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Gesamtschule im 2.100-Einwohner-Ort",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Horhausen",
+"steckbrief": "Gut 2.100 Einwohner, 26 km nördlich von Koblenz im Westerwald.",
+"frage": "1996 wurde die Hauptschule in Horhausen in eine andere Schulform umgewandelt. In welche?",
+"optionen": [
+"Sie wurde zu einem Gymnasium ausgebaut.",
+"Sie wurde eine Integrierte Gesamtschule.",
+"Sie wurde in eine Realschule umgewandelt.",
+"Sie wurde zu einer Förderschule umgewandelt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Realschule liegt nahe, denn mit ihr wurden Hauptschulen oft zusammengelegt. Horhausen bekam dagegen eine Integrierte Gesamtschule in Trägerschaft des Landkreises Altenkirchen; dort ließen sich Hauptschul- und Realschulabschluss erwerben oder die Berechtigung für die gymnasiale Oberstufe. Schon die Hauptschule zuvor besuchten alle Hauptschüler der Verbandsgemeinde Flammersfeld. Für einen Ort mit gut 2.100 Einwohnern ist das viel Schule. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.horhausen.de/gemeinde/geschichte",
+"faktencheck": "korrigiert",
+"id": "503-horhausen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "auf halbem Weg Neuwied–Altenkirchen",
+"rang": 10,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Horhausen",
+"steckbrief": "Gut 2.100 Einwohner, 26 km nördlich von Koblenz.",
+"frage": "Horhausen liegt etwa in der Mitte zwischen zwei Städten. Zwischen welchen?",
+"optionen": [
+"Es liegt mittig zwischen Bendorf und Siegen.",
+"Es liegt mittig zwischen Bad Ems und Hachenburg.",
+"Es liegt mittig zwischen Neuwied und Altenkirchen.",
+"Es liegt mittig zwischen Nassau und Westerburg."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an Koblenz als nächste Großstadt denkt, sucht Horhausen leicht an Rhein oder Lahn. Es liegt aber an der Bundesstraße 256, etwa in der Mitte zwischen Neuwied und Altenkirchen, nahe der A3 und umgeben von ausgedehnten Wäldern. So ist Horhausen ein Ort auf halber Strecke: Wer hier vorbeifährt, hat Neuwied am Rhein und die Kreisstadt Altenkirchen ähnlich weit entfernt. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Horhausen_(Westerwald)",
+"faktencheck": "unsicher",
+"id": "503-horhausen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "wechselnde Landesherren bis Preußen",
+"rang": 8,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Horhausen",
+"steckbrief": "Gut 2.100 Einwohner im Westerwald, 26 km nördlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Jahrhundertelang hielten Isenburger Grafen Horhausen als Lehen.",
+"Für einige Jahre gehörte Horhausen zu Nassau-Weilburg.",
+"Nach der Nassauer Zeit fiel Horhausen an Bayern."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bayern wirkt nicht abwegig, denn die Pfalz am Rhein war einst bayerisch. Horhausen aber kam nach Nassau-Weilburg an Preußen und wurde der Bürgermeisterei Flammersfeld im Kreis Altenkirchen zugeordnet. Über Jahrhunderte hielten es zudem die Grafen von Isenburg-Grenzau als trierisches Lehen. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.horhausen.de/gemeinde/geschichte",
+"faktencheck": "korrigiert",
+"id": "503-horhausen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "dicht besiedeltes kleines Gemeindegebiet",
+"rang": 7,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Horhausen",
+"steckbrief": "Gut 2.100 Einwohner, 26 km nördlich von Koblenz im Westerwald.",
+"frage": "Wie viele Menschen leben in Horhausen auf einem Quadratkilometer?",
+"optionen": [
+"400 bis unter 800",
+"800 und mehr",
+"150 bis unter 400",
+"unter 150"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Westerwalddorf weckt die Erwartung weniger Menschen auf viel Fläche. Doch Horhausens Gemeindegebiet ist mit 4,72 Quadratkilometern klein, und darauf leben gut 2.100 Menschen: rund 455 je Quadratkilometer. Die hohe Zahl kommt also eher von der kleinen Fläche als von einer großen Einwohnerschaft. Richtig war 1.",
+"quelle": "Wikidata P1082 (Einwohner, Stand 2025-12-31) und P2046 (Fläche); Dichte berechnet",
+"faktencheck": "bestätigt",
+"id": "503-horhausen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "„Mistbeet“ für Priesternachwuchs",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Horhausen",
+"steckbrief": "Gut 2.100 Einwohner, 26 km nördlich von Koblenz im Westerwald.",
+"frage": "Das Kirchspiel Horhausen trägt den Beinamen „Mistbeet des Bistums Trier“. Wie kam es dazu?",
+"optionen": [
+"Seine Bauern düngten die Felder des Bischofs.",
+"Aus ihm stammen zahlreiche Geistliche und Ordensleute.",
+"Es zahlte seine Abgaben an Trier in Dünger.",
+"Sein Pfarrgarten lieferte Frühgemüse an den Bischof."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei „Mistbeet“ denkt man an Dünger und Gemüse, also an Bauern und Gärten. Gemeint ist das Bild vom warmen Beet, in dem früh viel heranwächst: Aus dem Kirchspiel stammen zahlreiche Geistliche und Ordensleute. Das Kirchspiel reicht über Horhausen hinaus, mit Filialkirchen und einer Kapelle in Nachbardörfern; Horhausen ist sein kirchlicher Mittelpunkt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.horhausen.de/gemeinde/geschichte",
+"faktencheck": "bestätigt",
+"id": "503-horhausen/v0.9/8",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Ziege als „Bergmannskuh“",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Horhausen",
+"steckbrief": "Gut 2.100 Einwohner, 26 km nördlich von Koblenz im Westerwald.",
+"frage": "Die Gemeinde Horhausen erinnert an ein altes Wort aus der Bergbauzeit: die „Bergmannskuh“. Was ist damit gemeint?",
+"optionen": [
+"das Grubenpferd unter Tage",
+"die schwere Erzlore im Stollen",
+"die Ziege der Bergmannsbauern",
+"der Schnaps nach der Schicht"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das Grubenpferd liegt nahe, es war das große Arbeitstier im Bergwerk. Gemeint ist aber die Ziege: Im Horhausener Raum lebten früher arme Bergleute, Ackerbauern und Tagelöhner, und viele waren Bergmann und Bauer zugleich. Nicht umsonst heißt die Ziege bisweilen „Bergmannskuh“. Gefördert wurden erst Buntmetalle, später Eisenerz; daran erinnert noch die goldene Grubenlampe im Ortswappen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.horhausen.de/gemeinde/geschichte",
+"faktencheck": "korrigiert",
+"id": "503-horhausen/v0.9/9",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "mittelalterlicher Turm im „Westerwälder Dom“",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Horhausen",
+"steckbrief": "Gut 2.100 Einwohner, 26 km nördlich von Koblenz im Westerwald.",
+"frage": "1902 wurde die Pfarrkirche St. Maria Magdalena neu gebaut. Was geschah dabei mit dem alten romanischen Turm?",
+"optionen": [
+"Er wurde einbezogen und um ein Geschoss erhöht.",
+"Er wurde abgerissen und originalgetreu neu errichtet.",
+"Er blieb frei stehend neben der neuen Kirche.",
+"Er wurde abgetragen, weil er einsturzgefährdet war."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Neubau liegt nahe, das Alte abzureißen. Doch der romanische Turm blieb: Beim Bau 1902 nach Plänen von Regierungsbaumeister Heinrich Krings aus Köln wurde er um ein Geschoss erhöht und in die spätneuromanische Bruchsteinbasilika einbezogen. Er war wahrscheinlich ursprünglich auch zur Verteidigung geeignet. So steckt in der Pfarrkirche mitten im Ort ein Stück Mittelalter. Richtig war 1.",
+"quelle": "Verbandsgemeinde Altenkirchen-Flammersfeld, www.vg-altenkirchen-flammersfeld.de/kirchen/horhausen; Gemeinde-Webseite, www.horhausen.de/gemeinde/geschichte",
+"faktencheck": "korrigiert",
+"id": "503-horhausen/v0.9/10",
+"tisch": false
+}
+],
+"anschluss_von": "502-willroth",
+"anschluss": [
+"Horhausen hat gut doppelt so viele Einwohner wie Willroth.",
+"Willroth gehört zum Kirchspiel Horhausen und hat eine Filialkirche."
+],
+"anschluesse": {
+"502-willroth": [
+"Horhausen hat gut doppelt so viele Einwohner wie Willroth.",
+"Willroth gehört zum Kirchspiel Horhausen und hat eine Filialkirche."
+]
+},
+"ags": "07132055",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Gut 2.100 Einwohner auf 4,72 Quadratkilometern, im Westerwald an der B 256, 26 Kilometer nördlich von Koblenz."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 1217 als „Horhusin“ urkundlich erwähnt; Geburtsort von Kardinal Joseph Höffner, Kaplan Dasbach und Bischof Johann Rüth."
+},
+{
+"facette": "ALLTAG",
+"text": "Früher Bergbau auf Buntmetalle und Eisenerz, nach dem Krieg Hut- und Bekleidungsfabrik; heute Grundzentrum für das Umland."
+},
+{
+"facette": "FREIZEIT",
+"text": "Blumenmarkt am Samstag vor Muttertag, Magdalenen-Kirmes Ende Juli, Ostereier-Weitwurf, Oktobermarkt; Tennisplätze, Basketballplatz, Kirchpark."
+},
+{
+"facette": "INFRA",
+"text": "Grundschule „Glück auf! Schule“ und Integrierte Gesamtschule, Freiwillige Feuerwehr; die A3 liegt rund drei Kilometer entfernt."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025, Verbandsgemeinde Altenkirchen-Flammersfeld: CDU 28,6 %, AfD 24,8 %, Beteiligung 82,2 %, knapp unter Landeswert."
+}
+],
+"km_vom_vorigen": 2.3
+},
+{
+"slug": "504-huemmerich",
+"name": "Hümmerich",
+"lat": 50.56861,
+"lon": 7.49639,
+"karten": [
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Dicke Eiche am Ortseingang, im Wappen",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hümmerich",
+"steckbrief": "Gemeinde mit gut 800 Einwohnern, 25 km nördlich von Koblenz.",
+"frage": "Am nördlichen Ortseingang von Hümmerich steht ein Naturdenkmal, das auch im Ortswappen steht. Was ist es?",
+"optionen": [
+"Eine Wacholderheide",
+"Eine Eiche",
+"Eine Rotbuche",
+"Eine Sommerlinde"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Linde läge nahe, denn Dorflinden stehen in vielen Wappen und auf vielen Dorfplätzen. In Hümmerich ist es aber die „Dicke Eiche“ am nördlichen Ortseingang, ein Naturdenkmal und das Wahrzeichen des Ortes. Das Ortswappen zeigt sie im Mittelfeld, dazu ein Mühlrad und die Schulglocke vom alten Feuerwehrhaus. Die Eiche markiert zugleich die Grenze zwischen den Kreisen Neuwied und Altenkirchen. Richtig war 2.",
+"quelle": "Ortsgemeinde Hümmerich, huemmerich.com (Unsere Geschichte; Sehenswertes)",
+"faktencheck": "korrigiert",
+"id": "504-huemmerich/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Pingenfelder vom alten Erzbergbau",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hümmerich",
+"steckbrief": "Gemeinde mit gut 800 Einwohnern, 25 km nördlich von Koblenz.",
+"frage": "In Hümmerich gibt es ganze Felder trichterförmiger Vertiefungen im Boden. Woher stammen sie nach der Ortsgeschichte?",
+"optionen": [
+"Bombentrichter aus dem Zweiten Weltkrieg",
+"Natürliche Einbrüche über Hohlräumen im Gestein",
+"Gruben vom frühen Bergbau",
+"Lehmgruben einer früheren Ziegelei"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bombentrichter liegen nahe, denn solche Mulden kennt man aus vielen Gegenden Deutschlands. In Hümmerich sind es aber Pingen, Spuren frühen Bergbaus: Solche Mulden entstehen, wo alte Schächte dicht unter der Oberfläche eingebrochen sind. Zu sehen sind die Pingenfelder am Weg hinter dem Karlshof zu den Weißen Steinen. Das Dorf von gut 800 Einwohnern hat also eine Bergbauvergangenheit, die sich bis heute im Gelände abzeichnet. Richtig war 3.",
+"quelle": "Ortsgemeinde Hümmerich, huemmerich.com/sehenswertes; Geologischer Dienst NRW (Begriff Pinge)",
+"faktencheck": "korrigiert",
+"id": "504-huemmerich/v0.9/2",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Luftkurort dank Dorfwettbewerb",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hümmerich",
+"steckbrief": "Gemeinde mit gut 800 Einwohnern, 25 km nördlich von Koblenz.",
+"frage": "Hümmerich wurde 1970 staatlich anerkannter Luftkurort. Welchen Anlass für diese Anerkennung nennt die Ortsgeschichte?",
+"optionen": [
+"Die Eröffnung eines Sanatoriums im Ort",
+"Ein Erholungsheim einer großen Krankenkasse",
+"Eine bei Bohrungen entdeckte Mineralquelle",
+"Der Sieg in einem Dorfwettbewerb"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Sanatorium liegt nahe, denn Kurorte denkt man sich mit Klinik und Kurpark. Hümmerich gewann aber auf Anhieb den Wettbewerb „Unser Dorf soll schöner werden“, mit tatkräftiger Hilfe des Verkehrs- und Verschönerungsvereins. Am 15. November 1970 wurde der Ort zum Luftkurort ernannt. Damals zählte Hümmerich gerade einmal rund 300 Einwohner: Das kleine Dorf verdiente sich seinen Kurtitel mit Verschönerung. Richtig war 4.",
+"quelle": "NR-Kurier, 05.08.2014; Ortsgemeinde Hümmerich, huemmerich.com/unsere-geschichte",
+"faktencheck": "korrigiert",
+"id": "504-huemmerich/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Lage im Naturpark Rhein-Westerwald",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hümmerich",
+"steckbrief": "Gemeinde mit gut 800 Einwohnern im Kreis Neuwied, 25 km nördlich von Koblenz.",
+"frage": "Hümmerich liegt in einem Naturpark. Wie heißt er?",
+"optionen": [
+"Naturpark Rhein-Westerwald",
+"Naturpark Nassau",
+"Naturpark Siebengebirge",
+"Naturpark Bergisches Land"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Das Siebengebirge liegt nahe, denn es ist das bekannte Bergland am Rhein nördlich von Koblenz. Hümmerich gehört aber zum Naturpark Rhein-Westerwald. Der Ort besteht aus Ober- und Niederhümmerich; im Südwesten der Gemarkung mündet der Hümmericher Bach in den Dasbach. Richtig war 1.",
+"quelle": "Verbandsgemeinde Rengsdorf-Waldbreitbach, rengsdorf-waldbreitbach.de",
+"faktencheck": "korrigiert",
+"id": "504-huemmerich/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "an der B 256 Neuwied–Altenkirchen",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hümmerich",
+"steckbrief": "Gemeinde mit gut 800 Einwohnern, 25 km nördlich von Koblenz.",
+"frage": "Nahe Hümmerich verläuft die Bundesstraße 256. Welche beiden Städte verbindet sie auf diesem Abschnitt?",
+"optionen": [
+"Koblenz und Montabaur",
+"Neuwied und Altenkirchen",
+"Linz und Hachenburg",
+"Bendorf und Westerburg"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Koblenz liegt nahe, denn es ist die nächste Großstadt. Die Bundesstraße 256 führt aber von Neuwied am Rhein nach Altenkirchen im Westerwald und kreuzt dabei die Autobahn A 3 an der Anschlussstelle Neuwied. So liegt Hümmerich mit gut 800 Einwohnern nahe der Straßenachse zwischen Rhein und Westerwald. Richtig war 2.",
+"quelle": "Landesbetrieb Mobilität Rheinland-Pfalz, Planfeststellung B 256 Ortsumgehung Straßenhaus",
+"faktencheck": "korrigiert",
+"id": "504-huemmerich/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "seit 1970 fast verdreifacht",
+"rang": 5,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hümmerich",
+"steckbrief": "Gemeinde im Kreis Neuwied, 4,27 km² groß, 25 km nördlich von Koblenz.",
+"frage": "Wie viele Menschen leben in Hümmerich?",
+"optionen": [
+"unter 250",
+"250 bis unter 450",
+"450 bis unter 700",
+"700 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine kleinere Zahl liegt nahe, denn die Gemeinde ist nur gut vier Quadratkilometer groß. Ende 2025 lebten in Hümmerich aber 808 Menschen. 1970 waren es gerade einmal rund 300. Die Zahl hat sich seit 1970 also weit mehr als verdoppelt; heute sind es 189 Einwohner je Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P1082, Stand 2025-12-31; Ortsgemeinde Hümmerich, huemmerich.com/unsere-geschichte",
+"faktencheck": "korrigiert",
+"id": "504-huemmerich/v0.9/7",
+"tisch": false
+}
+],
+"anschluss_von": "503-horhausen",
+"anschluss": [
+"Horhausen hat gut zweieinhalbmal so viele Einwohner wie Hümmerich.",
+"Hümmerich gehört zum Kreis Neuwied, Horhausen zum Kreis Altenkirchen."
+],
+"anschluesse": {
+"503-horhausen": [
+"Horhausen hat gut zweieinhalbmal so viele Einwohner wie Hümmerich.",
+"Hümmerich gehört zum Kreis Neuwied, Horhausen zum Kreis Altenkirchen."
+]
+},
+"ags": "07138030",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Hümmerich liegt 25 Kilometer nördlich von Koblenz im Kreis Neuwied; im Norden und Osten beginnt der Kreis Altenkirchen."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Entstanden aus einem einzelnen Hof, einst an der Grenze zwischen Wied und Trier; Pingen zeugen vom Erzbergbau."
+},
+{
+"facette": "ALLTAG",
+"text": "808 Einwohner auf 4,27 Quadratkilometern (Ende 2025); von 1970 bis 2015 war Hümmerich staatlich anerkannter Luftkurort."
+},
+{
+"facette": "FREIZEIT",
+"text": "Dicke Eiche am Ortseingang, Dorfgemeinschaftshaus, Grillhütte und Sportstätten, mitten im Naturpark Rhein-Westerwald."
+},
+{
+"facette": "INFRA",
+"text": "Landesstraße 270, Bundesstraße 256 zwischen Neuwied und Altenkirchen, Autobahn A 3 über die Anschlussstelle Neuwied."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag die CDU knapp vor der AfD; die Wahlbeteiligung lag mit 83,6 Prozent fast genau auf Landesniveau."
+}
+],
+"km_vom_vorigen": 3.4
+},
+{
+"slug": "505-krunkel",
+"name": "Krunkel",
+"lat": 50.57583,
+"lon": 7.50472,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Ortsteil mit eigener Wasserversorgung",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Krunkel",
+"steckbrief": "Gemeinde mit knapp 600 Einwohnern, 25 km nördlich von Koblenz.",
+"frage": "Krunkels Ortsteil Epgert bekam in den 1950er-Jahren einen eigenen Wasserbeschaffungsverband. Welchen Grund nennt die Ortsgeschichte dafür?",
+"optionen": [
+"Krunkels Gemeinderat lehnte eine gemeinsame Versorgung ab.",
+"Epgert war damals noch eine eigene Gemeinde.",
+"Epgert wollte Quellwasser an Nachbarorte verkaufen.",
+"Ein Stifter schenkte Epgert die ganze Leitung."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre, dass Epgert damals noch selbstständig war, doch es gehörte schon zu Krunkel. Nach Verunreinigung durch Vieh und Typhusfällen brauchte Epgert eine Leitung, und Krunkels Gemeinderat lehnte eine gemeinsame Versorgung ab. Also gründeten die Haushalte eine Genossenschaft, jeder zahlte Grundkapital ein. Zwei Dorfteile, heute zusammen knapp 600 Einwohner, hatten einst getrennte Wasserleitungen – ein Stück alter Eigenständigkeit. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-krunkel.de/freizeit-und-kultur/wasserweg.html",
+"faktencheck": "bestätigt",
+"id": "505-krunkel/v0.9/1",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Dorfschwimmbad, von einem Bürger gebaut",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Krunkel",
+"steckbrief": "Gemeinde mit knapp 600 Einwohnern, 25 km nördlich von Koblenz.",
+"frage": "In Krunkel gab es einst ein eigenes Schwimmbad, zuerst als Freibad. Wer hatte es gebaut?",
+"optionen": [
+"Die Gemeinde baute es aus eigenen Mitteln.",
+"Ein Mann aus dem Dorf baute es.",
+"Die Erzgrube baute es für ihre Bergleute.",
+"Der Sportverein baute es in Eigenleistung."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Bad im kleinen Dorf klingt nach Gemeinde oder Grube, gebaut hat es aber Alois Becker aus Krunkel. Sein erster Sommer als Freibad fiel buchstäblich ins Wasser, also baute Becker es kurzerhand zum Hallenbad um. Später stand es viele Jahre leer und wurde abgerissen, um Platz für einen geplanten Pavillon zu schaffen. Ein Hallenbad in einem Dorf mit heute knapp 600 Einwohnern – das bleibt hängen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-krunkel.de/wir-in-krunkel/geschichte.html",
+"faktencheck": "korrigiert",
+"id": "505-krunkel/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Urzeitgestein, freigelegt durch die ICE-Trasse",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Krunkel",
+"steckbrief": "Gemeinde mit knapp 600 Einwohnern und dem Ortsteil Epgert, 25 km nördlich von Koblenz.",
+"frage": "In Epgert gibt es einen „Devon Platz“, einen Infopunkt zur Erdgeschichte. Was gab den Anstoß dafür?",
+"optionen": [
+"Ein Stollen des Erzbergbaus legte Gestein frei.",
+"Ein alter Sandsteinbruch wurde zum Lehrort umgestaltet.",
+"Der Bau der ICE-Strecke legte Gestein frei.",
+"Ein Bauer pflügte Fossilien aus seinem Acker."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bergbau oder Steinbruch liegen nahe, denn beide graben tief. Doch es war die ICE-Trasse Köln–Rhein-Main: Ihr Bau legte Gestein aus dem Unter-Devon frei, einem Abschnitt des Erdaltertums. Darin fanden sich Seeskorpione und Spinnentiere, die als die ältesten im Rheinischen Schiefergebirge nachgewiesenen gelten. Am Devon Platz erfährt man auch von der einstigen Rheinischen Meeresstraße. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-krunkel.de/freizeit-und-kultur/devon-platz.html",
+"faktencheck": "korrigiert",
+"id": "505-krunkel/v0.9/3",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Eisenerzbergbau als Haupterwerb",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Krunkel",
+"steckbrief": "Gemeinde mit knapp 600 Einwohnern im Westerwald, 25 km nördlich von Koblenz.",
+"frage": "Wovon lebten die meisten Menschen in Krunkel bis etwa 1960?",
+"optionen": [
+"Sie arbeiteten in Tongruben.",
+"Sie brachen Basalt in Steinbrüchen.",
+"Sie webten Leinen in Heimarbeit.",
+"Sie bauten Erz in Gruben ab."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ton und Basalt liegen nahe, dafür ist der Westerwald bekannt. In Krunkel aber war bis um 1960 der Erzbergbau der Haupterwerbszweig. Im Gemeindewappen erinnert ein silbernes Förderrad daran. Wo früher der Bergbau das Dorf ernährte, hat Krunkel heute Anteil an einem Industriegebiet direkt an der A3. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-krunkel.de/wir-in-krunkel/ortsportrait.html",
+"faktencheck": "korrigiert",
+"id": "505-krunkel/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Kirche, geweiht von Höffner aus der Nachbarschaft",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Krunkel",
+"steckbrief": "Gemeinde mit knapp 600 Einwohnern, 25 km nördlich von Koblenz.",
+"frage": "1964 weihte Josef Höffner, damals Bischof von Münster, die Herz-Jesu-Kirche in Krunkel. Wo war er geboren?",
+"optionen": [
+"Er wurde im nahen Horhausen geboren.",
+"Er wurde in Krunkel selbst geboren.",
+"Er wurde in Münster geboren.",
+"Er wurde in Trier geboren."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Münster liegt nahe, weil er dort Bischof war. Geboren war Höffner aber im nahen Horhausen. So weihte ein Sohn der Nachbarschaft die Kirche, deren markante Silhouette das Ortsbild von Krunkel prägt. Wer vorbeifährt, erkennt das Dorf an diesem Wahrzeichen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-krunkel.de/freizeit-und-kultur/kirche.html",
+"faktencheck": "bestätigt",
+"id": "505-krunkel/v0.9/5",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "kleine Gemarkung für zwei Ortsteile",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Krunkel",
+"steckbrief": "Gemeinde mit knapp 600 Einwohnern und dem Ortsteil Epgert, 25 km nördlich von Koblenz.",
+"frage": "Wie groß ist die Gemeindefläche von Krunkel?",
+"optionen": [
+"unter 1 km²",
+"1 bis unter 2 km²",
+"2 bis unter 3 km²",
+"3 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei zwei Ortsteilen schätzt man leicht großzügiger. Krunkel misst aber nur 2,81 Quadratkilometer. Krunkel und Epgert teilen sich also weniger als drei Quadratkilometer, auf denen rund 210 Menschen je Quadratkilometer wohnen – für ein Westerwalddorf eine eher kleine Gemarkung. Richtig war 3.",
+"quelle": "Wikidata P2046; Einwohnerdichte berechnet aus Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "505-krunkel/v0.9/7",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Lahrbach prägt die Landschaft",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Krunkel",
+"steckbrief": "Gemeinde mit knapp 600 Einwohnern, 25 km nördlich von Koblenz.",
+"frage": "Im Wappen von Krunkel läuft eine silberne Wellenleiste durch blaues Feld. Für welches Gewässer steht sie?",
+"optionen": [
+"Sie steht für den Rhein.",
+"Sie steht für den Lahrbach.",
+"Sie steht für die Wied.",
+"Sie steht für die Lahn."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Rhein und Wied liegen nahe, sie stecken in Namen wie Naturpark Rhein-Westerwald und Wiedtal. Das Wappen meint aber den Lahrbach, der das Landschaftsbild der Gemarkung bestimmt. Nicht ein großer Strom prägt das knapp 600 Einwohner zählende Dorf, sondern ein Bach mit seinem Tal. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-krunkel.de/wir-in-krunkel/ortsportrait.html",
+"faktencheck": "bestätigt",
+"id": "505-krunkel/v0.9/8",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Themenweg zur alten Wasserversorgung",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Krunkel",
+"steckbrief": "Gemeinde mit knapp 600 Einwohnern und dem Ortsteil Epgert, 25 km nördlich von Koblenz.",
+"frage": "Der Rundweg „Georoute Wasserweg“ beginnt in Krunkel-Epgert. Woran erinnert er mit seinen Stationen?",
+"optionen": [
+"Er erinnert an Wassermühlen im Tal.",
+"Er erinnert an einen früheren Kurbetrieb.",
+"Er erinnert an große Hochwasser im Tal.",
+"Er erinnert an die frühere Wasserversorgung."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei „Wasserweg“ denkt man an Mühlen oder Heilquellen. Der Rundweg erzählt aber, wie Krunkel und Epgert früher an ihr Wasser kamen: Er führt zu beiden Dorfbrunnen, zum Hochbehälter „Panoramablick“, zu einer Tiefenbohrung und zum ehemaligen Wasserwerk. Damit erzählt er auch vom Alltag früherer Jahrzehnte in zwei kleinen Dorfteilen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-krunkel.de/freizeit-und-kultur/wasserweg.html",
+"faktencheck": "bestätigt",
+"id": "505-krunkel/v0.9/9",
+"tisch": false
+}
+],
+"anschluss_von": "504-huemmerich",
+"anschluss": [
+"Eine alte Eiche ist Grenzpunkt zwischen Hümmerich und Krunkel-Epgert.",
+"Hümmerich hat rund 220 Einwohner mehr als Krunkel."
+],
+"anschluesse": {
+"504-huemmerich": [
+"Eine alte Eiche ist Grenzpunkt zwischen Hümmerich und Krunkel-Epgert.",
+"Hümmerich hat rund 220 Einwohner mehr als Krunkel."
+]
+},
+"ags": "07132065",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Krunkel mit Epgert liegt rund 300 Meter hoch, 25 km nördlich von Koblenz, im Naturpark Rhein-Westerwald am Lahrbach."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 1354 als „Cranwinkil“ erwähnt, bis um 1800 kurtrierisch, ab 1815 preußisch; Epgert gehört seit 1939 dazu."
+},
+{
+"facette": "ALLTAG",
+"text": "Knapp 600 Einwohner auf 2,81 Quadratkilometern; früher Eisenerzbergbau, heute ein Industriegebiet an der A3-Anschlussstelle Neuwied/Altenkirchen."
+},
+{
+"facette": "FREIZEIT",
+"text": "Devon Platz, Georoute Wasserweg, Familienweg Kunterbunt und Mehrzweckhalle; Westerwald-Steig und Rheinsteig gehören zur Wanderregion."
+},
+{
+"facette": "INFRA",
+"text": "Kindergarten Burgmäuse im Ort; Grundschule, Ärzte und Einkauf im drei Kilometer entfernten Horhausen."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025 in der Verbandsgemeinde Altenkirchen-Flammersfeld: CDU 28,6 %, AfD 24,8 %, Wahlbeteiligung 82,2 %."
+}
+],
+"km_vom_vorigen": 1.0
+},
+{
 "slug": "415-breitscheid-westerwald",
 "name": "Breitscheid",
 "lat": 50.58111,
 "lon": 7.44583,
 "karten": [
 {
+"facette": "ALLTAG",
+"charakteristikum": "eigener Gewerbepark für den Mittelstand",
+"rang": 3,
 "familie": "A",
-"sorte": "Klassiker",
+"sorte": "Geschichte",
 "ort": "Breitscheid",
-"steckbrief": "Gemeinde mit rund 2.300 Einwohnern, 27 km nördlich von Koblenz.",
-"frage": "Mit welchen zwei Ziffern beginnt die Postleitzahl von Breitscheid?",
+"steckbrief": "Breitscheid hat rund 2.250 Einwohner und liegt 27 km nördlich von Koblenz.",
+"frage": "Breitscheid hat einen eigenen Gewerbepark. Wofür wurde er laut Ortsbeschreibung angelegt?",
 "optionen": [
-"56",
-"57",
-"54",
-"53"
+"Er wurde für ein einziges Großunternehmen angelegt.",
+"Er wurde für die Bauhöfe der Verbandsgemeinde angelegt.",
+"Er wurde für einen Recyclinghof des Kreises angelegt.",
+"Er wurde für mittelständische Unternehmen angelegt."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Die nahe Großstadt Koblenz legt deren Postleitzahlbereich nahe. Doch Postleitzahlen folgen den Wegen der Post, nicht der Luftlinie zur nächsten Großstadt. Breitscheid hat die Postleitzahl 53547. Richtig war 4.",
-"quelle": "Wikidata P281",
-"faktencheck": "bestätigt",
-"id": "415-breitscheid-westerwald/v0.8/1",
+"rueckseite": "Du hattest [Option] getippt. Ein Großbetrieb liegt nahe, weil große Gewerbegebiete oft für Logistikriesen entstehen. Der Gewerbepark Breitscheid ist aber für mittelständische Unternehmen gedacht und soll mehr Arbeitsplätze vor Ort bringen. Für eine Gemeinde mit rund 2.250 Einwohnern ist ein eigener Gewerbepark viel: Er macht Breitscheid zu einem Arbeitsort, nicht nur zu einem Wohnort. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Breitscheid_(Westerwald)",
+"faktencheck": "unsicher",
+"id": "415-breitscheid-westerwald/v0.9/1",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "GESCHICHTE",
+"charakteristikum": "als Geschenk an den Erzbischof",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
 "ort": "Breitscheid",
-"steckbrief": "Gemeinde mit rund 2.300 Einwohnern, 27 km nördlich von Koblenz.",
-"frage": "Wie viele Einwohner leben in Breitscheid rechnerisch auf einem Quadratkilometer?",
+"steckbrief": "Breitscheid, rund 2.250 Einwohner, liegt 27 km nördlich von Koblenz im Kreis Neuwied.",
+"frage": "Im 13. Jahrhundert gehörte Breitscheid zum Erbe der Mechthild von Sayn. Wie kam es an den Kölner Erzbischof?",
 "optionen": [
-"unter 250",
-"250 bis unter 500",
-"500 bis unter 1.000",
-"1.000 und mehr"
+"Mechthild schenkte ihr Erbe dem Erzbischof.",
+"Der Erzbischof eroberte es in einer Fehde.",
+"Es kam durch eine Heirat nach Köln.",
+"Der Papst übertrug es dem Erzbischof."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Koblenz lässt an dichte, stadtnahe Besiedlung denken. Doch zwischen Breitscheid und der Großstadt liegt ein gutes Stück Land. Rechnerisch leben in Breitscheid 184 Menschen je Quadratkilometer. Richtig war 1.",
-"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
-"faktencheck": "bestätigt",
-"id": "415-breitscheid-westerwald/v0.8/2",
+"rueckseite": "Du hattest [Option] getippt. Eine Fehde liegt nahe, denn im Mittelalter wechselten Dörfer oft mit Gewalt den Herrn. Hier lief es über einen Vertrag: Gräfin Mechthild von Sayn übergab 1250 die Neuerburg mit ihrem Umland dem Erzstift Köln unter Erzbischof Konrad von Hochstaden. Breitscheid, in dessen Honschaft die Burg lag, gehörte damit zu einem Land, das ein Erzbischof regierte. Richtig war 1.",
+"quelle": "KuLaDig (LVR), kuladig.de/Objektansicht/O-99697-20140814-2",
+"faktencheck": "korrigiert",
+"id": "415-breitscheid-westerwald/v0.9/2",
 "tisch": false
 },
 {
-"familie": "B",
-"sorte": "Klassiker",
-"ort": "Breitscheid",
-"steckbrief": "Breitscheid ist eine Gemeinde mit rund 2.300 Einwohnern, 27 km nördlich von Koblenz.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Breitscheid liegt mehr als 500 Meter hoch.",
-"Die Gemeinde ist gut 12 Quadratkilometer groß.",
-"Die Ortsvorwahl von Breitscheid lautet 02638."
-],
-"art": "luege",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Die Vorwahl wirkt verdächtig, wenn man an Koblenz denkt, stimmt aber, ebenso die Fläche. Gelogen ist die Höhe: Das Land nördlich von Koblenz steigt zwar an, doch Breitscheid liegt auf gut 320 Metern. Die Lüge war 1.",
-"quelle": "Wikidata P2044; dewiki Infobox",
-"faktencheck": "bestätigt",
-"id": "415-breitscheid-westerwald/v0.8/3",
-"tisch": false
-},
-{
+"facette": "ALLTAG",
+"charakteristikum": "früherer Basaltabbau, im Wappen bewahrt",
+"rang": 1,
 "familie": "A",
-"sorte": "Klassiker",
+"sorte": "Geschichte",
 "ort": "Breitscheid",
-"steckbrief": "Gemeinde mit rund 2.300 Einwohnern, 27 km nördlich von Koblenz.",
-"frage": "Welche Partei wurde in Breitscheid bei der Bundestagswahl 2025 nach Zweitstimmen zweitstärkste Kraft?",
+"steckbrief": "Breitscheid im Kreis Neuwied hat rund 2.250 Einwohner und liegt 27 km nördlich von Koblenz.",
+"frage": "Im Wappen von Breitscheid stehen vier schwarze Sechskantsäulen. Woran erinnern sie?",
 "optionen": [
-"SPD",
-"CDU",
-"AfD",
-"GRÜNE"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Die SPD liegt nahe, weil sie lange als zweite große Volkspartei galt. In Breitscheid landete sie 2025 aber nur auf Platz drei. Vorn lag die CDU mit 35 Prozent, dahinter die AfD mit 23,8 Prozent. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "415-breitscheid-westerwald/v0.8/4",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Breitscheid",
-"steckbrief": "Gemeinde mit rund 2.300 Einwohnern, 27 km nördlich von Koblenz.",
-"frage": "Zu welchem Landkreis gehört Breitscheid?",
-"optionen": [
-"Mayen-Koblenz",
-"Westerwaldkreis",
-"Altenkirchen (Westerwald)",
-"Neuwied"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Mayen-Koblenz liegt nahe, denn der Kreis trägt die nächste Großstadt im Namen. Breitscheid gehört aber zum Landkreis Neuwied. Richtig war 4.",
-"quelle": "dewiki Infobox",
-"faktencheck": "bestätigt",
-"id": "415-breitscheid-westerwald/v0.8/5",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Breitscheid",
-"steckbrief": "Gemeinde mit rund 2.300 Einwohnern, 27 km nördlich von Koblenz.",
-"frage": "Welches Kennzeichen tragen die meisten Autos in Breitscheid?",
-"optionen": [
-"NR",
-"KO",
-"MYK",
-"WW"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. KO liegt nahe, weil Koblenz die nächste Großstadt ist. Doch Kennzeichen folgen dem Kreis, nicht der Großstadt in der Nähe. In Breitscheid ist NR das Hauptkennzeichen. Richtig war 1.",
-"quelle": "Wikidata P395",
-"faktencheck": "bestätigt",
-"id": "415-breitscheid-westerwald/v0.8/6",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Breitscheid",
-"steckbrief": "Gemeinde mit rund 2.300 Einwohnern, 27 km nördlich von Koblenz.",
-"frage": "Wie weit ist es von Breitscheid in Luftlinie bis zur Landeshauptstadt Mainz?",
-"optionen": [
-"unter 60 km",
-"60 bis unter 100 km",
-"100 bis unter 140 km",
-"140 km und mehr"
+"An die Kirchtürme der alten Pfarrdörfer.",
+"An den früheren Abbau von Basalt.",
+"An die Pfeiler einer alten Talbrücke.",
+"An die Schornsteine früherer Ziegeleien."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Wer an die lange Fahrt den Rhein hinauf denkt, schätzt leicht zu weit. In Luftlinie liegen zwischen Breitscheid und Mainz 89 Kilometer. Richtig war 2.",
-"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"rueckseite": "Du hattest [Option] getippt. Schornsteine liegen nahe, weil viele Westerwalddörfer von Ton und Ziegeln lebten. Die Säulen stehen aber für den früheren Basaltabbau auf dem Roßbacher Häubchen: Basalt erstarrt oft zu sechskantigen Säulen. Der Abbau ist vorbei, doch das Wappen hält ihn fest, neben Ähren für die einst wichtige Landwirtschaft. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Breitscheid_(Westerwald)",
+"faktencheck": "unsicher",
+"id": "415-breitscheid-westerwald/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Bergrücken über Wied- und Elsbachtal",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Breitscheid",
+"steckbrief": "Breitscheid, rund 2.250 Einwohner, liegt 27 km nördlich von Koblenz.",
+"frage": "Breitscheid liegt im Naturpark Rhein-Westerwald. Wie beschreibt die Ortsbeschreibung seine Lage in der Landschaft?",
+"optionen": [
+"Es liegt unten in einem Flusstal am Ufer.",
+"Es liegt in einer weiten, flachen Ebene.",
+"Es liegt in einem Talkessel zwischen Bergen.",
+"Es liegt auf einem Bergrücken über zwei Tälern."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Das Flusstal liegt nahe, denn an der Wied liegen viele Orte unten am Wasser. Breitscheid aber liegt laut Ortsbeschreibung auf einem Bergrücken über dem Wiedtal und dem Elsbachtal, also oben zwischen zwei Tälern statt unten am Fluss. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Breitscheid_(Westerwald)",
+"faktencheck": "korrigiert",
+"id": "415-breitscheid-westerwald/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "durch die Hände vieler Landesherren",
+"rang": 7,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Breitscheid",
+"steckbrief": "Breitscheid im Kreis Neuwied hat rund 2.250 Einwohner und liegt 27 km nördlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Breitscheid lag einst in der französischen Besatzungszone.",
+"In Breitscheid wurde ein Abgeordneter des Zentrums geboren.",
+"Nach dem Wiener Kongress kam Breitscheid zu Bayern."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bayern klingt nicht abwegig, denn die Pfalz wurde nach dem Wiener Kongress tatsächlich bayerisch. Breitscheid aber kam zu Preußen, nach kurzen Jahren bei Wied-Runkel und Nassau. Davor gehörte es zum kurkölnischen Amt Neuerburg, und nach dem Zweiten Weltkrieg lag es in der französischen Zone. So hat das kleine Breitscheid die großen Grenzverschiebungen des Rheinlands mitgemacht. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Breitscheid_(Westerwald)",
+"faktencheck": "korrigiert",
+"id": "415-breitscheid-westerwald/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "viel Fläche, locker besiedelt",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Breitscheid",
+"steckbrief": "Breitscheid im Kreis Neuwied hat rund 2.250 Einwohner und liegt 27 km nördlich von Koblenz.",
+"frage": "Wie groß ist die Fläche der Gemeinde Breitscheid?",
+"optionen": [
+"unter 5 km²",
+"5 bis unter 15 km²",
+"15 bis unter 30 km²",
+"30 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Unter 5 km² liegt nahe, weil man bei rund 2.250 Einwohnern an ein kompaktes Dorf denkt. Breitscheid misst aber 12,22 km². Rechnerisch leben dort rund 184 Menschen auf einem Quadratkilometer; die Gemeinde ist also eher locker besiedelt. Richtig war 2.",
+"quelle": "Wikidata P2046 (Fläche); Wikidata P1082, Stand 2025-12-31 (Einwohner); Dichte berechnet aus Einwohnern und Fläche",
 "faktencheck": "bestätigt",
-"id": "415-breitscheid-westerwald/v0.8/7",
+"id": "415-breitscheid-westerwald/v0.9/7",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Gemeinde aus 15 Ortsteilen",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Breitscheid",
+"steckbrief": "Breitscheid hat rund 2.250 Einwohner und liegt 27 km nördlich von Koblenz.",
+"frage": "Wie ist die Gemeinde Breitscheid aufgebaut?",
+"optionen": [
+"Sie ist ein einziges geschlossenes Dorf.",
+"Sie besteht aus einem Dorf und einem Gutshof.",
+"Sie besteht aus vielen Dörfern und Wohnplätzen.",
+"Sie besteht aus Ober- und Unterdorf am Hang."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein geschlossenes Dorf liegt nahe, weil man bei einem Gemeindenamen an einen Ort denkt. Tatsächlich gehören viele Dörfer und Wohnplätze zur Gemeinde, etwa Elsbach, Hochscheid, Nassen und Siebenmorgen. Bei rund 2.250 Einwohnern sind das viele kleine Siedlungen statt eines großen Dorfs. Richtig war 3.",
+"quelle": "Verbandsgemeinde Rengsdorf-Waldbreitbach, rengsdorf-waldbreitbach.de",
+"faktencheck": "korrigiert",
+"id": "415-breitscheid-westerwald/v0.9/8",
 "tisch": false
 }
 ],
-"anschluss_von": "414-hausen-wied",
-"anschluss": [],
+"anschluss_von": "505-krunkel",
+"anschluss": [
+"Breitscheid hat fast viermal so viele Einwohner wie Krunkel.",
+"Krunkel gehört zum Kreis Altenkirchen, Breitscheid zum Kreis Neuwied."
+],
 "anschluesse": {
 "47-andernach": [
 "Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Breitscheid zum Landkreis Neuwied.",
@@ -114206,11 +117839,41 @@ window.QA_DATEN = {
 ],
 "417-wolfenacker": [
 "Kreisgrenze: Wolfenacker gehört zum Landkreis Landkreis Neuwied, Breitscheid zum Landkreis Neuwied."
+],
+"505-krunkel": [
+"Breitscheid hat fast viermal so viele Einwohner wie Krunkel.",
+"Krunkel gehört zum Kreis Altenkirchen, Breitscheid zum Kreis Neuwied."
 ]
 },
 "ags": "07138006",
 "ortsteil": false,
-"km_vom_vorigen": 5.1
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Breitscheid liegt auf einem Bergrücken über Wied- und Elsbachtal im Naturpark Rhein-Westerwald, 27 km nördlich von Koblenz."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Früher gehörte Breitscheid zum Amt Neuerburg, ab 1815 zu Preußen; fünf Ringe im Wappen erinnern an das Adelsgeschlecht von Breitscheid."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 2.250 Einwohner in 15 Ortsteilen, ein Gewerbepark und der Sitz des Wirtschaftsforums der Verbandsgemeinde Rengsdorf-Waldbreitbach."
+},
+{
+"facette": "FREIZEIT",
+"text": "Sportplatz in Breitscheid, Bolzplätze in Elsbach, Hochscheid, Nassen und Siebenmorgen, Wanderwege hinab in die Seitentäler der Wied."
+},
+{
+"facette": "INFRA",
+"text": "Landesstraße L 256 von Linz nach Neustadt, A3-Anschluss Neustadt/Wied, Bahn ab Linz am Rhein; Grundschule Marienschule."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag die CDU mit 35 Prozent vorn; 85,4 Prozent gingen wählen, mehr als im Land."
+}
+],
+"km_vom_vorigen": 4.2
 },
 {
 "slug": "416-kloster-marienhaus",
@@ -114741,189 +118404,216 @@ window.QA_DATEN = {
 "lon": 7.0825,
 "karten": [
 {
-"familie": "A",
+"facette": "ALLTAG",
+"charakteristikum": "Bahnhalt benannt nach der Zementfabrik",
+"rang": 4,
+"familie": "D",
 "sorte": "Geschichte",
 "ort": "Kupferdreh",
-"steckbrief": "Essener Stadtteil mit rund 11.000 Einwohnern, 9 km südöstlich der Stadtmitte.",
-"frage": "Worauf bezieht sich der Name Kupferdreh?",
+"steckbrief": "Stadtteil von Essen, 9 km südöstlich der Stadtmitte, an der Ruhr.",
+"frage": "Einer der Bahnhalte in Kupferdreh ist nach einem früheren Werk benannt. Welchen dieser vier Halte gibt es dort?",
 "optionen": [
-"Der Name beschreibt eine scharfe Flussbiegung.",
-"Der Name stammt von einem Drehkreuz an einer Zollstelle.",
-"Der Name erinnert an einen Kupferhändler.",
-"Eine kupferne Wetterfahne gab den Namen."
+"Halt „Zementfabrik“",
+"Halt „Brauerei“",
+"Halt „Glashütte“",
+"Halt „Ziegelei“"
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Kupfer liegt nahe, und manche verbinden den Namen auch mit einem Kupferhammer am Deilbach. Der Wortteil „Dreh“ meint aber die Drehung der Ruhr: An der Deilbachmündung lag die gefürchtetste Flussbiegung, bei Schiffern „Kopperdrai“. 1813 hieß der Ort plattdeutsch Kupperdreh. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Kupferdreh",
+"rueckseite": "Du hattest [Option] getippt. 1883 wurde in Kupferdreh die Zementfabrik Narjes & Bender gegründet. Nach ihr heißt der Bahnhof Zementfabrik der Hespertalbahn; vom Werk blieb nach Stilllegung und Abriss nichts, heute steht dort die Wohnsiedlung Seebogen. Die Brauerei liegt nahe, weil Bier zum Revier gehört wie die Kohle; Kupferdreh aber hatte Hütte und Zementwerk. So hält sich die Industriegeschichte des Stadtteils im Namen eines Bahnhalts. Richtig war 1.",
+"quelle": "hespertalbahn.de/strecke; KuLaDig (LVR) O-CW-20100410-0003",
 "faktencheck": "korrigiert",
-"id": "418-kupferdreh/v0.8/1",
+"id": "418-kupferdreh/v0.9/1",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "GESCHICHTE",
+"charakteristikum": "Ortsname aus Flusskehre und Kupfer",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
 "ort": "Kupferdreh",
-"steckbrief": "Stadtteil im Essener Südosten, 9 km von der Stadtmitte, mit rund 11.000 Einwohnern.",
-"frage": "Wie groß ist die Fläche des Essener Stadtteils Kupferdreh?",
+"steckbrief": "Stadtteil von Essen, 9 km südöstlich der Stadtmitte.",
+"frage": "Das „Kupfer“ im Namen Kupferdreh verweist auf eine Kupferhütte oder einen Kupferhammer als Landmarke. Wofür steht das „Dreh“?",
 "optionen": [
-"unter 5 km²",
-"5 bis unter 12 km²",
-"12 bis unter 20 km²",
-"20 km² und mehr"
+"„Dreh“ meint eine Drehbank der Kupferschmiede.",
+"„Dreh“ meint eine gefährliche Biegung des Flusses.",
+"„Dreh“ meint eine Kreuzung zweier Handelswege.",
+"„Dreh“ meint eine Wendestelle der Treidelpferde."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Stadtteile am Rand einer Großstadt sind oft weitläufiger als die dichten Viertel der Mitte, darum schätzt man leicht zu groß. Kupferdreh misst 9,34 Quadratkilometer. Richtig war 2.",
-"quelle": "Wikidata P2046",
-"faktencheck": "bestätigt",
-"id": "418-kupferdreh/v0.8/2",
+"rueckseite": "Du hattest [Option] getippt. Das „Dreh“ bezeichnet eine für die Ruhrschiffer gefährliche Biegung der Ruhr. Die Drehbank liegt nahe, weil Kupfer nach Handwerk klingt und „drehen“ nach Werkstatt. Gemeint ist aber die Landschaft: Hütte oder Hammer als Landmarke, dazu die Flussbiegung. So trägt schon der Name, was Kupferdreh ausmacht: den Fluss und das alte Metallgewerbe. Richtig war 2.",
+"quelle": "Gemeinde-Webseite www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_geschichte.de.html",
+"faktencheck": "korrigiert",
+"id": "418-kupferdreh/v0.9/2",
 "tisch": false
 },
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Mineralienmuseum in alter Sandsteinschule",
+"rang": 8,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Kupferdreh",
+"steckbrief": "Stadtteil von Essen, 9 km südöstlich der Stadtmitte, an der Ruhr.",
+"frage": "Welches dieser vier Dinge gibt es in Kupferdreh?",
+"optionen": [
+"eine Burgruine",
+"eine Brauerei",
+"ein Mineralienmuseum",
+"ein Wasserschloss"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das Mineralien-Museum ist eine Außenstelle des Ruhr Museums und sitzt in einem alten, denkmalgeschützten Schulgebäude an der Kupferdreher Straße. Die Burgruine liegt nahe, weil viele Burgen das Ruhrtal säumen; in Kupferdreh verzeichnet OpenStreetMap keine. Für einen Stadtteil im Revier passt das Museum: Es zeigt, was die Erde hergibt, in einem Ort, der einst von Kupfer- und Eisenhütten lebte. Richtig war 3.",
+"quelle": "ruhrmuseum.de (Mineralien-Museum); OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "418-kupferdreh/v0.9/3",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "alte Bahnbrücke als Fußweg",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kupferdreh",
+"steckbrief": "Stadtteil von Essen, 9 km südöstlich der Stadtmitte, an der Ruhr.",
+"frage": "Eine alte Eisenbahnbrücke führt bei Kupferdreh über die Ruhr; im Zweiten Weltkrieg wurde sie gesprengt. Wozu dient sie heute?",
+"optionen": [
+"Über sie fährt heute die S-Bahn.",
+"Über sie fahren heute Autos.",
+"Sie ist gesperrt und verfällt.",
+"Über sie gehen heute Fußgänger."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Nach der Sprengung wurde die Brücke eingleisig als Bahnbrücke wieder aufgebaut; heute sind die Gleise entfernt, und sie dient als Fußgängerbrücke. Die S-Bahn liegt nahe, weil Kupferdreh einen Bahnhof hat und Züge hier zum Alltag gehören. Die Brücke zeigt, wie sehr der Stadtteil von der Eisenbahn geprägt ist: Sie trug einst die Bergisch-Märkische Eisenbahn und die Ruhrtalbahn. Richtig war 4.",
+"quelle": "Wikipedia de.wikipedia.org/wiki/Kupferdreh",
+"faktencheck": "unsicher",
+"id": "418-kupferdreh/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "alter Hafen unter dem Baldeneysee",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kupferdreh",
+"steckbrief": "Stadtteil von Essen, 9 km südöstlich der Stadtmitte.",
+"frage": "Kupferdreh hatte an der Ruhr einst einen Hafen. Wo liegt er heute?",
+"optionen": [
+"Er liegt heute unter einem Stausee.",
+"Er liegt heute unter einem Wohngebiet.",
+"Er liegt heute unter einem Stadtpark.",
+"Er liegt heute unter einem Sportplatz."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der alte Hafen liegt am Grund des Baldeneysees: Als der Stausee angelegt wurde, überflutete er den Hafen. Das Wohngebiet liegt nahe, weil alte Hafenflächen in Städten oft bebaut werden. Heute paddelt und segelt man auf dem See; wer am Ufer steht, schaut über den früheren Hafen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_geschichte.de.html; www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_kultur_freizeit.de.html",
+"faktencheck": "korrigiert",
+"id": "418-kupferdreh/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Scheinanlage zog Bomben aufs Land",
+"rang": 5,
 "familie": "B",
 "sorte": "Geschichte",
 "ort": "Kupferdreh",
-"steckbrief": "Essener Stadtteil mit rund 11.000 Einwohnern, 9 km südöstlich der Stadtmitte.",
+"steckbrief": "Stadtteil von Essen, 9 km südöstlich der Stadtmitte, an der Ruhr.",
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Der Karnevalszug zieht am Aschermittwoch durch Kupferdreh.",
-"Familie Bender vermachte ihr Gelände für einen Bürgerpark.",
-"Die Kampmannbrücke war anfangs eine schwimmende Pontonbrücke."
+"Als Gemeinde hatte Kupferdreh einst eigene Bürgermeister.",
+"In Kupferdreh wurde ein Kasernengelände zur Wohnsiedlung.",
+"Im Krieg blieb Kupferdrehs ländliche Umgebung bombenfrei."
 ],
 "art": "luege",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Am Aschermittwoch ist die Fastnacht vorbei. Der Kupferdreher Zug zieht sonst am Rosenmontag, 2026 aus Sicherheitsgründen am Tulpensonntag. Wahr ist: Der Zementfabrikant August Bender vermachte seinen Park der Gemeinde als Erholungsort, und die erste Kampmannbrücke von 1895 war eine Pontonbrücke, also eine Brücke auf Schwimmkörpern. Die Lüge war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Kupferdreh",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Gelogen ist die Schonung: Auf dem Rottberg bei Velbert lag die Kruppsche Nachtscheinanlage, eine Scheinfabrik, die nachts alliierte Bomber vom Essener Krupp-Werk ablenken sollte. Die Luftwaffe betrieb sie, und sie wurde mehrfach angegriffen. Die Bürgermeister wirken verdächtig, weil Kupferdreh heute Stadtteil ist; bis zur Eingemeindung war es eigene Gemeinde. Das Hügelland am Essener Stadtrand war im Krieg kein sicherer Ort. Die Lüge war 3.",
+"quelle": "KuLaDig (LVR-Amt für Denkmalpflege) O-64369-20130417-2; Wikipedia de.wikipedia.org/wiki/Kupferdreh",
 "faktencheck": "korrigiert",
-"id": "418-kupferdreh/v0.8/3",
+"id": "418-kupferdreh/v0.9/6",
 "tisch": false
 },
 {
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Kupferdreh",
-"steckbrief": "Essener Stadtteil mit rund 11.000 Einwohnern, 9 km südöstlich der Stadtmitte.",
-"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in der Stadt Essen nach Zweitstimmen zweitstärkste Kraft?",
-"optionen": [
-"CDU",
-"AfD",
-"GRÜNE",
-"SPD"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet erwartet man die SPD vorn, also die CDU auf Platz zwei. In Essen lag aber die CDU vorn; die SPD folgte mit 22,2 Prozent, vor der AfD. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "418-kupferdreh/v0.8/4",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Kupferdreh",
-"steckbrief": "Essener Stadtteil mit rund 11.000 Einwohnern, 9 km südöstlich der Stadtmitte.",
-"frage": "Im Zweiten Weltkrieg betrieb die Luftwaffe auf dem Kupferdreher Rottberg die „Kruppsche Nachtscheinanlage“. Wozu diente sie?",
-"optionen": [
-"Sie sollte alliierte Bomber täuschen.",
-"Sie ortete feindliche Flugzeuge per Funk.",
-"Sie diente Nachtjägern als Landeplatz.",
-"Sie warnte die Bevölkerung vor Luftangriffen."
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Bei einer Anlage der Luftwaffe denkt man an Abwehr oder Warnung. Diese aber sollte die alliierten Bomber täuschen: Eine Scheinanlage gaukelt nachts ein lohnendes Ziel vor. Die Folge waren zahlreiche Bombenangriffe auf die ländliche Umgebung. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Kupferdreh",
-"faktencheck": "unsicher",
-"id": "418-kupferdreh/v0.8/5",
-"tisch": false
-},
-{
+"facette": "LAGE",
+"charakteristikum": "großer Stadtteil mit Schutzgebieten",
+"rang": 9,
 "familie": "C",
 "sorte": "Klassiker",
 "ort": "Kupferdreh",
-"steckbrief": "Essener Stadtteil mit rund 11.000 Einwohnern, 9 km südöstlich der Stadtmitte.",
-"frage": "Wie weit ist es von Kupferdreh in Luftlinie bis zur Landeshauptstadt Düsseldorf?",
+"steckbrief": "Stadtteil von Essen mit rund 11.000 Einwohnern, 9 km südöstlich der Stadtmitte, an der Ruhr.",
+"frage": "Wie groß ist die Fläche des Stadtteils Kupferdreh?",
 "optionen": [
-"unter 15 km",
-"15 bis unter 40 km",
-"40 bis unter 70 km",
-"70 km und mehr"
+"unter 2 km²",
+"2 bis unter 5 km²",
+"5 bis unter 10 km²",
+"10 km² und mehr"
 ],
 "art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Im Ballungsraum an Rhein und Ruhr wirken Essen und Düsseldorf wie Nachbarn. Von Kupferdreh aus sind es aber 29 Kilometer Luftlinie bis zur Landeshauptstadt, deutlich mehr als bis zur Essener Stadtmitte. Richtig war 2.",
-"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Kupferdreh umfasst 9,34 Quadratkilometer. Weniger liegt nahe, weil man sich einen Stadtteil als ein paar Straßenzüge vorstellt. Doch neben Wohnstraßen gehören Schutzgebiete wie die Heisinger Ruhraue und das Asbachtal dazu, und so ist Kupferdreh für einen Stadtteil groß. Richtig war 3.",
+"quelle": "Wikidata P2046; OpenStreetMap",
 "faktencheck": "bestätigt",
-"id": "418-kupferdreh/v0.8/6",
+"id": "418-kupferdreh/v0.9/7",
 "tisch": false
 },
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Stadtbad in Vereinshand",
+"rang": 6,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Kupferdreh",
-"steckbrief": "Essener Stadtteil an der Ruhr mit rund 11.000 Einwohnern, 9 km südöstlich der Stadtmitte.",
-"frage": "Friedrich Harkort baute 1831 die Deilthaler Eisenbahn. Wohin sollte sie Kohle bringen?",
+"steckbrief": "Stadtteil von Essen, 9 km südöstlich der Stadtmitte, an der Ruhr.",
+"frage": "Kupferdreh hat ein eigenes Stadtbad. Wer führt es?",
 "optionen": [
-"Sie brachte Kohle ins Bergische Land.",
-"Sie brachte Kohle ins Münsterland.",
-"Sie brachte Kohle an den Niederrhein.",
-"Sie brachte Kohle ins Siegerland."
+"Die Stadt führt es selbst.",
+"Ein eingetragener Verein führt das Bad.",
+"Das örtliche Krankenhaus führt es.",
+"Eine private Fitnesskette führt es."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Geführt wird das Bad von der Interessengemeinschaft Stadtbad Kupferdreh, einem eingetragenen Verein. Die Stadt liegt nahe, schon weil das Bad Stadtbad heißt. Dass ein Verein ein Schwimmbad führt, ist auch in einer Großstadt wie Essen keine Selbstverständlichkeit; es zeigt, was das Bad dem Stadtteil wert ist. Richtig war 2.",
+"quelle": "Gemeinde-Webseite www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_kultur_freizeit.de.html; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "418-kupferdreh/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "frühe Pferde-Eisenbahn für Kohle",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kupferdreh",
+"steckbrief": "Stadtteil von Essen, 9 km südöstlich der Stadtmitte, an der Ruhr.",
+"frage": "Durch Kupferdreh fuhr die Prinz-Wilhelm-Eisenbahn, die erste als Gesellschaft betriebene Eisenbahn Deutschlands. Was zog anfangs ihre Wagen?",
+"optionen": [
+"Pferde zogen die Wagen.",
+"Ochsengespanne zogen die Wagen.",
+"Arbeiter schoben die Wagen von Hand.",
+"Eine Dampflok zog sie von Anfang an."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ruhrkohle denkt man sich auf dem Weg zum Rhein. Die Deilthaler Eisenbahn aber führte von der Ruhr hinauf nach Nierenhof und sollte Kohle ins Bergische Land bringen. Ihre Gesellschaft gilt als erste deutsche Eisenbahn-Aktiengesellschaft. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Kupferdreh",
-"faktencheck": "korrigiert",
-"id": "418-kupferdreh/v0.8/8",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Kupferdreh",
-"steckbrief": "Essener Stadtteil mit rund 11.000 Einwohnern, 9 km südöstlich der Stadtmitte.",
-"frage": "Bis 1987 entstand in Kupferdreh auf dem Gelände eines früheren Kohlekraftwerks ein Zentrum. Wofür wurde es gebaut?",
-"optionen": [
-"Dort sollte ein Museum für Elektrizität entstehen.",
-"Dort sollte Personal von Kernkraftwerken am Simulator üben.",
-"Dort sollten neue Windräder erprobt werden.",
-"Dort sollten Forscher an Solarzellen arbeiten."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ein früheres Kraftwerksgelände legt ein Museum nahe. Doch das Simulatorzentrum entstand, damit Personal aus Kernkraftwerken an originalgetreuen Simulatoren trainiert, wie der Name sagt. Richtig war 2.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Kupferdreh",
-"faktencheck": "korrigiert",
-"id": "418-kupferdreh/v0.8/9",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Kupferdreh",
-"steckbrief": "Essener Stadtteil mit rund 11.000 Einwohnern, 9 km südöstlich der Stadtmitte.",
-"frage": "1937 stieß man beim Bau einer Kaserne in Kupferdreh auf ein Steinkistengrab. Wie alt ist es ungefähr?",
-"optionen": [
-"Es ist etwa 400 Jahre alt.",
-"Es ist etwa 1.000 Jahre alt.",
-"Es ist etwa 2.000 Jahre alt.",
-"Es ist etwa 5.000 Jahre alt."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Eine Steinkiste ist ein mit Steinen ausgekleidetes Grab und klingt nach Römern oder Mittelalter. Das Kupferdreher Grab stammt aber aus der Jungsteinzeit, ist etwa 5.000 Jahre alt und gilt als ältestes erhaltenes Bauwerk Essens. Richtig war 4.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Kupferdreh",
-"faktencheck": "korrigiert",
-"id": "418-kupferdreh/v0.8/10",
+"rueckseite": "Du hattest [Option] getippt. Am Anfang zogen Pferde die Wagen; erst später wurde die Bahn auf Dampf umgebaut. Friedrich Harkort ließ sie bauen, um Kohle durch das Deilbachtal nach Nierenhof zu bringen. Die Dampflok liegt nahe, weil Eisenbahn heute nach Lok klingt. Für Kupferdreh heißt das: Hier rollte Kohle auf Schienen, als das Revier noch am Anfang stand. Richtig war 1.",
+"quelle": "Wikipedia de.wikipedia.org/wiki/Kupferdreh; OpenStreetMap",
+"faktencheck": "bestätigt",
+"id": "418-kupferdreh/v0.9/9",
 "tisch": false
 }
 ],
 "anschluss_von": "417-wolfenacker",
 "anschluss": [
-"Kennzeichen: In Wolfenacker steht NR am Auto, in Kupferdreh E.",
-"Bundestagswahl 2025: In Niederbreitbach wählten anteilig mehr als in Essen."
+"Wolfenacker liegt rund 200 Meter höher als Kupferdreh.",
+"Niederbreitbach hatte 2025 eine höhere Wahlbeteiligung als Essen."
 ],
 "anschluesse": {
 "196-ratingen": [
@@ -114964,12 +118654,38 @@ window.QA_DATEN = {
 "Kreisgrenze: Hattingen ist kreisfrei, Kupferdreh gehört zum Landkreis Stadtkreis Essen."
 ],
 "417-wolfenacker": [
-"Kennzeichen: In Wolfenacker steht NR am Auto, in Kupferdreh E.",
-"Bundestagswahl 2025: In Niederbreitbach wählten anteilig mehr als in Essen."
+"Wolfenacker liegt rund 200 Meter höher als Kupferdreh.",
+"Niederbreitbach hatte 2025 eine höhere Wahlbeteiligung als Essen."
 ]
 },
 "ags": "05113000",
 "ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Essener Stadtteil an Ruhr und Baldeneysee, 9 km südöstlich der Stadtmitte, 9,34 Quadratkilometer groß, im Hügelland."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Bis 1929 eigene Gemeinde; der Name kommt von Kupferhütte oder Kupferhammer und einer gefährlichen Ruhrbiegung."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 11.400 Einwohner (März 2025), früher Kupferhütte, Eisenhütte und Zementfabrik; heute Kupferdreher Markt."
+},
+{
+"facette": "FREIZEIT",
+"text": "Ruhrtalradweg, Hespertalbahn, Kulturlandschaft Deilbachtal, Mineralienmuseum, Stadtbad und Rosenmontagszug auf der Kupferdreher Straße."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof Essen-Kupferdreh mit S9, Anschluss an A 44 und B 227, St.-Josef-Krankenhaus."
+},
+{
+"facette": "POLITIK",
+"text": "In ganz Essen lag bei der Bundestagswahl 2025 die CDU vorn, die Wahlbeteiligung betrug 80,1 Prozent."
+}
+],
 "km_vom_vorigen": 99.8
 },
 {
@@ -114979,128 +118695,239 @@ window.QA_DATEN = {
 "lon": 7.07889,
 "karten": [
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Park für einen Bergmann-Dichter",
+"rang": 9,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Überruhr",
-"steckbrief": "Stadtteil von Essen mit rund 16.000 Einwohnern, 6 km südöstlich der Stadtmitte.",
-"frage": "In Überruhr-Hinsel lag eine germanische Siedlung, vermutlich der Brukterer. Wann wurde sie ausgegraben?",
+"steckbrief": "Stadtteil von Essen, 6 km südöstlich der Stadtmitte.",
+"frage": "Der hochgelegene Ludwig-Kessing-Park bietet weiten Blick über das Ruhrtal. Nach wem ist er benannt?",
 "optionen": [
-"vor dem Ersten Weltkrieg",
-"in den 1930er-Jahren",
-"in den 1960er- und 1970er-Jahren",
-"nach dem Jahr 2000"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Solche Funde verbindet man oft mit neuen Bauprojekten. Gegraben wurde aber von 1966 bis 1971, unter anderem vom damaligen Ruhrland- und Heimatmuseum. Man fand Reste von Häusern, einen Rennofen und römische Keramik. Vermutlich lebten hier Brukterer. Richtig war 3.",
-"quelle": "LVR-Amt für Bodendenkmalpflege (KuLaDig); Ruhr Museum",
-"faktencheck": "korrigiert",
-"id": "419-ueberruhr/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Überruhr",
-"steckbrief": "Stadtteil von Essen mit rund 16.000 Einwohnern, 6 km südöstlich der Stadtmitte.",
-"frage": "Wie groß ist die Fläche des Stadtteils Überruhr?",
-"optionen": [
-"unter 7 km²",
-"7 bis unter 10 km²",
-"10 bis unter 15 km²",
-"15 km² und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Überruhr umfasst die Stadtteile Überruhr-Hinsel und Überruhr-Holthausen; das klingt nach viel Fläche. Zusammen messen beide aber nur rund 6,6 Quadratkilometer, oberhalb einer Halbinsel der Ruhr. Richtig war 1.",
-"quelle": "Stadt Essen, Amt für Statistik, Stadtforschung und Wahlen",
-"faktencheck": "korrigiert",
-"id": "419-ueberruhr/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Überruhr",
-"steckbrief": "Stadtteil von Essen mit rund 16.000 Einwohnern, 6 km südöstlich der Stadtmitte.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Ein Park in Überruhr ehrt einen Bergmann und Dichter.",
-"Erst nach 1900 fuhr ein Zug über die Ruhr nach Steele.",
-"Die Kirche St. Suitbert trägt ein Dach aus einer Betonschale."
-],
-"art": "luege",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Eine Bahnbrücke über die Ruhr klingt nach jüngerer Zeit. Doch schon am 1. Juni 1863 fuhr der erste Zug über die Eisenbahnbrücke zwischen Überruhr und Steele. Der Park ehrt den Bergmann und Dichter Ludwig Kessing. St. Suitbert trägt eine nur vier Zentimeter dünne Betonschale. Die Lüge war 2.",
-"quelle": "Stadt Essen, Historisches Portal; LVR (KuLaDig); TU Dortmund",
-"faktencheck": "korrigiert",
-"id": "419-ueberruhr/v0.8/3",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Überruhr",
-"steckbrief": "Stadtteil von Essen mit rund 16.000 Einwohnern, 6 km südöstlich der Stadtmitte.",
-"frage": "Die Friedenskapelle der Heiligen Eucharistie in Überruhr entstand 1960/61. Welchen Anlass nennt die Ortsgeschichte für ihren Bau?",
-"optionen": [
-"Sie dankte für die Heimkehr der Kriegsgefangenen.",
-"Sie erinnert an ein Grubenunglück im Ort.",
-"Sie feierte ein Jubiläum der Pfarrgemeinde.",
-"Ein großer katholischer Kongress gab den Anlass."
+"Er ehrt einen früheren Bürgermeister Überruhrs.",
+"Er ehrt einen Pfarrer, der die Gemeinde gründete.",
+"Er ehrt einen Zechenbesitzer, der das Gelände stiftete.",
+"Er ehrt einen Bergmann, der Heimatgedichte schrieb."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Der Name Friedenskapelle lässt an das Kriegsende und an heimgekehrte Gefangene denken. Die Ortsgeschichte nennt aber einen kirchlichen Anlass: den Eucharistischen Weltkongress, ein Großtreffen der katholischen Kirche, 1960 in München. Richtig war 4.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Überruhr; Historisches Lexikon Bayerns",
-"faktencheck": "korrigiert",
-"id": "419-ueberruhr/v0.8/5",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Überruhr",
-"steckbrief": "Stadtteil von Essen mit rund 16.000 Einwohnern, 6 km südöstlich der Stadtmitte.",
-"frage": "Wann wurde Überruhr nach Essen eingemeindet?",
-"optionen": [
-"vor 1935",
-"1935 bis 1954",
-"1955 bis 1974",
-"1975 oder später"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Viele denken an die große Gebietsreform in Nordrhein-Westfalen, als zahlreiche Orte ihre Selbstständigkeit verloren. Überruhr gehört aber schon seit dem 1. August 1929 zu Essen. Richtig war 1.",
-"quelle": "dewiki Infobox",
+"rueckseite": "Du hattest [Option] getippt. Ludwig Kessing war ein Überruhrer Bergmann und Heimatdichter. Ein Bürgermeister oder Stifter liegt nahe, weil Parks oft nach Honoratioren heißen. Stattdessen ehrt der Stadtteil einen Mann aus dem Bergbau. Der hochgelegene Park mit Spielplatz ist Schauplatz zahlreicher Feste, also ein Treffpunkt des ganzen Stadtteils. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/ueberruhr_hinsel_/ueberruhr_hinsel_kultur_freizeit.de.html",
 "faktencheck": "bestätigt",
-"id": "419-ueberruhr/v0.8/6",
+"id": "419-ueberruhr/v0.9/1",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Mit der Fähre zur Kirche",
+"rang": 6,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Überruhr",
-"steckbrief": "Stadtteil von Essen mit rund 16.000 Einwohnern, 6 km südöstlich der Stadtmitte.",
-"frage": "Im Wappen von Überruhr steht ein silbernes Sonnenrad mit schwarzem Auge. Worauf weist es nach der Deutung des Wappens hin?",
+"steckbrief": "Stadtteil von Essen, 6 km südöstlich der Stadtmitte.",
+"frage": "Hinsel und Holthausen gehörten einst zum Damenstift Rellinghausen am anderen Ruhrufer. Wie kam man damals zum Stift hinüber?",
 "optionen": [
-"Es steht für das Seilrad eines Förderturms.",
-"Es weist auf germanische Bodenfunde im Ort hin.",
-"Es erinnert an die Räder der Pferdeeisenbahn.",
-"Es zeigt das Rad einer alten Wassermühle."
+"Man setzte mit einer Fähre über.",
+"Das Stift lag diesseits, ein Übergang war unnötig.",
+"Man watete durch eine Furt.",
+"Man ging über eine Brücke des Stifts."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Das Stift Rellinghausen lag auf der anderen Ruhrseite, deshalb musste man die Ruhr mit einer Fähre überqueren. Eine Brücke liegt nahe, weil man Flüsse heute meist über Brücken quert. Der Fluss trennte die Bauerschaften von ihrem Stift; die Stadt Essen leitet sogar den Namen Überruhr auch von dieser Überquerung ab. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/ueberruhr_hinsel_/ueberruhr_hinsel_geschichte.de.html",
+"faktencheck": "korrigiert",
+"id": "419-ueberruhr/v0.9/2",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Sicherheitshafen der Ruhrschiffer",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Überruhr",
+"steckbrief": "Stadtteil von Essen, 6 km südöstlich der Stadtmitte.",
+"frage": "Der ehemalige Holteyer Hafen an der Ruhr bot den Ruhrschiffen Schutz. Wozu suchten die Schiffer ihn auf?",
+"optionen": [
+"Dort hielt man Schiffe in Seuchen-Quarantäne.",
+"Dort warteten Schiffer Unwetter und Frost ab.",
+"Dort versteckten Schmuggler ihre Ladung vor Zöllnern.",
+"Dort lagen Schiffe vor Kriegsbeschlagnahme verborgen."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet denkt man bei einem Rad zuerst an den Förderturm. Das Zeichen heißt aber Kreuzschargen: ein heraldisches Sonnensymbol, als germanisches Zeichen glücksbringend und unheilabwehrend. Es weist auf germanische Bodenfunde hin. Der wellige Sparren verweist auf den alten Namen „Over Rore“. Richtig war 2.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Überruhr",
+"rueckseite": "Du hattest [Option] getippt. Im Holteyer Hafen fanden die Ruhrschiffe Schutz vor Unwettern, Frost und wechselnden Wasserständen. Ein Versteck vor Krieg oder Zoll liegt nahe, weil „Schutz“ nach Gefahr durch Menschen klingen kann; gemeint war die Gefahr durch Wetter und Fluss. Auf dem Treidelpfad zogen vor allem Pferde die Schiffe flussaufwärts. Heute paddeln dort Mitglieder des Turnerbundes, und Hafenbecken, Brücke und Treidelpfad stehen unter Denkmalschutz. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/ueberruhr_hinsel_/ueberruhr_hinsel_kultur_freizeit.de.html",
+"faktencheck": "korrigiert",
+"id": "419-ueberruhr/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Stadtteil auf einer Ruhrhalbinsel",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Überruhr",
+"steckbrief": "Stadtteil von Essen, 6 km südöstlich der Stadtmitte.",
+"frage": "Wie liegt Überruhr zur Ruhr?",
+"optionen": [
+"Die Ruhr fließt mitten durch den Ort.",
+"Die Ruhr umschließt den Ort als Insel.",
+"Der Ort liegt auf einer Halbinsel der Ruhr.",
+"Die Ruhr fließt nur im Norden vorbei."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Überruhr liegt auf einer Halbinsel: Die Ruhr umgibt den Stadtteil teilweise. Der Name lässt an einen Ort denken, durch den der Fluss fließt oder der bloß am Ufer liegt; tatsächlich legt sich die Ruhr um ihn herum. Die Lage über der Halbinsel nannte man auch Ruhrhöhen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/ueberruhr_hinsel_/ueberruhr_hinsel_geschichte.de.html",
+"faktencheck": "korrigiert",
+"id": "419-ueberruhr/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Wasseraufbereitung am Ortsrand",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Überruhr",
+"steckbrief": "Stadtteil von Essen, 6 km südöstlich der Stadtmitte.",
+"frage": "Im Ortsteil Hinsel liegt ein großes Areal. Wozu dient es?",
+"optionen": [
+"Dort wird Hausmüll zu Strom verbrannt.",
+"Dort wird Kohle aus Halden gewaschen.",
+"Dort schlägt ein Containerhafen an der Ruhr Waren um.",
+"Dort wird Trinkwasser gewonnen und aufbereitet."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In Hinsel liegt ein großes Areal zur Trinkwassergewinnung. Das Wasserwerk Essen-Überruhr betreibt die Wassergewinnung Essen, eine Tochter der Stadtwerke Essen und von Gelsenwasser. Müll, Kohle oder ein Hafen liegen nahe, weil man im Revier eher Industrie erwartet. Wasser prägt Überruhr also nicht nur als Fluss. Richtig war 4.",
+"quelle": "Gemeinde-Webseite (essen.de) und ZfK, zfk.de",
+"faktencheck": "korrigiert",
+"id": "419-ueberruhr/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Germanische Funde am Sonderfeld",
+"rang": 3,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Überruhr",
+"steckbrief": "Stadtteil von Essen, 6 km südöstlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Am Sonderfeld lag einst eine römische Siedlung.",
+"In Überruhr fand man Reste eines alten Rennofens.",
+"Eine Straße erinnert an germanische Bodenfunde."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gelogen ist die römische Siedlung: Die Funde am Sonderfeld weisen auf eine germanische Siedlung der Brukterer hin. Rom liegt nahe, weil man dort Keramik aus der römischen Rheinprovinz fand; sie zeugt vom Handel mit dem Römischen Reich. Im Rennofen gewann man Eisen aus Raseneisenerz der Ruhraue. Die Straße Bruktererhang erinnert an diese Funde. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite (essen.de) und LVR-KuLaDig, kuladig.de",
+"faktencheck": "korrigiert",
+"id": "419-ueberruhr/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Fläche des Stadtteils",
+"rang": 10,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Überruhr",
+"steckbrief": "Stadtteil von Essen, 6 km südöstlich der Stadtmitte.",
+"frage": "Wie groß ist die Fläche des Stadtteils Überruhr?",
+"optionen": [
+"unter 5 km²",
+"5 bis unter 10 km²",
+"10 bis unter 20 km²",
+"20 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Überruhr umfasst 6,72 Quadratkilometer. Viele schätzen weniger, weil man sich einen Stadtteil als dichtes Viertel vorstellt. Gut sechseinhalb Quadratkilometer sind für einen Stadtteil ein ordentliches Stück Stadt. Richtig war 2.",
+"quelle": "Wikidata P2046",
 "faktencheck": "bestätigt",
-"id": "419-ueberruhr/v0.8/7",
+"id": "419-ueberruhr/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Hinsel: Name vom stehenden Wasser",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Überruhr",
+"steckbrief": "Stadtteil von Essen, 6 km südöstlich der Stadtmitte.",
+"frage": "Ein Teil Überruhrs heißt Hinsel. Worauf weist nach der Ortsgeschichte die Endung „-sel“ hin?",
+"optionen": [
+"Sie steht für ein stehendes Gewässer.",
+"Sie steht für eine Brücke über die Ruhr.",
+"Sie steht für einen Weinberg am Hang.",
+"Sie steht für eine Mönchszelle, eine Klause."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Nach der Ortsgeschichte der Stadt Essen stand die Endung -sel im Altsächsischen für ein stehendes Gewässer; der Name weise auf eine Ansiedlung an einem solchen Wasser hin. Eine Brücke liegt nahe, weil Überruhr an der Ruhr liegt. Nach dieser Deutung steckt Wasser also schon im Namen des Ortsteils. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/ueberruhr_hinsel_/ueberruhr_hinsel_geschichte.de.html",
+"faktencheck": "korrigiert",
+"id": "419-ueberruhr/v0.9/8",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Kirche als Stahlbeton-Schale",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Überruhr",
+"steckbrief": "Stadtteil von Essen, 6 km südöstlich der Stadtmitte.",
+"frage": "Die Kirche St. Suitbert in Holthausen wurde 1963 bis 1966 gebaut. Wie ist sie gebaut?",
+"optionen": [
+"Sie ist aus Glas und Stahl errichtet.",
+"Sie ist ein Holzbau aus Fertigteilen.",
+"Sie ist ein umgebautes Zechengebäude.",
+"Ihr Dach ist eine dünne Schale aus Stahlbeton."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Architekt Josef Lehmbrock und der Ingenieur Stefan Polónyi bauten St. Suitbert mit einer doppelt gekrümmten Betonschale von nur vier Zentimetern Dicke. Glas und Stahl liegen nahe, weil man bei „modern“ an Glasfassaden denkt; hier lassen schmale, wandhohe Fenster das Licht herein. Seit 2019 steht die Kirche unter Denkmalschutz. Richtig war 4.",
+"quelle": "TU Dortmund, stadt-bauten-ruhr.tu-dortmund.de/en/?p=2963",
+"faktencheck": "korrigiert",
+"id": "419-ueberruhr/v0.9/9",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Pferdebahn von der Zeche zum Hafen",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Überruhr",
+"steckbrief": "Stadtteil von Essen, 6 km südöstlich der Stadtmitte.",
+"frage": "Die Zeche Mönkhoffsbank lag im Wichteltal. Womit war sie mit dem Holteyer Hafen verbunden?",
+"optionen": [
+"Ein Kanal führte vom Schacht zum Hafen.",
+"Eine Pferde-Eisenbahn verband Zeche und Hafen.",
+"Eine Seilbahn schwebte über das Tal.",
+"Lastwagen fuhren die Kohle über eine Straße."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. 1848 legte die Zeche mit der Nachbarzeche Charlotte eine Pferde-Eisenbahn durch das Wichteltal zur Ruhr an; am Holteyer Hafen hatte Mönkhoffsbank ihr Kohlenlager. Lastwagen gab es damals noch nicht, Pferde zogen die Wagen auf Schienen. Das Schachthaus aus Bruchstein steht heute unter Denkmalschutz. Richtig war 2.",
+"quelle": "LVR-KuLaDig, kuladig.de",
+"faktencheck": "korrigiert",
+"id": "419-ueberruhr/v0.9/10",
 "tisch": false
 }
 ],
 "anschluss_von": "418-kupferdreh",
 "anschluss": [
-"Luftlinie zur Essener Mitte: Überruhr 6 km, Kupferdreh 9 km."
+"Überruhr umfasst 6,72 Quadratkilometer, Kupferdreh deutlich mehr: 9,34.",
+"Überruhr liegt näher an der Essener Mitte als Kupferdreh."
 ],
 "anschluesse": {
 "198-muelheim": [
@@ -115134,11 +118961,34 @@ window.QA_DATEN = {
 "Kreisgrenze: Hattingen ist kreisfrei, Überruhr gehört zum Landkreis Stadtkreis Essen."
 ],
 "418-kupferdreh": [
-"Luftlinie zur Essener Mitte: Überruhr 6 km, Kupferdreh 9 km."
+"Überruhr umfasst 6,72 Quadratkilometer, Kupferdreh deutlich mehr: 9,34.",
+"Überruhr liegt näher an der Essener Mitte als Kupferdreh."
 ]
 },
 "ags": "05113000",
 "ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Essener Stadtteil 6 km südöstlich der Mitte, auf einer Ruhrhalbinsel, 6,72 Quadratkilometer, mit Schutzgebiet Heisinger Ruhraue."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Seit 1929 gehört Überruhr zu Essen; Hinsel und Holthausen gehörten einst zum Stift Rellinghausen."
+},
+{
+"facette": "ALLTAG",
+"text": "Früher prägten Zechen und Ruhrschiffer den Ort, heute grenzt eine große Wasseraufbereitungsanlage an."
+},
+{
+"facette": "FREIZEIT",
+"text": "Ruhrtalradweg, Hardenberger Weg, Aussichtspunkt Ruhrblick, Ludwig-Kessing-Park, Turnerbund, Schachverein und Blau-Gelb Überruhr."
+},
+{
+"facette": "INFRA",
+"text": "S-Bahn-Linie S9 mit Bahnhof Essen-Überruhr, Postleitzahl 45277, Gymnasium, Realschule und drei Grundschulen."
+}
+],
 "km_vom_vorigen": 3.8
 },
 {
@@ -115148,189 +118998,170 @@ window.QA_DATEN = {
 "lon": 7.04444,
 "karten": [
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Grenzlinde mit eigener Redewendung",
+"rang": 1,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Bergerhausen",
-"steckbrief": "Essener Stadtteil mit rund 11.500 Einwohnern, 3 km südöstlich der Essener Stadtmitte.",
-"frage": "Im heutigen Bergerhausen lag die Zeche Kunstwerk. Woher hatte sie vermutlich ihren Namen?",
+"steckbrief": "Bergerhausen, Essener Stadtteil mit gut 11.000 Einwohnern, 3 km südöstlich der Stadtmitte.",
+"frage": "Eine Redewendung lautet: „Du bist noch lange nicht am Krausen Bäumchen.“ Was bedeutete sie ursprünglich?",
 "optionen": [
-"Ein Kunstmaler gehörte zu ihren ersten Teilhabern.",
-"Ihr Gründer trug den Familiennamen Kunst.",
-"Gemeint war wohl eine mechanische Fördereinrichtung.",
-"Bergleute schmückten ihre Stollen mit Bildern."
+"Ein Pilger hatte sein Ziel noch nicht erreicht.",
+"Ein Bergmann hatte noch lange keinen Feierabend.",
+"Ein Flüchtiger war noch auf Essener Boden.",
+"Ein Fuhrmann war noch weit vom Gasthaus entfernt."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Heute denkt man bei Kunst an Malerei und Bilder, deshalb liegt ein Künstler als Namensgeber nahe. In der alten Bergmannssprache hieß aber auch eine Maschine Kunst, etwa eine Wasserkunst zum Heben von Grubenwasser. Der Name meint wohl eine mechanische Fördereinrichtung dieses Namens. Richtig war 3.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Bergerhausen_(Essen)",
+"rueckseite": "Du hattest [Option] getippt. Die Wendung klingt nach einem weiten Weg, daher liegt der Pilger nahe. Ursprünglich hieß sie: Ein Flüchtiger war noch auf Essener Boden und unterstand der Gerichtsbarkeit des Stiftes. Erst jenseits der Linde, des Krausen Bäumchens, war er über die Grenze nach Rellinghausen und damit frei. Ein Blitz zerstörte den alten Baum, ein Kreuz erinnert daran, und eine neue Linde wurde gepflanzt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/bergerhausen_/bergerhausen_kultur_freizeit.de.html; OpenStreetMap",
 "faktencheck": "korrigiert",
-"id": "420-bergerhausen/v0.8/1",
+"id": "420-bergerhausen/v0.9/1",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "FREIZEIT",
+"charakteristikum": "sportlicher Stadtteil mit Kleingärten",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
 "ort": "Bergerhausen",
-"steckbrief": "Essener Stadtteil mit rund 11.500 Einwohnern, 3 km südöstlich der Essener Stadtmitte.",
-"frage": "Wie groß ist die Fläche des Stadtteils Bergerhausen?",
+"steckbrief": "Bergerhausen, Stadtteil im Südosten von Essen, 3 km von der Stadtmitte, gut 11.000 Einwohner.",
+"frage": "Auf ihrer Stadtteilseite schreibt die Stadt Essen Bergerhausen einen Charakter zu. Welchen?",
 "optionen": [
-"unter 1 km²",
-"1 bis unter 2 km²",
-"2 bis unter 3 km²",
-"3 km² und mehr"
+"Bergerhausen ist ein Künstlerviertel.",
+"Bergerhausen ist ein Studentenviertel.",
+"Bergerhausen ist ein Ausgehviertel.",
+"Bergerhausen ist ein sportlicher Stadtteil."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Bei einem Stadtteil so nah an der Stadtmitte schätzt man die Fläche leicht zu klein ein. Bergerhausen umfasst aber 3,34 Quadratkilometer. Richtig war 4.",
-"quelle": "Wikidata P2046",
-"faktencheck": "bestätigt",
-"id": "420-bergerhausen/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Bergerhausen",
-"steckbrief": "Essener Stadtteil mit rund 11.500 Einwohnern, 3 km südöstlich der Essener Stadtmitte.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Die Zeche Henriettenglück förderte erst Eisenstein, dann Anthrazit.",
-"Die Ruhrallee teilt den Stadtteil in zwei Hälften.",
-"Eine denkmalgeschützte Montagehalle wurde zur Markthalle umgebaut."
-],
-"art": "luege",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Eine Halle mit Glasdach lässt an Markt oder Veranstaltungen denken. Die denkmalgeschützte Montagehalle der Eisenhütte Westfalia Dinnendahl wurde nach langem Leerstand aber zu Loftwohnungen ausgebaut. Die Zeche Henriettenglück ging tatsächlich schon 1799 in Betrieb, und die Ruhrallee teilt den Stadtteil in der Mitte. Die Lüge war 3.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Bergerhausen_(Essen)",
+"rueckseite": "Du hattest [Option] getippt. Mitten in der Großstadt denkt man eher an Kneipen, Ateliers oder Studierende. Die Stadt Essen nennt Bergerhausen aber einen sportlichen Stadtteil und verweist auf mehrere Fitnessstudios. Außerdem hebt sie die hohe Zahl an Kleingartenvereinen und die außergewöhnlich gute Verkehrsanbindung hervor. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/bergerhausen_/bergerhausen_startseite.de.jsp",
 "faktencheck": "korrigiert",
-"id": "420-bergerhausen/v0.8/3",
+"id": "420-bergerhausen/v0.9/2",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Bergerhausen",
-"steckbrief": "Essener Stadtteil mit rund 11.500 Einwohnern, 3 km südöstlich der Essener Stadtmitte.",
-"frage": "Bundestagswahl 2025, Zweitstimmen in ganz Essen: Welchen Anteil holte die stärkste Partei?",
-"optionen": [
-"unter 25 %",
-"25 bis unter 30 %",
-"30 bis unter 35 %",
-"35 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Wer an die früheren Volksparteien denkt, erwartet leicht einen höheren Wert. Die Stimmen verteilten sich aber breit: In ganz Essen wurde die CDU mit 26,5 Prozent stärkste Partei. Die Zahl gilt für die ganze Stadt, nicht für Bergerhausen allein. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "420-bergerhausen/v0.8/4",
-"tisch": false
-},
-{
+"facette": "LAGE",
+"charakteristikum": "Ruhrallee teilt Ober- und Unterbergerhausen",
+"rang": 5,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Bergerhausen",
-"steckbrief": "Essener Stadtteil mit rund 11.500 Einwohnern, 3 km südöstlich der Essener Stadtmitte.",
-"frage": "Der Essener Stadtteil Bergerhausen führt ein eigenes Wappen mit Haus, Dreiberg, Schlägel und Eisen. Woher stammt es?",
+"steckbrief": "Bergerhausen, Essener Stadtteil mit gut 11.000 Einwohnern, 3 km südöstlich der Stadtmitte.",
+"frage": "Bergerhausen teilt sich in Ober- und Unterbergerhausen. Was trennt die beiden Teile?",
 "optionen": [
-"Es geht auf ein altes Gerichtssiegel zurück.",
-"Ein Bergmannsverein stiftete es dem Stadtteil.",
-"Ein Heraldiker entwarf es für alle Essener Stadtteile.",
-"Es stammt von einem Adelsgeschlecht des Ortes."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Schlägel und Eisen sehen aus wie ein altes Bergmannszeichen, daher liegt ein Bergmannsverein nahe. Das Wappen ist aber jünger: Der Heraldiker Kurt Schweder entwarf Ende der 1980er-Jahre nicht amtliche Wappen für alle Essener Stadtteile. Das Haus auf dem Berg steht für den Namen, Schlägel und Eisen erinnern an früheren Eisenerz- und Steinkohlenbergbau. Richtig war 3.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Bergerhausen_(Essen)",
-"faktencheck": "korrigiert",
-"id": "420-bergerhausen/v0.8/5",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Bergerhausen",
-"steckbrief": "Essener Stadtteil mit rund 11.500 Einwohnern, 3 km südöstlich der Essener Stadtmitte.",
-"frage": "Bergerhausen gehört heute zur Stadt Essen. Wann wurde es eingemeindet?",
-"optionen": [
-"vor 1880",
-"1880 bis 1894",
-"1895 bis 1904",
-"1905 oder später"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. So nah an der Stadtmitte liegt eine frühe Eingemeindung nahe, zumal die Stadt im Industriezeitalter rasch wuchs. Bergerhausen kam aber erst am 1. April 1910 zu Essen. Richtig war 4.",
-"quelle": "dewiki Infobox",
-"faktencheck": "bestätigt",
-"id": "420-bergerhausen/v0.8/6",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Bergerhausen",
-"steckbrief": "Essener Stadtteil mit rund 11.500 Einwohnern, 3 km südöstlich der Essener Stadtmitte.",
-"frage": "Nahe Bergerhausen lag mehrere Jahrzehnte lang die Europa-Zentrale von Coca-Cola. Wohin wurde sie Mitte der 1990er-Jahre verlagert?",
-"optionen": [
-"Sie zog nach Berlin.",
-"Sie zog nach Frankfurt am Main.",
-"Sie zog nach Hamburg.",
-"Sie zog nach München."
+"Die Ruhrallee trennt die beiden Teile.",
+"Die Autobahn A 52 trennt die beiden Teile.",
+"Das Siepental trennt die beiden Teile.",
+"Die Bahntrasse des Grugawegs trennt die Teile."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Frankfurt liegt nahe, weil dort viele Konzerne und Banken sitzen. Die deutsche Zentrale von Coca-Cola, 1929 in Essen gegründet, zog Anfang der 2000er-Jahre aber nach Berlin in die Friedrichstraße. Richtig war 1.",
-"quelle": "Tagesspiegel, tagesspiegel.de/wirtschaft/coca-cola-zieht-nach-berlin-952990.html",
+"rueckseite": "Du hattest [Option] getippt. „Ober“ und „Unter“ klingen nach Hang und Tal, darum liegt das Siepental nahe. Die Grenze zieht aber eine Straße: Getrennt durch die Ruhrallee teilt sich Bergerhausen in Ober- und Unterbergerhausen. Wer sie entlangfährt, hat auf beiden Seiten Teile desselben Stadtteils. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/bergerhausen_/bergerhausen_startseite.de.jsp",
 "faktencheck": "korrigiert",
-"id": "420-bergerhausen/v0.8/7",
+"id": "420-bergerhausen/v0.9/3",
 "tisch": false
 },
 {
+"facette": "ALLTAG",
+"charakteristikum": "Dampfmaschinenfabrik, heute Loftwohnungen",
+"rang": 2,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Bergerhausen",
-"steckbrief": "Essener Stadtteil mit rund 11.500 Einwohnern, 3 km südöstlich der Essener Stadtmitte.",
-"frage": "Die katholische Kirche St. Raphael in Unterbergerhausen wurde 2009 geschlossen. Was entstand danach dort?",
+"steckbrief": "Bergerhausen, Stadtteil 3 km südöstlich der Essener Stadtmitte, gut 11.000 Einwohner.",
+"frage": "Der Name „Kunstwerkerhütte“ klingt nach Künstlern. Was war die Kunstwerkerhütte in Bergerhausen ursprünglich?",
 "optionen": [
-"Dort entstand eine Kletterhalle.",
-"Dort entstand ein Mehrgenerationenkomplex.",
-"Dort entstand ein Kolumbarium für Urnen.",
-"Dort entstand ein Supermarkt."
+"Sie war eine Werkstatt für Bildhauer.",
+"Sie war eine Gießerei mit Maschinenfabrik.",
+"Sie war eine Glashütte für Kirchenfenster.",
+"Sie war eine Wanderhütte eines Heimatvereins."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Viele aufgegebene Kirchen werden Urnenkirchen, deshalb liegt ein Kolumbarium nahe. Nachgenutzt wurde der Standort aber als Mehrgenerationenkomplex, eine Anlage für Jung und Alt. Die Orgel ging an eine Duisburger Pfarrei und wurde in Huckingen eingebaut. Richtig war 2.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Bergerhausen_(Essen)",
-"faktencheck": "unsicher",
-"id": "420-bergerhausen/v0.8/8",
+"rueckseite": "Du hattest [Option] getippt. Der Name lockt zu den Künstlern, doch hier entstanden Maschinen. Der Industrielle Franz Dinnendahl ließ in Bergerhausen eine Gießerei mit Maschinenfabrik bauen. Sie lieferte vor allem für den Bergwerks- und Hüttenbedarf, unter anderem Dampfmaschinen und Grubenventilatoren. Inzwischen ist die Halle zu Loftwohnungen umgebaut, und der Gebäudebestand steht unter Denkmalschutz. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/bergerhausen_/bergerhausen_kultur_freizeit.de.html",
+"faktencheck": "korrigiert",
+"id": "420-bergerhausen/v0.9/4",
 "tisch": false
 },
 {
+"facette": "INFRA",
+"charakteristikum": "Verkehrsknoten an Ruhrallee und A 52",
+"rang": 7,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bergerhausen",
+"steckbrief": "Bergerhausen, Essener Stadtteil mit gut 11.000 Einwohnern, 3 km südöstlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Bergerhausen hat einen direkten Anschluss an eine Autobahn.",
+"Die Ruhrallee ist selbst ein Teilstück einer Autobahn.",
+"Die Stadt Essen nennt die Verkehrsanbindung von Bergerhausen außergewöhnlich gut."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Autobahn liegt nahe: An der Anschlussstelle Essen-Bergerhausen hat der Stadtteil direkten Zugang zur A 52. Die Ruhrallee aber ist Teil der Bundesstraße 227. Die Stadt nennt die Verkehrsanbindung außergewöhnlich gut; wer hier vorbeifährt, ist oft schon mittendrin. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/bergerhausen_/bergerhausen_startseite.de.jsp; Landtag NRW, Drucksache 16/5506",
+"faktencheck": "korrigiert",
+"id": "420-bergerhausen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "kompakter Stadtteil nahe der Mitte",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bergerhausen",
+"steckbrief": "Bergerhausen, Essener Stadtteil mit gut 11.000 Einwohnern, 3 km südöstlich der Stadtmitte.",
+"frage": "Wie groß ist die Fläche des Stadtteils Bergerhausen?",
+"optionen": [
+"unter 4 km²",
+"4 bis unter 7 km²",
+"7 bis unter 12 km²",
+"12 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Großstadt wie Essen schätzt man auch ihre Stadtteile schnell größer. Tatsächlich misst Bergerhausen nur 3,34 Quadratkilometer. Für einen Stadtteil drei Kilometer vor der Essener Mitte ist das kompakt: Man durchquert ihn in wenigen Minuten. Richtig war 1.",
+"quelle": "GRUNDDATEN, Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "420-bergerhausen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Seniorenheim im alten Hof, mit Alpakas",
+"rang": 4,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Bergerhausen",
-"steckbrief": "Essener Stadtteil mit rund 11.500 Einwohnern, 3 km südöstlich der Essener Stadtmitte.",
-"frage": "Was markierte das Wegekreuz an der Ecke Am Krausen Bäumchen/Weserstraße?",
+"steckbrief": "Bergerhausen, Essener Stadtteil mit gut 11.000 Einwohnern, 3 km südöstlich der Stadtmitte.",
+"frage": "Der Schürmannhof erinnert an Bergerhausens bäuerliche Vergangenheit. Was ist er heute?",
 "optionen": [
-"Es markierte die Stelle eines Grubenunglücks.",
-"Es markierte ein Grab aus der Pestzeit.",
-"Es markierte den Weg zur nächsten Zeche.",
-"Es markierte eine Grenze der Gerichtsbarkeit."
+"Er ist heute ein Reiterhof mit Ponys.",
+"Er ist heute ein Hofladen mit Ziegen.",
+"Er ist heute ein Seniorenheim mit Alpakas.",
+"Er ist heute eine Jugendherberge mit Streichelzoo."
 ],
 "art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. In einem Bergbauort liegt ein Gedenkkreuz für verunglückte Bergleute nahe. Das Kreuz markierte aber die Grenze zum Rellinghauser Stift, eine Gerichtsbarkeitsgrenze: Jenseits davon galt eine andere Rechtsprechung. Richtig war 4.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Bergerhausen_(Essen)",
-"faktencheck": "unsicher",
-"id": "420-bergerhausen/v0.8/9",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Reiterhof liegt nahe, so leben alte Höfe in Städten oft weiter. Der Schürmannhof wurde nach dem Verkauf aber zu einem Wohnheim für Senioren umgestaltet; die alte Fassade blieb erhalten. Zu den Bewohnern zählen auch Alpakas. Die Stadt nennt ihn das letzte Bauwerk in Bergerhausen, das an die Landwirtschaft erinnert – ein Hof mit Tieren, nur anders, als man denkt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/bergerhausen_/bergerhausen_kultur_freizeit.de.html",
+"faktencheck": "korrigiert",
+"id": "420-bergerhausen/v0.9/8",
 "tisch": false
 }
 ],
 "anschluss_von": "419-ueberruhr",
 "anschluss": [
-"Fläche: Überruhr ist etwa doppelt so groß wie Bergerhausen.",
-"Nachbarn: Bergerhausen grenzt im Osten an Überruhr-Hinsel."
+"Überruhr ist flächenmäßig etwa doppelt so groß wie Bergerhausen.",
+"Bergerhausen grenzt im Osten an Überruhr-Hinsel."
 ],
 "anschluesse": {
 "197-duisburg": [
@@ -115365,12 +119196,34 @@ window.QA_DATEN = {
 "Kreisgrenze: Hattingen ist kreisfrei, Bergerhausen gehört zum Landkreis Stadtkreis Essen."
 ],
 "419-ueberruhr": [
-"Fläche: Überruhr ist etwa doppelt so groß wie Bergerhausen.",
-"Nachbarn: Bergerhausen grenzt im Osten an Überruhr-Hinsel."
+"Überruhr ist flächenmäßig etwa doppelt so groß wie Bergerhausen.",
+"Bergerhausen grenzt im Osten an Überruhr-Hinsel."
 ]
 },
 "ags": "05113000",
 "ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Essener Stadtteil 3 km südöstlich der Stadtmitte, 3,34 Quadratkilometer groß, im Südosten reicht er bis an die Ruhr."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals als „Bergarahuson“ erwähnt, vorher zu Steele und Rellinghausen, seit dem 1. April 1910 Teil von Essen."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 11.500 Einwohner, dichte Wohnbebauung mit Grün, Gewerbegebiete Zeche Ludwig und Ruhrallee; früher Zechen wie Kunstwerk."
+},
+{
+"facette": "FREIZEIT",
+"text": "Ruhrtalradweg, Grugaweg, Hardenberger Weg, Aussichtspunkt Fünfkirchenblick und das Siepental mit Hundewiesen ohne Leinenzwang."
+},
+{
+"facette": "INFRA",
+"text": "Direkter Anschluss an die A 52, Ruhrallee als Teil der B 227, Straßenbahn 105, Betriebshof der Ruhrbahn."
+}
+],
 "km_vom_vorigen": 2.6
 },
 {
@@ -115380,169 +119233,193 @@ window.QA_DATEN = {
 "lon": 7.04889,
 "karten": [
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Rellinghausen",
-"steckbrief": "Rellinghausen hat rund 3.500 Einwohner und liegt 4 km südöstlich der Essener Stadtmitte.",
-"frage": "Wie groß ist die Fläche des Stadtteils Rellinghausen?",
-"optionen": [
-"unter 0,5 km²",
-"0,5 bis unter 1 km²",
-"1 bis unter 2 km²",
-"2 km² und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein Ortsteil mit eigener Geschichte klingt nach viel Fläche, und Großstadtteile werden leicht überschätzt. Rellinghausen misst aber nur 1,4 Quadratkilometer. Richtig war 3.",
-"quelle": "Wikidata P2046",
-"faktencheck": "bestätigt",
-"id": "421-rellinghausen/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Rellinghausen",
-"steckbrief": "Rellinghausen hat rund 3.500 Einwohner und liegt 4 km südöstlich der Essener Stadtmitte.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Der blaue Wellenbalken im Wappen steht für Bergbau.",
-"Die Zinsen einer Schulstiftung gingen an den Dorflehrer.",
-"Ein Adliger ließ einer Zeche den Dampfbetrieb verbieten."
-],
-"art": "luege",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Bergbau läge nahe, denn hier gab es Zechen. Doch der blaue Wellenbalken, ein gewellter Schrägstreifen, deutet die Lage an der Ruhr an; das rote Kreuz steht für das einstige adelige Damenstift. Wahr sind die Lehrerzinsen aus einer Schulstiftung und das Dampfverbot, das ein Adliger vor Gericht durchsetzte. Die Lüge war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Rellinghausen",
-"faktencheck": "unsicher",
-"id": "421-rellinghausen/v0.8/3",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Rellinghausen",
-"steckbrief": "Rellinghausen, rund 3.500 Einwohner, ist ein Stadtteil 4 km südöstlich der Essener Stadtmitte.",
-"frage": "Bundestagswahl 2025, Zweitstimmen in der ganzen Stadt Essen: Welche Partei wurde dort zweitstärkste Kraft?",
-"optionen": [
-"SPD",
-"CDU",
-"AfD",
-"GRÜNE"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Wer die SPD in Essen vorn vermutet, liegt knapp daneben: Stärkste Partei wurde die CDU mit 26,5 Prozent, die SPD folgte mit 22,2 Prozent auf Platz zwei. Die Zahlen gelten für die ganze Stadt Essen. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "421-rellinghausen/v0.8/4",
-"tisch": false
-},
-{
+"facette": "ALLTAG",
+"charakteristikum": "Zeche vertrieb die Schlossherren",
+"rang": 1,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Rellinghausen",
-"steckbrief": "Der Stadtteil Rellinghausen hat rund 3.500 Einwohner und liegt 4 km südöstlich der Essener Stadtmitte.",
-"frage": "1516 entstand im heutigen Annental eine hölzerne Kapelle, Vorläuferin der St.-Annen-Kapelle. Was war der Anlass?",
+"steckbrief": "Stadtteil von Essen mit rund 3.600 Einwohnern, 4 km südöstlich der Stadtmitte.",
+"frage": "Die Adelsfamilie von Schloss Schellenberg zog nach Generationen aus Rellinghausen weg. Welchen Grund nennt die Ortsgeschichte?",
 "optionen": [
-"Ein Bauer stiftete sie nach einer Viehseuche.",
-"Gestohlene Hostien waren dort im Tal wiedergefunden worden.",
-"Eine Stiftsdame ließ sie als ihre Grabkapelle bauen.",
-"Ein Kind sah dort eine Erscheinung der Anna."
+"Die Familie war ausgestorben, das Schloss verwaist.",
+"Sie ärgerte sich über eine Zeche nebenan.",
+"Die Stadt Essen enteignete das Schloss.",
+"Ein Brand hatte das Schloss unbewohnbar gemacht."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Eine Erscheinung der Anna liegt nahe, denn die Kapelle trägt ihren Namen. Doch Anlass war ein Frevel: 1516 stahlen Diebe nach dem Festgottesdienst zum Jakobustag das Hostiengefäß aus der Stiftskirche. Als sie sich verfolgt glaubten, schütteten sie die Hostien in ein Dornengestrüpp. Dort fand man sie am nächsten Tag, dem Annenfest. Zur Sühne entstand eine Fachwerkkapelle. Richtig war 2.",
-"quelle": "LVR / KuLaDig, kuladig.de/Objektansicht/KLD-261848",
+"rueckseite": "Du hattest [Option] getippt. Bei einem Adelsauszug denkt man an ein Erbe ohne Erben oder an Schulden. Hier aber war es Ärger über den Bau der Zeche Gottfried Wilhelm in unmittelbarer Nähe des Schlosses. Die Familie zog nach Schloss Kalbeck bei Goch und ließ sich doch weiter in Rellinghausen bestatten. Mit den Zechen Ludwig, Langenbrahm und Gottfried Wilhelm begann hier die Zeit der Großzechen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_geschichte.de.html",
 "faktencheck": "korrigiert",
-"id": "421-rellinghausen/v0.8/5",
+"id": "421-rellinghausen/v0.9/1",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Rellinghausen",
-"steckbrief": "Rellinghausen hat rund 3.500 Einwohner und liegt 4 km südöstlich der Essener Stadtmitte.",
-"frage": "In welchem Zeitraum wurde Rellinghausen in die Stadt Essen eingemeindet?",
-"optionen": [
-"vor 1850",
-"1850 bis 1899",
-"1900 bis 1929",
-"1930 oder später"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. So nah an der Essener Stadtmitte erwartet man leicht einen frühen Anschluss, andere vermuten eine Gebietsreform der Nachkriegszeit. Eingemeindet wurde Rellinghausen am 1. April 1910. Richtig war 3.",
-"quelle": "dewiki Infobox",
-"faktencheck": "bestätigt",
-"id": "421-rellinghausen/v0.8/6",
-"tisch": false
-},
-{
+"facette": "GESCHICHTE",
+"charakteristikum": "Hexenturm mit Polizisten-Spitznamen",
+"rang": 2,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Rellinghausen",
-"steckbrief": "Rellinghausen hat rund 3.500 Einwohner und liegt 4 km südöstlich der Essener Stadtmitte.",
-"frage": "Im November 1225 wurde der Kölner Erzbischof Engelbert von Berg von Friedrich von Isenberg ermordet. Was nennt die Ortsgeschichte als Auslöser?",
+"steckbrief": "Essener Stadtteil mit rund 3.600 Einwohnern, 4 km südöstlich der Stadtmitte.",
+"frage": "Im Rellinghauser Gerichtsturm wurden einst Hexenprozesse geführt. Heute heißt er Blücherturm. Woher hat er diesen Namen?",
 "optionen": [
-"Friedrich wollte auf der Ruhr Zölle erheben.",
-"Engelbert hatte Friedrichs Bruder hinrichten lassen.",
-"Friedrich forderte die Hand von Engelberts Nichte.",
-"Es ging um einträgliche Vogteien, darunter Rellinghausen."
+"Marschall Blücher soll hier übernachtet haben.",
+"Eine Familie von Blücher besaß ihn.",
+"Sein letzter Bewohner sah Blücher ähnlich.",
+"Blüchers Soldaten hielten darin Gefangene fest."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name lässt an den Feldmarschall selbst denken, als hätte er hier Station gemacht. Dahinter steckt aber ein Spitzname: Der letzte Bewohner, ein Polizist, sah Blücher ähnlich. Zuvor war der Turm Gerichtsturm, Gefängnis und Folterkammer und Schauplatz von Hexenprozessen. Wer die Straße Am Stift entlangfährt, sieht mitten im dörflichen Ortskern einen Bau mit düsterer Geschichte. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_kultur_freizeit.de.html",
+"faktencheck": "bestätigt",
+"id": "421-rellinghausen/v0.9/2",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Prozession wegen gestohlener Hostien",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rellinghausen",
+"steckbrief": "Stadtteil von Essen mit rund 3.600 Einwohnern, 4 km südöstlich der Stadtmitte.",
+"frage": "Im Sankt Annental steht eine Kapelle, von der jedes Jahr eine Prozession zur Lambertuskirche zieht. Woran erinnert die Kapelle?",
+"optionen": [
+"An das Ende einer Pestseuche.",
+"An die Rettung vor einem Ruhrhochwasser.",
+"An einen Brand, der das Dorf verschonte.",
+"An geraubte Hostien, die ein Schäfer fand."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Zölle liegen nahe, um solche Rechte stritt der Adel oft. Auslöser waren aber Besitzrechte an den einträglichen Vogteien Werden, Essen und Rellinghausen. Ein Vogt war weltlicher Schutzherr eines Stifts oder Klosters. Ob der Streit eskalierte oder der Mord geplant war, ist unklar. Friedrich kostete die Tat später den Kopf. Richtig war 4.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Rellinghausen",
-"faktencheck": "unsicher",
-"id": "421-rellinghausen/v0.8/7",
+"rueckseite": "Du hattest [Option] getippt. Pest- oder Hochwasserprozessionen kennt man aus vielen Orten, deshalb liegt der Gedanke nahe. In Rellinghausen geht es um einen Hostienraub: Ein Schäfer fand das Gefäß mit den geweihten Hostien im Dornenstrauch am Rellinghauser Mühlenbach. Daran erinnert die Sankt Annen-Kapelle im Sankt Annental, Startpunkt des Zuges. Seit Jahrhunderten verbindet dieser Brauch Kapelle und Kirche des kleinen Stadtteils. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_kultur_freizeit.de.html; www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_geschichte.de.html",
+"faktencheck": "korrigiert",
+"id": "421-rellinghausen/v0.9/3",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "Ruhrwellen im Wappen",
+"rang": 5,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Rellinghausen",
-"steckbrief": "Rellinghausen hat rund 3.500 Einwohner und liegt 4 km südöstlich der Essener Stadtmitte.",
-"frage": "Die heutige Dorfschenke an der Frankenstraße stifteten Cord und Bathe von Vittinghoff-Schell. Wofür war das Haus ursprünglich gedacht?",
+"steckbrief": "Stadtteil von Essen mit rund 3.600 Einwohnern, 4 km südöstlich der Stadtmitte.",
+"frage": "Im Rellinghauser Wappen liegen blaue Wellenbalken. Wofür stehen sie?",
 "optionen": [
-"Es war als Brauhaus des Stifts gedacht.",
-"Es war als Jagdhaus der Schlossherren gedacht.",
-"Es sollte Arme, Gebrechliche und Pilger aufnehmen.",
-"Es war als Witwensitz der Stifterin gedacht."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein Brauhaus liegt nahe, weil das Haus heute eine Schenke ist. Gestiftet wurde es aber für Arme, Gebrechliche und Pilger, auf dem Grund von Schloss Schellenberg. Richtig war 3.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Rellinghausen",
-"faktencheck": "unsicher",
-"id": "421-rellinghausen/v0.8/8",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Rellinghausen",
-"steckbrief": "Rellinghausen hat rund 3.500 Einwohner und liegt 4 km südöstlich der Essener Stadtmitte.",
-"frage": "Der Blücherturm am Stiftsplatz wurde als Gerichtsturm gebaut. Woher hat er seinen heutigen Namen?",
-"optionen": [
-"Der letzte Bewohner, ein Polizist, sah Blücher ähnlich.",
-"Marschall Blücher übernachtete auf einem Feldzug darin.",
-"Ein Wirt namens Blücher kaufte den Turm.",
-"Gefangene Franzosen nannten ihn nach Blücher."
+"Für die Lage des Orts an der Ruhr.",
+"Für den Rellinghauser Mühlenbach.",
+"Für die Quellen im Sankt Annental.",
+"Für die Emscher als alte Grenze."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein Besuch des Feldmarschalls liegt nahe, so entstehen viele Gedenknamen. Doch es war ein Spitzname: Der letzte Bewohner, ein Polizist, ähnelte dem berühmten Marschall von Blücher und war in Rellinghausen als Blücher bekannt. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Rellinghausen",
-"faktencheck": "unsicher",
-"id": "421-rellinghausen/v0.8/9",
+"rueckseite": "Du hattest [Option] getippt. Wellen im Wappen könnten auch für einen Bach im Ort stehen, etwa den Mühlenbach. Die Stadt Essen nennt aber die Ruhr: Rellinghausen liegt im Südosten Essens an dem Fluss, und die Lage lädt zum Radfahren ein, ebenso die ehemaligen Bahntrassen. Wer hier vorbeifährt, ist dem Fluss nahe, der dem ganzen Revier den Namen gibt. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_geschichte.de.html; www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_kultur_freizeit.de.html",
+"faktencheck": "korrigiert",
+"id": "421-rellinghausen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "adliges Frauenstift prägte den Ort",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rellinghausen",
+"steckbrief": "Stadtteil von Essen mit rund 3.600 Einwohnern, 4 km südöstlich der Stadtmitte.",
+"frage": "Über 800 Jahre prägte ein Frauenstift die Geschicke Rellinghausens. Für wen war es gegründet worden?",
+"optionen": [
+"Für Mädchen aus armen Bauernfamilien.",
+"Für Töchter des Dienstadels.",
+"Für Nonnen eines strengen Bettelordens.",
+"Für Töchter reicher Kaufmannsfamilien."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Stift denkt man schnell an Nonnen hinter Klostermauern. Das Rellinghauser Frauenstift aber war für Töchter des Dienstadels bestimmt; gegründet hat es laut Überlieferung die Essener Äbtissin Mathilde, an seiner Spitze stand eine Pröpstin. Eine Mauer umschloss Stiftskirche und Stiftshäuser. Das Stift ist längst aufgelöst, doch Straßennamen wie Am Stift und Stiftplatz tragen seinen Namen weiter. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_geschichte.de.html; www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_kultur_freizeit.de.html",
+"faktencheck": "korrigiert",
+"id": "421-rellinghausen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "erhaltene Altbauten mit wechselnder Geschichte",
+"rang": 8,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Rellinghausen",
+"steckbrief": "Stadtteil von Essen mit rund 3.600 Einwohnern, 4 km südöstlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Alte Dorfschänke begann als Hospiz für Arme.",
+"Das Alte Stiftshaus war einst Konventsgebäude des Stifts.",
+"Schloss Schellenberg entstand als Sommerhaus des Stifts."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Armenhospiz als Ursprung der Dorfschänke klingt erfunden, stimmt aber: Cord von Vittinghoff-Schell und seine Frau stifteten es für Arme, Pilger und wandernde Scholaren. Gelogen war das Schloss: Es wurde schon im Mittelalter als Burg erwähnt und war später ein steinerner Wohnturm, von Wasser umschlossen. Hospiz, Stiftshaus und Schloss zeigen, was die Stadt an Rellinghausen hervorhebt: einen reichen Bestand an erhaltenen Baudenkmälern. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_kultur_freizeit.de.html; www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_geschichte.de.html",
+"faktencheck": "korrigiert",
+"id": "421-rellinghausen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "winziger Stadtteil mit viel Geschichte",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rellinghausen",
+"steckbrief": "Stadtteil von Essen an der Ruhr mit rund 3.600 Einwohnern, 4 km südöstlich der Stadtmitte.",
+"frage": "Wie groß ist die Fläche des Stadtteils Rellinghausen?",
+"optionen": [
+"8 km² und mehr",
+"4 bis unter 8 km²",
+"2 bis unter 4 km²",
+"unter 2 km²"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Schloss, Stift und Zechen lassen einen größeren Ort vermuten. Rellinghausen misst aber nicht einmal 1,5 Quadratkilometer und gehört nach Angabe der Stadt zu den kleinsten Stadtteilen Essens. Hier leben knapp 3.600 Menschen, in gehobener Wohnlage mit dörflichem Flair. Richtig war 4.",
+"quelle": "Wikidata P2046; Einordnung und Einwohnerzahl: Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_statistik.de.html",
+"faktencheck": "korrigiert",
+"id": "421-rellinghausen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Kunsthaus für junge Kunst",
+"rang": 7,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Rellinghausen",
+"steckbrief": "Stadtteil von Essen mit rund 3.600 Einwohnern, 4 km südöstlich der Stadtmitte.",
+"frage": "Welches dieser vier Dinge gibt es in Rellinghausen?",
+"optionen": [
+"Einen Bahnhof",
+"Ein Kunsthaus",
+"Eine Brauerei",
+"Einen Wochenmarkt"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Einen Bahnhof oder einen Wochenmarkt würde man in einem Großstadtteil eher erwarten als ein Kunsthaus. Doch die S-Bahn hält erst in Essen-Süd und Stadtwald, und auch der Wochenmarkt liegt im Nachbarstadtteil Stadtwald. In Rellinghausen sitzt dagegen das Kunsthaus Essen, eine Kulturinitiative für zeitgenössische Kunst, in der denkmalgeschützten ehemaligen Rübezahlschule. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_statistik.de.html und rellinghausen_geschichte.de.html; www.kunsthaus-essen.de",
+"faktencheck": "korrigiert",
+"id": "421-rellinghausen/v0.9/8",
 "tisch": false
 }
 ],
 "anschluss_von": "420-bergerhausen",
 "anschluss": [
-"Bergerhausen gehörte einst als Bauerschaft zur Gemeinde Rellinghausen.",
-"Fläche: Rellinghausen misst 1,4 km², Bergerhausen 3,34 km²."
+"Bergerhausen gehörte einst zur Bürgermeisterei Rellinghausen.",
+"Bergerhausen hat mehr als doppelt so viel Fläche wie Rellinghausen."
 ],
 "anschluesse": {
 "196-ratingen": [
@@ -115581,12 +119458,38 @@ window.QA_DATEN = {
 "Kreisgrenze: Hattingen ist kreisfrei, Rellinghausen gehört zum Landkreis Stadtkreis Essen."
 ],
 "420-bergerhausen": [
-"Bergerhausen gehörte einst als Bauerschaft zur Gemeinde Rellinghausen.",
-"Fläche: Rellinghausen misst 1,4 km², Bergerhausen 3,34 km²."
+"Bergerhausen gehörte einst zur Bürgermeisterei Rellinghausen.",
+"Bergerhausen hat mehr als doppelt so viel Fläche wie Rellinghausen."
 ]
 },
 "ags": "05113000",
 "ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Essener Stadtteil an der Ruhr, 4 km südöstlich der Mitte, nur 1,4 km² groß, mit dem Schellenberger Wald."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Benannt nach dem Siedlungsgründer Ruold, 943 als „Ruolding-hus“ erwähnt; lange prägte ein Frauenstift den Ort; seit 1910 gehört er zu Essen."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 3.600 Einwohner, gehobene Wohnlage mit dörflichem Flair; früher gab es die Zechen Gottfried Wilhelm, Ludwig und Langenbrahm."
+},
+{
+"facette": "FREIZEIT",
+"text": "Schloss Schellenberg, Kunsthaus Essen, Ruhrtalradweg, Kulturhistorischer Rundweg und Rundwege im Schellenberger Wald."
+},
+{
+"facette": "INFRA",
+"text": "Postleitzahl 45134, Kennzeichen E; denkmalgeschütztes altes Rathaus an der Frankenstraße, heute eine Einkaufsstraße."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025 in ganz Essen: CDU vor SPD und AfD, Wahlbeteiligung 80,1 Prozent, etwas unter dem Landeswert."
+}
+],
 "km_vom_vorigen": 0.9
 },
 {
@@ -115596,149 +119499,171 @@ window.QA_DATEN = {
 "lon": 7.02417,
 "karten": [
 {
-"familie": "A",
+"facette": "FREIZEIT",
+"charakteristikum": "Schillerbrunnen im Waldstadtteil",
+"rang": 6,
+"familie": "D",
 "sorte": "Geschichte",
 "ort": "Stadtwald",
-"steckbrief": "Essener Stadtteil mit rund 9.700 Einwohnern, 4 km südlich der Stadtmitte.",
-"frage": "1927 unterschrieb die Stadt Essen Verträge für ein Vorhaben im Stadtwald, das nie verwirklicht wurde. Was sollte entstehen?",
+"steckbrief": "Stadtteil von Essen mit knapp 10.000 Einwohnern, 4 km südlich der Stadtmitte.",
+"frage": "Welches dieser vier Dinge gibt es im Essener Stadtteil Stadtwald?",
 "optionen": [
-"Ein Zoologischer Garten sollte entstehen.",
-"Eine Sternwarte sollte entstehen.",
-"Ein Flugplatz für Segelflieger sollte entstehen.",
-"Eine Seilbahn zum Baldeneysee sollte entstehen."
+"ein Denkmalbrunnen für einen Dichter",
+"ein Freibad mit Liegewiese",
+"ein Museum zur Ortsgeschichte",
+"ein Golfplatz mit Clubhaus"
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Bei so viel Wald denkt man eher an Sport oder Ausflüge. Doch geplant war ein Zoo: Die Stadt hatte Verträge mit Willy und Carl Hagenbeck geschlossen, Söhnen des bekannten Hamburger Zoodirektors Carl Hagenbeck. Gebaut wurde er nie, die Stadtkassen waren knapp. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Stadtwald_(Essen)",
+"rueckseite": "Du hattest [Option] getippt. Ein Freibad liegt nahe, schließlich ist der Baldeneysee nicht weit. Doch Stadtwald hat einen Dichterbrunnen: Der Schillerbrunnen an der Wittenbergstraße wurde zum 100. Todestag Friedrich Schillers eingeweiht, gestaltet vom Münchener Bildhauer Fritz Behn, mit Reliefs aus dem „Lied von der Glocke“ und „Wilhelm Tell“. Im grünen Wohnviertel ist er ein Stück Bürgerstolz aus Stein und steht unter Denkmalschutz. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stadtwald_(Essen); OpenStreetMap",
 "faktencheck": "unsicher",
-"id": "422-stadtwald-essen/v0.8/1",
+"id": "422-stadtwald-essen/v0.9/1",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Stadtwald",
-"steckbrief": "Essener Stadtteil mit rund 9.700 Einwohnern, 4 km südlich der Stadtmitte.",
-"frage": "Wie groß ist die Fläche des Stadtteils Stadtwald?",
-"optionen": [
-"unter 2 km²",
-"2 bis unter 6 km²",
-"6 bis unter 12 km²",
-"12 km² und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Der Name lässt an ein großes Waldgebiet denken, daher schätzen viele hoch. Doch Stadtwald ist ein Stadtteil, kein Forstrevier: Er misst 4,14 Quadratkilometer. Richtig war 2.",
-"quelle": "Wikidata P2046",
-"faktencheck": "bestätigt",
-"id": "422-stadtwald-essen/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Stadtwald",
-"steckbrief": "Essener Stadtteil mit rund 9.700 Einwohnern, 4 km südlich der Stadtmitte.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Die Reithalle im Stadtteil wurde im Bauhausstil gebaut.",
-"Der Schillerbrunnen zeigt Szenen aus Goethes „Faust“.",
-"Ein S-Bahn-Tunnel führt unter dem Stadtwaldplatz hindurch."
-],
-"art": "luege",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Faust klingt nach deutscher Klassik und passt scheinbar. Doch ein Schillerbrunnen ehrt Schiller: Die Reliefs zeigen Szenen aus „Das Lied von der Glocke“ und „Wilhelm Tell“. Gestaltet hat ihn der Münchner Bildhauer Fritz Behn. Die Lüge war 2.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Stadtwald_(Essen)",
-"faktencheck": "unsicher",
-"id": "422-stadtwald-essen/v0.8/3",
-"tisch": false
-},
-{
+"facette": "GESCHICHTE",
+"charakteristikum": "aufgeforsteter Erholungswald als Namensgeber",
+"rang": 1,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Stadtwald",
-"steckbrief": "Essener Stadtteil mit rund 9.700 Einwohnern, 4 km südlich der Stadtmitte.",
-"frage": "Das inoffizielle Stadtteilwappen zeigt fünf Eichen und ein goldenes Schwert. Wofür steht das Schwert?",
+"steckbrief": "Stadtteil von Essen mit knapp 10.000 Einwohnern, 4 km südlich der Stadtmitte.",
+"frage": "Der Stadtteil heißt nach einem Wald. Woher stammt dieser Wald?",
 "optionen": [
-"Es steht für die Silbe „Stadt-“ im Namen.",
-"Es erinnert an eine Schlacht im Wald.",
-"Es steht für ein altes Gerichtsrecht.",
-"Es erinnert an einen Grenzstreit mit Nachbarn."
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein Schwert lässt an Ritter oder Schlachten denken. Doch das Wappen ist redend: Die Eichen stehen für „-wald“, das Schwert für „Stadt-“. Es ist ein Attribut der Essener Stadtpatrone Cosmas und Damian und knüpft so ans Essener Stadtwappen an. Entworfen hat es Kurt Schweder. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Stadtwald_(Essen)",
-"faktencheck": "unsicher",
-"id": "422-stadtwald-essen/v0.8/5",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Stadtwald",
-"steckbrief": "Essener Stadtteil mit rund 9.700 Einwohnern, 4 km südlich der Stadtmitte.",
-"frage": "In welchem Zeitraum wurde das Gebiet des heutigen Stadtteils Stadtwald nach Essen eingemeindet?",
-"optionen": [
-"vor 1900",
-"1900 bis 1914",
-"1915 bis 1929",
-"1930 oder später"
+"Er wurde erst nach dem Zweiten Weltkrieg gepflanzt.",
+"Er wurde als grüner Ausgleich zur Industrie aufgeforstet.",
+"Ein Bergwerk pflanzte ihn als Grubenholz-Reserve.",
+"Er entstand für eine Gartenschau in den 1960er-Jahren."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Viele denken bei Eingemeindungen im Ruhrgebiet an die großen Gebietsreformen späterer Jahrzehnte. Stadtwald kam früher dazu: Am 1. April 1910 wurde das Gebiet nach Essen eingemeindet. Richtig war 2.",
-"quelle": "Wikipedia (dewiki Infobox), de.wikipedia.org/wiki/Stadtwald_(Essen)",
-"faktencheck": "bestätigt",
-"id": "422-stadtwald-essen/v0.8/6",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Stadtwald",
-"steckbrief": "Essener Stadtteil mit rund 9.700 Einwohnern, 4 km südlich der Stadtmitte.",
-"frage": "Die Kirche St. Theresia feierte Pfingsten 2022 ihren letzten Gottesdienst. Wozu wurde sie danach umgebaut?",
-"optionen": [
-"Zu einem Haus mit Eigentumswohnungen.",
-"Zu Kita, Bücherei und Gemeindezentrum mit Kapelle.",
-"Zu einer Kletterhalle für den Vereinssport.",
-"Zu einem Restaurant mit Biergarten."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Aufgegebene Kirchen werden oft zu Wohnungen oder Veranstaltungsorten. Bei St. Theresia kam es anders: Sie wurde zu Kita, Bücherei und Gemeindezentrum mit Kapelle umgebaut. Der Turm blieb als Landmarke erhalten. Richtig war 2.",
-"quelle": "Bistum Essen, bistum-essen.de (Pressemeldungen vom 06.06.2022 und 25.09.2024)",
+"rueckseite": "Du hattest [Option] getippt. Eine junge Anlage liegt nahe, denn viele Grünflächen im Ruhrgebiet sind neu. Doch das Gebiet gehörte lange zum Stift Rellinghausen und wurde überwiegend landwirtschaftlich genutzt. 1904 wurde der Wald aufgeforstet, als Ausgleich zu den rasch wachsenden Industriegebieten und der Bevölkerung als Naherholungsgebiet. Der Stadtteil verdankt seinen Namen dieser Aufforstung – Grün als Gegenstück zur Industrie. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/stadwald/stadtwald_startseite.de.jsp",
 "faktencheck": "korrigiert",
-"id": "422-stadtwald-essen/v0.8/8",
+"id": "422-stadtwald-essen/v0.9/2",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "Waldstadtteil auf den Ruhrhöhen",
+"rang": 8,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Stadtwald",
-"steckbrief": "Essener Stadtteil mit rund 9.700 Einwohnern, 4 km südlich der Stadtmitte.",
-"frage": "1909 wurde im Stadtwald der Zweigertstein für Oberbürgermeister Erich Zweigert errichtet. Wer stellte ihn auf?",
+"steckbrief": "Stadtteil von Essen mit knapp 10.000 Einwohnern, 4 km südlich der Stadtmitte.",
+"frage": "Essen hat Flusstäler, Höhen und einen Stausee. Wo liegt der Stadtteil Stadtwald?",
 "optionen": [
-"Die Stadtverwaltung ließ ihn aufstellen.",
-"Zweigert selbst gab ihn in Auftrag.",
-"Die städtischen Förster stellten ihn auf.",
-"Eine Gruppe von Bürgern stellte ihn auf."
+"Er liegt in der flachen Emscherniederung.",
+"Er liegt unten in der Ruhraue.",
+"Er liegt auf einer Halbinsel im Baldeneysee.",
+"Er liegt auf den Ruhrhöhen nahe dem Baldeneysee."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Ein Denkmal für einen Oberbürgermeister klingt nach einem Auftrag der Stadt. Doch Freunde Zweigerts stellten den Stein auf, als Dank für seinen Einsatz für den Stadtwald als Erholungsgebiet. Zweigert selbst war da schon gestorben, im Mai 1906. Richtig war 4.",
-"quelle": "Stadt Essen, Historisches Portal (geschichte.essen.de); LVR, rheinische-geschichte.lvr.de",
+"rueckseite": "Du hattest [Option] getippt. Die Ruhraue liegt nahe, denn der Baldeneysee ist ganz in der Nähe. Stadtwald liegt aber oben: auf den Ruhrhöhen südlich der Innenstadt, nicht weit vom See. Wald- und Grünflächen prägen das Wohngebiet; wer hindurchfährt, sieht eher Wald als Wasser. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/stadwald/stadtwald_statistik.de.html",
 "faktencheck": "korrigiert",
-"id": "422-stadtwald-essen/v0.8/9",
+"id": "422-stadtwald-essen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "S-Bahnhof, früher „Rellinghausen West“",
+"rang": 3,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Stadtwald",
+"steckbrief": "Stadtteil von Essen mit knapp 10.000 Einwohnern, 4 km südlich der Stadtmitte.",
+"frage": "Welche dieser vier Anlagen gibt es in Stadtwald?",
+"optionen": [
+"ein S-Bahnhof an einem Tunnel",
+"ein Krankenhaus mit Notaufnahme",
+"ein Hallenbad mit Sprungturm",
+"eine Brauerei mit Ausschank"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Krankenhaus läge für einen größeren Stadtteil nahe, doch Stadtwalds Besonderheit ist die Bahn. Der S-Bahnhof Essen-Stadtwald an der Strecke nach Essen-Werden hieß früher Rellinghausen West. Gleich daneben fährt die S6 durch den eingleisigen Stadtwald-Tunnel. Für ein Wohngebiet im Grünen ist das ein kurzer Draht in die Stadt. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stadtwald_(Essen); OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "422-stadtwald-essen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "großer Stadtteil mit viel Wald",
+"rang": 10,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Stadtwald",
+"steckbrief": "Stadtteil von Essen mit knapp 10.000 Einwohnern, 4 km südlich der Stadtmitte, mit viel Wald- und Grünfläche.",
+"frage": "Wie groß ist die Fläche des Stadtteils Stadtwald?",
+"optionen": [
+"unter 1 km²",
+"1 bis unter 3 km²",
+"3 bis unter 6 km²",
+"6 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Klein schätzt, wer bei einem Stadtteil an ein paar Straßenzüge denkt. Doch Stadtwald misst 4,14 Quadratkilometer, und neben Wohnhäusern prägen ihn Wald- und Grünflächen. Darum wirkt der Stadtteil beim Durchfahren weiträumiger als ein gewöhnliches Wohnviertel. Richtig war 3.",
+"quelle": "Wikidata P2046; Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/stadwald/stadtwald_startseite.de.jsp",
+"faktencheck": "korrigiert",
+"id": "422-stadtwald-essen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "mittelalterliche Klause der Stiftsdamen",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stadtwald",
+"steckbrief": "Stadtteil von Essen mit knapp 10.000 Einwohnern, 4 km südlich der Stadtmitte.",
+"frage": "Die Klusenkapelle in Stadtwald stammt aus dem Mittelalter. Wozu diente sie ursprünglich?",
+"optionen": [
+"Sie diente als Zollhaus an einem Handelsweg.",
+"Sie diente Stiftsdamen als abgeschiedene Klause.",
+"Sie wurde als Grablege eines Rittergeschlechts errichtet.",
+"Sie wurde als Bethaus für Bergleute errichtet."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Grabkapelle liegt nahe, denn Kapellen dienten oft Adelsfamilien als Grablege. Die Klusenkapelle wurde aber als Klausnerei erbaut, als abgeschiedener Wohnort für Damen des Essener Stifts. Erst später wurde sie eine Kapelle; wohl diente sie auch als Rückzugsort für Leprakranke. So besitzt der Stadtteil ein Dokument mittelalterlicher Religiosität in Essen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/stadwald/stadtwald_kultur_freizeit.de.html",
+"faktencheck": "korrigiert",
+"id": "422-stadtwald-essen/v0.9/9",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Reithalle im Bauhausstil",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stadtwald",
+"steckbrief": "Stadtteil von Essen mit knapp 10.000 Einwohnern, 4 km südlich der Stadtmitte.",
+"frage": "An der Wittenbergstraße in Stadtwald steht eine Reithalle. In welchem Stil wurde sie entworfen?",
+"optionen": [
+"Sie wurde im Jugendstil mit Ornamentfassade gebaut.",
+"Sie ist eine Fachwerkhalle im Heimatstil.",
+"Sie wurde im Bauhausstil der Avantgarde entworfen.",
+"Sie ist im neugotischen Stil mit Spitzbögen gebaut."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Fachwerkhalle liegt bei einem Reitstall nahe, ländlich und zweckmäßig. Doch Alfred Fischer, Direktor der Folkwangschule für Gestaltung, und Richard Speidel entwarfen die Halle im Bauhausstil. Sie gilt als bedeutendes Dokument avantgardistischer Architektur in Essen. Für einen grünen Wohnstadtteil mit Reitverein ist das ein unerwartet moderner Akzent. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/stadwald/stadtwald_kultur_freizeit.de.html",
+"faktencheck": "korrigiert",
+"id": "422-stadtwald-essen/v0.9/10",
 "tisch": false
 }
 ],
 "anschluss_von": "421-rellinghausen",
 "anschluss": [
-"Stadtwald gehörte bis zur Eingemeindung nach Essen zu Rellinghausen.",
-"Der S-Bahnhof Essen-Stadtwald hieß früher Rellinghausen West."
+"Stadtwald war einst die Kornkammer des Stifts Rellinghausen.",
+"Stadtwald hat fast die dreifache Fläche von Rellinghausen."
 ],
 "anschluesse": {
 "196-ratingen": [
@@ -115778,12 +119703,34 @@ window.QA_DATEN = {
 "Kreisgrenze: Hattingen ist kreisfrei, Stadtwald gehört zum Landkreis Stadtkreis Essen."
 ],
 "421-rellinghausen": [
-"Stadtwald gehörte bis zur Eingemeindung nach Essen zu Rellinghausen.",
-"Der S-Bahnhof Essen-Stadtwald hieß früher Rellinghausen West."
+"Stadtwald war einst die Kornkammer des Stifts Rellinghausen.",
+"Stadtwald hat fast die dreifache Fläche von Rellinghausen."
 ]
 },
 "ags": "05113000",
 "ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Essener Stadtteil auf den Ruhrhöhen, 4 km südlich der Mitte, nördlich des Baldeneysees; 4,14 km², knapp 10.000 Einwohner."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Einst Bauernschaft des Stifts Rellinghausen, ab 1904 aufgeforstet, seit 1910 bei Essen; Burgruine Vittinghoff, Zweigertstein, Klusenkapelle."
+},
+{
+"facette": "ALLTAG",
+"text": "Vor allem Wohngebiet; Geschäfte an der Frankenstraße, Wochenmarkt am Stadtwaldplatz, Dore-Jacobs-Berufskolleg und Freie Waldorfschule."
+},
+{
+"facette": "FREIZEIT",
+"text": "Uhlenkrugstadion, Bauhaus-Reithalle, Schillerbrunnen, Schillerwiese, Tennisclub, Hugo-Kracht-Weg, Abteiweg und zum Radeln der Grugaweg."
+},
+{
+"facette": "INFRA",
+"text": "S-Bahnhof Essen-Stadtwald an der S6 mit 247 Meter langem Tunnel; zentrale Bushaltestelle am Stadtwaldplatz."
+}
+],
 "km_vom_vorigen": 1.9
 },
 {
@@ -115793,209 +119740,216 @@ window.QA_DATEN = {
 "lon": 7.02667,
 "karten": [
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Name aus fischreichem stehendem Gewässer",
+"rang": 4,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Fischlaken",
-"steckbrief": "Essener Stadtteil mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte (Luftlinie).",
-"frage": "Fischlaken wird 796 zum ersten Mal erwähnt. Bei welchem Ereignis?",
+"steckbrief": "Stadtteil von Essen mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte.",
+"frage": "Was bedeutet der Name Fischlaken nach der Ortsgeschichte der Stadt Essen ursprünglich?",
 "optionen": [
-"Ein Ritter baute eine Burg am Fluss.",
-"Bergleute siedelten sich an einer Kohlengrube an.",
-"Fischer gründeten eine Siedlung am Ufer.",
-"Ein Hof wurde einem Klostergründer geschenkt."
+"Er meint einen Platz zum Netzetrocknen.",
+"Er meint einen schnellen, fischreichen Bach.",
+"Er meint eine Bleichwiese für Leinentücher.",
+"Er meint ein stehendes, fischreiches Gewässer."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Der Ortsname lässt an Fischer denken, die sich am Ufer niederließen. Zum ersten Mal genannt wird Fischlaken aber 796: Damals übertrug der Franke Theganbald den Affgatinghof an Liudger, den späteren Gründer des Klosters Werden. Richtig war 4. /",
-"quelle": "LVR KuLaDig, kuladig.de/Objektansicht/O-4679-20110128-2",
+"rueckseite": "Du hattest [Option] getippt. „Laken“ klingt nach Bettwäsche, und Bleichwiesen für Leinen gab es früher fast überall – darum liegt die Tuch-Deutung nahe. Die alten Schreibweisen wie Fislacu bedeuten aber ein stehendes Gewässer mit reichem Fischbestand; Mönche des Klosters Werden hatten hier Fischteiche. Darauf spielt auch das Stadtteilwappen an: Es zeigt einen silbernen Fisch. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_geschichte.de.html",
 "faktencheck": "korrigiert",
-"id": "423-fischlaken/v0.8/1",
+"id": "423-fischlaken/v0.9/1",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "FREIZEIT",
+"charakteristikum": "mehrere Segelvereine im Wohnstadtteil",
+"rang": 5,
+"familie": "D",
+"sorte": "Geschichte",
 "ort": "Fischlaken",
-"steckbrief": "Essener Stadtteil mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte (Luftlinie).",
-"frage": "Wie groß ist die Fläche des Stadtteils Fischlaken?",
+"steckbrief": "Stadtteil von Essen mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte.",
+"frage": "Welches dieser vier Dinge gibt es in Fischlaken?",
 "optionen": [
-"unter 10 km²",
-"10 bis unter 20 km²",
-"20 bis unter 40 km²",
-"40 km² und mehr"
+"mehrere Segelvereine",
+"ein Hallenbad",
+"eine Eissporthalle",
+"eine Kletterhalle"
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Weit draußen gelegene Stadtteile wirken oft weitläufig, deshalb liegt eine große Fläche nahe. Fischlaken misst aber 9,17 Quadratkilometer und fällt damit in die kleinste Spanne. Richtig war 1.",
-"quelle": "Wikidata P2046",
-"faktencheck": "bestätigt",
-"id": "423-fischlaken/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Fischlaken",
-"steckbrief": "Essener Stadtteil mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte (Luftlinie).",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Fischlaken gehörte früher zur Reichsabtei Werden.",
-"Auf früherem Zechengelände steht eine Seilscheibe.",
-"Haus Scheppen überstand den Zweiten Weltkrieg unversehrt."
-],
-"art": "luege",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein Denkmal auf Zechengelände klingt nach Erfindung, doch die Seilscheibe der 1973 stillgelegten Zeche Pörtingsiepen erinnert noch heute an den Bergbau; über solche Räder lief das Förderseil. Zur Abtei Werden gehörte Fischlaken bis 1803. Haus Scheppen aber wurde 1944 bei einem Luftangriff schwer beschädigt. Die Lüge war 3. /",
-"quelle": "Stadt Essen, essen.de; LVR KuLaDig",
-"faktencheck": "korrigiert",
-"id": "423-fischlaken/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Fischlaken",
-"steckbrief": "Essener Stadtteil mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte (Luftlinie).",
-"frage": "Bundestagswahl 2025, Zweitstimmen in der ganzen Stadt Essen: Wie viel Prozent erreichte die stärkste Partei?",
-"optionen": [
-"unter 20 %",
-"20 bis unter 25 %",
-"25 bis unter 30 %",
-"30 % und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet denken viele an eine übermächtige SPD und tippen hoch. In ganz Essen lag jedoch die CDU mit 26,5 Prozent vorn, vor der SPD. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "423-fischlaken/v0.8/4",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Fischlaken",
-"steckbrief": "Essener Stadtteil mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte (Luftlinie).",
-"frage": "Haus Scheppen am Baldeneysee stammt aus dem 13. Jahrhundert. Was war es früher?",
-"optionen": [
-"Es war ein Zollhaus für Ruhrschiffer.",
-"Es war eine Herberge für Pilger.",
-"Es war ein Siechenhaus für Kranke.",
-"Es war ein adeliger Lehnshof."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Die Lage am Wasser lässt an Zoll und Schifffahrt denken. Haus Scheppen war aber ein adeliger Lehnshof. Ein Lehen war Land, das ein Herr gegen Treue und Dienste vergab. Heute gehört das Haus zu den Anziehungspunkten am Baldeneysee. Richtig war 4.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Fischlaken",
-"faktencheck": "bestätigt",
-"id": "423-fischlaken/v0.8/5",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Fischlaken",
-"steckbrief": "Essener Stadtteil mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte (Luftlinie).",
-"frage": "In welchem Zeitraum wurde Fischlaken in die Stadt Essen eingemeindet?",
-"optionen": [
-"vor 1930",
-"1930 bis 1949",
-"1950 bis 1974",
-"1975 oder später"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Bei Eingemeindungen denken viele an die große Gebietsreform in Nordrhein-Westfalen. Fischlaken kam aber schon 1929 zur Stadt Essen. Richtig war 1.",
-"quelle": "dewiki Infobox",
-"faktencheck": "bestätigt",
-"id": "423-fischlaken/v0.8/6",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Geschichte",
-"ort": "Fischlaken",
-"steckbrief": "Essener Stadtteil mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte (Luftlinie).",
-"frage": "Die Zeche Pörtingsiepen wurde 1973 stillgelegt. Wie viele Menschen arbeiteten zeitweise dort?",
-"optionen": [
-"unter 250",
-"250 bis unter 1.000",
-"1.000 bis unter 2.000",
-"2.000 und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Wer an einen ländlichen Stadtteil denkt, schätzt die Zeche klein. Pörtingsiepen gab aber zeitweise über 2.000 Menschen Arbeit. Richtig war 4. /",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Fischlaken; Stadt Essen, essen.de",
-"faktencheck": "korrigiert",
-"id": "423-fischlaken/v0.8/7",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Fischlaken",
-"steckbrief": "Essener Stadtteil mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte (Luftlinie).",
-"frage": "1877 gründeten Fischlaker Bürger einen Begräbnisverein. Wie kamen Verstorbene bis dahin zur Friedhofskapelle?",
-"optionen": [
-"Man fuhr sie auf einem Heuwagen.",
-"Man setzte sie im Kahn über die Ruhr.",
-"Man zog sie auf einem Grubenwagen.",
-"Man fuhr sie in der Kutsche des Pfarrers."
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Für eine würdige letzte Fahrt läge eine Kutsche nahe. Vor der Gründung des Vereins brachte man die Toten aber auf dem Heuwagen zur Kapelle. Der Verein, eine Sterbekasse, schaffte einen eigenen Leichenwagen an. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Fischlaken",
+"rueckseite": "Du hattest [Option] getippt. Bei einem Stadtteil einer Großstadt denkt man zuerst an Hallenbad oder Sporthalle. Fischlaken hat stattdessen Segelvereine, etwa den Essener Yacht-Club und die Segelkameradschaft Scheppen. Beide haben ihren Sitz am Hardenbergufer. Für einen Wohnstadtteil im Grünen sind gleich mehrere Segelvereine ungewöhnlich: Sie zeigen, dass Fischlaken zum Wasser hin lebt. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html; OpenStreetMap",
 "faktencheck": "unsicher",
-"id": "423-fischlaken/v0.8/8",
+"id": "423-fischlaken/v0.9/2",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "größter Ruhr-Stausee an der Nordgrenze",
+"rang": 3,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Fischlaken",
-"steckbrief": "Essener Stadtteil mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte (Luftlinie).",
-"frage": "Ab 1952 feierten Fischlakens Katholiken Gottesdienst in einer Notkirche, Vorläuferin der Christi-Himmelfahrtskirche. Was war das Gebäude vorher?",
+"steckbrief": "Stadtteil von Essen mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte.",
+"frage": "Der Baldeneysee ist ein Stausee der Ruhr. Welche Stellung hat er unter den Ruhr-Stauseen?",
 "optionen": [
-"Es war der Tanzsaal einer Gaststätte.",
-"Es war ein Lagerschuppen der Zeche.",
-"Es war die Scheune eines Bauernhofs.",
-"Es war ein Klassenzimmer der Dorfschule."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Nach dem Krieg lagen Säle oder Klassenräume als Notlösung nahe. Die Notkirche entstand aber in der Scheune des ehemaligen Wintgenhofes. Richtig war 3.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Fischlaken",
-"faktencheck": "unsicher",
-"id": "423-fischlaken/v0.8/9",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Fischlaken",
-"steckbrief": "Essener Stadtteil mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte (Luftlinie).",
-"frage": "Woher hat der Essener Stadtteil Fischlaken seinen Namen?",
-"optionen": [
-"Fischer trockneten ihre Netze auf Tüchern.",
-"Ein stehendes Gewässer war reich an Fischen.",
-"Fischhändler breiteten ihre Ware auf Laken aus.",
-"Fischer zahlten ihre Abgaben in Leinentuch."
+"Er ist der kleinste von sechs Ruhr-Stauseen.",
+"Er ist der größte von sechs Ruhr-Stauseen.",
+"Er ist der größte von zwölf Ruhr-Stauseen.",
+"Er ist der kleinere von zwei Ruhr-Stauseen."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Beim Wort Laken denkt man heute an Tücher und Bettwäsche. Die alten Namensformen Fislacu und Wislaken bezeichneten aber ein stehendes Gewässer mit reichem Fischbestand. Richtig war 2. /",
-"quelle": "Stadt Essen, essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_geschichte.de.html",
+"rueckseite": "Du hattest [Option] getippt. Wer nur diesen einen See kennt, unterschätzt leicht, wie oft die Ruhr aufgestaut ist, oder hält ihn für einen der kleineren. Tatsächlich ist der Baldeneysee der größte der sechs Ruhr-Stauseen. Für Fischlaken ist er das Gesicht des Stadtteils: Er liegt im Norden und gilt als eines der beliebtesten Naherholungsziele in Essen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html; www.essen.de/e_magazin/emagazin_1503714.de.html",
 "faktencheck": "korrigiert",
-"id": "423-fischlaken/v0.8/10",
+"id": "423-fischlaken/v0.9/3",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Zechenvergangenheit im grünen Vorort",
+"rang": 1,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Fischlaken",
+"steckbrief": "Stadtteil von Essen mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte.",
+"frage": "Welches dieser vier Erinnerungsstücke steht als Denkmal in Fischlaken?",
+"optionen": [
+"das Mühlrad einer Wassermühle",
+"der Webstuhl einer Tuchfabrik",
+"die Seilscheibe einer Zeche",
+"der Braukessel einer Brauerei"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Wohnstadtteil im Grünen am See lässt eher an Mühlrad oder Webstuhl denken als an Kohle. Doch die Seilscheibe stammt von der Zeche Pörtingsiepen und erinnert bis heute an das stillgelegte Bergwerk. Der Bergbau gehört also ebenso zur Geschichte von Fischlaken wie der See. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html",
+"faktencheck": "korrigiert",
+"id": "423-fischlaken/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Motorradtreff im mittelalterlichen Lehnshof",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Fischlaken",
+"steckbrief": "Stadtteil von Essen mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte.",
+"frage": "Haus Scheppen am Baldeneysee ist heute ein See-Café. Was war das Haus ursprünglich, im Mittelalter?",
+"optionen": [
+"Es war ein Jagdschloss eines Landesfürsten.",
+"Es war ein Zollhaus am Fluss.",
+"Es war eine Fischerhütte am Ufer.",
+"Es war ein Lehnshof eines Adelsgeschlechts."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Ort namens Fischlaken liegt eine Fischerhütte am Wasser nahe, und an Adel denkt beim Kuchen im See-Café kaum jemand. Ursprünglich war Haus Scheppen aber ein mittelalterlicher Lehnshof der Herren von Scheppen. Heute zählt es zu den Sehenswürdigkeiten des Stadtteils und ist ein Ausflugsziel am Baldeneysee. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html; www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_startseite.de.jsp",
+"faktencheck": "korrigiert",
+"id": "423-fischlaken/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Museumsbahn statt eigener S-Bahn",
+"rang": 6,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Fischlaken",
+"steckbrief": "Stadtteil von Essen mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Eine Museumsbahn fährt bis zum Haus Scheppen.",
+"Fischlaken hat einen eigenen Bahnhof der S-Bahn.",
+"An der Fischlaker Straße hält eine Buslinie."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Gelogen war der eigene S-Bahnhof: Der nächstgelegene Bahnhof ist Essen-Werden, dort hält die S6. Der Irrtum liegt nahe, weil am Haus Scheppen tatsächlich Züge ankommen – die historischen Wagen der Hespertalbahn aus Essen-Kupferdreh. Im Ort selbst hält der Bus 180 an der Fischlaker Straße; zum Einkaufen fährt man nach Heidhausen oder Werden. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_statistik.de.html; www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html",
+"faktencheck": "korrigiert",
+"id": "423-fischlaken/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "viel Fläche für wenige Einwohner",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Fischlaken",
+"steckbrief": "Grüner Stadtteil von Essen mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte.",
+"frage": "Wie groß ist die Fläche des Stadtteils Fischlaken?",
+"optionen": [
+"unter 5 km²",
+"5 bis unter 12 km²",
+"12 bis unter 20 km²",
+"20 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei nur rund 4.400 Einwohnern tippen viele auf einen kleinen Stadtteil unter fünf Quadratkilometern. Fischlaken umfasst aber 9,17 Quadratkilometer. Der Platz erklärt das Bild beim Vorbeifahren: Siedlungen mit Ein- und Zweifamilienhäusern wechseln sich mit Feldern und Wald ab. Richtig war 2.",
+"quelle": "Wikidata P2046 (GRUNDDATEN flaeche_km2)",
+"faktencheck": "bestätigt",
+"id": "423-fischlaken/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Dorfschule mit Erlaubnis des Abts",
+"rang": 9,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Fischlaken",
+"steckbrief": "Stadtteil von Essen mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte.",
+"frage": "Die alte Dorfschule am Stüfken hieß später Bernhardschule. Nach wem wurde sie benannt?",
+"optionen": [
+"Sie hieß nach einem heiligen Ordensgründer.",
+"Sie hieß nach ihrem ersten Lehrer.",
+"Sie hieß nach dem Abt, der sie erlaubte.",
+"Sie hieß nach einem stiftenden Großbauern."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei „Bernhard“ denken viele an den heiligen Bernhard von Clairvaux, nach dem zahlreiche Kirchen und Schulen heißen. Die Schule am Stüfken hatte aber Abt Bernhard II. erlaubt; nach ihm wurde sie später benannt. Dass ein Abt über die Dorfschule entschied, passt zu Fischlaken: Der Ort gehörte damals zum Benediktinerkloster Werden. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Fischlaken",
+"faktencheck": "unsicher",
+"id": "423-fischlaken/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Notkirche in einer Hofscheune",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Fischlaken",
+"steckbrief": "Stadtteil von Essen mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte.",
+"frage": "1952 entstand in Fischlaken eine katholische Notkirche. Was war das Gebäude, bevor dort Gottesdienst gefeiert wurde?",
+"optionen": [
+"Es war die Scheune eines Hofes.",
+"Es war eine Baracke aus dem Krieg.",
+"Es war der Saal einer Gaststätte.",
+"Es war ein leer stehender Kinosaal."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Nach dem Krieg wurden Notkirchen oft in Baracken eingerichtet – das liegt nahe. In Fischlaken entstand sie aber aus der Scheune des ehemaligen Wintgenhofes; dessen Wohnhaus wurde später Pfarrhaus. Die Kirche wuchs also aus einem Hof heraus – passend zu einem Ort, der ursprünglich von Land- und Forstwirtschaft lebte. Nach rund 70 Jahren gab die Gemeinde 2024 den Kirchenstandort am Lürsweg auf. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Fischlaken; www.bistum-essen.de/pressemenue/artikel/katholische-und-evangelische-gemeinden-gruenden-oekumenische-wohngemeinschaft",
+"faktencheck": "korrigiert",
+"id": "423-fischlaken/v0.9/9",
 "tisch": false
 }
 ],
 "anschluss_von": "422-stadtwald-essen",
 "anschluss": [
-"Fläche: Fischlaken misst 9,17 km², Stadtwald nur 4,14 km².",
-"Luftlinie zur Stadtmitte: Stadtwald liegt 4 km entfernt, Fischlaken 8."
+"Fischlaken hat mehr als doppelt so viel Fläche wie Stadtwald.",
+"Fischlaken liegt doppelt so weit von Essens Mitte wie Stadtwald."
 ],
 "anschluesse": {
 "196-ratingen": [
@@ -116041,12 +119995,34 @@ window.QA_DATEN = {
 "Kreisgrenze: Hattingen ist kreisfrei, Fischlaken gehört zum Landkreis Stadtkreis Essen."
 ],
 "422-stadtwald-essen": [
-"Fläche: Fischlaken misst 9,17 km², Stadtwald nur 4,14 km².",
-"Luftlinie zur Stadtmitte: Stadtwald liegt 4 km entfernt, Fischlaken 8."
+"Fischlaken hat mehr als doppelt so viel Fläche wie Stadtwald.",
+"Fischlaken liegt doppelt so weit von Essens Mitte wie Stadtwald."
 ]
 },
 "ags": "05113000",
 "ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Grüner Essener Stadtteil, 8 km südlich der Mitte, gut neun Quadratkilometer groß, im Norden Baldeneysee und Ruhr."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 796 urkundlich erwähnt, bis 1803 zum Kloster Werden gehörig, 1929 eingemeindet; ein Fisch im Wappen."
+},
+{
+"facette": "ALLTAG",
+"text": "Wohnen im Grünen zwischen Feldern und Wald; wenige Läden, eingekauft wird in Heidhausen und Werden."
+},
+{
+"facette": "FREIZEIT",
+"text": "Baldeneysee, Haus Scheppen, Hespertalbahn, Segelclubs, Ruhrtalradweg, BaldeneySteig, Bergischer Weg, Halde Pörtingsiepen, Ruhrtalblick."
+},
+{
+"facette": "INFRA",
+"text": "Bundesstraße 224, Bus 180 an der Fischlaker Straße; nächster S-Bahnhof ist Essen-Werden mit der S6."
+}
+],
 "km_vom_vorigen": 3.6
 },
 {
@@ -116056,169 +120032,239 @@ window.QA_DATEN = {
 "lon": 6.99639,
 "karten": [
 {
-"familie": "A",
+"facette": "ALLTAG",
+"charakteristikum": "Kunsthochschule im ehemaligen Kloster",
+"rang": 1,
+"familie": "D",
 "sorte": "Geschichte",
 "ort": "Werden",
-"steckbrief": "Der Essener Stadtteil mit rund 9.700 Einwohnern liegt 8 km südlich der Stadtmitte (Luftlinie).",
-"frage": "Worauf weist der Name Werden hin?",
+"steckbrief": "Werden ist ein Stadtteil im Süden von Essen mit knapp 10.000 Einwohnern, 8 km von der Stadtmitte entfernt.",
+"frage": "Was hat heute in der ehemaligen Benediktinerabtei von Werden seinen Hauptsitz?",
 "optionen": [
-"Er meint eine neu entstehende Siedlung.",
-"Er geht auf den Namen eines Grundherrn zurück.",
-"Er weist auf eine Furt oder Fähre hin.",
-"Er bezeichnete einst einen gerodeten Wald."
+"Ein Stahlwerk",
+"Eine Chemiefabrik",
+"Eine Kunsthochschule",
+"Ein Autowerk"
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Naheliegend ist das Verb „werden“, denn so klingt der Name heute. Die Herkunft liegt aber anderswo: Das alte Wort „werd“ bedeutet Ufer, Insel oder einen Ort, den das Hochwasser nicht erreicht. Die Urkunde von 799 nennt Werden „Insel, Ufer, Werder“ zwischen zwei Bächen. Richtig war 3.",
-"quelle": "Stadt Essen, essen.de (Geschichte des Stadtteils Werden)",
+"rueckseite": "Du hattest [Option] getippt. Bei Essen denkt man zuerst an Stahl, deshalb liegt das Stahlwerk nahe. In die ehemalige Benediktinerabtei zog aber die Folkwang Universität der Künste ein, einst gegründet als Folkwangschule für Musik, Tanz und Sprechen. Sie hat dort bis heute ihren Hauptsitz. Im alten Kloster des Stadtteils wird also Kunst studiert. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/werden_2/werden_geschichte.de.html; OpenStreetMap",
 "faktencheck": "korrigiert",
-"id": "424-werden/v0.8/1",
+"id": "424-werden/v0.9/1",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "GESCHICHTE",
+"charakteristikum": "Name bedeutet Ufer oder Insel",
+"rang": 9,
+"familie": "A",
+"sorte": "Geschichte",
 "ort": "Werden",
-"steckbrief": "Werden ist ein Stadtteil von Essen mit rund 9.700 Einwohnern, 8 km südlich der Stadtmitte (Luftlinie).",
-"frage": "Wie hoch liegt Werden über dem Meeresspiegel?",
+"steckbrief": "Werden ist ein Stadtteil im Süden von Essen mit knapp 10.000 Einwohnern, 8 km von der Stadtmitte.",
+"frage": "Woher hat Werden seinen Namen?",
 "optionen": [
-"unter 10 m",
-"10 bis unter 30 m",
-"30 bis unter 50 m",
-"50 m und mehr"
+"Der Name kommt vom Verb „werden“.",
+"Der Name ehrt einen Gründer namens Werdo.",
+"Der Name meint ein „Wehr“ in der Ruhr.",
+"Der Name kommt von „Werd“, Ufer oder Insel."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Wer Essen mit dem flachen Niederrhein verbindet, schätzt niedriger. Die Quellen nennen für Werden 58 beziehungsweise 60 Meter über dem Meer; beides liegt über 50 Metern. Richtig war 4.",
-"quelle": "Wikidata P2044; GeoNames 2810961 (Altbestand geo.sqlite)",
-"faktencheck": "bestätigt",
-"id": "424-werden/v0.8/2",
+"rueckseite": "Du hattest [Option] getippt. Am nächsten liegt das Verb „werden“, weil der heutige Name genau so klingt. Doch „Werd“ ist ein altes Wort für Ufer, Insel oder hochwasserfreien Ort; später meinte es eine erhöhte, geschützte Stelle. Für einen Ort an der Ruhr ist das ein sprechender Name: Er beschreibt einen sicheren Platz am Wasser. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/werden_2/werden_geschichte.de.html",
+"faktencheck": "unsicher",
+"id": "424-werden/v0.9/2",
 "tisch": false
 },
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Kirchenschatz im kleinen Stadtteil",
+"rang": 7,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Werden",
+"steckbrief": "Werden, ein Stadtteil im Süden von Essen mit knapp 10.000 Einwohnern, liegt 8 km von der Stadtmitte an der Ruhr.",
+"frage": "Welches dieser vier Ausflugsziele gibt es in Werden?",
+"optionen": [
+"Eine Schatzkammer mit Kirchenschätzen",
+"Eine Brauerei mit Biergarten",
+"Ein Weingut mit eigenem Weinberg",
+"Ein Berggipfel mit Gipfelkreuz"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Brauerei wäre im Ruhrgebiet naheliegend, denn Bier gehört dort zum Alltag. Werden aber hat eine Schatzkammer: Sie gehört zur Basilika Sankt Ludgerus und bewahrt das Helmstedter Kreuz und den Liudgerus-Schrein. So hütet ein Stadtteil von rund vier Quadratkilometern einen eigenen Kirchenschatz. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/werden_2/werden_kultur_freizeit.de.html; OpenStreetMap; Fläche: Wikidata P2046",
+"faktencheck": "unsicher",
+"id": "424-werden/v0.9/3",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Gymnasium mit Wurzeln in Klosterschule",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Werden",
+"steckbrief": "Werden, ein Stadtteil im Süden von Essen mit knapp 10.000 Einwohnern, liegt 8 km von der Stadtmitte an der Ruhr.",
+"frage": "Das städtische Gymnasium Essen-Werden führt seine Wurzeln weit zurück. Auf welche Einrichtung?",
+"optionen": [
+"Es geht auf eine preußische Kadettenanstalt zurück.",
+"Es geht auf die Lateinschule des Klosters zurück.",
+"Es geht auf eine Schule der Tuchmacher zurück.",
+"Es geht auf eine Bergschule für Zechenleute zurück."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Bergschule liegt nahe, weil man im Ruhrgebiet zuerst an Kohle denkt. Doch das Gymnasium führt seinen Ursprung auf die Lateinschule des Klosters Werden zurück, um 800. Heute ist es für seine Musik- und Tanzabteilungen bekannt. Eine Schule mit so langer Linie passt zu einem Ort, dessen Geschichte mit dem Kloster beginnt. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Werden",
+"faktencheck": "bestätigt",
+"id": "424-werden/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Stadtteil am gestauten Ruhrsee",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Werden",
+"steckbrief": "Werden ist ein Stadtteil im Süden von Essen mit knapp 10.000 Einwohnern, 8 km von der Stadtmitte.",
+"frage": "Werden schmiegt sich an den Baldeneysee. Wie ist dieser See entstanden?",
+"optionen": [
+"Er blieb nach der Eiszeit zurück.",
+"Er füllt eine alte Bergsenkung.",
+"Er entstand durch Aufstauen der Ruhr.",
+"Er ist ein abgeschnittener Altarm der Ruhr."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Mulde aus der Eiszeit klingt nach einem natürlichen See und liegt deshalb nahe. Der Baldeneysee ist aber ein Stausee: Ein Stauwehr in Essen-Werden staut die Ruhr. Für Werden ist er ein beliebtes Naherholungsgebiet direkt vor der Tür, und wer vorbeifährt, sieht eigentlich einen breit gestauten Fluss. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/werden_2/werden_kultur_freizeit.de.html",
+"faktencheck": "korrigiert",
+"id": "424-werden/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Abteiort mit Pallium im Wappen",
+"rang": 6,
 "familie": "B",
 "sorte": "Geschichte",
 "ort": "Werden",
-"steckbrief": "Werden hat rund 9.700 Einwohner und liegt als Stadtteil von Essen 8 km südlich der Stadtmitte (Luftlinie).",
+"steckbrief": "Werden ist ein Stadtteil im Süden von Essen mit knapp 10.000 Einwohnern, 8 km von der Stadtmitte.",
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"1923 wurde Gustav Krupp in Werden freigesprochen.",
-"1912 starben bei einem Straßenbahnunfall vier Kinder.",
-"1920 schoss ein Freikorps in eine Demonstration."
+"Gegründet wurde das Kloster Werden von einem Friesen.",
+"Werdens Wappen zeigt ein Pallium auf rotem Grund.",
+"Die Herrschaft der Äbte dauerte bis zur Eingemeindung nach Essen."
 ],
 "art": "luege",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein Freispruch scheint denkbar, so einflussreich wie Krupp war. Doch Werden war 1923 von Frankreich besetzt. Ein französisches Militärgericht verurteilte dort Gustav Krupp von Bohlen und Halbach und Direktoren seines Konzerns zu Haft und Geldstrafe. Der Vorwurf: Aufwiegelung zum Widerstand am Essener Blutsamstag. Die Lüge war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Werden",
-"faktencheck": "unsicher",
-"id": "424-werden/v0.8/3",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Werden",
-"steckbrief": "Werden liegt 8 km südlich der Essener Stadtmitte (Luftlinie) und hat rund 9.700 Einwohner.",
-"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in der Stadt Essen, zu der Werden gehört, bei den Zweitstimmen zweitstärkste Kraft?",
-"optionen": [
-"CDU",
-"SPD",
-"AfD",
-"GRÜNE"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Wer das Ruhrgebiet als Hochburg der Sozialdemokraten kennt, erwartet die SPD vorn. In ganz Essen lag aber die CDU mit 26,5 Prozent an der Spitze; die SPD folgte mit 22,2 Prozent. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "424-werden/v0.8/4",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Werden",
-"steckbrief": "Werden hat rund 9.700 Einwohner und liegt als Essener Stadtteil 8 km südlich der Stadtmitte (Luftlinie).",
-"frage": "Das Benediktinerkloster Werden wurde 1803 aufgehoben. Wozu dienten seine Gebäude danach über ein Jahrhundert lang?",
-"optionen": [
-"Sie beherbergten eine Porzellanmanufaktur.",
-"Sie wurden zu einem Kurhaus umgebaut.",
-"Sie dienten als Strafanstalt.",
-"Sie dienten als Waisenhaus."
-],
-"art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Aus aufgehobenen Klöstern wurden oft Fabriken, Schulen oder Spitäler; das liegt nahe. In Werden aber zogen Gefangene ein: Ab 1811 war in den Abteibauten bis ins 20. Jahrhundert ein Zuchthaus untergebracht. Heute ist dort die Folkwang Universität der Künste. Richtig war 3.",
-"quelle": "LVR-KuLaDig, Denkmalbereich Essen-Werden",
+"rueckseite": "Du hattest [Option] getippt. Dass die Äbte bis zur Eingemeindung herrschten, klingt glaubhaft, weil Kloster und Ort so eng verbunden sind. Doch ihre Herrschaft endete schon mit der Säkularisierung durch den Staat Preußen. Gegründet hatte das Kloster der friesische Missionar Liudger; das Pallium im Wappen ist ein Ehrenstück, das der Papst Erzbischöfen und in Ausnahmefällen heilig gesprochenen Bischöfen verlieh. Die einstige Abteikirche, heute Basilika, prägt noch immer das Stadtbild. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/werden_2/werden_geschichte.de.html; www.essen.de/dasistessen/stadtteile/werden_2/werden_kultur_freizeit.de.html",
 "faktencheck": "korrigiert",
-"id": "424-werden/v0.8/5",
+"id": "424-werden/v0.9/6",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "kompakter Stadtteil auf vier Quadratkilometern",
+"rang": 10,
 "familie": "C",
 "sorte": "Klassiker",
 "ort": "Werden",
-"steckbrief": "Werden, heute Stadtteil von Essen, hat rund 9.700 Einwohner und liegt 8 km südlich der Stadtmitte (Luftlinie).",
-"frage": "Werden besaß seit dem Mittelalter Stadtrechte. In welchem Zeitraum wurde es nach Essen eingemeindet?",
+"steckbrief": "Werden ist ein Stadtteil im Süden von Essen, 8 km von der Stadtmitte, mit knapp 10.000 Einwohnern und einer Altstadt an der Ruhr.",
+"frage": "Wie groß ist die Fläche des Stadtteils Werden?",
 "optionen": [
-"vor 1871",
-"1871 bis 1899",
-"1900 bis 1918",
-"1919 oder später"
+"unter 5 km²",
+"5 bis unter 10 km²",
+"10 bis unter 20 km²",
+"20 km² und mehr"
 ],
 "art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Viele denken an die Industrialisierung, als die Revierstädte rasch wuchsen. Werden kam aber spät dazu: Erst am 1. August 1929 wurde es nach Essen eingemeindet, zusammen mit mehreren anderen Orten. Richtig war 4.",
-"quelle": "dewiki Infobox, Artikel Werden",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an die vielen Wälder und Wege im Essener Süden denkt, tippt leicht größer. Werden misst aber nur 4,04 Quadratkilometer. Auf so kleiner Fläche drängen sich Altstadtgassen, Abtei, Basilika und Ruhrufer – Werden ist ein kompakter Stadtteil, kein weitläufiges Dorf. Richtig war 1.",
+"quelle": "Wikidata P2046",
 "faktencheck": "bestätigt",
-"id": "424-werden/v0.8/6",
+"id": "424-werden/v0.9/7",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Abtei wurde zum Gefängnis",
+"rang": 4,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Werden",
-"steckbrief": "Werden, Stadtteil von Essen mit rund 9.700 Einwohnern, liegt 8 km südlich der Stadtmitte (Luftlinie).",
-"frage": "Der heilige Liudger gründete um 799 das Kloster Werden. Welches Bistum hat er außerdem begründet?",
+"steckbrief": "Werden, ein Stadtteil im Süden von Essen mit knapp 10.000 Einwohnern, liegt 8 km von der Stadtmitte an der Ruhr.",
+"frage": "Die früheren Abteigebäude in Werden dienten über hundert Jahre lang einem ganz anderen Zweck. Welchem?",
 "optionen": [
-"Er begründete das Bistum Bremen.",
-"Er begründete das Bistum Paderborn.",
-"Er begründete das Bistum Osnabrück.",
-"Er begründete das Bistum Münster."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Bremen, Paderborn und Osnabrück sind ebenfalls frühe Bistümer im Sachsenland, darum liegen sie nahe. Liudger aber begründete neben dem Kloster Werden das Bistum Münster. Seine Ruhestätte ist die Krypta der Abteikirche St. Ludgerus in Werden. Richtig war 4.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Werden",
-"faktencheck": "korrigiert",
-"id": "424-werden/v0.8/8",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Werden",
-"steckbrief": "Der Essener Stadtteil Werden zählt rund 9.700 Einwohner und liegt 8 km südlich der Stadtmitte (Luftlinie).",
-"frage": "Der in Werden geborene Theologe Johann Julius Hecker begründete eine Schulform. Welche?",
-"optionen": [
-"Er begründete den Kindergarten.",
-"Er begründete die Realschule.",
-"Er begründete die Volkshochschule.",
-"Er begründete die Gesamtschule."
+"Dort lag eine Garnison mit Soldaten.",
+"Dort saßen Strafgefangene ein.",
+"Dort arbeitete eine Porzellanmanufaktur.",
+"Dort lebten Kinder in einem Waisenhaus."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ein Theologe als Schulgründer lässt eher an Kindergarten oder Volksbildung denken. Hecker aber gilt als Begründer der praxisorientierten Realschule: 1747 gründete er in Berlin seine „Ökonomisch-mathematische Realschule“. Dort starb er auch. Richtig war 2.",
-"quelle": "Neue Deutsche Biographie, deutsche-biographie.de",
+"rueckseite": "Du hattest [Option] getippt. Eine Garnison liegt nahe, denn große Klosterbauten wurden oft Kasernen. In Werden aber wurde daraus eine Strafanstalt, zuerst unter französischer, dann unter preußischer Verwaltung – bis kurz vor der Eingemeindung. Aus dem Ort der Mönche wurde so für gut hundert Jahre ein Ort der Häftlinge. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Werden",
+"faktencheck": "bestätigt",
+"id": "424-werden/v0.9/8",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Tuchfabrik am Fluss wurde Wohnadresse",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Werden",
+"steckbrief": "Werden ist ein Stadtteil im Süden von Essen mit knapp 10.000 Einwohnern, 8 km von der Stadtmitte.",
+"frage": "An der Ruhr in Werden arbeiteten bis 1964 die Werdener Feintuchwerke. Was ist ihr markantes Gebäude heute?",
+"optionen": [
+"Es ist heute ein Industriemuseum.",
+"Es ist heute ein Einkaufszentrum.",
+"Es ist heute ein Busbetriebshof.",
+"Es ist heute eine attraktive Wohnadresse."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Industriemuseum liegt nahe, denn im Ruhrgebiet sind viele alte Werke heute Museen. Das markante Gebäude der Feintuchwerke direkt an der Ruhr ist aber heute eine attraktive Wohnadresse. Aus dem Tuchmacherhandwerk war in Werden eine Industrie gewachsen, und mit der Schließung endete eine lange Tradition. Am Ruhrufer erinnert heute ein Wohnort an Werdens Tuchgeschichte. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/werden_2/werden_geschichte.de.html",
 "faktencheck": "korrigiert",
-"id": "424-werden/v0.8/9",
+"id": "424-werden/v0.9/9",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Krupp-Prozess der Ruhrbesetzung",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Werden",
+"steckbrief": "Werden, ein Stadtteil im Süden von Essen mit knapp 10.000 Einwohnern, liegt 8 km von der Stadtmitte an der Ruhr.",
+"frage": "1923 stand Gustav Krupp von Bohlen und Halbach in Werden vor Gericht. Welches Gericht verhandelte gegen ihn?",
+"optionen": [
+"Es war ein Militärgericht der französischen Besatzer.",
+"Es war das Reichsgericht aus Leipzig.",
+"Es war ein preußisches Schwurgericht.",
+"Es war ein Schiedsgericht des Völkerbunds."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein deutsches Gericht läge nahe, schließlich ging es um einen deutschen Industriellen. Doch französische Truppen hatten das Ruhrgebiet besetzt, und ihr Militärgericht verhandelte in Werden gegen Krupp, Direktoren und einen Betriebsrat des Konzerns. Anlass war der Essener Karsamstag 1923, an dem bei Krupp 13 Menschen starben. Krupp wurde verurteilt. So wurde das idyllische Werden zum Schauplatz der Ruhrbesetzung. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Werden",
+"faktencheck": "korrigiert",
+"id": "424-werden/v0.9/10",
 "tisch": false
 }
 ],
 "anschluss_von": "423-fischlaken",
 "anschluss": [
-"Fischlaken gehörte einst zu den Besitzungen der Abtei Werden.",
-"Fläche: Fischlaken ist mehr als doppelt so groß wie Werden."
+"Werden hat nicht halb so viel Fläche wie Fischlaken.",
+"Fischlaken liegt gut 60 Meter höher als Werden."
 ],
 "anschluesse": {
 "196-ratingen": [
@@ -116266,12 +120312,38 @@ window.QA_DATEN = {
 "Kreisgrenze: Hattingen ist kreisfrei, Werden gehört zum Landkreis Stadtkreis Essen."
 ],
 "423-fischlaken": [
-"Fischlaken gehörte einst zu den Besitzungen der Abtei Werden.",
-"Fläche: Fischlaken ist mehr als doppelt so groß wie Werden."
+"Werden hat nicht halb so viel Fläche wie Fischlaken.",
+"Fischlaken liegt gut 60 Meter höher als Werden."
 ]
 },
 "ags": "05113000",
 "ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Werden liegt 8 km südlich der Essener Stadtmitte an Ruhr und Baldeneysee, auf rund 4 km² und etwa 60 m Höhe."
+},
+{
+"facette": "GESCHICHTE",
+"text": "799 erstmals belegt, Benediktinerabtei bis 1803, von 1317 bis 1929 eigene Stadt, dann zu Essen eingemeindet."
+},
+{
+"facette": "ALLTAG",
+"text": "Knapp 10.000 Einwohner, Altstadt mit den Fußgängerzonen Grafenstraße und Hufergasse, der Werdener Markt ist zentrale Bushaltestelle."
+},
+{
+"facette": "FREIZEIT",
+"text": "Stadtbad Werden, Brehminsel als Stadtpark, Ruhrtalradweg, Abteiweg und Eggenweg, Ruder-Club von 1896, Kräutergarten."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof Essen-Werden an der S6, zwei Krankenhäuser, St. Josef und Evangelisches, dazu die Folkwang Universität der Künste."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025 für ganz Essen: CDU vor SPD und AfD, Wahlbeteiligung 80,1 Prozent."
+}
+],
 "km_vom_vorigen": 2.1
 },
 {
@@ -116281,169 +120353,215 @@ window.QA_DATEN = {
 "lon": 7.12222,
 "karten": [
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Burgruine mit Wohnturm als Wahrzeichen",
+"rang": 1,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Burgaltendorf",
-"steckbrief": "Essener Stadtteil mit rund 9.300 Einwohnern, 9 km südöstlich der Stadtmitte.",
-"frage": "1858 wurde im Ort die katholische Burgschule errichtet. Woraus entstand sie?",
+"steckbrief": "Stadtteil mit rund 9.000 Einwohnern, 9 km südöstlich der Essener Stadtmitte.",
+"frage": "Die Burg Altendorf ist heute eine Ruine mit markantem Wohnturm. Warum verfiel sie nach etwa 1800 so rasch?",
 "optionen": [
-"Sie entstand aus Ziegeln einer Dorfziegelei.",
-"Sie entstand aus alten Steinen der Burg.",
-"Sie entstand als Fachwerkbau aus Holz.",
-"Sie entstand aus Schlackensteinen einer Hütte."
+"Ein Brand im Dreißigjährigen Krieg zerstörte sie.",
+"Die Leute holten sich dort Bausteine.",
+"Ein Erdbeben brachte den Wohnturm zum Einsturz.",
+"Ein Ruhrhochwasser unterspülte ihre Grundmauern."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ziegel liegen nahe, im Ruhrgebiet wurde viel mit Backstein gebaut. Die katholische Burgschule entstand aber auf dem Gelände der Vorburg, und zwar aus alten Steinen der Burg selbst. Die alte Burg Altendorf lieferte also das Baumaterial. Richtig war 2.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Burgaltendorf",
-"faktencheck": "unsicher",
-"id": "425-burgaltendorf/v0.8/1",
+"rueckseite": "Du hattest [Option] getippt. Krieg oder Naturgewalt liegen nahe, weil viele Burgen so endeten. Doch die Burg der Herren von Aldendorpe war bis etwa 1800 bewohnt, zuletzt von einer zugewanderten Bergmannsfamilie. Danach diente sie als Steinbruch und verfiel rasch. Heute ist die Ruine mit ihrem markanten Wohnturm das Wahrzeichen des Stadtteils. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Burgaltendorf; Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/burgaltendorf_2/burgaltendorf_kultur_freizeit.de.html",
+"faktencheck": "bestätigt",
+"id": "425-burgaltendorf/v0.9/1",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "GESCHICHTE",
+"charakteristikum": "„Burg“ im Namen wegen Namensdoppelung",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
 "ort": "Burgaltendorf",
-"steckbrief": "Essener Stadtteil mit rund 9.300 Einwohnern, 9 km südöstlich der Stadtmitte.",
-"frage": "Wie groß ist die Fläche des Stadtteils Burgaltendorf?",
+"steckbrief": "Stadtteil mit rund 9.000 Einwohnern, 9 km südöstlich der Essener Stadtmitte.",
+"frage": "Seit der Eingemeindung nach Essen 1970 heißt der Ort Burgaltendorf statt Altendorf. Warum brauchte er einen neuen Namen?",
 "optionen": [
-"unter 3 km²",
-"3 bis unter 5 km²",
-"5 bis unter 8 km²",
-"8 km² und mehr"
+"Ein Gericht verbot den alten Namen.",
+"Die Burgherren hatten den Zusatz einst verfügt.",
+"Essen hatte schon einen Stadtteil Altendorf.",
+"Eine Zeche besaß die Rechte am Namen."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Wer an einen dichten Großstadtvorort denkt, schätzt kleiner. Burgaltendorf misst aber 6,3 Quadratkilometer. Richtig war 3.",
-"quelle": "Wikidata P2046",
-"faktencheck": "korrigiert",
-"id": "425-burgaltendorf/v0.8/2",
+"rueckseite": "Du hattest [Option] getippt. Wer „Burg“ im Namen hört, denkt an Ritterzeit und alten Adel. Doch der Zusatz wurde erst mit der Eingemeindung nötig, denn Essen hatte schon einen Stadtteil Altendorf. Den Ausschlag für „Burg“ gab die Ruine der Burganlage. So steckt die Ruine bis heute im Ortsnamen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/burgaltendorf_2/essen_de___inhaltsseite_6.de.html",
+"faktencheck": "bestätigt",
+"id": "425-burgaltendorf/v0.9/2",
 "tisch": false
 },
 {
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Burgaltendorf",
-"steckbrief": "Essener Stadtteil auf der Ruhrhalbinsel, rund 9.300 Einwohner, 9 km südöstlich der Stadtmitte.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Deutsche sprengten einst die Eisenbahnbrücke Dahlhausen.",
-"Die Herz-Jesu-Kirche ist aus rotem Backstein gebaut.",
-"Eine Urkunde Rainalds von Dassel nennt Altendorf."
-],
-"art": "luege",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Backstein klingt nach Ruhrgebiet, doch die katholische Herz-Jesu-Kirche wurde aus Ruhrsandstein gebaut, mit romanischen Stilelementen. Die Sprengung stimmt: Deutsche selbst zerstörten die Eisenbahnbrücke Dahlhausen. Und Rainald von Dassel, Erzbischof von Köln, nennt den Ort in einer Urkunde als villa aldendorpe. Die Lüge war 2.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Burgaltendorf",
-"faktencheck": "unsicher",
-"id": "425-burgaltendorf/v0.8/3",
-"tisch": false
-},
-{
+"facette": "ALLTAG",
+"charakteristikum": "ländlicher Stadtteil mit lockerer Bebauung",
+"rang": 9,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Burgaltendorf",
-"steckbrief": "Essener Stadtteil mit rund 9.300 Einwohnern, 9 km südöstlich der Stadtmitte.",
-"frage": "Lange gingen die Kinder zum Unterricht nach Niederwenigern. Wo wurde Mitte der 1840er Jahre erstmals im Ort unterrichtet?",
+"steckbrief": "Stadtteil mit rund 9.000 Einwohnern, 9 km südöstlich der Essener Stadtmitte.",
+"frage": "Was prägt das Bild von Burgaltendorf heute hauptsächlich?",
 "optionen": [
-"Man unterrichtete in einem leeren Bauernhaus.",
-"Man unterrichtete in einer Gaststätte.",
-"Man unterrichtete im Wartesaal des Bahnhofs.",
-"Man unterrichtete in einem Raum der Zeche."
+"Hochhaussiedlungen aus der Nachkriegszeit prägen das Bild.",
+"Zechen und Kokereien prägen das Bild.",
+"Gewerbegebiete und Logistikhallen prägen das Bild.",
+"Wohnhäuser und etwas Landwirtschaft prägen das Bild."
 ],
 "art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ein Raum der Zeche wirkt im Ruhrgebiet naheliegend. Den ersten Unterricht im Ort gab es aber in der Gaststätte Mintrop im Schwarzensteinweg. Damit entfiel für die Kinder der lange Weg nach Niederwenigern. Richtig war 2. /",
-"quelle": "KuLaDig (LVR), Gaststätte Bungert in Burgaltendorf, kuladig.de/Objektansicht/A-KL-20090527-0006",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ruhrgebiet klingt nach Zechen und dichter Bebauung. Heute prägen vor allem Wohnhäuser den Stadtteil, meist Ein- und Zweifamilienhäuser und kleinere Mehrfamilienhäuser, dazu etwas Landwirtschaft. Der Ort liegt oberhalb der Ruhr in einem ausgedehnten Grüngürtel und hat seinen dörflichen Charme bewahrt. Für Essen ist das ein ungewohnt ländliches Bild. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/burgaltendorf_2/burgaltendorf_startseite.de.jsp; Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/burgaltendorf_2/burgaltendorf_statistik_1.de.html",
 "faktencheck": "korrigiert",
-"id": "425-burgaltendorf/v0.8/5",
+"id": "425-burgaltendorf/v0.9/3",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Burgaltendorf",
-"steckbrief": "Essener Stadtteil mit rund 9.300 Einwohnern, 9 km südöstlich der Stadtmitte.",
-"frage": "Wie weit ist es von Burgaltendorf in Luftlinie bis zur Landeshauptstadt Düsseldorf?",
-"optionen": [
-"unter 15 km",
-"15 bis unter 25 km",
-"25 bis unter 40 km",
-"40 km und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Essen und Düsseldorf gelten als Nachbarn, deshalb schätzen viele zu knapp. Von Burgaltendorf bis zur Landeshauptstadt sind es aber 32 Kilometer Luftlinie. Richtig war 3.",
-"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
-"faktencheck": "korrigiert",
-"id": "425-burgaltendorf/v0.8/6",
-"tisch": false
-},
-{
+"facette": "LAGE",
+"charakteristikum": "westfälische Vergangenheit eines Essener Stadtteils",
+"rang": 5,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Burgaltendorf",
-"steckbrief": "Essener Stadtteil mit rund 9.300 Einwohnern, 9 km südöstlich der Stadtmitte.",
-"frage": "Die 1953 geweihte evangelische Kirche wurde 1988 durch einen Neubau ersetzt. Welchen Grund nennt die Ortsgeschichte?",
+"steckbrief": "Stadtteil mit rund 9.000 Einwohnern, 9 km südöstlich der Essener Stadtmitte.",
+"frage": "Bevor Altendorf zu Essen kam, gehörte es zu einem Landkreis. Zu welchem?",
 "optionen": [
-"Bergschäden zwangen dazu, sie aufzugeben.",
-"Ein Brand hatte sie schwer zerstört.",
-"Sie musste einer neuen Straße weichen.",
-"Ein Sturm hatte ihren Turm umgeworfen."
+"Es gehörte zum Ennepe-Ruhr-Kreis.",
+"Es gehörte zum Kreis Moers.",
+"Es gehörte zum Kreis Recklinghausen.",
+"Es gehörte zum Kreis Iserlohn."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein Brand ist der klassische Grund für einen Kirchenneubau. Hier aber war es der Untergrund: Wegen Bergschäden musste der Bau aufgegeben werden. Ersatz wurde die neue Jesus-lebt-Kirche. Bergschäden entstehen, wenn Hohlräume des Bergbaus im Untergrund nachgeben. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Burgaltendorf",
-"faktencheck": "unsicher",
-"id": "425-burgaltendorf/v0.8/8",
+"rueckseite": "Du hattest [Option] getippt. Vom heutigen Essen aus sucht man den alten Kreis leicht im Rheinland. Doch Altendorf blickte nach Osten: Es gehörte zur Grafschaft Mark, später zu den Kreisen Bochum und Hattingen, zuletzt zum Ennepe-Ruhr-Kreis. Erst 1970 kam es zu Essen. Richtig war 1.",
+"quelle": "KuLaDig (LVR), www.kuladig.de/Objektansicht/O-FJK-20100511-0001; Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/burgaltendorf_2/essen_de___inhaltsseite_6.de.html",
+"faktencheck": "korrigiert",
+"id": "425-burgaltendorf/v0.9/4",
 "tisch": false
 },
 {
+"facette": "INFRA",
+"charakteristikum": "Bahnhof zuerst für Kohle",
+"rang": 7,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Burgaltendorf",
-"steckbrief": "Essener Stadtteil mit rund 9.300 Einwohnern, 9 km südöstlich der Stadtmitte.",
-"frage": "Die Eggemannsche Schwimmbrücke hieß im Volksmund Fünf-Pfennigs-Brücke. Warum?",
+"steckbrief": "Stadtteil mit rund 9.000 Einwohnern, 9 km südöstlich der Essener Stadtmitte.",
+"frage": "Altendorf hatte früher einen Bahnanschluss. Womit begann dort der Zugverkehr?",
 "optionen": [
-"Für ihren Bau spendete jeder Haushalt fünf Pfennige.",
-"Sie schwamm auf fünf verankerten Kähnen.",
-"Jede Überquerung kostete fünf Pfennige.",
-"Ihr Holz kostete fünf Pfennige je Brett."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Eine Spendensammlung klingt nach Dorfgemeinschaft. Der Name kommt aber vom Preis: Jede Überquerung kostete fünf Pfennige. Die Schwimmbrücke brachte Altendorfer Arbeiter nach Horst oder Dahlhausen. Auch die Schwimmbrücke Holtey trug denselben Spitznamen. Richtig war 3.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Burgaltendorf",
-"faktencheck": "unsicher",
-"id": "425-burgaltendorf/v0.8/9",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Burgaltendorf",
-"steckbrief": "Essener Stadtteil mit rund 9.300 Einwohnern, 9 km südöstlich der Stadtmitte.",
-"frage": "Ein Heraldiker schuf für die Essener Stadtteile Wappen. Was zeigt das Wappen von Burgaltendorf?",
-"optionen": [
-"Es zeigt drei schwarze Grubenlampen auf Silber.",
-"Es zeigt drei schwarze Pferdeprammen auf Silber.",
-"Es zeigt eine schwarze Burgruine auf Silber.",
-"Es zeigt ein schwarzes Wasserrad auf Silber."
+"Zuerst fuhren Personenzüge, Kohle kam später.",
+"Zuerst rollten Kohlenzüge, Fahrgäste kamen später.",
+"Kohlen- und Personenzüge starteten im selben Jahr.",
+"Zuerst fuhren Ausflugszüge zur Ruhr."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Grubenlampen passen zum Ruhrgebiet, doch das Wappen geht auf die Burgherren von Altendorf zurück. Prammen sind Metallklemmen mit Zacken, die man beim Wildpferdefang auf die Nüstern klemmte. Entworfen hat es der Heraldiker Kurt Schweder, amtlich ist es nicht. Richtig war 2.",
+"rueckseite": "Du hattest [Option] getippt. Ein Bahnhof wirkt zuerst wie ein Ort für Reisende. In Altendorf ging es aber um Kohle: Zuerst brachten Güterzüge die Kohle der Zechen zu den Kunden, einen Personenbahnhof gab es erst Jahre später. Heute hält hier kein Personenzug mehr. Der Bahnverkehr zeigt, wie sehr die Kohle das Leben im Ort bestimmte. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/burgaltendorf_2/essen_de___inhaltsseite_6.de.html",
+"faktencheck": "korrigiert",
+"id": "425-burgaltendorf/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Bergbau bis in die Sechziger",
+"rang": 4,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Burgaltendorf",
+"steckbrief": "Stadtteil mit rund 9.000 Einwohnern, 9 km südöstlich der Essener Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Altendorfs Bergbau endete schon vor dem Ersten Weltkrieg.",
+"Der Ort wurde schon im 12. Jahrhundert urkundlich erwähnt.",
+"Die Herz-Jesu-Kirche im Ort ist neuromanisch erbaut."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine so frühe Erwähnung klingt nach Legende, doch eine Urkunde von 1166 nennt den Ort als „Aldendorpe“. Neuromanisch heißt: im alten Stil neu gebaut. Gelogen war das frühe Ende des Bergbaus. Die Zeche Theodor schloss erst 1968 als letzte Schachtanlage im Ort. Kohle prägte Altendorf also bis weit in die Nachkriegszeit. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/burgaltendorf_2/essen_de___inhaltsseite_6.de.html; Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/burgaltendorf_2/burgaltendorf_kultur_freizeit.de.html",
+"faktencheck": "korrigiert",
+"id": "425-burgaltendorf/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "viel Fläche für einen Stadtteil",
+"rang": 10,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Burgaltendorf",
+"steckbrief": "Stadtteil mit rund 9.000 Einwohnern, 9 km südöstlich der Essener Stadtmitte.",
+"frage": "Wie groß ist die Fläche des Stadtteils Burgaltendorf?",
+"optionen": [
+"unter 2 km²",
+"2 bis unter 4 km²",
+"4 bis unter 6 km²",
+"6 km² oder mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Stadtteil klingt nach ein paar Straßenzügen, daher liegt eine kleine Spanne nahe. Burgaltendorf umfasst aber 6,3 km². Für einen Stadtteil ist das viel Platz – kein Wunder, denn bis zur Eingemeindung war Altendorf eine eigene Gemeinde. Richtig war 4.",
+"quelle": "Wikidata P2046; Eingemeindung: dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "425-burgaltendorf/v0.9/7",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Kohleboom durch die schiffbare Ruhr",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Burgaltendorf",
+"steckbrief": "Stadtteil mit rund 9.000 Einwohnern, 9 km südöstlich der Essener Stadtmitte.",
+"frage": "Ende des 18. Jahrhunderts gewann der Bergbau in Altendorf an Bedeutung. Was nennt die Ortsgeschichte als Anlass?",
+"optionen": [
+"Ein Waldbrand hatte das Brennholz ringsum vernichtet.",
+"Eine neue Eisenbahn brachte die Kohle fort.",
+"Die Ruhr wurde für Schiffe befahrbar gemacht.",
+"Ein Erdrutsch hatte reiche Flöze freigelegt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei Kohle denkt man zuerst an Eisenbahnen, doch die kamen hier erst später, angelockt vom wachsenden Bergbau. Den Anstoß gab der Fluss: Die Ruhr wurde schiffbar gemacht, und Kohle ließ sich verschiffen. Gegraben wurde schon lange vorher, für die Schmiede der Burg. So hängt Altendorfs Bergbau an dem Fluss vor der Haustür. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/burgaltendorf_2/essen_de___inhaltsseite_6.de.html",
+"faktencheck": "korrigiert",
+"id": "425-burgaltendorf/v0.9/9",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Bahnbrücke über die Ruhr ohne Gleise",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Burgaltendorf",
+"steckbrief": "Stadtteil mit rund 9.000 Einwohnern, 9 km südöstlich der Essener Stadtmitte.",
+"frage": "Eine Eisenbahnbrücke führt von Burgaltendorf über die Ruhr nach Dahlhausen. Was ist aus ihr geworden?",
+"optionen": [
+"Sie wurde abgerissen und durch einen Neubau ersetzt.",
+"Sie steht noch, trägt aber keine Gleise mehr.",
+"Über sie fährt heute regelmäßig die S-Bahn.",
+"Sie liegt seit Kriegsende in Trümmern."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Viele Ruhrbrücken wurden im Krieg zerstört, das macht Trümmer naheliegend. Tatsächlich sprengten Deutsche die Brücke 1945, doch 1951 ging sie eingleisig wieder in Betrieb. Heute steht sie noch, aber ohne Gleise. Wer am Ufer der Ruhr entlangfährt, sieht hier ein Stück Bahngeschichte über dem Fluss. Richtig war 2.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Burgaltendorf",
 "faktencheck": "unsicher",
-"id": "425-burgaltendorf/v0.8/10",
+"id": "425-burgaltendorf/v0.9/10",
 "tisch": false
 }
 ],
 "anschluss_von": "424-werden",
 "anschluss": [
-"Fläche: Burgaltendorf misst 6,3 km², Werden nur 4,04 km².",
-"Burg Altendorf lag einst im Grenzgebiet zum Kloster Werden."
+"Burgaltendorf liegt höher über dem Meer als Werden."
 ],
 "anschluesse": {
 "198-muelheim": [
@@ -116477,12 +120595,33 @@ window.QA_DATEN = {
 "Kreisgrenze: Hattingen ist kreisfrei, Burgaltendorf gehört zum Landkreis Stadtkreis Essen."
 ],
 "424-werden": [
-"Fläche: Burgaltendorf misst 6,3 km², Werden nur 4,04 km².",
-"Burg Altendorf lag einst im Grenzgebiet zum Kloster Werden."
+"Burgaltendorf liegt höher über dem Meer als Werden."
 ]
 },
 "ags": "05113000",
 "ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Essener Stadtteil auf der Ruhrhalbinsel, südlich der Ruhr, 9 km südöstlich der Stadtmitte, 6,3 Quadratkilometer groß."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Als „villa aldendorpe“ urkundlich erwähnt, seit 1970 bei Essen; Wahrzeichen ist die Burgruine."
+},
+{
+"facette": "ALLTAG",
+"text": "Früher drei große Tiefbauzechen bis in die Sechziger; heute rund 9.000 Einwohner in lockerer Bebauung im Grüngürtel."
+},
+{
+"facette": "FREIZEIT",
+"text": "Ruhrtalradweg, Hardenberger Weg, vier Denkmal-Rundgänge mit Infotafeln, Stollenmundloch „Große Vastbank“, Kleines Theater, eine Padel-Anlage."
+},
+{
+"facette": "INFRA",
+"text": "Postleitzahl 45289; Grundschule mit Sporthalle und Schwimmbad, Comenius-Förderschule, Freiwillige Feuerwehr; Personenzüge halten nicht mehr."
+}
+],
 "km_vom_vorigen": 9.4
 },
 {
@@ -116492,188 +120631,193 @@ window.QA_DATEN = {
 "lon": 7.07639,
 "karten": [
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Schmiederinge im Wappen",
+"rang": 3,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Steele",
-"steckbrief": "Stadtteil von Essen, 5 km Luftlinie östlich der Stadtmitte.",
-"frage": "Anfang des 18. Jahrhunderts unterschied man östlich von Steele ein „Königssteele“. Welchen Grund nennt die Ortsgeschichte dafür?",
+"steckbrief": "Essener Stadtteil mit rund 17.000 Einwohnern, 5 km östlich der Stadtmitte.",
+"frage": "Das Steeler Wappen zeigt drei schwarze, verschlungene Ringe auf Gold. Wofür stehen die Ringe?",
 "optionen": [
-"Die Siedlungen dort gehörten zu Preußen.",
-"Der Name ehrte eine Bauernfamilie König.",
-"Dort wurde jährlich ein Schützenkönig gekürt.",
-"Dort lag ein uraltes Königsgrab."
+"Sie gehören zum Schutzpatron der Schmiede.",
+"Sie stehen für drei vereinte Bauerschaften.",
+"Sie zeigen Kettenglieder der Ruhrschiffer.",
+"Sie erinnern an drei frühe Kohlenzechen."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein Schützenkönig oder eine Familie König liegen bei diesem Namen nahe. Der Grund war aber politisch: Steele gehörte zum Äbtissinnenstift Essen, die Siedlungen im Osten zum Königreich Preußen. Auch der heutige Bahnhof Essen-Steele Ost hieß einst Königssteele. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Steele_(Essen)",
-"faktencheck": "unsicher",
-"id": "426-steele/v0.8/1",
+"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet denkt man bei Schwarz schnell an Kohle. Doch die tonangebenden Steeler Bürger waren die Mitglieder der Schmiedegilde, ihr Patron war der heilige Eligius. Eines seiner Attribute, ein Ring, wurde zum Wappenzeichen der Steeler Schmiede; das gelbe Feld deutet das Feuer an, das Schwarz der Ringe das Eisen. Das Wappen ist aus dem alten Steeler Siegel entliehen und nicht mit den Krupp-Ringen zu verwechseln. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/steele_2/steele_geschichte.de.html",
+"faktencheck": "korrigiert",
+"id": "426-steele/v0.9/1",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "FREIZEIT",
+"charakteristikum": "zweitältester Park Essens auf Anhöhe",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
 "ort": "Steele",
-"steckbrief": "Stadtteil von Essen, 5 km Luftlinie östlich der Stadtmitte.",
-"frage": "Wie groß ist die Fläche des Stadtteils Steele?",
+"steckbrief": "Essener Stadtteil mit rund 17.000 Einwohnern, 5 km östlich der Stadtmitte.",
+"frage": "Der Steeler Stadtgarten ist ein historischer Volkspark auf einer kleinen Anhöhe. Was stimmt über sein Alter?",
 "optionen": [
-"unter 2 km²",
-"2 bis unter 4 km²",
-"4 bis unter 8 km²",
-"8 km² oder mehr"
+"Er ist Essens ältester öffentlicher Park.",
+"Er ist Essens zweitältester öffentlicher Park.",
+"Er ist Essens drittältester öffentlicher Park.",
+"Er ist Essens viertältester öffentlicher Park."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Wer weiß, dass Steele bis zu seiner Eingemeindung eine eigene Gemeinde war, schätzt die Fläche leicht größer. Tatsächlich misst der Stadtteil nur 3,03 Quadratkilometer. Richtig war 2.",
-"quelle": "Wikidata P2046",
-"faktencheck": "bestätigt",
-"id": "426-steele/v0.8/2",
+"rueckseite": "Du hattest [Option] getippt. Wer weiß, dass Steele rund 350 Jahre lang Stadtrechte besaß, tippt leicht auf den ältesten. Doch der Park im Südviertel ist älter: Nach Angaben der Stadt Essen ist der Steeler Stadtgarten der zweitälteste öffentlich zugängliche Park Essens. Er geht auf den Steeler Verschönerungsverein von 1882 zurück; 1903 kam ein Restaurationsgebäude mit Kuppelsaal hinzu. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/steele_2/steele_kultur_freizeit.de.html",
+"faktencheck": "korrigiert",
+"id": "426-steele/v0.9/2",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "Name vom Steilhang am Kirchberg",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Steele",
+"steckbrief": "Essener Stadtteil mit rund 17.000 Einwohnern, 5 km östlich der Stadtmitte.",
+"frage": "Der Name Steele geht wahrscheinlich auf ein altes Wort für eine Geländeform zurück. Welche Geländeform war gemeint?",
+"optionen": [
+"Gemeint war eine Furt durch den Fluss.",
+"Gemeint war eine sumpfige Flussaue.",
+"Gemeint war ein steiler, abschüssiger Hang.",
+"Gemeint war eine Insel im Fluss."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Ort direkt an der Ruhr liegt eine Deutung aus dem Fluss nahe. Doch wahrscheinlich stammt der Name von den Ripuariern: In ihrer Sprache bedeutete „stehal“ abschüssig oder steil. Gemeint war vermutlich ursprünglich der Steilhang des Steeler Kirchbergs. So erzählt der Name wohl nicht vom Fluss, sondern vom Berg im Ort. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/steele_2/steele_geschichte.de.html",
+"faktencheck": "korrigiert",
+"id": "426-steele/v0.9/3",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Altstadt um 1970 großflächig abgerissen",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Steele",
+"steckbrief": "Essener Stadtteil mit rund 17.000 Einwohnern, 5 km östlich der Stadtmitte.",
+"frage": "In den späten 1960ern und frühen 1970ern ließ man in Steele hunderte alte Häuser abreißen. Wofür machten sie vor allem Platz?",
+"optionen": [
+"Sie wichen mehrspurigen Straßen an Ruhr und Bahnhof.",
+"Sie wichen einer neuen Großzeche mit Fördertürmen.",
+"Sie wichen einem neuen Ruhrhafen für Kohleschiffe.",
+"Sie wichen einer großen Bundeswehrkaserne."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet denkt man bei großem Abriss zuerst an Bergbau. Doch in Steele machte der Abriss hunderter alter Häuser Platz für mehrspurige Tangentialstraßen an der Ruhr und am Bahnhof, und der Ort wurde zum Mittelzentrum mit Fußgängerzonen umgebaut. Die Stadt Essen nennt dies die bis dahin größte Flächensanierung in der Bundesrepublik. Das Stadtbild hat sich dadurch nachhaltig verändert. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/steele_2/steele_geschichte.de.html",
+"faktencheck": "korrigiert",
+"id": "426-steele/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "zwei Bahnhöfe, Verkehrsknoten",
+"rang": 4,
 "familie": "B",
 "sorte": "Geschichte",
 "ort": "Steele",
-"steckbrief": "Stadtteil von Essen, 5 km Luftlinie östlich der Stadtmitte.",
+"steckbrief": "Essener Stadtteil mit rund 17.000 Einwohnern, 5 km östlich der Stadtmitte.",
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Pergamonaltar-Entdecker Carl Humann war Ehrenbürger von Steele.",
-"Für den Stadtgarten schuf Franz Guntermann einen Odysseus.",
-"Steeles Verschönerungsverein überstand die NS-Zeit ohne Unterbrechung."
+"Das Alfried Krupp Krankenhaus Steele hieß früher Lutherkrankenhaus.",
+"Der Bahnhof Essen-Steele Ost hieß früher Steele Süd.",
+"Die Steeler Feuerwehr wurde als Freiwillige Bürgerfeuerwehr gegründet."
 ],
 "art": "luege",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Dass der Entdecker des Pergamonaltars Steeler Ehrenbürger war, klingt am ehesten erfunden, stimmt aber. Gelogen war die Vereinsgeschichte: Der Verschönerungsverein von 1882, der den Stadtgarten anlegen ließ, wurde in den 1930er Jahren im Zuge der Gleichschaltung aufgelöst. Nach dem Krieg entstand er neu als Steeler Bürgerschaft e. V. Die Lüge war 3.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Steele_(Essen)",
-"faktencheck": "korrigiert",
-"id": "426-steele/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Steele",
-"steckbrief": "Stadtteil von Essen, 5 km Luftlinie östlich der Stadtmitte.",
-"frage": "Bundestagswahl 2025, Zweitstimmen in ganz Essen: Wie viel Prozent holte die stärkste Partei?",
-"optionen": [
-"unter 18 %",
-"18 bis unter 22 %",
-"22 bis unter 25 %",
-"25 % oder mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Viele tippen bei Essen auf die SPD als klare Siegerin. In ganz Essen lag bei der Bundestagswahl 2025 aber die CDU mit 26,5 Prozent der Zweitstimmen vorn, vor der SPD. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "426-steele/v0.8/4",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Steele",
-"steckbrief": "Stadtteil von Essen, 5 km Luftlinie östlich der Stadtmitte.",
-"frage": "Nach einem Baustopp im Januar 1972 wurde das Möbelhaus Kröger dennoch höher fertiggestellt, als der Bebauungsplan erlaubte. Wie ging es aus?",
-"optionen": [
-"Der Bebauungsplan wurde nachträglich hochgestuft.",
-"Das zu hohe Geschoss wurde wieder abgetragen.",
-"Der Bau blieb jahrelang eine unfertige Ruine.",
-"Das Möbelhaus erhielt nie eine Genehmigung."
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Nach einem Baustopp liegt der Rückbau nahe. Stattdessen wurde der Bebauungsplan nachträglich hochgestuft und der Rechtsbruch so legalisiert. Die Akten dazu gingen später im Essener Rechtsamt spurlos verloren. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Steele_(Essen)",
-"faktencheck": "unsicher",
-"id": "426-steele/v0.8/5",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Steele",
-"steckbrief": "Stadtteil von Essen, 5 km Luftlinie östlich der Stadtmitte.",
-"frage": "In welchem Zeitraum wurde Steele nach Essen eingemeindet?",
-"optionen": [
-"vor 1910",
-"1910 bis 1939",
-"1940 bis 1969",
-"1970 oder später"
-],
-"art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Viele denken bei Eingemeindungen an die großen Gebietsreformen der Nachkriegszeit. Steele kam aber schon 1929 zu Essen; bis dahin war es eigenständig. Richtig war 2.",
-"quelle": "dewiki Infobox",
-"faktencheck": "bestätigt",
-"id": "426-steele/v0.8/6",
+"rueckseite": "Du hattest [Option] getippt. Dass ein Ostbahnhof einst „Süd“ hieß, klingt verdreht, und das ist es auch. Steele Ost hieß früher Königssteele, Steele Nord und Steele Hbf. Steele Süd war ein eigener Bahnhof an der Strecke der Rheinischen Eisenbahn; vom ehemaligen Güterbahnhof Steele-Süd zeugt noch ein Ablaufberg. Der Bahnhof Essen-Steele ist nach dem Hauptbahnhof Essens zweitwichtigster Verkehrsknoten. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Steele_(Essen); OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "426-steele/v0.9/6",
 "tisch": false
 },
 {
-"familie": "A",
-"sorte": "Geschichte",
+"facette": "LAGE",
+"charakteristikum": "kompakter Stadtteil auf drei Quadratkilometern",
+"rang": 10,
+"familie": "C",
+"sorte": "Klassiker",
 "ort": "Steele",
-"steckbrief": "Stadtteil von Essen, 5 km Luftlinie östlich der Stadtmitte.",
-"frage": "Ein Wohnhochhaus an der Bochumer Straße sollte laut Bebauungsplan 12 Etagen haben. Wie viele wurden auf Drängen des Investors genehmigt?",
+"steckbrief": "Essener Stadtteil mit rund 17.000 Einwohnern, 5 km östlich der Stadtmitte.",
+"frage": "Steele wurde einst nach Essen eingemeindet. Wie groß ist die Fläche des Stadtteils?",
 "optionen": [
-"Genehmigt wurden 14 Etagen.",
-"Genehmigt wurden 16 Etagen.",
-"Genehmigt wurden 21 Etagen.",
-"Genehmigt wurden 26 Etagen."
+"unter 1 km²",
+"1 bis unter 2 km²",
+"2 bis unter 4 km²",
+"4 km² und mehr"
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein paar Etagen Zugabe wären ein naheliegender Kompromiss gewesen. Genehmigt wurden aber 21 statt der im Bebauungsplan vorgesehenen 12 Etagen, fast doppelt so viele. Richtig war 3.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Steele_(Essen)",
-"faktencheck": "korrigiert",
-"id": "426-steele/v0.8/7",
+"rueckseite": "Du hattest [Option] getippt. Ein Ort, der vor seiner Eingemeindung nach Essen selbstständig war, lässt an viel Fläche denken. Doch die Gemarkung Steele misst nur 3,03 Quadratkilometer. Steele ist ein kompakter Stadtteil: Wer hindurchfährt, ist schnell wieder draußen. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "426-steele/v0.9/7",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "barockes Waisenhaus einer Äbtissin",
+"rang": 5,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Steele",
-"steckbrief": "Stadtteil von Essen, 5 km Luftlinie östlich der Stadtmitte.",
-"frage": "Die Barockfassade eines Waisenhauses prägt das Bild von Steele. Wer hat das Waisenhaus gestiftet?",
+"steckbrief": "Essener Stadtteil mit rund 17.000 Einwohnern, 5 km östlich der Stadtmitte.",
+"frage": "Ein großes Waisenhaus aus dem 18. Jahrhundert besteht in Steele bis heute als Stiftung. Wer ließ es errichten? 1. Ein reicher Steeler Kaufmann ließ es errichten. 2. Eine Fürstäbtissin ließ es errichten. 3. Der Bürgermeister der Stadt ließ es errichten. 4. Eine Bergbaugesellschaft ließ es errichten.",
 "optionen": [
 "Ein reicher Steeler Kaufmann stiftete es.",
-"Die Essener Fürstäbtissin stiftete es.",
-"Der König von Preußen stiftete es.",
-"Die katholische Pfarrgemeinde stiftete es."
+"Eine Äbtissin stiftete es.",
+"Der Bürgermeister der Stadt stiftete es.",
+"Eine Bergbaugesellschaft ließ es errichten."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Bei Waisenhäusern denkt man oft an Kirchengemeinden oder wohlhabende Bürger. Gestiftet hat es aber die Essener Fürstäbtissin Franziska Christine von Pfalz-Sulzbach; die Stiftung trägt bis heute ihren Namen. Richtig war 2.“ –",
-"quelle": "LWL, KuLaDig (LVR)",
+"rueckseite": "Du hattest [Option] getippt. Bei einem Waisenhaus denkt man leicht an reiche Bürger. Doch zwischen 1764 und 1769 ließ Fürstäbtissin Franziska Christine von Pfalz-Sulzbach das Waisenhaus errichten. Es besteht bis heute als Fürstin-Franziska-Christine-Stiftung und trägt ihren Namen. Richtig war 2. (",
+"quelle": "KuLaDig/LVR)",
 "faktencheck": "korrigiert",
-"id": "426-steele/v0.8/8",
+"id": "426-steele/v0.9/8",
 "tisch": false
 },
 {
-"familie": "A",
+"facette": "FREIZEIT",
+"charakteristikum": "Freibad direkt an der Ruhr",
+"rang": 2,
+"familie": "D",
 "sorte": "Geschichte",
 "ort": "Steele",
-"steckbrief": "Stadtteil von Essen, 5 km Luftlinie östlich der Stadtmitte.",
-"frage": "Im Jahr 938 hielt ein deutscher König in Steele einen Hoftag ab. Wer war es?",
+"steckbrief": "Essener Stadtteil mit rund 17.000 Einwohnern, 5 km östlich der Stadtmitte.",
+"frage": "Welches dieser vier Dinge liegt in Steele? 1. die Zeche Zollverein 2. der Essener Hauptbahnhof 3. das Stadion an der Hafenstraße 4. ein Freibad direkt an der Ruhr",
 "optionen": [
-"Karl der Große hielt den Hoftag.",
-"Heinrich I. hielt den Hoftag.",
-"Friedrich Barbarossa hielt den Hoftag.",
-"Otto I. der Große hielt den Hoftag."
+"ein Hallenbad mit Sprungturm",
+"ein Stadtmuseum in der Altstadt",
+"eine Brauerei mit Ausschank",
+"ein Freibad direkt an der Ruhr"
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Ottos Vater Heinrich I. liegt nahe, war zu dieser Zeit aber schon tot. Den Hoftag in Steele hielt Otto I. der Große, damals deutscher König und später römischer Kaiser. Ein Hoftag war eine Versammlung des Königs mit den Großen des Reichs. Richtig war 4.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Steele_(Essen)",
-"faktencheck": "bestätigt",
-"id": "426-steele/v0.8/9",
+"rueckseite": "Du hattest [Option] getippt. Zeche Zollverein, Hauptbahnhof und das Stadion an der Hafenstraße sind bekannte Essener Orte, liegen aber in anderen Stadtteilen. Steele hat seit 1945 ein kleines Freibad direkt an der Ruhr, mit beheiztem Mehrzweckbecken und Liegewiese. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/steele_2/steele_kultur_freizeit.de.html; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "426-steele/v0.9/9",
 "tisch": false
 }
 ],
 "anschluss_von": "425-burgaltendorf",
 "anschluss": [
-"Fläche: Burgaltendorf ist etwa doppelt so groß wie Steele."
+"Burgaltendorf hat rund doppelt so viel Fläche wie Steele.",
+"Steele liegt 5 km, Burgaltendorf 9 km von Essens Mitte."
 ],
 "anschluesse": {
 "198-muelheim": [
@@ -116705,11 +120849,34 @@ window.QA_DATEN = {
 "Kreisgrenze: Hattingen ist kreisfrei, Steele gehört zum Landkreis Stadtkreis Essen."
 ],
 "425-burgaltendorf": [
-"Fläche: Burgaltendorf ist etwa doppelt so groß wie Steele."
+"Burgaltendorf hat rund doppelt so viel Fläche wie Steele.",
+"Steele liegt 5 km, Burgaltendorf 9 km von Essens Mitte."
 ]
 },
 "ags": "05113000",
 "ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Essener Stadtteil mit rund 17.000 Einwohnern, 5 km östlich der Mitte, direkt an der Ruhr, gut 3 Quadratkilometer groß."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Steele war bis zur Eingemeindung 1929 eine eigene Stadt. Im Wappen sind Schmiederinge, es gibt ein barockes Waisenhaus, und um 1970 kam die große Flächensanierung."
+},
+{
+"facette": "ALLTAG",
+"text": "Mittelzentrum mit Fußgängerzone um Grendplatz und Kaiser-Otto-Platz, alte eigene Sparkasse, Industrietradition mit Glashütte und Eisenwerk."
+},
+{
+"facette": "FREIZEIT",
+"text": "Freibad an der Ruhr, Stadtgarten mit Odysseus-Skulptur, Theater Freudenhaus im Kulturzentrum Grend, Ruhrtalradweg, Mai- und Herbstkirmes."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhöfe Essen-Steele und Steele Ost, Alfried Krupp Krankenhaus und Evangelisches Krankenhaus, Gymnasium an der Wolfskuhle."
+}
+],
 "km_vom_vorigen": 4.7
 },
 {
@@ -116719,189 +120886,193 @@ window.QA_DATEN = {
 "lon": 7.09806,
 "karten": [
 {
+"facette": "ALLTAG",
+"charakteristikum": "Taubenklinik in der alten Dorfschule",
+"rang": 1,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Byfang",
-"steckbrief": "Essener Stadtteil mit rund 2.000 Einwohnern, 8 km südöstlich der Stadtmitte.",
-"frage": "Woher hat Byfang seinen Namen?",
+"steckbrief": "Byfang ist ein Stadtteil von Essen, 8 km südöstlich der Stadtmitte.",
+"frage": "Der Wohnpark Ober-Byfang liegt an der Stelle der früheren Schule. Was war dort von 1972 bis 2006 untergebracht?",
 "optionen": [
-"Der Name erinnert an Fischfang in der Ruhr.",
-"Der Name bezeichnete eine Furt durch die Ruhr.",
-"Der Name bedeutet „Siedlung bei der Kirche\".",
-"Der Name bedeutete einst ein eingefriedetes Feld."
+"Dort arbeitete eine Polizeiwache des Stadtteils.",
+"Dort zeigte ein Heimatmuseum alte Bergbaufunde.",
+"Dort lebten Kinder in einem Kinderheim.",
+"Dort wurden kranke Brieftauben behandelt."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. ‚Fang' klingt nach Fischfang, das liegt nahe. Doch der Name kommt vom altdeutschen Bifang, von ‚befangen', also umfangen oder eingeschlossen. Gemeint war ein ringsum eingeschlossenes Stück Land, vielleicht eine Siedlung mitten im Wald. Richtig war 4.",
-"quelle": "LVR-KuLaDig, kuladig.de/Objektansicht/O-FJK-20100511-0002\"",
+"rueckseite": "Du hattest [Option] getippt. Ein Heimatmuseum liegt nahe, denn leere Dorfschulen werden oft zu Museen. Der Verband Deutscher Brieftaubenzüchter kaufte das leer stehende Schulgebäude aber und baute es zu einer Klinik für Tauben um; sie öffnete am 2. Dezember 1972. Ende November 2006 zog sie nach Essen-Katernberg. Heute ist dort der Wohnpark Ober-Byfang. Richtig war 4.",
+"quelle": "Verband Deutscher Brieftaubenzüchter, www.brieftaube.de/taubenklinik/ueber-die-taubenklinik.html; Wikipedia, de.wikipedia.org/wiki/Byfang",
 "faktencheck": "korrigiert",
-"id": "427-byfang/v0.8/1",
+"id": "427-byfang/v0.9/1",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "GESCHICHTE",
+"charakteristikum": "Name bedeutet eingehegtes Rodungsland",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
 "ort": "Byfang",
-"steckbrief": "Essener Stadtteil mit rund 2.000 Einwohnern, 8 km südöstlich der Stadtmitte.",
-"frage": "Wie groß ist die Fläche des Stadtteils Byfang?",
+"steckbrief": "Byfang ist ein Stadtteil von Essen auf gut 4 km², 8 km südöstlich der Stadtmitte.",
+"frage": "Der Name Byfang ist alt. Was bezeichnete er ursprünglich?",
 "optionen": [
-"unter 5 km²",
-"5 bis unter 10 km²",
-"10 bis unter 20 km²",
-"20 km² und mehr"
+"Er bezeichnete Land, das durch Rodung gewonnen wurde.",
+"Er bezeichnete einen Fischfangplatz an der Ruhr.",
+"Er bezeichnete eine Fanggrube für Wild.",
+"Er bezeichnete eine Furt mit Zollstelle."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein Stadtteil mit dörflichem Charakter am Rand der Großstadt lässt viel Fläche vermuten. Byfang misst aber nur 4,12 Quadratkilometer. Richtig war 1.",
-"quelle": "Wikidata P2046",
-"faktencheck": "bestätigt",
-"id": "427-byfang/v0.8/2",
+"rueckseite": "Du hattest [Option] getippt. Der Fischfang liegt nahe, denn Byfang liegt an der Ruhr und der Name endet auf „fang“. Der Name bedeutet aber so viel wie Rodung und Landgewinn: gemeint ist Land, das durch Rodung gewonnen wurde. Byfang war ursprünglich eine Bauerschaft des Stiftes Rellinghausen. Der Name erzählt von Bauern, die sich ihr Land erst urbar machten; wer heute durch Byfang fährt, fährt durch altes Rodungsland. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/byfang/geschichte_byfang.de.html",
+"faktencheck": "korrigiert",
+"id": "427-byfang/v0.9/2",
 "tisch": false
 },
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Wallfahrt nach Kevelaer, Wappen dort",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Byfang",
+"steckbrief": "Byfang ist ein Stadtteil von Essen, 8 km südöstlich der Stadtmitte.",
+"frage": "In Byfang gibt es eine Wallfahrtsgemeinschaft mit langer Tradition. Wohin pilgert sie?",
+"optionen": [
+"Die Byfanger pilgern nach Altötting.",
+"Die Byfanger pilgern nach Kevelaer.",
+"Die Byfanger pilgern nach Werl.",
+"Die Byfanger pilgern nach Telgte."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Werl oder Telgte liegen nahe, denn beide sind bekannte Wallfahrtsorte in Westfalen. Die Byfanger Gemeinschaft pilgert aber nach Kevelaer, zur „Trösterin der Betrübten“. Seit 1837 geht sie jedes Jahr zu Fuß dorthin; ausgefallen ist die Wallfahrt nur 1952 wegen der Kinderlähmung und 2020 wegen Corona. Richtig war 2.",
+"quelle": "Kevelaer-Wallfahrtsgemeinschaft Essen-Byfang e. V., wallfahrt-byfang.de",
+"faktencheck": "korrigiert",
+"id": "427-byfang/v0.9/3",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Wasserturm als Aussichtspunkt übers Revier",
+"rang": 4,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Byfang",
+"steckbrief": "Byfang ist ein Stadtteil von Essen auf gut 4 km², 8 km südöstlich der Stadtmitte.",
+"frage": "Welches dieser vier Dinge gibt es in Byfang?",
+"optionen": [
+"einen S-Bahnhof",
+"einen Rheinhafen",
+"einen Wasserturm",
+"einen Flughafen"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein S-Bahnhof liegt nahe, denn die S 9 fährt ganz in der Nähe; der nächste Bahnhof ist aber Kupferdreh. Byfang hat dafür einen Wasserturm, der Sehenswürdigkeit und Aussichtspunkt ist. Der Blick reicht über weite Teile des Ruhrgebiets: Essener Skyline, Arena Gelsenkirchen, Tetraeder Bottrop. Vom Turm sieht man, wie nah das Revier liegt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/byfang/byfang_kultur_freizeit.de.html",
+"faktencheck": "korrigiert",
+"id": "427-byfang/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Pferdeweiden und Fachwerk in der Großstadt",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Byfang",
+"steckbrief": "Byfang ist ein Stadtteil von Essen, 8 km südöstlich der Stadtmitte.",
+"frage": "Byfang gehört zur Großstadt Essen. Was prägt das Bild des Stadtteils?",
+"optionen": [
+"Hochhäuser der Nachkriegszeit prägen das Bild.",
+"Dichte Mietshauszeilen der Gründerzeit prägen das Bild.",
+"Gewerbehallen und Logistiklager prägen das Bild.",
+"Pferdeweiden und Fachwerkhäuser prägen das Bild."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Hochhäuser liegen nahe, denn wer „Essen“ hört, denkt an Großstadt und Revier. Byfang ist aber ländlich: zahlreiche Pferdeweiden, Fachwerkhäuser am Straßenrand, vorwiegend Einzel- und Doppelhäuser, sehr ruhig und mit wenig Verkehr. Die Stadt nennt die Bebauung ideal für Familien. Man fährt hier eher an Koppeln vorbei als an Wohnblocks – ein Bild, das man in einer Großstadt mitten im Ruhrgebiet kaum vermutet. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/byfang/byfang_statistik.de.html",
+"faktencheck": "korrigiert",
+"id": "427-byfang/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "inoffizielles Wappen mit Gerichtssymbol",
+"rang": 6,
 "familie": "B",
 "sorte": "Geschichte",
 "ort": "Byfang",
-"steckbrief": "Essener Stadtteil mit rund 2.000 Einwohnern, 8 km südöstlich der Stadtmitte.",
+"steckbrief": "Byfang ist ein Stadtteil von Essen, 8 km südöstlich der Stadtmitte.",
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Die Kirche St. Barbara stammt aus dem Mittelalter.",
-"Die Ruhr bildet die Westgrenze von Byfang.",
-"Byfang zählte einst zum Besitz eines Damenstifts."
+"Das Byfanger Stadtteilwappen zeigt Rosen.",
+"Die Rosen stammen aus dem Wappen der Herren von Drimborn.",
+"Die Drimborn erhielten Byfang 1661 vom Stift Werden."
 ],
 "art": "luege",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein Damenstift klingt fern, doch Byfang gehörte tatsächlich zu den Stiftsgütern von Rellinghausen. Gelogen war die Kirche: St. Barbara wurde erst 1928 bis 1929 gebaut. Und Byfang gehört wirklich zum Essener Stadtbezirk VIII. Die Lüge war 1.\"",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Byfang",
-"faktencheck": "korrigiert",
-"id": "427-byfang/v0.8/3",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Byfang",
-"steckbrief": "Essener Stadtteil mit rund 2.000 Einwohnern, 8 km südöstlich der Stadtmitte.",
-"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in der Stadt Essen, zu der Byfang gehört, nach Zweitstimmen zweitstärkste Kraft?",
-"optionen": [
-"CDU",
-"AfD",
-"SPD",
-"GRÜNE"
-],
-"art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet gilt die SPD traditionell als Siegerin, doch in ganz Essen lag die CDU mit 26,5 Prozent vorn. Die SPD kam mit 22,2 Prozent auf Platz zwei, vor der AfD mit 17 Prozent. Die Zahlen gelten für die Stadt Essen, nicht eigens für Byfang. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "427-byfang/v0.8/4",
+"rueckseite": "Du hattest [Option] getippt. Das Stift Werden liegt nahe, denn es ist das bekannteste Stift im Essener Süden. Die Herrschaft Byfang erhielten die Herren von Drimborn 1661 aber vom Stift Rellinghausen; die Gerichtsbarkeit bekam Alexander von Drimborn zu Baldeney. Ihre Rosen trägt das Byfanger Stadtteilwappen bis heute und erzählt so die Herrschaftsgeschichte in einem Zeichen. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/byfang/geschichte_byfang.de.html; LVR-KuLaDig, www.kuladig.de/Objektansicht/A-CW-20090514-0054",
+"faktencheck": "korrigiert",
+"id": "427-byfang/v0.9/6",
 "tisch": false
 },
 {
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Byfang",
-"steckbrief": "Essener Stadtteil mit rund 2.000 Einwohnern, 8 km südöstlich der Stadtmitte.",
-"frage": "Bis 1968 war im Gebäude die Volksschule Oberbyfang. Was zog danach für fast vier Jahrzehnte ein?",
-"optionen": [
-"Ein kleines Heimatmuseum für den Stadtteil.",
-"Eine Jugendherberge für Wanderer an der Ruhr.",
-"Eine Lehrwerkstatt für angehende Bergleute.",
-"Eine Klinik für Brieftauben eines Züchterverbands."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Leere Dorfschulen werden oft zu Museen oder Treffpunkten, das liegt nahe. In Oberbyfang zog aber die Taubenklinik des Verbandes der Deutschen Brieftaubenzüchter ein. Später wurde das Haus ein Wohnhaus. Richtig war 4.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Byfang",
-"faktencheck": "unsicher",
-"id": "427-byfang/v0.8/5",
-"tisch": false
-},
-{
+"facette": "LAGE",
+"charakteristikum": "kleiner Stadtteil von gut vier km²",
+"rang": 7,
 "familie": "C",
 "sorte": "Klassiker",
 "ort": "Byfang",
-"steckbrief": "Essener Stadtteil mit rund 2.000 Einwohnern, 8 km südöstlich der Stadtmitte.",
-"frage": "Byfang war früher eine eigene Gemeinde. In welchem Jahr wurde es eingemeindet?",
+"steckbrief": "Byfang ist ein Stadtteil von Essen, 8 km südöstlich der Stadtmitte (Luftlinie).",
+"frage": "Wie groß ist die Fläche des Stadtteils Byfang?",
 "optionen": [
-"vor 1925",
-"1925 bis 1944",
-"1945 bis 1969",
-"1970 oder später"
+"unter 2 km²",
+"2 bis unter 5 km²",
+"5 bis unter 10 km²",
+"10 km² und mehr"
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Bei Eingemeindungen denken viele an die großen Gebietsreformen der Nachkriegszeit. Byfang kam aber schon 1929 mit der Bürgermeisterei Kupferdreh zu Essen. Richtig war 2.",
-"quelle": "LVR-KuLaDig, kuladig.de/Objektansicht/O-FJK-20100511-0002\"",
-"faktencheck": "korrigiert",
-"id": "427-byfang/v0.8/6",
+"rueckseite": "Du hattest [Option] getippt. Eine größere Spanne liegt nahe, denn so weit draußen erwartet man viel Platz. Byfang misst aber 4,12 Quadratkilometer. Ein Stadtteil dieser Größe ist mit dem Auto in wenigen Minuten durchquert. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "427-byfang/v0.9/7",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Verlies des alten Gerichts",
+"rang": 2,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Byfang",
-"steckbrief": "Essener Stadtteil mit rund 2.000 Einwohnern, 8 km südöstlich der Stadtmitte.",
-"frage": "In den 1970er-Jahren brach in Byfang ein Bagger in einen unterirdischen Raum ein. Was war das?",
+"steckbrief": "Byfang ist ein Stadtteil von Essen auf gut 4 km², 8 km südöstlich der Stadtmitte.",
+"frage": "In den 1970er-Jahren brach bei Bauarbeiten am Rand von Kupferdreh ein Bagger in einen unterirdischen Raum aus der Byfanger Geschichte ein. Was war es?",
 "optionen": [
-"Ein vergessener Stollen eines alten Kohlebergwerks.",
-"Das unterirdische Verlies des früheren Gerichtshauses.",
-"Ein Luftschutzkeller aus dem Zweiten Weltkrieg.",
-"Der zugeschüttete Brunnen eines alten Bauernhofs."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet denkt man bei einem Loch im Boden zuerst an alte Zechenstollen. Der Bagger war aber in das Verlies des alten Byfanger Gerichtshauses gebrochen, das nach einem Brand abgerissen worden war. Unten war der Raum verputzt, die Deckenöffnung zugemauert. Richtig war 2.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Byfang",
-"faktencheck": "korrigiert",
-"id": "427-byfang/v0.8/7",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Byfang",
-"steckbrief": "Essener Stadtteil mit rund 2.000 Einwohnern, 8 km südöstlich der Stadtmitte.",
-"frage": "Das Byfanger Stadtteilwappen zeigt ein rotes Andreaskreuz. Wofür steht es?",
-"optionen": [
-"Es ehrt den heiligen Andreas als Kirchenpatron.",
-"Es markiert die Kreuzung zweier alter Handelswege.",
-"Es deutet auf eigene Gerichtsbarkeit hin.",
-"Es erinnert an gekreuztes Werkzeug der Bergleute."
+"Es war ein alter Stollen einer Zeche.",
+"Es war ein vergessener Luftschutzbunker.",
+"Es war das Verlies des alten Gerichts.",
+"Es war ein Eiskeller einer Brauerei."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Gekreuzte Zeichen erinnern im Ruhrgebiet an Schlägel und Eisen der Bergleute. Das Andreaskreuz, ein schräg gestelltes Kreuz, ist aber ein altes Rechtssymbol und deutet auf Byfangs gerichtliche Eigenständigkeit hin. Die Rosen stammen vom Wappen der Herren von Drimborn. Richtig war 3.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Byfang",
-"faktencheck": "unsicher",
-"id": "427-byfang/v0.8/8",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Byfang",
-"steckbrief": "Essener Stadtteil mit rund 2.000 Einwohnern, 8 km südöstlich der Stadtmitte.",
-"frage": "Wer stiftete 1902 den Bauplatz für Byfangs katholische Kirche St. Barbara?",
-"optionen": [
-"Ein Gastwirt stiftete das Grundstück.",
-"Eine Zechengesellschaft stiftete das Grundstück.",
-"Ein Adelsgeschlecht der Umgebung stiftete das Grundstück.",
-"Ein Kloster der Umgebung stiftete das Grundstück."
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Die heilige Barbara ist Schutzpatronin der Bergleute, da liegt eine Zeche als Stifterin nahe. Den Bauplatz gab aber der Wirt des späteren Restaurants Schnitzler. Gebaut wurde die Kirche aus Ruhrsandstein. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Byfang",
-"faktencheck": "unsicher",
-"id": "427-byfang/v0.8/9",
+"rueckseite": "Du hattest [Option] getippt. Ein Stollen liegt nahe, denn in Byfang zeugen Pingen und Reste der Zeche Viktoria vom Bergbau. Der Bagger traf aber das Verlies des Byfanger Gerichtshauses: aus Bruchstein gemauert, unten verputzt, die Deckenöffnung zugemauert. Das Gerichtshaus stand am Nordostrand des heutigen Kupferdreh; nach einem Brand 1917 wurde es abgerissen. Richtig war 3.",
+"quelle": "LVR-KuLaDig, www.kuladig.de/Objektansicht/A-CW-20090514-0054; Wikipedia, de.wikipedia.org/wiki/Byfang",
+"faktencheck": "korrigiert",
+"id": "427-byfang/v0.9/8",
 "tisch": false
 }
 ],
 "anschluss_von": "426-steele",
 "anschluss": [
-"Fläche: Byfang misst 4,12 km², Steele nur 3,03 km².",
-"Steele liegt 5 km von Essens Mitte, Byfang 8 km."
+"Byfang hat mehr Fläche als Steele: 4,12 gegen 3,03 Quadratkilometer.",
+"Byfang liegt weiter von der Essener Mitte entfernt als Steele."
 ],
 "anschluesse": {
 "198-muelheim": [
@@ -116937,12 +121108,34 @@ window.QA_DATEN = {
 "Kreisgrenze: Hattingen ist kreisfrei, Byfang gehört zum Landkreis Stadtkreis Essen."
 ],
 "426-steele": [
-"Fläche: Byfang misst 4,12 km², Steele nur 3,03 km².",
-"Steele liegt 5 km von Essens Mitte, Byfang 8 km."
+"Byfang hat mehr Fläche als Steele: 4,12 gegen 3,03 Quadratkilometer.",
+"Byfang liegt weiter von der Essener Mitte entfernt als Steele."
 ]
 },
 "ags": "05113000",
 "ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Essener Stadtteil, 8 km südöstlich der Stadtmitte, gut vier Quadratkilometer groß, an der Ruhr, mit Schutzgebiet Heisinger Ruhraue."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Einst Bauerschaft des Stiftes Rellinghausen, später unter den Herren von Drimborn; das inoffizielle Wappen trägt deren Rosen."
+},
+{
+"facette": "ALLTAG",
+"text": "Ländlich mit Pferdeweiden und Fachwerk; Spuren des Bergbaus: Zeche Viktoria, Victoria II, Pingen; dazu die Deiler Mühle."
+},
+{
+"facette": "FREIZEIT",
+"text": "Aussicht vom Wasserturm und am Ruhrhöhenblick; Wanderwege wie Bergisch-Märkischer Weg, Eggenweg, GeoRoute Ruhr und DeilbachSteig."
+},
+{
+"facette": "INFRA",
+"text": "Kein eigener Bahnhof: nächste S-Bahn in Kupferdreh; die Prinz-Wilhelm-Bahn führt durch, Anbindung an die A 44."
+}
+],
 "km_vom_vorigen": 5.1
 },
 {
@@ -116952,168 +121145,216 @@ window.QA_DATEN = {
 "lon": 7.00528,
 "karten": [
 {
-"familie": "A",
+"facette": "FREIZEIT",
+"charakteristikum": "botanischer Garten im Grugapark",
+"rang": 1,
+"familie": "D",
 "sorte": "Geschichte",
 "ort": "Rüttenscheid",
-"steckbrief": "Rüttenscheid ist ein Stadtteil von Essen mit rund 31.000 Einwohnern, 2 km südlich der Stadtmitte.",
-"frage": "Rüttenscheid beschloss 1895 ein System für Straßennamen rund um die Kettwiger Chaussee. Welches?",
+"steckbrief": "Essener Stadtteil mit rund 31.000 Einwohnern, 2 km südlich der Stadtmitte.",
+"frage": "Welches dieser vier Dinge gibt es in Rüttenscheid?",
 "optionen": [
-"Straßen wurden nach alten Höfen im Ort benannt.",
-"Straßen bekamen Namen von Bäumen und Sträuchern.",
-"Straßen links der Chaussee bekamen Frauen-, rechts Männervornamen.",
-"Straßen wurden nach Siegen gegen Frankreich benannt."
+"ein Planetarium",
+"eine Skihalle",
+"ein botanischer Garten",
+"ein Kletterpark"
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Höfe oder Siege als Straßennamen waren damals verbreitet. Rüttenscheid beschloss etwas anderes: links der Kettwiger Chaussee weibliche, rechts männliche Vornamen, jeweils alphabetisch von Norden nach Süden. Das System wurde bald kritisiert, weil es örtliche Begebenheiten überging. Richtig war 3.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Rüttenscheid",
-"faktencheck": "unsicher",
-"id": "428-ruettenscheid/v0.8/1",
+"rueckseite": "Du hattest [Option] getippt. Der botanische Garten gehört zum Grugapark: seltene Pflanzen, dazu eine Skulpturensammlung mit mehr als 40 Werken und exotische wie heimische Tiere. Eine Skihalle liegt nahe, weil es im Ruhrgebiet tatsächlich welche gibt. Für einen Stadtteil ist ein solcher Park ungewöhnlich; fünf Eingänge, etwa am Grugabad, führen in ihn. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/ruettenscheid_1/ruettenscheid_kultur_freizeit.de.html; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "428-ruettenscheid/v0.9/1",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Rüttenscheid",
-"steckbrief": "Rüttenscheid ist ein Stadtteil von Essen mit rund 31.000 Einwohnern, 2 km südlich der Stadtmitte.",
-"frage": "Wie groß ist die Fläche des Stadtteils Rüttenscheid?",
-"optionen": [
-"unter 2 km²",
-"2 bis unter 3 km²",
-"3 bis unter 4 km²",
-"4 km² oder mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Bei so vielen Einwohnern denkt man an ein dicht bebautes, kleines Viertel. Rüttenscheid misst aber 4,53 Quadratkilometer. Richtig war 4.",
-"quelle": "Wikidata P2046",
-"faktencheck": "bestätigt",
-"id": "428-ruettenscheid/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Rüttenscheid",
-"steckbrief": "Rüttenscheid ist ein Stadtteil von Essen mit rund 31.000 Einwohnern, 2 km südlich der Stadtmitte.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Einst stand in Rüttenscheid ein Vergnügungspark mit Achterbahn.",
-"Der Radweg Grugatrasse liegt auf einem zugeschütteten Kanal.",
-"In Rüttenscheid gab es früher eine eigene Zeche."
-],
-"art": "luege",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Kanäle gibt es im Ruhrgebiet viele, das klingt plausibel. Doch das Wort Trasse verrät es: Die Grugatrasse ist ein Radweg auf einer früheren Bahnstrecke. Der Vergnügungspark Prater mit Achterbahn und Bootsbecken lag wirklich in Rüttenscheid, und mit Langenbrahm hatte der Stadtteil eine eigene Zeche. Die Lüge war 2.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Rüttenscheid",
-"faktencheck": "unsicher",
-"id": "428-ruettenscheid/v0.8/3",
-"tisch": false
-},
-{
+"facette": "GESCHICHTE",
+"charakteristikum": "Name aus Riedgras und Schilf",
+"rang": 7,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Rüttenscheid",
-"steckbrief": "Rüttenscheid ist ein Stadtteil von Essen mit rund 31.000 Einwohnern, 2 km südlich der Stadtmitte.",
-"frage": "Woher kommt der Name Rüttenscheid vermutlich?",
+"steckbrief": "Stadtteil mit rund 31.000 Einwohnern, 2 km südlich der Essener Stadtmitte.",
+"frage": "Woher stammt der Name Rüttenscheid nach der Ortsgeschichte der Stadt Essen am wahrscheinlichsten?",
 "optionen": [
-"Der Name geht vermutlich auf Jagdhunde (Rüden) zurück.",
-"Der Name geht vermutlich auf angebaute Rüben zurück.",
-"Der Name geht vermutlich auf geschnittenes Riedgras zurück.",
-"Der Name geht vermutlich auf rötliche Erde zurück."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Rüden oder Rüben drängen sich beim heutigen Klang auf. Doch die mittelalterliche Form lautete Riudenscethe. Darin steckt vermutlich hriudi, ein altes Wort für Riedgras: Durch dessen Schnitt wurde die Ansiedlung vermutlich möglich. Richtig war 3.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Rüttenscheid",
-"faktencheck": "bestätigt",
-"id": "428-ruettenscheid/v0.8/5",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Rüttenscheid",
-"steckbrief": "Rüttenscheid ist ein Stadtteil von Essen mit rund 31.000 Einwohnern, 2 km südlich der Stadtmitte.",
-"frage": "In welchem Jahr wurde Rüttenscheid, damals eine eigene Gemeinde, nach Essen eingemeindet?",
-"optionen": [
-"vor 1870",
-"1870 bis 1889",
-"1890 bis 1899",
-"1900 oder später"
+"Er stammt von einem Wort für Erzgrube.",
+"Er stammt vom Vornamen eines Grundherrn.",
+"Er stammt von einem Wort für Reiter.",
+"Er stammt von einem Wort für Riedgras."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. So nah an der Innenstadt wirkt Rüttenscheid, als gehöre es seit jeher zu Essen. Doch es wurde erst am 21. Juni 1905 nach Essen eingemeindet. Richtig war 4.",
-"quelle": "dewiki Infobox",
-"faktencheck": "bestätigt",
-"id": "428-ruettenscheid/v0.8/6",
+"rueckseite": "Du hattest [Option] getippt. Der Name entwickelte sich aus dem mittelalterlichen Riudenscethe. Die Forschung neigt dazu, ihn an das altsächsische hriudi anzuknüpfen, Riedgras: Der Siedlungsraum wäre dann durch Schnitt von Riedgras und Schilf gewonnen worden. Die Erzgrube liegt nahe, weil man im Ruhrgebiet bei jedem Namen an Bergbau denkt. Riedgras wächst auf nassem Boden. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/ruettenscheid_1/ruettenscheid_geschichte.de.html",
+"faktencheck": "korrigiert",
+"id": "428-ruettenscheid/v0.9/2",
 "tisch": false
 },
 {
-"familie": "A",
+"facette": "ALLTAG",
+"charakteristikum": "Heizkraftwerk und Energiefirmen",
+"rang": 4,
+"familie": "D",
 "sorte": "Geschichte",
 "ort": "Rüttenscheid",
-"steckbrief": "Rüttenscheid ist ein Stadtteil von Essen mit rund 31.000 Einwohnern, 2 km südlich der Stadtmitte.",
-"frage": "Ende der 1990er-Jahre wurde der alte Rüttenscheider Bahnhof an der Veronikastraße abgerissen. Wofür?",
+"steckbrief": "Essener Stadtteil mit rund 31.000 Einwohnern, 2 km südlich der Stadtmitte.",
+"frage": "Welche dieser vier Anlagen gibt es in Rüttenscheid?",
 "optionen": [
-"Er wich einem Parkplatz für eine Veranstaltungshalle.",
-"Er wich einem Betriebshof für Straßenbahnen.",
-"Er wich einer neuen Wache der Feuerwehr.",
-"Er wich einer Tankstelle mit Waschanlage."
+"ein Heizkraftwerk",
+"ein Stahlwerk",
+"ein Binnenhafen",
+"eine Großbäckerei"
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein Betriebshof liegt nahe, wo schon Schienen lagen. Doch der Rüttenscheider Bahnhof wich einem Parkplatz der Grugahalle. Im Krieg waren dort polnische Zwangsarbeiter der Reichsbahn untergebracht. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Rüttenscheid",
-"faktencheck": "unsicher",
-"id": "428-ruettenscheid/v0.8/7",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Rüttenscheid",
-"steckbrief": "Rüttenscheid ist ein Stadtteil von Essen mit rund 31.000 Einwohnern, 2 km südlich der Stadtmitte.",
-"frage": "Krupp ließ im Südosten Rüttenscheids eine Werkssiedlung bauen. Für wen war sie ursprünglich gedacht?",
-"optionen": [
-"Sie war für Lehrlinge der Krupp-Werkstätten gedacht.",
-"Sie war für leitende Angestellte und Ingenieure gedacht.",
-"Sie war für Arbeiter im Ruhestand gedacht.",
-"Sie war für neu angeworbene Stahlarbeiter gedacht."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Werkssiedlungen entstanden meist für aktive Belegschaften, das liegt nahe. Krupp baute die Siedlung Altenhof aber für Rentner und Invaliden des Unternehmens. Richtig war 3.",
-"quelle": "Stadt Essen, essen.de/dasistessen/stadtteile/ruettenscheid_1/ruettenscheid_kultur_freizeit.de.html",
+"rueckseite": "Du hattest [Option] getippt. Im Stadtteil steht ein Heizkraftwerk der STEAG, das Fernwärme liefert. Das Stahlwerk liegt nahe, weil der Name Krupp hier oft begegnet, etwa am Alfried-Krupp-Krankenhaus. Ein Kraftwerk im Stadtteil von Messe und Grugapark zeigt: Rüttenscheid ist auch ein Standort der Energiewirtschaft. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rüttenscheid; OpenStreetMap",
 "faktencheck": "korrigiert",
-"id": "428-ruettenscheid/v0.8/8",
+"id": "428-ruettenscheid/v0.9/3",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "von Fernstraßen eingefasster Innenstadtnachbar",
+"rang": 10,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Rüttenscheid",
-"steckbrief": "Rüttenscheid ist ein Stadtteil von Essen mit rund 31.000 Einwohnern, 2 km südlich der Stadtmitte.",
-"frage": "Wofür wurde das Girardet-Haus im Süden Rüttenscheids ursprünglich genutzt?",
+"steckbrief": "Stadtteil im Süden von Essen mit rund 31.000 Einwohnern, 2 km von der Stadtmitte.",
+"frage": "Am Südrand von Rüttenscheid verläuft eine Autobahn. Welche ist es?",
 "optionen": [
-"Es war eine große Fabrik für Bergbaumaschinen.",
-"Es war ein großer Druckereibetrieb.",
-"Es war eine große Kaserne für Reiter.",
-"Es war ein großes Depot für Straßenbahnen."
+"Es ist die A 40.",
+"Es ist die A 52.",
+"Es ist die A 42.",
+"Es ist die A 3."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet denkt man bei Großbetrieben zuerst an Bergbau. Das Girardet-Haus war aber ein Druckereibetrieb, gegründet von Wilhelm Girardet und von seinem gleichnamigen Sohn weitergeführt. Nach der Stilllegung wurde es zur Passage umgebaut, mit Praxen, Tanzschule, Seniorenwohnungen und Gastronomie. Richtig war 2.",
+"rueckseite": "Du hattest [Option] getippt. Es ist die A 52; sie zieht am Südrand vorbei, eine Anschlussstelle trägt den Namen Essen-Rüttenscheid. Die A 40 liegt nahe, weil sie als Ruhrschnellweg mitten durch Essen führt. So hat Rüttenscheid, nur 2 km von der Stadtmitte, einen eigenen Autobahnanschluss. Richtig war 2.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Rüttenscheid",
-"faktencheck": "unsicher",
-"id": "428-ruettenscheid/v0.8/9",
+"faktencheck": "korrigiert",
+"id": "428-ruettenscheid/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Bahntunnel unter der Hauptstraße",
+"rang": 6,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Rüttenscheid",
+"steckbrief": "Essener Stadtteil mit rund 31.000 Einwohnern, 2 km südlich der Stadtmitte.",
+"frage": "Welches dieser vier Bauwerke gibt es in Rüttenscheid?",
+"optionen": [
+"ein Flugplatz",
+"eine Seilbahn",
+"ein Straßenbahntunnel",
+"ein Fernsehturm"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Unter dem Stadtteil fahren die U11 und Straßenbahnen durch einen Tunnel mit den Bahnhöfen Rüttenscheider Stern und Martinstraße, auf Drei-Schienen-Gleisen, also Gleisen für zwei Spurweiten. Der Flugplatz liegt nahe, weil man ihn in einer Großstadt erwartet; er gehört aber nicht zu Rüttenscheid. Wer oben über die Straße fährt, rollt über eine Bahnstrecke – ein Stück Großstadt unter dem Asphalt. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rüttenscheid; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "428-ruettenscheid/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Leprakapelle an der Einkaufsstraße",
+"rang": 5,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Rüttenscheid",
+"steckbrief": "Stadtteil im Essener Süden mit rund 31.000 Einwohnern, 2 km von der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Siechenkapelle entstand als Grabkapelle eines Adelsgeschlechts.",
+"Krupp baute in Rüttenscheid eine Siedlung für Werksinvaliden.",
+"In Rüttenscheid wurden früher Silber und Blei abgebaut."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gelogen ist die Grabkapelle: Die Siechenkapelle diente der geistlichen Betreuung von Aussätzigen und Leprakranken am Siechenhof – „siech“ heißt krank. Eine Grabkapelle liegt nahe, weil kleine Kapellen oft von Adelsfamilien gestiftet wurden. Die denkmalgeschützte Kapelle steht an der Rüttenscheider Straße: An der Einkaufsstraße überdauert ein Bau aus dem Spätmittelalter. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/ruettenscheid_1/ruettenscheid_kultur_freizeit.de.html",
+"faktencheck": "bestätigt",
+"id": "428-ruettenscheid/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "viele Menschen auf kleiner Fläche",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rüttenscheid",
+"steckbrief": "Essener Stadtteil mit rund 31.000 Einwohnern, 2 km südlich der Stadtmitte.",
+"frage": "Wie groß ist die Fläche des Stadtteils Rüttenscheid?",
+"optionen": [
+"unter 5 km²",
+"5 bis unter 10 km²",
+"10 bis unter 20 km²",
+"20 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Rüttenscheid misst 4,53 km². Bei über 30.000 Einwohnern denkt man leicht an mehr Fläche, denn so viele Menschen wohnen anderswo in einer ganzen Kleinstadt samt Feldern. Hier leben rund 31.000 Menschen auf weniger als fünf Quadratkilometern – Großstadt eng beieinander. Richtig war 1.",
+"quelle": "Wikidata P2046; Einwohner: Wikipedia, de.wikipedia.org/wiki/Rüttenscheid, Stand 31.03.2025",
+"faktencheck": "bestätigt",
+"id": "428-ruettenscheid/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Gestapo-Verbrechen am Montagsloch",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rüttenscheid",
+"steckbrief": "Essener Stadtteil mit rund 31.000 Einwohnern, 2 km südlich der Stadtmitte.",
+"frage": "Ende März 1945 starben im Montagsloch, auf dem heutigen Gruga-Gelände, 35 Zwangsarbeiter aus Osteuropa. Wie kamen sie ums Leben?",
+"optionen": [
+"Ein Fliegerangriff hatte sie getötet.",
+"Die Gestapo hatte sie hingerichtet.",
+"Sie waren bei Kämpfen um Essen gefallen.",
+"Eine Seuche hatte sie dahingerafft."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Essener Gestapo hatte die 35 Zwangsarbeiter aus Osteuropa in den letzten Märztagen 1945 erschossen. Der Fliegerangriff liegt nahe, weil Essen damals schwer bombardiert wurde. Amerikanische Truppen entdeckten das Massengrab und ließen die Toten an Ort und Stelle würdig beisetzen; später kamen sie auf den Ehrenfriedhof im Südwestfriedhof. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rüttenscheid; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "428-ruettenscheid/v0.9/9",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Großdruckerei, heute Passage",
+"rang": 9,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rüttenscheid",
+"steckbrief": "Essener Stadtteil mit rund 31.000 Einwohnern, 2 km südlich der Stadtmitte.",
+"frage": "Im heutigen Girardet-Haus in Rüttenscheid lag der Stammsitz eines Betriebs, der 1965 rund 2.700 Menschen beschäftigte. Was wurde dort bis 1988 betrieben?",
+"optionen": [
+"Dort lief eine Textilfabrik mit Färberei.",
+"Dort lag ein Schlachthof mit Viehmarkt.",
+"Dort lief eine Maschinenfabrik mit Gießerei.",
+"Dort lief eine Buchdruckerei mit Verlag."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Hier lag der Stammsitz der Druckerei mit Verlag, die Wilhelm Girardet 1865 in Essen gegründet hatte; 1988 ging sie in Konkurs. Die Maschinenfabrik liegt nahe, weil man in Essen bei so vielen Beschäftigten an Schwerindustrie denkt. Die Straße heißt seit dem Jubiläum 1965 Girardetstraße: Der Name des Großbetriebs blieb im Stadtteil. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rüttenscheid",
+"faktencheck": "korrigiert",
+"id": "428-ruettenscheid/v0.9/10",
 "tisch": false
 }
 ],
 "anschluss_von": "427-byfang",
 "anschluss": [
-"Luftlinie zur Essener Stadtmitte: Rüttenscheid 2 km, Byfang 8 km."
+"Rüttenscheid (4,53 km²) ist etwas größer als Byfang (4,12 km²).",
+"Rüttenscheid liegt 2 km, Byfang 8 km von Essens Mitte."
 ],
 "anschluesse": {
 "196-ratingen": [
@@ -117151,11 +121392,34 @@ window.QA_DATEN = {
 "Kreisgrenze: Hattingen ist kreisfrei, Rüttenscheid gehört zum Landkreis Stadtkreis Essen."
 ],
 "427-byfang": [
-"Luftlinie zur Essener Stadtmitte: Rüttenscheid 2 km, Byfang 8 km."
+"Rüttenscheid (4,53 km²) ist etwas größer als Byfang (4,12 km²).",
+"Rüttenscheid liegt 2 km, Byfang 8 km von Essens Mitte."
 ]
 },
 "ags": "05113000",
 "ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Stadtteil 2 km südlich der Essener Stadtmitte, 4,53 Quadratkilometer, durchflossen vom Borbecker und Rellinghauser Mühlenbach."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 970 urkundlich erwähnt, ab 1900 eigene Gemeinde, seit 1905 Teil von Essen; einst Erz- und Kohlebergbau."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 31.000 Einwohner; die Rü mit über 300 Fachgeschäften, rund 100 Bars, Cafés und Restaurants; Wochenmarkt am Rüttenscheider Platz."
+},
+{
+"facette": "FREIZEIT",
+"text": "Grugapark mit Grugabad und Grugaparktherme, Grugahalle, Messe Essen, Schwimmzentrum, Katakomben-Theater und der Radweg Grugaweg."
+},
+{
+"facette": "INFRA",
+"text": "Stadtbahntunnel unter der Rü, Haltestellen Rüttenscheider Stern und Martinstraße, S-Bahnhof Essen Süd, Alfried-Krupp-Krankenhaus, Polizeipräsidium, Justizzentrum."
+}
+],
 "km_vom_vorigen": 7.2
 },
 {
@@ -117165,189 +121429,216 @@ window.QA_DATEN = {
 "lon": 6.99389,
 "karten": [
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Name von der breiten Aue",
+"rang": 7,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Bredeney",
-"steckbrief": "Stadtteil von Essen mit rund 11.000 Einwohnern, 5 km südlich der Stadtmitte.",
-"frage": "Ab 1885 entstand in Bredeney die Siedlung Brandenbusch. Für wen wurde sie ursprünglich gebaut?",
+"steckbrief": "Stadtteil von Essen mit rund 11.000 Einwohnern, 5 km südlich der Stadtmitte, oberhalb der Ruhr.",
+"frage": "Was beschreibt der Name Bredeney ursprünglich?",
 "optionen": [
-"Sie war für Bergleute der Zechen gedacht.",
-"Sie war für Bedienstete einer Industriellenfamilie gedacht.",
-"Sie war für Beamte der Stadt Essen gedacht.",
-"Sie war für Arbeiter einer Tuchfabrik gedacht."
+"Er ehrt einen fränkischen Grundherrn.",
+"Er beschreibt eine breit hingelagerte Aue.",
+"Er bezeichnet eine Rodung im Wald.",
+"Er meint einen Bretterweg durchs Moor."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Bergleute liegen im Ruhrgebiet nahe. Doch Brandenbusch liegt an der Zufahrt zur Villa Hügel, dem ehemaligen Sitz der Familie Krupp. Hier wohnten ursprünglich Diener und Angestellte der Krupps, in Häusern nach Plänen des Baurats Marx. Richtig war 2.",
-"quelle": "KuLaDig (LVR), Siedlung am Brandenbusch",
+"rueckseite": "Du hattest [Option] getippt. Wer „Brede“ hört, denkt leicht an Bretter, und viele Ortsnamen erinnern an Rodungen oder Gründer. Im Namen steckt aber altsächsisch „bred“ oder althochdeutsch „breit“: Gemeint ist die „breite, breit hingelagerte Aue“. Das passt zur Lage am Wasser: Heute liegt Bredeney am Baldeneysee. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_geschichte.de.html; www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_statistik.de.html",
 "faktencheck": "korrigiert",
-"id": "429-bredeney/v0.8/1",
+"id": "429-bredeney/v0.9/1",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Bredeney",
-"steckbrief": "Rund 11.000 Einwohner, Stadtteil von Essen, 5 km südlich der Stadtmitte.",
-"frage": "Bredeney liegt auf den Ruhrhöhen am Übergang zum Ruhrtal. Wie hoch liegt der Stadtteil über dem Meeresspiegel?",
-"optionen": [
-"unter 60 m",
-"60 bis unter 120 m",
-"120 bis unter 200 m",
-"200 m und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ruhrgebiet klingt nach flachem Land, und die Ruhr fließt tief im Tal. Bredeney liegt aber oben auf den Ruhrhöhen: Die Quellen nennen 158 oder 161 Meter über dem Meer. Richtig war 3.",
-"quelle": "Wikidata P2044; GeoNames 2944900 (Altbestand geo.sqlite)",
-"faktencheck": "bestätigt",
-"id": "429-bredeney/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
+"facette": "FREIZEIT",
+"charakteristikum": "Mufflons im Wildgatter Heissiwald",
+"rang": 2,
+"familie": "D",
 "sorte": "Geschichte",
 "ort": "Bredeney",
-"steckbrief": "Stadtteil von Essen mit rund 11.000 Einwohnern, 5 km südlich der Stadtmitte.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"steckbrief": "Stadtteil von Essen am Baldeneysee.",
+"frage": "Welches dieser vier Dinge gibt es in Bredeney?",
 "optionen": [
-"Das Gebäude der Grashofschule wurde 1929/30 errichtet.",
-"Haus Baldeney war ein Lehen der Abtei Werden.",
-"Der Baldeneysee liegt im Norden von Bredeney."
-],
-"art": "luege",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Der Baldeneysee liegt im Süden Bredeneys, unterhalb der Ruhrhöhen. Der Steckbrief hilft: Nördlich von Bredeney liegt die Essener Mitte, kein Stausee. Echt sind der Schulbau von 1929/30 und das Werdener Lehen. Die Lüge war 3.",
-"quelle": "KuLaDig (LVR)",
-"faktencheck": "korrigiert",
-"id": "429-bredeney/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Bredeney",
-"steckbrief": "Rund 11.000 Einwohner, Stadtteil der Großstadt Essen, 5 km südlich der Stadtmitte.",
-"frage": "Bei der Bundestagswahl 2025 gilt die Frage für ganz Essen, nicht nur Bredeney: Wie viel Prozent der Zweitstimmen holte die stärkste Partei?",
-"optionen": [
-"unter 28 %",
-"28 bis unter 32 %",
-"32 bis unter 36 %",
-"36 % und mehr"
+"eine Sommerrodelbahn",
+"eine Kartbahn",
+"ein Wildgehege mit Mufflons",
+"eine Skihalle"
 ],
 "art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Viele schätzen höher, weil die Union bundesweit vorn lag und Großparteien früher deutlich mehr holten. In Essen verteilten sich die Zweitstimmen breit: Die CDU wurde mit 26,5 Prozent stärkste Partei, vor SPD und AfD. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "429-bredeney/v0.8/4",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Großstadt verbindet man eher mit Kartbahn oder Skihalle als mit Wildtieren. Doch im Wildgatter Heissiwald leben Rot- und Damwild, Wildschweine und Mufflons, und zu den Fütterungszeiten kann man sie aus wenigen Metern beobachten. So nah an der Essener Innenstadt rechnet kaum jemand mit Mufflons. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_kultur_freizeit.de.html; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "429-bredeney/v0.9/2",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "künstlicher Baldeneysee als Herzstück",
+"rang": 4,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Bredeney",
-"steckbrief": "Stadtteil von Essen mit rund 11.000 Einwohnern, 5 km südlich der Stadtmitte.",
-"frage": "Bredeney hat ein eigenes, denkmalgeschütztes Rathaus. Wofür wurde es ursprünglich gebaut?",
+"steckbrief": "Stadtteil von Essen mit rund 11.000 Einwohnern, 5 km südlich der Stadtmitte, an den Ruhrhöhen.",
+"frage": "Die Stadt Essen nennt den Baldeneysee das Herzstück Bredeneys. Wie ist der See entstanden?",
 "optionen": [
-"Es war Verwaltungssitz einer Zechengesellschaft.",
-"Es war Sitz einer eigenständigen Gemeinde.",
-"Es wurde als Villa eines Fabrikanten gebaut.",
-"Es wurde als kaiserliches Postamt gebaut."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Viele denken an eine Fabrikantenvilla, weil der Essener Süden für Industriellenvillen bekannt ist. Doch das Haus wurde 1901/02 als Sitz der Bürgermeisterei der Gemeinde Zweihonnschaften gebaut, zu der Bredeney gehörte. Nach der Eingemeindung 1915 nutzten es verschiedene Dienststellen. Die heutigen Eigentümer ließen es behutsam sanieren. Richtig war 2.",
-"quelle": "Stadt Essen, essen.de",
-"faktencheck": "korrigiert",
-"id": "429-bredeney/v0.8/5",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Bredeney",
-"steckbrief": "Stadtteil von Essen mit rund 11.000 Einwohnern, 5 km südlich der Stadtmitte.",
-"frage": "Bredeney war nicht immer ein Teil der Stadt Essen. In welchem Jahr wurde es eingemeindet?",
-"optionen": [
-"vor 1880",
-"1880 bis 1909",
-"1910 bis 1929",
-"1930 oder später"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Viele denken an die großen Gebietsreformen im Ruhrgebiet und schätzen später. Bredeney kam aber schon am 1. April 1915 zur Stadt Essen. Richtig war 3.",
-"quelle": "dewiki Infobox, de.wikipedia.org/wiki/Bredeney",
-"faktencheck": "bestätigt",
-"id": "429-bredeney/v0.8/6",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Bredeney",
-"steckbrief": "Rund 11.000 Einwohner, Stadtteil von Essen, 5 km südlich der Stadtmitte.",
-"frage": "Der Borbecker Mühlenbach entspringt im Westen Bredeneys auf den Ruhrhöhen. Wohin fließt er?",
-"optionen": [
-"Er fließt südwärts in die Ruhr.",
-"Er speist den Baldeneysee.",
-"Er mündet direkt in den Rhein.",
-"Er fließt nordwärts zur Emscher."
+"Er ist ein natürlicher Altarm der Ruhr.",
+"Er entstand durch Bergsenkungen über alten Zechen.",
+"Er blieb nach der Eiszeit zurück.",
+"Er wurde von Menschen künstlich angelegt."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Die Ruhr liegt gleich unterhalb, darum tippen viele auf sie. Der Bach fließt aber nach Norden und gelangt über die Berne in die Emscher. Die Emschergenossenschaft hat ihn zu einem sauberen Bach umgebaut. Richtig war 4.",
-"quelle": "Emschergenossenschaft, eglv.de",
+"rueckseite": "Du hattest [Option] getippt. Seen aus Bergsenkungen kennt man im Ruhrgebiet, und ein so großes Gewässer wirkt wie ein Werk der Natur. Der Baldeneysee wurde aber künstlich angelegt. Heute trägt er wesentlich zum Erholungswert Bredeneys bei: Segeln, Kanutouren, Angeln und Baden. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_geschichte.de.html; www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_kultur_freizeit.de.html",
 "faktencheck": "korrigiert",
-"id": "429-bredeney/v0.8/7",
+"id": "429-bredeney/v0.9/3",
 "tisch": false
 },
 {
-"familie": "A",
+"facette": "ALLTAG",
+"charakteristikum": "einstiger Wohnsitz der Krupps",
+"rang": 1,
+"familie": "D",
 "sorte": "Geschichte",
 "ort": "Bredeney",
-"steckbrief": "Stadtteil von Essen mit rund 11.000 Einwohnern, 5 km südlich der Stadtmitte.",
-"frage": "Der Ortsname Bredeney klingt ungewöhnlich. Wie wird er gedeutet?",
+"steckbrief": "Stadtteil von Essen am Baldeneysee.",
+"frage": "Wofür steht Bredeney?",
 "optionen": [
-"Als „breite Au\".",
-"Als „neue Siedlung\".",
-"Nach einem Gründer namens Brede.",
-"Als „Brücke am Bach\"."
+"einstiger Wohnsitz einer Industriellenfamilie",
+"eine traditionsreiche Großbrauerei",
+"ein Weingut an den Ruhrhängen",
+"eine Porzellanmanufaktur"
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Die Endung klingt nach „neu\", deshalb denken viele an eine Neugründung. Der Name wird aber als „breite Au\" gedeutet, also als weite, feuchte Niederung. Schon 875 ist eine ähnliche Form überliefert. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Bredeney",
+"rueckseite": "Du hattest [Option] getippt. Brauereien und Weingüter liegen bei alten Orten an der Ruhr nahe. Bredeney aber steht für die Villa Hügel: Alfred Krupp ließ sie als Wohnsitz der Familie Krupp und für Repräsentationszwecke bauen. Sie liegt über dem Baldeneysee und erzählt heute als historische Villa Industriegeschichte. Vom Haus aus hat man ausgezeichnete Sicht auf den See. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_kultur_freizeit.de.html; OpenStreetMap",
 "faktencheck": "korrigiert",
-"id": "429-bredeney/v0.8/8",
+"id": "429-bredeney/v0.9/4",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "vom Bergbaugebiet zum grünen Wohnviertel",
+"rang": 3,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Bredeney",
-"steckbrief": "Rund 11.000 Einwohner, Stadtteil von Essen, 5 km südlich der Stadtmitte.",
-"frage": "Das Wappen von Bredeney zeigt einen schwarzen Balken mit Zinnen. Woher kommt dieses Zeichen?",
+"steckbrief": "Stadtteil von Essen am Baldeneysee.",
+"frage": "Heute ist Bredeney ein grünes Wohnviertel. Was war es laut der Stadt Essen vorher?",
 "optionen": [
-"Er kommt von der Industriellenfamilie Krupp.",
-"Er kommt aus dem Essener Stadtwappen.",
-"Er kommt von den Herren von Bottlenberg.",
-"Er zeigt die Zinnen der Villa Hügel."
+"Es war ein Weinbaugebiet an der Ruhr.",
+"Es war ein Bergbaugebiet mit vielen Kleinzechen.",
+"Es war ein Zentrum der Leinenweberei.",
+"Es war ein Kurbad mit Heilquelle."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei Wald, See und Einfamilienhäusern denkt man eher an Wein oder ein Kurbad als an Kohle. Doch in der Bauernschaft Bredeney wurde schon um 1600 Kohle gefördert, und Anfang des 19. Jahrhunderts gab es hier mehr als 20 Kleinzechen, etwa Flöte und Rosalie. Erst später wurde aus dem Bergbaugebiet ein grünes Wohnviertel. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_geschichte.de.html",
+"faktencheck": "korrigiert",
+"id": "429-bredeney/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "altes Rathaus der Selbstverwaltung",
+"rang": 8,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bredeney",
+"steckbrief": "Stadtteil von Essen am Baldeneysee.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Schulgebäude des Gymnasiums Grashof entstand 1929/30.",
+"Das Bredeneyer Rathaus wurde nach der Eingemeindung abgerissen.",
+"Die Straßenbahn erreichte Bredeney vor der Eingemeindung."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Nach einer Eingemeindung verliert ein Rathaus seine Aufgabe, und mancher Altbau verschwindet; das macht die Lüge glaubhaft. Das ehemalige Bredeneyer Rathaus von 1902 steht aber noch an der Bredeneyer Straße und ist ein eingetragenes Baudenkmal. Es erinnert an die Zeit vor 1915, als Bredeney noch nicht zu Essen gehörte. Die Straßenbahn fuhr schon seit 1897 nach Bredeney. Die Lüge war 2.",
+"quelle": "LVR KuLaDig; Gemeinde-Webseite",
+"faktencheck": "korrigiert",
+"id": "429-bredeney/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "großer Stadtteil mit viel Wald",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bredeney",
+"steckbrief": "Stadtteil von Essen mit rund 11.000 Einwohnern, 5 km südlich der Stadtmitte, zwischen Stadtwald und Baldeneysee.",
+"frage": "Wie groß ist die Fläche des Stadtteils Bredeney?",
+"optionen": [
+"unter 3 km²",
+"3 bis unter 5 km²",
+"5 bis unter 7 km²",
+"7 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Stadtteil denkt man an ein paar Straßenzüge, nicht an eine Landschaft. Bredeney misst aber 8,76 km². Darin liegen Wald auf den Ruhrhöhen mit Anteil am Stadtwald und Kruppwald sowie das Ufer des Baldeneysees; gewohnt wird überwiegend in Ein- und Zweifamilienhäusern. Richtig war 4.",
+"quelle": "GRUNDDATEN, Wikidata P2046",
+"faktencheck": "unsicher",
+"id": "429-bredeney/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "umkämpfte Burgruine Neue Isenburg",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bredeney",
+"steckbrief": "Stadtteil von Essen mit rund 11.000 Einwohnern, 5 km südlich der Stadtmitte, an den Ruhrhöhen.",
+"frage": "Die Neue Isenburg war wiederholt Schauplatz kriegerischer Auseinandersetzungen. Zwischen wem?",
+"optionen": [
+"Es kämpften zwei verfeindete Ritterorden.",
+"Es kämpften die Grafenfamilie und ein Erzbischof.",
+"Es kämpften aufständische Bauern gegen ihren Herrn.",
+"Es kämpften Raubritter gegen eine Kaufmannsgilde."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Ritterburg denkt man an Raubritter oder Bauernaufstände. An der Neuen Isenburg aber kämpften wiederholt die Familie des Grafen von Isenburg und ein Erzbischof, und schließlich wurde die Burg endgültig zerstört. Heute ist sie ein Ausflugsziel: Spuren der Ritter lassen sich verfolgen, der ursprüngliche Glanz ist nur noch zu erahnen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_kultur_freizeit.de.html; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "429-bredeney/v0.9/8",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Wasser fließt zur Ruhr und Emscher",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bredeney",
+"steckbrief": "Stadtteil von Essen am Baldeneysee.",
+"frage": "Der Borbecker Mühlenbach entspringt im Westen Bredeneys an den Ruhrhöhen. Wohin fließt er?",
+"optionen": [
+"Nach Süden in die Ruhr.",
+"Nach Norden in die Lippe.",
+"Nach Norden in die Emscher.",
+"Nach Osten zur Weser."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Zinnen erinnern an Burgmauern, darum liegt ein prächtiger Bau nahe. Der sogenannte Wechselzinnenbalken stammt aber aus dem Wappen der Herren von Bottlenberg. Ihr Wappen ist bis heute über dem Turmportal von Haus Baldeney zu sehen. Richtig war 3.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Bredeney; KuLaDig (LVR)",
+"rueckseite": "Du hattest [Option] getippt. Bei einem Ort über dem Ruhrtal liegt die Ruhr nahe. Der Borbecker Mühlenbach aber fließt nach Norden zur Emscher, und an ihm entlang führen Wanderwege. So schickt Bredeney einen Teil seines Wassers nicht zur Ruhr, sondern zur Emscher. Richtig war 3. Vermerk: Ursprung in Bredeney nur nach Wikipedia.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bredeney",
 "faktencheck": "korrigiert",
-"id": "429-bredeney/v0.8/9",
+"id": "429-bredeney/v0.9/9",
 "tisch": false
 }
 ],
 "anschluss_von": "428-ruettenscheid",
 "anschluss": [
-"Fläche: Bredeney ist fast doppelt so groß wie Rüttenscheid.",
-"Nachbarschaft: Bredeney und Rüttenscheid sind angrenzende Essener Stadtteile."
+"Bredeney hat fast die doppelte Fläche von Rüttenscheid.",
+"Bredeney und Rüttenscheid grenzen direkt aneinander."
 ],
 "anschluesse": {
 "196-ratingen": [
@@ -117387,12 +121678,34 @@ window.QA_DATEN = {
 "Kreisgrenze: Hattingen ist kreisfrei, Bredeney gehört zum Landkreis Stadtkreis Essen."
 ],
 "428-ruettenscheid": [
-"Fläche: Bredeney ist fast doppelt so groß wie Rüttenscheid.",
-"Nachbarschaft: Bredeney und Rüttenscheid sind angrenzende Essener Stadtteile."
+"Bredeney hat fast die doppelte Fläche von Rüttenscheid.",
+"Bredeney und Rüttenscheid grenzen direkt aneinander."
 ]
 },
 "ags": "05113000",
 "ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Essener Stadtteil 5 km südlich der Mitte, auf den Ruhrhöhen über dem Baldeneysee, 8,76 km² groß, rund 160 m hoch."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals erwähnt 875, seit 1915 zu Essen; Burgruine Neue Isenburg, Schloss Baldeney und Familienfriedhof der Krupps."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 11.000 Einwohner, meist in Ein- und Zweifamilienhäusern; Geschäfte an der Bredeneyer Straße und der Zeunerstraße."
+},
+{
+"facette": "FREIZEIT",
+"text": "Villa Hügel, Wildgatter Heissiwald, Badestelle Seaside Beach, Baldeneysteig rund um den See, Minigolf und mehrere Aussichtspunkte."
+},
+{
+"facette": "INFRA",
+"text": "S-Bahn-Halte Essen-Hügel und Essen-Stadtwald, Straßenbahn, Gymnasien Goetheschule und Grashof, Schulen für OP- und Anästhesieassistenz."
+}
+],
 "km_vom_vorigen": 2.5
 },
 {
@@ -117402,189 +121715,216 @@ window.QA_DATEN = {
 "lon": 7.04417,
 "karten": [
 {
-"familie": "A",
+"facette": "ALLTAG",
+"charakteristikum": "Ehemalige Konzernzentrale als Wahrzeichen",
+"rang": 1,
+"familie": "D",
 "sorte": "Geschichte",
 "ort": "Huttrop",
-"steckbrief": "Essener Stadtteil mit rund 15.500 Einwohnern, 2 km östlich der Stadtmitte (Luftlinie).",
-"frage": "Was bedeutet die Silbe „trop“ im Ortsnamen Huttrop?",
+"steckbrief": "Stadtteil von Essen mit rund 15.500 Einwohnern, 2 km östlich der Stadtmitte.",
+"frage": "Welches dieser vier Dinge gibt es in Huttrop?",
 "optionen": [
-"Die Silbe „trop“ bedeutet Dorf.",
-"Die Silbe „trop“ steht für Tropfen.",
-"Die Silbe „trop“ bezeichnet eine Viehtränke.",
-"Die Silbe „trop“ bezeichnet eine Furt."
+"Ein Hochhaus, einst Sitz eines Energiekonzerns",
+"Eine Brauerei mit eigenem Ausschank",
+"Einen S-Bahnhof mitten im Stadtteil",
+"Eine Zeche, die noch Kohle fördert"
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. „Trop“ ist eine niederdeutsche Form von „dorp“ und bedeutet Dorf. Tropfen liegt nahe, weil die Silbe fast genauso klingt. Dieselbe Endung steckt in vielen westfälischen Ortsnamen auf -trop und -trup. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Huttrop; Westfälisches Ortsnamenbuch",
+"rueckseite": "Du hattest [Option] getippt. Eine Zeche läge im Ruhrgebiet nahe, doch Huttrops Hingucker ist ein Büroturm: der Ruhrturm an der Huttropstraße. Er war Konzernzentrale von E.ON Ruhrgas; nach dem Auszug des Konzerns wurde er zu Hotel, Büros und Konferenzzentrum umgewidmet. In einem Stadtteil mit aufgelockerten Wohnvierteln und viel Grün fällt der Turm beim Vorbeifahren sofort auf. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Huttrop; Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/huttrop_2/huttrop_kultur_freizeit.de.html und www.essen.de/dasistessen/stadtteile/huttrop_2/huttrop_startseite.de.jsp",
+"faktencheck": "unsicher",
+"id": "430-huttrop/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Rätselhafter Name: Hut plus Dorf",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Huttrop",
+"steckbrief": "Stadtteil von Essen mit rund 15.500 Einwohnern, 2 km östlich der Stadtmitte.",
+"frage": "Die erste Silbe von Huttrop gibt bis heute Rätsel auf. Was bedeutet dagegen die Endung „-trop“?",
+"optionen": [
+"Sie bedeutet Bach oder Quelle.",
+"Sie bedeutet Dorf.",
+"Sie bedeutet Furt durch einen Fluss.",
+"Sie bedeutet Rodung im Wald."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. „Trop“ klingt nach Tropfen und Wasser, doch die Endung bedeutet eindeutig Dorf, wie in den alten Formen Huttorpe oder Huddrop. Rätselhaft bleibt die erste Silbe: Gemeint sein könnten Höhe, Hügel oder Hütte. Aus der alten Bauernschaft ist ein Essener Stadtteil geworden; im Namen lebt das Dorf weiter. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/huttrop_2/huttrop_geschichte.de.html",
 "faktencheck": "korrigiert",
-"id": "430-huttrop/v0.8/1",
+"id": "430-huttrop/v0.9/2",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Huttrop",
-"steckbrief": "Essener Stadtteil mit rund 15.500 Einwohnern, 2 km östlich der Stadtmitte (Luftlinie).",
-"frage": "Wie groß ist die Fläche des Stadtteils Huttrop?",
-"optionen": [
-"unter 2 km²",
-"2 bis unter 4 km²",
-"4 bis unter 8 km²",
-"8 km² oder mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Huttrop umfasst 2,73 Quadratkilometer. Mehr zu schätzen liegt nahe, weil im Stadtteil viele Menschen leben. Doch Stadtteile nahe einer Innenstadt sind oft klein geschnitten und eng bewohnt. Richtig war 2.",
-"quelle": "Wikidata P2046",
-"faktencheck": "bestätigt",
-"id": "430-huttrop/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
+"facette": "FREIZEIT",
+"charakteristikum": "Bibliothek als Wohnzimmer des Stadtteils",
+"rang": 6,
+"familie": "D",
 "sorte": "Geschichte",
 "ort": "Huttrop",
-"steckbrief": "Essener Stadtteil mit rund 15.500 Einwohnern, 2 km östlich der Stadtmitte (Luftlinie).",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"steckbrief": "Stadtteil von Essen mit rund 15.500 Einwohnern, 2 km östlich der Stadtmitte.",
+"frage": "Welches dieser vier Freizeitziele gibt es in Huttrop?",
 "optionen": [
-"Das Franz Sales Haus heißt nach seinem Gründer.",
-"Die Steeler Straße war einst Teil des Hellwegs.",
-"Landrat Leo Huttrop stammte aus dem Ort Huttrop."
-],
-"art": "luege",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Gelogen ist der Gründer: Das katholische Franz Sales Haus ist nach dem heiligen Franz von Sales benannt. Ein Gründer liegt nahe, weil viele Häuser nach ihren Stiftern heißen. Wahr ist dagegen: Landrat Leo Huttrop trug den Namen seines Heimatorts, und die Steeler Straße war Teil des Hellwegs. Die Lüge war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Huttrop",
-"faktencheck": "unsicher",
-"id": "430-huttrop/v0.8/3",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Huttrop",
-"steckbrief": "Essener Stadtteil mit rund 15.500 Einwohnern, 2 km östlich der Stadtmitte (Luftlinie).",
-"frage": "Bundestagswahl 2025, Zweitstimmen in der ganzen Stadt Essen: Welche Partei wurde Zweite?",
-"optionen": [
-"CDU",
-"AfD",
-"GRÜNE",
-"SPD"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. In ganz Essen wurde die CDU stärkste Kraft, dahinter landete die SPD. Die AfD liegt als Tipp nahe, weil sie bundesweit Zweite wurde; in Essen reichte es nur für Platz drei. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "430-huttrop/v0.8/4",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Huttrop",
-"steckbrief": "Essener Stadtteil mit rund 15.500 Einwohnern, 2 km östlich der Stadtmitte (Luftlinie).",
-"frage": "Das Huttroper Stadtteilwappen zeigt einen blauen Hut und fünf Tropfen. Woher stammen diese Bilder?",
-"optionen": [
-"Sie bilden den Klang des Ortsnamens nach.",
-"Sie stammen aus dem Siegel der Bauerschaft.",
-"Sie erinnern an Hutmacher, die hier arbeiteten.",
-"Sie wurden aus einem Adelswappen übernommen."
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Hut und Tropfen malen den Klang von „Huttrop“ nach; man spricht von einem redenden Wappen. Ein altes Bauerschaftssiegel liegt nahe, weil Wappen meist uralt wirken. Doch Heraldiker Kurt Schweder schuf es erst Ende der 1980er Jahre, wie Wappen für alle Essener Stadtteile. Offiziell war es nie. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Huttrop",
-"faktencheck": "unsicher",
-"id": "430-huttrop/v0.8/5",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Huttrop",
-"steckbrief": "Essener Stadtteil mit rund 15.500 Einwohnern, 2 km östlich der Stadtmitte (Luftlinie).",
-"frage": "In welchem Zeitraum wurde Huttrop nach Essen eingemeindet?",
-"optionen": [
-"vor 1900",
-"1900 bis 1919",
-"1920 bis 1945",
-"1946 oder später"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Huttrop wurde am 1. April 1908 nach Essen eingemeindet. Wegen der Nähe zur Stadtmitte liegt ein früherer Termin nahe. Doch bis dahin gehörte Huttrop nicht zur Stadt. Richtig war 2.",
-"quelle": "dewiki Infobox",
-"faktencheck": "bestätigt",
-"id": "430-huttrop/v0.8/6",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Huttrop",
-"steckbrief": "Essener Stadtteil mit rund 15.500 Einwohnern, 2 km östlich der Stadtmitte (Luftlinie).",
-"frage": "Wofür wurde das Gebäude des heutigen Ruhrturms in Huttrop ursprünglich errichtet?",
-"optionen": [
-"Es entstand als Wohnhaus mit Mietwohnungen.",
-"Es entstand als Bettenhaus eines Krankenhauses.",
-"Es entstand als Zentrale eines Energiekonzerns.",
-"Es entstand als Schulgebäude eines Gymnasiums."
+"Einen Bootsverleih am Flussufer",
+"Einen Weinberg mit Weinlehrpfad",
+"Eine Bibliothek mit Wohnzimmeratmosphäre",
+"Eine Wassermühle mit Schaumahlen"
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Das Gebäude entstand Anfang der 1970er Jahre als Zentrale der Ruhrgas AG, später E.ON Ruhrgas. Nach dem Auszug des Konzerns bekam es neue Mieter und den Namen Ruhrturm. Ein Krankenhausbau liegt nahe, weil in Huttrop zwei Essener Krankenhäuser liegen. Richtig war 3.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Huttrop; Immobilien Zeitung",
-"faktencheck": "korrigiert",
-"id": "430-huttrop/v0.8/7",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Huttrop",
-"steckbrief": "Essener Stadtteil mit rund 15.500 Einwohnern, 2 km östlich der Stadtmitte (Luftlinie).",
-"frage": "Das Elisabeth-Krankenhaus gehört zu Huttrop. Wo war es ursprünglich untergebracht?",
-"optionen": [
-"Es begann in einem ehemaligen Gutshof.",
-"Es begann in einem ehemaligen Kapuzinerkloster.",
-"Es begann im Verwaltungsbau einer Zeche.",
-"Es begann in einem alten Gasthaus."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Das Elisabeth-Krankenhaus begann in Räumen des ehemaligen Kapuzinerklosters Essen. Ein Gutshof liegt nahe, weil Huttrop einst eine Bauerschaft war. Zum Krankenhaus gehört eine katholische Kirche mit langer Geschichte. Richtig war 2.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Huttrop",
+"rueckseite": "Du hattest [Option] getippt. Eine Wassermühle passt zu einem alten Dorf, doch Huttrops Freizeitziel ist moderner: die Stadtteilbibliothek am Mählerweg. Mit ihrem Umbau wurde sie Pilotprojekt der „Dritten Orte“, also Orte der Begegnung neben Zuhause und Arbeit. Mit ihrer Wohnzimmeratmosphäre ist sie mehr als eine Ausleihe: ein Treffpunkt für die Nachbarschaft im Stadtteil. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/huttrop_2/huttrop_startseite.de.jsp",
 "faktencheck": "unsicher",
-"id": "430-huttrop/v0.8/8",
+"id": "430-huttrop/v0.9/3",
 "tisch": false
 },
 {
+"facette": "INFRA",
+"charakteristikum": "Älteste Klinik Essens, begonnen im Kloster",
+"rang": 3,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Huttrop",
-"steckbrief": "Essener Stadtteil mit rund 15.500 Einwohnern, 2 km östlich der Stadtmitte (Luftlinie).",
-"frage": "Die evangelische Neue Pauluskirche in Huttrop wurde entwidmet. Was wurde aus dem Bau?",
+"steckbrief": "Stadtteil von Essen mit rund 15.500 Einwohnern, 2 km östlich der Stadtmitte.",
+"frage": "Das Elisabeth-Krankenhaus in Huttrop gilt als älteste Klinik Essens. Wo nahm es seinen Anfang?",
 "optionen": [
-"Sie wurde zu einer Kletterhalle umgebaut.",
-"Sie wurde zu einem Kino umgebaut.",
-"Sie wurde zu einer Stadtteilbücherei umgebaut.",
-"Sie wurde zu einem Altenwohnheim umgebaut."
+"Es begann in einem eigens errichteten Neubau.",
+"Es begann in einer stillgelegten Zechenanlage.",
+"Es begann in einem früheren Gasthof.",
+"Es begann in Räumen eines ehemaligen Klosters."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Die Neue Pauluskirche wurde zu einem Altenwohnheim umgebaut; im einstigen Kirchenschiff liegen heute Apartments. Kino oder Kletterhalle liegen nahe, weil aufgegebene Kirchen oft spektakulär umgenutzt werden. Ein Saal im Haus dient weiter für Gottesdienste der Bewohner. Richtig war 4.",
+"rueckseite": "Du hattest [Option] getippt. Ein Neubau läge für eine Klinik nahe, doch das Elisabeth-Krankenhaus begann in Räumen des ehemaligen Kapuzinerklosters Essen. Heute steht es in Huttrop, in den letzten Jahren saniert und erweitert. Zusammen mit den Kliniken Essen-Mitte der Huyssens-Stiftung und einer Zahnklinik macht es den Stadtteil nahe der Innenstadt zu einem Klinikstandort. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Huttrop; OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "430-huttrop/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Einkaufsmeile auf dem alten Hellweg",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Huttrop",
+"steckbrief": "Stadtteil von Essen mit rund 15.500 Einwohnern, 2 km östlich der Stadtmitte.",
+"frage": "Die Steeler Straße ist heute Huttrops Einkaufsmeile. Was war sie früher?",
+"optionen": [
+"Sie war Teil eines alten Fernwegs.",
+"Sie war ein Treidelpfad für Ruhrschiffe.",
+"Sie war ein Wall der Stadtbefestigung.",
+"Sie war nur ein Feldweg zwischen Höfen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Feldweg läge für einen Vorort nahe, doch die Steeler Straße war Teil des Hellwegs, des alten Fernwegs vom Rhein nach Westfalen. Sie führte vom Steeler Tor der Essener Stadtmauer bis zur Stadt Steele und wurde später zur befestigten Chaussee ausgebaut. Wer heute über die Einkaufsmeile fährt, folgt einer Route, die Essen und Steele seit Jahrhunderten verbindet. Richtig war 1.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Huttrop",
+"faktencheck": "unsicher",
+"id": "430-huttrop/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Lange von Altenessen und Stoppenberg verwaltet",
+"rang": 9,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Huttrop",
+"steckbrief": "Stadtteil von Essen mit rund 15.500 Einwohnern, 2 km östlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Unter Napoleon gehörte Huttrop zur Munizipalität Altenessen.",
+"Vor Essen gehörte Huttrop zur Bürgermeisterei Stoppenberg.",
+"Nach dem Wiener Kongress erhielt Huttrop eigene Stadtrechte."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Stadtrechte klingen plausibel, doch Huttrop blieb Teil größerer Verwaltungseinheiten. Unter Napoleon gehörte es zur Munizipalität Altenessen, nach dem Wiener Kongress zur Bürgermeisterei Altenessen, später zur Bürgermeisterei Stoppenberg. Erst die Eingemeindung machte Huttrop zum Teil Essens, obwohl die Innenstadt nur einen Steinwurf entfernt liegt. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/huttrop_2/huttrop_geschichte.de.html und www.essen.de/dasistessen/stadtteile/huttrop_2/huttrop_statistik.de.html",
 "faktencheck": "korrigiert",
-"id": "430-huttrop/v0.8/9",
+"id": "430-huttrop/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Kleine Fläche, viele Menschen",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Huttrop",
+"steckbrief": "Stadtteil von Essen mit rund 15.500 Einwohnern, 2 km östlich der Stadtmitte.",
+"frage": "Wie groß ist die Fläche des Essener Stadtteils Huttrop?",
+"optionen": [
+"unter 1 km²",
+"1 bis unter 2 km²",
+"2 bis unter 4 km²",
+"4 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an Großstadt denkt, schätzt leicht größer. Huttrop misst 2,73 Quadratkilometer und ist damit kleiner als manche Dorfgemarkung. Auf dieser Fläche liegen viele Wohnviertel, großzügige Grünflächen und der Parkfriedhof. Richtig war 3.",
+"quelle": "Wikidata P2046; Wohnviertel und Parkfriedhof: Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/huttrop_2/huttrop_startseite.de.jsp und www.essen.de/dasistessen/stadtteile/huttrop_2/huttrop_kultur_freizeit.de.html",
+"faktencheck": "korrigiert",
+"id": "430-huttrop/v0.9/7",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Großer Träger der Behindertenhilfe",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Huttrop",
+"steckbrief": "Stadtteil von Essen mit rund 15.500 Einwohnern, 2 km östlich der Stadtmitte.",
+"frage": "Das Franz Sales Haus hat seinen Stammsitz in Huttrop. Wem gilt seine Arbeit?",
+"optionen": [
+"Sie gilt alten Bergleuten mit Staublunge.",
+"Sie gilt Menschen mit Behinderungen.",
+"Sie gilt Strafgefangenen nach der Haft.",
+"Sie gilt ledigen Müttern und ihren Säuglingen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bergleute lägen im Ruhrgebiet nahe, doch das Franz Sales Haus, benannt nach dem heiligen Franz von Sales, unterstützt Menschen mit geistigen, psychischen und mehrfachen Behinderungen. Gegründet wurde es als „Verein zur Erziehung und Pflege katholischer idiotischer Kinder …“, so sprach man damals. Mit Förderschule und Berufskolleg für die Behindertenhilfe prägt die Einrichtung Huttrop über den Stammsitz hinaus. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Huttrop",
+"faktencheck": "unsicher",
+"id": "430-huttrop/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Kirche wurde Altenheim mit Kita",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Huttrop",
+"steckbrief": "Stadtteil von Essen mit rund 15.500 Einwohnern, 2 km östlich der Stadtmitte.",
+"frage": "Die evangelische Neue Pauluskirche in Huttrop wurde entweiht. Was wurde danach aus ihr?",
+"optionen": [
+"Sie wurde zu einer Kletterhalle umgebaut.",
+"Sie wurde zu einem Museum umgebaut.",
+"Sie wurde zu einem Restaurant umgebaut.",
+"Sie wurde zu Altenwohnheim und Kita umgebaut."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Kletterhalle liegt nahe, weil manche entweihte Kirche heute so genutzt wird. Die Neue Pauluskirche aber wurde nach ihrer Entweihung zu einem Altenwohnheim mit Kindertagesstätte umgebaut. So wurde aus einem Ort der Gemeinde ein Ort für Alt und Jung im Stadtteil. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Huttrop",
+"faktencheck": "unsicher",
+"id": "430-huttrop/v0.9/9",
 "tisch": false
 }
 ],
 "anschluss_von": "429-bredeney",
 "anschluss": [
-"Fläche: Bredeney ist gut dreimal so groß wie Huttrop.",
-"Höhenlage: Bredeney liegt rund 60 Meter höher als Huttrop."
+"Huttrop liegt rund 60 Meter tiefer als Bredeney.",
+"Bredeney hat gut dreimal so viel Fläche wie Huttrop."
 ],
 "anschluesse": {
 "197-duisburg": [
@@ -117619,12 +121959,34 @@ window.QA_DATEN = {
 "Kreisgrenze: Hattingen ist kreisfrei, Huttrop gehört zum Landkreis Stadtkreis Essen."
 ],
 "429-bredeney": [
-"Fläche: Bredeney ist gut dreimal so groß wie Huttrop.",
-"Höhenlage: Bredeney liegt rund 60 Meter höher als Huttrop."
+"Huttrop liegt rund 60 Meter tiefer als Bredeney.",
+"Bredeney hat gut dreimal so viel Fläche wie Huttrop."
 ]
 },
 "ags": "05113000",
 "ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Essener Stadtteil 2 km östlich der Innenstadt, rund 100 Meter hoch, 2,73 Quadratkilometer, mit dem grünen Siepental."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 1319 erwähnt, seit 1908 Teil von Essen; auf dem Alten Friedhof stehen denkmalgeschützte Grabmäler alter Huttroper Geschlechter."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 15.500 Einwohner (2025); im Moltkeviertel alte Bergmannshäuser und ein Gastroviertel am Moltkeplatz."
+},
+{
+"facette": "FREIZEIT",
+"text": "Parkfriedhof, Essens größter Friedhof; Grabstätte Gustav Heinemann; Wanderwege Hardenberger Weg, Abteiweg, Rhein-Ruhr-Emscherweg."
+},
+{
+"facette": "INFRA",
+"text": "Straßenbahnlinien 103 und 109, A 52 nach Düsseldorf, Hauptbahnhof nah; Kliniken Essen-Mitte, Robert-Schmidt-Berufskolleg."
+}
+],
 "km_vom_vorigen": 5.2
 },
 {
@@ -117634,168 +121996,215 @@ window.QA_DATEN = {
 "lon": 6.94,
 "karten": [
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "eine Katze im Ortsnamen",
+"rang": 5,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Kettwig",
-"steckbrief": "Kettwig hat rund 18.000 Einwohner und liegt als Stadtteil von Essen 8 km südöstlich von Mülheim an der Ruhr.",
-"frage": "Der Haltepunkt Kettwig Stausee liegt direkt am Südufer des Kettwiger Sees. Welchen Anlass für seine Entstehung nennt die Ortsgeschichte?",
+"steckbrief": "Stadtteil von Essen mit rund 18.000 Einwohnern, 8 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Was steckt nach der Stadtgeschichte im ersten Teil des Namens Kettwig?",
 "optionen": [
-"Er wurde für Ausflügler zum See angelegt.",
-"Er ersetzte einen vom Hochwasser zerstörten Bahnhof.",
-"Er entstand als Halt für ein Lazarett.",
-"Er war ein Notbehelf nach einer Brückenzerstörung."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Der Name lässt an Ausflügler denken, die ans Seeufer wollen. Entstanden ist Kettwig Stausee aber als Behelfshalt, nachdem die Eisenbahnbrücke Kettwig zerstört worden war. Er liegt im Ortsteil Kettwig Vor der Brücke an der Ruhrtalbahn. Richtig war 4.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Kettwig",
-"faktencheck": "bestätigt",
-"id": "431-kettwig/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Kettwig",
-"steckbrief": "Kettwig hat rund 18.000 Einwohner und liegt im äußersten Südwesten Essens an der Ruhr, 8 km südöstlich von Mülheim an der Ruhr.",
-"frage": "Wie groß ist die Fläche des Stadtteils Kettwig?",
-"optionen": [
-"unter 20 km²",
-"20 bis unter 30 km²",
-"30 bis unter 50 km²",
-"50 km² und mehr"
+"Er geht auf ein Wort für Katze zurück.",
+"Er erinnert an eine Kette über der Ruhr.",
+"Er bewahrt den Namen eines frühen Grundherrn.",
+"Er geht auf ein Wort für Kies zurück."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Wer an einen Stadtteil denkt, stellt sich oft nur ein paar Straßenzüge vor; die vielen Einwohner lassen dagegen an eine große Fläche denken. Kettwig misst 15 Quadratkilometer und liegt damit in der kleinsten Spanne. Richtig war 1.",
-"quelle": "Wikidata P2046",
+"rueckseite": "Du hattest [Option] getippt. Die Kette drängt sich auf, weil man „Kett“ hört und an einen gesperrten Fluss denkt. Die Stadtgeschichte erklärt es anders: Die Endung -wik ist mit einem Tiernamen verbunden, und das Beiwort kommt aus dem mittelniederdeutschen katte, Katze. So trägt der Ort an der Ruhr seit Jahrhunderten eine Katze im Namen, und wer „Kettwig“ hört, kann sie künftig mithören. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/kettwig/kettwig_geschichte.de.html",
 "faktencheck": "bestätigt",
-"id": "431-kettwig/v0.8/2",
+"id": "431-kettwig/v0.9/2",
 "tisch": false
 },
 {
-"familie": "B",
+"facette": "ALLTAG",
+"charakteristikum": "Textilort statt Zechenort im Ruhrgebiet",
+"rang": 1,
+"familie": "A",
 "sorte": "Geschichte",
 "ort": "Kettwig",
-"steckbrief": "Kettwig hat rund 18.000 Einwohner und liegt als Stadtteil von Essen 8 km südöstlich von Mülheim an der Ruhr.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"steckbrief": "Stadtteil von Essen mit rund 18.000 Einwohnern, 8 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Wofür war Kettwig über Jahrhunderte im großen Umfeld bekannt?",
 "optionen": [
-"Die Kirche am Markt ist aus Ruhrsandstein gebaut.",
-"Kettwigs doppelköpfiger Wappenadler stammt aus dem Preußenwappen.",
-"St. Peters Hochaltar stammt aus einem aufgehobenen Kloster."
+"Kettwig war für Steinkohle aus eigenen Zechen bekannt.",
+"Kettwig war für Wolltuche und Schirmseiden bekannt.",
+"Kettwig war für Bier aus eigenen Brauereien bekannt.",
+"Kettwig war für Porzellan aus eigener Manufaktur bekannt."
 ],
-"art": "luege",
+"art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Preußen liegt nahe, denn Kettwig gehörte einst zum Königreich Preußen. Doch der Preußenadler hat nur einen Kopf. Kettwigs Doppelkopfadler über der Brücke stammt aus dem Wappen der Reichsabtei Werden. Die Kirche am Markt ist tatsächlich aus Ruhrsandstein, und der Hochaltar von St. Peter kam aus dem aufgehobenen Katharinenkloster in Gerresheim. Die Lüge war 2.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Kettwig",
+"rueckseite": "Du hattest [Option] getippt. Kohle liegt im Ruhrgebiet nahe, und Zechen gab es in Kettwig tatsächlich, doch der Bergbau spielte nie die Hauptrolle. Bekannt wurde der Ort durch Wolltuche und Schirmseiden aus Weberei und Spinnerei. Fabrikhallen, Siedlungen, Arbeiterwohnungen und Villen in der Altstadt erzählen noch heute davon – Kettwig war eher Textilstadt als Zechenort. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/kettwig/kettwig_geschichte.de.html",
 "faktencheck": "unsicher",
-"id": "431-kettwig/v0.8/3",
+"id": "431-kettwig/v0.9/3",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "Fachwerk-Altstadt, im Krieg verschont",
+"rang": 2,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Kettwig",
-"steckbrief": "Kettwig hat rund 18.000 Einwohner und liegt als Stadtteil von Essen 8 km südöstlich von Mülheim an der Ruhr.",
-"frage": "Die Firma Scheidt war einst der größte Arbeitgeber Kettwigs. Womit machte sie ihr Geschäft?",
+"steckbrief": "Stadtteil von Essen mit rund 18.000 Einwohnern, 8 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Kettwig hat eine Altstadt mit zahlreichen Fachwerkhäusern. Wie erklärt die Stadt Essen, dass es sie heute noch gibt?",
 "optionen": [
-"Sie förderte Steinkohle aus eigenen Zechen.",
-"Sie fertigte Werkzeuge aus Stahl.",
-"Sie stellte Papier und Pappe her.",
-"Sie stellte Garn und Tuch her."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet denkt man zuerst an Kohle und Stahl. Scheidt war aber ein Textilbetrieb mit Tuchfabrik und Spinnerei, gegründet 1720. Beide Werke sind längst geschlossen. Richtig war 4.",
-"quelle": "LWL, Tuchfabrik J. W. Scheidt; Stadt Essen, Geschichte Kettwig",
-"faktencheck": "korrigiert",
-"id": "431-kettwig/v0.8/5",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Kettwig",
-"steckbrief": "Kettwig hat rund 18.000 Einwohner und liegt als Essener Stadtteil 8 km südöstlich von Mülheim an der Ruhr.",
-"frage": "In welchem Zeitraum wurde Kettwig nach Essen eingemeindet?",
-"optionen": [
-"1970 oder später",
-"1945 bis 1969",
-"1918 bis 1944",
-"vor 1918"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Heute wirkt Kettwig wie selbstverständlich als Teil Essens, und viele denken an die Zeit, als die Ruhrstädte rasch wuchsen. Die Eingemeindung kam aber erst am 1. Januar 1975. Richtig war 1.",
-"quelle": "dewiki Infobox",
-"faktencheck": "bestätigt",
-"id": "431-kettwig/v0.8/6",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Kettwig",
-"steckbrief": "Kettwig hat rund 18.000 Einwohner und liegt als Stadtteil von Essen 8 km südöstlich von Mülheim an der Ruhr.",
-"frage": "Wo stehen die Werke des Skulpturenparks Kettwig?",
-"optionen": [
-"Alle stehen zusammen in einem eingezäunten Park.",
-"Sie stehen verteilt über das Ortsgebiet.",
-"Alle stehen im Garten eines Schlosses.",
-"Alle stehen in einer ehemaligen Fabrikhalle."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Das Wort Park lässt an eine geschlossene Anlage denken, in der alle Werke beisammen stehen. Die Werke des Skulpturenparks sind aber über das Ortsgebiet verteilt. Gegründet hat ihn die Künstlerin Marianne Kühn; zu sehen sind unter anderem Arbeiten von Werner Graeff und Johannes Brus. Richtig war 2.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Kettwig",
-"faktencheck": "bestätigt",
-"id": "431-kettwig/v0.8/7",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Kettwig",
-"steckbrief": "Kettwig hat rund 18.000 Einwohner und liegt als Stadtteil von Essen 8 km südöstlich von Mülheim an der Ruhr.",
-"frage": "Vor dem heutigen E trugen Kettwiger Autos ein anderes Kennzeichen. Welches?",
-"optionen": [
-"Die Autos trugen das Kennzeichen MH.",
-"Die Autos trugen das Kennzeichen W.",
-"Die Autos trugen das Kennzeichen D.",
-"Die Autos trugen das Kennzeichen BO."
+"Sie wurde nach dem Krieg originalgetreu wiederaufgebaut.",
+"Ein Museum ließ die Häuser hierher versetzen.",
+"Bomben haben sie im Krieg weitgehend verschont.",
+"Die Häuser entstanden erst nach dem Krieg."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. MH liegt nahe, denn Mülheim an der Ruhr ist die nächste Großstadt. Kettwig gehörte damals aber zum Landkreis Düsseldorf-Mettmann, und so fuhren Kettwiger Autos mit D. Erst mit dem Wechsel nach Essen kam das E. Richtig war 3.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Kettwig",
-"faktencheck": "unsicher",
-"id": "431-kettwig/v0.8/8",
+"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet liegt der Wiederaufbau nahe, denn viele Städte dort wurden im Krieg schwer getroffen. Kettwig aber blieb von den Bombardements weitgehend verschont, und so blieb die Altstadt mit ihren Fachwerkhäusern in weiten Teilen erhalten. Enge Gassen, kurze Wege: Heute ist sie Touristenmagnet und begehrtes Wohnquartier – ein Stück Kleinstadt mitten in der Großstadt Essen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/kettwig/kettwig_geschichte.de.html; www.essen.de/dasistessen/stadtteile/kettwig/kettwig_statistik.de.html",
+"faktencheck": "korrigiert",
+"id": "431-kettwig/v0.9/4",
 "tisch": false
 },
 {
+"facette": "INFRA",
+"charakteristikum": "Behelfshalt nach gesprengter Brücke",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kettwig",
+"steckbrief": "Stadtteil von Essen mit rund 18.000 Einwohnern, 8 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Kettwig hat neben dem Bahnhof einen zweiten Halt: Kettwig Stausee am Südufer. Warum wurde er eingerichtet?",
+"optionen": [
+"Er wurde eigens für die S-Bahn gebaut.",
+"Der Stausee hatte den alten Bahnhof überflutet.",
+"Eine Fabrik am Südufer brauchte einen Gleisanschluss.",
+"Die Eisenbahnbrücke über die Ruhr war gesprengt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name lockt: Ein Stausee, der einen Bahnhof verschluckt, klingt nach einer guten Geschichte. Doch den alten Bahnhof nördlich der Ruhr gibt es noch. Beim Rückzug sprengten deutsche Truppen am 10. April 1945 die Ruhrbrücke der Bahn, und die Züge endeten an der Blockstelle Pusch südlich des Flusses. Daraus wurde der Halt Kettwig Stausee. Richtig war 4.",
+"quelle": "LVR-KuLaDig, www.kuladig.de/Objektansicht/KLD-263170; Wikipedia, de.wikipedia.org/wiki/Kettwig",
+"faktencheck": "korrigiert",
+"id": "431-kettwig/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Sandsteinbrücke mit Abtswappen",
+"rang": 10,
 "familie": "B",
 "sorte": "Geschichte",
 "ort": "Kettwig",
-"steckbrief": "Kettwig hat rund 18.000 Einwohner und liegt als Stadtteil von Essen 8 km südöstlich von Mülheim an der Ruhr.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"steckbrief": "Stadtteil von Essen mit rund 18.000 Einwohnern, 8 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Über den Kettwiger Mühlengraben führt eine alte Brücke. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Der Bahnhof Kettwig liegt mitten im alten Ortskern.",
-"Der Bahnhof Kettwig war früher ein großer Eisenbahnknoten.",
-"Schloss Hugenpoet birgt Renaissance-Kamine aus einem anderen Schloss."
+"Die heutige Brücke ist aus Beton gegossen.",
+"Früher konnten Fuhrwerke über die Brücke fahren.",
+"Im mittleren Bogen sitzt das Wappen eines Abts."
 ],
 "art": "luege",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Bei einem Eisenbahnknoten denkt man an einen Bahnhof mitten im Ort, deshalb klingt Aussage 1 glaubwürdig. Der Bahnhof Kettwig liegt aber dezentral am äußersten Ende der Bebauung. Ein großer Eisenbahnknoten war er wirklich, und Schloss Hugenpoet enthält tatsächlich Renaissance-Kamine aus Schloss Horst. Die Lüge war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Kettwig",
+"rueckseite": "Du hattest [Option] getippt. Beton klingt plausibel, denn viele Brücken sind heute aus Beton. Diese aber ist aus Ruhrsandstein und löste eine ältere Holzbrücke ab. Früher fuhren Fuhrwerke darüber, heute ist sie eine reine Fußgängerbrücke über den Mühlengraben, einen Nebenarm der Ruhr. Wer sie überquert, geht über ein Stück Kettwiger Geschichte aus Sandstein. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/kettwig/kettwig_kultur_freizeit.de.html",
+"faktencheck": "korrigiert",
+"id": "431-kettwig/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "flächengrößter Stadtteil Essens",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kettwig",
+"steckbrief": "Stadtteil von Essen mit rund 18.000 Einwohnern, 8 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Kettwig liegt im Südwesten Essens an der Ruhr, zwischen Wäldern und Feldern. Wie groß ist seine Fläche?",
+"optionen": [
+"unter 8 km²",
+"8 bis unter 20 km²",
+"20 bis unter 40 km²",
+"40 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Stadtteil klingt nach ein paar Straßenzügen, daher liegt eine kleine Fläche nahe. Kettwig aber misst rund 15 Quadratkilometer und ist damit nach Angaben der Stadt der flächenmäßig größte Stadtteil Essens. Bei rund 18.000 Einwohnern bleibt viel Raum für Ruhraue, Wälder und Felder – Kettwig wirkt eher wie eine Kleinstadt im Grünen als wie ein Großstadtviertel. Richtig war 2.",
+"quelle": "Wikidata P2046 (GRUNDDATEN); Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/kettwig/kettwig_startseite.de.jsp (Einwohner Stand 31.03.2025)",
 "faktencheck": "unsicher",
-"id": "431-kettwig/v0.8/9",
+"id": "431-kettwig/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Rathaus in ehemaliger Tuchfabrik",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kettwig",
+"steckbrief": "Stadtteil von Essen mit rund 18.000 Einwohnern, 8 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Das Kettwiger Rathaus am Marktplatz ist aus Ruhrsandstein. Wofür wurde der Altbau ursprünglich errichtet?",
+"optionen": [
+"Er wurde als Kloster der Werdener Abtei gebaut.",
+"Er wurde als Poststation für Reisende gebaut.",
+"Er wurde als Fabrik für Tuche gebaut.",
+"Er wurde von Anfang an als Rathaus gebaut."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Rathaus am Markt hält man für ein Rathaus von Anfang an. Der klassizistische Altbau diente aber zunächst als Tuchfabrik. Auffällig sind der westliche Giebel, ein Turm mit Kunstschmiedeverzierungen und ein Kettwiger Wappen aus Kalkstein. In einem späteren Anbau sitzt heute das Stadtmuseum. Am Kettwiger Markt steht also ein Stück Gewerbegeschichte im Gewand eines Rathauses. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/kettwig/kettwig_kultur_freizeit.de.html",
+"faktencheck": "korrigiert",
+"id": "431-kettwig/v0.9/8",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Ruder-EM in der Schulsporthalle",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kettwig",
+"steckbrief": "Stadtteil von Essen mit rund 18.000 Einwohnern, 8 km südöstlich von Mülheim an der Ruhr.",
+"frage": "In der Sporthalle des Kettwiger Theodor-Heuss-Gymnasiums fanden schon Europameisterschaften statt. In welcher Sportart?",
+"optionen": [
+"Es waren Europameisterschaften im Ergometer-Rudern.",
+"Es waren Europameisterschaften im Tischtennis.",
+"Es waren Europameisterschaften im Hallenhockey.",
+"Es waren Europameisterschaften im Futsal."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Schulhalle denkt man sich eher als Bühne für Ballsport. Hier aber wurden 2010 und 2013 Europameisterschaften im Ergometer-Rudern ausgetragen, also auf Rudergeräten an Land, mit Ruderern aus ganz Europa. Das passt zu Kettwig: Draußen liegt die Ruhr mit ihrem Stausee, drinnen wird an Land gerudert. Richtig war 1.",
+"quelle": "World Rowing, worldrowing.com (2012, 2013); Wikipedia, de.wikipedia.org/wiki/Kettwig",
+"faktencheck": "korrigiert",
+"id": "431-kettwig/v0.9/9",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Wasserschloss, kurz Folkwang-Hauptgebäude",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kettwig",
+"steckbrief": "Stadtteil von Essen mit rund 18.000 Einwohnern, 8 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Im Zweiten Weltkrieg diente das Wasserschloss Hugenpoet Wehrmacht und Flüchtlingen. Wer hatte dort nach dem Krieg kurzzeitig seine Ausstellung?",
+"optionen": [
+"Die Essener Universität hatte dort ihre Ausstellung.",
+"Das Folkwang-Museum hatte dort seine Ausstellung.",
+"Das Aalto-Theater hatte dort seine Ausstellung.",
+"Das Welterbe Zollverein hatte dort seine Ausstellung."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Universität klingt nach Wissenschaft im Schloss, doch Essen hat erst seit 1972 eine. Das Folkwang-Museum hatte seine Sammlung 1942 in Sicherheit gebracht und zeigte 1947 ausgewählte Werke in Schloss Hugenpoet. Das Wasserschloss, von Gräften, also Wassergräben, umgeben, ist heute ein Hotel-Restaurant und steht unter Denkmalschutz. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/kettwig/kettwig_kultur_freizeit.de.html; Museum Folkwang, www.museum-folkwang.de/en/chronicle",
+"faktencheck": "korrigiert",
+"id": "431-kettwig/v0.9/10",
 "tisch": false
 }
 ],
 "anschluss_von": "430-huttrop",
 "anschluss": [
-"Fläche: Kettwig ist mehr als fünfmal so groß wie Huttrop.",
-"Kennzeichen: In Kettwig wie in Huttrop steht E am Auto."
+"Kettwig hat mehr als fünfmal so viel Fläche wie Huttrop."
 ],
 "anschluesse": {
 "195-duesseldorf": [
@@ -117842,13 +122251,1266 @@ window.QA_DATEN = {
 "Kreisgrenze: Hattingen ist kreisfrei, Kettwig gehört zum Landkreis Stadtkreis Essen."
 ],
 "430-huttrop": [
-"Fläche: Kettwig ist mehr als fünfmal so groß wie Huttrop.",
-"Kennzeichen: In Kettwig wie in Huttrop steht E am Auto."
+"Kettwig hat mehr als fünfmal so viel Fläche wie Huttrop."
 ]
 },
 "ags": "05113000",
 "ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Kettwig liegt im äußersten Südwesten Essens direkt an der Ruhr, rund 15 Quadratkilometer groß, mit Stausee, Wäldern und Feldern."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Kettwig wurde 1000 erstmals urkundlich erwähnt, war ab 1857 eigene Stadt und ist seit 1975 Teil von Essen."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 18.000 Einwohner; früher Weberei und Spinnerei, heute Rehaklinik, Zeitungsdruckerei und Wasserkraftwerk am Stausee."
+},
+{
+"facette": "FREIZEIT",
+"text": "Fachwerk-Altstadt, Schwimmzentrum, Stadtmuseum, Schloss Hugenpoet, Burgruine Luttelnau, Ruhrtalradweg, vier Rundwege und Golfclub Haus Oefte."
+},
+{
+"facette": "INFRA",
+"text": "Zwei S-Bahn-Halte, Kettwig und Kettwig Stausee; am Rand quert die A52 über die Mintarder Ruhrtalbrücke."
+},
+{
+"facette": "POLITIK",
+"text": "Gut 30 Prozent der Kettwiger sind 65 oder älter, in ganz Essen knapp 22 Prozent (Stand 2025)."
+}
+],
 "km_vom_vorigen": 11.5
+},
+{
+"slug": "490-schuir",
+"name": "Schuir",
+"lat": 51.38806,
+"lon": 6.96361,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Name von Scheunen",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schuir",
+"steckbrief": "Essener Stadtteil mit rund 1.500 Einwohnern, 8 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Der Name Schuir ist alt. Woher stammt er nach der Ortsgeschichte?",
+"optionen": [
+"Der Name kommt von der Schafschur.",
+"Der Name bezeichnete eine alte Grenze.",
+"Der Name kommt von Scheuer oder Schutzdach.",
+"Der Name geht auf einen Bach zurück."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Schafschur liegt nahe, weil der Name so klingt. Die Ortsgeschichte leitet ihn aber von Scheuer oder Schutzdach ab: „ten Schuiren“ steht für „zu den Scheuern“ oder „Schuren“. Im Mittelalter wurde ein Ritter Evert von Schuren in Schuir erwähnt. Der Name erinnert also an Scheunen und Landwirtschaft – ein guter Merksatz für diesen Stadtteil. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/schuir_1/schuir_geschichte.de.html",
+"faktencheck": "korrigiert",
+"id": "490-schuir/v0.9/1",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Sternwarte im kleinen Stadtteil",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schuir",
+"steckbrief": "Essener Stadtteil mit rund 1.500 Einwohnern, 8 km südöstlich von Mülheim an der Ruhr.",
+"frage": "In Schuir steht die Walter-Hohmann-Sternwarte. Nach wem ist sie benannt?",
+"optionen": [
+"Sie ehrt einen Abt der Reichsabtei Werden.",
+"Sie ehrt den ersten Vorsitzenden des Vereins.",
+"Sie ehrt einen Bauern, der das Grundstück stiftete.",
+"Sie ehrt einen Pionier der Raumfahrt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Stifter oder Vereinsgründer liegt nahe, weil Sternwarten oft nach Förderern heißen. Walter Hohmann war aber ein Pionier der Raumfahrt. Für einen kleinen Stadtteil ist eine eigene Sternwarte ungewöhnlich; die Stadt Essen führt sie als Sehenswürdigkeit des Stadtteils. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/schuir_1/schuir_kultur_freizeit.de.html",
+"faktencheck": "bestätigt",
+"id": "490-schuir/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Bauernland mitten in Essen",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schuir",
+"steckbrief": "Essener Stadtteil mit rund 1.500 Einwohnern, 8 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Schuir gehört zur Großstadt Essen. Was prägt den Stadtteil überwiegend?",
+"optionen": [
+"Reit- und Bauernhöfe prägen den Stadtteil.",
+"Bergarbeitersiedlungen aus der Zechenzeit prägen ihn.",
+"Villen von Industriellenfamilien prägen ihn.",
+"Gewerbegebiete und Bürobauten prägen ihn."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Villen liegen nahe, denn es gibt sie hier tatsächlich – aber nur vereinzelt, dazu eine Wohnsiedlung an der Grenze zu Bredeney. Überwiegend prägen Reit- und Bauernhöfe Schuir – ein Stück Land mitten in der Großstadt. Richtig war 2 → Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/schuir_1/schuir_statistik.de.html (Schlusszeile richtig: „Richtig war 1.“)",
+"faktencheck": "korrigiert",
+"id": "490-schuir/v0.9/3",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Konzernzentrale im ländlichen Stadtteil",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schuir",
+"steckbrief": "Essener Stadtteil mit rund 1.500 Einwohnern, 8 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Ein großer Bürobau in Schuir wurde 1969 eingeweiht und steht teils unter Denkmalschutz. Wem diente er bis 2025?",
+"optionen": [
+"Er war Zentrale eines Bergbaukonzerns.",
+"Er war Zentrale eines Warenhauskonzerns.",
+"Er war Verwaltung eines Energieversorgers.",
+"Er war Sitz einer Versicherung."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet liegt ein Bergbaukonzern nahe. Hier saß aber die Hauptverwaltung von Karstadt; sie zog 2025 nach Düsseldorf-Unterbilk. Für einen ländlichen Stadtteil ist ein solcher Konzernsitz ungewöhnlich; der denkmalgeschützte ursprüngliche Bau steht an der Theodor-Althoff-Straße. Richtig war 2.",
+"quelle": "FashionUnited, fashionunited.de/nachrichten/business/galeria-verwaltung-verlasst-traditionsstandort-in-essen/2025081162931",
+"faktencheck": "korrigiert",
+"id": "490-schuir/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "tödliche Verwechslung 1945",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schuir",
+"steckbrief": "Essener Stadtteil mit rund 1.500 Einwohnern, 8 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Im April 1945 starben in Schuir mehr als 40 Menschen bei einem alliierten Angriff. Wie kam es dazu?",
+"optionen": [
+"Sie hielten die Höfe für eine Rüstungsfabrik.",
+"Sie wollten eine Brücke über die Ruhr zerstören.",
+"Sie hielten Zwangsarbeiter für eine Wehrmacht-Einheit.",
+"Sie zielten auf ein Treibstofflager im Wald."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein militärisches Ziel liegt nahe – die Angreifer glaubten auch, eines vor sich zu haben: Sie verwechselten Zwangsarbeiter am Schuirweg mit einer Wehrmacht-Einheit. Schwestern des nahen Klosters halfen bei der Bergung. Am Ort des Geschehens erinnert heute ein Gedenkstein an die Toten. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/schuir_1/schuir_geschichte.de.html",
+"faktencheck": "korrigiert",
+"id": "490-schuir/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Wetterradarturm im kleinen Stadtteil",
+"rang": 6,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Schuir",
+"steckbrief": "Essener Stadtteil mit rund 1.500 Einwohnern, 8 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Schuir gehörte einst zur Reichsabtei Werden.",
+"In Schuir steht ein Radarturm der Flugsicherung.",
+"Schuir liegt auf der Nordseite der Ruhr."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Flugsicherung liegt nahe, weil Radartürme oft an Flughäfen stehen. Den Turm an der Wallneyer Straße betreibt aber der Deutsche Wetterdienst. Eine Reichsabtei war ein Kloster, das direkt dem Kaiser unterstand. Einer von 17 Radartürmen des Wetterdienstes steht damit in einem kleinen Essener Stadtteil. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Schuir",
+"faktencheck": "unsicher",
+"id": "490-schuir/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "viel Fläche, wenig Einwohner",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Schuir",
+"steckbrief": "Essener Stadtteil mit rund 1.500 Einwohnern, 8 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Wie groß ist die Fläche von Schuir?",
+"optionen": [
+"unter 8 km²",
+"8 bis unter 12 km²",
+"12 bis unter 20 km²",
+"20 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Größer zu schätzen liegt nahe, weil ländliche Stadtteile oft weitläufig sind. Schuir misst 6,72 Quadratkilometer. Für rund 1.500 Einwohner ist das viel Platz – entsprechend locker ist der Stadtteil besiedelt. Richtig war 1.",
+"quelle": "Wikidata P2046; Einwohner: Wikipedia, de.wikipedia.org/wiki/Schuir, Stand 31.12.2025",
+"faktencheck": "bestätigt",
+"id": "490-schuir/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Straußenfarm im Essener Stadtgebiet",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schuir",
+"steckbrief": "Essener Stadtteil mit rund 1.500 Einwohnern, 8 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Die Stadt Essen hebt am Rutherhof in Schuir, einem Freizeithof mit Restaurant, eine tierische Besonderheit hervor. Welche?",
+"optionen": [
+"Auf dem Hof gibt es eine Bisonherde.",
+"Auf dem Hof gibt es ein Damwildgehege.",
+"Auf dem Hof gibt es eine Straußenfarm.",
+"Auf dem Hof gibt es Wasserbüffel."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Damwild oder Wasserbüffel liegen nahe, weil man sie von vielen Freizeithöfen kennt. Die Stadt Essen nennt für den Rutherhof aber eine Straußenfarm. Strauße im Stadtgebiet von Essen erwartet kaum jemand – für Ausflügler wird der Hof damit zu einem Ziel, das man sich merkt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/schuir_1/schuir_kultur_freizeit.de.html",
+"faktencheck": "korrigiert",
+"id": "490-schuir/v0.9/9",
+"tisch": false
+}
+],
+"anschluss_von": "431-kettwig",
+"anschluss": [
+"Kettwig ist mehr als doppelt so groß wie Schuir.",
+"Vor ihrer eigenen Schule gingen Schuirer Kinder weit nach Kettwig."
+],
+"anschluesse": {
+"431-kettwig": [
+"Kettwig ist mehr als doppelt so groß wie Schuir.",
+"Vor ihrer eigenen Schule gingen Schuirer Kinder weit nach Kettwig."
+]
+},
+"ags": "05113000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Essener Stadtteil nördlich der Ruhr zwischen Haarzopf, Bredeney, Werden und Kettwig; gut 100 Meter hoch, 6,72 Quadratkilometer groß."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Im Jahr 800 erstmals als Wallney erwähnt, bis 1803 bei der Reichsabtei Werden, seit 1915 Stadtteil von Essen."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 1.500 Einwohner, überwiegend Reit- und Bauernhöfe, darunter Reiterhof Schuir und Reitstall Beckmann; bis 2025 Karstadt-Hauptverwaltung."
+},
+{
+"facette": "FREIZEIT",
+"text": "Walter-Hohmann-Sternwarte, Rutherhof mit Straußen, Adventure-Golf, Phänologischer Garten; Eggenweg, GeoRoute Ruhr und Radweg Wasser Route führen durch."
+},
+{
+"facette": "INFRA",
+"text": "Radarturm des Deutschen Wetterdienstes an der Wallneyer Straße; Postleitzahlen 45133 und 45239, Kennzeichen E."
+}
+],
+"km_vom_vorigen": 2.7
+},
+{
+"slug": "491-heidhausen",
+"name": "Heidhausen",
+"lat": 51.37972,
+"lon": 7.01778,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "erste katholische Trinkeranstalt Deutschlands",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heidhausen",
+"steckbrief": "Essener Stadtteil mit knapp 7.000 Einwohnern, 9 km südlich der Stadtmitte.",
+"frage": "Um 1900 entstand in Heidhausen das neugotische Kamillushaus. Wofür wurde es gebaut?",
+"optionen": [
+"Als Waisenhaus für Kinder aus Bergmannsfamilien.",
+"Als Internat für Söhne katholischer Fabrikanten.",
+"Als katholische Heilanstalt für Trinker.",
+"Als Seminar für angehende katholische Volksschullehrer."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Waisenhaus liegt nahe, denn viele Ordenshäuser jener Zeit nahmen Kinder auf. Das Kamillushaus aber wurde 1900/01 als Heilstätte für Trunksüchtige gebaut und gilt als erste katholische „Trinkeranstalt“ in Deutschland. Kloster und Kirche errichteten die Kamillianer, ein Krankenpflegeorden. Heute ist es eine Fachklinik für Suchtkranke; an der Heidhauser Straße sieht man den neugotischen Bau. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/heidhausen_1/heidhausen_kultur_freizeit.de.html; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "491-heidhausen/v0.9/2",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Lungenzentrum mit überörtlichem Ruf",
+"rang": 2,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Heidhausen",
+"steckbrief": "Essener Stadtteil mit knapp 7.000 Einwohnern, 9 km südlich der Stadtmitte.",
+"frage": "Welches dieser vier Dinge gibt es in Heidhausen?",
+"optionen": [
+"Eine Lungenklinik",
+"Einen S-Bahnhof",
+"Ein Hallenbad",
+"Eine Brauerei"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein S-Bahnhof liegt nahe, doch die S6 hält erst in Essen-Werden. In Heidhausen steht die Ruhrlandklinik, das Westdeutsche Lungenzentrum und eine Tochter des Universitätsklinikums Essen. Sie begann als Lungenheilstätte Holsterhausen, hauptsächlich für Tuberkulose-Kranke. Für einen Wohnstadtteil ist eine Klinik mit überörtlichem Ruf viel; Heilstätten baute man damals gern ins Grüne. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Heidhausen_(Essen); OpenStreetMap",
+"faktencheck": "bestätigt",
+"id": "491-heidhausen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Eingangstor ins Bergische Land",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heidhausen",
+"steckbrief": "Essener Stadtteil mit knapp 7.000 Einwohnern, 9 km südlich der Stadtmitte.",
+"frage": "Die Stadt Essen nennt Heidhausen ein Eingangstor. Wohin führt dieses Tor nach ihrer Beschreibung?",
+"optionen": [
+"Heidhausen ist das Tor zum Niederrhein.",
+"Heidhausen ist das Tor ins Bergische Land.",
+"Heidhausen ist das Tor ins Sauerland.",
+"Heidhausen ist das Tor zum Münsterland."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das Sauerland liegt nahe, denn es ist das große Hügelland südöstlich des Ruhrgebiets. Doch südlich von Heidhausen beginnt bei Velbert das Bergische Land, und die Stadt nennt den Stadtteil das Eingangstor dorthin. Schon hier steigt das Gelände an: An der Preutenborbeckstraße liegt der höchste Punkt der Stadt Essen, und ein Aussichtspunkt heißt „Blick nach Velbert“. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/heidhausen_1/heidhausen_startseite.de.jsp; OpenStreetMap",
+"faktencheck": "bestätigt",
+"id": "491-heidhausen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "redendes Wappen: Heide und Haus",
+"rang": 7,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Heidhausen",
+"steckbrief": "Essener Stadtteil mit knapp 7.000 Einwohnern, 9 km südlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Am Pastoratsberg liegt die Alteburg, eine karolingische Ringwallanlage.",
+"Das ehemalige Rathaus bietet heute Übernachtungsmöglichkeiten.",
+"Das Stadtteilwappen zeigt einen Förderturm zwischen zwei Grubenlampen."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bergbauzeichen liegen nahe, denn viele Wappen im Ruhrgebiet tragen sie. Heidhausens Wappen aber spielt auf den Namen an: Eine Heidenkrone steht für „Heid-“, ein Fachwerkhaus für „-hausen“. Das passt zur Herkunft des Namens: eine Ansiedlung auf der Heide, deren Land die Bauernschaft gemeinsam nutzte. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/heidhausen_1/heidhausen_geschichte.de.html; www.essen.de/dasistessen/stadtteile/heidhausen_1/heidhausen_kultur_freizeit.de.html",
+"faktencheck": "korrigiert",
+"id": "491-heidhausen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "viel Fläche für einen Wohnstadtteil",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Heidhausen",
+"steckbrief": "Essener Stadtteil mit knapp 7.000 Einwohnern, 9 km südlich der Stadtmitte.",
+"frage": "Wie groß ist die Fläche des Stadtteils Heidhausen?",
+"optionen": [
+"unter 4 km²",
+"4 bis unter 7 km²",
+"7 bis unter 10 km²",
+"10 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine kleine Fläche liegt nahe, denn Stadtteile denkt man sich als dicht bebaute Viertel. Heidhausen misst aber 10,9 Quadratkilometer. Der Platz gehört vor allem Wald, Grün und Landwirtschaft; gewohnt wird überwiegend in Ein- und Zweifamilienhäusern. Richtig war 4.",
+"quelle": "GRUNDDATEN, Wikidata P2046; Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/heidhausen_1/heidhausen_statistik.de.html",
+"faktencheck": "korrigiert",
+"id": "491-heidhausen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Kirche in Schiffsform",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heidhausen",
+"steckbrief": "Essener Stadtteil mit knapp 7.000 Einwohnern, 9 km südlich der Stadtmitte.",
+"frage": "Die Jona-Kirche in Heidhausen hat eine auffällige Bauform. Woran erinnert der Kirchenbau?",
+"optionen": [
+"Der Kirchenbau erinnert an einen Fisch.",
+"Der Kirchenbau erinnert an eine Muschel.",
+"Der Kirchenbau erinnert an ein Schiff.",
+"Der Kirchenbau erinnert an einen Kristall."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Fisch liegt nahe, denn in der Bibel verschluckt ein großer Fisch den Propheten Jona. Der Bau der Jona-Kirche Am Schwarzen erinnert aber an ein Schiff – auch das passt, denn Jona floh zuerst per Schiff. Ein Kirchenschiff in Schiffsform: So bleibt die Kirche im Gedächtnis. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/heidhausen_1/heidhausen_kultur_freizeit.de.html",
+"faktencheck": "unsicher",
+"id": "491-heidhausen/v0.9/8",
+"tisch": false
+}
+],
+"anschluss_von": "490-schuir",
+"anschluss": [
+"Heidhausen liegt rund 60 bis 70 Meter höher als Schuir."
+],
+"anschluesse": {
+"490-schuir": [
+"Heidhausen liegt rund 60 bis 70 Meter höher als Schuir."
+]
+},
+"ags": "05113000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Südlichster Stadtteil Essens, 9 km südlich der Mitte, auf gut 170 Metern; hier liegt Essens höchster Punkt."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Bis 1806 unter der Abtei Werden, seit 1929 bei Essen; am Pastoratsberg liegen Reste der Alteburg."
+},
+{
+"facette": "ALLTAG",
+"text": "Früher Kohle und Alaun, Seilerei, Großziegelei und Schlossfabrik; heute vor allem Ein- und Zweifamilienhäuser im Grünen."
+},
+{
+"facette": "FREIZEIT",
+"text": "Zwei Golfclubs, Jugendherberge, drei Galerien, Oefter Tal, Bergischer Weg, Abteiweg und GeoRoute Ruhr."
+},
+{
+"facette": "INFRA",
+"text": "Ruhrlandklinik und Kamillushaus; die B 224 führt mitten hindurch, die S6 hält in Essen-Werden."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag in ganz Essen die CDU vor der SPD, Wahlbeteiligung 80,1 Prozent."
+}
+],
+"km_vom_vorigen": 3.9
+},
+{
+"slug": "492-haarzopf",
+"name": "Haarzopf",
+"lat": 51.41972,
+"lon": 6.95889,
+"karten": [
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Kartoffelfest am Lagerfeuer auf dem Acker",
+"rang": 5,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Haarzopf",
+"steckbrief": "Knapp 7.000 Einwohner, Stadtteil 6 km südwestlich der Essener Stadtmitte.",
+"frage": "Welches dieser vier Dinge gehört zu Haarzopf?",
+"optionen": [
+"ein Kartoffelfest",
+"ein Hallenbad",
+"ein Heimatmuseum",
+"ein Freibad"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Bad oder ein Museum hätte man einem Stadtteil dieser Größe gut zutrauen können. Haarzopf aber feiert im September ein Kartoffelfest auf dem Acker: Die Kartoffeln garen nach altem Brauch in der Glut des Lagerfeuers. Für einen Großstadtteil ist ein Fest auf dem Acker ungewöhnlich – es zeigt, wie dörflich Haarzopf geblieben ist. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/haarzopf/haarzopf_startseite.de.jsp",
+"faktencheck": "unsicher",
+"id": "492-haarzopf/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Name bedeutet wohl Hirschbach",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Haarzopf",
+"steckbrief": "Knapp 7.000 Einwohner, Stadtteil 6 km südwestlich der Essener Stadtmitte.",
+"frage": "Woher stammt der Ortsname Haarzopf vermutlich?",
+"optionen": [
+"Er erinnert vermutlich an eine alte Haartracht.",
+"Er bedeutet vermutlich so viel wie Hirschbach.",
+"Er geht vermutlich auf Ritter namens Haarzopf zurück.",
+"Er beschreibt vermutlich einen geflochtenen Weidezaun."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Den Zopf liest jeder aus dem heutigen Namen, doch diese Schreibweise ist jung. Belegt ist zunächst die Form Hartzappe: „Appe“ meint ein fließendes Gewässer, „Hartz“ vermutlich den Hirsch. Der Name meinte also wohl einen Hirschbach. Die Deutung als Roßbach setzte sich nicht durch. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/haarzopf/haarzopf_geschichte.de.html",
+"faktencheck": "korrigiert",
+"id": "492-haarzopf/v0.9/2",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Landwirtschaft mitten in der Großstadt",
+"rang": 7,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Haarzopf",
+"steckbrief": "Knapp 7.000 Einwohner, Stadtteil im Südwesten von Essen, 6 km von der Stadtmitte.",
+"frage": "Wofür steht Haarzopf bis heute?",
+"optionen": [
+"ein Stahlwerk",
+"eine Brauerei",
+"Landwirtschaft",
+"ein Chemiewerk"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei Essen denkt man an Stahl und Industrie, darum liegt ein Werk nahe. Die Stadt beschreibt Haarzopf aber als dörfliche Idylle mit lockerer Wohnbebauung: Die landwirtschaftliche Prägung ist zu großen Teilen erhalten, Felder und Wiesen liegen direkt vor der Tür. Wer durchfährt, hat Weitblick über offenes Land, auch wenn zuletzt Neubaugebiete entstanden sind. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/haarzopf/haarzopf_startseite.de.jsp, und Statistikseite der Stadt Essen (Adresse aus Stufe 1 ergänzen)",
+"faktencheck": "korrigiert",
+"id": "492-haarzopf/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Flugplatz an der Stadtgrenze",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Haarzopf",
+"steckbrief": "Knapp 7.000 Einwohner, Stadtteil 6 km südwestlich der Essener Stadtmitte.",
+"frage": "Direkt an Haarzopf grenzt ein Flugplatz. Welche Nachbarstadt steht neben Essen in seinem Namen?",
+"optionen": [
+"Sein Name nennt Essen und Oberhausen.",
+"Sein Name nennt Essen und Bottrop.",
+"Sein Name nennt Essen und Gladbeck.",
+"Sein Name nennt Essen und Mülheim."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Oberhausen liegt nahe, denn es grenzt wie Mülheim im Westen an Essen. Gemeint ist der Verkehrslandeplatz Essen/Mülheim; das Wort meint einen kleineren Flugplatz. Der Name passt zur Lage: Haarzopf liegt im Südwesten Essens, im Westen grenzt schon der Mülheimer Stadtteil Heißen an. Beim Vorbeifahren ist Haarzopf also Grenzland zwischen zwei Ruhrstädten. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Haarzopf",
+"faktencheck": "unsicher",
+"id": "492-haarzopf/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "früher von Mülheim aus verwaltet",
+"rang": 6,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Haarzopf",
+"steckbrief": "Knapp 7.000 Einwohner, heute Stadtteil 6 km südwestlich der Essener Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im Mittelalter gehörte Haarzopf zum Gebiet der Mark.",
+"Früher wurde Haarzopf von Mülheim aus verwaltet.",
+"Ein Ehrendenkmal erinnert an Gefallene des Ersten Weltkriegs."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Grafschaft Mark klingt nach Ruhrgebiet, lag aber östlich von Essen. Haarzopf lag im Gebiet, aus dem die Franzosen die Munizipalität Mülheim bildeten, aus den Herrschaften Broich und Styrum. Später verwaltete die Landbürgermeisterei Mülheim den Ort, erst danach kam Essen. Die Stadtgrenze ist also mehr als eine Linie: Haarzopf wurde lange von Westen aus verwaltet. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/haarzopf/haarzopf_geschichte.de.html; Stadtarchiv Mülheim an der Ruhr",
+"faktencheck": "korrigiert",
+"id": "492-haarzopf/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "lockerer Stadtteil mit viel Fläche",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Haarzopf",
+"steckbrief": "Knapp 7.000 Einwohner, Stadtteil 6 km südwestlich der Essener Stadtmitte.",
+"frage": "Wie groß ist die Fläche des Stadtteils Haarzopf?",
+"optionen": [
+"unter 1 km²",
+"1 bis unter 3 km²",
+"3 bis unter 6 km²",
+"6 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Auf der Durchfahrt wirkt Haarzopf wie ein Dorf am Essener Stadtrand, da tippt man leicht zu niedrig. Tatsächlich misst der Stadtteil 4,27 Quadratkilometer. Die Häuser stehen eher locker, so verteilt sich Haarzopf auf mehr Fläche, als man beim Vorbeifahren vermutet. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "492-haarzopf/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Reste einer mittelalterlichen Wasserburg",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Haarzopf",
+"steckbrief": "Knapp 7.000 Einwohner, Stadtteil 6 km südwestlich der Essener Stadtmitte.",
+"frage": "Vom Rittersitz Haus Stein in Haarzopf ist nur wenig erhalten. Welchen Grund nennt die Stadt Essen dafür?",
+"optionen": [
+"Die Eigentümer verarmten, die Anlage wurde abgerissen.",
+"Bergbau unter dem Gelände ließ sie einsinken.",
+"Ein Blitzschlag setzte die Anlage in Brand.",
+"Bomben zerstörten sie im Zweiten Weltkrieg."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet denkt man bei verschwundenen Bauten schnell an Bomben oder Bergschäden. Haus Stein, ein mittelalterlicher Rittersitz, später zur Wasserburg mit Herrenhaus und Vorburg im Wassergraben ausgebaut, verfiel aber, weil die Eigentümer verarmten; die Anlage wurde größtenteils abgerissen. Erhalten sind ein Seitenflügel, Kellergewölbe und umgebaute Nebengebäude. So hatte Haarzopf einmal eine Wasserburg, deren Reste heute in Privatbesitz sind. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/haarzopf/haarzopf_geschichte.de.html",
+"faktencheck": "korrigiert",
+"id": "492-haarzopf/v0.9/8",
+"tisch": false
+}
+],
+"anschluss_von": "491-heidhausen",
+"anschluss": [
+"Heidhausen hat mehr als doppelt so viel Fläche wie Haarzopf."
+],
+"anschluesse": {
+"491-heidhausen": [
+"Heidhausen hat mehr als doppelt so viel Fläche wie Haarzopf."
+]
+},
+"ags": "05113000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Stadtteil im Südwesten Essens, 6 km von der Stadtmitte, 4,27 Quadratkilometer, knapp 7.000 Einwohner, Flugplatz Essen/Mülheim nebenan."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Name wohl von „Hirschbach“, im Mittelalter Herrschaft Broich, seit 1. April 1915 bei Essen; Reste der Wasserburg Haus Stein."
+},
+{
+"facette": "ALLTAG",
+"text": "Dörflicher Stadtteil mit Feldern, Wiesen und lockerer Bebauung; eingekauft wird in der Neuen Mitte Haarzopf."
+},
+{
+"facette": "FREIZEIT",
+"text": "Kartoffelfest, Maibaumfest und Obstwiesenfest; Radweg Wasser Route, Rundweg Margarethenhöhe, Bäche Steinbach und Rossenbeck, Tennisclub RAWA."
+},
+{
+"facette": "INFRA",
+"text": "Südwestfriedhof, Autobahn A 52 quer durch den Stadtteil, Gemeinschaftsgrundschule an der Raadter Straße."
+}
+],
+"km_vom_vorigen": 6.0
+},
+{
+"slug": "493-margarethenhoehe",
+"name": "Margarethenhöhe",
+"lat": 51.4325,
+"lon": 6.97722,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Stadtteil aus einer Hochzeitsstiftung",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Margarethenhöhe",
+"steckbrief": "Stadtteil von Essen, 4 km südwestlich der Stadtmitte.",
+"frage": "Margarethe Krupp, Ehefrau des Unternehmers Friedrich Alfred Krupp, stiftete die Siedlung. Welchen Anlass nennt die Stadtgeschichte dafür?",
+"optionen": [
+"Anlass war ein Jubiläum der Firma Krupp.",
+"Anlass war die Geburt ihres ersten Enkels.",
+"Anlass war ihr eigener runder Geburtstag.",
+"Anlass war die Hochzeit ihrer Tochter."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Firmenjubiläum liegt nahe, denn der Name Krupp steht für die Industriestadt Essen. Die Stadtgeschichte nennt aber einen privaten Anlass: Margarethe Krupp gründete die Stiftung für Wohnungsfürsorge anlässlich der Hochzeit ihrer Tochter Bertha. Nach der Stifterin ist der Stadtteil bis heute benannt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/margarethenhoehe/margarethenhoehe_geschichte.de.html; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "493-margarethenhoehe/v0.9/1",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Musterwohnung der ursprünglichen Siedlung",
+"rang": 6,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Margarethenhöhe",
+"steckbrief": "Stadtteil von Essen, 4 km südwestlich der Stadtmitte.",
+"frage": "Welches dieser vier Dinge gibt es auf der Margarethenhöhe?",
+"optionen": [
+"eine Museumswohnung",
+"ein Freibad",
+"eine Windmühle",
+"eine Brauerei"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Freibad läge in einem grünen Wohnviertel nahe. Tatsächlich gibt es eine Musterwohnung: Das Ruhr Museum hat sie mit der Margarethe-Krupp-Stiftung eingerichtet. Mit originalen Möbeln Georg Metzendorfs und genauen Nachbildungen zeigt sie, wie die Wohnungen ursprünglich ausgestattet waren. Wo die Siedlung selbst Denkmal ist, wird so eine einzelne Wohnung zum Museum. Richtig war 1.",
+"quelle": "Ruhr Museum, ruhrmuseum.de/en/locations/in-essen/margarethenhoehe; Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/margarethenhoehe/margarethenhoehe_kultur_freizeit.de.html",
+"faktencheck": "korrigiert",
+"id": "493-margarethenhoehe/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "von Anfang an Essener Stadtteil",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Margarethenhöhe",
+"steckbrief": "Stadtteil von Essen, 4 km südwestlich der Stadtmitte.",
+"frage": "Bevor die ersten Häuser standen: Zu welcher Gemarkung gehörte das Gelände der Margarethenhöhe ursprünglich?",
+"optionen": [
+"Das Gelände gehörte zur Gemarkung Borbeck.",
+"Das Gelände gehörte zur Gemarkung Rüttenscheid.",
+"Das Gelände gehörte zur Gemarkung Altendorf.",
+"Das Gelände gehörte zur Gemarkung Kray."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Gemarkungen sind alte Grenzen von Grund und Boden, die man im Straßenbild nicht sieht; jeder Essener Stadtteil wirkt da möglich. Die Stadt nennt Rüttenscheid. Rüttenscheid war schon nach Essen eingemeindet, als die ersten Häuser fertig wurden. So gehörten die Bewohner vom ersten Einzug an zu Essen; als eigenständiger Stadtteil wurde die Margarethenhöhe aber erst später anerkannt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/margarethenhoehe/margarethenhoehe_geschichte.de.html",
+"faktencheck": "korrigiert",
+"id": "493-margarethenhoehe/v0.9/3",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "denkmalgeschützte Gartenstadt im Ruhrgebiet",
+"rang": 1,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Margarethenhöhe",
+"steckbrief": "Stadtteil von Essen, 4 km südwestlich der Stadtmitte.",
+"frage": "Wofür steht die Margarethenhöhe?",
+"optionen": [
+"für ein Stahlwerk",
+"für ein Thermalbad",
+"für eine denkmalgeschützte Gartenstadt",
+"für eine Zeche mit Förderturm"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet liegen Zeche und Stahlwerk nahe, und auch ein Bad wäre denkbar. Die Margarethenhöhe aber ist eine denkmalgeschützte Gartenstadt – eine geplante Wohnsiedlung im Grünen –; sie gilt bis heute als Vorreiter dieser Art in Deutschland. Wer hineinfährt, sieht eine Siedlung um einen kleinen Marktplatz, architektonisch eine Einheit mit Vielfalt – hier ist das Viertel selbst die Sehenswürdigkeit. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/margarethenhoehe/margarethenhoehe_startseite.de.jsp; geschichte.essen.de (Bergbau in den Stadtteilen)",
+"faktencheck": "korrigiert",
+"id": "493-margarethenhoehe/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Hammerwerk aus dem Siegerland",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Margarethenhöhe",
+"steckbrief": "Stadtteil von Essen, 4 km südwestlich der Stadtmitte.",
+"frage": "Im Nachtigallental steht der Halbachhammer, ein technisches Kulturdenkmal. Woher stammt er?",
+"optionen": [
+"Er kam aus einem Eisenwerk in Thüringen.",
+"Er wurde aus dem Bergischen Land hergebracht.",
+"Er stand von Anfang an im Nachtigallental.",
+"Er wurde aus dem Siegerland hierher versetzt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend ist, dass ein Hammerwerk im Tal schon immer dort stand, wo es heute steht. Doch die Stadt Essen nennt das Siegerland als Herkunft: Im Nachtigallental wurde der Hammer funktionsfähig wiederaufgebaut. Gustav Krupp von Bohlen und Halbach schenkte ihn der Stadt Essen als technisches Kulturdenkmal. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/margarethenhoehe/margarethenhoehe_geschichte.de.html",
+"faktencheck": "korrigiert",
+"id": "493-margarethenhoehe/v0.9/5",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "kleiner, klar umrissener Stadtteil",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Margarethenhöhe",
+"steckbrief": "Stadtteil von Essen, 4 km südwestlich der Stadtmitte.",
+"frage": "Wie groß ist die Fläche des Stadtteils Margarethenhöhe?",
+"optionen": [
+"unter 1 km²",
+"1 bis unter 2 km²",
+"2 bis unter 4 km²",
+"4 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Unter einem Quadratkilometer liegt nahe, denn die Siedlung wirkt geschlossen wie ein Dorf in der Großstadt. Tatsächlich misst der Stadtteil 1,48 Quadratkilometer. Knapp anderthalb Quadratkilometer, 4 Kilometer von der Stadtmitte: Die Margarethenhöhe ist ein kleiner, klar umrissener Stadtteil. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "korrigiert",
+"id": "493-margarethenhoehe/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Schatzgräberbrunnen mit Dankesspruch am Markt",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Margarethenhöhe",
+"steckbrief": "Stadtteil von Essen, 4 km südwestlich der Stadtmitte.",
+"frage": "Auf dem Marktplatz steht der Schatzgräberbrunnen mit einem gereimten Spruch. Was rät dieser Spruch?",
+"optionen": [
+"Grabt nicht nach Kohle, sondern pflanzt Bäume.",
+"Arbeitet fleißig, dann füllt sich die Truhe.",
+"Sucht Schätze in edlen Taten, nicht mit Spaten.",
+"Hütet das Wasser, es ist der wahre Schatz."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet läge ein Spruch über Kohle nahe. Auf dem Brunnen steht aber: „Grabt Schätze nicht mit Spaten / Sucht sie in edlen Taten!“ Spaten und Spindel der Putte stammen aus der Sommerburgsage. Mit dem Brunnen dankte die Stadt Essen für die Stiftung der Margarethenhöhe; er erinnert an die edle Tat Margarethe Krupps. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Margarethenhöhe",
+"faktencheck": "unsicher",
+"id": "493-margarethenhoehe/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Künstlerkolonie mit Keramikwerkstatt",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Margarethenhöhe",
+"steckbrief": "Stadtteil von Essen, 4 km südwestlich der Stadtmitte.",
+"frage": "Die Keramische Werkstatt Margaretenhöhe entstand in der Siedlung. Wohin zog sie im Jahr 1933?",
+"optionen": [
+"Sie zog in Räume der Zeche Zollverein.",
+"Sie zog an eine Kunstschule in Krefeld.",
+"Sie blieb in ihren Ateliers in der Siedlung.",
+"Sie zog in ein Kloster im Sauerland."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre, dass die Werkstatt in der Siedlung blieb, wo es bis heute Ateliers gibt. Doch 1933 zog sie auf die Schachtanlage 6/9 der Zeche Zollverein, Jahrzehnte später in das frühere Baustofflager an Schacht 1/2/8. Die Keramische Werkstatt Margaretenhöhe gibt es noch: Ihr Name erinnert daran, dass sie aus der Gartenstadt stammt. Richtig war 1.",
+"quelle": "Stiftung Zollverein, www.zollverein.de/?p=6717",
+"faktencheck": "korrigiert",
+"id": "493-margarethenhoehe/v0.9/9",
+"tisch": false
+}
+],
+"anschluss_von": "492-haarzopf",
+"anschluss": [
+"Haarzopf hat fast die dreifache Fläche der Margarethenhöhe.",
+"Margarethenhöhe liegt der Essener Innenstadt näher als Haarzopf."
+],
+"anschluesse": {
+"492-haarzopf": [
+"Haarzopf hat fast die dreifache Fläche der Margarethenhöhe.",
+"Margarethenhöhe liegt der Essener Innenstadt näher als Haarzopf."
+]
+},
+"ags": "05113000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Stadtteil von Essen, vier Kilometer südwestlich der Stadtmitte, knapp anderthalb Quadratkilometer groß; Kesselbach und Sommerburgbach fließen hier."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Von Margarethe Krupp gestiftet, von Georg Metzendorf in 29 Bauabschnitten geplant, seit 1987 unter Denkmalschutz."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund um den kleinen Marktplatz gibt es zwei Bäckereien, zwei Supermärkte und eine Apotheke; eine Stiftung verwaltet die Siedlung."
+},
+{
+"facette": "FREIZEIT",
+"text": "Musterwohnung, Heimatgeschichtliches Zentrum, Grüngürtel, Grugaweg auf alter Bahntrasse, Rundweg M und Wasser Route."
+},
+{
+"facette": "INFRA",
+"text": "Die Stadtbahn U 17 endet hier, Haltestelle Laubenweg; Autobahn A 52 mit Anschlussstelle Essen-Haarzopf/Essen-Rüttenscheid."
+}
+],
+"km_vom_vorigen": 1.9
+},
+{
+"slug": "494-suedostviertel",
+"name": "Südostviertel",
+"lat": 51.45278,
+"lon": 7.03083,
+"karten": [
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Tennisclub nahe der Innenstadt",
+"rang": 8,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Südostviertel",
+"steckbrief": "Essener Stadtteil, 1 km östlich der Stadtmitte.",
+"frage": "Welches dieser vier Dinge gibt es im Südostviertel?",
+"optionen": [
+"ein Freibad",
+"eine Brauerei",
+"ein Tennisclub",
+"ein Naturschutzgebiet"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Freibad oder eine Brauerei würde man in einem Essener Stadtteil erwarten, doch die Kartendaten kennen im Südostviertel weder Bäder noch Brauereien noch Schutzgebiete. Wohl aber den Tennisclub Schellenberg an der Stadtteilgrenze. So nah an der Innenstadt bietet er Leuten aller Altersklassen sportliche Betätigung. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_kultur_freizeit.de.html; OpenStreetMap",
+"faktencheck": "bestätigt",
+"id": "494-suedostviertel/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Moltkeviertel mit Vorgärten und Parks",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Südostviertel",
+"steckbrief": "Stadtteil von Essen, etwa 1 km östlich der Stadtmitte.",
+"frage": "Im Südostviertel wurde das Moltkeviertel mit hochwertigen Wohnungen angelegt. Welchen Grund nennt die Stadtgeschichte dafür?",
+"optionen": [
+"Eine Garnison brauchte Wohnungen für ihre Offiziere.",
+"Ein Großbrand hatte die alten Häuser vernichtet.",
+"Die Stadt plante ein Kurviertel um eine Heilquelle.",
+"Zuziehende Bergarbeiter hatten den Wohnraum knapp gemacht."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein ganzes Viertel nach einem Brand oder um eine Quelle herum klingt nach einer guten Geschichte. Die Stadt Essen nennt aber etwas anderes: Viele Bergarbeiter zogen zu, Wohnraum wurde knapp, und das Moltkeviertel sollte hochwertigen Wohnraum schaffen. Bis heute prägen große Vorgärten und Parkanlagen mit altem Baumbestand den südlichen Teil des Südostviertels. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_geschichte.de.html",
+"faktencheck": "korrigiert",
+"id": "494-suedostviertel/v0.9/2",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "denkmalgeschütztes Programmkino Eulenspiegel",
+"rang": 4,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Südostviertel",
+"steckbrief": "Innenstadtnaher Stadtteil von Essen, 1 km östlich der Stadtmitte.",
+"frage": "Welches dieser vier Dinge gibt es im Südostviertel?",
+"optionen": [
+"ein Kino von 1955 mit erhaltener Ausstattung",
+"einen Binnenhafen",
+"eine Seilbahn",
+"eine Wassermühle."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Häfen und Mühlen gibt es im Ruhrgebiet viele, aber nicht in diesem dicht bebauten Innenstadtviertel ohne Fluss. Dort steht das Eulenspiegel, ein 1955 eröffnetes historisches Kino, dessen innere Ausstattung erhalten ist. Wer hineingeht, sitzt in einem Kinosaal, wie er früher aussah. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_kultur_freizeit.de.html; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "494-suedostviertel/v0.9/3",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "A40 zerschneidet das Viertel",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Südostviertel",
+"steckbrief": "Stadtteil von Essen, rund 1 km östlich der Stadtmitte (Luftlinie).",
+"frage": "Der Ostfriedhof im Südostviertel birgt Gräber zahlreicher Persönlichkeiten der Essener Geschichte. Wie kamen sie dorthin?",
+"optionen": [
+"Bergschäden machten ihren alten Friedhof unbenutzbar.",
+"Ihr alter Friedhof musste der Autobahn weichen.",
+"Ein Kirchenneubau verdrängte ihren alten Kirchhof.",
+"Hochwasser der Ruhr bedrohte ihren alten Friedhof."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bergschäden liegen im Ruhrgebiet nahe, doch der Grund war eine Straße: Der alte Friedhof am Kettwiger Tor wurde 1955 für den Bau der Stadtautobahn, der heutigen A40, aufgegeben. Umbettungen brachten Grabstätten und viele Grabmäler auf den Ostfriedhof, darunter das von Oberbürgermeister Kopstadt. Richtig war 2.",
+"quelle": "geschichte.essen.de (Friedhofsführer). Der A40-Grund trägt den Vermerk „nur indirekt belegt“.",
+"faktencheck": "korrigiert",
+"id": "494-suedostviertel/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "dichtest besiedelter Stadtteil Essens",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Südostviertel",
+"steckbrief": "Essener Stadtteil, 1 km östlich der Stadtmitte.",
+"frage": "Wie dicht wohnen die Menschen im Südostviertel im Vergleich zu den anderen Essener Stadtteilen?",
+"optionen": [
+"Es ist der am dünnsten besiedelte Stadtteil.",
+"Es liegt bei der Dichte im Mittelfeld.",
+"Es ist der am dichtesten besiedelte Stadtteil.",
+"Es ist dicht besiedelt, aber nicht Spitze."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei der Innenstadt denken viele an Büros und Geschäfte und tippen deshalb aufs Mittelfeld. Nach Angaben der Stadt hat das Südostviertel aber die höchste Bevölkerungsdichte in ganz Essen. Die Stadt beschreibt es als lebendiges Viertel mit vielen charmanten Altbauten; beim Vorbeifahren sieht man, wie dicht sie stehen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_startseite.de.jsp",
+"faktencheck": "unsicher",
+"id": "494-suedostviertel/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Wohnviertel statt Zechenstandort",
+"rang": 3,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Südostviertel",
+"steckbrief": "Stadtteil am östlichen Rand der Essener Innenstadt, 1 km vom Zentrum.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Gustav Heinemann wohnte bis zu seinem Tod hier.",
+"Der Wasserturm wurde im Krieg stark beschädigt.",
+"Große Zechen machten das Viertel zum Industriestandort."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet traut man jedem Viertel Zechen zu, darum wirkt die Lüge glaubhaft. Doch nach Angaben der Stadt profitierte das Südostviertel weniger von der Industrialisierung als andere Stadtteile. Als einzigen wirklichen Industriebetrieb nennt sie ein Puddel- und Walzwerk am Rand der Innenstadt, das später nach Duisburg zog. Dass Gustav Heinemann hier bis zu seinem Tod wohnte, passt zum Bild eines Wohnviertels. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_geschichte.de.html",
+"faktencheck": "korrigiert",
+"id": "494-suedostviertel/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Stadtteil unter einem Quadratkilometer",
+"rang": 6,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Südostviertel",
+"steckbrief": "Innenstadtnaher Essener Stadtteil mit dichter Wohnbebauung, 1 km östlich der Stadtmitte.",
+"frage": "Wie groß ist die Fläche des Südostviertels?",
+"optionen": [
+"unter 1 km²",
+"1 bis unter 2 km²",
+"2 bis unter 4 km²",
+"4 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem ganzen Stadtteil schätzt man leicht ein paar Quadratkilometer. Das Südostviertel misst aber nur 0,97 Quadratkilometer und liegt damit knapp unter der ersten Grenze. Das entspricht einem Quadrat von knapp einem Kilometer Seitenlänge; zu Fuß ist man in wenigen Minuten einmal hindurch. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "494-suedostviertel/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "inoffizielles Wappen mit sechs Kugeln",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Südostviertel",
+"steckbrief": "Essener Stadtteil, 1 km östlich der Stadtmitte.",
+"frage": "Das Südostviertel trägt mit fünf Nachbarvierteln das Wappen des Stadtkerns: ein goldenes Schwert und sechs goldene Kugeln. Wofür stehen die sechs Kugeln?",
+"optionen": [
+"Sie stehen für sechs Brunnen am Steeler Berg.",
+"Sie stehen für die sechs Stadtteile der Stadtmitte.",
+"Sie stehen für sechs Hochöfen der Firma Krupp.",
+"Sie erinnern an sechs Gründerfamilien des Viertels."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wappenbilder erinnern oft an Familien, daher liegt die Deutung mit Gründerfamilien nahe. Die sechs Kugeln stehen aber für Stadtkern, Nord-, Ost-, Südost-, Süd- und Westviertel, die zusammen die Stadtmitte bilden. Das Schwert ist das Attribut der Essener Stadtpatrone Cosmas und Damian. Ein eigenes Wappen hat das Südostviertel nicht. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, essen.de (Stadtkern Geschichte)",
+"faktencheck": "korrigiert",
+"id": "494-suedostviertel/v0.9/8",
+"tisch": false
+}
+],
+"anschluss_von": "493-margarethenhoehe",
+"anschluss": [
+"Das Südostviertel hat weniger Fläche als die Margarethenhöhe.",
+"Das Südostviertel liegt der Essener Stadtmitte näher als die Margarethenhöhe."
+],
+"anschluesse": {
+"493-margarethenhoehe": [
+"Das Südostviertel hat weniger Fläche als die Margarethenhöhe.",
+"Das Südostviertel liegt der Essener Stadtmitte näher als die Margarethenhöhe."
+]
+},
+"ags": "05113000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Teil der Essener Stadtmitte, 1 km östlich des Zentrums, 0,97 Quadratkilometer, Hauptstraßen Steeler Straße, Kurfürstenstraße und Ruhrallee."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Der Wasserturm am Steeler Berg ist quasi das Wahrzeichen; acht Denkmäler tragen die Namen Isaak, Fränkel und Cussel."
+},
+{
+"facette": "ALLTAG",
+"text": "Lebendiges Wohnviertel mit vielen Altbauten, Industrie gab es kaum; im Wasserturm sitzt die Essener Tafel."
+},
+{
+"facette": "FREIZEIT",
+"text": "Programmkino Eulenspiegel, Tennisclub Schellenberg, Museum New Bretagne, Jugendeinrichtung Storp9 und der Abteiweg Raute5 mit 26 Kilometern."
+},
+{
+"facette": "INFRA",
+"text": "A40 mit Anschlussstelle Essen-Huttrop, Straßenbahnlinien 103 und 109, Robert-Schmidt-Berufskolleg, UNESCO-Schule und Viktoria-Gymnasium."
+}
+],
+"km_vom_vorigen": 4.3
+},
+{
+"slug": "495-freisenbruch",
+"name": "Freisenbruch",
+"lat": 51.45167,
+"lon": 7.10056,
+"karten": [
+{
+"facette": "FREIZEIT",
+"charakteristikum": "eines der größten Bäder Essens",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Freisenbruch",
+"steckbrief": "Stadtteil im Osten Essens, 6 km südlich von Gelsenkirchen.",
+"frage": "Das Schwimmzentrum Oststadt liegt in Freisenbruch. Was für ein Bad ist es?",
+"optionen": [
+"Es ist ein reines Hallenbad ohne Außenbecken.",
+"Es ist Hallen- und Freibad mit Sprungbecken.",
+"Es ist ein reines Freibad mit Liegewiesen.",
+"Es ist ein kleines Lehrschwimmbecken für Schulen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Viele Stadtteilbäder sind reine Hallenbäder, darum liegt diese Theorie nahe. Das Schwimmzentrum Oststadt vereint Hallen- und Freibad, mit Baby-, Kinder-, Schwimm- und Sprungbecken und Liegewiesen. Mit 27.000 Quadratmetern zählt die Stadt es zu den größten Bädern Essens. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/freisenbruch_2/freisenbruch_kultur_freizeit.de.html",
+"faktencheck": "korrigiert",
+"id": "495-freisenbruch/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Name aus dem Moor",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Freisenbruch",
+"steckbrief": "Stadtteil im Osten Essens, 6 km südlich von Gelsenkirchen.",
+"frage": "Worauf geht der Namensteil „bruch“ in Freisenbruch zurück?",
+"optionen": [
+"Er erinnert an einen alten Steinbruch.",
+"Er meint Bodensenkungen über Bergwerksstollen.",
+"Er bezeichnet ein Moor oder sumpfiges Gelände.",
+"Er erinnert an Wald, den Sturm brach."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Heute denkt man bei „Bruch“ an Steinbruch oder Bergbau, das liegt im Ruhrgebiet nahe. Gemeint ist aber ein Moor oder sumpfiges Gelände, wie im Wort „Bruchwald“. Der erste Teil geht wahrscheinlich auf Friesen zurück, der alte Name lautete Friesenbroke. Der Name erzählt also von nassem Land, nicht vom Bergbau. Heute prägen Wohngebiete, Parks und Felder den Stadtteil. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/freisenbruch_2/freisenbruch_geschichte.de.html",
+"faktencheck": "bestätigt",
+"id": "495-freisenbruch/v0.9/2",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Großsiedlung aus Fertigteilen",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Freisenbruch",
+"steckbrief": "Stadtteil im Osten Essens, 6 km südlich von Gelsenkirchen.",
+"frage": "In Freisenbruch liegt die Siedlung Bergmannsfeld. Wie ist sie bebaut?",
+"optionen": [
+"Sie ist eine Zechenkolonie mit kleinen Gartenhäusern.",
+"Sie besteht aus Fachwerkhäusern des 18. Jahrhunderts.",
+"Sie ist eine Gartenstadt in Holzbauweise.",
+"Sie besteht aus mehr als fünfgeschossigen Wohnhäusern."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach Bergbau, und Zechenkolonien mit kleinen Häusern gibt es im Ruhrgebiet viele. Das Bergmannsfeld ist aber eine Siedlung mit mehr als fünfgeschossigen Wohnhäusern. So steht im grünen Freisenbruch ein Stück Großstadt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/freisenbruch_2/freisenbruch_statistik.de.html",
+"faktencheck": "korrigiert",
+"id": "495-freisenbruch/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Ostgrenze zu Wattenscheid",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Freisenbruch",
+"steckbrief": "Essener Stadtteil, 6 km südlich von Gelsenkirchen.",
+"frage": "Freisenbruch liegt im Osten Essens an der Stadtgrenze. An welche Nachbarstadt grenzt es laut Stadt Essen?",
+"optionen": [
+"Es grenzt an Bochum.",
+"Es grenzt an Gelsenkirchen.",
+"Es grenzt an Mülheim an der Ruhr.",
+"Es grenzt an Oberhausen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gelsenkirchen liegt zwar nur 6 km entfernt, grenzt aber nicht an. Mülheim und Oberhausen liegen auf der anderen Seite Essens, im Westen. Freisenbruch liegt im Osten der Stadt an der Stadtgrenze zu Bochum: Wer weiter nach Osten fährt, kommt nach Bochum. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/freisenbruch_2/fischlaken_startseite.de.jsp",
+"faktencheck": "korrigiert",
+"id": "495-freisenbruch/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Stadtteil mit Feldern und Parks",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Freisenbruch",
+"steckbrief": "Stadtteil im Osten Essens, 6 km südlich von Gelsenkirchen.",
+"frage": "Wie groß ist die Fläche des Stadtteils Freisenbruch?",
+"optionen": [
+"unter 1 km²",
+"1 bis unter 2 km²",
+"2 bis unter 3,5 km²",
+"3,5 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Viele Essener Stadtteile sind klein und dicht bebaut, darum liegt eine kleinere Spanne nahe. Freisenbruch misst aber 3,8 Quadratkilometer. Darauf haben nicht nur Wohngebiete Platz, sondern auch Park- und Grünanlagen und landwirtschaftliche Flächen. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "495-freisenbruch/v0.9/7",
+"tisch": false
+}
+],
+"anschluss_von": "494-suedostviertel",
+"anschluss": [
+"Freisenbruch hat fast die vierfache Fläche des Südostviertels."
+],
+"anschluesse": {
+"494-suedostviertel": [
+"Freisenbruch hat fast die vierfache Fläche des Südostviertels."
+]
+},
+"ags": "05113000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Stadtteil im Osten Essens auf 3,8 Quadratkilometern, zwischen Steele, Leithe, Horst und Wattenscheid; Wohngebiete, Parks und Felder."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Der Name kommt von Friesenbroke, „Bruch“ heißt Moor; einst märkische Gemeinde, seit 1929 ein Stadtteil von Essen."
+},
+{
+"facette": "ALLTAG",
+"text": "Großsiedlung Bergmannsfeld aus Fertigteilen, Kokskohleturm am Schacht Heintzmann, Denkmal Eintracht Tiefbau, Halde Bergmannsfeld."
+},
+{
+"facette": "FREIZEIT",
+"text": "Schwimmzentrum Oststadt mit Hallen- und Freibad, Parkanlage Bergmannsbusch, Gänsereiten am Karnevalssonntag, Radweg Bergroute."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof Essen-Steele Ost, Bezirkssportanlage am Sachsenring, Bürgerhaus Oststadt mit Stadtteilbibliothek."
+},
+{
+"facette": "POLITIK",
+"text": "Rund 16.500 Einwohner, Stand März 2025; mehr Kinder und Jugendliche als im Essener Durchschnitt."
+}
+],
+"km_vom_vorigen": 4.8
 }
 ]
 }

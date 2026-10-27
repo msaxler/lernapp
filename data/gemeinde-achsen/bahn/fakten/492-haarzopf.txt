@@ -1,0 +1,533 @@
+ID: 492-haarzopf/001
+ENTITÄT: ort
+BEZEICHNUNG: Haarzopf
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Haarzopf | Wikipedia
+EIGENSCHAFTEN:
+  lage: Stadtteil im Südwesten der Stadt Essen
+  nachbarort_nord: Fulerum
+  nachbarort_west: Mülheimer Stadtteil Heißen
+  nachbarort_ost: Margarethenhöhe
+  nachbarort_sued: Schuir
+  zentrale_kreuzung: Erbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 492-haarzopf/002
+ENTITÄT: ort
+BEZEICHNUNG: Haarzopf
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/haarzopf/haarzopf_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  name_aelteste_form: Hartzappe
+  erste_erwaehnung: 1215
+  namensherkunft: "Grundwort 'Appe' (Apa) = fließendes Gewässer; Bestimmungswort 'Hartz' vermutlich von 'Hirsch' abgeleitet = Hirschbach"
+  genauigkeit: vermutlich
+  namensentwicklung: "Hartzappe (1215) → Hartapen/Harttappe (13. Jh.) → Haftzbeek (1582) → Harzper → Hatzper → Haarzopf (seit 1830)"
+  verwaltungsgesch_mittelalter: Herrschaft Broich
+  verwaltungsgesch_1808: Munizipalität Mülheim
+  verwaltungsgesch_1847: Landbürgermeisterei Mülheim
+  verwaltungsgesch_1879: Bürgermeisterei Heißen
+  verwaltungsgesch_1910: Landkreis Essen
+  verwaltet_durch_essen_seit: 1. April 1915
+GUELTIG_AB: 1215
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 492-haarzopf/003
+ENTITÄT: ort
+BEZEICHNUNG: Haarzopf
+FACETTE: ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/haarzopf/haarzopf_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakter: dörfliche Idylle
+  wohnbebauung: locker
+  umgebung: Felder und Wiesen
+  landwirtschaftliche_praegung: erhalten
+  wohnqualitaet: hoch
+  besonderheit: Weitblick, Natur direkt vor der Tür
+  neubaugebiete: entstanden in den letzten Jahren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 492-haarzopf/004
+ENTITÄT: ort
+BEZEICHNUNG: Haarzopf
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Haarzopf | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 6900
+  einwohner_stand: 31. März 2025
+  unter_18_jahren_prozent: 15.7
+  mindestens_65_jahren_prozent: 30.9
+  auslaenderanteil_prozent: 4.4
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 492-haarzopf/005
+ENTITÄT: burg
+BEZEICHNUNG: Haus Stein
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: https://www.essen.de/dasistessen/stadtteile/haarzopf/haarzopf_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: mittelalterlicher Rittersitz
+  adresse: Brinkmannsweg 35
+  erste_erwaehnung: 1360
+  ausgebaute_wasserburg: 1550
+  beschreibung: Herrenhaus und Vorburg von Wassergraben umringt
+  besitzergeschichte: wechselnde Besitzer, Erweiterung durch Wirtschaftsgebäude und Anbauten
+  verfall: 19. Jahrhundert, Verarmung der Eigentümer, Abriss größtenteils
+  erhalten: südöstlicher Seitenflügel des Haupthauses, Kellergewölbe, umgebaute Nebengebäude
+  status_aktuell: Privatbesitz, öffentlich nicht zugänglich
+GUELTIG_AB: 1360
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 492-haarzopf/006
+ENTITÄT: denkmal
+BEZEICHNUNG: Charlotte Zinke
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: OpenStreetMap | Zeuge
+EIGENSCHAFTEN:
+  typ: Burg/Denkmal
+  existiert_seit: 2006
+GUELTIG_AB: 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.50
+---
+ID: 492-haarzopf/007
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Haarzopf
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: https://www.essen.de/dasistessen/stadtteile/haarzopf/haarzopf_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Raadter Straße 79
+  erbaut: 1913
+  denkmalschutz_seit: 1996
+  konfession: evangelisch
+  bedeutung_fuer_ort: erste evangelische Kirche Haarzopfs
+GUELTIG_AB: 1913
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 492-haarzopf/008
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Christus König
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: https://de.wikipedia.org/wiki/Haarzopf | Wikipedia
+EIGENSCHAFTEN:
+  adresse: Tommesweg
+  konfession: katholisch
+  kirchbauverein_gegruendet: 1. Dezember 1926
+  grundsteinlegung: 5. Mai 1929
+  kirchweihe: 27. Oktober 1929
+  kirchenchor_gegruendet: 4. Dezember 1927
+  erster_pfarrer_haarzopf: Oktober 1931
+  gebaeudestand_aktuell: 1977
+  bedeutung_fuer_ort: erste katholische Kirche Haarzopfs (Pfingsten 1924 erster Sonntagsgottesdienst)
+GUELTIG_AB: 1929
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 492-haarzopf/009
+ENTITÄT: denkmal
+BEZEICHNUNG: Haarzopfer Ehrendenkmal
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: https://www.essen.de/dasistessen/stadtteile/haarzopf/haarzopf_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anlass: Ehren der Gefallenen des Ersten Weltkrieges
+  bestand: seit ca. 90 Jahren
+  genauigkeit: ca.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 492-haarzopf/010
+ENTITÄT: fest
+BEZEICHNUNG: Kartoffelfest
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: https://www.essen.de/dasistessen/stadtteile/haarzopf/haarzopf_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: September
+  tradition: seit Jahren
+  veranstaltungsort: Acker
+  besonderheit: Kartoffeln nach altem Brauch in der Glut des Lagerfeuers gegart
+  bedeutung_fuer_ort: Traditionsveranstaltung, beliebt bei der Bürgerschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 492-haarzopf/011
+ENTITÄT: fest
+BEZEICHNUNG: Maibaumfest
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: https://www.essen.de/dasistessen/stadtteile/haarzopf/haarzopf_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: beliebte Veranstaltung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.60
+---
+ID: 492-haarzopf/012
+ENTITÄT: fest
+BEZEICHNUNG: Obstwiesenfest
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: https://www.essen.de/dasistessen/stadtteile/haarzopf/haarzopf_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: beliebte Veranstaltung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.60
+---
+ID: 492-haarzopf/013
+ENTITÄT: einkaufszentrum
+BEZEICHNUNG: Neue Mitte Haarzopf
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: https://de.wikipedia.org/wiki/Haarzopf | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnet: 2. April 2008
+  richtfest: Oktober 2007
+  lage: zwischen Hatzper Straße, Kirschbaumsweg, Humboldtstraße und Fulerumer Straße
+  nutzung: Geschäftskomplex mit Einzelhandel, Arztpraxen und Sparkasse
+  parkplaetze: 238
+  zusatzinfra: Regenrückhaltebecken
+  bedeutung_fuer_ort: zentrale Einkaufsmöglichkeit
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 492-haarzopf/014
+ENTITÄT: friedhof
+BEZEICHNUNG: Südwestfriedhof
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: https://www.essen.de/dasistessen/stadtteile/haarzopf/haarzopf_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingeweiht: 1914
+  status: neuer Zentralfriedhof Essens
+  bedeutung_fuer_ort: Zentralfriedhof Essens
+GUELTIG_AB: 1914
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 492-haarzopf/015
+ENTITÄT: verein
+BEZEICHNUNG: DPSG-Stamm Tommes Rusticus
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: https://www.essen.de/dasistessen/stadtteile/haarzopf/haarzopf_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Tommesweg 32
+  typ: Pfadfinderschaft
+  zielgruppe: Kinder und Jugendliche in Haarzopf und Umgebung
+  beschreibung: Forum für Abenteuer und Erfahrungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 492-haarzopf/016
+ENTITÄT: verein
+BEZEICHNUNG: Turnerbund Essen-Haarzopf
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: https://www.essen.de/dasistessen/stadtteile/haarzopf/haarzopf_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: An der Fuchskaul 12
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 492-haarzopf/017
+ENTITÄT: verein
+BEZEICHNUNG: SuS Haarzopf 24 e.V.
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: https://www.essen.de/dasistessen/stadtteile/haarzopf/haarzopf_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sportstaetten: Halle Föhrenweg oder an der Goetheschule
+  sportplatz: Föhrenweg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 492-haarzopf/018
+ENTITÄT: verein
+BEZEICHNUNG: Casino Blau-Gelb Essen e.V.
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: https://www.essen.de/dasistessen/stadtteile/haarzopf/haarzopf_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Fulerumer Straße 223
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 492-haarzopf/019
+ENTITÄT: verein
+BEZEICHNUNG: Bürgerverein Haarzopf/Fulerum
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: https://www.essen.de/dasistessen/stadtteile/haarzopf/haarzopf_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Bürgerverein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 492-haarzopf/020
+ENTITÄT: kirchliche_einrichtung
+BEZEICHNUNG: Evangelische Kirchengemeinde Haarzopf
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: https://www.essen.de/dasistessen/stadtteile/haarzopf/haarzopf_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angebote: Jugendgruppen, Bastel- und Spieltreffs, Stammtische, Chorsingen u.v.m.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 492-haarzopf/021
+ENTITÄT: wanderweg
+BEZEICHNUNG: Margarethenhöhe Rundweg M
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: OpenStreetMap | Zeuge
+EIGENSCHAFTEN:
+  laenge: 8.3 km
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 492-haarzopf/022
+ENTITÄT: radweg
+BEZEICHNUNG: Wasser Route
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: OpenStreetMap | Zeuge
+EIGENSCHAFTEN:
+  typ: Radweg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 492-haarzopf/023
+ENTITÄT: sportstätte
+BEZEICHNUNG: Tennisclub RAWA Essen 1972 e.V.
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: OpenStreetMap | Zeuge
+EIGENSCHAFTEN:
+  gruendung: 1972
+  sportart: Tennis
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 492-haarzopf/024
+ENTITÄT: gewaesser
+BEZEICHNUNG: Steinbach
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: https://de.wikipedia.org/wiki/Haarzopf | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Bach, der durch Haarzopf fließt
+  vermutete_namensherkunft: historischer Hirschbach
+  flussrichtung_west: Ruhmbach (auf Mülheimer Seite: Rumbach), dann in die Ruhr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 492-haarzopf/025
+ENTITÄT: gewaesser
+BEZEICHNUNG: Rossenbeck
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: OpenStreetMap | Zeuge
+EIGENSCHAFTEN:
+  typ: Gewässer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.50
+---
+ID: 492-haarzopf/026
+ENTITÄT: schule
+BEZEICHNUNG: Gemeinschaftsgrundschule Haarzopf
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: https://de.wikipedia.org/wiki/Haarzopf | Wikipedia
+EIGENSCHAFTEN:
+  adresse: Raadter Straße
+  fruehere_namen: "Schule am Steinbachgrund, Steinbach-Schule"
+  erste_erwaehnung: 1667
+  geschichte: 17. Jahrhundert Gründung an Raadter Straße, 1966 als vierklassige konfessionslose Grundschule umgewandelt, 2014 Neubau mit Schülern der Hatzperschule
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1667
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 492-haarzopf/027
+ENTITÄT: schule
+BEZEICHNUNG: Hatzperschule
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: https://de.wikipedia.org/wiki/Haarzopf | Wikipedia
+EIGENSCHAFTEN:
+  adresse: Hatzper Straße
+  gegruendet: 1902
+  grund_gruendung: Zuwanderung von Bergleuten und Industriearbeitern, Anteil katholischer Kinder stieg, Überfüllung anderer Schulen
+  betriebsbeginn: September 1902
+  konfession: katholisch (ursprünglich)
+  bombenangriff: 1943
+  schließung_1943: nach Bombenangriff
+  wiedereroeffnung: August 1945
+  ausbau_1951_1956: weitere Gebäudeteile
+  namensgebung: 1961
+  schließung_2014: Sommer 2014
+GUELTIG_AB: 1902
+GUELTIG_BIS: 2014
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 492-haarzopf/028
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Straßenbahn Haarzopf
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: https://de.wikipedia.org/wiki/Haarzopf | Wikipedia
+EIGENSCHAFTEN:
+  betrieb_ab: 1925
+  betrieb_bis: Ende September 1980
+  endstellen: "Gleisschleife Erbach, Gleisdreieck am Fängershof"
+  entfernung_gleisschleife: 2008 durch Bau der Neuen Haarzopfer Mitte
+GUELTIG_AB: 1925
+GUELTIG_BIS: 1980
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 492-haarzopf/029
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Buslinien Haarzopf
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: https://de.wikipedia.org/wiki/Haarzopf | Wikipedia
+EIGENSCHAFTEN:
+  linien: 130, 136, 145, 194, NE10
+  verband_aenderung: 14. Juni 2015
+  zentrale_haltestelle: Erbach Südwestfriedhof
+  linie_130: "Oberhausen City Forum bis Rhein-Ruhr-Zentrum, Takt 20 min Mo–Fr"
+  linie_145: "Essen-Haarzopf Erbach bis Heisingen Baldeneysee, Takt 20 min Mo–Fr"
+  nachtexpress: "NE10, Takt 60 min"
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 492-haarzopf/030
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bürgerbus Haarzopf
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: https://de.wikipedia.org/wiki/Haarzopf | Wikipedia
+EIGENSCHAFTEN:
+  betrieb_ab: Herbst 2003
+  strecke: Haarzopf und Margarethenhöhe zu Messe Essen und Alfried Krupp Krankenhaus in Rüttenscheid
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 492-haarzopf/031
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Autobahn A 52
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: https://de.wikipedia.org/wiki/Haarzopf | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: durchquert Haarzopf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 492-haarzopf/032
+ENTITÄT: flughafen
+BEZEICHNUNG: Verkehrslandeplatz Essen/Mülheim
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: https://de.wikipedia.org/wiki/Haarzopf | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: grenzt direkt an Haarzopf
+  eroeffnet: 1925
+GUELTIG_AB: 1925
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 492-haarzopf/033
+ENTITÄT: wappen
+BEZEICHNUNG: Stadtteilwappen Haarzopf
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: https://de.wikipedia.org/wiki/Haarzopf | Wikipedia
+EIGENSCHAFTEN:
+  designer: Kurt Schweder
+  erstellung: zunächst ohne offiziellen Charakter, Ende 1980er offiziell für alle Essener Stadtteile
+  blasonierung: "Geteilt in Silber (Weiß) und Rot, oben zwei rote einwärts gekehrte Hirschstangen, unten ein silberner (weißer) Wellenbalken"
+  wappentypus: redendes Wappen
+  bedeutung: "Hirschstangen und Wellenbalken spielen auf alten Namen 'Hartzapen' bzw. 'Harttappe' (Hirschbach) an"
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 492-haarzopf/034
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Luftschutzbunker Haarzopf
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: https://de.wikipedia.org/wiki/Haarzopf | Wikipedia
+EIGENSCHAFTEN:
+  errichtet: 1939-1940
+  ausstattung: fensterlos
+  kapazitaet: mehrere hundert Menschen in vielen getrennten Kabinen für je bis zu 15 Personen
+  bombentreffer: nein
+  fenstersanierung: 1979
+  nutzung_nach_1945: diverse Firmen
+GUELTIG_AB: 1939
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 492-haarzopf/035
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Kleingartenanlage Kirschbaumsweg
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: https://de.wikipedia.org/wiki/Haarzopf | Wikipedia
+EIGENSCHAFTEN:
+  gegruendet: 1934
+GUELTIG_AB: 1934
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 492-haarzopf/036
+ENTITÄT: gaststätte
+BEZEICHNUNG: Zum scharfen Eck
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: https://de.wikipedia.org/wiki/Haarzopf | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1903
+  lage: "Ecke Hatzper Straße/Raadter Straße (gegenüber)"
+  inhaber: Heinrich Erbach
+  erweiterung: "Victoriasaal" für ca. 300 Personen
+  bedeutung: "Zentrum des Bürger- und Vereinslebens Haarzopfs"
+  nutzung_kriegszeit: Flüchtlingsunterkunft
+  renovationen: mehrfach nach Kriegsschäden
+  schließung: 1972
+GUELTIG_AB: 1903
+GUELTIG_BIS: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 492-haarzopf/037
+ENTITÄT: gaststätte
+BEZEICHNUNG: Haus Erbach
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Haarzopf
+QUELLE: https://de.wikipedia.org/wiki/Haarzopf | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnet: 1. Mai 1973
+  lage: neues Hochhaus an der Kreuzung Erbach
+  vorgaenger: Zum scharfen Eck / Victoriasaal
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80

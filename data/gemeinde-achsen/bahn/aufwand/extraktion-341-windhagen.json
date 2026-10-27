@@ -1,21 +1,21 @@
 {
  "stufe": "extraktion",
  "ort": "341-windhagen",
- "prompt": "prompt-stufe1-v0.6.txt",
+ "prompt": "prompt-stufe1-v0.7.txt",
  "modell_wunsch": "haiku",
  "modelle": [
   "claude-haiku-4-5-20251001"
  ],
- "eingabe_zeichen": 15588,
- "token_ein": 21595,
- "token_aus": 19188,
+ "eingabe_zeichen": 37681,
+ "token_ein": 30506,
+ "token_aus": 15105,
  "usage": {
   "input_tokens": 9,
-  "cache_creation_input_tokens": 14458,
+  "cache_creation_input_tokens": 23369,
   "cache_read_input_tokens": 7128,
-  "output_tokens": 19188,
+  "output_tokens": 15105,
   "output_tokens_details": {
-   "thinking_tokens": 15391
+   "thinking_tokens": 1338
   },
   "server_tool_use": {
    "web_search_requests": 0,
@@ -23,19 +23,19 @@
   },
   "service_tier": "standard",
   "cache_creation": {
-   "ephemeral_1h_input_tokens": 14458,
+   "ephemeral_1h_input_tokens": 23369,
    "ephemeral_5m_input_tokens": 0
   },
   "inference_geo": "not_available",
   "iterations": [
    {
     "input_tokens": 9,
-    "output_tokens": 19188,
+    "output_tokens": 15105,
     "cache_read_input_tokens": 7128,
-    "cache_creation_input_tokens": 14458,
+    "cache_creation_input_tokens": 23369,
     "cache_creation": {
      "ephemeral_5m_input_tokens": 0,
-     "ephemeral_1h_input_tokens": 14458
+     "ephemeral_1h_input_tokens": 23369
     },
     "type": "message"
    }
@@ -43,8 +43,8 @@
   "speed": "standard",
   "fallback_credit": null
  },
- "kosten_usd": 0.1255778,
- "sekunden": 146,
+ "kosten_usd": 0.1229848,
+ "sekunden": 115,
  "fehler": false,
- "zeit": "2026-10-14T09:52:55"
+ "zeit": "2026-10-27T08:27:57"
 }

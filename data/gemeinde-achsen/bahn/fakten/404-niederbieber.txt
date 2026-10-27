@@ -1,370 +1,225 @@
 ID: 404-niederbieber/001
 ENTITÄT: ort
-BEZEICHNUNG: Niederbieber
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/niederbieber | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  erstmals_urkundlich_erwähnt: 1204
-  siedlungsgeschichte_beginn: ca. 13000 v.Chr.
-  frueheste_kulturen: Bandkeramikerkultur, Federmesser-Gruppen
-  bandkeramiker_zeitraum: 3000-2000 v.Chr.
-  hauptort_kirchspiel_seit: vor 1204
-  vereinigung_wiedische_lande: 1340
-  kirchspielgericht_mitglieder: Oberbieber, Segendorf, Nodhausen, Hahnhöfe, zeitweise Altwied
-  entwicklung_charakter: von Bauerndorf zu Arbeiter- und Industriesiedlung
-  ortsname_herkunft: "Biber" (Ortsnamenhinweis)
-  wappensymbol_kastell: Doppeltürmige Tormauer (Römerkastell)
-  wappensymbol_gewaesser: Wellenschild (Aubach und Wied)
+  erste_urkundliche_erwaehnung: 1204
+  fruehere_bezeichnung: eigenstaendige Gemeinde (bis 1910)
+  wird_seit: 1971, Stadtteil von Neuwied
+  siedlungsgeschichte: Bandkeramikerkultur ca. 3000-2000 v.Chr., Eisenzeit, Bronzezeit, Jungsteinzeit, Römerzeit mit Limeskastell, Frankenzeit (6.-7. Jahrhundert), Mittelalter
+  entwicklung: vom Bauerndorf zur landstädtischen Arbeiter- und Industriesiedlung
+  lage: nördlich der Neuwied-Innenstadt am Zusammenfluss von Aubach und Wied
+  am_rand_von: Naturpark Rhein-Westerwald
+  bedeutung_fuer_ort: Kleinzentrale in kommunal- und verwaltungspolitischer Hinsicht
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 404-niederbieber/002
-ENTITÄT: stadtteil
-BEZEICHNUNG: Niederbieber
+ENTITÄT: siedlung_archaeologisch
+BEZEICHNUNG: Fundplatz Niederbieber (Altsteinzeit)
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Niederbieber | Wikipedia
 EIGENSCHAFTEN:
-  stadt: Neuwied
-  bundesland: Rheinland-Pfalz
-  eigenstaendige_gemeinde_bis: 1910
-  lage_zusammenfluss: Aubach und Wied
-  lage_innenstadt: nördlich
-  nachbarort_nordoestlich: Oberbieber
-  nachbarort_suedwest: Irlich
-  nachbarort_west: Rodenbach
-  nachbarort_nordwest: Segendorf
-  naturpark_rand: Naturpark Rhein-Westerwald
-  gemeindeverwaltung_bis_1806: Grafschaft Wied
-  fuerstentum_1784_1806: Fürstentum Wied-Neuwied
-  herzogtum_1806: Herzogtum Nassau
-  koenigreich_ab_1815: Königreich Preußen
-  kreis_zugehoerigkeit: Standesherrlicher Kreis Neuwied
-  regierungsbezirk: Koblenz
-  rheinprovinz_ab: 1822
-  verwaltungsbehörde: Bürgermeisterei Heddesdorf (ab 1927: Amt Heddesdorf)
-  gemeinde_mit_segendorf_ab: 1910
-  amt_verlagerung_nach_wk2: Niederbieber-Segendorf
-  amt_umwandlung_jahr: 1957
-  eingliederung_in_stadt: 1970
-  stadtteil_status_ab: 1971
-  vertreten_durch: Ortsbeirat, Ortsvorsteher
+  alter: ca. 13000
+  kultur: Federmesser-Gruppen (Jäger-Sammler am Ende der Eiszeit)
+  forschung: Römisch-Germanisches Zentralmuseum in Schloss Monrepos
+  bedeutung_fuer_ort: wichtige Erkenntnisse zum Leben der Menschen am Ende der Eiszeit
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 404-niederbieber/003
+ENTITÄT: kastell_roemisch
+BEZEICHNUNG: Römerkastell Niederbieber
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/niederbieber | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 190
+  genauigkeit_erbaut: ca.
+  zerstoert: 260
+  grund_zerstoerung: Vorrücken der Franken über den Limes
+  groesse: 5.24, Hektar
+  besatzung: zwei teils berittene numeri (bis zu 1000 Mann)
+  herkunft_soldaten: aus Kastell Köln-Deutz und aus Britannien verlegte germanische Soldaten
+  lage: am obergermanischen Limes
+  superlativ: eines der größten Kastelle am obergermanischen Limes
+  zivilsiedlung: ansehnlich, von Zaun und Graben umgeben
+  bad: Grundmauern heute gesichert, gibt Eindruck von der Größe der Anlage
+  grabungen: seit 1791 wiederholt untersucht; Johann Wolfgang von Goethe besuchte Ruinen im 19. Jahrhundert; Reichslimeskommission 1897-1912; 1960er-1970er Jahre letzte Untersuchung
+  bedeutung_fuer_ort: archäologisch bedeutendste Anlage Niederbiebers, Wappensymbol (doppeltürmige Tormauer)
+GUELTIG_AB: 190
+GUELTIG_BIS: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 404-niederbieber/004
+ENTITÄT: bad_roemisch
+BEZEICHNUNG: Römisches Bad (Kastell Niederbieber)
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/niederbieber | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: im Glacis des Kastells Niederbieber
+  grundmauern_erhalten: true
+  erkenntnis: gibt Eindruck von der Größe der Kastell-Anlage
+GUELTIG_AB: 190
+GUELTIG_BIS: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 404-niederbieber/005
+ENTITÄT: kirche_evangelisch
+BEZEICHNUNG: Evangelische Pfarrkirche Niederbieber
+FACETTE: GESCHICHTE | KULTUR | FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/niederbieber | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustil: Spätromanisch
+  errichtet: 13
+  turm: viergeschossig mit Rautenhelm
+  chor: quadratisch
+  patronat_seit: 1340, Grafen von Wied
+  grablege: 15./16. Jahrhundert für Grafen von Wied
+  grabstatte_beruehmt: 1552 Beigesetzung von Graf Hermann zu Wied (Kölner Kurfürst-Erzbischof und Reformator) unter dem Altar
+  langhaus_erneuerung: 15. Jahrhundert, dreischiffig, annähernd quadratisch
+  turmuhr: aufwendig gestaltet, Zifferblatt über 600 Jahre alt
+  turmuhr_mechanik: Uhrwerk 1897 eingebaut, läuft fast auf die Minute genau, 58 Stufen zum Uhrwerk
+  marienverehrung_hinweise: bauliche Details deuten auf Marienverehrung
+  informationen: Büchlein "Evangelische Pfarrkirche zu Neuwied-Niederbieber" von Rudolf Göller
+GUELTIG_AB: 1300
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 ---
-ID: 404-niederbieber/003
-ENTITÄT: gebaeude
-BEZEICHNUNG: Rat- und Backhaus (Altes Rat- und Backhaus)
-ORTSTEIL_BEZUG: Niederbieber
+ID: 404-niederbieber/006
+ENTITÄT: friedhof_juedisch
+BEZEICHNUNG: Jüdischer Friedhof Niederbieber
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/niederbieber | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  baujahr: 1736
-  lage_strasse: Aubachstraße
-  zweck_rathaus: true
-  zweck_schulhaus: true
-  zweck_backhaus: true
-  brotbackung_bis: 1908
-  architektur_obergeschoss: Fachwerk mit Glockentürmchen
-  architektur_unterbau: Stein
-  nutzung_heute: Veranstaltungen durch Verein Niederbieberer Bürger
+  lage: Weißer Berg
+  groesse_bedeutung: einer der größten und ältesten in Rheinland-Pfalz
+  bestattungen_seit: 17. Jahrhundert
+  zerstoerung: 9./10. November 1938 (Pogromnacht), gesamte Anlage mit Trauerhalle zerstört
+  einfriedung: stabiler Eisenzaun
+  verwaltung: jüdische Kultusgemeinde Koblenz
+  zutritt: tagsüber geöffneter Haupteingang an der Kurt-Schumacher-Straße
+  denkmalschutz_seit: Februar 1985
+  informationen: Orientierungstafel am Haupteingang; Memorbuch durch Deutsch-Israelischen Freundeskreis Neuwied
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 404-niederbieber/007
+ENTITÄT: gebaeude_kommunal
+BEZEICHNUNG: Altes Rat- und Backhaus
+FACETTE: GESCHICHTE | ALLTAG | KULTUR
+ORTSTITEL_BEZUG: 
+QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/niederbieber | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtet: 1736
+  lage: Aubachstraße
+  urspruengliche_funktionen: Rathaus, Schulhaus, Backhaus (dörfliches Gemeindehaus)
+  architektur: Fachwerkobergeschoss mit Glockentürmchen, steinernen Unterbau
+  gemeindebrot_bis: 1908
+  kulturelle_bedeutung: bezeichnend für rheinische Bauernkultur (Mehrzweck-Gemeindehaus)
+  heutige_nutzung: Veranstaltungen durch Verein Niederbieberer Bürger (VNB)
   besichtigungen: möglich
 GUELTIG_AB: 1736
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 ---
-ID: 404-niederbieber/004
-ENTITÄT: gebaeude
-BEZEICHNUNG: Altes Rat- und Backhaus (Dorfmuseum)
-ORTSTEIL_BEZUG: Niederbieber
-QUELLE: https://de.wikipedia.org/wiki/Niederbieber | Wikipedia
-EIGENSCHAFTEN:
-  erbauungsjahr: 1736
-  urspruengliche_funktion: Rathaus, Schulhaus, Backhaus
-  brotbackung_bis: 1908
-  fachwerk_obergeschoss: true
-  glockentürmchen: true
-  wohnhaus_nutzung_bis: 2005
-  dorfmuseum_eroeffnung: 2007
-  betreiber: Verein Niederbieberer Bürger
-GUELTIG_AB: 1736
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.92
----
-ID: 404-niederbieber/005
-ENTITÄT: kunstwerk
-BEZEICHNUNG: Erdzeiten-Uhr
-ORTSTEIL_BEZUG: Niederbieber
-QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/niederbieber | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  kuenstler: Alfred Hörchner
-  kuenstler_herkunft: Höhr-Grenzhausen
-  material: Beton
-  durchmesser: 1.5 Meter
-  darstellung: liegend
-  standort_in_naehe: Schulzentrum
-  dargestellter_zeitraum: 4.5 Milliarden Jahre
-  zeiger_mechanismus: Besucher beim Rundgang um Zentralstein
-  erdneuzeit_beginn_zeitpunkt: vor ca. 66 Millionen Jahren
-  homo_habilis_zeitpunkt: ca. 1 Minute vor 24 Uhr
-  homo_sapiens_evolution: ca. 2 Millionen Jahre
-  homo_sapiens_uhr_raum: 38.4 Sekunden am Rand des Zifferblatts
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 404-niederbieber/006
-ENTITÄT: kunstwerk
-BEZEICHNUNG: Erdzeiten-Uhr
-ORTSTEIL_BEZUG: Niederbieber
-QUELLE: https://de.wikipedia.org/wiki/Niederbieber | Wikipedia
-EIGENSCHAFTEN:
-  kuenstler: Alfred Hörchner
-  durchmesser: 1.5 Meter
-  beschreibung: Darstellung Werdegang und Ablauf der Erde analog zu 24 Tagesstunden
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 404-niederbieber/007
-ENTITÄT: kirche
-BEZEICHNUNG: Evangelische Pfarrkirche Niederbieber
-ORTSTEIL_BEZUG: Niederbieber
-QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/niederbieber | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  architektur_stil: Spätromanik
-  erbauungsjahr: 13. Jahrhundert
-  turm_beschreibung: viergeschossig mit Rautenhelm
-  chor: quadratisch
-  patronat_seit: spätestens 1340
-  patronat_durch: Grafen von Wied
-  grablege_jahrhunderte: 15. Jahrhundert, 16. Jahrhundert
-  beigesetzte_person: Graf Hermann zu Wied
-  beigesetzte_person_amt: Kölner Kurfürst-Erzbischof und Reformator
-  beigesetzte_person_zeitpunkt: 1552
-  beigesetzte_person_sterbeort: Burg Altwied
-  umbauten_15_jh: Neues Langhaus mit dreischiffigem, quadratischem Grundriss
-  turmuhr_alter_zifferblatt: über 600 Jahre alt
-  turmuhr_einbau: 1897
-  turmuhr_stufen_zum_uhrwerk: 58
-  turmuhr_genauigkeit: fast auf die Minute genau
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.93
----
 ID: 404-niederbieber/008
-ENTITÄT: kirche
-BEZEICHNUNG: Evangelische Kirche Niederbieber
-ORTSTEIL_BEZUG: Niederbieber
-QUELLE: https://de.wikipedia.org/wiki/Niederbieber | Wikipedia
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Erdzeiten-Uhr
+FACETTE: KULTUR | FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/niederbieber | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  stil: Spätromanik
-  erbauungsjahr: 13. Jahrhundert
-  katholische_pfarrkirche_bis: 1547
-  marienverehrung_indizien: Bauliche Details
-  beigesetzte_person: Hermann V. von Wied
-  beigesetzte_person_herkunft: Burg Altwied
-  beigesetzte_person_amt: Kölner Erzbischof und Reformator
-  beigesetzte_person_zeitpunkt: 1552
-  beigesetzte_person_lage: unter dem Altar
+  kuenstler: Alfred Hörchner (Höhr-Grenzhausen)
+  material: Beton
+  durchmesser: 1.5, Meter
+  standort: Nähe des Schulzentrums
+  darstellung: Werdegang und Ablauf der Erde analog zu 24 Tagesstunden
+  funktion: Darstellung einer Reise durch 4.5 Milliarden Jahre Erdentwicklung
+  besucher_rollen: werden selbst zum Zeiger beim Rundgang um Zentralstein
+  erdneuzeit_zeit: vor ca. 66 Millionen Jahren auf 23.39 Uhr
+  homo_habilis: ca. eine Minute vor 24 Uhr
+  homo_sapiens_sapiens: knapp 2 Millionen Jahre nur Millimeter auf Zifferblatt, ca. 38.4 Sekunden der Zeiteinheit
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 404-niederbieber/009
-ENTITÄT: friedhof
-BEZEICHNUNG: Jüdischer Friedhof Niederbieber
-ORTSTEIL_BEZUG: Niederbieber
+ENTITÄT: muehle
+BEZEICHNUNG: Rasselstein
+FACETTE: GESCHICHTE | INFRASTRUKTUR
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/niederbieber | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  lage: "Weißer Berg"
-  superlativ: einer der größten und ältesten in Rheinland-Pfalz
-  bestattungen_ab: 17. Jahrhundert
-  zerstoerung_zeitpunkt: Pogromnacht 9./10. November 1938
-  zerstoerung_ziele: Gesamte Anlage mit Trauerhalle
-  denkmalschutz_seit: Februar 1985
-  verwaltung_durch: Jüdische Kultusgemeinde Koblenz
-  einfriedung: stabiler Eisenzaun
-  oeffnung_haupteingang: tagsüber geöffnet
-  oeffnung_lage: Kurt-Schumacher-Straße
-  publikationen: Memorbuch durch Deutsch-Israelischer Freundeskreis Neuwied
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.94
+  lage: an der Wied
+  bedeutung_fuer_ort: Keimzelle für industrielle Entwicklung Niederbiebers
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
 ---
 ID: 404-niederbieber/010
-ENTITÄT: roemerkastell
-BEZEICHNUNG: Kastell Niederbieber
-ORTSTEIL_BEZUG: Niederbieber
+ENTITÄT: person_historisch
+BEZEICHNUNG: Graf Hermann zu Wied
+FACETTE: GESCHICHTE
+ORTSTITEL_BEZUG: 
 QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/niederbieber | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  superlativ: eines der größten am obergermanischen Limes
-  erbauungsjahr: um 190 n.Chr.
-  zerstoerung_jahr: ca. 260 n.Chr.
-  zerstoerung_ursache: Frankenüberfall über den Limes
-  zerstoerung_zeitspanne: ca. 70 Jahre nach Erbauung
-  groesse_hektar: 5.24
-  kapazitaet: Platz für zwei teils berittene "numeri" (bis zu 1000 Mann)
-  besatzung: Germanische Soldaten aus Kastell Köln-Deutz und aus Britannien
-  zivilsiedlung: Ansehnliche, von Zaun und Graben umgebene Siedlung um Glacis
-  bad_lage: Grundmauern eines großen Bades
-  grabungen_ab: 1791
-  grabung_besuch_goethe: Johann Wolfgang von Goethe
-  grabungen_wissenschaftlich: 1897-1912 durch Reichslimeskommission
-  zivilsiedlung_grabungen: 1960er und 1970er Jahre
-  bad_erhaltung: Grundmauern heute gesichert
-  lage_heute: Zwischen altem und neuem Friedhof, überbaut
-GUELTIG_AB: 190
-GUELTIG_BIS: 260
+  titel: Kölner Kurfürst-Erzbischof
+  rolle: Reformator
+  grabstaette: unter dem Altar der evangelischen Pfarrkirche Niederbieber
+  beigesetzung: 1552
+GUELTIG_AB: 
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.92
+VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 404-niederbieber/011
-ENTITÄT: roemerkastell
-BEZEICHNUNG: Kastell Niederbieber
-ORTSTEIL_BEZUG: Niederbieber
+ENTITÄT: person_zeitgenoessisch
+BEZEICHNUNG: Karl Heinz Troß
+FACETTE: POLITIK
+ORTSTITEL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Niederbieber | Wikipedia
 EIGENSCHAFTEN:
-  erbauungsjahr: ca. 185 n.Chr.
-  zerstoerung_jahr: 260 n.Chr.
-  bad_archaeologisch_gesichert: true
-GUELTIG_AB: 185
-GUELTIG_BIS: 260
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.88
+  rolle: Ortsvorsteher Niederbieber
+  partei: SPD
+  vertretung_seit: 2019
+  titel: ehrenamtlich
+  letzter_wahltermin: 9. Juni 2024
+  wiederwahl: 2024 gegen Mitbewerber durchgesetzt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 404-niederbieber/012
-ENTITÄT: person
-BEZEICHNUNG: Hermann zu Wied
-QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/niederbieber | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  titel: Graf
-  amt: Kölner Kurfürst-Erzbischof und Reformator
-  beschreibung_rang: bedeutend
-  beigesetzte_lage: Unter dem Altar der evangelischen Pfarrkirche Niederbieber
-  beigesetzung_jahr: 1552
-GUELTIG_AB: 1552
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 404-niederbieber/013
-ENTITÄT: person
-BEZEICHNUNG: Hermann V. von Wied
-QUELLE: https://de.wikipedia.org/wiki/Niederbieber | Wikipedia
-EIGENSCHAFTEN:
-  titel: Kölner Erzbischof und Reformator
-  herkunftsort: Burg Altwied
-  beigesetzte_lage: Unter dem Altar
-  beigesetzung_jahr: 1552
-  beigesetzungs_ort: Evangelische Kirche Niederbieber
-GUELTIG_AB: 1552
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.88
----
-ID: 404-niederbieber/014
-ENTITÄT: personengruppe
-BEZEICHNUNG: Grafen von Wied
-QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/niederbieber | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  patronat_kirche_seit: spätestens 1340
-  kirche_grablege: 15. Jahrhundert, 16. Jahrhundert
-GUELTIG_AB: 1340
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 404-niederbieber/015
-ENTITÄT: verein
-BEZEICHNUNG: Verein Niederbieberer Bürger (VNB)
-ORTSTEIL_BEZUG: Niederbieber
-QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/niederbieber | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  nutzt_gebaeude: Altes Rat- und Backhaus
-  zweck: Veranstaltungen und Besichtigungen
-  kontakt_website: bürgerverein-niederbieber.de
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.92
----
-ID: 404-niederbieber/016
-ENTITÄT: siedlung
-BEZEICHNUNG: Zivilsiedlung Kastell Niederbieber
-ORTSTEIL_BEZUG: Niederbieber
-QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/niederbieber | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  lage_zum_kastell: Um Glacis des Kastells
-  befestigung: Zaun und Graben
-  charakterisierung: Ansehnlich
-  grabungen: 1960er und 1970er Jahre
-GUELTIG_AB: 190
-GUELTIG_BIS: 260
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.88
----
-ID: 404-niederbieber/017
-ENTITÄT: kultur_gruppe
-BEZEICHNUNG: Bandkeramiker
-QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/niederbieber | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  fundort: Niederbieber
-  zeitraum: 3000-2000 v.Chr.
-GUELTIG_AB: -3000
-GUELTIG_BIS: -2000
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 404-niederbieber/018
-ENTITÄT: kultur_gruppe
-BEZEICHNUNG: Federmesser-Gruppen
-QUELLE: https://de.wikipedia.org/wiki/Niederbieber | Wikipedia
-EIGENSCHAFTEN:
-  siedlungsreste_alter: ca. 13000 Jahre alt
-  lebensweise: Jäger-Sammler
-  zeitabschnitt: Ende der Eiszeit
-  fundort: Niederbieber
-  wissenschaftliche_bedeutung: Wichtige Erkenntnisse zum Leben am Ende der Eiszeit
-GUELTIG_AB: -13000
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.88
----
-ID: 404-niederbieber/019
-ENTITÄT: person
-BEZEICHNUNG: Karl Heinz Troß
-QUELLE: https://de.wikipedia.org/wiki/Niederbieber | Wikipedia
-EIGENSCHAFTEN:
-  amt: Ehrenamtlicher Ortsvorsteher
-  partei: SPD
-  amtszeit_seit: 2019
-  wahl_jahr: 9. Juni 2024
-  wahltyp: Direktwahl
-  wahl_ergebnis: Durchgesetzt gegen Mitbewerber
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.93
----
-ID: 404-niederbieber/020
-ENTITÄT: gremium
+ENTITÄT: ortsbeirat
 BEZEICHNUNG: Ortsbeirat Niederbieber
-ORTSTEIL_BEZUG: Niederbieber
+FACETTE: POLITIK
+ORTSTITEL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Niederbieber | Wikipedia
 EIGENSCHAFTEN:
   ratsmitglieder: 8
-  vorsitzender: Ehrenamtlicher Ortsvorsteher
-  wahl_jahr: 9. Juni 2024
-  wahlmodus: Personalisierte Verhältniswahl
+  wahlart: personalisierte Verhältniswahl
+  wahl_datum: 9. Juni 2024
+  vorsitzender: Ortsvorsteher (ehrenamtlich)
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.93
+VERTRAUEN_EXTRAKTION: 0.95
 ---
-ID: 404-niederbieber/021
-ENTITÄT: institutionen
-BEZEICHNUNG: Forschungsbereich Altsteinzeit (Römisch-Germanisches Zentralmuseum)
+ID: 404-niederbieber/013
+ENTITÄT: wappensymbol
+BEZEICHNUNG: Wappen Niederbieber
+FACETTE: LAGE
+ORTSTITEL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Niederbieber | Wikipedia
 EIGENSCHAFTEN:
-  standort: Schloss Monrepos
-  aktivitaeten: Ausgrabungen und Forschungen in Niederbieber
-  fachbereich: Altsteinzeit
-ORTSTEIL_BEZUG: Niederbieber
+  doppeltuermige_tormauer: Hinweis auf Römerkastell Niederbieber
+  biber: Ortsnamenhinweis
+  wellenschildfuss: symbolisiert Aubach und Wied
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.88
----
-ID: 404-niederbieber/022
-ENTITÄT: infrastruktur
-BEZEICHNUNG: Mühlen Niederbieber
-ORTSTEIL_BEZUG: Niederbieber
-QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/niederbieber | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  anzahl: mehrere
-  beispiel_mühle: Rasselstein
-  beispiel_lage: an der Wied
-  historische_rolle: Keimzelle der industriellen Entwicklung Niederbiebers
-GUELTIG_AB: vor 1800
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.95

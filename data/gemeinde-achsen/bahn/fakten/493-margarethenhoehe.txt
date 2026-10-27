@@ -1,0 +1,547 @@
+ID: 493-margarethenhoehe/001
+ENTITÄT: ort
+BEZEICHNUNG: Margarethenhöhe
+FACETTE: LAGE | GESCHICHTE | ALLTAG | KULTUR | INFRA | POLITIK
+QUELLE: https://www.essen.de/dasistessen/stadtteile/margarethenhoehe/margarethenhoehe_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsteil_status: Südlicher Stadtteil der Stadt Essen
+  ist_gartenstadt: true
+  denkmalschutz_seit: 1987
+  charakterisierung: Erste deutsche Gartenstadt
+  bedeutung_fuer_ort: Sehenswürdigkeit überregional bekannt
+  gegründung: Anfang 20. Jahrhundert
+  fläche: 115 Hektar
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 493-margarethenhoehe/002
+ENTITÄT: person
+BEZEICHNUNG: Margarethe Krupp
+FACETTE: GESCHICHTE | LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/margarethenhoehe/margarethenhoehe_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Stifterin und Gründerin der Margarethenhöhe
+  titel: Ehefrau des Unternehmers Friedrich Alfred Krupp
+  gründung_grund: Anlässlich der Hochzeit ihrer Tochter Bertha
+  stiftungskapital: 1000000 Mark
+  stiftungsland: 50 Hektar Bauland
+  vermächtnis: Promenadenschenkung (weitere Areale) 1907
+  bedeutung_fuer_ort: Initiatorin der Gartenstadt als Wohlfahrtspflege-Projekt
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 493-margarethenhoehe/003
+ENTITÄT: person
+BEZEICHNUNG: Georg Metzendorf
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/margarethenhoehe/margarethenhoehe_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Reformarchitekt, Planer der Siedlung
+  lebensjahre: 1874-1934
+  mitgliedschaft: Deutscher Werkbund
+  designprinzip: Modular kombinierte Elemente für Kostenersparnis
+  bauphasen: 29 Bauabschnitte
+  zeitraum_planung: 1909-1938
+  zusätzliche_werke: Entwurf des Schatzgräberbrunnens
+GUELTIG_AB: 1909
+GUELTIG_BIS: 1938
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 493-margarethenhoehe/004
+ENTITÄT: organisation
+BEZEICHNUNG: Margarethe-Krupp-Stiftung für Wohnungsfürsorge
+FACETTE: POLITIK | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Margarethenhöhe | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1906
+  anfangszweck: Wohnungsfürsorge für minderbemittelte Klassen
+  verwaltung: Verwaltet die Siedlung seit ihrer Gründung
+  wohneinheiten: 3092
+  gebäude: 935
+  gewerbeflächen: 60
+  rang: Größte Wohnungsstiftung Deutschlands
+  wartezeit_durchschnitt: 6-36 Monate
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 493-margarethenhoehe/005
+ENTITÄT: siedlung
+BEZEICHNUNG: Margarethenhöhe I / "alte" Margarethenhöhe
+FACETTE: LAGE | GESCHICHTE | KULTUR | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/margarethenhoehe/margarethenhoehe_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: Gründerzeitliche Gartenstadt
+  denkmalschutz: 1975 zum Denkmal erklärt, 1987 förmlich unter Schutz
+  markierungspunkte: Kleiner Marktplatz mit eindrucksvoll umrandenden Gebäuden
+  bauzeit: 1909-1938
+  architektonische_einheit: Stilistisch geschlossene Vielfalt
+  zerstörung_wiederaufbau: Im Zweiten Weltkrieg zerstört, in historischer Form wiederhergestellt
+  bedeutung_fuer_ort: Kernstück der Margarethenhöhe, Sehenswürdigkeit
+  museum: Museumswohnung zeigbar im Rahmen von Führungen
+GUELTIG_AB: 1909
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 493-margarethenhoehe/006
+ENTITÄT: siedlung
+BEZEICHNUNG: Margarethenhöhe II / "neue" Margarethenhöhe
+FACETTE: LAGE | GESCHICHTE | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Margarethenhöhe | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1962-1966 und 1971-1980
+  charakterisierung: Architektonisch teils minderwertig, sozial problematisch mit Hochhäuser
+  sanierungsprogramm: Seit 1987 Sanierungsprogramm zur Behebung sozialer, technischer und ästhetischer Probleme
+  zweck_sanierung: Erhöhung der öffentlichen Wertschätzung der Siedlung
+GUELTIG_AB: 1962
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 493-margarethenhoehe/007
+ENTITÄT: kirche
+BEZEICHNUNG: Heilige Familie
+FACETTE: GESCHICHTE | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Margarethenhöhe | Wikipedia
+EIGENSCHAFTEN:
+  religions_zugehörigkeit: Katholisch
+  vorgänger: Katholische Kirche 1924 erbaut, 1944 im Zweiten Weltkrieg zerstört
+  einweihung: 1952
+  gemeindenachfolge: Seit 2008 Gemeindekirche der Pfarrgemeinde St. Antonius
+  standort: Margarethenhöhe
+GUELTIG_AB: 1952
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 493-margarethenhoehe/008
+ENTITÄT: kirche
+BEZEICHNUNG: Gustav-Adolf-Haus
+FACETTE: GESCHICHTE | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Margarethenhöhe | Wikipedia
+EIGENSCHAFTEN:
+  religions_zugehörigkeit: Evangelisch
+  erbauung: 1924
+  adresse: Steile Straße 60a
+  zugehörigkeit: Emmaus-Gemeinde im Kirchenkreis Essen der Evangelischen Kirche im Rheinland
+GUELTIG_AB: 1924
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 493-margarethenhoehe/009
+ENTITÄT: denkmal
+BEZEICHNUNG: Schatzgräberbrunnen
+FACETTE: KULTUR | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Margarethenhöhe | Wikipedia
+EIGENSCHAFTEN:
+  entwurf: Georg Metzendorf
+  gestaltung: Joseph Enseling
+  einweihung: 20. Juli 1912
+  einweihende_person: Oberbürgermeister Wilhelm Holle
+  standort: Marktplatz Margarethenhöhe
+  zweck: Dank der Stadt Essen für die Stiftung der Margarethenhöhe
+  ikonographie: Putte mit Spaten und Spindel (Symbole der Sommerburgsage)
+  inschrift: "Grabt Schätze nicht mit Spaten / Sucht sie in edlen Taten!"
+  bedeutung_fuer_ort: Erinnerung an die edle Tat Margarethe Krupps
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 493-margarethenhoehe/010
+ENTITÄT: technisches_kulturdenkmal
+BEZEICHNUNG: Halbachhammer
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/margarethenhoehe/margarethenhoehe_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: Aus dem Siegerland stammend
+  wiederaufbau: Funktionsfähig wiederaufgebaut im Nachtigallental
+  schenkung: 1936 von Gustav Krupp von Bohlen und Halbach der Stadt Essen geschenkt
+  klassifikation: Technisches Kulturdenkmal
+  bedeutung_fuer_ort: Zeugnis der Industriekultur
+GUELTIG_AB: 1936
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 493-margarethenhoehe/011
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: Viadukt über Borbecker Mühlenbachtal
+FACETTE: INFRA | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Margarethenhöhe | Wikipedia
+EIGENSCHAFTEN:
+  erbauung: 1909
+  zweck: Erschließung, Baustoffversorgung und Anbindung der Margarethenhöhe an zentrale Siedlungsgebiete Holsterhausen und Rüttenscheid
+  überquerung: Bahnstrecke Mülheim-Heißen–Altendorf (1872 eröffnet)
+  erwähnung_wappen: Erinnert an die ehemalige Wehranlage Sommerburg sowie die zum Stadtteil führende Brücke
+GUELTIG_AB: 1909
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 493-margarethenhoehe/012
+ENTITÄT: bahnhof
+BEZEICHNUNG: Personenbahnhof Margarethenhöhe
+FACETTE: INFRA | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Margarethenhöhe | Wikipedia
+EIGENSCHAFTEN:
+  bahnstrecke: Mülheim-Heißen–Altendorf
+  betrieb: 1946-1965
+  betriebsstatus: Stillgelegt, Bahntrasse 1999 durch Radwanderweg Grugatrasse ersetzt
+  empfangsgebäude: Später abgerissen
+GUELTIG_AB: 1946
+GUELTIG_BIS: 1965
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 493-margarethenhoehe/013
+ENTITÄT: radweg
+BEZEICHNUNG: Grugatrasse / Bahntrassenweg Grugaweg
+FACETTE: FREIZEIT | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Margarethenhöhe | Wikipedia
+EIGENSCHAFTEN:
+  vorgänger: Bahnstrecke Mülheim-Heißen–Altendorf
+  umbau: 1999 Umwandlung der stillgelegten Bahntrasse in Radwanderweg
+GUELTIG_AB: 1999
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 493-margarethenhoehe/014
+ENTITÄT: künstlerkolonie
+BEZEICHNUNG: Künstlerkolonie Margarethenhöhe
+FACETTE: KULTUR | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Margarethenhöhe | Wikipedia
+EIGENSCHAFTEN:
+  bedeutender_gast: Fotograf Albert Renger-Patzsch
+  betriebszeitraum: Existierte zeitweise, aufgelöst in den 1930er Jahren
+  überrest: Keramikwerkstatt Margarethenhöhe existiert noch
+  keramikwerkstatt_umsiedlung: Nach 1933 zur Zeche Zollverein (Gelsenkirchener Bergwerksverein A.G. stellte Räume zur Verfügung)
+GUELTIG_AB: 1920
+GUELTIG_BIS: 1933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 493-margarethenhoehe/015
+ENTITÄT: person
+BEZEICHNUNG: Albert Renger-Patzsch
+FACETTE: KULTUR | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Margarethenhöhe | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Fotograf
+  verbindung_ort: Bedeutendster Gast der Künstlerkolonie Margarethenhöhe
+  zeitraum: Zeitweise in den 1930er Jahren
+GUELTIG_AB: 1920
+GUELTIG_BIS: 1933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 493-margarethenhoehe/016
+ENTITÄT: person
+BEZEICHNUNG: Hugo Rieth
+FACETTE: GESCHICHTE | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Margarethenhöhe | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1922-2006
+  rolle: Heimatforscher und Chronist der Gartenstadt Margarethenhöhe
+  aktivitäten: Publikationen in Zeitungen und Jahrbüchern mit historischen Sachkenntnissen
+  ehrungen: Rheinlandtaler, Bundesverdienstkreuz
+  nachlass: Umfangreiche Bibliothek mit Dokumenten, Aufzeichnungen und Fotosammlung im Stadtarchiv Essen, der Bürgerschaft Margarethenhöhe und im Essener Luftfahrtarchiv
+GUELTIG_AB: 1922
+GUELTIG_BIS: 2006
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 493-margarethenhoehe/017
+ENTITÄT: sage
+BEZEICHNUNG: Sommerburg-Sage / Schatzgräbersage
+FACETTE: GESCHICHTE | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Margarethenhöhe | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: Mündlich überlieferte Sage
+  ikonographie: Symbole (Spaten und Spindel) erscheinen auf dem Schatzgräberbrunnen
+  bedeutung_fuer_brunnen: Sage spielt auf die edle Tat Margarethe Krupps an
+GUELTIG_AB: 0
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 493-margarethenhoehe/018
+ENTITÄT: wehrbau
+BEZEICHNUNG: Sommerburg
+FACETTE: GESCHICHTE | LAGE
+QUELLE: https://de.wikipedia.org/wiki/Margarethenhöhe | Wikipedia
+EIGENSCHAFTEN:
+  klassifikation: Ehemalige Wehranlage
+  erwähnung: Im Stadtteilwappen und Schatzgräberbrunnen symbolisiert
+  bedeutung_wappen: Zinnenmauer erinnert an die Sommerburg sowie die Brücke über das Mühlenbachtal
+GUELTIG_BIS: 0
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 493-margarethenhoehe/019
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: U 17 (Stadtbahn Essen)
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Margarethenhöhe | Wikipedia
+EIGENSCHAFTEN:
+  linienverlauf: E-Altenessen bis Margarethenhöhe (südlicher Endpunkt)
+  taktung: 10 Minuten (Mo–Fr)
+  operator: Ruhrbahn
+  haltestelle: Laubenweg (zentrale Haltestelle)
+  anschluss: Buslinie 169
+GUELTIG_AB: 1946
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 493-margarethenhoehe/020
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: Buslinie 169
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Margarethenhöhe | Wikipedia
+EIGENSCHAFTEN:
+  linienverlauf: Essen-Margarethenhöhe – Friedhof Bredeney – Bredeney – Werden – Velbert ZOB
+  taktung: 20 Minuten (Mo–Fr)
+  operator: Ruhrbahn (in Kooperation mit Rheinbahn)
+  anschluss: U 17 an Laubenweg
+GUELTIG_AB: 1946
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 493-margarethenhoehe/021
+ENTITÄT: institution_kultur
+BEZEICHNUNG: Kunstverein "Kunstlabor-Essen e.V."
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/margarethenhoehe/margarethenhoehe_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angebot: Wöchentliche Mal-, Zeichen- und Radierkurse für Freizeitmaler und Kunstlehrlinge
+GUELTIG_AB: 0
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 493-margarethenhoehe/022
+ENTITÄT: institution_kultur
+BEZEICHNUNG: Ballettschule & Musikschule Essen - Margarethenhöhe
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/margarethenhoehe/margarethenhoehe_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angebot: Umfangreiches Angebot an Tanz-, Instrument- und Gesangskursen
+GUELTIG_AB: 0
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 493-margarethenhoehe/023
+ENTITÄT: institution_kultur
+BEZEICHNUNG: Mintrops Kochschule im Stadt Hotel
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/margarethenhoehe/margarethenhoehe_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angebot: Kurse zum Erlernen neuer Rezepte und Handwerkstipps in Gemeinschaft
+GUELTIG_AB: 0
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 493-margarethenhoehe/024
+ENTITÄT: verein
+BEZEICHNUNG: TUSEM e.V.
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/margarethenhoehe/margarethenhoehe_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Fibelweg 7
+  angebot: Sportverein
+GUELTIG_AB: 0
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 493-margarethenhoehe/025
+ENTITÄT: verein
+BEZEICHNUNG: Naturschutzbund Ruhr e.V.
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/margarethenhoehe/margarethenhoehe_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zweck: Umwelt- und Naturschutz in Essen
+GUELTIG_AB: 0
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 493-margarethenhoehe/026
+ENTITÄT: gemeindehaus
+BEZEICHNUNG: Gustav-Adolf-Haus / Gemeindehaus "Zur Heiligen Familie"
+FACETTE: KULTUR | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/margarethenhoehe/margarethenhoehe_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angebot: Ganzheitliche Gemeindearbeit mit regelmäßigen Kreisen, Gruppen und Veranstaltungen für alle Personengruppen
+GUELTIG_AB: 0
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 493-margarethenhoehe/027
+ENTITÄT: grünfläche
+BEZEICHNUNG: Grüngürtel Margarethenhöhe
+FACETTE: FREIZEIT | LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/margarethenhoehe/margarethenhoehe_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktivitäten: Lädt zu Spaziergang und Radtour ein
+GUELTIG_AB: 1907
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 493-margarethenhoehe/028
+ENTITÄT: person
+BEZEICHNUNG: Gustav Krupp von Bohlen und Halbach
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/margarethenhoehe/margarethenhoehe_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Schenker des Halbachhammers
+  schenkung: 1936 Übergabe des Halbachhammers als technisches Kulturdenkmal an die Stadt Essen
+GUELTIG_AB: 1936
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 493-margarethenhoehe/029
+ENTITÄT: person
+BEZEICHNUNG: Bertha Krupp
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Margarethenhöhe | Wikipedia
+EIGENSCHAFTEN:
+  relation: Tochter von Margarethe Krupp
+  anlass_stiftung: Hochzeit war Anlass für Gründung der Margarethe-Krupp-Stiftung 1906
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 493-margarethenhoehe/030
+ENTITÄT: person
+BEZEICHNUNG: Friedrich Alfred Krupp
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/margarethenhoehe/margarethenhoehe_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Unternehmer
+  relation: Ehemann von Margarethe Krupp
+GUELTIG_AB: 0
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 493-margarethenhoehe/031
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Holle
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Margarethenhöhe | Wikipedia
+EIGENSCHAFTEN:
+  titel: Oberbürgermeister
+  aktie: Weihte den Schatzgräberbrunnen am 20. Juli 1912 ein
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 493-margarethenhoehe/032
+ENTITÄT: person
+BEZEICHNUNG: Joseph Enseling
+FACETTE: GESCHICHTE | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Margarethenhöhe | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Gestalter des Schatzgräberbrunnens
+  werk: Schatzgräberbrunnen (Ausführung nach Entwurf von Georg Metzendorf)
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 493-margarethenhoehe/033
+ENTITÄT: museum
+BEZEICHNUNG: Musterwohnung Margarethenhöhe
+FACETTE: KULTUR | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Margarethenhöhe | Wikipedia
+EIGENSCHAFTEN:
+  verwaltung: Vom Ruhr Museum eingerichtet
+  zweck: Vergegenwärtigung der ursprünglichen Gestaltung der Wohneinheiten
+  bedeutung: Zeigt wohnkulturelle Bedeutung des Denkmals Margarethenhöhe mit ihren variablen Typengrundrissen
+  besichtigung: Möglich im Rahmen von Führungen
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 493-margarethenhoehe/034
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Bahnstrecke Mülheim-Heißen–Altendorf
+FACETTE: INFRA | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Margarethenhöhe | Wikipedia
+EIGENSCHAFTEN:
+  eröffnung: 1872
+  verlauf_margarethenhöhe: Führte über Viadukt über das Borbecker Mühlenbachtal
+  personenverkehr: Haltepunkt Margarethenhöhe 1946-1965
+  nachnutzung: Bahntrasse 1999 in Radwanderweg Grugatrasse umgewandelt
+GUELTIG_AB: 1872
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 493-margarethenhoehe/035
+ENTITÄT: ort
+BEZEICHNUNG: Rüttenscheid
+FACETTE: GESCHICHTE | LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/margarethenhoehe/margarethenhoehe_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  relation_margarethenhöhe: Margarethenhöhe gehörte ursprünglich der Gemarkung nach zu Rüttenscheid
+  eingemeindung_rüttenscheid: 1905 nach Essen eingemeindet
+  zeitliche_abfolge: Erste Häuser Margarethenhöhe 1910 fertiggestellt, daher mit Einzug zu Essen gehörend
+GUELTIG_AB: 1905
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 493-margarethenhoehe/036
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: Bundesautobahn 52, Anschlussstelle 27/28 Essen-Haarzopf/Essen-Rüttenscheid
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Margarethenhöhe | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Anbindung der Margarethenhöhe an das Bundesfernstraßennetz
+GUELTIG_AB: 0
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 493-margarethenhoehe/037
+ENTITÄT: stadtteilwappen
+BEZEICHNUNG: Stadtteilwappen Margarethenhöhe
+FACETTE: GESCHICHTE | LAGE
+QUELLE: https://de.wikipedia.org/wiki/Margarethenhöhe | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: In Grün eine vierzinnige goldene Bogenmauer; darüber zwei balkenweise silberne Margeritenblüten mit goldener Butze und darunter im Schildfuß eine Margeritenblüte
+  designer: Kurt Schweder (entworfen, ohne offiziellen Charakter; offizialisiert Ende 1980er Jahre durch Heraldiker für alle Essener Stadtteile)
+  symbolik: Margeriten spielen auf den Namen der Stifterin Margarethe Krupp an; Zinnenmauer erinnert an Sommerburg und Brücke über Mühlenbachtal und ehemalige Bahnstrecke
+  annahme: Gut angenommen von der Essener Bevölkerung
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 493-margarethenhoehe/038
+ENTITÄT: markt
+BEZEICHNUNG: Marktplatz Margarethenhöhe
+FACETTE: ALLTAG | LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/margarethenhoehe/margarethenhoehe_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: Kleiner Marktplatz mit eindrucksvoll umrandenden Gebäuden
+  geschäfte_umfeld: Geschäfte an Sommerburgstraße und nahe dem Markt (zwei Bäckereien, zwei Supermärkte, Apotheke, Läden für Schreibwaren, Schuhe, Kleidung, Spielwaren)
+GUELTIG_AB: 1909
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 493-margarethenhoehe/039
+ENTITÄT: gebäude
+BEZEICHNUNG: Ehemaliges Gasthaus zur Margarethenhöhe
+FACETTE: ALLTAG | GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/margarethenhoehe/margarethenhoehe_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  klassifikation: Ehemaliges Gasthaus
+  charakterisierung: Eindrucksvolles Gebäude am Marktplatz
+  architektonische_bedeutung: Zeugnis der Entstehungsgeschichte und Architektur der alten Margarethenhöhe
+GUELTIG_AB: 1909
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 493-margarethenhoehe/040
+ENTITÄT: gebäude
+BEZEICHNUNG: Ehemalige Kruppsche Konsumanstalt
+FACETTE: ALLTAG | GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/margarethenhoehe/margarethenhoehe_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  klassifikation: Ehemalige Konsumanstalt der Krupp-Familie
+  charakterisierung: Eindrucksvolles Gebäude am Marktplatz
+  architektonische_bedeutung: Zeugnis der Entstehungsgeschichte und Architektur der alten Margarethenhöhe
+GUELTIG_AB: 1909
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80

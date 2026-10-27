@@ -1,21 +1,21 @@
 {
  "stufe": "extraktion",
  "ort": "412-kurtscheid",
- "prompt": "prompt-stufe1-v0.6.txt",
+ "prompt": "prompt-stufe1-v0.7.txt",
  "modell_wunsch": "haiku",
  "modelle": [
   "claude-haiku-4-5-20251001"
  ],
- "eingabe_zeichen": 15173,
- "token_ein": 21387,
- "token_aus": 23825,
+ "eingabe_zeichen": 31329,
+ "token_ein": 27907,
+ "token_aus": 19414,
  "usage": {
   "input_tokens": 9,
-  "cache_creation_input_tokens": 14250,
+  "cache_creation_input_tokens": 20770,
   "cache_read_input_tokens": 7128,
-  "output_tokens": 23825,
+  "output_tokens": 19414,
   "output_tokens_details": {
-   "thinking_tokens": 19096
+   "thinking_tokens": 11472
   },
   "server_tool_use": {
    "web_search_requests": 0,
@@ -23,19 +23,19 @@
   },
   "service_tier": "standard",
   "cache_creation": {
-   "ephemeral_1h_input_tokens": 14250,
+   "ephemeral_1h_input_tokens": 20770,
    "ephemeral_5m_input_tokens": 0
   },
   "inference_geo": "not_available",
   "iterations": [
    {
     "input_tokens": 9,
-    "output_tokens": 23825,
+    "output_tokens": 19414,
     "cache_read_input_tokens": 7128,
-    "cache_creation_input_tokens": 14250,
+    "cache_creation_input_tokens": 20770,
     "cache_creation": {
      "ephemeral_5m_input_tokens": 0,
-     "ephemeral_1h_input_tokens": 14250
+     "ephemeral_1h_input_tokens": 20770
     },
     "type": "message"
    }
@@ -43,8 +43,8 @@
   "speed": "standard",
   "fallback_credit": null
  },
- "kosten_usd": 0.1483468,
- "sekunden": 182,
+ "kosten_usd": 0.1393318,
+ "sekunden": 150,
  "fehler": false,
- "zeit": "2026-10-17T13:15:15"
+ "zeit": "2026-10-27T08:40:28"
 }

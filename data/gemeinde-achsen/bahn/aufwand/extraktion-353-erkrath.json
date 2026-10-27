@@ -1,21 +1,21 @@
 {
  "stufe": "extraktion",
  "ort": "353-erkrath",
- "prompt": "prompt-stufe1-v0.6.txt",
+ "prompt": "prompt-stufe1-v0.7.txt",
  "modell_wunsch": "haiku",
  "modelle": [
   "claude-haiku-4-5-20251001"
  ],
- "eingabe_zeichen": 58890,
- "token_ein": 36846,
- "token_aus": 22551,
+ "eingabe_zeichen": 155443,
+ "token_ein": 72526,
+ "token_aus": 17889,
  "usage": {
   "input_tokens": 9,
-  "cache_creation_input_tokens": 29709,
+  "cache_creation_input_tokens": 65389,
   "cache_read_input_tokens": 7128,
-  "output_tokens": 22551,
+  "output_tokens": 17889,
   "output_tokens_details": {
-   "thinking_tokens": 5346
+   "thinking_tokens": 1542
   },
   "server_tool_use": {
    "web_search_requests": 0,
@@ -23,19 +23,19 @@
   },
   "service_tier": "standard",
   "cache_creation": {
-   "ephemeral_1h_input_tokens": 29709,
+   "ephemeral_1h_input_tokens": 65389,
    "ephemeral_5m_input_tokens": 0
   },
   "inference_geo": "not_available",
   "iterations": [
    {
     "input_tokens": 9,
-    "output_tokens": 22551,
+    "output_tokens": 17889,
     "cache_read_input_tokens": 7128,
-    "cache_creation_input_tokens": 29709,
+    "cache_creation_input_tokens": 65389,
     "cache_creation": {
      "ephemeral_5m_input_tokens": 0,
-     "ephemeral_1h_input_tokens": 29709
+     "ephemeral_1h_input_tokens": 65389
     },
     "type": "message"
    }
@@ -43,8 +43,8 @@
   "speed": "standard",
   "fallback_credit": null
  },
- "kosten_usd": 0.17289480000000002,
- "sekunden": 204,
+ "kosten_usd": 0.2209448,
+ "sekunden": 163,
  "fehler": false,
- "zeit": "2026-10-14T10:40:21"
+ "zeit": "2026-10-27T08:33:56"
 }

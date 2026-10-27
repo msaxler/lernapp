@@ -1,21 +1,21 @@
 {
  "stufe": "extraktion",
  "ort": "411-ehlscheid",
- "prompt": "prompt-stufe1-v0.6.txt",
+ "prompt": "prompt-stufe1-v0.7.txt",
  "modell_wunsch": "haiku",
  "modelle": [
   "claude-haiku-4-5-20251001"
  ],
- "eingabe_zeichen": 10215,
- "token_ein": 19544,
- "token_aus": 16963,
+ "eingabe_zeichen": 19805,
+ "token_ein": 23641,
+ "token_aus": 13354,
  "usage": {
   "input_tokens": 9,
-  "cache_creation_input_tokens": 12407,
+  "cache_creation_input_tokens": 16504,
   "cache_read_input_tokens": 7128,
-  "output_tokens": 16963,
+  "output_tokens": 13354,
   "output_tokens_details": {
-   "thinking_tokens": 12751
+   "thinking_tokens": 6956
   },
   "server_tool_use": {
    "web_search_requests": 0,
@@ -23,19 +23,19 @@
   },
   "service_tier": "standard",
   "cache_creation": {
-   "ephemeral_1h_input_tokens": 12407,
+   "ephemeral_1h_input_tokens": 16504,
    "ephemeral_5m_input_tokens": 0
   },
   "inference_geo": "not_available",
   "iterations": [
    {
     "input_tokens": 9,
-    "output_tokens": 16963,
+    "output_tokens": 13354,
     "cache_read_input_tokens": 7128,
-    "cache_creation_input_tokens": 12407,
+    "cache_creation_input_tokens": 16504,
     "cache_creation": {
      "ephemeral_5m_input_tokens": 0,
-     "ephemeral_1h_input_tokens": 12407
+     "ephemeral_1h_input_tokens": 16504
     },
     "type": "message"
    }
@@ -43,8 +43,8 @@
   "speed": "standard",
   "fallback_credit": null
  },
- "kosten_usd": 0.1103508,
- "sekunden": 129,
+ "kosten_usd": 0.1004998,
+ "sekunden": 92,
  "fehler": false,
- "zeit": "2026-10-17T13:14:23"
+ "zeit": "2026-10-27T08:39:17"
 }

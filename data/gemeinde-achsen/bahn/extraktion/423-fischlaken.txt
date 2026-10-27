@@ -1,464 +1,529 @@
 ENTITÄT: ort
 BEZEICHNUNG: Fischlaken
-QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_geschichte.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  stadtteil_von: Essen
-  lage_in_stadt: Süden
-  charakterisierung: überwiegend ländlich geprägt mit Waldflächen, landwirtschaftlichen Betrieben und dichteren Wohnvierteln
-  einwohner: 4353
-  stand_einwohner: 31. März 2025
-  bevölkerungsanteil_unter_18_prozent: 15.8
-  bevölkerungsanteil_ab_65_prozent: 27.5
-  ausländeranteil_prozent: 8.0
-  erste_erwähnung: 8. Jahrhundert
+  lage_in_stadt: Südlich von Essen
+  status_stadtteil: true
+  eingemeindung_essen: 1929-08-01
+  namensherkunft: Name reicht bis ins 9. Jahrhundert zurück; Mönche des Klosters Werden hatten hier landwirtschaftliche Gebiete und Fischteiche
+  fruehere_schreibweisen: Fislacu, Fiselacu, Wislaken
+  bedeutung_schreibweisen: stehendes Gewässer mit reichem Fischbestand
+  urkundlich_erstmals_erwaehnt: 796
+  zugehoerigkeit_bis_1803: Benediktinerkloster Werden
+  zugehoerigkeit_1808: Bürgermeisterei Werden
+  zugehoerigkeit_ab_1857: Werden-Land
   superlativ: ältestes Dorf an der Ruhr
-  namensherkunft: Bezeichnung für stehendes Gewässer (Laken) mit reichem Fischvorkommen
-  eingemeindung_jahr: 1929
-  eingemeindung_quelle: Gemeinde Siebenhonnschaften
-  grenzfluss_norden: Ruhr
-  nachbarn_westen: Werden
-  nachbarn_südwesten: Heidhausen
-  nachbarn_südosten: Kupferdreh
-  nachbarn_norden: Heisingen und Bredeney
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: ur_und_frühgeschichte
-QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+ENTITÄT: ort
+BEZEICHNUNG: Fischlaken
+FACETTE: ALLTAG | LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_statistik.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  zeitraum: ca. 30000 v.Chr. bis Mittelalter
-  beschreibung: Feuersteine und Relikte aus Altsteinzeit (ca. 30000 v.Chr.), Mittelsteinzeit und Bronzezeit; Gruben und Pfostenlöcher deuten auf sehr frühe Besiedlung
-GUELTIG_AB: -30000
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
+  charakterisierung: Wohnt man im Grünen; Siedlungen mit überwiegend Ein- und Zweifamilienhäusern wechseln sich ab mit landwirtschaftlich genutzten Flächen und Waldungen
+  grenzen: Im Norden Baldeneysee; im Westen Werden; im Südwesten Heidhausen; im Südosten Kupferdreh; im Norden Heisingen und Bredeney mit Ruhr als Grenzfluss
+  einzelhandelsangebot: nur wenige kleine Geschäfte; täglicher Bedarf wird in Heidhausen und Werden gedeckt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: gründungsereignis
+ENTITÄT: ort
+BEZEICHNUNG: Fischlaken
+FACETTE: POLITIK
 QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
 EIGENSCHAFTEN:
-  ereignis: Schenkung des Alfgatinghofes an Liudger durch Theganbalds
-  jahr: 796
-  empfänger: Werdener Klostergründer Liudger
-  folge: Entstehung des Dorfes Fischlaken
-  urkundliche_überlieferung: Abschrift der Schenkungsurkunde aus dem 10. Jahrhundert im Staatsarchiv Leiden
-GUELTIG_AB: 796
-IST_VERMUTLICH_AKTUELL: false
+  einwohner: 4353
+  einwohner_stand: 2025-03-31
+  bevölkerungsanteil_unter_18: 15.8, genauigkeit: "%"
+  bevölkerungsanteil_ab_65: 27.5, genauigkeit: "%"
+  auslaenderanteil: 8.0, genauigkeit: "%"
+  wahlbezirk: 40
+  wahlbezirk_umfasst: Bredeney, Fischlaken, Schuir
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2025
 VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: herrschaftliche_zugehörigkeit
-QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+ENTITÄT: stadtwappen
+BEZEICHNUNG: Stadtteilwappen Fischlaken
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_geschichte.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  herrschaft: Reichsabtei Werden
-  anfang_jahr: 796
-  end_jahr: 1803
-  endsgrund: Säkularisation aufgrund des Reichsdeputationshauptschlusses
-  wirtschaftlicher_betrieb: Agrarflächen, Fischteiche und Höfe unter Verwaltung der Abtei
-GUELTIG_AB: 796
-GUELTIG_BIS: 1803
-IST_VERMUTLICH_AKTUELL: false
+  blasonierung: In Blau zwischen silbernen erhöhten und erniedrigten Balken ein waagerechter silberner Fisch
+  typ: redendes Wappen
+  designer: Kurt Schweder
+  symbolik: spielt auf Namen an; drückt stehendes Gewässer mit reichem Fischbestand aus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: see
+BEZEICHNUNG: Baldeneysee
+FACETTE: FREIZEIT | LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  groesse_rang: größter der sechs Ruhr-Stauseen
+  entstehung: 1933
+  bedeutung_fuer_ort: eines der beliebtesten Naherholungsgebiete in der Region
+  lage_zu_fischlaken: Norden des Stadtteils
+GUELTIG_AB: 1933
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: lehnshof
+BEZEICHNUNG: Haus Scheppen
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: Ehemaliger Lehnshof der Herren von Scheppen
+  zeit_mittelalter: aus dem Mittelalter
+  lage: am Baldeneysee
+  erhaltene_reste: aus dem 17. Jahrhundert
+  bedeutung_fuer_ort: Sehenswürdigkeit, überregional bekannter Motorradtreff
+  nutzung_heute: See-Café, Ausflugsort
+IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: administrative_einheit
-QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
-EIGENSCHAFTEN:
-  name: Gemeinde Siebenhonnschaften
-  teile: Heidhausen, Hamm, Holsterhausen, Klein-Umstand, Hinsbeck, Rodberg, Fischlaken
-  übergeordnet: Bürgermeisterei Werden-Land des Landkreises Essen
-  anfang_jahr: 1803
-  end_jahr: 1929
-  endziel: Eingemeindung zur Stadt Essen
-GUELTIG_AB: 1803
-GUELTIG_BIS: 1929
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: zeche
-BEZEICHNUNG: Richradt
-QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
-EIGENSCHAFTEN:
-  abbau_art: Steinkohleabbau
-  betriebsbeginn: 1578
-GUELTIG_AB: 1578
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: zeche
-BEZEICHNUNG: Pörtingsiepen
-QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+ENTITÄT: bergwerk
+BEZEICHNUNG: Zeche Pörtingsiepen
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
   betriebszeit: 1779-1973
-  arbeitsplätze_max: 2000
-  arbeitsplätze_kontext: zeitweise
-GUELTIG_AB: 1779
+  status: 1973 stillgelegt, letzte Zeche in Fischlaken
+  denkmal: Seilscheibe des Fördergerüstes aufgestellt
+  arbeitplaetze: gab zeitweise über 2000 Menschen Arbeit
 GUELTIG_BIS: 1973
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: denkmal
-BEZEICHNUNG: Seilscheibe des Fördergerüstes
-QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+ENTITÄT: museumsbahn
+BEZEICHNUNG: Hespertalbahn
+FACETTE: FREIZEIT | GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  standort_beschreibung: Gelände der ehemaligen Zeche Pörtingsiepen
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: wappen
-QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
-EIGENSCHAFTEN:
-  entworfer: Kurt Schweder
-  blasonierung: In Blau zwischen silbernen (weißen) erhöhten und erniedrigten Balken ein waagerechter silberner (weißer) Fisch
-  wappentyp: redendes Wappen
-  offiziell_ursprünglich: false
-  offizialisierung_zeit: Ende 1980er Jahre
-  offizialisierung_umstand: Heraldiker schuf Wappen für alle Essener Stadtteile
-  rezeption: von der Essener Bevölkerung gut angenommen
-  bedeutung_früherer_schreibweisen: Fis(e)lacu und Wislaken sind Bezeichnungen für stehendes Gewässer mit reichem Fischbestand
-GUELTIG_AB: 1980
+  ursprung: Ehemalige Schmalspurbahn
+  ursprungszweck: Erschließung der Zeche Pörtingsiepen
+  streckenverlauf: von Essen-Kupferdreh bis Haus Scheppen
+  betrieb_heute: historische Dampf- und Diesellokomotiven
+  betriebstage: 25 Tage im Jahr
+  bedeutung_fuer_ort: erinnert an alte Zeiten des Schienenverkehrs
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Ruhrtalradweg
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 230, genauigkeit: "km"
+  streckenverlauf: von der Ruhrquelle in Winterberg bis zur Mündung in den Rhein bei Duisburg
+  lage_zu_fischlaken: verläuft am Südufer des Baldeneysees durch Fischlaken
+  beschreibung: beliebter Radweg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: radroute
+BEZEICHNUNG: Essen Erfahren - Route Süd
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  streckenverlauf: ausgeschilderte Route rund um den Baldeneysee mit Abstecher ins Deilbachtal
+  lage_zu_fischlaken: führt am Südufer des Sees auch durch Fischlaken
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: hoefeplatz
+BEZEICHNUNG: Fischlaker Höfe
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: an der gleichnamigen Straße
+  beschreibung: Reihe von historischen Höfen
+  zeitspanne: 18. und 19. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schifffahrtslinie
+BEZEICHNUNG: Weiße Flotte Baldeney
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betrieb: Von April bis Oktober
+  strecke: vom Stauwehr in Essen-Werden bis zum Anleger in Essen-Kupferdreh
+  angebot: Ausflugsfahrten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
 ENTITÄT: kirche
 BEZEICHNUNG: Christi-Himmelfahrtskirche
+FACETTE: GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
 EIGENSCHAFTEN:
   konfession: katholisch
-  ursprung_jahr: 1952
-  ursprung_gebäude: Scheune des ehemaligen Wintgenhofes
-  ursprung_funktion: Notkirche
-  fenster_künstler: de Graaf (Werdener Glasmaler)
-  pfarrhaus_umbau_jahr: 1956
-  pfarrgemeinde_gründung: 1957
-  grundsteinlegung: 9. August 1963
-  einweihung: 20. Dezember 1964
-  einweihung_kontext: vierter Adventssonntag
-  standort: zwischen Wintgenstraße und Lürsweg
+  ursprung: 1952 aus der Scheune des ehemaligen Wintgenhofes als Notkirche entstanden
+  fenster: Werdener Glasmaler de Graaf
+  umbau_wintgenhof: 1956 Wohnhaus zum Pfarrhaus umgebaut
+  eigenstaendige_pfarrgemeinde_seit: ein Jahr nach 1956 (ehemalige Werdener Rektoratsgemeinde)
   architekt: Felix König aus Heisingen
+  grundsteinlegung: 1963-08-09
+  einweihung: 1964-12-20
+  lage: zwischen Wintgenstraße und Lürsweg
 GUELTIG_AB: 1952
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
 ENTITÄT: kirche
 BEZEICHNUNG: Zur Schmerzhaften Mutter Maria
+FACETTE: GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
 EIGENSCHAFTEN:
   konfession: katholisch
   status: wird nicht mehr finanziell durch das Bistum Essen unterstützt
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
 
 ---
 
 ENTITÄT: kirche
 BEZEICHNUNG: Jona-Kirche
+FACETTE: GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
 EIGENSCHAFTEN:
   konfession: evangelisch
-  standort: Am Schwarzen
-  architekten: Heinrich Otto Vogel und E. Brennecke
-  einweihung: 14. Februar 1965
+  lage: Am Schwarzen
+  architekt: Heinrich Otto Vogel, E. Brennecke
+  einweihung: 1965-02-14
 GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gemeinde
+BEZEICHNUNG: Neuapostolische Gemeinde Fischlaken
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  bestand: 1908-2008
+  kirchengebaeude_errichtet: 1968
+  kirchengebaeude_beschreibung: turmloses Kubus
+  kirchengebaeude_lage: Wintgenstraße
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: BSV Gut Schuss Essen-Fischlaken 07 e.V.
+FACETTE: ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Bürgerschützenverein
+  adresse: Laupendahler Landstraße 47
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: kirche
-BEZEICHNUNG: Neuapostolische Gemeinde Fischlaken
+ENTITÄT: verein
+BEZEICHNUNG: Essener Yacht-Club e.V.
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Segelclub
+  adresse: Hardenbergufer 375
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Segelkameradschaft Scheppen e.V.
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Segelverein
+  adresse: Hardenbergufer 268
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: reitanlage
+BEZEICHNUNG: Reitstall und Reitschule Landwirtschaft Maas
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Maasstraße 13
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Heidhauser Reiterverein Maashof
+FACETTE: FREIZEIT
 QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
 EIGENSCHAFTEN:
-  konfession: neuapostolisch
-  bestand_von: 1908
-  bestand_bis: 2008
-  kirchengebäude_errichtung: 1968
-  kirchengebäude_beschreibung: turmloses Kubus an der Wintgenstraße
-GUELTIG_AB: 1908
-GUELTIG_BIS: 2008
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
+  lage: Maashof
+  ursprung: seit 1512 abteilich-werdenscher Behandigungshof Padberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Fischlaker Begräbnisverein
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1877
+  gruendungsanlass: Initiative von Fischlaker Bürgern
+  ursprung: Überführung von Toten mit Heuwagen zur Friedhofskapelle
+  innovation: Leichenwagen für verstorbene Mitglieder
+  betriebsform: Sterbekasse
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
 ENTITÄT: schule
-BEZEICHNUNG: Bernhardschule
+BEZEICHNUNG: Bernhardschule / Ruhrtalschule
+FACETTE: GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
 EIGENSCHAFTEN:
-  gründung: 1782
-  gründungserlaubnis_durch: Werdener Abt Bernhard II.
-  gründungsinitianten: Pächter des Hauses Scheppen und Bauern von Fischlaken
-  name_initial: Schule am Stüfken
-  standort_initial: an der heutigen Fischlaker Straße
-  konfession: katholisch
-  gebäude_brand: 1885
-  neubau_jahr: 1885
-  neubau_form: Steinhaus für die katholische Bernhardschule
-  umwandlung_1969: Sonderschule mit Namen Ruhrtalschule
-GUELTIG_AB: 1782
-IST_VERMUTLICH_AKTUELL: false
+  ursprung: 1782 Schule zu errichten erlaubt durch Abt Bernhard II.
+  ursprungsname: Schule am Stüfken
+  umbenennung: später nach dem Abt benannt
+  lage_ursprung: heutige Fischlaker Straße
+  lage_ersatz: Steinhaus nach Brand
+  baujahr_ersatz: 1885
+  funktion_ab_1969: Sonderschule Ruhrtalschule
+IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
 ENTITÄT: schule
 BEZEICHNUNG: Luisenschule
+FACETTE: GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
 EIGENSCHAFTEN:
   konfession: evangelisch
-  erbauung: 1910
-  standort: Bernhardstraße
-  schließung: 1939
-  zerstörung: 1943
-  zerstörungskontext: Zweiter Weltkrieg
+  baujahr: 1910
+  lage: Bernhardstraße
+  schliessung: 1939
+  zerstoerung: 1943 im Zweiten Weltkrieg
 GUELTIG_AB: 1910
 GUELTIG_BIS: 1943
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
 ENTITÄT: schule
-BEZEICHNUNG: Peter-Ullner-Schule
+BEZEICHNUNG: Peter-Ullner-Schule / Fischlaker Grundschule
+FACETTE: GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
 EIGENSCHAFTEN:
-  heutiger_name: Fischlaker Grundschule
-  eröffnung: 14. September 1955
+  eroeffnung: 1955-09-14
   konfession: konfessionslos
 GUELTIG_AB: 1955
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: lehnshof
-BEZEICHNUNG: Haus Scheppen
-QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
-EIGENSCHAFTEN:
-  art: ehemaliger adeliger Lehnshof
-  alter_jahrhundert: 13. Jahrhundert
-  standort: am Baldeneysee
-GUELTIG_AB: 1300
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: museum
-BEZEICHNUNG: Hespertalbahn
-QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
-EIGENSCHAFTEN:
-  art: Museumsbahn
-  fahrzeuge: historische Dampf- und Diesellokomotiven
-  betriebstage_pro_jahr: 25
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: freizeit_attraktion
-BEZEICHNUNG: Motorradtreff
-QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
-EIGENSCHAFTEN:
-  standort: Baldeneysee
-  bedeutung: überregional bekannt
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: freizeit_attraktion
-BEZEICHNUNG: Weiße Flotte
-QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
-EIGENSCHAFTEN:
-  gewässer: Baldeneysee
-  angebot: Ausflugsfahrten
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: siedlung
-BEZEICHNUNG: Werkssiedlung
-QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
-EIGENSCHAFTEN:
-  standort: Lürsweg und Lürshöhe
-  bau_zeitraum: 1950er Jahre
-  vorbild: Gartenstadt
-  bauweise: freistehende Ein- und Zweifamilienhäuser
-GUELTIG_AB: 1950
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: flur
-BEZEICHNUNG: Weinberg
-QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
-EIGENSCHAFTEN:
-  lage: teilweise auf Werdener Gebiet
-  historische_straßennamen: Rebenranke, Rebstock, Weinberg
-  namensherkunft_vermutung: Alter Weinberg bei Kettwig (1877 erwähnt); Historiker vermuten Verbindung nach Fischlaken
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.65
-
----
-
-ENTITÄT: verkehrs_infrastruktur
-BEZEICHNUNG: Bundesstraße 224
-QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
-EIGENSCHAFTEN:
-  bedeutung: wichtige Essener Verkehrsader
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: verein
-BEZEICHNUNG: Heidhauser Reiterverein Maashof
-QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
-EIGENSCHAFTEN:
-  angebunden_an: Maashof
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.7
-
----
-
-ENTITÄT: historischer_hof
-BEZEICHNUNG: Padberg
-QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
-EIGENSCHAFTEN:
-  art: abteilich-werdenscher Behandigungshof
-  erste_erwähnung: 1512
-  verbindung_zu: Maashof
-GUELTIG_AB: 1512
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: verein
-BEZEICHNUNG: Fischlaker Begräbnisverein
-QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
-EIGENSCHAFTEN:
-  gründung_jahr: 1877
-  gründung_initiative: Fischlaker Bürger
-  organisationsform: Sterbekasse
-  historische_funktion: Überführung Verstorbener mit eigenem Leichenwagen statt mit Heuwagen zur Friedhofskapelle
-GUELTIG_AB: 1877
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: politiker
-BEZEICHNUNG: Hans Toussaint
-QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
-EIGENSCHAFTEN:
-  beruf: Großhandelskaufmann
-  partei: CDU
-  vertreter_wahlbezirk: 40
-  vertreter_gemeinden: Bredeney, Fischlaken, Schuir
-  rat_stadt: Essen
-  rat_zeitraum: 1946-1975
-  oberbürgermeister_stadt: Essen
-  oberbürgermeister_zeitraum: 1949-1956
-GUELTIG_AB: 1946
-GUELTIG_BIS: 1975
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: politiker
-BEZEICHNUNG: Wolfgang Reiniger
-QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
-EIGENSCHAFTEN:
-  beruf: Rechtsanwalt und Notar
-  partei: CDU
-  vertreter_wahlbezirk: 40
-  vertreter_gemeinden: Bredeney, Fischlaken, Schuir
-  rat_stadt: Essen
-  rat_zeitraum: 1975-1999
-  oberbürgermeister_stadt: Essen
-  oberbürgermeister_wahl: 1999
-  oberbürgermeister_wiederwahl: 2004
-GUELTIG_AB: 1975
-GUELTIG_BIS: 1999
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: politiker
-BEZEICHNUNG: Matthias Hauer
-QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
-EIGENSCHAFTEN:
-  beruf: Rechtsanwalt
-  partei: CDU
-  rat_stadt: Essen
-  rat_wahlbezirk: 40
-  rat_zeitraum: 2004-2009
-  wahlkampfergebnis: stadtweit höchstes CDU-Ergebnis
-  gewählungswiederholung: 2004 und 2009
-GUELTIG_AB: 2004
-GUELTIG_BIS: 2009
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: politiker
-BEZEICHNUNG: Ulrich Beul
-QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
-EIGENSCHAFTEN:
-  partei: CDU
-  vertreter_von: Fischlaken
-  rat_stadt: Essen
-  rat_seit: 2014
-GUELTIG_AB: 2014
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: bevölkerungsstatistik
-QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
-EIGENSCHAFTEN:
-  einwohner: 4353
-  einwohner_stand: 31. März 2025
-  anteil_unter_18_prozent: 15.8
-  anteil_unter_18_prozent_essener_vergleich: 16.9
-  anteil_ab_65_prozent: 27.5
-  anteil_ab_65_prozent_essener_vergleich: 21.7
-  ausländeranteil_prozent: 8.0
-  ausländeranteil_prozent_essener_vergleich: 20.6
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: gewässer
-BEZEICHNUNG: Baldeneysee
+ENTITÄT: politician
+BEZEICHNUNG: Hans Toussaint
+FACETTE: POLITIK
 QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
 EIGENSCHAFTEN:
-  standort_bezug: bei Fischlaken
-  attraktionen: Haus Scheppen, überregional bekannter Motorradtreff, Weiße Flotte mit Ausflugsfahrten
+  partei: CDU
+  beruf: Großhandelskaufmann
+  wahlbezirk: 40 (Bredeney, Fischlaken, Schuir)
+  wahlperiode: 1946-1975
+  amt_oberbuergermeister: 1949-1956
+GUELTIG_AB: 1946
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: politician
+BEZEICHNUNG: Wolfgang Reiniger
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  beruf: Rechtsanwalt und Notar
+  wahlbezirk: 40 (Bredeney, Fischlaken, Schuir)
+  wahlperiode: 1975-1999
+  amt_oberbuergermeister: 1999-2004
+GUELTIG_AB: 1975
+GUELTIG_BIS: 1999
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: politician
+BEZEICHNUNG: Matthias Hauer
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  beruf: Rechtsanwalt
+  wahlbezirk: 40 (Bredeney, Fischlaken, Schuir)
+  wahlperioden: 2004, 2009
+  besonderheit: stadtweit höchstes CDU-Ergebnis
+GUELTIG_AB: 2004
+GUELTIG_BIS: 2009
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: politician
+BEZEICHNUNG: Ulrich Beul
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  wahlbezirk: 40 (Bredeney, Fischlaken, Schuir)
+  vertreter_seit: 2014
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
+GUELTIG_AB: 2014
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: siedlung
+BEZEICHNUNG: Werkssiedlung an Lürsweg und Lürshöhe
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  erbauung: 1950er Jahre
+  vorbild: Gartenstadt
+  charakterisierung: freistehende Ein- und Zweifamilienhäuser
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bundesstraße 224
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  bedeutung: direkte Anbindung als wichtige Essener Verkehrsader
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Zentrale Haltestelle Fischlaker Straße
+FACETTE: INFRA
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_statistik.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bus_linie: 180
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnhof Essen-Werden
+FACETTE: INFRA
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_statistik.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entfernung: nächstgelegen
+  sbahn_linie: S6
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gewaesser
+BEZEICHNUNG: Ruhr
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Grenzfluss (nördliche Grenze zwischen Fischlaken und Heisingen/Bredeney)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: flur
+BEZEICHNUNG: Flur Weinberg
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  lage: teilweise auf Werdener Gebiet
+  fruehe_strassennamen: Rebenranke, Rebstock, Weinberg
+  fruehe_verwendung: Weinbau
+  historischer_beleg: alter Weinberg bei Kettwig bereits 1877 erwähnt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Seilscheibe des Fördergerüstes Zeche Pörtingsiepen
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  ursprung: Fördergerüst der Zeche Pörtingsiepen
+  aufstellung: als Denkmal aufgestellt
+  erinnerung: an die stillgelegte Zeche und Bergbaugeschichte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Fischlaken
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  archaeologische_funde: Feuersteine aus Bronzezeit, Mittelsteinzeit, Altsteinzeit (um 30000 v.Chr.)
+  gruben_und_pfoestenloecher: lassen auf sehr frühe Besiedlung schließen
+  erste_namentliche_erwaehnung: 8. Jahrhundert
+  schenkungs_ereignis_796: Theganbalds überträgt Alfgatinghof an Liudger (Werdener Klostergründer)
+  schenkungsurkunde_fundort: Staatsarchiv Leiden (Abschrift aus 10. Jahrhundert)
+  wirtschaft_urspruenglich: Land- und Forstwirtschaft
+  steinkohleabbau_beginn: 1578 auf Zeche Richradt
+  industrielle_nutzung: ausgehend 19. und beginnend 20. Jahrhundert, heute nur wenige Zeugnisse
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

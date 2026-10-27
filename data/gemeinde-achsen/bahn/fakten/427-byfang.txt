@@ -1,581 +1,854 @@
 ID: 427-byfang/001
 ENTITÄT: ort
 BEZEICHNUNG: Byfang
+FACETTE: LAGE | LANDSCHAFT
 QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
 EIGENSCHAFTEN:
-  stadtteil_von: Essen
-  lage: südöstlich
-  charakter: dörflich-ländlich
-  hoehe_durchschnitt: 114 [m ü. NN]
+  ist_stadtteil_von: Essen
+  lage: südöstlich der Stadt Essen
+  gehort_zu_ruhrhalbinsel: true
+  historische_regionen: Hattingen-Niederwenigern, Bergisches Land (14.–15. Jh.)
+  durchschnittliche_hoehe: 114 [m ü. NN]
   hoehe_min: 50 [m ü. NN]
   hoehe_max: 190 [m ü. NN]
-  naturraum: Ruhrschichtrippland
-  landschaft: Niederbergisch-Märkisches Hügelland
-  gehoert_historisch_zu: Ruhrhalbinsel
-  gehoert_historisch_zu: Bergisches Land
-  gueltig_ab: 1300
-  gueltig_bis: 1500
-  einwohner: 2053
-  gueltig_ab: 2025
-  gueltig_bis: 2025
-  bevölkerung_unter_18: 14.4 [%]
-  bevölkerung_ab_65: 32.0 [%]
-  auslaenderanteil: 2.7 [%]
-  namensherkunft: "Altdeutsches Bifang (befangen: umfangen, einschließen), urspr. ein eingefriedetes Feld bzw. in die Feldflur des Stiftes Rellinghausen einbezogenes Ackerland"
+  naturraum: Niederbergisch-Märkisches Hügelland, Ruhrschichtrippelland
+  charakter: dörflich-ländlich
+  bebaute_flaeche_anteil: 15 [%]
+  grenzgewässer: Ruhr (Westen), Deipenbecke/Köttelbecke (Osten)
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 427-byfang/002
 ENTITÄT: ort
-ORTSTEIL_BEZUG: Unterbyfang
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+BEZEICHNUNG: Byfang
+FACETTE: ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/byfang/byfang_statistik.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  beschreibung: "Südlicher Teil Byfangs, umfasst Gegend um Düschenhofer Wald und Fahrenberg bis zur Bushaltestelle Engels"
+  charakter_beschreibung: ländlicher Charakter, zahlreiche Pferdeweiden, Fachwerkhäuser, ruhig, wenig Verkehr, Einzel- und Doppelhausbebauung
+  bebauungstyp_dominant: Einzel- und Doppelhausbebauung
+  zielgruppe: Familien
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 427-byfang/003
 ENTITÄT: ort
-ORTSTEIL_BEZUG: Oberbyfang
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+BEZEICHNUNG: Byfang
+FACETTE: GESCHICHTE | IDENTITÄT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/byfang/geschichte_byfang.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  beschreibung: "Nördlicher Teil Byfangs, umfasst Gegend vom Dattenberg bis zur Kohlenstraße und zum Eisenhammer-Sportplatz"
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+  ersterwahnung: 1124
+  ersterwahnung_quelle: Schenkungsurkunde des Stiftes Rellinghausen
+  ersterwahnung_name: Rellimghouser Biefang
+  namensherkunft: Rodung und Landgewinn (altdeutsch "Bifang": umfangen, einschließen)
+  urspruengliche_entitaet: Bauerschaft des Stiftes Rellinghausen
+  gehoert_zu_essen_seit: 1929-08-01
+  ist_eigenstaendiger_stadtteil_seit: 1929-08-01
+GUELTIG_AB: 1124
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 427-byfang/004
-ENTITÄT: person
-BEZEICHNUNG: Mathilde (Mechthild I.)
+ENTITÄT: ort
+BEZEICHNUNG: Byfang
+FACETTE: POLITIK | DEMOGRAFIE
 QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
 EIGENSCHAFTEN:
-  titel: Essener Äbtissin
-  herkunft: Enkelin Kaiser Ottos I.
-  handlung: gründete Damenstift Rellinghausen
-  grund: Versorgung unverheirateter Töchter des niederen Adels
-  gueltig_ab: 996
-  beschreibung_verbindung: "Deren Stiftsgüter umfassten ab 1124 auch Byfang"
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+  einwohnerzahl: 2053
+  einwohnerzahl_stand: 2025-03-31
+  anteil_unter_18: 14.4 [%]
+  anteil_ueber_65: 32.0 [%]
+  auslaenderanteil: 2.7 [%]
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 427-byfang/005
-ENTITÄT: institution
-BEZEICHNUNG: Stift Rellinghausen
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+ENTITÄT: ort
+BEZEICHNUNG: Byfang
+FACETTE: INFRA
+QUELLE: https://www.essen.de/dasistessen/stadtteile/byfang/byfang_statistik.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  typ: Damenstift
-  gruender: Mathilde (Mechthild I.)
-  gegruendet: 996
-  zweck: "Aufnahme unverheirateter Töchter des niederen Adels"
-  besitztum_byfang: Byfang
-  besitztum_weitere: "Hinsel, Holthausen, Rellinghausen, Hardenberg"
-  erste_erwähnung_byfang: 1124
-  erste_erwähnung_byfang_form: "Rellinkuoser biefang"
-  vergleich_stift_essen: 1661
-GUELTIG_AB: 996
-IST_VERMUTLICH_AKTUELL: false
+  autobahn_anbindung: A 44
+  oeffentliche_verkehrsmittel_bus: 141, 155, 176, 177, 180, NE6
+  naechster_bahnhof: Kupferdreh (S-Bahn S9)
+IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 427-byfang/006
-ENTITÄT: person
-BEZEICHNUNG: Freiherren von Hardenstein
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+ENTITÄT: stadtteilwappen
+BEZEICHNUNG: Stadtteilwappen Byfang
+FACETTE: GESCHICHTE | IDENTITÄT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/byfang/geschichte_byfang.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  handlung: gründeten vermutlich Byfang
-  genauigkeit: vermutlich
-  beschreibung_verbindung: "Gründung im Auftrag des Stiftes Rellinghausen angenommen"
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.6
----
-ID: 427-byfang/007
-ENTITÄT: institution
-BEZEICHNUNG: Gericht Byfang
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  typ: Gerichtsbarkeit
-  herr: Stift Rellinghausen (Vogt)
-  erste_lokation: "Breuerhof Ecke Niederweniger Straße / Düschenhofer Wald"
-  zweite_lokation: Gerichtshaus
-  gerichtsherr_1661_bis: Alexander von Drimborn zu Baldeney
-  gerichtsherr_vorher: "Essener Fürstäbtissin Anna Salome (bis 1661)"
-  letzter_richter: Franz Forst
-  letzter_richter_ernannt: 1805
-  bestand_bis: 1812-02-01
-  danach: "Friedensgericht der französischen Gerichtsverfassung"
-  seit: 1815
-  danach_preussen: "Landgericht Werden"
-  gerichtshaus_brand: 1817
-  gerichtshaus_abgerissen: 1817
-  nebennutzung: Gemeindehaus
-GUELTIG_AB: 1661
-GUELTIG_BIS: 1812
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.92
----
-ID: 427-byfang/008
-ENTITÄT: bauwerk
-BEZEICHNUNG: Gerichtshaus Alt-Byfang
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  typ: Gerichtsgebäude und Gemeindehaus
-  material: Bruchstein
-  nebenraum: unterirdisches Verlies (verputzt)
-  brand: 1817
-  abriss: 1817
-  beschreibung_unterirdisches_verlies: "Raum im unteren Bereich verputzt, Deckenöffnung zugemauert"
-  entdeckung: 1970er-Jahre (Bagger brach ein)
-  zuschlag_kupferdreh: 1920
-GUELTIG_AB: 1661
-GUELTIG_BIS: 1817
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 427-byfang/009
-ENTITÄT: kirche
-BEZEICHNUNG: St. Barbara
-ORTSTEIL_BEZUG: Unterbyfang
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  konfession: römisch-katholisch
-  kapellenverein_gegründet: 1898
-  bauplatz_gestiftet: 1902
-  bauplatz_gestifter: "Wirt des späteren Restaurants Schnitzler"
-  bauzeit: 1928-1929
-  weihe: 1929-08-12
-  material: Ruhrsandstein
-  hoehe: 130 [m ü. NN]
-  superlativ: "höchste Kirche der Ruhrhalbinsel"
-  friedhof_eingerichtet: 1945-10
-  kindergarten_eingerichtet: 1973
-  pfarrgemeinde_bis: 1929
-  pfarrgemeinde_gueltig_ab: 1929
-  fusion_pfarrgemeinde: 2006
-  fusion_zu: "Pfarrgemeinde St. Josef Essen Ruhrhalbinsel"
-  status: "Filialkirche seit 2008"
-  gueltig_ab: 2008
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.93
----
-ID: 427-byfang/010
-ENTITÄT: kindergarten
-ORTSTEIL_BEZUG: Byfang
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  konfession: römisch-katholisch
-  name: "Kindergarten Essen-Byfang"
-  begruendung_Jahr: 1973
-  ort: "bei St.-Barbara-Kirche"
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
----
-ID: 427-byfang/011
-ENTITÄT: schule
-BEZEICHNUNG: Schule Oberbyfang
-ORTSTEIL_BEZUG: Oberbyfang
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  typ: Volksschule (Grund- und Hauptschule)
-  konfession: römisch-katholisch
-  schulbetrieb_seit: 1769
-  schulbetrieb_form_anfang: "Unterricht in Gehöften"
-  erstes_schulhaus: unklar
-  erstes_schulgebaeude_klassenraeume: 4
-  nutzung_als_schule_bis: 1968
-  nachnutzung_1968_bis_2007: "Taubenklinik des Verbandes der Deutschen Brieftaubenzüchter"
-  nachnutzung_seit_2007: Wohnhaus
-GUELTIG_AB: 1769
-GUELTIG_BIS: 1968
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 427-byfang/012
-ENTITÄT: schule
-BEZEICHNUNG: Schule Unterbyfang
-ORTSTITEL_BEZUG: Unterbyfang
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  typ: Volksschule (Grund- und Hauptschule)
-  konfession: römisch-katholisch
-  location_saal_seit: 1869
-  saal_name: "Sperrbaum (später Schnitzler)"
-  neubau_eroeffnung: 1874-11
-  schueler_1904: 250
-  schueler_1904_klassenraeume: 4
-  schueler_1904_lehrer: 4
-  schließung: unklar
-  nachnutzung: Privatbesitz
-GUELTIG_AB: 1869
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
----
-ID: 427-byfang/013
-ENTITÄT: schule
-BEZEICHNUNG: evangelische Grundschule Langenberger Straße
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  konfession: evangelisch
-  location: "Langenberger Straße nahe heutige Auffahrt Theodor-Heuss-Brücke"
-  schliessung: unklar
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.7
----
-ID: 427-byfang/014
-ENTITÄT: bauwerk
-BEZEICHNUNG: Byfanger Wasserturm
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  typ: Wasserturm
-  hoehe: 190 [m ü. NN]
-  genauigkeit: "knapp"
-  superlativ: "höchster Punkt der gesamten Ruhrhalbinsel"
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 427-byfang/015
-ENTITÄT: person
-BEZEICHNUNG: Alexander von Drimborn zu Baldeney
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  rolle: Gerichtsherr Byfang
-  amtsbeginn: 1661
-  grund: "Vergleich mit Fürstäbtissin Anna Salome"
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 427-byfang/016
-ENTITÄT: person
-BEZEICHNUNG: Anna Salome
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  titel: "Essener Fürstäbtissin"
-  rolle: "Gerichtsherrin Byfang"
-  amtsende: 1661
-  grund_amtsende: "Vergleich mit Alexander von Drimborn"
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 427-byfang/017
-ENTITÄT: person
-BEZEICHNUNG: Franz Forst
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  titel: "Richter Byfang"
-  ernannt: 1805
-  letzter_richter: true
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
----
-ID: 427-byfang/018
-ENTITÄT: person
-BEZEICHNUNG: Kurt Schweder
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  rolle: Wappenentwerfer
-  wappen_entwurf: "Essener Stadtteilwappen"
-  zeitraum: "Ende 1980er-Jahre"
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 427-byfang/019
-ENTITÄT: wappen
-BEZEICHNUNG: Wappen Byfang (zeitgenössisch)
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  zeit: "ab Ende 1980er-Jahre"
-  entwerfer: Kurt Schweder
-  blasonierung: "In Silber (Weiß) ein rotes Andreaskreuz, belegt linksschräg mit einem silbernen (weißen) Zepter und darüber rechtsschräg drei silberne (weiße) Rosen"
-  annahme: "gut angenommen durch Essener Bevölkerung"
-  bedeutung_andreaskreuz: "altes Rechtssymbol, deutet auf gerichtliche Eigenständigkeit"
-  ursprung_rosen: "stammen vom Wappen der Herren von Drimborn"
+  heraldiker: Kurt Schweder
+  zeitraum_erstellung: Ende 1980er Jahre
+  offizielle_charakterisierung: nie offizieller Charakter
+  beschreibung: in Silber ein rotes Andreaskreuz, belegt mit silbernem Zepter und darüber drei silberne Rosen
+  symbolik_andreaskreuz: Rechtssymbol der gerichtlichen Eigenständigkeit
+  symbolik_zepter: Herrschaft, gerichtliche Eigenständigkeit
+  symbolik_rosen: stammen vom Wappen der Herren von Drimborn (seit 1661)
 GUELTIG_AB: 1980
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
-ID: 427-byfang/020
-ENTITÄT: wappen
-BEZEICHNUNG: Wappen Byfang (historisch)
+ID: 427-byfang/007
+ENTITÄT: stadtteilwappen
+BEZEICHNUNG: historisches Wappen Byfang
+FACETTE: GESCHICHTE | IDENTITÄT
 QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
 EIGENSCHAFTEN:
-  zeit: "seit 1124"
-  form: Andreaskreuz
-  symbol_statt_zepter: Schwert
-  farben: "Blau und Gelb"
-  rosen: "drei"
-  aufbewahrungsort: "Kerzenkapelle Kevelaer"
-  aufbewahrung_kontext: "in Kirchenfenstern mit Wappen aller Pilgerstätten nach Kevelaer"
+  gueltig_seit: 1124
+  beschreibung: Andreaskreuz mit Schwert, Farben Blau und Gelb, drei Rosen
+  aufbewahrungsort: Kerzenkapelle Kevelaer (einziges erhaltenes Exemplar)
+  bemerkung: in Fenstern mit Wappen traditioneller Pilgerorte nach Kevelaer
 GUELTIG_AB: 1124
 GUELTIG_BIS: 1980
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.85
 ---
-ID: 427-byfang/021
-ENTITÄT: person
-BEZEICHNUNG: Klaus Kohl
+ID: 427-byfang/008
+ENTITÄT: kirche
+BEZEICHNUNG: St. Barbara
+FACETTE: LAGE | LANDSCHAFT
 QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
 EIGENSCHAFTEN:
-  titel: "Pfarrer a.D., Dr. Dr."
-  rolle: "ehemaliger Pastor St. Barbara-Byfang"
-  stiftung: "KlausKohl-Stiftung"
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
+  hoehe_standort: 130 [m ü. NN]
+  superlativ: höchst gelegene Kirche der Ruhrhalbinsel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 427-byfang/009
+ENTITÄT: kirche
+BEZEICHNUNG: St. Barbara
+FACETTE: GESCHICHTE | IDENTITÄT
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_kapellenverein: 1898
+  bauplatz_stifter: Wirt des Restaurants Schnitzler (1902)
+  bauzeit: 1928-1929
+  weihetag: 1929-08-12
+  baumaterial: Ruhrsandstein (aus Steinbrüchen im Ruhrtal)
+  ortsteil_bezug: Unter-Byfang
+  friedhof_hinzufuegung: 1945-10
+  kindergarten_hinzufuegung: 1973
+  pfarrgemeinde_bis: 1929
+  pfarrgemeinde_eigenstaendigkeit_bis: 2006-04-01
+  bedeutung_fuer_ort: Dorfmittelpunkt und Identifikationspunkt des Stadtteils
+GUELTIG_AB: 1929
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 427-byfang/010
+ENTITÄT: wasserturm
+BEZEICHNUNG: Byfanger Wasserturm
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/byfang/byfang_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 181 [m ü. NN]
+  hoehe_standort_ueber_meeresspiegel: 181 [m ü. NN]
+  superlativ: höchster Punkt der gesamten Ruhrhalbinsel
+  lage_stadtteil: Byfang
+  adresse: Niederweniger Straße 257c
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 427-byfang/011
+ENTITÄT: wasserturm
+BEZEICHNUNG: Byfanger Wasserturm
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/byfang/byfang_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_aussichtspunkt: true
+  ausblick_beschreibung: weite Teile des Ruhrgebiets, Essener Skyline, Arena Gelsenkirchen, Tetraeder Bottrop
+  bedeutung_fuer_ort: Sehenswürdigkeit und Aussichtspunkt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 427-byfang/012
+ENTITÄT: fest
+BEZEICHNUNG: Byfanger Bergfest
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: Gemeinde- und Stadtteilfest
+  organisatoren: alle Byfanger Vereine, Gruppen und Verbände gemeinsam
+  zielgruppe: alle Byfanger und Ruhrhalbinsulaner
+  groesste_veranstaltung: alljährlich größtes Fest in Byfang
+  bedeutung_fuer_ort: wesentlicher Bestandteil des Byfanger Gemeinwesens, trägt maßgeblich zur Identität des Stadtteils bei
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 427-byfang/013
+ENTITÄT: fest
+BEZEICHNUNG: Barbarafest
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  organisator: Förderverein St. Barbara Byfang e.V.
+  haeufigkeit: jährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 427-byfang/014
+ENTITÄT: fest
+BEZEICHNUNG: Sankt-Martins-Zug
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  haeufigkeit: jährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 427-byfang/015
+ENTITÄT: fest
+BEZEICHNUNG: Byfanger Oktoberfest zu Erntedank
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  termin: letzter Sonntag September
+  seit: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 427-byfang/016
+ENTITÄT: fest
+BEZEICHNUNG: Kartoffelfest
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  organisator: Freiwillige Feuerwehr
+  haeufigkeit: jährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 427-byfang/017
+ENTITÄT: fest
+BEZEICHNUNG: Karnevalsgänsereiten
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  haeufigkeit: jährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 427-byfang/018
+ENTITÄT: fest
+BEZEICHNUNG: Reitturnier des Reitvereins
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  organisator: Reiterverein Byfang
+  termin: drittes Septemberwochenende
+  charakterisierung: großes Reitturnier
+  haeufigkeit: jährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 427-byfang/019
+ENTITÄT: fest
+BEZEICHNUNG: Tierausstellung
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  organisator: Rassegeflügelzuchtverein (RGZV) Byfang
+  termin: erstes Oktoberwochenende
+  haeufigkeit: jährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 427-byfang/020
+ENTITÄT: verein
+BEZEICHNUNG: Reiterverein Byfang
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://www.essen.de/dasistessen/stadtteile/byfang/byfang_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1923
+  adresse: Kleinheide 7
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 427-byfang/021
+ENTITÄT: verein
+BEZEICHNUNG: Freiwillige Feuerwehr Byfang
+FACETTE: ALLTAG | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1909
+  rolle: fester Bestandteil des sozialen Netzes
+  funktionen: neben Alltagsaufgaben auch soziale Aufgaben (Christbäume und Krippe aufbauen/abbauen, Martinszug, Bergfest, Picco-Bello-Sauberaktion)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 427-byfang/022
-ENTITÄT: stiftung
-BEZEICHNUNG: KlausKohl-Stiftung
+ENTITÄT: verein
+BEZEICHNUNG: Dilettantenverein Wohltun Byfang
+FACETTE: FREIZEIT | KULTUR
 QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
 EIGENSCHAFTEN:
-  stifter: "Pfarrer a.D. Dr. Klaus Kohl (ehemaliger Pastor St. Barbara-Byfang)"
-  benannt_nach: Klaus Kohl
-  foerderung: "Aktivitäten zur Kultur- und Weiterbildung"
-  zielgruppe: "Kinder, Jugendliche und Erwachsene unter 30 Jahren des Stadtteils"
+  spezialisierung: Karneval und Theater
+  aktivitaeten: Theater- und Karnevalsabende
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 427-byfang/023
 ENTITÄT: verein
-BEZEICHNUNG: Freiwillige Feuerwehr Byfang
+BEZEICHNUNG: Sportgemeinschaft Kupferdreh-Byfang
+FACETTE: FREIZEIT
 QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
 EIGENSCHAFTEN:
-  gegruendet: 1909
-  rolle_social: "fester Bestandteil des sozialen Netzes"
-  aufgaben: "neben Alltagsaufgaben auch soziale Aufgaben (Christbäume, Krippe, Martinszug, Byfanger Bergfest)"
+  sportarten: Fußball, Badminton, Gymnastik, Tennis, Volleyball
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 427-byfang/024
 ENTITÄT: verein
-BEZEICHNUNG: Dilettantenverein Wohltun Byfang
+BEZEICHNUNG: Junge Gemeinschaft Byfang
+FACETTE: FREIZEIT | KULTUR
 QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
 EIGENSCHAFTEN:
-  typ: "Karneval- und Theaterverein"
+  zielgruppe: Kinder, Jugendliche, junge Erwachsene (U30er)
+  funktion: unterstützt Jungen-Gemeinde-Arbeit
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
+VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 427-byfang/025
 ENTITÄT: verein
-BEZEICHNUNG: Reiterverein Byfang
+BEZEICHNUNG: Rassegeflügelzuchtverein Byfang und Umgegend
+FACETTE: ALLTAG
 QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
 EIGENSCHAFTEN:
-  typ: Reiterverein
+  spezialisierung: Rassegeflügelzucht
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
+VERTRAUEN_EXTRAKTION: 0.85
 ---
 ID: 427-byfang/026
 ENTITÄT: verein
-BEZEICHNUNG: Rassegeflügelzuchtverein Byfang und Umgegend
+BEZEICHNUNG: Schachverein "Germania"
+FACETTE: FREIZEIT
 QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
 EIGENSCHAFTEN:
-  typ: Geflügelzuchtverein
+  spezialisierung: Schach
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
+VERTRAUEN_EXTRAKTION: 0.85
 ---
 ID: 427-byfang/027
 ENTITÄT: verein
 BEZEICHNUNG: Verein Hornus Byfang
+FACETTE: ALLTAG
 QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
 EIGENSCHAFTEN:
-  beschreibung: unbekannt
-IST_VERMUTISCH_AKTUELL: true
+  beschreibung: Vereinigung ohne nähere Informationen im Text
+IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.5
 ---
 ID: 427-byfang/028
-ENTITÄT: verein
-BEZEICHNUNG: Schachverein "Germania"
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Junge Gemeinde Essen-Byfang
+FACETTE: FREIZEIT | KULTUR
 QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
 EIGENSCHAFTEN:
-  typ: Schachverein
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
----
-ID: 427-byfang/029
-ENTITÄT: verein
-BEZEICHNUNG: Sportgemeinschaft Kupferdreh-Byfang e.V.
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  typ: Sportverein
-  sportarten: "Fußball, Badminton, Gymnastik, Tennis, Volleyball"
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
----
-ID: 427-byfang/030
-ENTITÄT: verein
-BEZEICHNUNG: Förderverein St. Barbara Byfang e.V.
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  typ: "Förderverein der St.-Barbara-Kirche"
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
----
-ID: 427-byfang/031
-ENTITÄT: verein
-BEZEICHNUNG: Junge Gemeinschaft Byfang
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  zweck: "Engagement für Kinder, Jugendliche und junge Erwachsene (U30)"
-  tätigkeit: "Unterstützung bestehender Gruppierungen der Jungen-Gemeinde-Arbeit"
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
----
-ID: 427-byfang/032
-ENTITÄT: verein
-BEZEICHNUNG: Katholische Junge Gemeinde (KJG) Essen-Byfang
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  typ: "kirchliche Jugendgemeinschaft"
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
----
-ID: 427-byfang/033
-ENTITÄT: verein
-BEZEICHNUNG: Katholische Frauengemeinschaft Deutschlands (kfd) Essen-Byfang
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  typ: "kirchliche Frauengemeinschaft"
-  vorgaengerin: "Mütterbund"
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
----
-ID: 427-byfang/034
-ENTITÄT: verein
-BEZEICHNUNG: Kevelaer Wallfahrtsgemeinschaft Essen-Byfang
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  typ: Wallfahrtsgemeinschaft
-  ziel: Kevelaer
-  pilgerfahrten_seit: 1836
-  verbindung_wappen: "Fenster in Kerzenkapelle Kevelaer seit 1836"
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
----
-ID: 427-byfang/035
-ENTITÄT: organisation
-BEZEICHNUNG: ACAT Essen-Byfang
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  beschreibung: unbekannt
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.4
----
-ID: 427-byfang/036
-ENTITÄT: organisation
-BEZEICHNUNG: Ökumenischer Eine-Welt-Stand Ruhrhalbinsel
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  typ: "Ökumenische Arbeitsgruppe"
-  ursprung: "urspr. Byfang-Kupferdreh"
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
----
-ID: 427-byfang/037
-ENTITÄT: band
-BEZEICHNUNG: Kirchenchor St. Barbara
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  typ: Kirchenchor
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
----
-ID: 427-byfang/038
-ENTITÄT: band
-BEZEICHNUNG: Barbarachor
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  typ: Chor
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
----
-ID: 427-byfang/039
-ENTITÄT: band
-BEZEICHNUNG: Kinderchor Byfang
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  typ: Kinderchor
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
----
-ID: 427-byfang/040
-ENTITÄT: band
-BEZEICHNUNG: Dunkel Blond
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  typ: Gesangsduo
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.7
----
-ID: 427-byfang/041
-ENTITÄT: band
-BEZEICHNUNG: Fein-Herb
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  typ: Band
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.7
----
-ID: 427-byfang/042
-ENTITÄT: band
-BEZEICHNUNG: Under Cover
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  typ: Band
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.7
----
-ID: 427-byfang/043
-ENTITÄT: band
-BEZEICHNUNG: Kindergarten-Eltern-Chor und -Band
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  typ: "Chor und Band"
-  herkunft: "Kindergarten St. Barbara"
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.7
----
-ID: 427-byfang/044
-ENTITÄT: band
-BEZEICHNUNG: Byfanger Band
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  typ: Band
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.7
----
-ID: 427-byfang/045
-ENTITÄT: gewaesser
-BEZEICHNUNG: Deipenbecke
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  allgemeiner_name: "Köttelbecke"
-  funktion_grenze: "bildet Grenze zwischen Byfang und Burgaltendorf"
-  historische_grenze: "historische Grenze zwischen Westfalen und Rheinland"
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 427-byfang/046
-ENTITÄT: gewaesser
-BEZEICHNUNG: Deilbach
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  funktion_grenze: "grenzt Byfang zu Kupferdreh ab"
-  historische_grenze: "nach anderer historischer Interpretation: Grenze zwischen Westfalen und Rheinland (statt Deipenbecke)"
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
----
-ID: 427-byfang/047
-ENTITÄT: gewaesser
-BEZEICHNUNG: Ruhr
-QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
-EIGENSCHAFTEN:
-  funktion_grenze: "westliche Grenze Byfangs (zu Heisingen)"
-  historische_funktion: "nördliche Grenze des Bergischen Landes (seit 14.-15. Jh.)"
-  historische_funktion: "Grenze zwischen Essener Fürstbistum und Herzogtum Berg"
+  funktion: kirchlicher Verband für Jugendliche
+  aktivitaeten: Theater- und Karnevalsabende, Kinderferienfreizeiten (2-jährlich), Kinderfeste
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
-ID: 427-byfang/048
-ENTITÄT: grenzgebiet
-BEZEICHNUNG: Ruhrhalbinsel
+ID: 427-byfang/029
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Frauengemeinschaft Deutschlands (kfd) Essen-Byfang
+FACETTE: ALLTAG
 QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
 EIGENSCHAFTEN:
-  beschreibung: "Gebiet auf der anderen Seite der Ruhr, zu dem Byfang gesellschaftlich gehört"
-  historischer_name: "Hattingen-Niederwenigern"
+  ehemaliger_name: Mütterbund
+  funktion: kirchlicher Verband für Frauen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 427-byfang/030
+ENTITÄT: kirche
+BEZEICHNUNG: Kevelaer Wallfahrtsgemeinschaft Essen-Byfang
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Pilgergemeinschaft
+  ziel: Kevelaer
+  tradition_seit: 1836
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 427-byfang/031
+ENTITÄT: stiftung
+BEZEICHNUNG: KlausKohl-Stiftung
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  benannt_nach: Pfarrer a.D. Dr. Dr. Klaus Kohl (ehemaliger Pastor von St. Barbara-Byfang)
+  foerderbereich: Aktivitäten zur Kultur- und Weiterbildung
+  zielgruppe: Kinder, Jugendliche, Erwachsene unter 30 Jahren des Stadtteils
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 427-byfang/032
+ENTITÄT: wanderweg
+BEZEICHNUNG: DeilbachSteig
+FACETTE: FREIZEIT
+QUELLE: Wanderwege Byfang (aus ZEUGEN)
+EIGENSCHAFTEN:
+  laenge: 33.0 [km]
+  etablierung: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 427-byfang/033
+ENTITÄT: wanderweg
+BEZEICHNUNG: Bergisch-Märkischer Weg
+FACETTE: FREIZEIT
+QUELLE: Wanderwege Byfang (aus ZEUGEN)
+EIGENSCHAFTEN:
+  laenge: 44 [km]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 427-byfang/034
+ENTITÄT: wanderweg
+BEZEICHNUNG: Eggenweg
+FACETTE: FREIZEIT
+QUELLE: Wanderwege Byfang (aus ZEUGEN)
+EIGENSCHAFTEN:
+  laenge: 43 [km]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 427-byfang/035
+ENTITÄT: wanderweg
+BEZEICHNUNG: GeoRoute Ruhr
+FACETTE: FREIZEIT
+QUELLE: Wanderwege Byfang (aus ZEUGEN)
+EIGENSCHAFTEN:
+  laenge: 185 [km]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 427-byfang/036
+ENTITÄT: wanderweg
+BEZEICHNUNG: Rundweg um Kupferdreh
+FACETTE: FREIZEIT
+QUELLE: Wanderwege Byfang (aus ZEUGEN)
+EIGENSCHAFTEN:
+  laenge: 25 [km]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 427-byfang/037
+ENTITÄT: wanderweg
+BEZEICHNUNG: Zugangsweg zum Ruhrhöhenweg
+FACETTE: FREIZEIT
+QUELLE: Wanderwege Byfang (aus ZEUGEN)
+EIGENSCHAFTEN:
+  laenge: 9 [km]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 427-byfang/038
+ENTITÄT: gewaesser
+BEZEICHNUNG: Baldeneysee
+FACETTE: LAGE | LANDSCHAFT | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1929
+  folgen_fuer_byfang: Überflutung von Kupferdrehe (gefährliche Kurve) und des damaligen Hafens
+  bedeutung_fuer_ort: markanter Einschnitt in Stadtgeschichte mit Eingemeindung zu Essen
+GUELTIG_AB: 1929
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 427-byfang/039
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Heisinger Ruhraue
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: Schutzgebiet Byfang (aus ZEUGEN)
+EIGENSCHAFTEN:
+  etablierung: 1983
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 427-byfang/040
+ENTITÄT: bau_historisch
+BEZEICHNUNG: Gericht Byfang
+FACETTE: GESCHICHTE | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Gerichtsort und Gemeindehaus
+  urspruenglicher_ort: Breuerhof (Ecke Niederweniger Straße/Düschenhofer Wald)
+  spaeteren_ort: Gerichtshaus
+  richter_role: Vogt des Stiftes Rellinghausen
+  gerichtsbarkeit_bis: 1661
+  nachfolger_ab_1661: Alexander von Drimborn zu Baldeney
+  letzter_richter: Franz Forst (ernannt 1805)
+  gerichtsbarkeit_bis: 1812-02-01
+  darunter: Friedensgericht der französischen Gerichtsverfassung
+  ab_1815: Landgericht Werden
+  brand: 1817
+  zustand_nach_brand: abgerissen
+  bedeutung: lange Zeit politischer und sozialer Mittelpunkt der Bauerschaft, Gemeindehaus
+  abriss: 1817 nach Brand
+GUELTIG_AB: 1661
+GUELTIG_BIS: 1817
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 427-byfang/041
+ENTITÄT: bau_historisch
+BEZEICHNUNG: Byfanger Gerichtshaus
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  ausgrabung: 1970er Jahre, Bagger brach in unterirdisches Verlies ein
+  beschreibung_verlies: Bruchstein gemauert, verputzt, Deckenöffnung zugemauert
+  erinnerung: Siedlung "Am Gerichtshaus" erinnert an ehemaliges Gericht
+  zuschlag_kupferdreh: nach WK II aus verkehrstechnischen Gründen dem Stadtteil Kupferdreh zugeschlagen, Gemarkung gehört aber zu Byfang
+GUELTIG_AB: 1661
+GUELTIG_BIS: 1817
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 427-byfang/042
+ENTITÄT: stift
+BEZEICHNUNG: Stift Rellinghausen
+FACETTE: GESCHICHTE | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: um 996
+  gruender: Essener Äbtissin Mathilde (Mechthild I.), Enkelin Kaiser Otto I.
+  zweck: Damenstift für unverheiratete Töchter des niederen Adels
+  grundbesitz_byfang: Gebiete Hinsel, Holthausen, Byfang, einige Höfe in Rellinghausen und im Hardenbergischen
+  ersterwahnung_byfang: 1124 (Schenkungsurkunde mit Name "Rellinkuoser biefang")
+  verwalter: Stiftsvogt
+  konflikt: Streitigkeiten mit Muterstift Essen um Unabhängigkeit
+  vergleich: 1661, Rückkehr zum Muterstift Essen
+  entschaedigung_stiftsvogt: 1800 Thaler und Bauerschaft Byfang als Lehen
+GUELTIG_AB: 996
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 427-byfang/043
+ENTITÄT: adelshaus
+BEZEICHNUNG: Herren von Dimborn / Drimborn
+FACETTE: GESCHICHTE | POLITIK
+QUELLE: https://www.essen.de/dasistessen/stadtteile/byfang/geschichte_byfang.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herrschaft_byfang_seit: 1661
+  quelle_herrschaft: Stift Rellinghausen
+  wappensymbol: Rosen (3 Stück)
+  bedeutung_fuer_ort: Namensgeber für Wappensymbole
+GUELTIG_AB: 1661
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 427-byfang/044
+ENTITÄT: schule_historisch
+BEZEICHNUNG: Schulbetrieb Oberbyfang
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1769
+  unterrichtsorte: Gehöfte
+  lehrerversorgung: Schulmeister beköstigt und bezahlt in Gehöften
+  schulpflicht: keine (anfangs)
+  grund_expansion: Anfänge der Industrie durch Bergbau gegen Ende 18. Jh. forderten geschulte Kräfte
+  erstes_schulhaus: Schulhaus mit gemischter Klasse
+  spaeterer_bau: Schulgebäude mit vier Klassenräumen und Lehrerwohnung
+  nutzung_bis: 1968 als Schule
+  nutzung_danach: Wohnhaus
+  nutzung_1968_2007: Taubenklinik des Verbandes der Deutschen Brieftaubenzüchter
+GUELTIG_AB: 1769
+GUELTIG_BIS: 1968
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 427-byfang/045
+ENTITÄT: schule_historisch
+BEZEICHNUNG: Schule Unterbyfang
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  schuelerwanderweg_bis_mitte_19jh: Kinder mussten bis Mitte 19. Jahrhundert nach Oberbyfang gehen
+  provisorischer_unterricht_ab_1869: Saal Sperrbaum (später Schnitzler) als Schule
+  neues_schulgebaeude: November 1874
+  schueleranzahl_1904: über 250 Schüler
+  klassenzimmer_1904: 4 Klassenräume
+  lehrer_1904: 4 Lehrer
+  schließung: Gebäude ist nun in Privatbesitz
+GUELTIG_AB: 1869
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 427-byfang/046
+ENTITÄT: schule_katholisch
+BEZEICHNUNG: Schule Unter-Byfang
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: römisch-katholische Volksschule (Grund- und Hauptschule)
+  standort: Nöckersberg
+  schließung: 2007
+  einzugsgebiet: Fahrenberg über Kleinheide bis Bushaltestelle Engels, dann bis Deipenbecktal und Ruhr/Langenberger Straße
+GUELTIG_BIS: 2007
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 427-byfang/047
+ENTITÄT: schule_katholisch
+BEZEICHNUNG: Schule Ober-Byfang
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: römisch-katholische Volksschule (Grund- und Hauptschule)
+  standort: heutiger Wohnpark Ober-Byfang
+  fruehe_nutzung_als_schule: bis 2007
+  fruehe_nutzung_1968_2007: Taubenklinik
+GUELTIG_BIS: 2007
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 427-byfang/048
+ENTITÄT: schule_evangelisch
+BEZEICHNUNG: evangelische Grundschule Byfang
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  standort: Langenberger Straße nahe heutige Auffahrt Theodor-Heuss-Brücke
+  schließung: im Zuge der Schließung von Zwergschulen
+GUELTIG_BIS: unbekannt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 427-byfang/049
+ENTITÄT: pfarrgemeinde
+BEZEICHNUNG: St. Josef Pfarrgemeinde Essen Ruhrhalbinsel
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_als_fusion: 2006
+  vorgaengergemeinden: St. Barbara Byfang und viele andere katholische Pfarrgemeinden der Ruhrhalbinsel
+  ausnahme: Niederwenigern (nicht eingebunden)
+GUELTIG_AB: 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 427-byfang/050
+ENTITÄT: pfarrgemeinde
+BEZEICHNUNG: St. Barbara Byfang
+FACETTE: GESCHICHTE | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1929
+  ortsteil_bezug: Unter-Byfang
+  eigenstaendigkeit_bis: 1. April 2008
+  fusion_in: St. Josef Pfarrgemeinde Essen Ruhrhalbinsel
+  statusaenderung: nur noch Filialkirche/-gemeinde
+GUELTIG_AB: 1929
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 427-byfang/051
+ENTITÄT: kirche_evangelisch
+BEZEICHNUNG: Kirchengemeinde Byfang-Kupferdreh
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  gemeindeglieder: evangelische Bewohner des Stadtteils
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 427-byfang/052
+ENTITÄT: kindergarten
+BEZEICHNUNG: Kindergarten Essen-Byfang
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+  gruendung_nebenfluss: 1973 zur St.-Barbara-Kirche hinzugekommen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 427-byfang/053
+ENTITÄT: ensemble_gebaeude
+BEZEICHNUNG: Wohnpark Ober-Byfang
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  standort_ehemaliges_schulgebaeude: ja (ehemals Schule Ober-Byfang)
+  nutzung_1968_2007: Taubenklinik des Verbandes der Deutschen Brieftaubenzüchter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 427-byfang/054
+ENTITÄT: vereinigung_allgemein
+BEZEICHNUNG: Förderverein St. Barbara Byfang e.V.
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  zweck: Unterstützung und Organisierung von Kirchenveranstaltungen
+  aktivitaeten: Martinszug, Barbarafest, Byfanger Bergfest
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 427-byfang/055
+ENTITÄT: musikgruppe
+BEZEICHNUNG: Kirchenchor St. Barbara
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  funktion: musikalische Gestaltung von Gottesdiensten
+  aktivitaeten: Gestaltung kirchlicher Festtage und besonderer Gottesdienste
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 427-byfang/056
+ENTITÄT: musikgruppe
+BEZEICHNUNG: Barbarachor
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  aktivitaeten: musikalische Gestaltung von Festgottesdiensten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 427-byfang/057
+ENTITÄT: musikgruppe
+BEZEICHNUNG: Kinderchor Byfang
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  aktivitaeten: musikalische Gestaltung von Gottesdiensten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 427-byfang/058
+ENTITÄT: musikgruppe
+BEZEICHNUNG: Byfanger Band
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  aktivitaeten: musikalische Gestaltung von Festgottesdiensten und jungen Messen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 427-byfang/059
+ENTITÄT: musikgruppe
+BEZEICHNUNG: Gesangsduo Dunkel Blond
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  besetzung: Duo (2 Personen)
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 427-byfang/060
+ENTITÄT: musikgruppe
+BEZEICHNUNG: Band Fein-Herb
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  aktivitaeten: musikalische Aktivitäten im Stadtteil
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 427-byfang/061
+ENTITÄT: musikgruppe
+BEZEICHNUNG: Band Under Cover
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  aktivitaeten: musikalische Aktivitäten im Stadtteil
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 427-byfang/062
+ENTITÄT: musikgruppe
+BEZEICHNUNG: Kindergarten-Eltern-Chor und -Band
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Byfang | Wikipedia
+EIGENSCHAFTEN:
+  herkunft: Kindergarten
+  aktivitaeten: musikalische Aktivitäten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 427-byfang/063
+ENTITÄT: gemaelde_hof
+BEZEICHNUNG: Deilmannshof
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: Aus ZEUGEN (OSM) und Wikipedia (Höhe)
+EIGENSCHAFTEN:
+  hoehe_standort: niedrigster Punkt des Stadtteils (50 m ü. NN)
+  standort: Nierenhofer Straße
+  uebliche_bezeichnung: auch als "Deilmannshof" in OSM / Wikipedia
+  seit: 1840
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 427-byfang/064
+ENTITÄT: muehle
+BEZEICHNUNG: Deiler Mühle
+FACETTE: GESCHICHTE | WIRTSCHAFT
+QUELLE: Aus ZEUGEN (OSM)
+EIGENSCHAFTEN:
+  seit: 19. Jahrhundert (genaues Datum unbekannt)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 427-byfang/065
+ENTITÄT: bergbau_anlage
+BEZEICHNUNG: Zeche Viktoria
+FACETTE: GESCHICHTE | WIRTSCHAFT
+QUELLE: Aus ZEUGEN (OSM)
+EIGENSCHAFTEN:
+  zeugenbeschreibung: Kaminsockel ehem. Zeche Viktoria
+  status: historisch
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 427-byfang/066
+ENTITÄT: bergbau_anlage
+BEZEICHNUNG: Zeche Victoria II
+FACETTE: GESCHICHTE | WIRTSCHAFT
+QUELLE: Aus ZEUGEN (OSM)
+EIGENSCHAFTEN:
+  zeugenbeschreibung: ehem. Betriebsgebäude Zeche Victoria II
+  seit: 1909
+  status: historisch
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 427-byfang/067
+ENTITÄT: eisenbahnstrecke
+BEZEICHNUNG: Prinz-Wilhelm-Bahn
+FACETTE: INFRA
+QUELLE: Aus ZEUGEN (OSM)
+EIGENSCHAFTEN:
+  beschreibung: Eisenbahnstrecke durch oder nahe Byfang
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 427-byfang/068
+ENTITÄT: pingen
+BEZEICHNUNG: Pingen
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: Aus ZEUGEN (OSM)
+EIGENSCHAFTEN:
+  beschreibung: Landschaftsform (Einsenkungen durch historische Bergbautätigkeit)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 427-byfang/069
+ENTITÄT: aussichtspunkt
+BEZEICHNUNG: Ruhrhöhenblick
+FACETTE: FREIZEIT
+QUELLE: Aus ZEUGEN (OSM)
+EIGENSCHAFTEN:
+  beschreibung: Aussichtspunkt mit Blick auf Ruhrhöhen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75

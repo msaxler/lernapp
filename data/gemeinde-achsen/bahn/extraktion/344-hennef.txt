@@ -1,564 +1,868 @@
 ENTITÄT: ort
 BEZEICHNUNG: Hennef
-QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
 EIGENSCHAFTEN:
-  erste_nennung: 1075 als "Hanafo"
-  beschreibung_historisch: "herrliche Gegend"
-  status_erhebung: Dorf bis 1981, dann Stadterhebung
-  jahr_stadterhebung: 1981
-  charakterisierung: "Stadt der 100 Dörfer"
-GUELTIG_AB: 1075
+  namensherkunft: "leitet sich vermutlich vom Hanfbach ab (germanisch Hanapha = 'singender, klingender Bach')"
+  lage_geographisch: "30 km Luftlinie südöstlich von Köln, 14 km ostnordöstlich von Bonn"
+  landkreis: "Rhein-Sieg-Kreis"
+  bundesland: "Nordrhein-Westfalen"
+  flaeche_qkm: 106
+  hoechster_punkt_m_ueber_nn: 285
+  niedrigster_punkt_m_ueber_nn: 60
+  ortsteilzahl: "ca. 100"
+  beiname: "Stadt der hundert Dörfer"
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
 ENTITÄT: ort
-BEZEICHNUNG: Geistingen
-ORTSTEIL_BEZUG: Geistingen
+FACETTE: GESCHICHTE
 QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  erste_nennung: ca. 800 als "Geistinge"
-  genauigkeit: ca.
-  superlativ: "früheste nachweisbare Siedlung im heutigen Gebiet Hennefs"
-  jahr_niederbruch: 1588 völlig niedergebrannt
-  grund_niederbruch: Kölner oder Truchsessische Kriege
-  besetzung_16jh: 1689 teilweise Zerstörung durch französische Truppen (Ludwig XIV.)
-GUELTIG_AB: 800
+  erste_urkundliche_erwaehnung: 1075
+  erste_erwaehnung_form: "als 'Hanafo' (Kirche in Hennef)"
+  erste_erwaehnung_ortsteil_geistingen: 885
+  wurde_stadt: 1981
+  gueltig_ab_stadt: 1981
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.92
+VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: ort
-BEZEICHNUNG: Blankenberg
-ORTSTEIL_BEZUG: Blankenberg
-QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  erste_nennung_burg: 1181 als "castrum quod Blankenburg dicitur"
-  erbauer_burg: "Graf Heinrich II. und Graf Everhard II. von Sayn"
-  grund_erbauung: "Stützpunkt ihres ausgedehnten Grundbesitzes"
-  jahr_stadtrechte: 1245
-  verleiher_stadtrechte: "Graf Heinrich III. von Sayn und seine Gemahlin Mechtild"
-  beschreibung_stadtrechte: "Zuzugsfreiheit, Schutz vor fremden Gerichten, freie Schöffenwahl, Steuerfreiheiten, Marktrechte"
-  jahr_bergische_herrschaft: 1363
-  status_1363: "Verwaltungssitz eines bergischen Amtsbezirkes"
-  jahr_zerstoerung_beginn: 1670-1680 "Trümmerhaufen"
-  jahr_kapelle_abgetragen: 1677
-  jahr_endgueltig_geschleift: 1700
-GUELTIG_AB: 1181
-GUELTIG_BIS: 1700
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.90
-
----
-
-ENTITÄT: ort
-BEZEICHNUNG: Altenbödingen
-ORTSTEIL_BEZUG: Bödingen
-QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  erste_nennung_alt: 1190 als "Bödingen" (heutiges Altenbödingen)
-  bezeichnung_wechsel_ab: 1397 "Altenbödingen", ursprüngliches Bödingen
-  grund_namenswechsel: neue Ortsbildung durch Wallfahrtskirche
-GUELTIG_AB: 1190
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: ort
-BEZEICHNUNG: Bödingen (Neustadt)
-ORTSTEIL_BEZUG: Bödingen
-QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  gruendung: 1397
-  grund_gruendung: "Ansiedlung an bisher siedlungsfreiem Platz durch Wallfahrtskirche Mater Dolorosa"
-  lage: "Kreuzung der Nutscheidstraße mit einem Weg von Oberauel"
-GUELTIG_AB: 1397
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: ort
-BEZEICHNUNG: Uckerath
-ORTSTEIL_BEZUG: Uckerath
-QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  erste_nennung_kirche: 1131
-GUELTIG_AB: 1131
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.80
-
----
-
-ENTITÄT: ort
-BEZEICHNUNG: Süchterscheid
-ORTSTEIL_BEZUG: Süchterscheid
-QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  erste_nennung: ca. 1200
-GUELTIG_AB: 1200
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: pfarrkirche
+ENTITÄT: kirche
 BEZEICHNUNG: St. Michael
 ORTSTEIL_BEZUG: Geistingen
+FACETTE: GESCHICHTE | FREIZEIT
 QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  bauzeit: 12. Jahrhundert (zweite Hälfte)
-  genauigkeit_bauzeit: "ca. 1150-1200"
-  baustil: spätromanische Pfeilerbasilika
-  beschreibung_details: "dreischiffiges Langhaus, fünfjochig, flache Mittelschiffdecke, gratgewölbte Seitenschiffe, fünfgeschossiger vorgelagerter Westturm"
-  vorgaengerbau: "Eigenkirche unter St. Cassius Stift Bonn"
+  bauzeit: "1150-1170"
+  stil: "spätromanische Pfeilerbasilika"
+  grundform: "dreischiffiges, fünfjochiges Langhaus"
+  besonderheit_bauweise: "flache Mittelschiffdecke, gratgewölbte Seitenschiffe, fünfgeschossiger vorgelagerter Westturm"
+  genauigkeit_bauzeit: "zweite Hälfte 12. Jahrhundert"
 GUELTIG_AB: 1150
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: pfarrkirche
-BEZEICHNUNG: Kirche Hennef
-ORTSTEIL_BEZUG: Hennef
-QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  erste_nennung: 1064
-  initial_besitz: Stift St. Cassius und Florentius Bonn
-  statuswechsel_1064: "von Stift St. Cassius an Erzbischof Anno II. von Köln übertragen"
-  tausch_1064: "Zehnt der Abtei Siegburg im Gegenzug"
-GUELTIG_AB: 1064
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: pfarrkirche
-BEZEICHNUNG: Kirche Geistingen
-ORTSTEIL_BEZUG: Geistingen
+ENTITÄT: burg
+BEZEICHNUNG: Burg Blankenberg
+ORTSTEIL_BEZUG: Stadt Blankenberg
+FACETTE: GESCHICHTE | FREIZEIT
 QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  erste_urkunde: 1065-1075
-  benannte_form: "ecclesie que est in Geystingin"
-  gemeinschaftlicher_besitz_ab_1075: "je zur Hälfte Cassiusstift und Abtei Siegburg"
-  gerichtsbarkeit: "Hoch- und Blutgerichtsbarkeit im 11. Jh. unter Pfalzgraf, später Grafen von Sayn"
-GUELTIG_AB: 1065
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.82
-
----
-
-ENTITÄT: pfarrkirche
-BEZEICHNUNG: Kirche Uckerath
-ORTSTEIL_BEZUG: Uckerath
-QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  erste_nennung: 1131
-  erste_nennung_form: "mit dem gesamten Zehnten im Besitz des Stiftes St. Cassius und Florentius in Bonn bestätigt"
-GUELTIG_AB: 1131
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.80
+  erste_erwaehnung: 1181
+  erste_erwaehnung_latin: "castrum quod Blankenburg dicitur"
+  gruender: "Grafen Heinrich II. und Everhard II. von Sayn"
+  stadrechte_verliehen: 1245
+  stadrechte_verliehen_von: "Graf Heinrich III. von Sayn und Gemahlin Mechtild"
+  verwaltungssitz_ab: 1363
+  verwaltungssitz_funktion: "Verwaltungssitz eines bergischen Amtsbezirkes (später Amt Blankenberg)"
+  befestigung_ausbau: "15. Jahrhundert"
+  zustand_1670_1680: "Trümmerhaufen"
+  kapelle_abgetragen: 1677
+  bedeutung_fuer_ort: "lange Zeit bedeutendste Siedlung im heutigen Gebiet Hennefs"
+GUELTIG_AB: 1181
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
 
 ---
 
 ENTITÄT: wallfahrtskirche
 BEZEICHNUNG: Mater Dolorosa
 ORTSTEIL_BEZUG: Bödingen
+FACETTE: GESCHICHTE | FREIZEIT
 QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  bauzeit: 1397-1408
-  gruender: "Christian von Lauthausen (Einsiedler) und Peter Meisenbach (Pastor von Geistingen)"
-  anlass: "Marienbild mit wundertätigen Eigenschaften, Vision des Christian von Lauthausen"
-  benannt_nach: "Mater Dolorosa"
-  querschiff_hinzufuegung: 1439
-  chor_bau: 1490-1500
-  kloster_gruendung: 1424 Umwandlung Vikarien in Kloster Augustinerchorherren
+  offizieller_name: "Zur Schmerzhaften Mutter Gottes"
+  bauzeit: "1397-1408"
+  weihe: 1408
+  grund_entstehung: "Vision des Einsiedlers Christian von Lauthausen, der auf Grund einer Vision ein Marienbild in Köln anfertigen ließ, dessen scheinbar wundertätige Kraft schnell bekannt wurde"
+  erbauer: "Christian von Lauthausen zusammen mit Pastor Peter Meisenbach"
+  querschiff_hinzugefuegt: 1439
+  chor_bauzeit: "1490-1500"
+  besonderheit: "scheinbar wundertätiges Marienbild"
+  bedeutung_fuer_ort: "Wallfahrtsort, zog Pilgerscharen an; Ursprung des Ortes Bödingen an zuvor siedlungsfreiem Platz"
+  wallfahrten_aktiv: true
 GUELTIG_AB: 1397
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.90
 
 ---
 
-ENTITÄT: kirche
-BEZEICHNUNG: Zum Gottesfrieden
-ORTSTEIL_BEZUG: Blankenberg
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Bödingen
+ORTSTEIL_BEZUG: Bödingen
+FACETTE: GESCHICHTE
 QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  erste_nennung: 1247
-  ursprung: "Klosterkirche Prämonstratenserinnen, errichtet ca. 1245"
-  umwandlung_1247: "in Konvent der Zisterzienserinnen nach letztem Willen Graf Heinrichs III."
-  status_1248: "Pfarrkirche von Blankenberg (abgetrennt von Uckerath)"
-GUELTIG_AB: 1245
+  gruendung: 1424
+  gruendung_grund: "Umwandlung von Vikarien in ein Kloster der Augustinerchorherren der Windesheimer Kongregation"
+  vikarien_einrichtung: 1412
+  ordnung: "Augustinerchorherren, später Zisterzienserinnen"
+  aufgeloest: 1803
+  aufloesungsgrund: "Säkularisation"
+GUELTIG_AB: 1424
+GUELTIG_BIS: 1803
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: wallfahrtskapelle
-BEZEICHNUNG: Zum Heiligen Kreuz
-ORTSTEIL_BEZUG: Süchterscheid
+ENTITÄT: schloss
+BEZEICHNUNG: Allner
+ORTSTEIL_BEZUG: Allner
+FACETTE: GESCHICHTE
 QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  bauzeit: ca. 1200
-  stiftung_benefizium: 1506
-  stifter: Bertram von Nesselrode
-  neubau: 1956/57
-  besonderheit: "Reste des Baus um 1200 wurden in Neubau von 1956/57 einbezogen"
-GUELTIG_AB: 1200
+  erste_erwaehnung: 1420
+  erste_erwaehnung_form: "im Besitz des Arnold von Markelsbach genannt Allner"
+  entwicklung_zu_wasserburg: "ca. 1650 durch Bertram Scheiffart von Merode erweitert und zum zweiteiligen Wasserschloss entwickelt"
+  bauform: "Wasserburg, später Schloss"
+GUELTIG_AB: 1420
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.83
+VERTRAUEN_EXTRAKTION: 0.80
 
 ---
 
 ENTITÄT: kapelle
-BEZEICHNUNG: Zum Heiligen Johann von Nepomuk
-ORTSTEIL_BEZUG: Geistingen
+BEZEICHNUNG: Zum Heiligen Kreuz
+ORTSTEIL_BEZUG: Süchterscheid
+FACETTE: GESCHICHTE
 QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  gruendung: 1690
-  gruender: "Werner de Warth (Posthalter und Schultheiß in Geistingen)"
-  lage: "neben der Frankfurter Straße vor dem Dreigiebelhaus"
-GUELTIG_AB: 1690
+  bauzeit: "um 1200"
+  stiftung: 1506
+  stifter: "Bertram von Nesselrode"
+  stiftungsform: "Benefizium"
+  neuaufbau: "1956/57"
+  benachbartes_gebiet: "Wallfahrtskapelle"
+GUELTIG_AB: 1200
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.82
-
----
-
-ENTITÄT: burg
-BEZEICHNUNG: Blankenberg
-ORTSTEIL_BEZUG: Blankenberg
-QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  erste_nennung: 1181
-  erbauer: "Graf Heinrich II. und Graf Everhard II. von Sayn"
-  baugrund: "Allod der Abtei Siegburg (volles Eigentum, nicht Lehen)"
-  zweck: "Stützpunkt ihres ausgedehnten Grundbesitzes"
-  erwerber_1188: "Kölner Erzbischof Philipp von Heinsberg"
-  belehnung_1188: "Grafen von Sayn behalten Besitz als Lehen"
-  besitzwechsel_1363: "Wilhelm II. von Jülich (Pfandnahme)"
-  status_1363: "Verwaltungssitz bergisches Amt"
-  befestigung_verstaerkung: 15. Jahrhundert
-  besetzung_30jr_krieg: 1632-1635 schwedische Abteilung
-  zerstoerung_ausmaß: 1644 Altstadt zerstört, südliche Stadtmauer und Türme erhalten
-  verfallstatus_endstufe: "1670/1680 Trümmerhaufen, 1677 Kapelle abgetragen, um 1700 endgültig geschleift"
-GUELTIG_AB: 1181
-GUELTIG_BIS: 1700
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.92
-
----
-
-ENTITÄT: turm
-BEZEICHNUNG: Katharinentorturm
-ORTSTEIL_BEZUG: Blankenberg
-QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  endgueltige_gestalt: ca. 1400
-  status: "Wahrzeichen der Stadt Blankenberg"
-GUELTIG_AB: 1400
-GUELTIG_BIS: 1644
-IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.75
 
 ---
 
-ENTITÄT: rittersitz
-BEZEICHNUNG: Allner
-ORTSTEIL_BEZUG: Hennefer Umland
-QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+ENTITÄT: kirche
+BEZEICHNUNG: St. Simon und Judas
+ORTSTEIL_BEZUG: Hennef
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
 EIGENSCHAFTEN:
-  erste_nennung: 1420
-  initial_besitzer: "Arnold von Markelsbach genannt Allner"
-  besitzuebergang_16jh: "durch Heirat zu Wallraff Scheiffart von Merode"
-  bestaetigung_besitz: Wallraff Scheiffart von Merode gestorben 1568
-  umbau_ca_1650: "Bertram Scheiffart von Merode vergrößert Kernbau"
-  transformation: "Wasserburg wird zum Schloss"
-GUELTIG_AB: 1420
+  weihe_tradiert: "mittelalterlich (genaues Datum unbekannt)"
+  bedeutung_fuer_ort: "Ursprung der Hennefer Kirmes, deren Kirchweihfest auf die Weihe dieser Pfarrkirche zurückgeht"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: rathaus
+FACETTE: INFRASTRUKTUR
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Zentrum Hennefs an der Frankfurter Straße in der Nähe der Sieg"
+  nachbarschaft: "Marktplatz"
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: rittersitz
-BEZEICHNUNG: Attenbach
-ORTSTEIL_BEZUG: Attenbach
-QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+ENTITÄT: marktplatz
+FACETTE: INFRASTRUKTUR
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
 EIGENSCHAFTEN:
-  erste_nennung: 1126
-  genannte_form: "Stiftungsbrief des Klosters Nonnenwerth"
-  neubau_wohnhaus: 1545
-  bauherren_1545: "Maria von Vünfzahl (Tochter Arnold von Vünfzahl zu Attenbach) und Wilhelm von Gevertzhagen"
-GUELTIG_AB: 1126
+  lage: "Zentrum Hennefs"
+  nachbarschaft: "Rathaus"
+  nutzung: "Veranstaltungsort (Stadtfest, Kirmes, Märkte)"
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.83
+VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: kloster
-BEZEICHNUNG: Augustinerchorherren Bödingen
-ORTSTEIL_BEZUG: Bödingen
-QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+ENTITÄT: fluss
+BEZEICHNUNG: Sieg
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
 EIGENSCHAFTEN:
-  gruendung: 1424
-  umwandlung_von: "Vikarien in Kloster"
-  initiator: "Abt von Groß St. Martin zu Köln im Auftrag Papst Martins V."
-  kongregation: "Windesheimer Kongregation"
-  vikarien_vorher: "vier ständige Priesterstellen an Wallfahrtskirche, 1412 eingerichtet"
-  schule: "Klosterschule für Jugendliche (14.-15. Jh.)"
-GUELTIG_AB: 1424
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.88
+  rolle_fuer_ort: "Hennef liegt an der Sieg, am Anfang des Mündungstals"
+  infrastruktur: "Chronos-Areal seit 2005 mit durchgängiger Uferpromenade"
+  freizeit: "Rad- und Wanderwege zum Fluss"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: kloster
-BEZEICHNUNG: Zisterzienserinnen Zissendorf
-ORTSTEIL_BEZUG: Siegaue/Unterhalb Blankenberg
-QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+ENTITÄT: kurpark
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
 EIGENSCHAFTEN:
-  umzug: 1263-1265
-  ursprung: "Umsiedlung von Hof/Besitz bei Blankenberg"
-  neuer_ort: "Zissendorf in der Siegaue"
-  begruendung: "Zisterzienserinnen siedelten 1247 auf ihren Hof über"
-GUELTIG_AB: 1263
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.80
-
----
-
-ENTITÄT: markt
-BEZEICHNUNG: Jahrmarkt Blankenberg
-ORTSTEIL_BEZUG: Blankenberg
-QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  start: 13. Jahrhundert
-  zusaetzliche_jahrmärkte_1568: "vier weitere bewilligt durch Landesherrn"
-GUELTIG_AB: 1300
+  lage_ortsteil: "Geistingen"
+  lage_details: "südlich des Zentrums, zwischen Kurhausstraße und Steimelsberg"
+  flaeche_qm: 50000
+  nutzung: "Erholungszwecke"
+  ausstattung: "Wildgehege, Teichanlage mit Enten"
+  bedeutung_fuer_ort: "erinnert an Kurtradition Hennefs"
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.80
 
 ---
 
-ENTITÄT: markt
-BEZEICHNUNG: Wochenmarkt Blankenberg
-ORTSTEIL_BEZUG: Blankenberg
-QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+ENTITÄT: fest
+BEZEICHNUNG: Hennefer Kirmes
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
 EIGENSCHAFTEN:
-  start: 13. Jahrhundert
-  rhythmus: jeden Dienstag
-GUELTIG_AB: 1300
+  tradition_seit: "Anfang 1980er Jahre"
+  grund_entstehung: "Kirchweihfest, zurückgehend auf Weihe der Pfarrkirche St. Simon und Judas"
+  termin: "Wochenende des dritten Sonntags im September"
+  ort: "Frankfurter Straße, Hennefer Marktplatz"
+  bedeutung: "traditionelles Großereignis"
+GUELTIG_AB: 1980
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.78
+VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: schule
-BEZEICHNUNG: Klosterschule Augustiner-Chorherren
-ORTSTEIL_BEZUG: Bödingen
-QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+ENTITÄT: fest
+BEZEICHNUNG: Hennefer Stadtfest
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
 EIGENSCHAFTEN:
-  zeit: 14.-15. Jahrhundert
-  traeger: "Kloster der Augustiner-Chorherren in Bödingen"
-GUELTIG_AB: 1400
-GUELTIG_BIS: 1500
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: schule
-BEZEICHNUNG: "Niedere Schule" Blankenberg
-ORTSTEIL_BEZUG: Blankenberg
-QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  zeit: 14.-15. Jahrhundert
-  zielgruppe: "Kinder der herzoglichen Beamten und der Gewerbetreibenden"
-GUELTIG_AB: 1400
-GUELTIG_BIS: 1500
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.73
-
----
-
-ENTITÄT: schule
-BEZEICHNUNG: Schule Uckerath
-ORTSTEIL_BEZUG: Uckerath
-QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  nachweise: "seit Menschengedenken"
-  erwaehnung_1647: "Schultheiß Michael Krumbach schreibt: In Uckerath gibt es seit Menschengedenken eine Kirche mit Schule"
-  organisation: "in Verbindung mit der katholischen Kirche"
-  schulamt_winterzeit_1682: "Engelbert Kleuver Übernahme"
-GUELTIG_AB: 1300
+  tradition_seit: "Anfang 1980er Jahre"
+  termin: "Wochenende des dritten Sonntags im September"
+  ort: "Frankfurter Straße, Hennefer Marktplatz"
+  bedeutung: "traditionelles Großereignis mit über 200 Ständen"
+GUELTIG_AB: 1980
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.72
+VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: postamt
-BEZEICHNUNG: Posthalteramt Hennef
-ORTSTEIL_BEZUG: Hennef
-QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+ENTITÄT: fest
+BEZEICHNUNG: Karneval
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
 EIGENSCHAFTEN:
-  gruendung: 1622 (22. März Posthaltervertrag)
-  posthalter_original: "wernerus zu henneft"
-  postlinie: "Thurn und Taxissche Postlinie Köln-Frankfurt"
-  bedeutung: "ältestes Postdokument dieser Linie im Rhein-Sieg-Kreis"
-  qualifikation_1894: "Post zweiter Klasse"
-  lage_1894: "im Zentrum des Dorfes Hennef"
-GUELTIG_AB: 1622
+  bedeutung_fuer_ort: "Karnevalshochburg im Rheinland"
+  narrenruf: "Alaaf"
+  veranstaltungen: "Karnevalssitzung, Umzüge, Rathauserstürmung"
+  karnevalsvereine_zahl: 27
+  karnevalsumzuege_zahl: 7
+  groesster_umzug: "Rosenmontag im Zentralort"
+  organisationen: "5 große Gesellschaften im Komitee Hennefer Karneval e.V."
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.88
+VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: persoenlichkeit_historisch
-BEZEICHNUNG: Christian von Lauthausen
-QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+ENTITÄT: fest
+BEZEICHNUNG: Platinman
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
 EIGENSCHAFTEN:
-  profession: "Einsiedler"
-  zeit: "zweite Hälfte 14. Jahrhundert"
-  bekannte_aktion: "Vision eines Marienbildes; ließ dieses in Köln anfertigen"
-  ergebnis: "schnell bekannte wundertätige Kraft"
-  bauwerk: "erbaute Wallfahrtskirche Mater Dolorosa 1397-1408 zusammen mit Peter Meisenbach"
-GUELTIG_AB: 1350
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.82
-
----
-
-ENTITÄT: persoenlichkeit_historisch
-BEZEICHNUNG: Peter Meisenbach
-QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  position: "Pastor von Geistingen"
-  zeit: "spätes 14./frühes 15. Jahrhundert"
-  bauwerk: "erbaute Wallfahrtskirche Mater Dolorosa 1397-1408 zusammen mit Christian von Lauthausen"
-GUELTIG_AB: 1390
-IST_VERMUTLICH_AKTUELL: false
+  seit: 1994
+  typ: "Trailrun"
+  organisiert_von: "bis 2004 lokales Team, 2013 Triathlon Team Hennef neu organisiert"
+  unterbrochen: true
+  unterbrechungsgrund: "Anwohnerbeschwerden"
+  distanzen: "Lange Strecke 25,66 km mit 837 Höhenmetern; kurze Strecke 10,25 km"
+  strecke: "Wald, entlang Natursteig Sieg"
+GUELTIG_AB: 1994
+IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.80
 
 ---
 
-ENTITÄT: persoenlichkeit_historisch
-BEZEICHNUNG: Graf Heinrich III. von Sayn
-QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+ENTITÄT: fest
+BEZEICHNUNG: Hennefer Siegtal-Triathlon
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
 EIGENSCHAFTEN:
-  gemahlin: "Mechtild"
-  jahr_aktion: 1245
-  aktion: "Verleihung Stadtrechte an Blankenberg"
-  todesjahr: 1247
-  todesumstand: "kinderlos"
-  erbschaft: "Burg, Stadt und Land Blankenberg gehen an Heinrich von Heinsberg"
-GUELTIG_AB: 1245
-GUELTIG_BIS: 1247
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: persoenlichkeit_historisch
-BEZEICHNUNG: Wallraff Scheiffart von Merode
-QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  zeit: 16. Jahrhundert
-  erwerb: "Rittersitz Allner durch Heirat"
-  todesjahr: 1568
-GUELTIG_AB: 1500
-GUELTIG_BIS: 1568
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.82
-
----
-
-ENTITÄT: persoenlichkeit_historisch
-BEZEICHNUNG: Bertram Scheiffart von Merode
-QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  zeit: "ca. 1600-1650"
-  aktion: "Vergrößerung Rittersitz Allner ca. 1650"
-  folge: "Transformation von Wasserburg zu Schloss"
-GUELTIG_AB: 1600
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.78
-
----
-
-ENTITÄT: persoenlichkeit_historisch
-BEZEICHNUNG: Werner de Warth
-QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  positionen: "Posthalter und Schultheiß in Geistingen"
-  zeit: "spätes 17. Jahrhundert"
-  aktion: "Gründung Kapelle Zum Heiligen Johann von Nepomuk"
-  jahr_kapelle: 1690
-GUELTIG_AB: 1680
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.83
-
----
-
-ENTITÄT: persoenlichkeit_historisch
-BEZEICHNUNG: Bertram von Nesselrode
-QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  aktion: "Stiftung Benefizium Zum Heiligen Kreuz"
-  ort_stiftung: Süchterscheid
-  jahr_stiftung: 1506
-GUELTIG_AB: 1506
-IST_VERMUTLICH_AKTUELL: false
+  seit: 2009
+  disziplinen: "Schwimmen im Allner See, Radfahren durch Bröltal bis Neunkirchen, Laufen über Marktplatz und Sieg-Ufer"
+IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.80
 
 ---
 
-ENTITÄT: behoerde
-BEZEICHNUNG: Stadtverwaltung Hennef
-QUELLE: https://www.hennef.de/personalversammlung-rathaus-geschlossen/ | Gemeinde-Webseite
+ENTITÄT: fest
+BEZEICHNUNG: Hennefer Weinfest
+FACETTE: FREIZEIT
+QUELLE: https://www.hennef.de/freizeit/ | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  buergermeis ter: Mario Dahm
-  standorte: "Rathaus, Stadtbibliothek und weitere Standorte"
-  infrastruktur_rathaus: "Tiefgarage"
+  jahreszeit: "Herbst"
+  ort: "Marktplatz"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: theater
+BEZEICHNUNG: Kur-Theater
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
+EIGENSCHAFTEN:
+  geschichte_ursprung: "1903 als drittes Kino gebaut (eines von ehemals drei Kinos)"
+  kino_schloss: 2003
+  reaktiviert: 2003
+  reaktivierung_grund: "Initiative des damaligen Beigeordneten Lutz Urbach, zusammen mit Daniel Huys und Manfred Raderschad"
+  traeger: "Verein Kur-Theater Hennef e.V."
+  funktion: "Kino und Kleinkunstbühne"
+  plaetze: 190
+  vereinsmitglieder: 1000
+  auszeichnungen: "11x Jahresfilmprogramm-Prämie der Filmstiftung NRW, 4x Kinoprogrammpreis des Beauftragten der Bundesregierung"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Turmmuseum
+ORTSTEIL_BEZUG: Stadt Blankenberg
+FACETTE: FREIZEIT
+QUELLE: https://www.hennef.de/freizeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Katharinenturm"
+  ausstellung: "Weinbaumuseum"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum
+ORTSTEIL_BEZUG: Stadt Blankenberg
+FACETTE: FREIZEIT
+QUELLE: https://www.hennef.de/freizeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Katharinenturm"
+  ausstellung: "alte Handwerkstechniken wie Spinnen und Weben"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: stadtarchiv
+FACETTE: KULTUR
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: "Sammlung und Publikation von Hennefer Geschichten"
+  publikation: "Reihe 'Das Stadtarchiv erzählt Hennefer Geschichte(n)'"
+  tag_der_offenen_tuer: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: sport_einrichtung
+BEZEICHNUNG: Sportschule Hennef
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
+EIGENSCHAFTEN:
+  traeger: "Fußball-Verband Mittelrhein"
+  funktion: "Bundes- und Landesleistungszentrum"
+  besonderheit: "Leistungszentren für Boxen, Ringen, Judo, Taekwondo, Gewichtheben"
+  bedeutung_fuer_ort: "größter Arbeitgeber im Sportbereich, gelegentliche Trainings der Deutschen Nationalmannschaft und 1. FC Köln"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Hennefer Turnverein
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
+EIGENSCHAFTEN:
+  mitgliederzahl: 3600
+  superlativ: "mit Abstand größter Sportverein im Rhein-Sieg-Kreis"
+  abteilungen: "Badminton, Basketball, Behindertensport, Breitensport, Klettern, Leichtathletik, Schwimmen, Tanzen, Triathlon, Turnen, Volleyball"
+  angebote: "Fitness- und Gesundheitskurse"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Chronos-Werke
+FACETTE: WIRTSCHAFT | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_original: 1869
+  gruendername_original: "Reuther & Co. Landwirtschaftliche Maschinenfabrik"
+  gruender: "Carl Reuther"
+  fusionsgruppengruendung: 1881
+  fusionsgruppenname: "Hennefer Maschinenfabrik Carl Reuther und Reisert"
+  umbenannt: 1950
+  neuer_name: "Chronos-Werk Reuther und Reisert"
+  erfindung: "1883 erste automatische eichfähige Waage der Welt"
+  erfinder: "Carl Reuther und Eduard Reisert"
+  bedeutung_fuer_ort: "großer Arbeitgeber, prägender Betrieb der Stadt"
+GUELTIG_AB: 1869
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Mario Dahm
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
+EIGENSCHAFTEN:
+  partei: "SPD"
+  amtsan: 2020
+  amtsantritt_datum: "2020-09-27"
+  wahl_form: "Stichwahl"
+  wahl_ergebnis_prozent: 58.67
+  gegenkandidat: "Klaus Pipke"
+  wiedergewahl: 2025
+  wiedergewahl_wahlgang: "erster Wahlgang"
+  wiedergewahl_ergebnis_prozent: 51.6
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Banbury
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
+EIGENSCHAFTEN:
+  land: "Vereinigtes Königreich"
+  partnerschaftsseit: 1981
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Le Pecq sur Seine
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
+EIGENSCHAFTEN:
+  land: "Frankreich"
+  partnerschaftsseit: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Nowy Dwór Gdański
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
+EIGENSCHAFTEN:
+  land: "Polen"
+  geschichtsname: "Tiegenhof"
+  partnerschaftsseit: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Geistingen
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 885
+  erste_erwaehnung_form: "Geistinge im Namensverzeichnis einer Urkundensammlung"
+  niedergebrannt: 1588
+  niedergebrannt_grund: "Kölner oder Truchsessische Kriege"
+  zerstoert: 1689
+  zerstoerungsgrund: "Besetzung des Rheinlandes durch Truppen Ludwig XIV."
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Bödingen
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1190
+  urspruenglich_name: "Altenbödingen"
+  namensaenderung: 1397
+  namensaenderung_grund: "Neugründung von Bödingen als Wallfahrtsort an der Wallfahrtskirche"
+  bedeutung_fuer_ort: "Marienwallfahrtsort mit überörtlicher Bedeutung"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Uckerath
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
+EIGENSCHAFTEN:
+  rolle: "größtes Subzentrum in Hennef"
+  lage: "direkt an der Grenze zu Gemeinde Asbach (Rheinland-Pfalz)"
+  entwicklung: "wächst durch vermehrte Bautätigkeit zusammen mit Bierth und Lichtenberg"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Stadt Blankenberg
+FACETTE: FREIZEIT | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: "mittelalterliche Stadtsiedlung in hervorragendem Erhaltungszustand"
+  lage_topographie: "zwischen Ahrenbachtal und Pferdesiefen, hoch über der Sieg"
+  besonderheit_aussicht: "einzigartiger Blick über Hennef"
+  denkmalbereich_seit: 1987
+  tourismus: "Anziehungspunkt für Tausende Touristen jährlich"
+  feste: "Floh- und Kunsthandwerkermarkt jährlich am 2. Sonntag im September"
+  fuehrungen: "Nachtwächterführungen, Kinderführungen auf der Burg"
+  bedeutung_fuer_ort: "Wahrzeichen, überörtlich bekanntes Ausflugsziel"
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.90
 
 ---
 
-ENTITÄT: stadtraum
-BEZEICHNUNG: Frankfurter Straße
-ORTSTEIL_BEZUG: Hennef
-QUELLE: https://www.hennef.de/parkraumkonzept-fuer-den-hennefer-zentralort-beschlossen/ | Gemeinde-Webseite
+ENTITÄT: kirche
+BEZEICHNUNG: St. Katharina
+ORTSTEIL_BEZUG: Stadt Blankenberg
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
 EIGENSCHAFTEN:
-  funktion: "Einkaufsstraße mit Gewerbetreibenden"
-  parkraum_konzept: "Ausrichtung auf Kurzzeitparken"
-  zielgruppe_parkraum: "Kundenverkehr für Einzelhandel"
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: stadtraum
-BEZEICHNUNG: Heiligenstädter Platz
-ORTSTEIL_BEZUG: Hennef
-QUELLE: https://www.hennef.de/parkraumkonzept-fuer-den-hennefer-zentralort-beschlossen/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  infrastruktur: "Parkplätze mit digitaler Parkraumbewirtschaftung geplant"
+  erbauungszeit: "Mitte 13. Jahrhundert"
+  besonderheit: "Pfarrkirche von Stadt Blankenberg"
+  denkmalbereich: "Teil des Denkmalbereiche Stadt Blankenberg seit 1987"
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.80
 
 ---
 
-ENTITÄT: parkhaus
-BEZEICHNUNG: P+R-Parkhaus Humperdinckstraße
-ORTSTEIL_BEZUG: Hennef
-QUELLE: https://www.hennef.de/parkraumkonzept-fuer-den-hennefer-zentralort-beschlossen/ | Gemeinde-Webseite
+ENTITÄT: wanderweg
+BEZEICHNUNG: Familienwanderweg Rosental
+FACETTE: FREIZEIT
+QUELLE: https://www.hennef.de/wirtschaft-und-tourismus/ | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  funktion: "Park+Ride-Anlage"
-  foerderung: "vom Land gefördert"
-  aktuelle_auslastung: "mehrere Etagen durchschnittlich ungenutzt"
-  beschraenkung: "nur Nutzer von Bus und Bahn dürfen parken"
-  planung: "teilweise Ablösung aus Förderbindung geplant"
+  eroeffnung: 2025
+  typ: "Rundweg"
+  strecke_beschreibung: "durch Wiesen, Weiden, Wald und Felder um das Hennefer Rosental"
+  eingeweihung_mit: "Bürgermeister Mario Dahm und Kinder der Kita Vogelnest"
+GUELTIG_AB: 2025
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.82
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Natursteig Sieg
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
+EIGENSCHAFTEN:
+  charakteristikum: "Fernwanderweg"
+  verlauf: "entlang der Sieg, führt auch durch Hennef"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: kneippkurort
+FACETTE: FREIZEIT | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
+EIGENSCHAFTEN:
+  anerkennung: 1976
+  anerkennung_form: "Kneipp-Kurort"
+  aufgabe_titel: 1984
+  aufgabe_grund: "Auflösung Kurbetrieb"
+  verbleibsel: "Kurhaus Sebastian Kneipp"
+GUELTIG_AB: 1976
+GUELTIG_BIS: 1984
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Uferpromenade Chronos-Areal
+FACETTE: FREIZEIT | INFRASTRUKTUR
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
+EIGENSCHAFTEN:
+  schaeffung: 2005
+  ort: "am neu gestalteten Chronos-Areal"
+  charakteristikum: "durchgängige Uferpromenade an der Sieg"
+  nutzung: "Fahrradfahrer und Fußgänger"
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Stieleichen Weingartsberg
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
+EIGENSCHAFTEN:
+  anzahl: 2
+  lage: "südlich Geistingen im Wald Weingartsberg, Höhe Sportschule"
+  abstand: "etwa 100 Meter auseinander"
+  alter_eiche1: "etwa 300 Jahre"
+  alter_eiche2: "über 500 Jahre"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: denkmalbereich
+BEZEICHNUNG: Ortskern Stadt Blankenberg
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
+EIGENSCHAFTEN:
+  denkmalschutz_seit: 1987
+  grund: "Ortskern in Gesamtheit"
+  charakteristika: "mittelalterliches Kleinod mit Burganlage und fachwerklichem Ortskern"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: denkmalbereich
+BEZEICHNUNG: Ortskern Bödingen
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
+EIGENSCHAFTEN:
+  denkmalschutz_seit: 1989
+  grund: "Ortskern in Gesamtheit"
+  umfang: "nicht nur Wallfahrtskirche, sondern gesamter Dorfkern"
+  baugeschichte: "nach Feuersbrunst 1636 wieder aufgebaut"
+  ausstattung: "viele gut erhaltene Fachwerkhäuser"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: denkmalbereich
+BEZEICHNUNG: Historische Kulturlandschaft Unteres Siegtal
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
+EIGENSCHAFTEN:
+  errichtung: 2008
+  komponenten: "Stadt Blankenberg mit Burg, Wallfahrtsort Bödingen mit Wallfahrtskirche, verbindende Siegaue"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: maerkchen_sage
+BEZEICHNUNG: Marienlegende
+ORTSTEIL_BEZUG: Bödingen
+FACETTE: GESCHICHTE
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "Darstellung der Marienlegende vor der Bödinger Kirche"
+  zeitraum: "14.-15. Jahrhundert"
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.60
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Kompassionsfest
+ORTSTEIL_BEZUG: Bödingen
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
+EIGENSCHAFTEN:
+  einfuehrung: 1423
+  einfuehrung_durch: "Kölner Provinzialkonzil für die gesamte Kirchenprovinz"
+  superlativ: "nördlich der Alpen nur noch in Bödingen jährlich gefeiert"
+  frequenz: "jährlich"
+GUELTIG_AB: 1423
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Jugendherbergswerk
+FACETTE: GESCHICHTE | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1909
+  gruendungsorte: "Nähe Hennef/Bröl"
+  gruender: "Richard Schirrmann"
+  initiator_situation: "Schulklasse wurde von Gewitter überrascht, fand Zuflucht in Schule"
+  bedeutung_fuer_deutschland: "Ursprung des Deutschen Jugendherbergswerks"
+  superlativ: "älteste und erste Jugendherberge"
+GUELTIG_AB: 1909
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Geistingen
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
+EIGENSCHAFTEN:
+  fertigstellung: 1903
+  ordnung: "beschrieben im Zusammenhang mit Kirche St. Michael Geistingen"
+GUELTIG_AB: 1903
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.60
+
+---
+
+ENTITÄT: kanal_infra
+FACETTE: INFRASTRUKTUR
+QUELLE: https://www.hennef.de/stadtbetriebe/abwasser/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kanalnetzlaenge_km: 433.2
+  schmutzwasser_km: 209.5
+  regenwasser_km: 141.7
+  mischwasser_km: 82
+  pumpwerke_zahl: 66
+  druckleitungen_km: 25
+  sonderbauwerke_zahl: 70
+  einleitstellen_zahl: 180
+  schaechte_zahl: 11178
+  klaeranlage_zahl: 2
+  grundstuecksanschlussleitungen_zahl: 32050
+  topographische_schwierigkeit: "Höhenspanne zwischen 59 und 280 m ü. NN erfordert aufwändige Abwasserentsorgung mit 69 Pumpwerken"
+  bedeutung_fuer_ort: "komplexes System aufgrund Topographie, wichtige Infrastruktur"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: klaeranlage
+BEZEICHNUNG: Kläranlage Hennef
+FACETTE: INFRASTRUKTUR
+QUELLE: https://www.hennef.de/wirtschaft-und-tourismus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_geschichte: 111
+  umbau_projekt: "Modernisierung Belebungsbecken seit Januar 2025"
+  foerderung: "ca. 1,4 Mio € durch Bundesministerium für Wirtschaft und Klimaschutz (Nationale Klimaschutzinitiative)"
+  ziel_umbau: "Stromersparnis, verbesserte Ablaufwerte in die Sieg, Umstellung auf intermittierendes Verfahren"
+GUELTIG_AB: 1915
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: stadtverwaltung_abteilung
+BEZEICHNUNG: Stadtbetriebe Hennef
+FACETTE: INFRASTRUKTUR | POLITIK
+QUELLE: https://www.hennef.de/stadtbetriebe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  form: "eigenbetriebsähnliche Einrichtung"
+  mitarbeiterzahl: 170
+  aufgaben: "Abwasserentsorgung, Tiefbaumaßnahmen, Grünflächenpflege, Wirtschaftsförderung"
+  fachbereiche: "Abwasserbetrieb, Wirtschaftsförderung, Tourismus, Liegenschaften, Baubetriebshof, Daten- und Entwässerungsservice, Tiefbau, Finanz- und Rechnungswesen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: projekt
+BEZEICHNUNG: Bau-Turbo
+FACETTE: POLITIK | WIRTSCHAFT
+QUELLE: https://www.hennef.de/bau-turbo-fuer-hennef-beschlossen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "Maßnahmen zur Beschleunigung von Wohnraumbau durch Ausnahmen vom herkömmlichen Baurecht"
+  entscheidung_stadt: 2026
+  entscheidungsmonat: "Februar 2026"
+  kriterien: "Schutz Siedlungsstruktur, räumliche Eingrenzung, Infrastruktur, soziale Verantwortung, Nachhaltigkeit"
+  foerderungsquote_wohnungsbau: "mindestens 30% geförderte Wohneinheiten bei Projekten ab 15 Wohneinheiten"
+  umfang_zustimmung: "Stadtrat beschloss Leitlinien mehrheitlich"
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Hennefer Europawoche
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
+EIGENSCHAFTEN:
+  tradition: "seit 2004"
+  format: "seit 2015 unter dem Namen 'SommerOpenAir' bekannt"
+  bisherige_form: "verbunden mit 'Hennefer Europalauf'"
+  veranstaltungen_europalauf: "Halbmarathon, 10-km-Lauf, 3,4-km-Lauf, 1050-m-Schnupperlauf, 10-km-Walking, Nordic-Walking"
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: KinderSportFest
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
+EIGENSCHAFTEN:
+  seit: 2005
+  ort: "Marktplatz"
+  termin: "erster Samstag nach Sommerferien"
+  kooperation: "Stadt und StadtSportVerband"
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Siegtal-Festival
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
+EIGENSCHAFTEN:
+  struktur: "Kooperation Windeck, Eitorf, Hennef, Siegburg"
+  termin: "Juli und August"
+  inhalt: "Pop- und Rock-Konzerte"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: fahrradrallye
+BEZEICHNUNG: Siegtal pur
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: "Fahrrad-Erlebnistag, autofrei"
+  termin: "einmal jährlich Anfang Juli"
+  strecke: "von Siegquelle bei Netphen bis Siegburg"
+  sperrung_zeit: "9 bis 18 Uhr"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: post
+FACETTE: GESCHICHTE | INFRASTRUKTUR
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkunde: 1622
+  erste_urkunde_datum: "22. März 1622"
+  posthaltervertrag: "Posthalter 'wernerus zu henneft'"
+  superlativ: "ältestes Postdokument der Thurn und Taxisschen Postlinie Köln-Frankfurt im Rhein-Sieg-Kreis"
+  im_19_jhd: "Post zweiter Klasse (laut Brockhaus Konversationslexikon 1894)"
+  im_20_jhd: "zeitgemäße Postfiliale im Zentrum"
+GUELTIG_AB: 1622
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Bröler Schule
+ORTSTEIL_BEZUG: Bröl
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Hennef_(Sieg) | Wikipedia
+EIGENSCHAFTEN:
+  ereignis_datum: "26. August 1909"
+  ereignis: "Richard Schirrmann wurde mit Schulklasse von Gewitter überrascht, fand Zuflucht in Schule"
+  folge: "Grundidee der Jugendherberge hier entstanden"
+  bedeutung_fuer_deutschland: "Auslöser für das Deutsche Jugendherbergswerk"
+GUELTIG_AB: 1909
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85

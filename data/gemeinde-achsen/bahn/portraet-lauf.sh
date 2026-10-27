@@ -12,8 +12,11 @@ N="$*"
 D=scripts/data-build/gemeinde_achsen_direkt.py
 M=claude-opus-5-5
 echo "Orte: $N"
+# GA_OSM_FERTIG=1: Zeugen wurden vorab geholt (2026-10-27: Overpass so langsam, dass sie parallel vorab liefen)
+if [ "$GA_OSM_FERTIG" = 1 ]; then echo "== OSM-Zeugen übersprungen (vorab geholt) $(date +%T)"; else
 echo "== OSM-Zeugen $(date +%T)"
 python -X utf8 scripts/data-fetch/gemeinde_achsen_osm.py $N
+fi
 echo "== Gemeinde-Webseiten $(date +%T)"
 python -X utf8 scripts/data-fetch/gemeinde_achsen_quellen_amtlich.py $N | tail -n +1
 echo "== Extraktion v0.7 (Haiku) $(date +%T)"

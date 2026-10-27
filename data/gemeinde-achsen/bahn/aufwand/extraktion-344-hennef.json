@@ -1,21 +1,21 @@
 {
  "stufe": "extraktion",
  "ort": "344-hennef",
- "prompt": "prompt-stufe1-v0.6.txt",
+ "prompt": "prompt-stufe1-v0.7.txt",
  "modell_wunsch": "haiku",
  "modelle": [
   "claude-haiku-4-5-20251001"
  ],
- "eingabe_zeichen": 23512,
- "token_ein": 24047,
- "token_aus": 15309,
+ "eingabe_zeichen": 129984,
+ "token_ein": 63712,
+ "token_aus": 12904,
  "usage": {
   "input_tokens": 9,
-  "cache_creation_input_tokens": 16910,
+  "cache_creation_input_tokens": 56575,
   "cache_read_input_tokens": 7128,
-  "output_tokens": 15309,
+  "output_tokens": 12904,
   "output_tokens_details": {
-   "thinking_tokens": 7780
+   "thinking_tokens": 1544
   },
   "server_tool_use": {
    "web_search_requests": 0,
@@ -23,19 +23,19 @@
   },
   "service_tier": "standard",
   "cache_creation": {
-   "ephemeral_1h_input_tokens": 16910,
+   "ephemeral_1h_input_tokens": 56575,
    "ephemeral_5m_input_tokens": 0
   },
   "inference_geo": "not_available",
   "iterations": [
    {
     "input_tokens": 9,
-    "output_tokens": 15309,
+    "output_tokens": 12904,
     "cache_read_input_tokens": 7128,
-    "cache_creation_input_tokens": 16910,
+    "cache_creation_input_tokens": 56575,
     "cache_creation": {
      "ephemeral_5m_input_tokens": 0,
-     "ephemeral_1h_input_tokens": 16910
+     "ephemeral_1h_input_tokens": 56575
     },
     "type": "message"
    }
@@ -43,8 +43,8 @@
   "speed": "standard",
   "fallback_credit": null
  },
- "kosten_usd": 0.1110868,
- "sekunden": 121,
+ "kosten_usd": 0.1783918,
+ "sekunden": 105,
  "fehler": false,
- "zeit": "2026-10-14T10:16:24"
+ "zeit": "2026-10-27T08:28:52"
 }

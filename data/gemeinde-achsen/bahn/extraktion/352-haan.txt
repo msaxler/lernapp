@@ -1,25 +1,66 @@
 ENTITÄT: ort
 BEZEICHNUNG: Haan
-EIGENSCHAFTEN:
-  einwohner: 29973 [stand: 31.12.2025]
-  flaeche: 24.19 [km²]
-  bevoelkerungsdichte: 1239 [Einwohner/km²]
-  raumwaermebedarf: 331 [GWh/a]
-  raumkaeltebedarf: 4.8 [GWh/a]
-  prozesswaermebedarf: 78 [GWh/a]
+FACETTE: LAGE
 QUELLE: https://www.haan.de/Wirtschaft-Stadtentwicklung/Umwelt-Nachhaltigkeit/Kommunale-Energie-und-Wärmeplanung/Zahlen-Daten-Fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 29973 [Stand 31.12.2025]
+  flaeche: 24.19 [km²]
+  bewoelkerungsdichte: 1239 [Einwohner/km²]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Haan
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Haan | Wikipedia
+EIGENSCHAFTEN:
+  entfernung_duesseldorf: 18 [km]
+  entfernung_wuppertal: 13 [km]
+  region: Bergisches Land
+  uebergang_zu: Niederrheinische Bucht
+  hoechster_punkt: 213 [m ü. NN]
+  tiefster_punkt: 72 [m ü. NN]
+  angrenzende_staedte: Mettmann, Wuppertal, Solingen, Hilden, Erkrath
+  hauptfluesse: Düssel (nördlich), Itter (südlich)
+  ranking_kreis_mettmann: drittkleinste der zehn Städte
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: wappen
-BEZEICHNUNG: Stadtwappen von Haan
+ENTITÄT: stadt_charakteristik
+BEZEICHNUNG: Gartenstadt Haan
+FACETTE: LAGE
+QUELLE: https://www.haan.de/Kultur-Freizeit/Tourismus/ | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  jahr_erstellung: 1937
-  status: offizielles Hoheitszeichen
-  symbol_bezug: Bergischer Kräher
+  namenszusatz: Gartenstadt
+  namenszusatz_verliehen: 14.07.2017
+  beschreibung: liebenswerte, gemütliche und naturnahe Stadt
+  besonderheit_natur: herrliche Natur und grüne Infrastruktur
+  landschaftliche_charakteristika: Düsseltal (Norden), Haaner Bachtal (Osten), Ittertal mit lichtem Buchenwald (Süden)
+  auspraegung_durch: Bergisches Land und Rheinland
+  bedeutung_fuer_ort: Ursprung ist 19. Jahrhundert mit Wohnhäusern mit großen Gartenflächen und Samenhandlungen in der Wirtschaft
+GUELTIG_AB: 2017
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Stadtwappen Haan
+FACETTE: POLITIK
 QUELLE: https://www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Wappen-Logo/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schutzstatus: geschützt
+  verleihung: 29.04.1937
+  geberbehoerde: Oberpräsident der Rheinprovinz
+  designer: Wolfgang Pagenstecher
+  blasonierung: in Silber ein schreitender, rot bewehrter schwarzer Hahn, unter dem erhobenen rechten Fuß eine schräglinks gestürzte, ausgerissene, rotbekielte schwarze Feder
+  charakteristikum: redendes Wappen
+  namenserklärung: Bergischer Kräher kennzeichnet den Charakter des bergischen Landes
+GUELTIG_AB: 1937
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 
@@ -27,166 +68,917 @@ VERTRAUEN_EXTRAKTION: 0.95
 
 ENTITÄT: logo
 BEZEICHNUNG: Logo der Stadt Haan
-EIGENSCHAFTEN:
-  jahr_entwicklung: 2017
-  basiert_auf: stilisiertes Wappen
-  symbol: Bergischer Kräher
-  farbe: hellgrün
-  entwurf_von: COGAMARKETING
+FACETTE: POLITIK
 QUELLE: https://www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Wappen-Logo/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  basierend_auf: stilisiertes Wappen
+  entwickelt_von: COGAMARKETING
+  entwicklung_jahr: 2017
+  kernmerkmal: Bergischer Kräher
+  farbe: hellgrün
+  absicht: freundlicher und moderner wirken ohne vertraute Form zu verändern
+  bedeutung_fuer_ort: Kern des neuen Erscheinungsbildes
+GUELTIG_AB: 2017
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: institution
-BEZEICHNUNG: Stadtarchiv Haan
+ENTITÄT: energieversorgung
+FACETTE: INFRA
+QUELLE: https://www.haan.de/Wirtschaft-Stadtentwicklung/Umwelt-Nachhaltigkeit/Kommunale-Energie-und-Wärmeplanung/Zahlen-Daten-Fakten/ | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  funktion: zentrale Dokumentations- und Informationsstelle zur Stadtgeschichte
-  entstehung_jahr: 1991
-  bestand_ab: Mitte 19. Jahrhundert bis Gegenwart
-QUELLE: https://www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Stadtarchiv/ | Gemeinde-Webseite
-GUELTIG_AB: 1991
+  photovoltaikanlagen_anzahl: 1668 [Stand 8.4.2026]
+  pv_leistung: 18 [MWp]
+  freiflaechenanlagen_vorhanden: false
+  windkraftanlagen_vorhanden: false
+  pv_ausbau_trend: deutlich beschleunigt in letzten Jahren
+  pv_ausbaupotential: hoch
+GUELTIG_AB: 2026
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: zeitung
-BEZEICHNUNG: Haaner Volks-Zeitung / Haaner Zeitung
-EIGENSCHAFTEN:
-  digitalisierung: ab 2018 verfügbar
-  plattform: zeitpunkt NRW
-QUELLE: https://www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Stadtarchiv/ | Gemeinde-Webseite
-GUELTIG_AB: 2018
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: strassenname
-BEZEICHNUNG: Alsenstraße
-EIGENSCHAFTEN:
-  benannt_nach: dänische Insel Alsen und Alsensund
-  datum_benennung: vor 1905
-  anlass: Landung preußischer Truppen 29. Juni 1864 im Deutsch-Dänischen Krieg 1864
-  verband_mit_ereignis: deutscher Sieg, ca. 3500 Soldaten starben/wurden verwundet oder gefangen
-QUELLE: https://www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Legendenschilder-Haaner-Straßennamen/ | Gemeinde-Webseite
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: strassenname
-BEZEICHNUNG: Düppelstraße
-EIGENSCHAFTEN:
-  benannt_nach: Düppeler Schanzen
-  datum_benennung: vor 1905
-  anlass: dänische Befestigungsanlage; Eroberung durch preußische Truppen 18. April 1864
-  verband_mit_ereignis: Deutsch-Dänischer Krieg 1864, ca. 6000 Soldaten starben/wurden verwundet oder gefangen
-QUELLE: https://www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Legendenschilder-Haaner-Straßennamen/ | Gemeinde-Webseite
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: strassenname
-BEZEICHNUNG: Königgrätzer Straße
-EIGENSCHAFTEN:
-  benannt_nach: Ort Königgrätz in Böhmen
-  datum_benennung: vor 1905
-  anlass: Entscheidungsschlacht im Deutschen Krieg 3. Juli 1866
-  verband_mit_ereignis: kriegsentscheidender Sieg der Preußen über österreichisch-sächsische Armee, 52000-53000 Soldaten starben/wurden verwundet/vermisst/gefangen
-QUELLE: https://www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Legendenschilder-Haaner-Straßennamen/ | Gemeinde-Webseite
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: kirche
-BEZEICHNUNG: ehemalige Haaner Kirche
-EIGENSCHAFTEN:
-  weihe_jahr: 935
-  weihe_durch: Erzbischof Wichfried
-  abbruch_jahr: 1863
-ORTSTEIL_BEZUG: Alter Kirchplatz
-QUELLE: https://www.haan.de/Stadt-Rathaus/Stadt/Denkmalpflege/ | Gemeinde-Webseite
-GUELTIG_BIS: 1863
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: denkmal
-BEZEICHNUNG: Muelhenwuestung Brackermühle
-PROPERTIES:
-  zeitalter: Mittelalter
-  status: Bodendenkmal
-ORTSTEIL_BEZUG: Bracken
-QUELLE: https://www.haan.de/Stadt-Rathaus/Stadt/Denkmalpflege/ | Gemeinde-Webseite
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: fabrik
-BEZEICHNUNG: Kornbrennerei und Likörfabrik Borgmann
-EIGENSCHAFTEN:
-  gruendungsjahr: 1848
-  gruender: Ludwig Forsthoff
-  produkte: Alkohol aus Weizen, Roggen, Gerste
-  jahresproduktion_konzession: 450 [hl]
-QUELLE: https://www.haan.de/Stadt-Rathaus/Stadt/Denkmalpflege/ | Gemeinde-Webseite
-GUELTIG_AB: 1848
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: eisenbahnlinie
-EIGENSCHAFTEN:
-  strecke: Opladen - Haan - Gruiten - Elberfeld
-  eroeffnung: 25.09.1867
-  ausbau: erweitert bis Mühlheim, Deutz und Köln bis 01.02.1872
-  superlativ: erste westdeutsche Eisenbahnlinie Düsseldorf-Haan/Gruiten-Vohwinkel 1841
-QUELLE: https://www.haan.de/Stadt-Rathaus/Stadt/Denkmalpflege/ | Gemeinde-Webseite
-GUELTIG_AB: 1867
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 1.0
 
 ---
 
 ENTITÄT: waermeversorgung
+FACETTE: INFRA
+QUELLE: https://www.haan.de/Wirtschaft-Stadtentwicklung/Umwelt-Nachhaltigkeit/Kommunale-Energie-und-Wärmeplanung/Zahlen-Daten-Fakten/ | Gemeinde-Webseite
 EIGENSCHAFTEN:
+  dominanter_energietraeger: Gas
   anteil_gas: 79 [%]
   anteil_oel: 13 [%]
   anteil_strom: 4 [%]
   anteil_fernwaerme: 1 [%]
   anteil_erneuerbare_waerme: 3 [%]
   anteil_holz: 1 [%]
-  dominanter_energietraeger: Gas
-QUELLE: https://www.haan.de/Wirtschaft-Stadtentwicklung/Umwelt-Nachhaltigkeit/Kommunale-Energie-und-Wärmeplanung/Zahlen-Daten-Fakten/ | Gemeinde-Webseite
+  waermepumpen_anteil: gering [trotz steigender Sichtbarkeit]
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 1.0
 
 ---
 
-ENTITÄT: photovoltaikanlagen
+ENTITÄT: denkmalbereich
+BEZEICHNUNG: Denkmalbereich II - Stadtmitte Haan
+FACETTE: GESCHICHTE
+QUELLE: https://www.haan.de/Kultur-Freizeit/Tourismus/Haan-entdecken/ | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  anzahl: 1668 [stand: 08.04.2026]
-  gesamtleistung: 18 [MWp]
-  status: keine Freiflächen-PV, keine Windkraftanlagen auf Stadtgebiet
-QUELLE: https://www.haan.de/Wirtschaft-Stadtentwicklung/Umwelt-Nachhaltigkeit/Kommunale-Energie-und-Wärmeplanung/Zahlen-Daten-Fakten/ | Gemeinde-Webseite
+  lage: Kaiserstraße
+  bauweise: bergische Architektur
+  charakteristische_merkmale: dunkler Schiefer, grüne Fensterläden
+  atmosphaere: ganz besondere Atmosphäre
+GUELTIG_AB: 1937
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: denkmaeler_bestand
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gruiten
+ORTSTEIL_BEZUG: Gruiten
+FACETTE: GESCHICHTE
+QUELLE: https://www.haan.de/Kultur-Freizeit/Tourismus/Haan-entdecken/ | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  baudenkmaeler: 135
-  bodendenkmaler: 4
-  denkmalbereiche: 3
-QUELLE: https://www.haan.de/Wirtschaft-Stadtentwicklung/Planen-Bauen/Bauaufsicht-Denkmalschutz/ | Gemeinde-Webseite
+  charakterisierung: historisches Dorf, malerisches Kleinod
+  baustil: gut erhaltene Fachwerkhäuser
+  denkmalschutz_anteil: größter denkmalgeschützter Teil der Stadt Haan
+  typisch_bergisch: true
+  historischer_kontext: bis 1960er Jahre geprägt durch Kalkabbau
+  aeltestes_bauwerk: Alten Kirchturm von Gruiten
+  zweitalte_struktur: Haus am Quall (mindestens ein Gebäudetrakt 14. Jahrhundert)
+  kirchen: evangelisch-reformierte Kirche (1721), katholische St.-Nikolaus-Kirche (1879)
+GUELTIG_AB: 1200
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Grube 7
+ORTSTEIL_BEZUG: Gruiten
+FACETTE: FREIZEIT
+QUELLE: https://www.haan.de/Kultur-Freizeit/Tourismus/Haan-entdecken/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorherigenutzung: Steinbruch
+  abbaugut: Dolomit
+  schutzstatus: Naturschutzgebiet ausgewiesen
+  betreuung: Arbeitsgemeinschaft Natur und Umwelt e.V. (AGNU)
+  flora_fauna_besonderheiten: mehrere Hundert schützenswerte Pflanzen- und Tierarten, Orchideen, Kreuz- und Geburtshelferkröten
+  betreten_verboten: true
+  erkundung_moeglich: Wanderwege mit Aussichtspunkten an alten Bruchkanten
+  bedeutung_fuer_ort: Naherholungsgebiet, hervorragende Naturerlebnis
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum "Haus Stöcken"
+FACETTE: FREIZEIT
+QUELLE: https://www.haan.de/Kultur-Freizeit/Tourismus/Haan-entdecken/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwaenung: 1365
+  bedeutung: Geburtshaus des Heimat- und Mundartdichters Jakob Litsch
+  status: einziges Heimatmuseum der Stadt Haan
+  sammlungen: Pistolensammlung, Dröppelmina, alte Rechnungen, Dariuskopf vom Taufbecken der alten Haaner Kirche
+  eigentuemerin: Anne Backhaus
+GUELTIG_AB: 1365
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Königs Klassik-Radios - Das Autoradiomuseum
+FACETTE: FREIZEIT
+QUELLE: https://www.haan.de/Kultur-Freizeit/Tourismus/Haan-entdecken/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  spezialisierung: seltene Autoradios
+  eroeffnung: 2002
+  bedeutung_fuer_ort: erstes Autoradiomuseum in Haan
+  zielgruppe: Oldtimer-Fans
+GUELTIG_AB: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: fluss
+BEZEICHNUNG: Itter
+FACETTE: LAGE
+QUELLE: https://www.haan.de/Kultur-Freizeit/Tourismus/Haan-entdecken/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 19.939 [m]
+  quelle: Solingen-Gräfrath (Haus Grünewald)
+  muendung: Rhein [bei Düsseldorf-Benrath]
+  durchquerte_staedte: Solingen, Haan, Hilden, Düsseldorf
+  stadtgrenzenfunktion: bildet zu großen Teilen Grenze zwischen Haan und Solingen
+  flusslauf_auf_haaner_stadtgebiet: ca. 4 [km]
+  nebenfluesse_haan: Haaner Bach, Heidberger Bach
+  heutiger_status: Naturschutzgebiet seit 1997
+  historische_bedeutung: Energiequelle für Kottenwirtschaft über mehrere Jahrhunderte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: industriegeschichte
+BEZEICHNUNG: Kottenwirtschaft an der Itter
+ORTSTEIL_BEZUG: Haan
+FACETTE: GESCHICHTE
+QUELLE: https://www.haan.de/Kultur-Freizeit/Tourismus/Haan-entdecken/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tätigkeit: Schleifen von Klingen und Mahlen von Getreide mittels Wasserkraft
+  zeitraum: mehrere Jahrhunderte
+  produkte_historisch: Schwerterklingen, Messerklingen, Scheren, Rasierklingen
+  erste_dokumentation: 15. Jahrhundert
+  blütezeit: folgende Jahrhunderte
+  betroffene_region: Bergisches Land (auch Solingen, Hilden, Wupper, etc.)
+  energiequelle: Wasserkraft der Itter und anderer Flüsse
+  betriebsweise: Wasserräder trieben Schleifsteine und Mühlräder an
+  abgabe_system: Wasserkenntnis (Abgabe an Landesherren als Flusseigentümer)
+  ausstaffung: Gewaltschütz (Einlaufschleuse), Stauteiche, Ober- und Untergraben
+  anzahl_auf_haaner_stadtgebiet: vier Kotten und drei Mühlen an der Itter, weitere an Bachläufen
+  arbeitsbedingungen: gefährlich und ungesund
+  berufskrankheiten: Lungenschwindsucht, Silikos (Schleiferkrankheit)
+  arbeitersicherheit: häufige Arbeitsunfälle, Todesfälle durch Schleifstein-Bruch
+  ende_der_aera: Elektrizität ersetzte Wasserkraft
+  heute: keine Kotten und Mühlen mehr in ursprünglicher Funktion, Gebäude teilweise unter Denkmalschutz, Nutzung als Wohnhäuser oder Restaurants
+GUELTIG_BIS: 1962
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kotten
+BEZEICHNUNG: Bastianskotten
+ORTSTEIL_BEZUG: Haan
+FACETTE: GESCHICHTE
+QUELLE: https://www.haan.de/Kultur-Freizeit/Tourismus/Haan-entdecken/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Schleifkotten
+  vorhanden_seit: 18. Jahrhundert
+  alternative_bezeichnung: Bausekotten
+  benannt_nach: früherer Besitzer
+  schleifstellen: bis zu 20
+  produkte: Rasiermesser, Taschenmesser, Besteck
+  betriebsende: 1912 [evtl. noch einige Jahre länger]
+  status_heute: privatem Besitz, Fachwerkhaus erhalten
+GUELTIG_BIS: 1912
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kotten
+BEZEICHNUNG: Ernenkotten
+ORTSTEIL_BEZUG: Haan
+FACETTE: GESCHICHTE
+QUELLE: https://www.haan.de/Kultur-Freizeit/Tourismus/Haan-entdecken/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Schleifkotten
+  vorhanden_seit: Anfang 18. Jahrhundert
+  alternative_bezeichnung: Mutz- oder Weckskotten
+  eigentuemer_um_1780: Mutz und Wecks
+  arbeitsstellen_um_1780: 5
+  infrastruktur_um_1780: kleine Nebengebäude
+  umbau_jahr: 1842
+  umbau_durch: Carl Wilhelm Ern
+  umbau_beschreibung: deutlich größerer Schleifkotten errichtet
+  arbeitsstellen_um_1860: 32
+  beschaeftigte_um_1860: ca. 20
+  produkte_1860ff: Rasiermesser [Schleifen]
+  vollproduktion_ab: 1873
+  zusatzeinrichtungen: Schmiede, Härtungsbereich
+  verlegung_produktion: Herstellung von Rasiermessern später an anderen Ort verlegt
+  betriebsende: 1962
+  status_heute: Denkmalschutz, Nutzung als Wohnhaus
+  bauweise: verschiefert, Fachwerkhaus
+  infrastruktur_restauriert_1985: Ober- und Untergraben sowie Wasserrad
+GUELTIG_BIS: 1962
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Carl Friedrich Ern
+FACETTE: GESCHICHTE
+QUELLE: https://www.haan.de/Kultur-Freizeit/Tourismus/Haan-entdecken/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Schleifer, Erfinder, Betriebsinhaber des Ernenkotten
+  erfindung: erste Rasiermesserschleifmaschine
+  erfindungsjahr: 1893
+  bedeutung_international: weltweit bekannt geworden
+  generation: Enkel von Carl Wilhelm Ern
+  spezialisierung: Herstellung von Rasiermessern
+GUELTIG_AB: 1880
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: fernwanderweg
+BEZEICHNUNG: neanderland STEIG
+FACETTE: FREIZEIT
+QUELLE: https://www.haan.de/Kultur-Freizeit/Tourismus/Wandern-in-Haan/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: ca. 240 [km]
+  region: Niederbergisches Land
+  etappen: 17
+  charakteristik: Rundweg
+  auszeichnung: seit Ende 2014 ausgeschildert
+  wegzeichen: weißes N auf rotem Hintergrund
+  schwierigkeit: anspruchsvoll, nicht zu unterschätzende Anstiege
+  belohnung: herrliche Ausblicke
+  auf_haaner_stadtgebiet: Etappen 1 und 17
+  etappe_1_charakteristik: entlang der Düssel bis zur Quelle, historisches Dorf Gruiten
+  etappe_17_charakteristik: durchquert Ittertal, entlang alter Kotten und Mühlen
+  bedeutung_fuer_ort: Vielseitigkeit der Region, einzigartige Landschaft, interessante Sehenswürdigkeiten
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wanderwegrouten
+BEZEICHNUNG: Entdeckerschleifen
+FACETTE: FREIZEIT
+QUELLE: https://www.haan.de/Kultur-Freizeit/Tourismus/Wandern-in-Haan/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Rundwanderwege
+  relation_zu_steig: gehen vom neanderland STEIG ab
+  seit: 2018
+  anzahl_auf_haaner_gebiet: 3
+  charakteristik: liebliche und typische Haanerbachtäler, idyllische Wiesen mit alten Gehöften, Kalkabbau-Zeugnisse, historische denkmalgeschützte Häuser
+  beispiele: Haan-Gruiten Süd, Haaner Innenstadtrunde, Kalkspuren, Romantisches Düsseltal
+GUELTIG_AB: 2018
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wanderführer
+BEZEICHNUNG: Kalkspurenwanderführer
+FACETTE: FREIZEIT
+QUELLE: https://www.haan.de/Kultur-Freizeit/Tourismus/Wandern-in-Haan/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Kalkabbau
+  region: Ortsteil Haan-Gruiten
+  verantwortung: Förderverein Haus am Quall e.V.
+  routen: zwei Wanderrouten
+  davon_als_entdeckerschleife: Kalkspuren ausgezeichnet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Panoramaradweg niederbergbahn
+FACETTE: FREIZEIT
+QUELLE: https://www.haan.de/Kultur-Freizeit/Tourismus/Radfahren-in-Haan/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 40 [km]
+  route_start: Essen-Kettwig
+  route_ziel: Haan
+  zwischenstationen: Heiligenhaus, Velbert, Wülfrath
+  basis: ehemalige Bahntrasse
+  barrierefreiheit: barrierefreie Strecke
+  nutzung: Radfahrer, Fußgänger, Rollstühle
+  steigungen: kaum Steigungen trotz bergisches Land
+  bedeutung_fuer_ort: verbindet mit Neanderland-Region, gute Verkehrsanbindung für Tourismus
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: innenstadt
+BEZEICHNUNG: Haaner Innenstadt
+FACETTE: ALLTAG
+QUELLE: https://www.haan.de/Kultur-Freizeit/Tourismus/Einkaufen-in-Haan/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hauptstrassen: Kaiserstraße, Neuer Markt, Dieker Straße, Marktpassage
+  charakteristik: familiäre Atmosphäre
+  einzelhandel_charakteristik: viele kleine inhabergeführte Geschäfte
+  sortiment: Bücher, Bekleidung, Sportartikel, Haushaltswaren, Nahrungs- und Genussmittel
+  architektur: denkmalgeschützte Häuser im typischen bergischen Stil
+  bauweise: Schiefer mit grünen Fensterläden
+  infrastruktur: Cafés, Restaurants
+  attraktion: entspannter Einkaufsbummel mit besonderer Atmosphäre
+  fairtrade_auszeichnung: 3x als Fairtrade-Stadt ausgezeichnet (Januar 2016, 2018, 2020)
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: markt
+BEZEICHNUNG: Haaner Wochenmarkt
+FACETTE: ALLTAG
+QUELLE: https://www.haan.de/Kultur-Freizeit/Freizeit-Sport/Haaner-Wochenmarkt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tradition: lange Tradition
+  standort: Neuer Markt
+  haeufigkeit: jeden Mittwoch und Samstag
+  oeffnungszeiten: 07:00 - 13:00 Uhr
+  haendler_anzahl: ca. 30
+  angebot: Obst, Gemüse, Kartoffeln, Nüsse, Fleisch- und Wurstwaren, Brot- und Backwaren, Eier, holländischer Käse, mediterrane Feinkostprodukte
+  zusatz_angebot: Bekleidung, Mieder- und Metallwaren, Pflanzen, Blumen
+  infrastruktur: Imbissstände
+  qualitaet: frische, saisonale und regionale Produkte
+  besonderheit: persönliche Beziehung zu Händlern seit Jahrzehnten
+  bedeutung_fuer_ort: Treffpunkt für alle Altersgruppen, hohe Beliebtheit
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Haaner Kirmes
+FACETTE: FREIZEIT
+QUELLE: https://www.haan.de/Kultur-Freizeit/Tourismus/Einkaufen-in-Haan/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tradition: alljährliches Highlight, traditionsreich
+  periode_start: vorhergehender Freitag vor Dienstagsendbeginn
+  periode_ende: letzter Dienstag im September
+  besucherzahl: ca. 400000 jährlich
+  format: Straßenkirmes
+  infrastruktur: mehrere hundert Stände und Fahrgeschäfte
+  sperrungen: Haaner Innenstadt und Teil der B 228 gesperrt
+  bedeutung_fuer_ort: hoher Stellenwert für Haaner Bevölkerung, vergleichbar mit Karneval in anderen rheinischen Städten
+  kirmesmontag_besonderheit: Höhepunkt, Geschäfte und Ämter schließen früh, Schulen haben schulfrei, traditioneller Treffpunkt
+  ursprung: erste urkundliche Erwähnung Jahrmarkt 1386
+  abschluss: Feuerwerk am Dienstagabend von Schaustellern gestiftet
+GUELTIG_AB: 1386
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Haaner Sommer
+FACETTE: FREIZEIT
+QUELLE: https://www.haan.de/Kultur-Freizeit/Tourismus/Einkaufen-in-Haan/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_durchfuehrung: 2007
+  anlass_ursprung: Teilnahme am Landeswettbewerb "Ab in die Mitte"
+  zeit: während Sommerferien
+  ort: unterer Teil Neuer Markt westlich des Stadtbrunnens
+  transformation: wird in Strand verwandelt
+  sandmenge_beispiel: 2011 160 Tonnen
+  infrastruktur: Schirme, Strandkörbe, Spielgeräte, Strandpflanzen, Zelt, Volleyballnetz
+  programm: Sandburgenbauwettbewerb, Auftritte Haaner Vereine, Musik- und Künstlergruppen, gemeinsames Singen
+  trägerin: Haaner Sommer e.V. mit zahlreichen Helfern
+  zielgruppe: Jung und Alt
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Haaner Gartenlust
+FACETTE: FREIZEIT
+QUELLE: https://www.haan.de/Kultur-Freizeit/Tourismus/Einkaufen-in-Haan/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ziel: Wiederbelebung des Gartenstadt-Charakters
+  vorgaenger: Tag der Blume (1952, 1954)
+  premiere: Juni 2006
+  haeufigkeit: jährlich am ersten Sonntag im Juni
+  anzahl_gaerten_initial: zehn Privatgärten für Publikum geöffnet
+  aktivitaet: Prämierung besonders schöner Privatgärten
+  traeger: Privatinitiative
+GUELTIG_AB: 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Haaner Weinfest
+FACETTE: FREIZEIT
+QUELLE: https://www.haan.de/Kultur-Freizeit/Tourismus/Einkaufen-in-Haan/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tradition: traditionsreich
+  ort: Haaner Innenstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Haan à la carte
+FACETTE: FREIZEIT
+QUELLE: https://www.haan.de/Kultur-Freizeit/Tourismus/Einkaufen-in-Haan/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  haeufigkeit: alle zwei Jahre
+  ort: Haaner Innenstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Brunnenfest
+FACETTE: FREIZEIT
+QUELLE: https://www.haan.de/Kultur-Freizeit/Tourismus/Einkaufen-in-Haan/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Haaner Innenstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: straßenname_legende
+BEZEICHNUNG: Alsenstraße
+FACETTE: GESCHICHTE
+QUELLE: https://www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Legendenschilder-Haaner-Straßennamen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  benannt_nach: dänische Insel Alsen und der Alsensund
+  historischer_bezug: Landung preußischer Truppen am 29. Juni 1864 im Deutsch-Dänischen Krieg
+  historisches_ereignis: besiegelte deutschen Sieg
+  casualties: 3500 Soldaten starben, wurden verwundet oder gefangen genommen
+  datum_benennung: vor 1905
+  begründung_benennung: nicht bekannt
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: straßenname_legende
+BEZEICHNUNG: Düppelstraße
+FACETTE: GESCHICHTE
+QUELLE: https://www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Legendenschilder-Haaner-Straßennamen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  benannt_nach: Düppeler Schanzen, dänische Befestigungsanlage
+  historischer_bezug: Erstürmung durch preußische Truppen am 18. April 1864 im Deutsch-Dänischen Krieg
+  militaer_strategisch: versperrte preußischen Truppen den Weg zum Alsensund
+  casualties: 6000 Soldaten starben, wurden verwundet oder gefangen genommen
+  datum_benennung: vor 1905
+  begründung_benennung: nicht bekannt
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: straßenname_legende
+BEZEICHNUNG: Königgrätzer Straße
+FACETTE: GESCHICHTE
+QUELLE: https://www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Legendenschilder-Haaner-Straßennamen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  benannt_nach: Ort Königgrätz in Böhmen
+  historischer_bezug: Entscheidungsschlacht im Deutschen Krieg 3. Juli 1866
+  militaer_geschichtlich: Sieg der Preußen über österreichisch-sächsische Armee
+  superlativ: kriegsentscheidender Sieg
+  groesse: eine der bis dahin größten Schlachten der Kriegsgeschichte
+  truppenzahl: über 200000 Soldaten pro Seite
+  casualties: 52000-53000 Soldaten starben, wurden verwundet, vermisst oder gefangen genommen
+  datum_benennung: vor 1905
+  begründung_benennung: nicht bekannt
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: archiv
+BEZEICHNUNG: Stadtarchiv Haan
+FACETTE: INFRA
+QUELLE: https://www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Stadtarchiv/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: zentrale Dokumentations- und Informationsstelle zur Stadtgeschichte
+  metapher: Gedächtnis der Stadt
+  errichtung: 1991
+  rechtsgrundlage: Gesetz über Sicherung und Nutzung öffentlichen Archivgutes NRW (1989)
+  zeitraum_bestaende: von Mitte 19. Jahrhundert bis Gegenwart
+  aktivitaeten: Aufbewahrung, Sicherung, Verzeichnung, Zugang für Benutzer
+  digitalisierung: schrittweise Digitalisierung häufig genutzter Bestände
+  digitalisierte_quellen: Haaner Volks-Zeitung/Haaner Zeitung (seit 2018 auf zeitpunkt NRW), Personenstandsregister (2020 abgeschlossen)
+  benutzer: alle interessierten Bürger, Familienforschern, Anwälte, Gerichte
+  gebuehren: grundsätzlich kostenfrei, Gebühren für bestimmte Leistungen
+  ausnahmen_gebuehrenfrei: schulische und wissenschaftliche Forschung, Erforschung Stadtgeschichte (wenn Ergebnisse dem Archiv zur Verfügung gestellt)
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: publikation
+BEZEICHNUNG: Stadtchronik Haan
+FACETTE: GESCHICHTE
+QUELLE: https://www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Stadtarchiv/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  traeger: Archiv der Stadt Haan
+  zeitraum: von erste nachgewiesene Nennung einer Siedlung bis 100-jähriges Jubiläum der Stadtrechte
+  inhalte: relevante Ereignisse aus Politik, Verwaltung und Gesellschaft
+  publikationsform: früher online, jetzt auch gedruckte Version
+  illustrationen: Bildmaterial, Karten, Liedtexte, Gedichte
+  spezialteile: grüne Infokästen mit Titel "Haan wird Stadt" über den Weg zur Stadtwerdung
+  zielgruppe_spezial: kleine Haaner Bürger (Rathaus als Ausmalbild)
+  besonderheit: Seite 68 mit Test zur Haaner Mundart
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: AG Natur + Umwelt Haan e.V.
+FACETTE: FREIZEIT
+QUELLE: https://www.haan.de/Wirtschaft-Stadtentwicklung/Umwelt-Nachhaltigkeit/Klimaschutz-in-der-Gartenstadt/Wir-vor-Ort-/Vereine-Initiativen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Naturschutz und Umwelt, Klimaschutz
+  betreuung_objekte: Grube 7, Amphibiengewässer, Orchideenwiesen, Kopfbäume
+  aktivitaeten: ehrenamtliche Arbeit
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Förderverein Haus Am Quall e.V.
+FACETTE: FREIZEIT
+QUELLE: https://www.haan.de/Wirtschaft-Stadtentwicklung/Umwelt-Nachhaltigkeit/Klimaschutz-in-der-Gartenstadt/Wir-vor-Ort-/Vereine-Initiativen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fokus: Kalkabbau-Geschichte, Wanderführer
+  objekt_restaurierung: Haus am Quall
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Haans
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Haan | Wikipedia
+EIGENSCHAFTEN:
+  typ: Stadtmaskottchen
+  designer: Franz Leinfelder [aufgewachsen in Haan, geboren 1941 in Solingen]
+  material: lackiertes Stahlblech
+  hersteller: Heuser-Apparatebau
+  grosse_skulpturen: 8 verschiedenfarbige, bis zu 4,50 m hoch
+  standorte_grosser: Kreisverkehr Alleestraße, Kreisel Ohligser Straße, Kellertor (Flurstraße), Bahnhofstraße, Böttingerstraße
+  kleine_skulpturen: 18 verkäufliche Exemplare für Schaufenster und Ladenlokale
+  ausstellung_vor_aufstellung: zehn Jahre Wanderschaft durch deutsche Museen und Ausstellungen
+  initiative: Arbeitskreis aus ehemaliger Privat-Initiative "Haan-Quer"
+  bedeutung_fuer_ort: Charakteristikum und Wiedererkennungszeichen
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St.-Chrysanthus-und-Daria-Kirche
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Haan | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+  vorgaenger: neugotische Kirche von 1869
+  neubau_jahr: 1956
+  architektur: modern
+  traeger: katholische Kirchengemeinde
+GUELTIG_AB: 1956
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Haan
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Haan | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  erbaut: 1864
+  material: Backsteinbau
+  vorgaenger: romanische Kirche vom Alten Kirchplatz [seit ca. 850, abgerissen 1863]
+  besonderheit: erhaltener Türstein der alten Kirche (einer der ältesten Kirchensteine Deutschlands)
+  lage: Kaiserstraße
+GUELTIG_AB: 1864
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Becherhus
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Haan | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1728
+  baustil: Bergischer Barock, Schieferbauweise
+  nutzung: Gaststätte seit jeher
+  lage: Kaiserstraße
+  besonderheit: viel genutzter Bau
+  beschaedigung: Brand 1998 zerstörte Dachgeschoss
+  wiederherstellung: Restaurierung durchgeführt
+GUELTIG_AB: 1728
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rathaus Haan
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Haan | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1902-1903
+  baustil: Historismus
+  designer: Wilhelm Stricker [Gemeindebaumeister]
+  lage: Kaiserstraße
+  besonderheit: geschmückter Giebel über großen Bleiglasfenstern des Ratssaales, Türmchen zur Rechten
+GUELTIG_AB: 1903
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: siedlung
+BEZEICHNUNG: Hofgruppe am unteren Nachbarsberg
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Haan | Wikipedia
+EIGENSCHAFTEN:
+  typ: Wohn- und Arbeitssiedlung
+  gebaeude: zehn ehemalige Weber- und Schleiferhäuser
+  bauweise: Schiefer- und Fachwerkhäuser
+  schutzstatus: komplett denkmalgeschützt
+  bedeutung: vermittelt guten Eindruck des alten Haan
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Mahnertmühle
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Haan | Wikipedia
+EIGENSCHAFTEN:
+  typ: ehemalige Mühle
+  erbaut: 14. Jahrhundert
+  lage: Stadtgrenze zu Erkrath
+  schutzstatus: unter Denkmalschutz seit 1982
+  nutzung_heute: Restaurant
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: haus
+BEZEICHNUNG: Haus am Quall
+ORTSTEIL_BEZUG: Gruiten
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Haan | Wikipedia
+EIGENSCHAFTEN:
+  datierung: mindestens ein Gebäudetrakt 14. Jahrhundert
+  lage: Gruiten-Dorf
+  restauration: durch Förderverein Haus am Quall aufwendig restauriert
+  nutzung_heute: Veranstaltungen, Lehr- und Informationsveranstaltungen
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelisch-reformierte Kirche Gruiten
+ORTSTEIL_BEZUG: Gruiten
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Haan | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch-reformiert
+  erbaut: 1721
+  lage: Gruiten-Dorf
+GUELTIG_AB: 1721
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St.-Nikolaus-Kirche Gruiten
+ORTSTEIL_BEZUG: Gruiten
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Haan | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+  erbaut: 1879
+  lage: Gruiten-Dorf
+GUELTIG_AB: 1879
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: krankenhaus
+BEZEICHNUNG: St.-Josef-Krankenhaus
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Haan | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1966
+  gruender: Steyler Missionsschwestern
+  betreiberkonzern: Kplus-Gruppe
+  mitarbeiter_zuletzt: ca. 400
+  schliessung: Dezember 2023 aufgrund Insolvenz des Trägers
+  status_heute: geschlossen
+GUELTIG_BIS: 2023
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Städtisches Gymnasium Haan
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Haan | Wikipedia
+EIGENSCHAFTEN:
+  typ: Gymnasium
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Waldorfschule Gruiten
+ORTSTEIL_BEZUG: Gruiten
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Haan | Wikipedia
+EIGENSCHAFTEN:
+  typ: freie Waldorfschule
+  errichtung: 1984
+GUELTIG_AB: 1984
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Bohle Gruppe
+FACETTE: WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Haan | Wikipedia
+EIGENSCHAFTEN:
+  produkt: Geräte und Maschinen zur Glasbearbeitung
+  bedeutung_fuer_ort: ansässiges Unternehmen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Ostermann Einrichtungshaus
+FACETTE: WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Haan | Wikipedia
+EIGENSCHAFTEN:
+  branche: Möbelhandel/Einrichtung
+  bedeutung_fuer_ort: ansässiges Unternehmen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Visaton
+FACETTE: WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Haan | Wikipedia
+EIGENSCHAFTEN:
+  produkt: Lautsprecher und Beschallungslösungen
+  bedeutung_fuer_ort: ansässiges Unternehmen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadt_partnerschaft
+BEZEICHNUNG: Dobrodzień
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Haan | Wikipedia
+EIGENSCHAFTEN:
+  land: Polen
+  region: Oberschlesien
+  historische_bezeichnung: ehemaliger Kreis Guttentag-Loben
+  patenschaft_errichtung: 1957
+  patenschaft_grund: deutsch-polnische Versöhnung
+  umwandlung_zu_partnerschaft: 2004
+  partition_zeitraum: Patenschaft 1957, Städtepartnerschaft seit 2004
+GUELTIG_AB: 1957
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadt_partnerschaft
+BEZEICHNUNG: Eu
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Haan | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: Normandie
+  errichtung: 1967
+GUELTIG_AB: 1967
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadt_partnerschaft
+BEZEICHNUNG: Berwick-upon-Tweed
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Haan | Wikipedia
+EIGENSCHAFTEN:
+  land: Vereinigtes Königreich
+  errichtung: 1982
+GUELTIG_AB: 1982
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadt_partnerschaft
+BEZEICHNUNG: Bad Lauchstädt
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Haan | Wikipedia
+EIGENSCHAFTEN:
+  land: Deutschland
+  region: Sachsen-Anhalt
+  errichtung: nach Wiedervereinigung 1990
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: auszeichnung
+BEZEICHNUNG: Europadiplom
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Haan | Wikipedia
+EIGENSCHAFTEN:
+  verleihende_organisation: Europarat
+  vergabejahr: 1994
+  grund: Engagement in partnerschaftlichen Beziehungen
+  ehrentitel: Gemeinde Europas
+GUELTIG_AB: 1994
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: auszeichnung
+BEZEICHNUNG: Ehrenfahne des Europarats
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Haan | Wikipedia
+EIGENSCHAFTEN:
+  verleihende_organisation: Europarat
+  vergabejahr: 1999
+GUELTIG_AB: 1999
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

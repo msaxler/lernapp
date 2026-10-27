@@ -1,21 +1,21 @@
 {
  "stufe": "extraktion",
  "ort": "360-heisingen",
- "prompt": "prompt-stufe1-v0.6.txt",
+ "prompt": "prompt-stufe1-v0.7.txt",
  "modell_wunsch": "haiku",
  "modelle": [
   "claude-haiku-4-5-20251001"
  ],
- "eingabe_zeichen": 23204,
- "token_ein": 24510,
- "token_aus": 13469,
+ "eingabe_zeichen": 35247,
+ "token_ein": 28028,
+ "token_aus": 14988,
  "usage": {
   "input_tokens": 9,
-  "cache_creation_input_tokens": 17373,
+  "cache_creation_input_tokens": 20891,
   "cache_read_input_tokens": 7128,
-  "output_tokens": 13469,
+  "output_tokens": 14988,
   "output_tokens_details": {
-   "thinking_tokens": 1130
+   "thinking_tokens": 3880
   },
   "server_tool_use": {
    "web_search_requests": 0,
@@ -23,19 +23,19 @@
   },
   "service_tier": "standard",
   "cache_creation": {
-   "ephemeral_1h_input_tokens": 17373,
+   "ephemeral_1h_input_tokens": 20891,
    "ephemeral_5m_input_tokens": 0
   },
   "inference_geo": "not_available",
   "iterations": [
    {
     "input_tokens": 9,
-    "output_tokens": 13469,
+    "output_tokens": 14988,
     "cache_read_input_tokens": 7128,
-    "cache_creation_input_tokens": 17373,
+    "cache_creation_input_tokens": 20891,
     "cache_creation": {
      "ephemeral_5m_input_tokens": 0,
-     "ephemeral_1h_input_tokens": 17373
+     "ephemeral_1h_input_tokens": 20891
     },
     "type": "message"
    }
@@ -43,8 +43,8 @@
   "speed": "standard",
   "fallback_credit": null
  },
- "kosten_usd": 0.1028128,
- "sekunden": 97,
+ "kosten_usd": 0.11744379999999999,
+ "sekunden": 114,
  "fehler": false,
- "zeit": "2026-10-14T10:40:12"
+ "zeit": "2026-10-27T00:05:45"
 }

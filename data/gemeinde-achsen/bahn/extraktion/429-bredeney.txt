@@ -1,241 +1,320 @@
 ENTITÄT: ort
-BEZEICHNUNG: Bredeney
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+FACETTE: LAGE | GESCHICHTE | ALLTAG
 EIGENSCHAFTEN:
-  ist_stadtteil: true
-  übergeordnete_stadt: Essen
-  lage_im_stadtteil: südlich
-  angrenzende_stadtteile: Fischlaken, Werden, Schuir, Haarzopf, Margarethenhöhe, Rüttenscheid, Stadtwald, Heisingen
-  erste_erwaenung: 875
-  erste_erwaenung_anlass: Einweihung einer Kirche in Werden
-  namensherkunft: breite Au
-  einwohnerzahl: 10966
-  einwohnerzahl_stand: 31. März 2025
-  eingemeinde_datum: 1. April 1915
-  geographische_region: südliches Ruhrgebiet, Ruhrhöhen, Übergang Westenhellwegs zum Ruhrtal
-  naturraum: Bergisch-Sauerländisches Unterland
-GUELTIG_AB: 875
+  ist_stadtteil_von: Essen
+  lage_im_ort: südlich
+  ersterwaehnung: 10. November 875
+  namensherkunft: altsächsisch "bred" oder althochdeutsch "breit" für "zur breiten, breit hingelagerten Aue"
+  eingemeindung_zu_essen: 1. April 1915
+  charakterisierung: grüner Stadtteil mit Erholungscharakter
+  nachbarstaedter: Fischlaken, Werden, Schuir, Haarzopf, Margarethenhöhe, Rüttenscheid, Stadtwald, Heisingen
+  topographie: südliches Ruhrgebiet an den Ruhrhöhen, Übergang Westenhellwegs zum Ruhrtal, Teil des Bergisch-Sauerländischen Unterlands
+  wald: Stadtwald (ausgedehnte Waldfläche), Kruppwald
+  bevölkerung_einwohner: 10966
+  bevölkerung_stand: 31. März 2025
+  bevölkerungsanteil_unter_18: 15.3 %
+  bevölkerungsanteil_ab_65: 26.5 %
+  auslaenderanteil: 9.7 %
+  wohncharakter: "überwiegend Ein- und Zweifamilienhäuser, begehrter Stadtteil aufgrund charmanter Lage am Baldeneysee"
+QUELLE: https://www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_geschichte.de.html | Gemeinde-Webseite
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: bauwerk_religioes
-BEZEICHNUNG: Kapelle Allerheiligsten Dreifaltigkeit
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+ENTITÄT: stadtteilwappen
+BEZEICHNUNG: Stadtteilwappen Bredeney
+FACETTE: GESCHICHTE
 EIGENSCHAFTEN:
-  art: Kapelle
-  erbaut: 1036
-  erbaut_durch: Abt Gerold
-  zweck: Zu Ehren der Allerheiligsten Dreifaltigkeit
-GUELTIG_AB: 1036
+  blasonierung: "In Grün ein silberner (weißer) Balken belegt mit einem schwarzen Wechselzinnenbalken"
+  entworfer: Kurt Schweder
+  entwerfungszeit: Ende 1970er Jahre
+  gestaltung: Heraldik
+  bedeutung_gruener_hintergrund: "Aue, abgeleitet von Bredenoye, Bredanaia oder Bredonoia"
+  bedeutung_silberner_balken: Wappen der Herren von Bottlenberg
+  verwendung: "von der Essener Bevölkerung gut angenommen, inoffizieller Charakter"
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: schloss
-BEZEICHNUNG: Haus Baldeney / Schloss Baldeney
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
-EIGENSCHAFTEN:
-  erbaut: 1226
-  erbaut_durch: Adolf von der Mark
-  urspruengliche_funktion: Lehnsgut der Abtei Werden
-GUELTIG_AB: 1226
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: rathaus
+ENTITÄT: gebaeude
 BEZEICHNUNG: Bredeneyer Rathaus
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+FACETTE: GESCHICHTE | INFRA
 EIGENSCHAFTEN:
-  erbaut: 1902
   architekt: Oskar Kunhenn
-  urspruengliche_funktion: Sitz der Bürgermeisterei der Gemeinde Zweihonnschaften
-  funktion_nach_1915: Dienststelle der Stadt Essen
-  architektur_stil: Neorenaissance
-  in_denkmalliste_seit: 14. Februar 1985
-  denkmalgerechte_sanierung: 2022-2024
-  sanierung_finanziert_durch: Bredeneyer Unternehmer
+  baujahr: 1902
+  funktion_historisch: "Sitz der Bürgermeisterei der Gemeinde Zweihonnschaften (Bredeney und Schuir, seit 3. April 1875; ab 1. September 1902 zur Bürgermeisterei erhoben; ab 1910 mit Haarzopf)"
+  funktion_nach_1915: "Dienststelle der Stadt Essen"
+  architekturstil: Neorenaissance
+  denkmalschutz_seit: 14. Februar 1985
+  sanierung: 2022-2024
+  sanierungsart: denkmalgerecht
+  bedeutung_fuer_ort: "Symbol der lokalen Selbstverwaltung vor Eingemeindung"
 GUELTIG_AB: 1902
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: gebietskoerperschaft
-BEZEICHNUNG: Gemeinde Zweihonnschaften
 QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
-EIGENSCHAFTEN:
-  bestand_ab: 3. April 1875
-  zur_buergermeisterei_erhoben: 1. September 1902
-  ortschaften: Bredeney, Schuir
-  ortschaften_ab_1910: Bredeney, Schuir, Haarzopf
-  eingemeinde_zur_stadt_essen: 1. April 1915
-GUELTIG_AB: 1875
-GUELTIG_BIS: 1915
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
 ENTITÄT: buergermeister
 BEZEICHNUNG: Georg Gustav Eduard Vorberg
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+FACETTE: POLITIK
 EIGENSCHAFTEN:
-  gemeinde: Gemeinde Zweihonnschaften
-  partei_oder_funktion: CDU
-  amtszeit_von: 21. April 1903
-  amtszeit_bis: 1910
-GUELTIG_AB: 1903
+  amtszeit: 21. April 1903 bis 1910
+  gemeinde: "Gemeinde Zweihonnschaften"
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
 GUELTIG_BIS: 1910
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
 ENTITÄT: buergermeister
 BEZEICHNUNG: Walter Heinrich Maria Sachsse
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+FACETTE: POLITIK
 EIGENSCHAFTEN:
-  gemeinde: Gemeinde Zweihonnschaften
-  amtszeit_von: 23. Juni 1910
-  amtszeit_bis: 1. April 1915
-GUELTIG_AB: 1910
+  amtszeit: 23. Juni 1910 bis 1. April 1915
+  gemeinde: "Gemeinde Zweihonnschaften"
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
 GUELTIG_BIS: 1915
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Villa Hügel
+FACETTE: FREIZEIT | GESCHICHTE
+EIGENSCHAFTEN:
+  erbauer: Alfred Krupp
+  baujahr: ca. 1870
+  historische_funktion: "Wohnsitz der Familie Krupp"
+  zusatzfunktion: Repräsentationszwecke
+  lage_relative: "Über dem Baldeneysee"
+  ausstellungstyp: "Wechselausstellungen mit künstlerischen und historischen Themen, Besichtigung Wohnräume Familie Krupp, Krupp-Ausstellung"
+  besonderheit: "ausgezeichnete Sicht auf den Baldeneysee"
+  bedeutung_fuer_ort: "erzählt Industriegeschichte des Ortes, ehemaliger Sitz der Industriellenfamilie Krupp"
+  charakteristikum: Museum
+QUELLE: https://www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_kultur_freizeit.de.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Schloss Baldeney
+FACETTE: GESCHICHTE | FREIZEIT
+EIGENSCHAFTEN:
+  erbauer: Adolf von der Mark
+  baujahr: 1226
+  relation_zu_isenburg: "Adolf war der Vetter von Graf Isenburg"
+  baustoff: Ruhrsandstein
+  architektur_besonderheit: "ältester Teil ist der Wohnturm in der Mitte des Gebäudes"
+  urspruengliche_funktion: Lehnsgut der Abtei Werden
+  charakteristikum: "Burg/Schloss als Ausflugsziel"
+QUELLE: https://www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_kultur_freizeit.de.html | Gemeinde-Webseite
+GUELTIG_AB: 1226
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Baldeney Kapelle (Sankt Maria Magdalena)
+FACETTE: GESCHICHTE | FREIZEIT
+EIGENSCHAFTEN:
+  alternative_bezeichnung: Sankt Maria Magdalena
+  lage: "am Rande des Baldeneysees, im Herzen des Schloss Baldeneys"
+  einweihung: 1337
+  charakterisierung: idyllisch
+  gegenwaertige_zugehoerigkeit: "Pfarrgemeinde Sankt Markus"
+  charakteristikum: Kapelle
+QUELLE: https://www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_kultur_freizeit.de.html | Gemeinde-Webseite
+GUELTIG_AB: 1337
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Klusenkapelle St. Ägidius
+FACETTE: GESCHICHTE | FREIZEIT
+EIGENSCHAFTEN:
+  offizielle_bezeichnung: "Klusenkapelle St. Ägidius"
+  lage_beschreibung: "im Tal zwischen den Bäumen, Spazierweg von der Frankenstraße herabgehend"
+  groesse: 30
+  groesse_einheit: "Quadratmeter (ca.)"
+  ausstattung: "Altarbild der Himmelfahrt Mariens"
+  angrenzende_gaststatte: "Zur Kluse (historisch)"
+  charakteristikum: Kapelle
+QUELLE: https://www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_kultur_freizeit.de.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: burgruine
+BEZEICHNUNG: Burgruine Neue Isenburg
+FACETTE: GESCHICHTE | FREIZEIT
+EIGENSCHAFTEN:
+  offizielle_bezeichnung: "Ruine Isenburg"
+  namensgeber: "Graf von Isenburg (ehemaliger Besitzer)"
+  konfliktgeschichte: "zwischen 1200 und 1288 wiederholt Schauplatz kriegerischer Auseinandersetzungen zwischen Familie des Grafen und Erzbischof"
+  zerstoerung: 1288
+  zerstoerung_art: "endgültig zerstört"
+  charakterisierung: "Spuren der Ritter können verfolgt werden; ursprünglicher Glanz nur noch zu erahnen"
+  charakteristikum: "Burg als Ausflugsziel"
+QUELLE: https://www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_kultur_freizeit.de.html | Gemeinde-Webseite
+GUELTIG_AB: 1200
+GUELTIG_BIS: 1288
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gewaesser
+BEZEICHNUNG: Baldeneysee
+FACETTE: LAGE | FREIZEIT
+EIGENSCHAFTEN:
+  bauzeit: 1931-1933
+  funktionalitaet: "künstlich angelegt"
+  veroeffentlichung_fuer_ort: "Herzstück Bredeneys"
+  bedeutung_fuer_ort: "trägt wesentlich zum Erholungswert des Stadtteils bei"
+  freizeit_nutzungen: "Seerundfahrten, Segeln, Kanutouren, Rad- und Wanderwege, Angelsport, Badevergnügen"
+  badestelle: "Seaside Beach"
+  lage_bedeutung: "natürliche Grenze des Stadtteils zu Werden und Fischlaken"
+  rad_wanderweg_entfernung: 7
+  rad_wanderweg_entfernung_einheit: Kilometer
+  rad_wanderweg_beschreibung: "Rad- und Wanderweg entlang des Baldeneysees von Heisingen bis nach Werden"
+  charakteristikum: "Freizeit, Badestelle"
+QUELLE: https://www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_kultur_freizeit.de.html | Gemeinde-Webseite
+GUELTIG_AB: 1933
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wildpark
+BEZEICHNUNG: Wildgatter Heissiwald
+FACETTE: FREIZEIT
+EIGENSCHAFTEN:
+  gelaendegroesse: 6
+  gelaendegroesse_einheit: Hektar
+  tierbestaende: "Rot- und Damwild, Wildschweine, Mufflons"
+  besonderheit: "Beobachtung der Tiere auf wenige Meter Entfernung möglich"
+  aussichtsplattform: vorhanden
+  fütterungszeiten: "regelmäßig, Besucher können gezielt zu diesen Zeiten kommen"
+  charakteristikum: "Freizeit, Wildpark"
+  bedeutung_fuer_ort: "Tierische Abenteuer für Familien"
+QUELLE: https://www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_kultur_freizeit.de.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Baldeneysteig
+FACETTE: FREIZEIT
+EIGENSCHAFTEN:
+  laenge: 26.7
+  laenge_einheit: Kilometer
+  route: "einmal rund um den Baldeneysee"
+  nebenrouten: vorhanden
+  charakteristikum: "Fernwanderweg/Themenweg"
+QUELLE: https://www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_kultur_freizeit.de.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: siedlung
+BEZEICHNUNG: Siedlung Brandenbusch
+FACETTE: GESCHICHTE | ALLTAG
+EIGENSCHAFTEN:
+  bauplanung_beginn: 1895
+  architekt: Samuel Marx
+  auftraggeber: Friedrich Alfred Krupp
+  zweck: "Wohnungen für Diener und Angestellte der Familie Krupp"
+  bewohner_anzahl: 600
+  bauweise: "Cottage-Bauweise"
+  denkmalschutz: "einzelne Sichtfachwerkhäuser stehen unter Denkmalschutz"
+  kirche: "evangelische Kirche 1906 von Karl Nordmann mit Bruchsteinsockel und Holztonnengewölbe"
+  bauzeit_endgueltig: 1914
+  bedeutung_fuer_ort: "Symbol der Krupp-Industrieherrschaft und Wohlfahrtsbewegung"
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+GUELTIG_AB: 1895
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Brandenbusch
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  architekt: Karl Nordmann
+  baujahr: 1906
+  baustil: "Bruchsteinsockel und Holztonnengewölbe"
+  siedlung_zugehoerigkeit: Brandenbusch
+  funktion: "Kirche der Krupp-Arbeitersiedlung"
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Kapelle zur Ehren der Allerheiligsten Dreifaltigkeit
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  gruender: Abt Gerold
+  gruendung: 1036
+  beschreibung: "erste bekannte religiöse Einrichtung in Bredeney"
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+GUELTIG_AB: 1036
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: siedlung
-BEZEICHNUNG: Brandenbusch
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+ENTITÄT: schule
+BEZEICHNUNG: Gymnasium Grashof
+FACETTE: INFRA
 EIGENSCHAFTEN:
-  erbaut_ab: 1895
-  erbaut_plaene: Samuel Marx
-  lage: unmittelbare Nähe zur Villa Hügel
-  bauweise: Cottage-Bauweise
-  bewohner_urspruenglich: bis zu 600 Diener und Angestellte der Familie Krupp
-  evangelische_kirche_erbaut: 1906
-  evangelische_kirche_architekt: Karl Nordmann
-  evangelische_kirche_stil: Bruchsteinsockel und Holztonnengewölbe
-  bauende: 1914
-GUELTIG_AB: 1895
-GUELTIG_BIS: 1914
+  alternative_bezeichnung: "ehemals Lyzeum Bredeney"
+  architekt: Alfred Fischer
+  baujahr: 1929-1930
+  schultyp: Gymnasium
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+GUELTIG_AB: 1930
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: zeche
-BEZEICHNUNG: Zeche Flöte
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+ENTITÄT: schule
+BEZEICHNUNG: Gymnasium Goetheschule
+FACETTE: INFRA
 EIGENSCHAFTEN:
-  beschreibung: kleinere Zeche in Bredeney
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.7
-
----
-
-ENTITÄT: zeche
-BEZEICHNUNG: Zeche Trotz
+  baujahr: 1913
+  schultyp: Gymnasium
 QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
-EIGENSCHAFTEN:
-  beschreibung: kleinere Zeche in Bredeney
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.7
-
----
-
-ENTITÄT: zeche
-BEZEICHNUNG: Grunewald
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
-EIGENSCHAFTEN:
-  beschreibung: kleinere Zeche in Bredeney
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.7
-
----
-
-ENTITÄT: zeche
-BEZEICHNUNG: Prinz Georg
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
-EIGENSCHAFTEN:
-  beschreibung: kleinere Zeche in Bredeney
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.7
-
----
-
-ENTITÄT: wappen
-BEZEICHNUNG: Wappen von Bredeney
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
-EIGENSCHAFTEN:
-  designer: Kurt Schweder
-  entwurf_originalcharakter: nie offiziellen Charakter
-  ueberarbeitung: Ende der 1980er Jahre durch Heraldiker
-  ueberarbeitung_umfang: alle Essener Stadtteile
-  blasonierung: In Grün ein silberner (weißer) Balken belegt mit einem schwarzen Wechselzinnenbalken.
-  bedeutung_gruen: Aue, abgeleitet von Bredenoye, Bredanaia oder Bredonoia
-  bedeutung_wechselzinnenbalken: aus dem Wappen der Herren von Bottlenberg
-  rezeption: inzwischen von der Essener Bevölkerung gut angenommen
-GUELTIG_AB: 1980
+GUELTIG_AB: 1913
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: villa
-BEZEICHNUNG: Villa Hügel
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
-EIGENSCHAFTEN:
-  ehemaliger_sitz: Industriellenfamilie Krupp
-GUELTIG_AB: 1895
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: friedhof
-BEZEICHNUNG: Familienfriedhof Krupp
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
-EIGENSCHAFTEN:
-  beschreibung: Familienfriedhof der Industriellenfamilie Krupp
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: see
-BEZEICHNUNG: Baldeneysee
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
-EIGENSCHAFTEN:
-  grenze_zu: Werden, Fischlaken
-  lage: Süden Bredeneys
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: wildgehege
-BEZEICHNUNG: Wildgatter Heissiwald
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
-EIGENSCHAFTEN:
-  lage: südlich gelegenes Heissiwald
-ORTSTEIL_BEZUG: Heissiwald
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
+VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
 ENTITÄT: schule
 BEZEICHNUNG: Graf-Spee-Grundschule
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+FACETTE: INFRA
 EIGENSCHAFTEN:
-  art: Grundschule
+  schultyp: Grundschule
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 
@@ -243,304 +322,546 @@ VERTRAUEN_EXTRAKTION: 0.85
 
 ENTITÄT: schule
 BEZEICHNUNG: Meisenburg-Grundschule
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+FACETTE: INFRA
 EIGENSCHAFTEN:
-  art: Grundschule
+  schultyp: Grundschule
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: schule
-BEZEICHNUNG: Gymnasium Grashof
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+ENTITÄT: friedhof
+BEZEICHNUNG: Familienfriedhof Krupp
+FACETTE: GESCHICHTE
 EIGENSCHAFTEN:
-  art: Gymnasium
-  ehemals_bekannt_als: Lyzeum Bredeney
-  erbaut: 1929-1930
-  architekt: Alfred Fischer
-GUELTIG_AB: 1929
-IST_VERMUTISMUS_AKTUELL: true
+  beschreibung: "Familienfriedhof der Familie Krupp"
+  charakteristikum: "Denkmal, Wahrzeichen"
+  bedeutung_fuer_ort: "Symbol der Industriellenfamilie, die den Ort geprägt hat"
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: schule
-BEZEICHNUNG: Gymnasium Goetheschule
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+ENTITÄT: industriegeschichte
+BEZEICHNUNG: Kohlebergbau Bredeney
+FACETTE: GESCHICHTE | ALLTAG
 EIGENSCHAFTEN:
-  art: Gymnasium
-  erbaut: 1913
-GUELTIG_AB: 1913
+  kohleforderung_start: 1600
+  kleinzechen_anzahl_19jh_anfang: "mehr als 20"
+  bekannte_zechen: "Zeche Flöte, Zeche Trotz, Grunewald, Prinz Georg"
+  ziegeleien: 3
+  charakterisierung: "vom Bergbaugebiet zum grünen Wohnviertel"
+  industrialisierungsphase: "Anfang 19. Jahrhundert Hochphase, später Umwandlung zu Erholungsgebiet"
+QUELLE: https://www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_geschichte.de.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Gussstahlfirma Krupp
+FACETTE: GESCHICHTE | ALLTAG
+EIGENSCHAFTEN:
+  ursprung: gegründet von Krupps Vater
+  uebernahme_durch: Alfred Krupp
+  uebernahme_jahr: 1811
+  bedeutung: "Aushangschild der Industrialisierung im Ruhrgebiet"
+  bedeutung_fuer_ort: "Namensgeber für Siedlung und Wahrzeichen, prägender Betrieb"
+  industriezweig: "Gussstahl, später Stahlproduktion"
+QUELLE: https://www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_geschichte.de.html | Gemeinde-Webseite
+GUELTIG_AB: 1811
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: TV Bredeney 1895
+FACETTE: FREIZEIT
+EIGENSCHAFTEN:
+  grundung: 1895
+  typ: Sportverein
+  adresse: Meisenburgstraße 30
+  charakteristikum: "Verein mit überörtlicher Bekanntheit (im Ort ansässig)"
+QUELLE: https://www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_kultur_freizeit.de.html | Gemeinde-Webseite
+GUELTIG_AB: 1895
 IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: T.C. Bredeney
+FACETTE: FREIZEIT
+EIGENSCHAFTEN:
+  typ: Tennisclub
+  adresse: Zeißbogen 29
+QUELLE: https://www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_kultur_freizeit.de.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Golfriege ETUF e.V.
+FACETTE: FREIZEIT
+EIGENSCHAFTEN:
+  typ: Golfclub
+  adresse: Freiherr-vom-Stein-Straße 92 A
+QUELLE: https://www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_kultur_freizeit.de.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: WSB 1919
+FACETTE: FREIZEIT
+EIGENSCHAFTEN:
+  grundung: 1919
+  typ: "Wassersportverein (vermutlich)"
+  adresse: Freiherr-vom-Stein-Straße 386 G
+QUELLE: https://www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_kultur_freizeit.de.html | Gemeinde-Webseite
+GUELTIG_AB: 1919
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Ruderklub am Baldeneysee
+FACETTE: FREIZEIT
+EIGENSCHAFTEN:
+  typ: Ruderclub
+  adresse: Freiherr-vom-Stein-Straße 206 E
+  wasserlage: Baldeneysee
+QUELLE: https://www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_kultur_freizeit.de.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Bredeney Aktiv e.V.
+FACETTE: FREIZEIT
+EIGENSCHAFTEN:
+  bestaetigung_existenz_jahr: 2001
+  jubilaeum_2026: "25 Jahre"
+  bestaetigung_durch: "Gratulation der Bürgermeisterin Jacob am 15.10.2026"
+QUELLE: https://www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_startseite.de.jsp | Gemeinde-Webseite
+GUELTIG_AB: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Straßenbahnverkehr Bredeney
+FACETTE: INFRA
+EIGENSCHAFTEN:
+  erste_fahrt: 1897
+  linien: "107, 108"
+  betreiber: "Ruhrbahn/Bogestra"
+  liniendetails_107: "Kulturlinie 107, Takt Mo–Fr 10 min (nur zur HVZ)"
+  liniendetails_108: "Takt Mo–Fr 10 min"
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+GUELTIG_AB: 1897
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Buslinien Bredeney
+FACETTE: INFRA
+EIGENSCHAFTEN:
+  linien: "142, 169, 194, NE8, NE9, NE13"
+  betreiber: "Ruhrbahn, Bogestra, Rheinbahn"
+  besonderheit_nacht: "Nachtexpress-Buslinien NE8, NE9, NE13"
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Essen-Hügel
+FACETTE: INFRA
+EIGENSCHAFTEN:
+  bahnart: "S-Bahn"
+  linie: S6
+QUELLE: https://www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_statistik.de.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Essen-Stadtwald
+FACETTE: INFRA
+EIGENSCHAFTEN:
+  bahnart: "S-Bahn"
+  linie: S6
+QUELLE: https://www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_statistik.de.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: personalitaet
+BEZEICHNUNG: Alfred Krupp
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  beruf: Industrialist
+  leistung: "übernahm 1811 Gussstahlfirma, baute Villa Hügel"
+  bedeutung_fuer_ort: "prägte Bredeney industriell und baulich"
+  bauten: "Villa Hügel, Siedlung Brandenbusch"
+QUELLE: https://www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_geschichte.de.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: personalitaet
+BEZEICHNUNG: Adolf von der Mark
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  aktion: "erbaute 1226 das Haus Baldeney"
+  relation: "Vetter von Graf Isenburg"
+  bedeutung_fuer_ort: "gründete Schloss Baldeney als Lehnsgut der Abtei Werden"
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: personalitaet
+BEZEICHNUNG: Samuel Marx
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  profession: Architekt
+  aktion: "entwarf Pläne für Siedlung Brandenbusch ab 1895"
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Alexander Heinrich von dem Bottlenberg gen. von Schirp (jr.)
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+ENTITÄT: personalitaet
+BEZEICHNUNG: Karl Nordmann
+FACETTE: GESCHICHTE
 EIGENSCHAFTEN:
-  geburtsjahr: 1814
-  todesjahr: 1887
-  beruf: Kommunalpolitiker
-  geburt_oder_herkunft: Bredeney (Sohn/Tochter von Bredeney)
+  profession: Architekt/Baumeister
+  aktion: "baute evangelische Kirche Brandenbusch 1906 mit Bruchsteinsockel und Holztonnengewölbe"
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: personalitaet
+BEZEICHNUNG: Oskar Kunhenn
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  profession: Architekt
+  aktion: "entwarf Bredeneyer Rathaus 1902"
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Leo Wiese
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+ENTITÄT: personalitaet
+BEZEICHNUNG: Alfred Fischer
+FACETTE: GESCHICHTE
 EIGENSCHAFTEN:
-  geburtsjahr: 1871
-  todesjahr: 1929
-  beruf: Romanist, Mediävist
-  geburt_oder_herkunft: Bredeney (Sohn/Tochter von Bredeney)
+  profession: Architekt
+  aktion: "baute Gymnasium Grashof (ehemals Lyzeum Bredeney) 1929–1930"
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Ewald Erb
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+ENTITÄT: personalitaet
+BEZEICHNUNG: Kurt Schweder
+FACETTE: GESCHICHTE
 EIGENSCHAFTEN:
-  geburtsjahr: 1903
-  todesjahr: 1978
-  beruf: Literaturwissenschaftler
-  geburt_oder_herkunft: Bredeney (Sohn/Tochter von Bredeney)
+  profession: Heraldiker
+  aktion: "entwarf Stadtteilwappen Bredeney"
+  entwerfungszeit: "Ende 1970er Jahre / Ende 1980er Jahre"
+  besonderheit: "gestaltete alle Essener Stadtteilwappen"
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Birgitta Ashoff
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1948
-  beruf: Filmregisseurin, Drehbuchautorin, Journalistin
-  geburt_oder_herkunft: Bredeney (Sohn/Tochter von Bredeney)
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Hermann Karoli
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1906
-  todesjahr: 1996
-  beruf: Wirtschaftsprüfer, Wirtschaftsfunktionär
-  wohnort: Bredeney
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: politiker
+ENTITÄT: personalitaet
 BEZEICHNUNG: Hans Toussaint
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+FACETTE: POLITIK
 EIGENSCHAFTEN:
   beruf: Großhandelskaufmann
   partei: CDU
-  wahlbezirk: 40
-  wahlbezirk_umfasst: Bredeney, Essen-Fischlaken, Essen-Schuir
-  rat_der_stadt_essen: 1946-1975
-  oberbürgermeister_essen: 1949-1956
+  aktivitaet: "vertrat Kommunalwahlbezirk 40 (Bredeney, Fischlaken, Schuir)"
+  amt_zeit: 1946-1975
+  oberbürgermeister_zeit: 1949-1956
+  oberbürgermeister_stadt: Essen
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+GUELTIG_AB: 1946
+GUELTIG_BIS: 1975
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: politiker
+ENTITÄT: personalitaet
 BEZEICHNUNG: Wolfgang Reiniger
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+FACETTE: POLITIK
 EIGENSCHAFTEN:
-  beruf: Rechtsanwalt, Notar
+  beruf: Rechtsanwalt und Notar
   partei: CDU
-  wahlbezirk: 40
-  rat_der_stadt_essen: 1975-1999
-  oberbürgermeister_essen_gewählt: 1999
-  oberbürgermeister_essen_wiedergewählt: 2004
+  aktivitaet: "vertrat Kommunalwahlbezirk 40"
+  amt_zeit: 1975-1999
+  oberbürgermeister_zeit: "1999 und wiedergewählt 2004"
+  oberbürgermeister_stadt: Essen
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+GUELTIG_AB: 1975
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: politiker
+ENTITÄT: personalitaet
 BEZEICHNUNG: Matthias Hauer
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+FACETTE: POLITIK
 EIGENSCHAFTEN:
   beruf: Rechtsanwalt
   partei: CDU
-  wahlbezirk: 40
-  kommunalwahl: 2004, 2009
-  ergebnis: höchstes stadtweit CDU-Ergebnis
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+  aktivitaet: "in den Rat der Stadt Essen gewählt aus Kommunalwahlbezirk 40"
+  wahl_jahre: "2004 und 2009"
+  besonderheit: "stadtweit höchstes CDU-Ergebnis bei beiden Wahlen"
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: politiker
+ENTITÄT: personalitaet
 BEZEICHNUNG: Andreas Hellmann
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+FACETTE: POLITIK
 EIGENSCHAFTEN:
   partei: FDP
-  wahlbezirk: 40
-  gewählt_ueber: Platz 4 der Ratsreserveliste
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
+  aktivitaet: "über Platz 4 der Ratsreserveliste für Bredeney in den Rat der Stadt Essen gewählt"
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: politiker
+ENTITÄT: personalitaet
 BEZEICHNUNG: Elisabeth van Heesch-Orgass
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+FACETTE: POLITIK
 EIGENSCHAFTEN:
-  partei: Bündnis 90/Die Grünen
-  wahlbezirk: Bredeney
-  funktion: Rat der Stadt Essen
+  partei: "Bündnis 90/Die Grünen"
+  aktivitaet: "vertritt Bredeney im Rat der Stadt Essen"
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: personalitaet
+BEZEICHNUNG: Alexander Heinrich von dem Bottlenberg gen. von Schirp (jr.)
+FACETTE: GESCHICHTE | POLITIK
+EIGENSCHAFTEN:
+  geburt: 1814
+  tod: 1887
+  profession: Kommunalpolitiker
+  besonderheit: "Sohn/Nachfahre des Bredeneys; Wappenfigur nach Familie Bottlenberg"
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+GUELTIG_AB: 1814
+GUELTIG_BIS: 1887
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: personalitaet
+BEZEICHNUNG: Leo Wiese
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  geburt: 1871
+  tod: 1929
+  profession: "Romanist und Mediävist"
+  herkunft: "Sohn/Tochter von Bredeney"
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+GUELTIG_AB: 1871
+GUELTIG_BIS: 1929
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: personalitaet
+BEZEICHNUNG: Ewald Erb
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  geburt: 1903
+  tod: 1978
+  profession: Literaturwissenschaftler
+  herkunft: "Sohn/Tochter von Bredeney"
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+GUELTIG_AB: 1903
+GUELTIG_BIS: 1978
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: personalitaet
+BEZEICHNUNG: Birgitta Ashoff
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  geburt: 1948
+  profession: "Filmregisseurin, Drehbuchautorin und Journalistin"
+  herkunft: "Sohn/Tochter von Bredeney"
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+GUELTIG_AB: 1948
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: personalitaet
+BEZEICHNUNG: Hermann Karoli
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  geburt: 1906
+  tod: 1996
+  profession: "Wirtschaftsprüfer und Wirtschaftsfunktionär"
+  wohnort: Bredeney
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+GUELTIG_AB: 1906
+GUELTIG_BIS: 1996
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: personalitaet
+BEZEICHNUNG: Abt Gerold
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  aktion: "ließ 1036 Kapelle zu Ehren der Allerheiligsten Dreifaltigkeit in Bredeney errichten"
+  herkunft: "Abtei Werden"
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gewaesser
+BEZEICHNUNG: Ruhr
+FACETTE: LAGE
+EIGENSCHAFTEN:
+  bedeutung: "bildet im Süden natürliche Grenze des Stadtteils zu Werden und Fischlaken"
+  fliesst_von: Wolfsbach (mündet kurz hinter Stadtteilgrenze)
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
 ENTITÄT: gewaesser
 BEZEICHNUNG: Borbecker Mühlenbach
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+FACETTE: LAGE
 EIGENSCHAFTEN:
-  art: Bach
-  quelle: Nordflanke der Ruhrhöhen, westlicher Bredeney
-  flussrichtung: nördlich
-  muendung: Emscher
-  durchfliessungen: Grugapark
-  speist: Margarethensee, Waldsee
+  ursprung: "Nordflanke der Ruhrhöhen, westlicher Teil Bredeneys"
+  fliessrichtung: nördlich
+  ziel: Emscher
+  besonderheit: "durchfließt Grugapark, speist Margarethensee und Waldsee"
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
 ENTITÄT: gewaesser
 BEZEICHNUNG: Wolfsbach
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+FACETTE: LAGE
 EIGENSCHAFTEN:
-  art: Bach
-  quelle: westlicher Bredeney, Südseite der Ruhrhöhen
-  flussrichtung: südlich
-  aufnahmen: Asseybach
-  muendung: Ruhr
-  grenze: Stadtteilgrenze zu Werden
+  ursprung: "Südseite der Ruhrhöhen, westliches Bredeney"
+  fliessrichtung: südlich
+  besonderheit: "nimmt Wasser des Asseybachs auf vor Münding"
+  ziel: Ruhr
+  grenzfunktion: "Stadtteilgrenze zu Schuir entlang des Asseybachs, dann entlang des Wolfsbachs"
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
 ENTITÄT: gewaesser
 BEZEICHNUNG: Asseybach
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+FACETTE: LAGE
 EIGENSCHAFTEN:
-  art: Bach
-  muendung: Wolfsbach
-  grenze_vorher: Stadtteilgrenze zu Schuir
+  grenzfunktion: "bildet Stadtteilgrenze zu Schuir"
+  muendet_in: Wolfsbach
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: gewaesser
-BEZEICHNUNG: Margarethensee
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+ENTITÄT: landschaft
+BEZEICHNUNG: Ruhrhöhen
+FACETTE: LAGE
 EIGENSCHAFTEN:
-  art: See
-  lage: Grugapark
-  gespeist_durch: Borbecker Mühlenbach
+  lage: "südliches Ruhrgebiet"
+  charakterisierung: "Höhenzug mit Waldflächen"
+  waldanteil: "Stadtwald (ausgedehnt), Kruppwald"
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: gewaesser
-BEZEICHNUNG: Waldsee
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+ENTITÄT: landschaft
+BEZEICHNUNG: Stadtwald (Essen)
+FACETTE: LAGE
 EIGENSCHAFTEN:
-  art: See
-  lage: Grugapark
-  gespeist_durch: Borbecker Mühlenbach
+  beschreibung: "ausgedehnte Waldfläche auf den Ruhrhöhen"
+  lage: "Grenze zum Stadtteil Stadtwald"
+  ostanteil: "Bredeney hat Anteil am Stadtwald"
+  westfortsetzer: Kruppwald
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: wald
-BEZEICHNUNG: Stadtwald
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+ENTITÄT: berg
+BEZEICHNUNG: Baldeneyer Berg
+FACETTE: LAGE
 EIGENSCHAFTEN:
-  beschreibung: ausgedehnte Waldfläche auf den Ruhrhöhen
-  lage: östlich von Bredeney, an der Grenze zum gleichnamigen Essener Stadtteil
+  hoehe: 165
+  hoehe_einheit: Meter
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: wald
-BEZEICHNUNG: Kruppwald
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+ENTITÄT: zentrum_ort
+BEZEICHNUNG: Bredeneyer Straße und Zeunerstraße
+FACETTE: ALLTAG
 EIGENSCHAFTEN:
-  beschreibung: Fortsetzung des Stadtwaldes
-  lage: westlich, oberhalb der Ruhr
+  bedeutung: "bilden Zentrum Bredeneys"
+  einzelhandel: "zahlreiche Fachgeschäfte und Geschäfte des täglichen Bedarfs"
+QUELLE: https://www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_statistik.de.html | Gemeinde-Webseite
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: verkehrsinfrastruktur
-BEZEICHNUNG: Bundesstraße 224
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
-EIGENSCHAFTEN:
-  art: Bundesstraße
-  verlauf: durch Stadtteil Bredeney
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: verkehrsinfrastruktur
-BEZEICHNUNG: Autobahn A 52
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
-EIGENSCHAFTEN:
-  art: Autobahn
-  anbindung: direkter Anschluss vorhanden
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: verkehrsmittel
-BEZEICHNUNG: Straßenbahn Bredeney
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
-EIGENSCHAFTEN:
-  erste_fahrt: 1897
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: bevölkerung
-BEZEICHNUNG: Bevölkerungsstruktur Bredeney
-QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
-EIGENSCHAFTEN:
-  einwohnerzahl: 10966
-  stand: 31. März 2025
-  anteil_unter_18: 15.3
-  anteil_unter_18_einheit: prozent
-  anteil_65_plus: 26.5
-  anteil_65_plus_einheit: prozent
-  auslaenderanteil: 9.7
-  auslaenderanteil_einheit: prozent
-GUELTIG_AB: 2025
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95

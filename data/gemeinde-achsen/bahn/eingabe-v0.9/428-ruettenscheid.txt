@@ -1,0 +1,1577 @@
+ZIELORT: Rüttenscheid (Ortsteil von Essen)
+LAGE: Stadtteil von Essen, 2 km südlich der Stadtmitte (Luftlinie)
+ARTIKEL: Rüttenscheid
+
+GRUNDDATEN:
+  landkreis: Stadtkreis Essen — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P131]
+  bundesland: Nordrhein-Westfalen — GILT FÜR DIE GEMEINDE ESSEN  [über die Gemeinde]
+  flaeche_km2: 4,53  [Wikidata P2046]
+  kfz: E (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P395]
+  hoehe_m: 110 | 117 — MEHRERE WERTE  [Wikidata P2044; Altbestand geo.sqlite (GeoNames 2842772)]
+  naechste_grossstadt: Essen, 2 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Düsseldorf, 29 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  eingemeindung: 1905-06-21  [dewiki Infobox]
+  plz: 45130, 45131, 45133, 45136, 45147  [Wikidata P281]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,5 %, SPD 22,2 %, AfD 17 %, GRÜNE 12,4 %, Die Linke 9,5 %; Wahlbeteiligung 80,1 % — GILT FÜR DIE GEMEINDE ESSEN  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 82,2 % im Bundesland (Ort 80,1 %, Abstand 2,1 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+ZEUGEN (OpenStreetMap, Gemeindegrenze; belegt nur, dass es die Sache gibt):
+  Burg/Denkmal: Denkmal F.A. Krupp
+  Burg/Denkmal: 1945: Tötung von ca. 35 Kriegsgefangenen
+  Burg/Denkmal: Dr. A. Meurer
+  Burg/Denkmal: Hermann Ferse (seit 2007)
+  Burg/Denkmal: Den Toten zu Ehren
+  Burg/Denkmal: RUTE
+  Burg/Denkmal: Artur Stein (seit 2015)
+  Burg/Denkmal: Adolf Abraham Oppenheimer (seit 2015)
+  Freizeit: Grugapark Eingang Grugabad
+  Freizeit: Grugapark Eingang Mustergärten
+  Freizeit: Pflanzenschauhaus
+  Freizeit: Geologisches Profil im Großraum Essen
+  Freizeit: Grugapark Eingang Orangerie
+  Freizeit: Alpinum
+  Freizeit: Bienenstand
+  Freizeit: Mustergartenanlage
+  Kultur: Theater Courage
+  Kultur: Szene10
+  Kultur: Katakomben-Theater
+  Kultur: Obrist Galerie
+  Kultur: Baustelle Schaustelle - Raum für junge Kunst
+  Kultur: straeter-kunst
+  Kultur: Galerie Cinema
+  Kultur: Kindertheater
+  Sportstätte: Grugapark Therme (swimming)
+  Sportstätte: World of Defense
+  Sportstätte: ruheraum (yoga)
+  Sportstätte: Yogaschule Ashtanga (yoga)
+  Sportstätte: Schwimmzentrum Essen-Rüttenscheid (swimming)
+  Sportstätte: Sporthalle VGSU (multi)
+  Aussicht: Vogelfreiflughalle
+  Aussicht: Sonnenterrasse
+  Aussicht: Irrgarten (7 m)
+  Bad: Grugabad
+  Bad: Kinderbecken (swimming)
+  Bad: Wellenbecken (swimming)
+  Bad: Sportbecken (swimming)
+  Bad: Sprungbecken (swimming)
+  Bad: Planschbecken (swimming)
+  Bad: Solebecken
+  Bahnhof: Essen Süd
+  Bahnhof: Rüttenscheider Stern
+  Bahnhof: Martinstraße
+  Bahnhof: Messe Ost/Gruga
+  Bahnhof: Messe West/Süd/Gruga
+  Bahnhof: Cäcilienstraße
+  Klinik: Ärztehaus, Neurologe, Onkologe, uvm
+  Klinik: KfH Nierenzentrum
+  Klinik: Alfried-Krupp-Krankenhaus
+  Klinik: Klinik für Forensische Psychiatrie
+  Museum: Galerie Klose
+  Bildung: Schule für Logopädie
+  Bildung: Fachschule für Gartenbau Essen
+  Bildung: Thalamus
+  Bildung: Universität Duisburg-Essen
+  Betrieb: Heizkraftwerk Essen-Rüttenscheid STEAG
+  Gewässer: Borbecker Mühlenbach
+  Gewässer: Rellinghauser Mühlenbach
+  Wanderweg: Margarethenhöhe Rundweg M (8.3 km)
+  Wanderweg: Raute10 Hugo-Kracht-Weg
+  Wanderweg: Abteiweg Raute5 (26 km)
+  Radweg: Stadt Route (18 km)
+  Radweg: Bahntrassenweg Grugaweg
+
+PLAN:
+  Karte 1: FACETTE FREIZEIT (Ersatz: ALLTAG), Geschichte, D, wahre Option an Stelle 3
+  Karte 2: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 4
+  Karte 3: FACETTE ALLTAG (Ersatz: FREIZEIT), Geschichte, D, wahre Option an Stelle 1
+  Karte 4: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, A, wahre Option an Stelle 2
+  Karte 5: FACETTE INFRA (Ersatz: LAGE), Geschichte, D, wahre Option an Stelle 3
+  Karte 6: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, B, Lüge an Stelle 1
+  Karte 7: FACETTE LAGE, Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung, C, wahre Spanne an Stelle 1
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je ein weiteres Charakteristikum, Facette frei, Familie A, B oder D, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Byfang (Ortsteil von Essen)
+  landkreis: Stadtkreis Essen — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P131]
+  flaeche_km2: 4,12  [Wikidata P2046]
+  kfz: E (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P395]
+  hoehe_m: 114 | 125 — MEHRERE WERTE  [Wikidata P2044; Altbestand geo.sqlite (GeoNames 2940447)]
+  naechste_grossstadt: Essen, 8 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,5 %, SPD 22,2 %, AfD 17 %, GRÜNE 12,4 %, Die Linke 9,5 %; Wahlbeteiligung 80,1 % — GILT FÜR DIE GEMEINDE ESSEN  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 82,2 % im Bundesland (Ort 80,1 %, Abstand 2,1 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+FAHRT: Wiehre, Waldsee, Altstadt, Stühlinger, Neuburg, Herdern, Zähringen, Brühl, Oberau, Haslach, Sankt Georgen, Vauban, Weingarten, Betzenhausen, Mooswald, Landwasser, Lehen, Rieselfeld, Dietenbach, Opfingen, Tiengen, Munzingen, Waltershofen, Ebnet, Littenweiler, Kappel, Merzhausen, Au, Horben, Günterstal, Ebringen, Schallstadt, Bad Krozingen, Staufen, Heitersheim, Müllheim, Waldkirch, Hochdorf, Gundelfingen, Denzlingen, Glottertal, March, Umkirch, Gottenheim, Merdingen, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Vogtsburg, Oberrotweil, Achkarren, Burkheim, Bischoffingen, Bickensohl, Oberbergen, Schelingen, Sasbach, Leiselheim, Wyhl, Forchheim, Breisach, Gündlingen, Niederrimsingen, Oberrimsingen, Kirchzarten, Stegen, St. Peter, St. Märgen, Oberried, Buchenbach, Höllental, Hinterzarten, Breitnau, Titisee, Titisee-Neustadt, Feldberg, Schluchsee, Lenzkirch, Eisenbach, Friedenweiler, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Neuwied, Altwied, Rengsdorf, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Bonefeld, Straßenhaus, Oberhonnefeld-Gierend, Willroth, Horhausen, Hümmerich, Krunkel, Breitscheid, Kloster Marienhaus, Wolfenacker, Kupferdreh, Überruhr, Bergerhausen, Rellinghausen, Stadtwald, Fischlaken, Werden, Burgaltendorf, Steele, Byfang, Rüttenscheid, Bredeney, Huttrop, Kettwig, Schuir, Heidhausen, Haarzopf, Margarethenhöhe, Südostviertel, Freisenbruch
+
+FAKTEN (Zielort Rüttenscheid):
+ID: 428-ruettenscheid/001
+ENTITÄT: ort
+BEZEICHNUNG: Rüttenscheid
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  typ: stadtteil
+  stadt: Essen
+  lage: südlich der Innenstadt
+  nachbarstaedtteile: Holsterhausen, Margarethenhöhe, Bredeney, Stadtwald, Bergerhausen, Huttrop, Südviertel
+  einwohner: 30869
+  einwohner_gueltig_ab: 2025
+  einwohner_datum: 31. März 2025
+  auslaenderanteil_prozent: 15.1
+  unter_18_prozent: 12.6
+  ueber_65_prozent: 20.1
+GUELTIG_AB: 1905
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 428-ruettenscheid/002
+ENTITÄT: ort
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/ruettenscheid_1/ruettenscheid_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: mittelalterlich "Riudenscethe", vom altsächsischen "hriudi" (Riedgras); Siedlungsraum durch Schnitt des Riedgrases/Schilfs gewonnen
+  erste_urkundliche_erwaehnung: 970
+  urkundliche_erwaehnung_text: Frithuric übergab der Abtei Werden ein Stück Land in Rüttenscheid mit Haus und Nutzungsrechten für die Seele seines Bruders Ripuvinus
+  eingemeindung_zu_essen: 1. Juli 1905
+GUELTIG_AB: 970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 428-ruettenscheid/003
+ENTITÄT: stadtteilwappen
+BEZEICHNUNG: Wappen Rüttenscheid
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/ruettenscheid_1/ruettenscheid_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entwerfer: Kurt Schweder
+  entwurfszeit: Ende 1980er Jahre
+  blasonierung: In Gold (Gelb) eine aufsteigende rote Spitze, darin in wechselnden Farben in Rot und Gold (Gelb) je ein gestürztes Lindenblatt besteckt mit einem Kleeblattkreuz
+  symbolik: keilförmig zulaufende Spitze steht für Waldbesitz zur Acker- und Wohnplatznutzung
+  heraldische_quellen: Wappen Familie von Schielt (Lindenblätter) und Familie Steenhuis (Kugelkreuze)
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/004
+ENTITÄT: bergbau_betrieb
+BEZEICHNUNG: Zeche Langenbrahm
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/ruettenscheid_1/ruettenscheid_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1772
+  gruender_typ: Gewerkschaft Langenbrahm
+  gruendungsgrund: Fürstabt von Werden gestattete Kohleabbau
+  betriebsdauer: 1772-1966
+  bedeutung_fuer_ort: einer der ältesten Grubenbetriebe des Ruhrgebietes mit einer der längsten ununterbrochenen Förderungen
+  superlativ: älteste Grubenbetriebe des Ruhrgebietes mit längster ununterbrochener Förderung
+  bergbauart_frueh: 14.-16. Jahrhundert Silber- und Bleibergbau
+GUELTIG_AB: 1772
+GUELTIG_BIS: 1966
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 428-ruettenscheid/005
+ENTITÄT: erzabbau
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1354
+  grund_erwaehnung: Witwe Johannis de Ruddenscede verkaufte Land zum Abbau von Silber, Kupfer und Blei
+  superlativ: erster Beleg für Erzabbau im Essener Raum
+  zeitraum: 14.-16. Jahrhundert
+  abbaubetrieb: Hof Silberkuhle
+GUELTIG_AB: 1354
+GUELTIG_BIS: 1500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/006
+ENTITÄT: kirche
+BEZEICHNUNG: Siechenkapelle
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/ruettenscheid_1/ruettenscheid_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Rüttenscheider Straße 147
+  konfession: katholisch
+  bauzeit: 1426-1445
+  denkmalschutz: ja
+  sitzplaetze: 30
+  zweck_ursprung: geistliche Betreuung von Aussätzigen und Leprakranken am Siechenhof
+  patientenbetrieb: bis ca. 1726
+  superlativ: ältestes Gotteshaus in Rüttenscheid
+GUELTIG_AB: 1426
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 428-ruettenscheid/007
+ENTITÄT: freizeit_park
+BEZEICHNUNG: Grugapark
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/ruettenscheid_1/ruettenscheid_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Virchowstraße 167 a
+  groesse: 600000
+  groesse_einheit: qm
+  superlativ: größtes Open Air-Museum des Ruhrgebiets
+  merkmale: bedeutende Skulpturensammlung, botanischer Garten mit seltenen Pflanzen, exotische und heimische Tiere
+  bedeutung_fuer_ort: gilt als größtes Open Air-Museum des Ruhrgebiets
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 428-ruettenscheid/008
+ENTITÄT: bad
+BEZEICHNUNG: Grugabad
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  charakter: öffentliches Schwimmbad
+  gewaesser_benachbart: Borbecker Mühlenbach
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/009
+ENTITÄT: bad
+BEZEICHNUNG: Schwimmzentrum Rüttenscheid
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  charakter: öffentliches Schwimmbad
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/010
+ENTITÄT: therme
+BEZEICHNUNG: Grugaparktherme
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/ruettenscheid_1/ruettenscheid_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: im Grugapark
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/011
+ENTITÄT: gebaude
+BEZEICHNUNG: Erzhof
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/ruettenscheid_1/ruettenscheid_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Zweigertstraße 34
+  bauzeit: 1922-1924
+  architekt: Emil Jung
+  ursprung: Erzhandelsfirma
+  heutige_nutzung: Verwaltung RuhrBahn GmbH
+GUELTIG_AB: 1922
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 428-ruettenscheid/012
+ENTITÄT: siedlung
+BEZEICHNUNG: Kruppsiedlung Altenhof
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/ruettenscheid_1/ruettenscheid_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Hundackerweg/Gussmannplatz
+  bauzeit: 1893-1905
+  bauherr: Krupp
+  baustil: Landhaus-Stil
+  zweck: Siedlung für Rentner und Invaliden der Firma Krupp
+  erhalten: nur noch Reste vorhanden, meiste dem Neubau Krupp-Krankenhaus gewichen
+GUELTIG_AB: 1893
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/013
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Reformationskirche
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  adresse: Alfredstraße/Martinstraße
+  grundsteinlegung: 4. November 1899
+  einweihung: 13. Juli 1902
+  architekt: Carl Nordmann
+  baustil: neugotisch
+  status: 1944 völlig zerstört, nicht wiederaufgebaut
+GUELTIG_AB: 1902
+GUELTIG_BIS: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 428-ruettenscheid/014
+ENTITÄT: kirche
+BEZEICHNUNG: Neue Reformationskirche
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  adresse: Innenhof Ernst-Moritz-Arndt-Haus
+  errichtung: 1950
+  baustil: Saalbau
+  architekt: Horst Lippert
+  zweck: Nachfolgebau der zerstörten Reformationskirche
+GUELTIG_AB: 1950
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/015
+ENTITÄT: kirche
+BEZEICHNUNG: Versöhnungskirche
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  adresse: Alfredstraße
+  einweihung: 3. Mai 1964
+  entwidmung: 23. Mai 2021
+  status: Turm abgerissen Februar 2026
+GUELTIG_AB: 1964
+GUELTIG_BIS: 2021
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/016
+ENTITÄT: kirche
+BEZEICHNUNG: St. Ludgerus-Kirche
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  weihe: 1890
+  status_kriegszerstoerung: nach Kriegszerstörung 1950 wiederaufgebaut
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/017
+ENTITÄT: kirche
+BEZEICHNUNG: St. Andreas-Kirche
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  fertigstellung: 1957
+  architekt: Rudolf Schwarz
+  denkmalschutz: 1995
+  vorgaengerbau: im Krieg zerstört
+GUELTIG_AB: 1957
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/018
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martin
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  adresse: Rüttenscheider Straße
+  errichtung: 1967
+  schließung: 2006
+  umnutzung: Altenpflegeheim
+GUELTIG_AB: 1967
+GUELTIG_BIS: 2006
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/019
+ENTITÄT: kirche
+BEZEICHNUNG: Krankenhauskirche Alfried Krupp Krankenhaus
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  ursprung: katholische Kapelle der Krupp-Siedlung Altenhof
+  einweihung: 1900
+  einweihungskontext: im Beisein von Kaiser Wilhelm II.
+  konfession: katholisch
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 428-ruettenscheid/020
+ENTITÄT: kirche
+BEZEICHNUNG: Neuapostolische Kirche
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  konfession: Neuapostolisch
+  bedeutung_fuer_ort: größte Kirche und Kirchengemeinde der Neuapostolischen Kirche in Essen
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/021
+ENTITÄT: verwaltungsgebaeude
+BEZEICHNUNG: Polizeipräsidium Essen
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  adresse: Zweigertstraße
+  errichtung: Juli 1909
+  baustil: barock und klassizistisch
+  kriegszerstoerung: Flügel völlig zerstört, andere Teile schwer beschädigt
+  wiederaufbau: nach dem Zweiten Weltkrieg
+  denkmalschutz: seit 1986
+  zustaendigkeit: vier Polizeiinspektionen, auch für Mülheim an der Ruhr
+GUELTIG_AB: 1909
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 428-ruettenscheid/022
+ENTITÄT: verwaltungsgebaeude
+BEZEICHNUNG: Königliches Land- und Amtsgericht / Landgericht
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1908-1913
+  baustil: barock
+  kriegszerstoerung: zerstört
+  wiederaufbau: Anfang 1950er Jahre im neuen Stil
+GUELTIG_AB: 1908
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 428-ruettenscheid/023
+ENTITÄT: verwaltungsgebaeude
+BEZEICHNUNG: Justizzentrum Essen
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  institutionen: Amtsgericht, Landgericht, Arbeitsgericht, Staatsanwaltschaft, Landessozialgericht, Untersuchungshaftgefängnis
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/024
+ENTITÄT: gestapo_sitz
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  adresse: Kortumstraße 46
+  nutzung: 1933-1945 Sitz der Geheimen Staatspolizei (GeStapo)
+  bauart: Backstein-Eckhaus
+  aktivitaeten: 10. November 1938 - Verhaftung von Juden für KZ Dachau
+GUELTIG_AB: 1933
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 428-ruettenscheid/025
+ENTITÄT: finanzamt
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  name: Finanzamt Essen-Süd
+  adresse_ursprung: Goethestraße/Krawehlstraße
+  errichtung: 1927-1928
+  baustil: Backsteingebäude
+  kriegszerstoerung: zerstört
+  wiederaufbau: mit neuen Seitenflügeln
+  umzug: Sommer 2004 nach Altendorf
+GUELTIG_AB: 1927
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/026
+ENTITÄT: villa
+BEZEICHNUNG: Villa Herzberg
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1911
+  architekt: Edmund Körner
+  bauherr: Carl Herzberg
+  bauherr_profession: jüdischer Kaufmann
+  bauherr_daten: * 14. Januar 1864, † 23. August 1938
+  bauherr_geschaeft: Teilhaber der Essener Getreidegroßhandlung Carl und Gustav Herzberg
+  beschreibung: dreistöckige, kubische Backsteinvilla mit gerundeten Ecken
+  kriegszerstoerung: im Zweiten Weltkrieg zerstört
+GUELTIG_AB: 1911
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 428-ruettenscheid/027
+ENTITÄT: unternehmen
+BEZEICHNUNG: E.ON
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  typ: Energiekonzern
+  ansaessig_in: Rüttenscheid
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/028
+ENTITÄT: unternehmen
+BEZEICHNUNG: Ruhrbahn
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  typ: Verkehrsunternehmen
+  ansaessig_in: Rüttenscheid
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/029
+ENTITÄT: unternehmen
+BEZEICHNUNG: Stadtwerke Essen
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  typ: Stadtwerke
+  ansaessig_in: Rüttenscheid
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/030
+ENTITÄT: unternehmen
+BEZEICHNUNG: STEAG
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  typ: Stromerzeuger
+  ansaessig_in: Rüttenscheid
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/031
+ENTITÄT: druckerei
+BEZEICHNUNG: Girardet-Zentrum
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  adresse: südliches Rüttenscheid
+  gruendung: 1865
+  gruender: Wilhelm Girardet
+  typ: Buchdruckerei mit Verlag
+  mitarbeiter_maximal: 3500
+  betriebsende: Mitte 1980er Jahre
+  heutige_nutzung: Passage mit Arzt- und Anwaltspraxen, Tanzschule, Seniorenwohnanlage, Brauerei-Gasthof, Restaurants
+GUELTIG_AB: 1865
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/032
+ENTITÄT: bahnstrecke
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: Mülheim-Heißen–Altendorf (Ruhr), heute Burgaltendorf
+  bahnhof_rüttenscheid: Ende 1990er Jahre abgerissen (Parkplatz Grugahalle)
+  zwangsarbeiter_lager: Zweiter Weltkrieg - 25 polnische Zwangsarbeiter
+  umnutzung: 1998-2004 in Abschnitten zum Radweg Grugatrasse umgebaut
+  bruecke_ruettenscheider_str: 1923 gebaut
+GUELTIG_AB: 1900
+GUELTIG_BIS: 2004
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/033
+ENTITÄT: vergnuegungspark
+BEZEICHNUNG: Prater
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  adresse: Winkel Norbert- und Lührmannstraße
+  betriebszeit: 1926-1930
+  attraktionen: Achterbahn, Bootsbecken
+GUELTIG_AB: 1926
+GUELTIG_BIS: 1930
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/034
+ENTITÄT: tunnel_strassenbahn
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  planung: seit 1970er Jahren
+  plan: U11, Straßenbahnen 101, 107 vom Hauptbahnhof durchgehend nach Bredeney
+  eroeffnung: Sommer 1986
+  gleistart: Drei-Schienen-Gleise
+  bahnsteighoehe_cm: 80
+  tunnel_strecke: unter Rüttenscheider Straße
+  netzumstellung: 14. Juni 2015
+GUELTIG_AB: 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/035
+ENTITÄT: umbau_strasse
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  strasse: Rüttenscheider Straße
+  phase_1: 1987 - Umgestaltung zwischen Rüttenscheider Stern und Martinstraße, breitere Fußwege, schmalere Fahrstreifen, Kosten 2,3 Mio DM
+  phase_1_abschluss_fest: 3. September 1988 - erstes Rü-Fest (seitdem jährlich)
+  phase_2: Rüttenscheider Stern zur Baumstraße
+  phase_3: 1989 - Martin- bis Florastraße, Brücke am Girardethaus ersetzt (13 Mio DM)
+  gesamtabschluss: 3. Juli 1991
+  schalusssteine: mit Namen "Rü" gesetzt von Oberbürgermeister Peter Reuschenbach
+GUELTIG_AB: 1987
+GUELTIG_BIS: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/036
+ENTITÄT: rathaus
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  planung: 1897
+  grundsteinlegung: 1901
+  fertigstellung: Ende 1902
+  abriss: im Krieg zerstört
+  heutige_nutzung: Sparkasse (Neubau)
+  urspr_nutzung_danach: Gemeindesparkasse Rüttenscheid
+GUELTIG_AB: 1902
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/037
+ENTITÄT: administrative_einheit
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum_1: 1808-1813 Teil der Munizipalität Altenessen (mit Altenessen, Huttrop, Frillendorf, Rotthausen, Schonnebeck, Stoppenberg)
+  zeitraum_2: 1813 Eigenständige Bürgermeisterei
+  zeitraum_3: 1. Januar 1874 Bürgermeisterei Stoppenberg
+  zeitraum_4: 1884 Bürgermeisterei Rellinghausen (mit Rellinghausen, Heisingen)
+  zeitraum_5: 1. Juni 1900 Eigenständige Gemeinde Rüttenscheid
+  zeitraum_6: 1. Juli 1905 Eingemeindung zu Essen
+  buergermeister_letzter: Friedrich Wilhelm Hild (bis 1905)
+GUELTIG_AB: 1808
+GUELTIG_BIS: 1905
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 428-ruettenscheid/038
+ENTITÄT: schulgebaeude
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: Ende 1856
+  grund_vor_dieser_zeit: Bauernkinder mussten nach Rellinghausen oder Altstadt zur Schule gehen
+GUELTIG_AB: 1856
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/039
+ENTITÄT: postamt
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1895
+GUELTIG_AB: 1895
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/040
+ENTITÄT: elektrifizierung
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  zeitpunkt: ca. 1905
+GUELTIG_AB: 1905
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 428-ruettenscheid/041
+ENTITÄT: hof
+BEZEICHNUNG: Montagshof
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1359
+  region: später als Montagsloch bekannt
+  abriss: 1905
+  vergangenheit: im Kriegs Postkutschenstation (Montagsloch)
+GUELTIG_AB: 1359
+GUELTIG_BIS: 1905
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/042
+ENTITÄT: hof
+BEZEICHNUNG: Ritterhof (später Niemöhlmann)
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1394
+  verwaltungsbeziehung: Lehensbeziehung zu Stift Essen oder Abtei Werden
+GUELTIG_AB: 1394
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 428-ruettenscheid/043
+ENTITÄT: hof
+BEZEICHNUNG: Kahmannhof
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1413
+GUELTIG_AB: 1413
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 428-ruettenscheid/044
+ENTITÄT: hof
+BEZEICHNUNG: Hof Overbeck (später Preutenborbeck und Langel)
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  historische_beschreibung: bei Postkutschenroute Essen-Kettwig, über Borbecker Mühlenbach
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 428-ruettenscheid/045
+ENTITÄT: hof
+BEZEICHNUNG: Hof Asey
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  historische_bedeutung: markanter Punkt an Postkutschenroute Essen-Kettwig
+  location: Meisenburgstraße
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 428-ruettenscheid/046
+ENTITÄT: gewaesser
+BEZEICHNUNG: Borbecker Mühlenbach
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  bedeutung: Durchfließt Rüttenscheid
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/047
+ENTITÄT: gewaesser
+BEZEICHNUNG: Rellinghauser Mühlenbach
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  bedeutung: Durchfließt Rüttenscheid
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/048
+ENTITÄT: strasse
+BEZEICHNUNG: Kettwiger Chaussee (heute: Huyssenallee / Rüttenscheider Straße)
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  funktion_historisch: um 1900 zentrale Verbindung von Essen nach Kettwig
+  postkutschenroute: Essen-Kettwig-Hösel-Ratingen-Düsseldorf
+  bedeutung: ältester Weg von Essen nach Werden
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/049
+ENTITÄT: strasse
+BEZEICHNUNG: Rüttenscheider Straße
+FACETTE: ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/ruettenscheid_1/ruettenscheid_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  uebername: Rü
+  charakter: Hauptschlagader des Stadtteils
+  einkaufsmeilc: attraktiver Einzelhandel
+  fachgeschaefte: über 300
+  gastronomie: rund 100 Bars, Clubs, Cafés und Restaurants
+  wochenmarkt: Rüttenscheider Platz
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 428-ruettenscheid/050
+ENTITÄT: veranstaltung_fest
+BEZEICHNUNG: Rü-Fest
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  typ: Stadtteilfestival mit Live-Musik
+  haeufikekit: jährlich
+  erste_veranstaltung: 3. September 1988
+GUELTIG_AB: 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/051
+ENTITÄT: veranstaltung_fest
+BEZEICHNUNG: Rüttenscheider Musiknacht
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  inhalt: Präsentation der Rüttenscheider Musik- und Kneipenszene
+  haeufigkeit: regelmäßig
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/052
+ENTITÄT: sportveranstaltung
+BEZEICHNUNG: Rü-Cup
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  typ: internationales Radrennen
+  haeufigkeit: regelmäßig
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/053
+ENTITÄT: sportveranstaltung
+BEZEICHNUNG: Tour de Rü
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  typ: Oldtimer-Rally
+  haeufigkeit: regelmäßig
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/054
+ENTITÄT: veranstaltung_fest
+BEZEICHNUNG: Rüttenscheider Wintermarkt
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  typ: Wintermarkt
+  haeufigkeit: regelmäßig
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/055
+ENTITÄT: mahnstatte
+BEZEICHNUNG: Montagsloch
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Bombenkrater, regenwassergefüllt
+  fund_april_1945: ca. 34-35 stark verweste Leichen
+  opfer_typ: Osteuropäer, nicht durch Fliegerbomben umgekommen, sondern von der Geheimen Staatspolizei (GeStapo) hingerichtet
+  identitaet: unklar
+  beerdigungsvorgang: englische Militärs ließen Essener Bürger Gräber ausheben, orthodoxe Grabkreuze aufgestellt
+  verlegung: 1949 auf Ehrenfriedhof im Südwestfriedhof
+  weitere_funde: Mai 1945 eine weitere Leiche, 1962 während Neugestaltung Grugapark weitere Knochenreste
+  verfahren: 1948 Verurteilungen durch britisches Militärgericht, 1960 Verfahren gegen GeStapo-Führung eingestellt
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 428-ruettenscheid/056
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Franz Christoph Büscher
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1848–1928
+  profession: deutscher Jurist und Richter
+  beziehung_zu_ort: starb hier
+GUELTIG_AB: 1848
+GUELTIG_BIS: 1928
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/057
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Carl Nordmann
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1849–1922
+  profession: deutscher Architekt
+  beziehung_zu_ort: wirkte hier (Reformationskirche)
+GUELTIG_AB: 1849
+GUELTIG_BIS: 1922
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/058
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Friedrich Alfred Krupp
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1854–1902
+  profession: deutscher Industrieller
+  beziehung_zu_ort: wirkte hier verschiedentlich
+GUELTIG_AB: 1854
+GUELTIG_BIS: 1902
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/059
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karl Heinrich Gisbert Gillhausen
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1856–1917
+  profession: deutscher Bauingenieur, Industriemanager und Politiker
+  beziehung_zu_ort: starb hier
+GUELTIG_AB: 1856
+GUELTIG_BIS: 1917
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/060
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Bernhard Schulz
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1861–1933
+  profession: deutscher Architekt, Kommunalpolitiker, Lehrer und Anwalt
+  beziehung_zu_ort: starb hier
+GUELTIG_AB: 1861
+GUELTIG_BIS: 1933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/061
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Otto Heinemann
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1864–1944
+  profession: deutscher Kommunalpolitiker
+  beziehung_zu_ort: war in Rüttenscheid Gemeinderat
+GUELTIG_AB: 1864
+GUELTIG_BIS: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/062
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Friedrich Wilhelm Hild
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1870–1908
+  profession: deutscher Politiker
+  beziehung_zu_ort: erster und einziger Bürgermeister von Rüttenscheid
+GUELTIG_AB: 1870
+GUELTIG_BIS: 1908
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 428-ruettenscheid/063
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Heinrich Kirchhoff
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1874–1934
+  profession: deutscher Kunstsammler
+  beziehung_zu_ort: wurde hier geboren
+GUELTIG_AB: 1874
+GUELTIG_BIS: 1934
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/064
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hermann Bach
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1875–1944
+  profession: deutscher Chemiker
+  beziehung_zu_ort: lebte hier
+GUELTIG_AB: 1875
+GUELTIG_BIS: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/065
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Wilhelm Hölling
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1880–1953
+  profession: deutscher Wirtschaftsjurist im Bergbau
+  beziehung_zu_ort: wirkte hier
+GUELTIG_AB: 1880
+GUELTIG_BIS: 1953
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/066
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Otto Trieloff
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1885–1967
+  profession: deutscher Leichtathlet
+  beziehung_zu_ort: starb hier
+GUELTIG_AB: 1885
+GUELTIG_BIS: 1967
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/067
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Paul Hans Jaeger
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1886–1958
+  profession: deutscher Politiker
+  beziehung_zu_ort: starb hier
+GUELTIG_AB: 1886
+GUELTIG_BIS: 1958
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/068
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Otto Ohl
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1886–1973
+  profession: deutscher evangelischer Geistlicher
+  beziehung_zu_ort: wirkte hier
+GUELTIG_AB: 1886
+GUELTIG_BIS: 1973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/069
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Otto Adams
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1887–1966
+  profession: deutscher Gewerkschafter und Abgeordneter des Reichstages
+  beziehung_zu_ort: starb hier
+GUELTIG_AB: 1887
+GUELTIG_BIS: 1966
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/070
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Artur Malkowsky
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1891–1972
+  profession: deutscher Schauspieler
+  beziehung_zu_ort: wurde hier geboren
+GUELTIG_AB: 1891
+GUELTIG_BIS: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/071
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Carl Hundhausen
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1893–1977
+  profession: deutscher Kommunikationsmanager und -berater
+  beziehung_zu_ort: starb hier
+GUELTIG_AB: 1893
+GUELTIG_BIS: 1977
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/072
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Günther von Stosch
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1893–1955
+  profession: deutscher Politiker
+  beziehung_zu_ort: starb hier
+GUELTIG_AB: 1893
+GUELTIG_BIS: 1955
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/073
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hannes Pingsmann
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1894–1955
+  profession: deutscher Maler und Grafiker
+  beziehung_zu_ort: wurde hier geboren
+GUELTIG_AB: 1894
+GUELTIG_BIS: 1955
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/074
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Wilhelm Nieswandt
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1898–1978
+  profession: deutscher Unternehmer
+  beziehung_zu_ort: starb hier
+GUELTIG_AB: 1898
+GUELTIG_BIS: 1978
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/075
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Thea Rasche
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1899–1971
+  profession: deutsche Kunstfliegerin und Journalistin
+  beziehung_zu_ort: starb hier
+GUELTIG_AB: 1899
+GUELTIG_BIS: 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/076
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karl Walter Vervoort
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1899–1979
+  profession: deutscher Missionar
+  beziehung_zu_ort: wurde hier geboren
+GUELTIG_AB: 1899
+GUELTIG_BIS: 1979
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/077
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Kurt Otto
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1900–1942
+  profession: Fußballspieler
+  beziehung_zu_ort: wurde hier geboren
+GUELTIG_AB: 1900
+GUELTIG_BIS: 1942
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/078
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Peter Friedrich Schneider
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1901–1981
+  profession: deutscher Architekt
+  beziehung_zu_ort: wuchs hier auf
+GUELTIG_AB: 1901
+GUELTIG_BIS: 1981
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/079
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hans Toussaint
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1902–1977
+  profession: deutscher Politiker
+  beziehung_zu_ort: starb hier
+GUELTIG_AB: 1902
+GUELTIG_BIS: 1977
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/080
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hans Dütting
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1903–1966
+  profession: deutscher Bergwerksdirektor und Funktionär des Deutschen Alpenvereins
+  beziehung_zu_ort: starb hier
+GUELTIG_AB: 1903
+GUELTIG_BIS: 1966
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/081
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Werner Keyßner
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1903–1969
+  profession: deutscher Politiker
+  beziehung_zu_ort: wurde hier geboren
+GUELTIG_AB: 1903
+GUELTIG_BIS: 1969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/082
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Franz Horn
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1904–1963
+  profession: Fußballspieler
+  beziehung_zu_ort: starb hier
+GUELTIG_AB: 1904
+GUELTIG_BIS: 1963
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/083
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Arnold Schulte
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1906–1984
+  profession: deutscher römisch-katholischer Geistlicher und Religionspädagoge
+  beziehung_zu_ort: wirkte hier
+GUELTIG_AB: 1906
+GUELTIG_BIS: 1984
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/084
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Arnold Haumann
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1923–2008
+  profession: deutscher evangelischer Pfarrer und Friedensaktivist
+  beziehung_zu_ort: wirkte hier
+GUELTIG_AB: 1923
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/085
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ingrid Siebeke
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1924–2018
+  profession: deutsche Politikerin
+  beziehung_zu_ort: wurde hier geboren
+GUELTIG_AB: 1924
+GUELTIG_BIS: 2018
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/086
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hans-Ulrich Stephan
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1931–2009
+  profession: deutscher evangelischer Theologe
+  beziehung_zu_ort: wirkte hier
+GUELTIG_AB: 1931
+GUELTIG_BIS: 2009
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/087
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Werner Lechte
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1944–2018
+  profession: deutscher Kirchenmusiker und Hochschullehrer
+  beziehung_zu_ort: wirkte hier
+GUELTIG_AB: 1944
+GUELTIG_BIS: 2018
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/088
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Gerd Gatzweiler
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1945–
+  profession: deutscher Taekwondo-Trainer
+  beziehung_zu_ort: wirkte hier
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/089
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Michael Wildt
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1954–
+  profession: deutscher Historiker und Hochschullehrer
+  beziehung_zu_ort: wuchs hier auf
+GUELTIG_AB: 1954
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/090
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Kai Gehring
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1977–
+  profession: deutscher Politiker
+  beziehung_zu_ort: lebt hier
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/091
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Serge Menga
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1977–
+  profession: deutscher politischer Aktivist
+  beziehung_zu_ort: lebt hier
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/092
+ENTITÄT: transport_infrastruktur
+BEZEICHNUNG: Haltestellen Rüttenscheider Stern
+FACETTE: INFRA
+QUELLE: https://www.essen.de/dasistessen/stadtteile/ruettenscheid_1/ruettenscheid_statistik.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  linien: U11, 101, 106, 107, 108, NE8, NE13
+GUELTIG_AB: 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 428-ruettenscheid/093
+ENTITÄT: transport_infrastruktur
+BEZEICHNUNG: Haltestelle Martinstraße
+FACETTE: INFRA
+QUELLE: https://www.essen.de/dasistessen/stadtteile/ruettenscheid_1/ruettenscheid_statistik.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  linien: U11, 107, 108, 142, 160, 161, NE8, NE13, NE14
+GUELTIG_AB: 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 428-ruettenscheid/094
+ENTITÄT: transport_infrastruktur
+BEZEICHNUNG: Bahnhof Essen Süd
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lage: östlicher Zipfel Rüttenscheids
+  linien: S-Bahn S6, Straßenbahn 105
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/095
+ENTITÄT: transport_infrastruktur
+BEZEICHNUNG: Autobahn A 52
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: südrand und östlich
+  include_gewerbegebiet: südlich Langenbrahm
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/096
+ENTITÄT: transport_infrastruktur
+BEZEICHNUNG: Bundesstraße 224 (Alfredstraße)
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: westrand
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 428-ruettenscheid/097
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Notfall-Infopunkte (NIP)
+FACETTE: INFRA
+QUELLE: https://www.essen.de/dasistessen/stadtteile/ruettenscheid_1/ruettenscheid_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standorte: Büscherstraße 2-6 (Polizei Essen), Manfredstraße 26 (Feuerwehr Essen)
+  zweck: Austausch von Informationen und Aufnahme von Notfallmeldungen in Krisensituationen
+  use_case: langanhaltende Stromausfälle
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/098
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Trinkwasserbrunnen
+FACETTE: INFRA
+QUELLE: https://www.essen.de/dasistessen/stadtteile/ruettenscheid_1/ruettenscheid_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Rüttenscheider Stern
+  funktion: zuverlässige Quelle für sauberes Trinkwasser
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/099
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Grillzone
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/ruettenscheid_1/ruettenscheid_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Elsa-Brändström-Park
+  regel: Bürger müssen eigenen Grill mitbringen
+  stadtweite_regel: auf allen anderen öffentlichen Flächen des Stadtbezirks II Grillen verboten
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/100
+ENTITÄT: zentrum
+BEZEICHNUNG: Villa Rü
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/ruettenscheid_1/ruettenscheid_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Bürgerzentrum, Anlaufstelle vor Ort
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/101
+ENTITÄT: bildungseinrichtung
+BEZEICHNUNG: Grundschulen
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  anzahl: 3
+GUELTIG_AB: 1956
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/102
+ENTITÄT: bildungseinrichtung
+BEZEICHNUNG: Realschule
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  anzahl: 1
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/103
+ENTITÄT: bildungseinrichtung
+BEZEICHNUNG: Helmholtz-Gymnasium
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  typ: Gymnasium
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/104
+ENTITÄT: bildungseinrichtung
+BEZEICHNUNG: Maria-Wächtler-Gymnasium
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  typ: Gymnasium
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/105
+ENTITÄT: krankenhaus
+BEZEICHNUNG: Alfried Krupp Krankenhaus
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  bedeutung_fuer_ort: überörtlich bekannt
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/106
+ENTITÄT: messe
+BEZEICHNUNG: Messe Essen
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  bedeutung_fuer_ort: überörtlich bekannt
+GUELTIG_AB: 1920
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/107
+ENTITÄT: halle
+BEZEICHNUNG: Grugahalle
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  bedeutung_fuer_ort: überörtlich bekannt
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 428-ruettenscheid/108
+ENTITÄT: kulturfestival
+BEZEICHNUNG: Folktales (Folkwang-Schule für Gestaltung)
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  geschichte: Vorgängerinstitution war städtische Handwerker- und Kunstgewerbeschule, ab 1908 im alten Rüttenscheider Rathaus untergebracht
+GUELTIG_AB: 1908
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 428-ruettenscheid/109
+ENTITÄT: abgemeindung
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  stadtteil_abgetrenntt: Margarethenhöhe
+  abtrennungsjahr: 1948
+  grund: Margarethenhöhe als eigenständiger Stadtteil von Rüttenscheid abgetrennt
+GUELTIG_AB: 1948
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+

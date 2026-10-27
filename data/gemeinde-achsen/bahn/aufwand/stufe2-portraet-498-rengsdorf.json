@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2-portraet",
+ "ort": "498-rengsdorf",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 26576,
+ "token_ein": 458805,
+ "token_aus": 14068,
+ "usage": {
+  "input_tokens": 22,
+  "cache_creation_input_tokens": 51306,
+  "cache_read_input_tokens": 407477,
+  "output_tokens": 14068,
+  "output_tokens_details": {
+   "thinking_tokens": 6519
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 51306,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 7988,
+    "cache_read_input_tokens": 57287,
+    "cache_creation_input_tokens": 921,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 921
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.3751684,
+ "sekunden": 171,
+ "fehler": false,
+ "zeit": "2026-10-27T10:44:21"
+}

@@ -1,283 +1,1125 @@
 ENTITÄT: ort
 BEZEICHNUNG: Windhagen
+FACETTE: LAGE | GESCHICHTE | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  lage: Ortsgemeinde im Landkreis Neuwied, nördliches Rheinland-Pfalz, unmittelbar an Grenze zu Nordrhein-Westfalen
+  lage_naturraum: Asbacher Hochfläche am Übergang vom Siebengebirge in den Westerwald
+  hoehe_minimum: 165 m ü. NHN
+  hoehe_maximum: 322 m ü. NHN
+  naturpark: Rhein-Westerwald
+  flaeche: 1494 ha
+  verbandsgebuendheit: Verbandsgemeinde Asbach
+  einwohner: 4664
+  einwohner_stand: 2025
+  kirche_zugehoerigkeit: Erzbistum Köln, seit 13. Jahrhundert
+  erstmalige_erwaehnung: 893
+  erwaehnung_quelle: Prümer Urbar
+  namensherkunft: Ableitung von "Wendehagen" (Grenzort an der Schnittstelle germanischer Gaue), keltischen Ursprungs
+  gemarkungen: Windhagen, Rederscheid
+  ortsteile_anzahl: 14
+  fusion_jahr: 1970
+  fusion_detail: Zusammenlegung von Rederscheid und Windhagen
+  wappenerkenntnis: 13. Mai 1986
+  partnergemeinde: Pfaffschwende (Thüringen), seit 3. Oktober 1991
+  konfession_katholisch_2025: 35,8 %
+  konfession_evangelisch_2025: 16,5 %
+  konfession_sonstig_konfessionslos_2025: 47,7 %
+  arbeitsplaetze: 2500
+  gueltig_ab: 893
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+
+ENTITÄT: ort
+FACETTE: GESCHICHTE
 QUELLE: https://windhagen.de/html/geschichte.htm | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  lage: nördlich im Naturpark Rhein-Westerwald
-  erstmalige_erwaehnung: 893 (Prümer Urbar)
-  namensherkunft: Ableitung von "Wendehagen", Grenzort an der Schnittstelle germanischer Gaue, wahrscheinlich keltischen Ursprungs
-  kaeltische_besiedlung_dokumentiert_seit: 6. Jahrhundert v. Chr.
-  status_kreis: zählt zu den ältesten Gemeinden im Kreis Neuwied
-  kommunalreform: 1970, Zusammenlegung von Rederscheid und Windhagen
-  anzahl_ortsteile: 14
-  gesamtflaeche: 1.494 [Hektar]
-  bewoelkerung: ca. 4.500
-  arbeitsplaetze: ca. 2.500
-  erzbistum: Köln
-GUELTIG_AB: 893
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: ringwall
-BEZEICHNUNG: Hummelsberg
-QUELLE: https://windhagen.de/html/geschichte.htm | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  lage: oberhalb der Stadt Linz
-  zeitraum_dokumentiert: 6. Jahrhundert v. Chr.
-  besiedelung: keltische Horden
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: ringwall
-BEZEICHNUNG: Asberg
-QUELLE: https://windhagen.de/html/geschichte.htm | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  lage: westlich von Schweifeld
-  zeitraum_dokumentiert: 6. Jahrhundert v. Chr.
-  besiedelung: keltische Horden
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: ringwall
-BEZEICHNUNG: Petersberg
-QUELLE: https://windhagen.de/html/geschichte.htm | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  zeitraum_dokumentiert: 6. Jahrhundert v. Chr.
-  besiedelung: keltische Horden
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: kapelle
-BEZEICHNUNG: Hallerbacher Kapelle
-ORTSTEIL_BEZUG: Hallerbach
-QUELLE: https://windhagen.de/html/geschichte.htm | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  ausrichtung: Nordwesten (ungewöhnlich, da Sakralbauten üblicherweise nach Osten ausgerichtet sind)
-  grund_ausrichtung: orientiert auf keltische Kultstätte
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: kapelle
-BEZEICHNUNG: Dreifaltigkeitskapelle Hallerbach
-ORTSTEIL_BEZUG: Hallerbach
-QUELLE: https://windhagen.de/html/sehenswertes.htm | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  letzte_dokumentierte_renovierung: 1450
-  geschaetztes_alter: bedeutend älter als 1450
-  baustil: verputzte, weiß gestrichene Baukörper, drei Seiten des Achtecks
-  dach: Satteldach mit schiefergedecktem Glockentürmchen
-  glocke_material: Bronzeglocke
-  glocke_gegossen: 1852
-  glocke_gussort: Schippang, Neuwied
-  glocke_gewicht: 50 [kg]
-  fenster_chor: fensterlos, dreiteiliger Chorschluss
-  fenster_schiff: je eine Fensteröffnung auf beiden Seiten
-  fenster_giebel: zwei zusätzliche flachbogige Fenster
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: kreuz
-BEZEICHNUNG: Friedhofskreuz
-QUELLE: https://windhagen.de/html/sehenswertes.htm | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  material: Basaltlava
-  hoehe: 3 [Meter]
-  jahr: 1731
-GUELTIG_AB: 1731
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: kreuz
-BEZEICHNUNG: Barockes Kreuz
-QUELLE: https://windhagen.de/html/geschichte.htm | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  jahr: 1702
-  standort: gegenüber der Sankt Bartholomäus Kirche
-  inschrift: dokumentiert 1000-jähriges Bestehen des Ortes Windhagen
-GUELTIG_AB: 1702
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: biotop
-BEZEICHNUNG: Biotop Windhagen
-QUELLE: https://windhagen.de/html/sehenswertes.htm | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  bezeichnung_alternative: "grüne Lunge" Windhagens
-  lage: Lärchenstraße, unterhalb Parkplatz Innerort (bei der Sparkasse)
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: zeltplatz
-BEZEICHNUNG: Jugendzeltplatz Kirchwies
-ORTSTEIL_BEZUG: Hüngsberg
-QUELLE: https://windhagen.de/html/sehenswertes.htm | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  lage: Pfaffenbachtal, unterhalb des Ortsteil Hüngsberg
-  gewaesser: Zusammenfluss des Stockhausener Bachs und des Pfaffenbachs
-  bedeutung: beliebtes Reiseziel für Kinder und Jugendliche aus ganz Deutschland
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: kapelle
-BEZEICHNUNG: Kapelle St. Mariä Heimsuchung
-ORTSTEIL_BEZUG: Hüngsberg
-QUELLE: https://windhagen.de/html/sehenswertes.htm | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  lage: talwärts gelegenes Ende des Ortes Hüngsberg, zwischen Weiden
-  baustil: Rechteckbau mit Halbrund-Schluss, heller Putz, Satteldach
-  glockenstuebchen: Glockentürmchen über dem Giebel
-  glöckchen_jahr: 1863
-  glöckchen_gewicht: 40 [kg]
-  glöckchen_ursprung: Lauer, Schlesien
-  glöckchen_herkunft_detail: nach dem Krieg hierher verschlagen, als Leihglocke
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: kapelle
-BEZEICHNUNG: Marienkapelle Stockhausen
-ORTSTEIL_BEZUG: Stockhausen
-QUELLE: https://windhagen.de/html/sehenswertes.htm | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  stifter: Gebrüder Roth
-  stiftungsgrund: Dank für unversehrte Rückkehr aus dem deutsch-französischen Krieg
-  stiftung_umfang: Startkapital und Baugrundstück
-  bauzeit: 2 Jahre
-  weihe: Immerwährende Hilfe
-  erstes_gottesdienst: 1886
-GUELTIG_AB: 1886
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.92
+  fruehe_besiedlung_epoche: 6. Jahrhundert v. Chr.
+  fruehe_besiedlung_volk: Kelten
+  fruehe_siedlungen: Ringwälle auf Hummelsberg, Asberg (westlich von Schweifeld), Petersberg
+  1000_jahres_beleg: barockes Kreuz von 1702 gegenüber St. Bartholomäus
+  historischer_status: bedeutender Grenzpunkt in der frühen Geschichte der Region
+  gueltig_ab: 600
+  vertrauen_extraktion: 0.9
 
 ---
 
 ENTITÄT: kirche
-BEZEICHNUNG: Pfarrkirche St. Bartholomäus
+BEZEICHNUNG: St. Bartholomäus
+FACETTE: LAGE | GESCHICHTE | INFRA
 QUELLE: https://windhagen.de/html/sehenswertes.htm | Gemeinde-Webseite
 EIGENSCHAFTEN:
+  typ: katholische Pfarrkirche
   bauzeit: 1869-1870
-  architekt: Vincent Statz, Köln
-  stil: gotisierender Neubau
+  architekt: Vincent Statz (Köln), reduzierte Pläne
+  standort: Mittelpunkt des Ortszentrums
   turm_einsturz: 1871
-  turm_wiederaufbau: 1908
-  turm_architekt: Stumpf, Bonn
-  erweiterung: 1908, um ein halbes Joch verlängert
-  kriegsschaeden: 1939-1945 schwer beschädigt, Fenster durch Bomben zerstört
-  wiederherstellung_kriegsschaeden: 1954-1959
-  funktion: Mittelpunkt des Ortszentrums
-  konfession: katholisch
-GUELTIG_AB: 1869
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+  turm_neuerrichtung: 1908
+  turm_architekt: Stumpf (Bonn)
+  kriegsschaeden: schwere Beschädigungen 1939-1945 durch Bomben
+  kriegsschaeden_besonderheit: Fenster völlig zerstört durch Sprengungen nahe gelegener Flugplatz
+  wiederherstellung: 1954-1959
+  verlaengerung: 1908 um ein halbes Joch
+  baustil: gotisierender Neubau
+  ortsbedeutung: Mittelpunkt des Ortszentrums
+  gueltig_ab: 1869
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
 
 ---
 
-ENTITÄT: pfarrgemeinde
-BEZEICHNUNG: Katholische Pfarrgemeinde St. Bartholomäus
-QUELLE: https://windhagen.de/html/kirchen.htm | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  seelsorgebereich: Rheinischer Westerwald
-  leitender_pfarrer: Dariusz Glowacki
-  pfarrvikar: Ulrich Olzem
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: pfarrgemeinde
-BEZEICHNUNG: Evangelische Pfarrgemeinde
-QUELLE: https://windhagen.de/html/kirchen.htm | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  pfarrer: Bernd Peters
-  kirchengemeinde_zugehoerigkeit: Evangelische Kirchengemeinde Neustadt - Vettelschoß
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.7
-
----
-
-ENTITÄT: kapelle
-BEZEICHNUNG: St. Sebastianuskapelle Rederscheid
-ORTSTEIL_BEZUG: Rederscheid
+ENTITÄT: kirche
+BEZEICHNUNG: Dreifaltigkeitskapelle Hallerbach
+FACETTE: LAGE | GESCHICHTE
 QUELLE: https://windhagen.de/html/sehenswertes.htm | Gemeinde-Webseite
 EIGENSCHAFTEN:
+  ortsteil_bezug: Hallerbach
+  dokumentierte_renovierung: 1450
+  bautyp: verputzter, weiß gestrichener Baukörper
+  groesse: etwa 6 m lang
+  dachform: Satteldach
+  tuermchen: schiefergedecktes Glockentürmchen
+  glocke_gegossen: 1852
+  glocke_giesser: Schippang (Neuwied)
+  glocke_gewicht: 50 kg
+  glocke_material: Bronze
+  fenster_chor: fensterlos (dreiteiliger Chorschluss)
+  fenster_schiff: je eine Fensteröffnung pro Seite
+  fenster_giebel: zwei zusätzliche flachbogige Fenster im oberen Teil
+  besonderheit_orientierung: zeigt nach Nordwesten statt übliche Ostachse, weil auf keltische Kultstätte gerichtet
+  gueltig_ab: 1450
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Kapelle St. Mariä Heimsuchung
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://windhagen.de/html/sehenswertes.htm | Gemeinde-Webseite
+PROPERTIES:
+  ortsteil_bezug: Hüngsberg
+  standort: talwärts gelegenes Ende des Ortes
+  umgebung: zwischen Weiden
+  bautyp: Rechteckbau mit Halbrund-Schluss
+  oberflaeche: heller Putz
+  dachform: schiefergedecktes Satteldach
+  tuermchen: gefälliges Glockentürmchen über dem Giebel
+  glockchen_gewicht: 40 kg
+  glockchen_gegossen: 1863
+  glockchen_herkunft: Lauer (Schlesien), nach Krieg hierher verschlagen
+  glockchen_status: Leihglocke
+  bauzeit_geschaetzte_neuheit: neuere Entstehung (Äußeres verrät es)
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Marienkapelle Stockhausen
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://windhagen.de/html/sehenswertes.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsteil_bezug: Stockhausen
+  weihe: "Immerwährende Hilfe"
+  bauzeit: zwei Jahre (dauerte zwei Jahre)
+  fertigstellung: 1886
+  erster_gottesdienst: 1886
+  gruender: Gebrüder Roth
+  stiftung_grund: Dank für unversehte Rückkehr aus deutsch-französischem Krieg
+  stiftung_detail: stellten Startkapital und Baugrundstück
+  gottesdienste_heute: an besonderen Marienfeiertagen
+  anlass: deutsch-französischer Krieg
+  benannt_nach: Maria (Immerwährende Hilfe)
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Sebastianuskapelle Rederscheid
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://windhagen.de/html/sehenswertes.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsteil_bezug: Rederscheid
   weihe_datum: 10. Mai 1803
-  weihe_vollzogen_durch: damaliger Pfarrer mit Erlaubnis des Domkapitels
-  bedeutung: Zierde des Ortes und Anziehungspunkt
-  baustil: weißverputzter Rechteckbau mit dreiteiligem fensterlosen Schluss
-  dach: Satteldach, Walmdach über dem Chor
-  glockenstuebchen: geschiefertes Glockentürmchen mit Kreuz und Wetterhahn
-  glöckchen_jahr: 1832
-  glöckchen_material: Bronzeglocke
-  glöckchen_durchmesser: 32 [cm]
-  glöckchen_gewicht: 30 [kg]
-GUELTIG_AB: 1803
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.93
+  weihe_verantwortung: damaliger Pfarrer mit Erlaubnis des Domkapitels
+  standort: inmitten des Dorfes Rederscheid
+  bedeutung_fuer_ort: "Zierde des Ortes und Anziehungspunkt"
+  bautyp: freundlicher, weißverputzter Rechteckbau
+  chorschluss: dreiteiliger, fensterloser Schluss
+  dachform: geschiefertes Satteldach, über dem Chor in Walmdach übergehend
+  tuermchen: geschiefertes Glockentürmchen mit Kreuz und Wetterhahn
+  glocke: 1832 gegossenes Bronzeglöckchen
+  glocke_durchmesser: 32 cm
+  glocke_gewicht: 30 kg
+  gueltig_ab: 1803
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Friedhofskreuz
+FACETTE: GESCHICHTE
+QUELLE: https://windhagen.de/html/sehenswertes.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Barockkreuz
+  material: Basaltlava
+  hoehe: 3 m
+  jahr: 1731
+  gueltig_ab: 1731
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: barockes Kreuz
+FACETTE: GESCHICHTE
+QUELLE: https://windhagen.de/html/geschichte.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: gegenüber der Windhagener Sankt Bartholomäus Kirche
+  jahr: 1702
+  beschreibung: belegt das 1000 jährige Bestehen des Ortes Windhagen
+  bedeutung_fuer_ort: "belegt das 1000 jährige Bestehen des Ortes Windhagen"
+  gueltig_ab: 1702
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: naturort
+BEZEICHNUNG: Biotop Windhagen
+FACETTE: FREIZEIT | LAGE
+QUELLE: https://windhagen.de/html/sehenswertes.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "grüne Lunge" Windhagens
+  standort: Lärchenstraße, Parkplatz im Innerort an der Sparkasse gegenüber, unteres Ende der Straße rechts
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.7
+
+---
+
+ENTITÄT: freizeitort
+BEZEICHNUNG: Jugendzeltplatz Kirchwies
+FACETTE: FREIZEIT | LAGE
+QUELLE: https://windhagen.de/html/sehenswertes.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Pfaffenbachtal, unterhalb des Windhagener Ortsteils Hüngsberg
+  lage_detail: am Zusammenfluss des Stockhausener Bachs und des Pfaffenbachs
+  charakter: romantisches Pfaffenbachtal, eingebettet
+  zielgruppe: Kinder und Jugendliche aus ganz Deutschland
+  beliebtheit: beliebtes Reiseziel
+  bedeutung_fuer_ort: überörtliche Bekanntheit
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: freizeitort
+BEZEICHNUNG: Golf Course Siebengebirge
+FACETTE: FREIZEIT
+QUELLE: https://windhagen.de/html/vereine.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Golfplatz
+  loecher: 18
+  standort: Brunnenstr. 11, 53578 Windhagen
+  charakteristikum: landschaftlich wunderschön gelegener 18-Loch-Golfplatz
+  zielgruppe: interessierte Golfspieler
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: buendnis
+BEZEICHNUNG: Hallerbacher Kapelle
+FACETTE: GESCHICHTE
+QUELLE: https://windhagen.de/html/geschichte.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besonderheit: sonst bei Sakralbauten übliche Ostachse zeigt nach Nordwesten
+  grund_besonderheit: weil die Kapelle auf eine keltische Kultstätte gerichtet wurde
+  bedeutung: belegt keltischen Ursprung des Ortes
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+
+ENTITÄT: ortschaft
+BEZEICHNUNG: Rederscheid
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  ortsteil_von: Windhagen
+  fusion_mit_windhagen: 7. November 1970
+  einwohner_bei_fusion: 728
+  gemarkung: Rederscheid
+  geschichtlicher_name: "Hohner Honschaft" und "Rederscheid" (Honschaft meist so genannt)
+  siedlungen_1660: Frohnen, Hallerbach (je zwei Häuser), Gunnerscheidt (drei Häuser), Hohn, Schweifeld, Redtscheid (je fünf Häuser)
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: ortschaft
+BEZEICHNUNG: Stockhausen
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  ortsteil_von: Windhagen
+  gemarkung: Windhagen
+  siedlungen_1660: zehn Häuser (laut Inventur)
+  fernsehen_erwaehnung: SWR Hierzuland, Stockhausener Straße, 12.11.2019
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: ortschaft
+BEZEICHNUNG: Hallerbach
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  ortsteil_von: Windhagen
+  bach: Hallerbach (auch Elsaffer Bach genannt)
+  bach_austritt: niedrigster Punkt der Gemeinde (165 m ü. NHN) am östlichen Austritt des Hallerbachs
+  siedlungen_1660: zwei Häuser (laut Inventur)
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: ortschaft
+BEZEICHNUNG: Hüngsberg
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  ortsteil_von: Windhagen
+  gemarkung: Windhagen
+  siedlungen_1660: vier Häuser (als "Hunsberg", laut Inventur)
+  besonderheit: liegt unterhalb davon der Jugendzeltplatz Kirchwies
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: ortschaft
+BEZEICHNUNG: Johannisberg
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  ortsteil_von: Windhagen
+  gemarkung: Windhagen
+  siedlungen_1660_alt: "alte Hunsberg" (Johannisberg), ein Haus (laut Inventur)
+  wappenbezug: Familie von Schoenebeck (steht für den Ortsteil Johannisberg, wo die noch heute im Windhagener Raum ansässige Familie Besitz hatte)
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: ortschaft
+BEZEICHNUNG: Schweifeld
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  ortsteil_von: Windhagen
+  gemarkung: Windhagen
+  siedlungen_1660: fünf Häuser (als "Schweyfeld", laut Inventur)
+  nachbarschaft: "Asberg - westlich von Schweifeld" mit keltischem Ringwall
+  fernsehen_erwaehnung: SWR Hierzuland, Schweifelder Straße, 17.11.2021
+  bewohner: Claus Weber-Höller (1924–2020, Mediziner und Generalsarzt der Bundeswehr)
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: ortschaft
+BEZEICHNUNG: Vierwinden
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  ortsteil_von: Windhagen
+  gemarkung: Windhagen
+  hoehe_maximum: höchster Geländepunkt der Gemeinde (knapp 322 m ü. NHN)
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: ortschaft
+BEZEICHNUNG: Birken
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  ortsteil_von: Windhagen
+  gemarkung: Windhagen
+  siedlungen_1660: ein Haus (laut Inventur)
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: ortschaft
+BEZEICHNUNG: Adamstal
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  ortsteil_von: Windhagen
+  wohnplatz: ja
+  gemarkung: Windhagen
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: ortschaft
+BEZEICHNUNG: Hohn
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  ortsteil_von: Windhagen
+  gemarkung: Windhagen
+  siedlungen_1660: fünf Häuser (laut Inventur)
+  fernsehen_erwaehnung: SWR Hierzuland, 11.11.2022
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: ortschaft
+BEZEICHNUNG: Hecken
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  ortsteil_von: Windhagen
+  gemarkung: Windhagen
+  siedlungen_1660: drei Häuser (laut Inventur)
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: ortschaft
+BEZEICHNUNG: Wiesplätzchen
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  ortsteil_von: Windhagen
+  gemarkung: Windhagen
+  siedlungen_1660: drei Häuser (laut Inventur)
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: ortschaft
+BEZEICHNUNG: Köhlershohn
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  ortsteil_von: Windhagen
+  gemarkung: Windhagen
+  siedlungen_1660: (als "Gunnerscheidt" Teil der Hohner Honschaft, drei Häuser)
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: ortschaft
+BEZEICHNUNG: Fischerhaus
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  ortsteil_von: Windhagen
+  wohnplatz: ja
+  lage: im Appental
+  gemarkung: Rederscheid
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: buendnis
+BEZEICHNUNG: KG Wenter Klaavbröder
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://windhagen.de/html/vereine.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Karnevalsverein
+  funktion: pflegt das rheinische Brauchtum und veranstaltet karnevalistische Sitzungen
+  charakteristikum: Fest mit Brauchtum (Karneval)
+  bedeutung_fuer_ort: überörtliche Aktivität
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: buendnis
+BEZEICHNUNG: Möhnenclub Rubbeldi Dupp
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://windhagen.de/html/vereine.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Möhnenclub (Karnevalsgruppe)
+  funktion: "bereichern Wieverfastelovend (Weiberfastnacht) und Straßenkarneval mit besonderen karnevalistischen Auftritten und Vorträgen"
+  charakteristikum: karnevalistische Brauchtumsgruppe
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: buendnis
+BEZEICHNUNG: Sportverein Eintracht Windhagen
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://windhagen.de/html/vereine.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Sportverein
+  angebot: breit gefächertes und vielseitiges, modernes und zielgruppenorientiertes Angebot für jedes Lebensalter
+  charakteristikum: Sportverein mit Marathonveranstaltung (Lang- und Kurzstrecken) und zahlreichen Kurs- und Wettkampfangeboten
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: buendnis
+BEZEICHNUNG: Musikfreunde Harmonie Windhagen
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://windhagen.de/html/vereine.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Blasorchester
+  funktion: "begleitet bei vielen öffentlichen und privaten Veranstaltungen den musikalischen Rahmen sowie Konzerte und sorgt für die musikalische Früherziehung"
+  aktive_mitglieder: knapp 40
+  besetzung: klassische Blasmusik-Besetzung
+  charakteristikum: Orchester mit überörtlicher Präsenz
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: buendnis
+BEZEICHNUNG: Kirchenchor Cäcilia
+FACETTE: KULTUR | INFRA
+QUELLE: https://windhagen.de/html/vereine.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Kirchenchor
+  funktion: "sorgt für die musikalische Gestaltung von Gottesdiensten, Jubiläen und sonstigen öffentlichen Veranstaltungen"
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: buendnis
+BEZEICHNUNG: Reit- und Fahrverein Aegidienberg Windhagen
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://windhagen.de/html/vereine.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Reit- und Fahrverein
+  funktion: "fördert den Reit- und Fahrsport in Verbindung mit der Ausbildung von Reitern, Fahrern und Pferden sowie der Beratung zu allen Fragen der Pferdehaltung, des Reit- und Fahrsportes"
+  charakteristikum: Spezialverein mit Ausbildungsfunktion
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: buendnis
+BEZEICHNUNG: Rollitennis
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://windhagen.de/html/vereine.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Sportverein für Menschen mit körperlicher Behinderung
+  funktion: "bietet körperlich behinderten Kindern, Jugendlichen und Erwachsenen die Möglichkeit Tennis zu spielen"
+  training: wöchentlich im Sportpark
+  besonderheit: Schnupperstunde möglich
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: buendnis
+BEZEICHNUNG: Heimat- und Verschönerungsverein
+FACETTE: KULTUR | LAGE
+QUELLE: https://windhagen.de/html/vereine.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Heimat- und Naturschutzverein
+  funktion: "Pflege des Heimat- und Naturschutzgedankens sowie der Verschönerung und Gestaltung der Gemeinde"
+  charakteristikum: Ortsverschönerungsverein
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: buendnis
+BEZEICHNUNG: Kulturteam Windhagen
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://windhagen.de/html/vereine.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Kulturverein
+  funktion: "organisiert kulturelle Veranstaltungen im Josef-Rüddel-Forum"
+  veranstaltungsort: Josef-Rüddel-Forum
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: buendnis
+BEZEICHNUNG: Zentrum für therapeutisches Reiten
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://windhagen.de/html/vereine.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: therapeutischer Reitbetrieb
+  funktion: "Therapeutisches Reiten hilft, psychische, soziale und körperliche Störungen und Erkrankungen zu lindern, zu heilen und beugt ihnen vor"
+  charakteristikum: spezialisierte therapeutische Einrichtung
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: buendnis
+BEZEICHNUNG: Freiwillige Feuerwehr Windhagen
+FACETTE: INFRA
+QUELLE: https://windhagen.de/html/vereine.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Feuerwehr
+  funktion: "Brandbekämpfung und Einsätze bei der Absicherung von gefährlichen Stoffen, Gütern oder bei der Personenrettung"
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: buendnis
+BEZEICHNUNG: DRK Vettelschoß, St. Katharinen, Windhagen
+FACETTE: INFRA | ALLTAG
+QUELLE: https://windhagen.de/html/vereine.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Hilfsorganisation
+  funktion: "tätig ist in der Ersten Hilfe, dem Blutspendedienst, dem Rettungsdienst, im Katastrophenschutz und vielen anderen Bereichen"
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: buendnis
+BEZEICHNUNG: Maiclub
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://windhagen.de/html/vereine.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Brauchtumsverein
+  aktivitaeten: "Maibaumaufstellen, Maibaumwache mit Feiern in den Mai"
+  charakteristikum: Mai-Brauchtumsgruppe
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: infrastuktur
+BEZEICHNUNG: Josef Rüddel Forum
+FACETTE: INFRA | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Kulturveranstaltungszentrum
+  fruehere_bezeichnung: Forum Windhagen
+  umbenennung: Mai 2024
+  funktion: "bietet Platz für größere Veranstaltungen"
+  charakter: modern
+  teil_gemeindeentwicklung: "Von 1984 bis 1988 entstand südlich der Autobahn ein neues Kultur-, Schul- und Sportzentrum der Gemeinde"
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bürgerhaus Windhagen
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Bürgerhaus
+  funktion: "mit Veranstaltungsräumen"
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Dreifeldsporthalle
+FACETTE: INFRA | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Sporthalle
+  felder: drei
+  charakter: neu
+  gueltig_ab: 1984
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Rasensportplatz
+FACETTE: INFRA | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Sportplatz
+  oberflaeche: Rasen
+  herrichtung: 2014
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Erich Kästner Grundschule Windhagen
+FACETTE: INFRA | ALLTAG
+QUELLE: https://windhagen.de/html/vereine.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Grundschule
+  sporthalle: Einfeldsporthalle
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Katholische Kindertagesstätte St. Bartholomäus
+FACETTE: INFRA | ALLTAG
+QUELLE: https://windhagen.de/html/kirchen.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Kindertagesstätte
+  konfession: katholisch
+  traeger: St. Bartholomäus
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Katholische Bücherei St. Bartholomäus Windhagen
+FACETTE: INFRA | KULTUR
+QUELLE: https://windhagen.de/html/kirchen.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: öffentliche Bücherei
+  konfession: katholisch
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Wirtgen
+FACETTE: WIRTSCHAFT | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  sparte: Maschinenbau
+  funktion: "Entwicklung, Herstellung und Vertrieb von Maschinen und Anlagen für den Straßenbau"
+  angestellte: rund 2000
+  rang: weltweit führendes Unternehmen
+  uebernahme: 2017
+  neuer_eigentum: John Deere (US-Konzern)
+  bedeutung_fuer_ort: "zu einem der weltweit führenden Unternehmen für den Straßenbau"
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Nölken Hygiene-Products
+FACETTE: WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Großbetrieb (zu den größeren)
+  sparte: Hygieneprodukte
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: JK-Ergoline
+FACETTE: WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Großbetrieb (zu den größeren)
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Geutebrück
+FACETTE: WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Großbetrieb (zu den größeren)
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+
+ENTITÄT: buendnis
+BEZEICHNUNG: ISR Windhagen (Initiative zur Stärkung der Region)
+FACETTE: WIRTSCHAFT | ALLTAG
+QUELLE: https://windhagen.de/html/wirtschaft.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Wirtschafts- und Gewerbeverein
+  gruendung: 2004
+  funktion: "Interessengemeinschaft zur Stärkung der Region und zur Vertretung der Interessen der Gewerbetreibenden und Unternehmer zur wirtschaftlichen Stärkung der Region"
+  mitgliedsbereich: "Unternehmen aus Windhagen, Sankt Katharinen, Vettelschoß und Aegidienberg"
+  zielsetzung: "wirtschaftliche Förderung"
+  ziele: "Das Selbstbewusstsein der Region stärken, Netzwerke bilden und Synergien zwischen Wirtschaft, Politik etc. schaffen, Die Interessen nach außen vertreten"
+  aktivitaeten: "Leistungsschauen, Vorträge, runde Tische, Workshops und sonstige Veranstaltungen"
+  gewerbeschau: im Rhythmus von zwei Jahren mit über 100 Ausstellern und weit über 10.000 Besuchern
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Hans Dieter Geiger
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Ortsbürgermeister
+  amtsantritt: 10. Juli 2024
+  wahl: Stichwahl am 23. Juni 2024
+  stimmenanteil: 52,2 %
+  partei: G-BfW
+  vorgaenger: Martin Buchholz
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Josef Rüddel
+FACETTE: POLITIK | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Ortsbürgermeister
+  amtszeit_beginn: 1963
+  amtszeit_ende: 2019
+  amtsdauer_jahre: 56
+  partei: CDU
+  besonderheit: "ab 2012 dienstältester sowie ältester Bürgermeister Deutschlands"
+  status: Ehrenbürger der Gemeinde
+  ehrenbuerger_seit: 2019
+  geburt: 1925
+  tod: 2023
+  beruf: Landwirt
+  bedeutung_fuer_ort: Forum benannt nach ihm (Josef Rüddel Forum)
+  ist_vermutlich_aktuell: false
+  gueltig_ab: 1963
+  gueltig_bis: 2019
+  vertrauen_extraktion: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Martin Buchholz
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Ortsbürgermeister
+  amtsantritt: Juni 2019
+  direktwahl: 26. Mai 2019
+  stimmenanteil: 51,45 %
+  partei: CDU
+  amtsende: 2024
+  nachfolger: Hans Dieter Geiger
+  ist_vermutlich_aktuell: false
+  gueltig_ab: 2019
+  gueltig_bis: 2024
+  vertrauen_extraktion: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Bernhard Constantin von Schoenebeck
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1760
+  geburt_ort: Johannisberg
+  tod: 1835
+  beruf: Mediziner, Gelehrter, Bibliothekar und Autor
+  bedeutung_fuer_ort: "Familie von Schoenebeck (steht für den Ortsteil Johannisberg, wo die noch heute im Windhagener Raum ansässige Familie Besitz hatte)"
+  ist_vermutlich_aktuell: false
+  gueltig_ab: 1760
+  gueltig_bis: 1835
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Gisela Wirtgen
+FACETTE: WIRTSCHAFT | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1944
+  beruf: Unternehmerin
+  gründung: Aktionsgruppe Kinder in Not
+  rolle: Gründerin der Aktionsgruppe Kinder in Not
+  wirkungsort: Windhagen
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Erwin Rüddel
+FACETTE: POLITIK | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1955
+  tod: 2025
+  rolle: Politiker
+  amt: Mitglied des Bundestages
+  herkunft: stammt aus Windhagen
+  ist_vermutlich_aktuell: false
+  gueltig_ab: 1955
+  gueltig_bis: 2025
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Claus Weber-Höller
+FACETTE: ALLTAG | MILITAER
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1924
+  tod: 2020
+  rolle: Mediziner und Generalsarzt der Bundeswehr
+  wohnort: Ortsteil Stockhausen
+  ist_vermutlich_aktuell: false
+  gueltig_ab: 1924
+  gueltig_bis: 2020
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Ulrich Wegener
+FACETTE: ALLTAG | SICHERHEIT
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1929
+  tod: 2017
+  rolle: Polizeioffizier
+  funktion: Gründer und ehemaliger Kommandeur der Spezialeinheit GSG 9 der Bundespolizei
+  wohnort: Ortsteil Schweifeld
+  ist_vermutlich_aktuell: false
+  gueltig_ab: 1929
+  gueltig_bis: 2017
+  vertrauen_extraktion: 0.9
 
 ---
 
 ENTITÄT: wappen
-BEZEICHNUNG: Wappen Windhagen
+BESCHREIBUNG: Wappen von Windhagen
+FACETTE: GESCHICHTE | POLITIK
 QUELLE: https://windhagen.de/html/geschichte.htm | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  annahme_jahr: 1986
-  annahme_durch: Gemeinderat
-  struktur: drei Felder
+  beschluss: Beschluss des Gemeinderates 1986
+  erkenntnis_datum: 13. Mai 1986
+  felder: drei
   feld_1_beschreibung: schwarzes Kreuz auf silbernem Grund
-  feld_1_bedeutung: Zugehörigkeit zum Erzbistum Köln und dessen Grundherrliche Rechte
-  feld_2_beschreibung: blauer Wellenbalken in silbernem Feld mit drei 5-blättrigen Rosen mit roten Butzen
-  feld_2_quelle: Wappen des niederadligen Geschlechts derer von Schoenebeck
-  feld_2_ansiedlung_schoenebeck: ab 1630 in Windhagen vom Niederrhein kommend
-  feld_3_beschreibung: geschweifte rote Spitze mit goldenem Brunnen
-  feld_3_symbolik: Taubenbrunnen in Ortsmitte mit Heilkräften bei Gehörschäden nach mittelalterlichem Volksmund
-GUELTIG_AB: 1986
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: adelsgeschlecht
-BEZEICHNUNG: Geschlecht von Schoenebeck
-QUELLE: https://windhagen.de/html/geschichte.htm | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  adelstitel: niederadlig
-  herkunftsregion: Niederrhein
-  ansiedlung: Windhagen
-  ansiedlung_ab: 1630
-  bestand_bis: Gegenwart
-  wappendarstellung: blauer Wellenbalken in silbernem Feld mit drei 5-blättrigen Rosen mit roten Butzen
-GUELTIG_AB: 1630
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+  feld_1_bedeutung: "Zugehörigkeit zum Erzbistum Köln und dessen Grundherrlichen Rechte"
+  feld_2_beschreibung: "blauer Wellenbalken in silbernem Feld mit drei 5-blättrigen Rosen mit roten Butzen"
+  feld_2_bedeutung: "Wappen des niederadligen Geschlechts derer von Schoenebeck"
+  feld_2_ansaessigkeit_ab: 1630
+  feld_2_ansaessigkeit_herkunft: "vom Niederrhein kommend"
+  feld_2_ansaessigkeit_heute: "bis heute hier erhalten"
+  feld_3_beschreibung: "geschweifte rote Spitze mit goldenem Brunnen"
+  feld_3_bedeutung: "mittelalterlicher Volksmund: Windhagener Brunnenwasser vom Taubenbrunnen (Ortsmitte) bei Gehörschäden Heilkräfte"
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
 
 ---
 
 ENTITÄT: brunnen
 BEZEICHNUNG: Taubenbrunnen
+FACETTE: GESCHICHTE | LAGE
 QUELLE: https://windhagen.de/html/geschichte.htm | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  lage: Ortsmitte Windhagen
-  volkskundlicher_ruf: Brunnenwasser mit Heilkräften bei Gehörschäden (mittelalterlicher Volksmund)
-  kulturelle_rezeption: dargestellt als goldener Brunnen in roter Spitze im Wappen Windhagens seit 1986
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
+  standort: Ortsmitte
+  eigenschaft_sage: "mittelalterlicher Volksmund besagt, dass dem Windhagener Brunnenwasser vom Taubenbrunnen bei Gehörschäden Heilkräfte zugesprochen werden"
+  heilkraft_fokus: Gehörschäden
+  genauigkeit: vermutlich
+  zeitliche_quelle: "seit dem frühen Mittelalter bekannt"
+  bedeutung_fuer_ort: "Namensgeber des dritten Feldes des Wappens"
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.75
+
+---
+
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Pfaffschwende
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  partnergemeinde_seit: 3. Oktober 1991
+  region: Thüringen
+  aktivitaeten: "regelmäßige Treffen und Veranstaltungen beider Gemeinden"
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: naturpark
+BEZEICHNUNG: Rhein-Westerwald
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://windhagen.de/html/geschichte.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemeindebezug: "Windhagen, nördlich im Naturpark Rhein-Westerwald gelegen"
+  teil_gebiete: "Teile des Gemeindegebietes Windhagens liegen im Naturpark Rhein-Westerwald"
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: verkehrsanlage
+BEZEICHNUNG: Bundesautobahn 3
+FACETTE: INFRA | LAGE
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  anschluss: Anschlussstelle 34 (Bad Honnef/Linz)
+  entfernung_zum_ortskern: etwa 3 Kilometer
+  rastplatz: Rastplatz Hambitz der A 3 liegt im Gemeindegebiet Windhagens
+  verkehrsvorteil_fuer_wirtschaft: "verkehrsgünstige Lage an der A3"
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+
+ENTITÄT: verkehrsanlage
+BEZEICHNUNG: Schnellfahrstrecke Köln–Rhein/Main
+FACETTE: INFRA | LAGE
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: "Durch das Gemeindegebiet verläuft die Schnellfahrstrecke Köln–Rhein/Main"
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: flughafen
+BEZEICHNUNG: Flughafen Köln-Bonn
+FACETTE: INFRA | LAGE
+QUELLE: https://windhagen.de/html/geschichte.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verkehrsvorteil: "Unternehmen wissen ... den Flughafen Köln-Bonn zu schätzen"
+  naehe: "unmittelbare Nähe zu den ICE-Eisenbahnknotenpunkten Bonn-Siegburg und Montabaur sowie den Flughafen Köln-Bonn"
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: TC (Tennisclub) Sportpark
+FACETTE: FREIZEIT | INFRA
+QUELLE: https://windhagen.de/html/vereine.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Tennisclub
+  plaetze: In- und Outdoor Plätze
+  funktion: "bietet das Erlernen und die Entwicklung des Tennisspiels"
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: buendnis
+BEZEICHNUNG: Bürgerstiftung Windhagen
+FACETTE: KULTUR | ALLTAG
+QUELLE: https://windhagen.de/html/vereine.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Bürgerstiftung
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Wieverfastelovend (Weiberfastnacht)
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://windhagen.de/html/vereine.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Karnevalsfest
+  traeger_moehnen: "Möhnenclub Rubbeldi Dupp"
+  charakteristikum: karnevalistisches Fest mit Brauchtum
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Straßenkarneval
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://windhagen.de/html/vereine.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Karnevalsfest
+  charakteristikum: karnevalistisches Fest mit Brauchtum
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Marathon
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://windhagen.de/html/vereine.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Sportveranstaltung
+  veranstalter: Sportverein Eintracht Windhagen
+  format: Lang- und Kurzstrecken
+  charakteristikum: jährliche Marathonveranstaltung
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Kirmes
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://windhagen.de/html/vereine.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Volksfest
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.75
+
+---
+
+ENTITÄT: gewässer
+BEZEICHNUNG: Pfaffenbach
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Bach
+  zusammenfluss: "am Zusammenfluss des Stockhausener Bachs und des Pfaffenbachs" liegt der Jugendzeltplatz Kirchwies
+  tal_charakteristik: "romantisches Pfaffenbachtal"
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: gewässer
+BEZEICHNUNG: Hallerbach
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Bach
+  alternative_bezeichnung: "Elsaffer Bach" (östlicher Austritt aus der Gemarkung)
+  austritt: "östlichen Austritt des Hallerbachs aus der Gemarkung"
+  tiefster_punkt: niedrigster Punkt der Gemeinde (165 m ü. NHN) am östlichen Austritt des Hallerbachs
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: gewässer
+BEZEICHNUNG: Stockhausener Bach
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Windhagen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Bach
+  zusammenfluss: "am Zusammenfluss des Stockhausener Bachs und des Pfaffenbachs" liegt der Jugendzeltplatz Kirchwies
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85

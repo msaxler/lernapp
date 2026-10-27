@@ -1,0 +1,262 @@
+ID: 497-altwied/001
+ENTITÄT: ort
+BEZEICHNUNG: Altwied
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Altwied | Wikipedia
+EIGENSCHAFTEN:
+  ist_stadtteil_von: Neuwied
+  groesse_stadtteil: kleinster Stadtteil
+  lage_bundesland: Rheinland-Pfalz
+  lage_tal: Wiedtal, im Norden von Neuwied
+  lage_landschaft: in Schleife des Wiedbachs, Talaue
+  liegt_in_naturpark: Rhein-Westerwald
+  charakterisierung: Kleinod am Wiedbogen, malerisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 497-altwied/002
+ENTITÄT: ort
+BEZEICHNUNG: Altwied
+FACETTE: GESCHICHTE
+QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/altwied | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  war_bis_eingemeindung: eigenständige Ortsgemeinde
+  eingemeindung_stadt: Neuwied
+  eingemeindung_datum: 7. November 1970
+  eingemeindung_verwaltungsgemeinde: Verbandsgemeinde Niederbieber-Segendorf
+  stadtteil_seit: 22. Januar 1971
+  verkehrserschliessung: nur durch "ahl Porz" (Alte Pforte) erreichbar
+  bedeutung_territorialgeschichte: Vorläufer der heutigen Stadt Neuwied
+  grund_keine_stadtentwicklung: verkehrsabgeschiedene Lage im engen Wiedtal
+  grund_funktionsverlust: Gründung Neuwieds 1653 und Abzug der gräflichen Hofhaltung
+GUELTIG_BIS: 1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 497-altwied/003
+ENTITÄT: ort
+BEZEICHNUNG: Altwied
+FACETTE: ALLTAG
+QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/altwied | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsbild: besonders gut gepflegte Gassen und Häuser
+  fachwerk_vorhanden: ja, mehrere Fachwerkhäuser aus 17. und 18. Jahrhundert
+  auszeichnung_schoenheit: 1975 Silberplakette Bundeswettbewerb "Unser Dorf soll schöner werden"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 497-altwied/004
+ENTITÄT: burg
+BEZEICHNUNG: Burg Altwied
+FACETTE: GESCHICHTE
+QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/altwied | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Stammsitz der Grafen zu Wied
+  erbaut_ungefaehr: Beginn 12. Jahrhundert
+  erbaut_von: Metfried, Graf im Engersgau
+  funktion_urspuenglich: Mittelpunkt der Grundherrschaft Metfrieds
+  bedeutung_fuer_ort: Stammburg der wiedischen Grafen, Zentrum des Ortes
+  status_heute: Ruine
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 497-altwied/005
+ENTITÄT: kirche
+BEZEICHNUNG: St.-Antonius-Kapelle
+FACETTE: GESCHICHTE
+QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/altwied | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: evangelische Pfarrkirche
+  baustil: spätgotischer, einschiffiger Bruchsteinbau
+  chorabschluss: fünfseitig, gewölbt
+  ersterwähnung: 1470
+  alter_beschreibung: 500-jährig
+  eingang_nordseite_anlage: 1658
+  westempore_einbau: 1920er-Jahre
+  holzdecke_dekor: alte Rankenmalereien
+  fresken_chor: spätgotische ornamentale Fresken in lichten Farben
+  fresken_freilegung: 1971/72
+  grabplatten_material: eisern und steinern
+  grabplatten_ursprung: Funde 1920er-Jahre
+  grabplatten_ort: eingelassen in Chorwände und Außenmauern
+  grablege_ehemals: unter dem Chor des wiedischen Grafenhauses
+  bedeutung_fuer_ort: zeitweise Grablege der Grafen zu Wied
+GUELTIG_AB: 1470
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 497-altwied/006
+ENTITÄT: kirche
+BEZEICHNUNG: Burgkapelle zum Hl. Georg
+FACETTE: GESCHICHTE
+QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/altwied | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Burgkapelle
+  nachweisbar_seit: 1259
+  bedeutung: erste Kirche in Altwied
+GUELTIG_AB: 1259
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 497-altwied/007
+ENTITÄT: befestigung
+BEZEICHNUNG: Wehrmauer Altwied
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Altwied | Wikipedia
+EIGENSCHAFTEN:
+  typ: Ringmauer mit Türmen und Toren
+  gesamtlaenge: 500 m
+  hoehe: 4-5 m, im Osten 8 m
+  ausstattung: Wehrgang, Zinnen, Bogenfries
+  turmquadratisch: 4
+  turmrund: 3
+  tortuerme: 3
+  tortuerme_liste: Mühlentor (Norden), Judentor (Süden), "Ahl Porz" / "Alte Pforte" (Osten)
+  haupttor_funktion: Zugang zu Ort und Burg
+  einbezug_befestigungssystem: ab 14. Jahrhundert
+  erhalten_heute: Ostmauer mit zwei Türmen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 497-altwied/008
+ENTITÄT: kraftwerk
+BEZEICHNUNG: Wasserkraftwerk Altwied
+FACETTE: INFRA
+QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/altwied | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Fuß der Burg Altwied
+  superlativ: eines der ältesten Wasserkraftwerke Deutschlands
+  wartung: regelmäßig auf neuesten Stand der Technik gebracht
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 497-altwied/009
+ENTITÄT: burgflecken
+FACETTE: GESCHICHTE
+QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/altwied | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezeichnungen: Altwied, Nieder-Wied, Gräfenwied
+  rechtsstellung: "gefreiter" Ort mit gehobenen Rechten
+  recht_verwaltung: Bürgermeister- und Senatswahl
+  recht_steuern: Befreiung von bestimmten Reichssteuern
+  recht_frondienste: Befreiung von Frondiensten
+  recht_einquartierungen: Befreiung von Einquartierungen
+  recht_wache: Bürgerwache
+  recht_flurschuetzer: eigene Flurschützen
+  zeitraum: ab 14. Jahrhundert dokumentiert
+GUELTIG_AB: 1400
+GUELTIG_BIS: 1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 497-altwied/010
+ENTITÄT: wettbewerb_auszeichnung
+BEZEICHNUNG: Silberplakette "Unser Dorf soll schöner werden"
+FACETTE: GESCHICHTE
+QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/altwied | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wettbewerb: achter Bundeswettbewerb "Unser Dorf soll schöner werden"
+  jahr: 1975
+  auszeichnung: Silberplakette
+  platzierung: einer von 31 Siegern unter fast 5000 Konkurrenten
+  berechtigung: offiziell zu den schönsten Orten der Bundesrepublik zählen
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 497-altwied/011
+ENTITÄT: ortsbeirat
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Altwied | Wikipedia
+EIGENSCHAFTEN:
+  groesse: 4 Ratsmitglieder + Ortsvorsteher
+  wahlsystem_2024: Mehrheitswahl
+  wahlsystem_bis_2019: personalisierte Verhältniswahl
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 497-altwied/012
+ENTITÄT: ortsvorsteher
+BEZEICHNUNG: Christine Seelbach-Neuer
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Altwied | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  amtsantritt: 26. August 2024
+  wahldate: 9. Juni 2024
+  waehlergebnis: 78,0%
+  amtsdauer: 5 Jahre
+GUELTIG_AB: 2024
+GUELTIG_BIS: 2029
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 497-altwied/013
+ENTITÄT: ortsvorsteher
+BEZEICHNUNG: Liane Herbst
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Altwied | Wikipedia
+EIGENSCHAFTEN:
+  partei: FWG (Freie Wählergruppe Altwied e. V.)
+  amtszeit: 2014-2024
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 497-altwied/014
+ENTITÄT: ortsvorsteher
+BEZEICHNUNG: Dietrich Rühle
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Altwied | Wikipedia
+EIGENSCHAFTEN:
+  partei: FDP
+  amtszeit: 2001-2014
+GUELTIG_BIS: 2014
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 497-altwied/015
+ENTITÄT: wappen
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Altwied | Wikipedia
+EIGENSCHAFTEN:
+  schildhaupt: Burgturm mit ruinösem Zinnenkranz
+  schildhaupt_bedeutung: Ruine der Burg Altwied, Stammburg der wiedischen Grafen
+  schildfuss: Wellenbalken
+  schildfuss_bedeutung: die Wied
+  herkunft: Wappen der ehemaligen Gemeinde Altwied
+GUELTIG_BIS: 1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 497-altwied/016
+ENTITÄT: siedlung
+BEZEICHNUNG: Kümmelberg
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Altwied | Wikipedia
+EIGENSCHAFTEN:
+  gehoert_zu: Altwied
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 497-altwied/017
+ENTITÄT: siedlung
+BEZEICHNUNG: Laubachsmühle
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Altwied | Wikipedia
+EIGENSCHAFTEN:
+  gehoert_zu: Altwied
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 497-altwied/018
+ENTITÄT: siedlung
+BEZEICHNUNG: Meinhof
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Altwied | Wikipedia
+EIGENSCHAFTEN:
+  gehoert_zu: Altwied
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

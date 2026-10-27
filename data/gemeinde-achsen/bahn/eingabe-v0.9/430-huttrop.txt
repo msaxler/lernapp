@@ -1,0 +1,507 @@
+ZIELORT: Huttrop (Ortsteil von Essen)
+LAGE: Stadtteil von Essen, 2 km östlich der Stadtmitte (Luftlinie)
+ARTIKEL: Huttrop
+
+GRUNDDATEN:
+  landkreis: Stadtkreis Essen — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P131]
+  bundesland: Nordrhein-Westfalen — GILT FÜR DIE GEMEINDE ESSEN  [über die Gemeinde]
+  flaeche_km2: 2,73  [Wikidata P2046]
+  kfz: E (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P395]
+  hoehe_m: 100 | 102  [Wikidata P2044; Altbestand geo.sqlite (GeoNames 2896873)]
+  naechste_grossstadt: Essen, 2 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Düsseldorf, 31 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  eingemeindung: 1908-04-01  [dewiki Infobox]
+  plz: 45136, 45138, 45139  [Wikidata P281]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,5 %, SPD 22,2 %, AfD 17 %, GRÜNE 12,4 %, Die Linke 9,5 %; Wahlbeteiligung 80,1 % — GILT FÜR DIE GEMEINDE ESSEN  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 82,2 % im Bundesland (Ort 80,1 %, Abstand 2,1 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+ZEUGEN (OpenStreetMap, Gemeindegrenze; belegt nur, dass es die Sache gibt):
+  Klinik: Zahnklinik
+  Klinik: Huyssens-Stiftung - Kliniken Essen-Mitte
+  Klinik: Elisabeth Krankenhaus
+  Freizeit: Gräber KZ-Opfer
+  Freizeit: Gedenktafel
+  Freizeit: Gedenken an Gefallene Soldaten
+  Freizeit: Grabstätte Gustav Heinemann
+  Freizeit: Gedenkstein
+  Freizeit: Das 37. von 90 Loki-Schmidt-Beeten
+  Burg/Denkmal: Erik Reger
+  Burg/Denkmal: Ordensschwester Philippa Boening
+  Burg/Denkmal: Friedrich Wiebe
+  Burg/Denkmal: Eugen Schwarz (seit 2016)
+  Burg/Denkmal: Heinrich Huyssen
+  Burg/Denkmal: Mathilde Rosenberg (seit 2016)
+  Burg/Denkmal: Krzysztof Penderecki
+  Bildung: Johanniter-Unfall-Hilfe Bildungsinstitut Essen
+  Bildung: Robert-Schmidt-Berufskolleg
+  Kultur: Koshkina-Engel, Atelier
+  Kultur: polychrom - atelier + galerie
+  Museum: Artishocke
+  Sportstätte: Sportzentrum Ruhr (multi)
+  Sportstätte: Berufskolleg Ost der Stadt Essen - Berufsschule - Fachoberschule - Fachschule (multi)
+  Wanderweg: Rhein-Ruhr-Emscherweg
+  Wanderweg: [Raute7] Hardenberger Weg (34 km)
+  Wanderweg: Abteiweg Raute5 (26 km)
+  Radweg: Naturroute
+
+PLAN:
+  Karte 1: FACETTE ALLTAG (Ersatz: FREIZEIT), Geschichte, D, wahre Option an Stelle 1
+  Karte 2: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 2
+  Karte 3: FACETTE FREIZEIT (Ersatz: ALLTAG), Geschichte, D, wahre Option an Stelle 3
+  Karte 4: FACETTE INFRA (Ersatz: LAGE), Geschichte, A, wahre Option an Stelle 4
+  Karte 5: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, A, wahre Option an Stelle 1
+  Karte 6: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, B, Lüge an Stelle 3
+  Karte 7: FACETTE LAGE, Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Höhe des Orts), C, wahre Spanne an Stelle 3
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je ein weiteres Charakteristikum, Facette frei, Familie A, B oder D, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Bredeney (Ortsteil von Essen)
+  landkreis: Stadtkreis Essen — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P131]
+  flaeche_km2: 8,76  [Wikidata P2046]
+  kfz: E (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P395]
+  hoehe_m: 158 | 161  [Wikidata P2044; Altbestand geo.sqlite (GeoNames 2944900)]
+  naechste_grossstadt: Essen, 5 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,5 %, SPD 22,2 %, AfD 17 %, GRÜNE 12,4 %, Die Linke 9,5 %; Wahlbeteiligung 80,1 % — GILT FÜR DIE GEMEINDE ESSEN  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 82,2 % im Bundesland (Ort 80,1 %, Abstand 2,1 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+FAHRT: Wiehre, Waldsee, Altstadt, Stühlinger, Neuburg, Herdern, Zähringen, Brühl, Oberau, Haslach, Sankt Georgen, Vauban, Weingarten, Betzenhausen, Mooswald, Landwasser, Lehen, Rieselfeld, Dietenbach, Opfingen, Tiengen, Munzingen, Waltershofen, Ebnet, Littenweiler, Kappel, Merzhausen, Au, Horben, Günterstal, Ebringen, Schallstadt, Bad Krozingen, Staufen, Heitersheim, Müllheim, Waldkirch, Hochdorf, Gundelfingen, Denzlingen, Glottertal, March, Umkirch, Gottenheim, Merdingen, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Vogtsburg, Oberrotweil, Achkarren, Burkheim, Bischoffingen, Bickensohl, Oberbergen, Schelingen, Sasbach, Leiselheim, Wyhl, Forchheim, Breisach, Gündlingen, Niederrimsingen, Oberrimsingen, Kirchzarten, Stegen, St. Peter, St. Märgen, Oberried, Buchenbach, Höllental, Hinterzarten, Breitnau, Titisee, Titisee-Neustadt, Feldberg, Schluchsee, Lenzkirch, Eisenbach, Friedenweiler, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Neuwied, Altwied, Rengsdorf, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Bonefeld, Straßenhaus, Oberhonnefeld-Gierend, Willroth, Horhausen, Hümmerich, Krunkel, Breitscheid, Kloster Marienhaus, Wolfenacker, Kupferdreh, Überruhr, Bergerhausen, Rellinghausen, Stadtwald, Fischlaken, Werden, Burgaltendorf, Steele, Byfang, Rüttenscheid, Bredeney, Huttrop, Kettwig, Schuir, Heidhausen, Haarzopf, Margarethenhöhe, Südostviertel, Freisenbruch
+
+FAKTEN (Zielort Huttrop):
+ID: 430-huttrop/001
+ENTITÄT: ort
+BEZEICHNUNG: Huttrop
+FACETTE: LAGE | GESCHICHTE | ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.essen.de/dasistessen/stadtteile/huttrop_2/huttrop_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stadtteil_von: Essen
+  lage: südöstlich der Innenstadt
+  bebauung: aufgelockert mit vielen Wohnvierteln und großzügigen Grünflächen
+  erste_urkundliche_erwahnung: 1319
+  gehoert_zu_essen_seit: 1908-04-01
+  einwohner: 15483
+  gueltig_ab: 2025
+  anteil_unter_18_jahren: 17.1 %
+  anteil_ueber_65_jahren: 23.1 %
+  auslaenderanteil: 22.2 %
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 430-huttrop/002
+ENTITÄT: stadtteil_charakteristika
+BEZEICHNUNG: Moltkeviertel
+FACETTE: LAGE | ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.essen.de/dasistessen/stadtteile/huttrop_2/huttrop_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: charmanter, stadtplanerisch und architektonisch interessanter Viertelteil
+  charakteristika: alten Bergmannshäuser, großzügige Grünflächen, Gastroviertel am Moltkeplatz
+  besonderheit: erinnert an Rüttenscheid
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 430-huttrop/003
+ENTITÄT: bibliothek
+BEZEICHNUNG: Stadtteilbibliothek Huttrop
+FACETTE: KULTUR UND FREIZEIT | INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.essen.de/dasistessen/stadtteile/huttrop_2/huttrop_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umgestaltung: September 2023
+  konzept: "Dritte Orte"-Pilotprojekt, erste Bibliothek mit neuem Konzept
+  bedeutung_fuer_ort: Ort der Begegnung, Wohnzimmeratmosphäre
+  adresse: Mählerweg 1
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 430-huttrop/004
+ENTITÄT: friedhof
+BEZEICHNUNG: Parkfriedhof Essen
+FACETTE: LAGE | INFRASTRUKTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.essen.de/dasistessen/stadtteile/huttrop_2/huttrop_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flaeche: 40 hectare, genauigkeit: ca.
+  superlativ: größter Friedhof Essens
+  charakteristikum: imposanter riesiger Eingangsbereich
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 430-huttrop/005
+ENTITÄT: turm
+BEZEICHNUNG: Ruhrturm
+FACETTE: LAGE | ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.essen.de/dasistessen/stadtteile/huttrop_2/huttrop_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 53 meter, genauigkeit: über
+  adresse: Huttropstraße 60
+  beschreibung: absoluter Hingucker, Sehenswürdigkeit
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 430-huttrop/006
+ENTITÄT: gebaude
+BEZEICHNUNG: Ruhrturm (Gebäude)
+FACETTE: GESCHICHTE | ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  urspruengliche_funktion: Konzernzentrale E.ON Ruhrgas
+  erbaut: 1973
+  umzug_e_on: 2010-10-18
+  akquisition: 2011-10-01
+  neuer_betreiber: Essener Fakt AG
+  umgewidmete_nutzung: Hotel, Büros, Konferenzzentrum
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 430-huttrop/007
+ENTITÄT: flaeche
+BEZEICHNUNG: Siepental
+FACETTE: LAGE | FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.essen.de/dasistessen/stadtteile/huttrop_2/huttrop_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: grüne Idylle
+  lage: teils in Huttrop, teils in Bergerhausen
+  nutzergruppen: Naturbegeisterte, Sportler, Familien mit Kindern
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 430-huttrop/008
+ENTITÄT: krankenhaus
+BEZEICHNUNG: Elisabeth-Krankenhaus
+FACETTE: INFRASTRUKTUR | GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  superlativ: älteste Klinik Essens
+  gegruendet: 1844
+  urspruenglicher_ort: Räume des ehemaligen Kapuzinerklosters Essen
+  sanierung_und_erweiterung: in letzten Jahren durchgeführt
+GUELTIG_AB: 1844
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 430-huttrop/009
+ENTITÄT: krankenhaus
+BEZEICHNUNG: Huyssens-Stiftung - Kliniken Essen-Mitte
+FACETTE: INFRASTRUKTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Krankenhaus in Huttrop
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 430-huttrop/010
+ENTITÄT: kirche
+BEZEICHNUNG: St. Bonifatius
+FACETTE: INFRASTRUKTUR | KULTUR UND FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 430-huttrop/011
+ENTITÄT: kirche
+BEZEICHNUNG: Elisabeth-Krankenhaus Kirche
+FACETTE: INFRASTRUKTUR | KULTUR UND FREIZEIT | GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+  geschichte_seit: 18. Jahrhundert
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 430-huttrop/012
+ENTITÄT: kirche
+BEZEICHNUNG: Neue Pauluskirche
+FACETTE: INFRASTRUKTUR | GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  entweiht: 2007
+  umnutzung: 2015 zu Altenwohnheim mit Kindertagesstätte umgebaut
+GUELTIG_AB: 
+GUELTIG_BIS: 2007
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 430-huttrop/013
+ENTITÄT: institution
+BEZEICHNUNG: Franz Sales Haus
+FACETTE: INFRASTRUKTUR | GESCHICHTE | ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  benannt_nach: heiliger Franz von Sales
+  gegruendet: 1884-04-03
+  urspruenglicher_name: Verein zur Erziehung und Pflege katholischer idiotischer Kinder beiderlei Geschlechts aus der Rheinprovinz
+  stammsitz_seit: 1892
+  stammsitz_adresse: Steeler Chaussee (heute Steeler Straße)
+  zweck: Unterstützung von Menschen mit geistigen, psychischen und mehrfachen Behinderungen
+  beschaeftigte: ca. 800, gueltig_ab: 2009
+  betreute_personen: ca. 1500, gueltig_ab: 2009
+  standorte: 20, gueltig_ab: 2009
+GUELTIG_AB: 1884
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 430-huttrop/014
+ENTITÄT: friedhof
+BEZEICHNUNG: Alter Friedhof Huttrop
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  lage: südlich der Steeler Straße
+  status: nicht mehr für Bestattungen genutzt
+  denkmalschutz: mehrere denkmalgeschützte Grabmäler
+  grabmaeler: Nachfahren der alten Huttroper Geschlechter
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 430-huttrop/015
+ENTITÄT: strasse
+BEZEICHNUNG: Steeler Straße
+FACETTE: LAGE | GESCHICHTE | ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  historische_namen: Essen-Steeler Landstraße, Steeler Chaussee
+  ausbau: 1788-1794
+  heutiger_name_seit: 1908
+  historische_bedeutung: Teil des Hellwegs, verlief vom Steeler Tor der Essener Stadtmauer zur Stadt Steele
+  rolle_heute: zentrale Einkaufsmeile mit Lebensmittelgeschäften und Dienstleistungen
+GUELTIG_AB: 1788
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 430-huttrop/016
+ENTITÄT: sportanlage
+BEZEICHNUNG: Bezirkssportanlage Huttrop
+FACETTE: INFRASTRUKTUR | FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  lage: Dinnendahlstraße
+  ausstattung: Sporthalle Hubertusburg
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 430-huttrop/017
+ENTITÄT: personengruppe
+BEZEICHNUNG: Ernst Friedrich Bange
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  profession: Kunsthistoriker
+  geboren: 1893
+  gestorben: 1945
+  bezug_zu_huttrop: Sohn des Ortes
+GUELTIG_AB: 1893
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 430-huttrop/018
+ENTITÄT: personengruppe
+BEZEICHNUNG: Leo Huttrop
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  profession: Landrat
+  geboren: 1887
+  gestorben: 1972
+  bezug_zu_huttrop: Sohn des Ortes (möglicher Namensbezug)
+GUELTIG_AB: 1887
+GUELTIG_BIS: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 430-huttrop/019
+ENTITÄT: wappen
+BEZEICHNUNG: Stadtteilwappen Huttrop
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  entworfen_von: Kurt Schweder
+  entworfen_zeitraum: Ende 1980er Jahre
+  blasonierung: In Gold (Gelb) ein blauer Hut mit roter gekreuzter Kordel begleitet von fünf blauen aufrechten Tropfen im Verhältnis 2:2:1
+  symbolik: redendes Wappen mit Hut (Namensanspielung) und Tropfen (trop = Dorf)
+  typus: heraldisches Wappen ohne offiziellen Charakter ursprünglich
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 430-huttrop/020
+ENTITÄT: namensherkunft
+BEZEICHNUNG: Huttrops Ortsname
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.essen.de/dasistessen/stadtteile/huttrop_2/huttrop_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alte_namen: Huttorph, Huttorpe, Huddrop, Huttroppe
+  namenteil_trop: Dorf (eindeutig)
+  namenteil_hut: unklar, verschiedenste Deutungen, bleibt Rätsel
+  moegliche_deutungen_hut: Höhe, Hügel, Hütte
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 430-huttrop/021
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Gründung Munizipalität Altenessen
+FACETTE: GESCHICHTE | POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1808-09-01
+  herrscher: Napoleon (Großherzogtum Berg)
+  umfang: Huttrop gehörte zur Munizipalität Altenessen zusammen mit Frillendorf, Katernberg, Kray, Leithe, Rotthausen, Rüttenscheid, Schonnebeck, Stoppenberg
+GUELTIG_AB: 1808
+GUELTIG_BIS: 1815
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 430-huttrop/022
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Auflösung und Neugliederung nach Wiener Kongress
+FACETTE: GESCHICHTE | POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1815
+  folge: Neuordnung durch Wiener Kongress
+  ergebnis: Übergang zu Preußen, Umwandlung in Bürgermeisterei Altenessen
+  grund: Niederlage Napoleons
+GUELTIG_AB: 1815
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 430-huttrop/023
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Ausgliderung und Zuordnung zur Bürgermeisterei Stoppenberg
+FACETTE: GESCHICHTE | POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1874-01-01
+  detail: Huttrop ausgegliedert aus Bürgermeisterei Altenessen
+  neue_zuordnung: Bürgermeisterei Stoppenberg
+GUELTIG_AB: 1874
+GUELTIG_BIS: 1908
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 430-huttrop/024
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Eingemeindung zu Essen
+FACETTE: GESCHICHTE | POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1908-04-01
+  ergebnis: Huttrop wird Stadtteil der Stadt Essen
+GUELTIG_AB: 1908
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 430-huttrop/025
+ENTITÄT: schuleinrichtung
+BEZEICHNUNG: Robert-Schmidt-Berufskolleg
+FACETTE: INFRASTRUKTUR | BILDUNG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  typ: Berufskolleg
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 430-huttrop/026
+ENTITÄT: schuleinrichtung
+BEZEICHNUNG: Berufskolleg Franz Sales Schule
+FACETTE: INFRASTRUKTUR | BILDUNG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  typ: Berufskolleg
+  spezialisierung: Fachkräfteausbildung für die Behindertenhilfe
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 430-huttrop/027
+ENTITÄT: schuleinrichtung
+BEZEICHNUNG: Franz Sales Förderschule
+FACETTE: INFRASTRUKTUR | BILDUNG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  typ: Förderschule
+  zielgruppe: Kinder und Jugendliche mit geistiger Behinderung
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 430-huttrop/028
+ENTITÄT: verkehrsinfra
+BEZEICHNUNG: Öffentlicher Personennahverkehr Huttrop
+FACETTE: INFRASTRUKTUR | LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  strassenbahn: Linien 103, 109
+  buslinien: 146, 160, 161, NE5, NE14
+  nächster_bahnhof: Essener Hauptbahnhof (unweit entfernt)
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 430-huttrop/029
+ENTITÄT: verkehrsinfra
+BEZEICHNUNG: Autobahnanbindung Huttrop
+FACETTE: INFRASTRUKTUR | LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  direkter_anschluss: A 52 nach Düsseldorf
+  indirekter_anschluss: A 40 (Ruhrschnellweg) über Stadtteil Südostviertel
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 430-huttrop/030
+ENTITÄT: historischer_ort
+BEZEICHNUNG: Volmerhof
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: historischer Hof in Huttrop
+  archaeologische_spuren: mittelalterliche Funde vorhanden
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+

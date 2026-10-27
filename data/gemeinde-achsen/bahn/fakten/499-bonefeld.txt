@@ -1,0 +1,277 @@
+ID: 499-bonefeld/001
+ENTITÄT: ort
+BEZEICHNUNG: Bonefeld
+FACETTE: LAGE | GESCHICHTE | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Bonefeld | Wikipedia
+EIGENSCHAFTEN:
+  landkreis: Neuwied
+  bundesland: Rheinland-Pfalz
+  verbandsgemeinde: Rengsdorf-Waldbreitbach
+  naturpark: Rhein-Westerwald
+  geographische_lage: Nordrand Westerwald, oberhalb Neuwieder Becken
+  bach: Völkerwiesenbach (entspringt nördlich)
+  bundesstrasse: 256 (von Neuwied nach Altenkirchen)
+  bekannte_strasse: Historische Raiffeisenstraße
+  ortsteile: Beim Mohrenhaus, Birkenhof, Bonefelder Höhe, Mittelheidehof, Rüllbach (Jagdhaus), Tannenhof
+  nächster_bahnhof: Neuwied
+  näherverkehrte_autobahnanschlussstelle: Neuwied (BAB 3)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 499-bonefeld/002
+ENTITÄT: ort
+FACETTE: GESCHICHTE
+QUELLE: https://www.bonefeld.de/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1321
+  ersterwähnung_datum: 19. Juni 1321
+  ersterwähnung_anlass: Zehntenbesitz der Koblenzer St. Kastorkirche
+  haeuseranzahl_um_1500: 4-5
+  haeuseranzahl_17jh: 14
+  einwohner_1815: 240
+  einwohner_1835: 361
+  einwohner_1871: 430
+  einwohner_1905: 415
+  einwohner_1939: 422
+  einwohner_1950: 480
+  einwohner_1961: 521
+  einwohner_1970: 593
+  einwohner_1987: 718
+  einwohner_1997: 1029
+  einwohner_2005: 976
+  einwohner_2011: 968
+  einwohner_2017: 953
+  einwohner_2025: 938
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 499-bonefeld/003
+ENTITÄT: ort
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Bonefeld | Wikipedia
+EIGENSCHAFTEN:
+  sportanlagen: Fußball-Hartplatz, Bolzplatz, Skater-Bahn, Luftgewehr-Schießstand, Schützenhalle
+  kulturgruppen: Theatergruppe (Verbandsgemeinde Rengsdorf), Frauenchor, Männergesangverein, Akkordeonclub
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 499-bonefeld/004
+ENTITÄT: ort
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Bonefeld | Wikipedia
+EIGENSCHAFTEN:
+  gastaette: Deichwiesenhof
+  groesster_arbeitgeber_branche: Maschinenbau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 499-bonefeld/005
+ENTITÄT: deichwiesenhof
+BEZEICHNUNG: Historischer Deichwiesenhof
+FACETTE: GESCHICHTE | ALLTAG | INFRA
+QUELLE: https://www.bonefeld.de/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1462
+  erbaut_unter: Wilhelm II. Graf von Wied
+  bauform: Hof
+  lage_ortsteil: Deichwiese
+  renovierung: 1998
+  renoviert_durch: Ortsgemeinde Bonefeld
+  umfunktion_20jh: Gastwirtschaft mit Saalbau
+  umfunktion_zeit: Anfang 20. Jahrhundert
+  umfunktion_durch: Erbengemeinschaft Lücker
+  aktuelle_funktion: Gastwirtschaft, Saal für Theatergruppe
+  bedeutung_fuer_ort: Kulturveranstaltungsort
+GUELTIG_AB: 1462
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 499-bonefeld/006
+ENTITÄT: keltengräber
+DESIGNIERUNG: Hallstattzeit-Grabhügel
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Bonefeld | Wikipedia
+EIGENSCHAFTEN:
+  anzahl_grabhügel: 6
+  zeitalter: Hallstattzeit (jüngere)
+  zeitliche_einordnung: 650–475 v.Chr. (Ende Bronzezeit, Anfang Eisenzeit)
+  lage: östlich Ortslage, Anhöhe Steinskopf
+  grabungsschutzgebiet_seit: 2000
+  untersuchung_jahr: 1919
+  untersuchung_institution: Provinzialmuseum Bonn
+  grabhuegel_durchmesser: ca. 10 m
+  grabhuegel_umrandung: Basaltblöcke
+  funde: Basaltmeißel, Bronzenadel, Quarzscherbe, bronzene Wendelringe
+  grabbeigaben_besonderheit: bronzene Wendel- oder tordierte Ringe, sog. Lappmuster (gelappte Wendelringe)
+GUELTIG_AB: -650
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 499-bonefeld/007
+ENTITÄT: alteburg
+BEZEICHNUNG: Alteburg Bonefeld
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Bonefeld | Wikipedia
+EIGENSCHAFTEN:
+  lage: östlich Ortslage, ca. 300 m vom Deichwiesenhof entfernt
+  zeitliche_einordnung: spätes Mittelalter oder frühe Neuzeit
+  geschichtliche_bedeutung: Friedrich III. Graf von Wied hatte 1631 Interesse hier statt Bonefeld das heutige Neuwied zu gründen
+GUELTIG_AB: -
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 499-bonefeld/008
+ENTITÄT: wappen
+FACETTE: POLITIK
+QUELLE: https://www.bonefeld.de/wappen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  genehmigt_datum: 11. März 1985
+  genehmigt_durch: Bezirksregierung Koblenz
+  blasonierung: Von Gold und Blau gespalten durch eine eingebogene erniedrigte silberne Spitze, darin eine Vierergruppe aneinandergerückter schwarzer Basaltsäulen (1:2:1), vorne vier rote Schrägbalken belegt mit einem gelappten schwarzen Wendelring, hinten zwei silberne sich überlappende Eichenblätter mit zwei silbernen Eicheln
+  symbolik_basaltsaeulen: Basaltvorkommen in der Gemarkung Bonefeld
+  symbolik_farben_rot_gold: wiedische Farben
+  symbolik_eichenlaub: Waldreichtum
+  symbolik_blau: Wasservorkommen
+GUELTIG_AB: 1985
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 499-bonefeld/009
+ENTITÄT: kaisereiche
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Bonefeld | Wikipedia
+EIGENSCHAFTEN:
+  pflanzjahr: 1871
+  funktion: Naturdenkmal
+  umgebung: Ehrenmal für Gefallene Erster und Zweiter Weltkrieg
+GUELTIG_AB: 1871
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 499-bonefeld/010
+ENTITÄT: schule
+FACETTE: INFRA | ALLTAG
+QUELLE: https://www.bonefeld.de/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  unterricht_ab: 1724
+  unterrichtsort_bis_1836: ehemaliger Hofhaus
+  neubau: ca. 1836
+  neubau_material: ehemalige Scheune des fürstlichen Hofgebäudes
+  neubau_lage: südlicher Rand des Dorfes
+  wasserleitung_gelegt: 1890
+  telefonleitung_gelegt: 1905
+  fortbildungsschule_gegründet: 1900
+  schliessungsdatum: 31. Juli 1973
+  schultradition_dauer: 250 Jahre
+  zweiklassig_ab: 1955
+  erweiterungsbau: 1961
+  schaeden_weltkrieg: Teile Schulsaales durch Beschuss zerstört
+GUELTIG_AB: 1724
+GUELTIG_BIS: 1973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 499-bonefeld/011
+ENTITÄT: burverein
+BEZEICHNUNG: Burverein 1969 Bonefeld e.V.
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://www.bonefeld.de/burverein.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1969
+  ursprung: Bürgerinitiative
+  taetigkeit_initial: Gestaltung Sumpfgebiet am "Bur" (mundartlich für Brunnen)
+  schwanenteich_angelegt: Ende 1960er Jahre
+  gartenanlage_angelegt: Ende 1960er Jahre
+  spielplatz_angelegt: nach Ende 1960er Jahre
+  fest_name: Burfest
+  fest_bedeutung: fester Bestandteil der dörflichen Veranstaltungen
+  auszeichnung: Ehrenamtspreis 2019
+  bedeutung_fuer_ort: Dorfverschönerung und Gemeinschaftspflege
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 499-bonefeld/012
+ENTITÄT: fest
+BEZEICHNUNG: Burfest
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://www.bonefeld.de/burverein.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  organisator: Burverein 1969 Bonefeld e.V.
+  seit: 1969
+  status: fester Bestandteil dörflicher Veranstaltungen
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 499-bonefeld/013
+ENTITÄT: schwanenteich
+FACETTE: FREIZEIT | LAGE
+QUELLE: https://www.bonefeld.de/burverein.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: Ende 1960er Jahre
+  erbauer: Burverein Bonefeld (als Bürgerinitiative)
+  ursprungsname: Sumpfgebiet am "Bur" (Brunnen)
+  umgebung: Gartenanlage
+  beschreibung: kleiner Weiher mit herrlicher Gartenanlage
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 499-bonefeld/014
+ENTITÄT: kinderspielplatz
+FACETTE: FREIZEIT
+QUELLE: https://www.bonefeld.de/burverein.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angelegt_durch: Burverein 1969 Bonefeld e.V.
+  angelegt_zeitraum: nach Ende 1960er Jahre
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 499-bonefeld/015
+ENTITÄT: burschenverein
+BEZEICHNUNG: Alte Burschen Bonefeld
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://www.bonefeld.de/alte-burschen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1973
+  motto: Traditionen bewahren – Die Dorfgemeinschaft erhalten
+  zweck_hauptziel: Unterstützung junger Burschen, Pflege Gemeinschaftsgeist zwischen Generationen
+  taetigkeit: z.B. Kirmesbaumeinholen
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 499-bonefeld/016
+ENTITÄT: burschenverein
+BEZEICHNUNG: Burschenverein Bonefeld
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Bonefeld | Wikipedia
+EIGENSCHAFTEN:
+  bestand_seit: 1893
+GUELTIG_AB: 1893
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 499-bonefeld/017
+ENTITÄT: völkerwiesenbach
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Bonefeld | Wikipedia
+EIGENSCHAFTEN:
+  ursprung: nördlich des Ortes
+  verlauf: Wohnbebauung fällt nach Süden und Osten ins Tal
+GUELTIG_AB: -
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 499-bonefeld/018
+ENTITÄT: grafisches_wappen
+FACETTE: LAGE
+QUELLE: https://www.bonefeld.de/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: sechs Hügelgräber der Hallstattzeit mit charakteristischen bronzenen Wendel- oder tordierte (gedrehte) Ringen, Lappmuster (gelappte Wendelringe)
+  bedeutung: belegt prähistorische Besiedlung und Kulturträger
+GUELTIG_AB: -650
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75

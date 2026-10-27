@@ -1,0 +1,475 @@
+ZIELORT: Südostviertel (Ortsteil von Essen)
+LAGE: Stadtteil von Essen, 1 km östlich der Stadtmitte (Luftlinie)
+ARTIKEL: Südostviertel
+
+GRUNDDATEN:
+  landkreis: Stadtkreis Essen — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P131]
+  bundesland: Nordrhein-Westfalen — GILT FÜR DIE GEMEINDE ESSEN  [über die Gemeinde]
+  flaeche_km2: 0,97  [Wikidata P2046]
+  kfz: E (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P395]
+  hoehe_m: 105 | 112 — MEHRERE WERTE  [Wikidata P2044; Altbestand geo.sqlite (GeoNames 12500843)]
+  naechste_grossstadt: Essen, 1 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Düsseldorf, 31 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  plz: 45128, 45138, 45139  [Wikidata P281]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,5 %, SPD 22,2 %, AfD 17 %, GRÜNE 12,4 %, Die Linke 9,5 %; Wahlbeteiligung 80,1 % — GILT FÜR DIE GEMEINDE ESSEN  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 82,2 % im Bundesland (Ort 80,1 %, Abstand 2,1 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+ZEUGEN (OpenStreetMap, Gemeindegrenze; belegt nur, dass es die Sache gibt):
+  Freizeit: Gedenktafel
+  Burg/Denkmal: Siegfried Cussel (seit 2004)
+  Burg/Denkmal: Abraham Isaak (seit 2007)
+  Burg/Denkmal: Hannelore Isaak (seit 2007)
+  Burg/Denkmal: Irmgard Isaak (seit 2007)
+  Burg/Denkmal: Karoline Isaak (seit 2007)
+  Burg/Denkmal: Manfred Isaak (seit 2007)
+  Burg/Denkmal: Henriette Fränkel (seit 2018)
+  Burg/Denkmal: Leo Fränkel (seit 2018)
+  Sportstätte: Tennisclub Schellenberg
+  Sportstätte: Sporthalle UNESCO Schule (gymnastics)
+  Sportstätte: Sporthalle der Hauptschule Wächtlerstraße (multi)
+  Bildung: Robert-Schmidt-Berufskolleg
+  Museum: New Bretagne
+  Kultur: Eulenspiegel
+  Wanderweg: Abteiweg Raute5 (26 km)
+
+PLAN:
+  Karte 1: FACETTE ALLTAG (Ersatz: FREIZEIT), Geschichte, D, wahre Option an Stelle 3
+  Karte 2: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 4
+  Karte 3: FACETTE FREIZEIT (Ersatz: ALLTAG), Geschichte, D, wahre Option an Stelle 1
+  Karte 4: FACETTE INFRA (Ersatz: LAGE), Geschichte, A, wahre Option an Stelle 2
+  Karte 5: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, A, wahre Option an Stelle 3
+  Karte 6: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, B, Lüge an Stelle 3
+  Karte 7: FACETTE LAGE, Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung, C, wahre Spanne an Stelle 1
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je ein weiteres Charakteristikum, Facette frei, Familie A, B oder D, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Margarethenhöhe (Ortsteil von Essen)
+  landkreis: Stadtkreis Essen — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P131]
+  flaeche_km2: 1,48  [Wikidata P2046]
+  kfz: E (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P395]
+  hoehe_m: 105 | 112 — MEHRERE WERTE  [Wikidata P2044; Altbestand geo.sqlite (GeoNames 2873724)]
+  naechste_grossstadt: Essen, 4 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,5 %, SPD 22,2 %, AfD 17 %, GRÜNE 12,4 %, Die Linke 9,5 %; Wahlbeteiligung 80,1 % — GILT FÜR DIE GEMEINDE ESSEN  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 82,2 % im Bundesland (Ort 80,1 %, Abstand 2,1 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+FAHRT: Wiehre, Waldsee, Altstadt, Stühlinger, Neuburg, Herdern, Zähringen, Brühl, Oberau, Haslach, Sankt Georgen, Vauban, Weingarten, Betzenhausen, Mooswald, Landwasser, Lehen, Rieselfeld, Dietenbach, Opfingen, Tiengen, Munzingen, Waltershofen, Ebnet, Littenweiler, Kappel, Merzhausen, Au, Horben, Günterstal, Ebringen, Schallstadt, Bad Krozingen, Staufen, Heitersheim, Müllheim, Waldkirch, Hochdorf, Gundelfingen, Denzlingen, Glottertal, March, Umkirch, Gottenheim, Merdingen, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Vogtsburg, Oberrotweil, Achkarren, Burkheim, Bischoffingen, Bickensohl, Oberbergen, Schelingen, Sasbach, Leiselheim, Wyhl, Forchheim, Breisach, Gündlingen, Niederrimsingen, Oberrimsingen, Kirchzarten, Stegen, St. Peter, St. Märgen, Oberried, Buchenbach, Höllental, Hinterzarten, Breitnau, Titisee, Titisee-Neustadt, Feldberg, Schluchsee, Lenzkirch, Eisenbach, Friedenweiler, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Neuwied, Altwied, Rengsdorf, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Bonefeld, Straßenhaus, Oberhonnefeld-Gierend, Willroth, Horhausen, Hümmerich, Krunkel, Breitscheid, Kloster Marienhaus, Wolfenacker, Kupferdreh, Überruhr, Bergerhausen, Rellinghausen, Stadtwald, Fischlaken, Werden, Burgaltendorf, Steele, Byfang, Rüttenscheid, Bredeney, Huttrop, Kettwig, Schuir, Heidhausen, Haarzopf, Margarethenhöhe, Südostviertel, Freisenbruch
+
+FAKTEN (Zielort Südostviertel):
+ID: 494-suedostviertel/001
+ENTITÄT: stadtteil
+BEZEICHNUNG: Südostviertel
+FACETTE: LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bevölkerungsdichte: höchste in Essen
+  charakterisierung: lebendiges Viertel mit vielen charmanten Altbauten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 494-suedostviertel/002
+ENTITÄT: stadtteil
+BEZEICHNUNG: Südostviertel
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  teil_von: Stadtmitte Essen (zusammen mit Westviertel, Nordviertel, Ostviertel, Südviertel, Stadtkern)
+  bebauungsform: dichte Wohnbebauung
+  hauptstrassen: Steeler Straße, Kurfürstenstraße, Ruhrallee
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 494-suedostviertel/003
+ENTITÄT: stadtteil
+BEZEICHNUNG: Südostviertel
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  industrialisierung: weniger von Industrialisierung profitiert als andere Stadtteile
+  grund_der_stadterweiterung: Verbesserung beengter Wohnverhältnisse und Steuerung des Bergbauzuzugs
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 494-suedostviertel/004
+ENTITÄT: stadtteil
+BEZEICHNUNG: Südostviertel
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  einwohnerzahl: 13215
+  datum_einwohnerzahl: 31. März 2025
+  anteil_unter_18_jahren: 18.5
+  anteil_65_plus_jahren: 12.6
+  auslaenderanteil: 41.9
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2025
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 494-suedostviertel/005
+ENTITÄT: wasserturm
+BEZEICHNUNG: Wasserturm am Steeler Berg
+FACETTE: LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Steeler Berg, Diether-Krebs-Platz (früher Ostpark)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 494-suedostviertel/006
+ENTITÄT: wasserturm
+BEZEICHNUNG: Wasserturm am Steeler Berg
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1884
+  kriegsschaeden: zu Kriegszeiten stark beschädigt, danach wieder aufgebaut
+  denkmalschutz_seit: 1985
+  aktuelle_funktion: Wasserturm
+GUELTIG_AB: 1884
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 494-suedostviertel/007
+ENTITÄT: wasserturm
+BEZEICHNUNG: Wasserturm am Steeler Berg
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung_fuer_ort: quasi das Wahrzeichen des Südostviertel
+  denkmalliste_seit: 1985
+  aktuelle_nutzungen: Wasserturm und Sitz der Essener Tafel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 494-suedostviertel/008
+ENTITÄT: kino
+BEZEICHNUNG: Eulenspiegel
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: historisches Kino
+  besonderheit: zeigt gelegentlich noch Stummfilme
+  publikum: beliebt bei Cineasten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 494-suedostviertel/009
+ENTITÄT: kino
+BEZEICHNUNG: Eulenspiegel
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1955
+  typ: Programmkino
+  denkmalschutz: unter Denkmalschutz
+  innenausstattung: historisch erhalten
+  besonderheit: zeigt gelegentlich Stummfilme
+GUELTIG_AB: 1955
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 494-suedostviertel/010
+ENTITÄT: industriebetrieb
+BEZEICHNUNG: Puddel- und Walzwerk Schulz, Knaudt & Co.
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1855
+  standort: am Rand der Innenstadt (Südostviertel)
+  produktion: verschiedene Schmiedestücke
+  verlegung: später nach Duisburg verlegt
+  bedeutung_fuer_ort: einziger wirklicher Industriebetrieb im Südostviertel
+GUELTIG_AB: 1855
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 494-suedostviertel/011
+ENTITÄT: stadtteil
+BEZEICHNUNG: Moltkeviertel
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1911
+  grund: Mangel an Wohnraum durch Zuzug vieler Bergarbeiter
+  zweck: Schaffung von hochwertigen Wohnraum
+GUELTIG_AB: 1911
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 494-suedostviertel/012
+ENTITÄT: stadtteil
+BEZEICHNUNG: Moltkeviertel
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_statistik.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: architektonisch und stadtplanerisch interessant
+  merkmale: große Vorgärten, viele Parkanlagen mit altem Baumbestand
+  lage: südlicher Teil des Viertels
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 494-suedostviertel/013
+ENTITÄT: friedhof
+BEZEICHNUNG: Ostfriedhof
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_statistik.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: südöstlicher Teil des Viertels
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 494-suedostviertel/014
+ENTITÄT: friedhof
+BEZEICHNUNG: Ostfriedhof
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  inhalt: Grabstätten zahlreicher Persönlichkeiten der Essener Geschichte
+  herkunft: Umgebettungen vom aufgegebenen Friedhof Kettwiger Tor
+  grund_aufgabe_vorgaenger: Bau der Autobahn A40
+  aufgabe_vorgaenger: 1955
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_BIS: 1955
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 494-suedostviertel/015
+ENTITÄT: jugendeinrichtung
+BEZEICHNUNG: Storp9
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: nördlich der Steeler Straße
+  angebot: künstlerische Projekte für Jugendliche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 494-suedostviertel/016
+ENTITÄT: sportverein
+BEZEICHNUNG: Tennisclub Schellenberg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: an der Stadtteilgrenze
+  zielgruppe: Leute aller Altersklassen
+  angebot: sportliche Betätigung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 494-suedostviertel/017
+ENTITÄT: kirche
+BEZEICHNUNG: St. Michael
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  lage: am Wasserturm
+  vorgaenger: Vorgängerbau im Krieg zerstört (an der Stelle Wächtlerstraße, wo sich heute die Autobahn A40 befindet)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 494-suedostviertel/018
+ENTITÄT: schule
+BEZEICHNUNG: Hauptschule an der Wächtlerstraße
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  frueherer_name: Volksschule
+  lage: an der Ecke Wächtlerstraße / Kleine Steubenstraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 494-suedostviertel/019
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule am Wasserturm
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  lage: am Wasserturm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 494-suedostviertel/020
+ENTITÄT: schule
+BEZEICHNUNG: UNESCO-Schule Essen
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  typ: Aufbaugymnasium
+  lage: neben Grundschule am Wasserturm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 494-suedostviertel/021
+ENTITÄT: synagoge
+BEZEICHNUNG: Neue Synagoge
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1959
+  lage: Süden des Stadtteils
+GUELTIG_AB: 1959
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 494-suedostviertel/022
+ENTITÄT: kirche
+BEZEICHNUNG: Alt-Lutherische Kirche
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Moltkeviertel (Südostviertel)
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  lage: am Moltkeplatz
+  architekt: Otto Bartning
+  besonderheit: erste Kirche des Architekten Otto Bartning in Deutschland
+  einweihung: 1910
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 494-suedostviertel/023
+ENTITÄT: kirche
+BEZEICHNUNG: Auferstehungskirche
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Moltkeviertel (Südostviertel)
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  lage: an der Ecke Manteuffel-/Steubenstraße
+  erbaut: 1929
+  bedeutung_fuer_ort: eines der wichtigsten Leitbilder des modernen Kirchenbaus in Mitteleuropa
+GUELTIG_AB: 1929
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 494-suedostviertel/024
+ENTITÄT: gymnasium
+BEZEICHNUNG: Viktoria-Gymnasium
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Moltkeviertel (Südostviertel)
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  lage: am Kurfürstenplatz
+  baubeginn: 1912
+  benannt_nach: Viktoria Luise von Preußen
+  typ: Mädchengymnasium
+  einweihung: 23. April 1914
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 494-suedostviertel/025
+ENTITÄT: wohlfahrtsverband
+BEZEICHNUNG: Essener Tafel
+FACETTE: INFRA
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sitz: denkmalgeschützter Wasserturm am Steeler Berg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 494-suedostviertel/026
+ENTITÄT: person
+BEZEICHNUNG: Gustav Heinemann
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: ehemaliger Bundespräsident
+  todesjahr: 1976
+  todestag: 1. Januar
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1976
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 494-suedostviertel/027
+ENTITÄT: person
+BEZEICHNUNG: Gustav Heinemann
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1899
+  todesjahr: 1976
+  beruf: Politiker, Bundespräsident
+  wohnort: Schinkelstraße 34
+  bewohnung_von: 1. Januar 1936
+  bewohnung_bis: Tod (1. Januar 1976)
+GUELTIG_AB: 1936
+GUELTIG_BIS: 1976
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 494-suedostviertel/028
+ENTITÄT: person
+BEZEICHNUNG: Uta Ranke-Heinemann
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1927
+  todesjahr: 2021
+  berufe: Theologin, Autorin, Politikerin
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 494-suedostviertel/029
+ENTITÄT: person
+BEZEICHNUNG: Diether Krebs
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1947
+  todesjahr: 2000
+  berufe: Schauspieler, Komiker
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 494-suedostviertel/030
+ENTITÄT: wappen
+BEZEICHNUNG: Stadtteilwappen Südostviertel
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  entwerfer: Kurt Schweder
+  charakter: hatte nie offiziellen Charakter
+  entwurfszeit: Ende der 1980er Jahre
+  akzeptanz: von der Essener Bevölkerung gut angenommen
+  blasonierung: "In Blau ein schräglinkes goldenenes Schwert, begleitet oben und unten von je drei goldenen Kugeln"
+  symbolik_schwert: Attribut der Stadtpatrone Cosmas und Damian, stellt Bezug zum Essener Stadtwappen her
+  symbolik_kugeln: symbolisieren die sechs Stadtteile (Stadtkern, Nordviertel, Ostviertel, Südostviertel, Südviertel, Westviertel)
+GUELTIG_AB: 1980er Jahre, genauigkeit: "ca."
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 494-suedostviertel/031
+ENTITÄT: autobahn
+BEZEICHNUNG: Autobahn A40
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: zerschneidet Stadtteil von West nach Ost
+  anschlussstelle: Essen-Huttrop (Großteil liegt auf Südostviertel-Gebiet)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 494-suedostviertel/032
+ENTITÄT: oeffentlicher_nahverkehr
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  zentrale_straehnbahnlinien: 103, 109
+  zentrale_buslinien: 146
+  periphere_buslinien: 154, 155, 160, 161
+  nachtverkehr_linien: NE5, NE7
+  betreiber: Ruhrbahn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+

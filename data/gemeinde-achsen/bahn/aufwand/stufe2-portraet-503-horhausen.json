@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2-portraet",
+ "ort": "503-horhausen",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 19502,
+ "token_ein": 353334,
+ "token_aus": 8835,
+ "usage": {
+  "input_tokens": 20,
+  "cache_creation_input_tokens": 39818,
+  "cache_read_input_tokens": 313496,
+  "output_tokens": 8835,
+  "output_tokens_details": {
+   "thinking_tokens": 3096
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 39818,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 5279,
+    "cache_read_input_tokens": 46443,
+    "cache_creation_input_tokens": 277,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 277
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.8502982000000002,
+ "sekunden": 121,
+ "fehler": false,
+ "zeit": "2026-10-27T10:54:03"
+}

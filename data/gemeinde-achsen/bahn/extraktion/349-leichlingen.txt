@@ -1,54 +1,806 @@
 ENTITÄT: ort
-BEZEICHNUNG: Leichlingen
-QUELLE: https://www.leichlingen.de/bauen-wirtschaft-und-mobilitaet/denkmalschutz/denkmallandschaft | Gemeinde-Webseite
+FACETTE: LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  denkmallandschaft_charakterisierung: geprägt durch Fachwerkbauten in Form von bäuerlichen Hofanlagen, Bürgerhäusern und einfacher bergischer Wohnkultur, sowie Ritter- und Adelssitze, Kirchen, Burg und Schloss sowie technische Bauwerke
-  baudenkmäler: 101
-  bodendenkmäler: 6
-  bewegliche_denkmäler: 4
-  denkmalbereiche: 2
+  ist_mittelstadt: true
+  liegt_in_kreis: Rheinisch-Bergischer Kreis
+  liegt_in_bundesland: Nordrhein-Westfalen
+  namenszusatz_offiziell: Blütenstadt
+  namenszusatz_gueltig_ab: 2013
+  lage_geografisch: nordwestlicher Rand Oberbergisches Land, Übergang zur Niederrheinischen Tiefebene
+  ist_teil_metropolregion: Rhein-Ruhr
+  hoehe_minimum: 54
+  hoehe_minimum_einheit: m ü. NHN
+  hoehe_maximum: 250
+  hoehe_maximum_einheit: m ü. NHN
+  ausdehnung_ost_west: 11.5
+  ausdehnung_ost_west_einheit: km
+  ausdehnung_nord_sued: 4.6
+  ausdehnung_nord_sued_einheit: km
+  nachbargemeinde_norden: Solingen
+  nachbargemeinde_suedosten: Burscheid
+  nachbargemeinde_sueden: Leverkusen
+  nachbargemeinde_westen: Langenfeld
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: denkmalbereich
-BEZEICHNUNG: Dorf
-QUELLE: https://www.leichlingen.de/bauen-wirtschaft-und-mobilitaet/denkmalschutz/denkmallandschaft | Gemeinde-Webseite
+ENTITÄT: ort
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  lage: Marktstraße / Mittelstraße
+  geschichte_anfang: 973
+  geschichte_anfang_ereignis: Erzbischof Gero verfügt Klosterbau
+  erste_erwähnung_urkunde: 1019
+  erste_erwähnung_text: "Leichlingin", Kirche und Hof dem Kloster Deutz geschenkt
+  ist_kirchort_seit: 12. Jahrhundert
+  erste_schleifereien_seit: 14. Jahrhundert
+  stadtrechte_verliehen: 1856
+  bahnstrecke_eroeffnet_ca: 1860
+  industrie_aufbau_ab: 1865
+  luftfahrt_periode: 1909-1910
+  luftfahrt_periode_beschreibung: "Stadt der jungen Luftfahrt", Luftschiffhalle Balken, Erbslöh-Luftschiff
+  eingemeindung_witzhelden: 1. Januar 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  ist_gemeinde_type: Mittelstadt
+  buergermeister: Maurice Winter
+  buergermeister_partei: CDU
+  hat_kinder_jugendparlament: true
+  jugendparlament_gueltig_ab: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: wappen
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: von Silber und Blau wellig geteilt; oberes Feld: blaugekrönter, blaubewehrter, doppelschwänziger roter bergischer Löwe; unteres Feld: silberner Fisch mit roten Flossen
+  symbolik_loewe: bergischer Löwe
+  symbolik_fisch: Symbol für einstigen Fischreichtum der Wupper
+  fisch_ursprung: Siegel der Schöffen von Leichlingen 1636
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: denkmalbereich
-BEZEICHNUNG: Ortskern
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Marly-le-Roi
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  partnerland: Frankreich
+  hat_bruecke_mit_namen: true
+  hat_denkmal: true
+  finden_reisen_statt: alljährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Henley-on-Thames
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  partnerland: Vereinigtes Königreich
+  hat_bruecke_mit_namen: true
+  hat_denkmal: true
+  finden_reisen_statt: alljährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Funchal auf Madeira
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  partnerland: Portugal
+  hat_bruecke_mit_namen: true
+  hat_denkmal: true
+  finden_reisen_statt: alljährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bad
+BEZEICHNUNG: Blütenbad Leichlingen
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.leichlingen.de/freizeit-und-tourismus/bluetenbarometer | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_charakteristikum: true
+  ist_freizeitangebot: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Leichlinger Obstweg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.leichlingen.de/freizeit-und-tourismus/wandern/obstweg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_rundweg: true
+  ist_themenweg: true
+  laenge_km: 9
+  markierung_symbol: Apfelsymbol
+  landschaft: Wälder, typische bergische Dörfer, Ausblicke ins Bergische Land
+  informationstafeln: true
+  sortenschilder: true
+  fokus: Obstwiese, alte Obstsorten
+  einkehrsmoeglichkeiten: vorhanden
+  hoflaeden: vorhanden
+  hat_variante_witzhelden: true
+  variante_witzhelden_laenge_km: 5
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Witzheldener Obstweg
+FACETTE: FREIZEIT
 ORTSTEIL_BEZUG: Witzhelden
-QUELLE: https://www.leichlingen.de/bauen-wirtschaft-und-mobilitaet/denkmalschutz/denkmallandschaft | Gemeinde-Webseite
+QUELLE: https://www.leichlingen.de/freizeit-und-tourismus/wandern/obstweg | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  beschreibung: Ortskern des Stadtteils
+  ist_rundweg: true
+  ist_themenweg: true
+  laenge_km: 5
+  markierung_symbol: Apfelsymbol
+  wegtyp: befestigte und unbefestigte landwirtschaftliche Wege, teilweise Straße
+  informationstafeln: true
+  einkehrsmoeglichkeiten: vorhanden
+  hoflaeden: vorhanden
+  hat_abkuerzungen: true
+  hat_variationen: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: naturlehrpfad
+BEZEICHNUNG: DachsDuoTour
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.leichlingen.de/freizeit-und-tourismus/wandern/naturlehrpfade | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge_km: 8.1
+  ist_rundweg: true
+  fokus: Vielfalt der Natur
+  streckenverlauf: entlang Wupperufer, Weltersbachtal, Murbachtal
+  infotafeln_mit_qr_codes: true
+  besonderheit: QR-Codes für Informationen zu Stationen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: naturlehrpfad
+BEZEICHNUNG: Witzheldener Waldlehrpfad
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Witzhelden
+QUELLE: https://www.leichlingen.de/freizeit-und-tourismus/wandern/naturlehrpfade | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge_km: 5
+  ist_rundweg: true
+  gueltig_ab: 1965
+  angelegt_durch: Verkehrs- und Verschönerungsverein (VVV) Witzhelden
+  kontinuierlich_renoviert: true
+  kontinuierlich_gepflegt: true
+  kontinuierlich_erweitert: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: fernwanderweg
+BEZEICHNUNG: Wupperwanderweg / Wupperweg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.leichlingen.de/freizeit-und-tourismus/wandern/der-wupperwanderweg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gesamtlaenge_km: 125
+  markierung_symbol: Rautensymbol mit Ziffer 6
+  schaffung_beteiligung: Sauerländischer Gebirgsverein (SGV), Wupperverband
+  teilstrecken_anzahl: 10
+  teilstrecken_laenge_km_pro_stueck: "ca. 10-20"
+  etappenwanderung_moglich: true
+  informationsbroschüren_verfügbar: true
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: ortsteil
-BEZEICHNUNG: Witzhelden
-QUELLE: https://www.leichlingen.de/bauen-wirtschaft-und-mobilitaet/denkmalschutz/denkmallandschaft | Gemeinde-Webseite
+ENTITÄT: radweg
+BEZEICHNUNG: Bergischer Panoramaradweg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.leichlingen.de/freizeit-und-tourismus/fahrradfahren/alte-bahntrassen | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  hat_denkmalbereich: true
+  ist_charakteristikum: true
+  auf_ehemalige_bahntrasse: true
+  verlaeuft_durch: Bergisches Land
+  besonderheit: Brücken, Tunnel, alte Bahnhöfe
+  ermoeglicht: Radfahren ohne große Anstrengung
+  gesamtlaenge_netz_km: 220
+  verbindet: Bergisches Land, südliches Ruhrgebiet, Sauerland
+  verbindung_zu: Flussradwege Rhein, Ruhr, Sieg
+  auf_schienenwegen_km: 150
+  beschilderung_gueltig_ab: 2016
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Panoramaradweg Balkantrasse
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.leichlingen.de/freizeit-und-tourismus/fahrradfahren/alte-bahntrassen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  auf_ehemalige_bahntrasse: true
+  verlaeuft_durch: Bergisches Land
+  besonderheit: Brücken, Tunnel, alte Bahnhöfe
+  ist_teil_von_netz: Bergisches Panoramaradweg-Netz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Schloss Eicherhof / Haus Eicherhof
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  ist_ausflugsziel: true
+  ist_sehenswert: true
+  ist_charakteristikum: true
+  grund_planung: Stiftung durch Wilhelm Boeddinghaus, Elberfelder Fabrikant und Geheimer Kommerzienrat
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Evangelische Stadtkirche
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  ist_sehenswert: true
+  charakteristika: barocke Ausstattung
+  ist_ausflugsziel: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Kleinkirche St. Heribert
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  ist_sehenswert: true
+  ist_ausflugsziel: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Kirche St. Johannes Baptist
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  ist_sehenswert: true
+  ist_ausflugsziel: true
+  konfession: römisch-katholisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Alte katholische Kirche am Johannisberg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  ist_sehenswert: true
+  ist_ausflugsziel: true
+  konfession: römisch-katholisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Haus Vorst
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  ist_sehenswert: true
+  ist_herrensite: true
+  gueltig_ab: Mittelalter
+  ursprünglicher_besitz: Kloster Deutz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Haus Nesselrath
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  ist_sehenswert: true
+  ist_herrensite: true
+  gueltig_ab: Mittelalter
+  ursprünglicher_besitz: Kloster Deutz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Villa Weyermann
+FACETTE: GESCHICHTE | ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  ist_sehenswert: true
+  gehörte_zu: A. Weyermann-Söhne (Färbereibesitzer-Familie)
+  beherbergte_zeitweise: Rathaus
+  beherbergte_zeitweise_später: Hotel, später Bürgerhaus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sendestelle
+BEZEICHNUNG: Fernmeldeturm Witzhelden
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Witzhelden
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: 134
+  hoehe_einheit: m
+  material: Stahlbeton
+  betreiber: Deutsche Telekom
+  koordinaten_breite: 51°7′31″ N
+  koordinaten_laenge: 7°6′36″ E
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: einrichtung
+ENTITÄT: sendestelle
+BEZEICHNUNG: Sendemast Fernsehen Witzhelden
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Witzhelden
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: 229
+  hoehe_einheit: m
+  betreiber: Deutsche Telekom
+  funktion: Verbreitung von Fernsehprogrammen
+  gueltig_bis: 2017
+  koordinaten_breite: 51°7′7″ N
+  koordinaten_laenge: 7°5′59″ E
+  beschreibung: wurde am 7. November 2017 gegen 13:30 Uhr gesprengt, da nicht mehr in Betrieb
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Leichlinger Obstmarkt
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  zeitpunkt: Oktober
+  ist_regelmaessig: true
+  ist_ueberregional_bekannt: true
+  bedeutung_fuer_ort: touristischer Anziehungspunkt, regionale Bekanntheit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Erntedankfest Witzhelden
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Witzhelden
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  zeitpunkt: Oktober (gleiches Wochenende wie Obstmarkt)
+  ist_regelmaessig: true
+  ist_ueberregional_bekannt: true
+  hoehepunkt: Festumzug am Sonntag
+  bedeutung_fuer_ort: touristischer Anziehungspunkt, regionale Bekanntheit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Leichlinger Stadtfest
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  zeitpunkt: drittes Wochenende im September
+  ist_regelmaessig: true
+  ist_ueberregional_bekannt: true
+  bedeutung_fuer_ort: touristischer Anziehungspunkt, regionale Bekanntheit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Witzheldener Sternenzauber
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Witzhelden
+QUELLE: https://www.leichlingen.de/freizeit-und-tourismus/heimatpreis | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: 5. Dezember (erwähnt für 2026)
+  ist_regelmaessig: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: karneval
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.leichlingen.de/freizeit-und-tourismus/vereine-ehrenamt/vereine | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: blühendes Vereinsleben im Karneval
+  anzahl_vereine: 11
+  beispiele_vereine: KG Blütenstädter, KG Bergische Bande, KG Handballfründe, KG Herrenelferrat, KG Pappnas un Familich, KG Rittergilde Leichlingen, Prinzenclub Leichlingen, Festkomitee Leichlinger Karneval
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kultureinrichtung
 BEZEICHNUNG: Stadtbücherei Leichlingen
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: 
 QUELLE: https://www.leichlingen.de/kultur-und-bildung/stadtbuecherei/ueber-uns-1 | Gemeinde-Webseite
 EIGENSCHAFTEN:
+  ist_kultureinrichtung: true
   adresse: Am Büscherhof 1, 42799 Leichlingen
-  email: stadtbuecherei@leichlingen.de
-  telefon: 02175 992-216, 02175 992-219
+  telefon: 02175 992-216
+  hat_foerderverein: true
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: musikschule
+BEZEICHNUNG: Musikschule Leichlingen
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.leichlingen.de/freizeit-und-tourismus/vereine-ehrenamt/vereine | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_kultureinrichtung: true
+  hat_foerderverein: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: sportinfrastruktur
+BEZEICHNUNG: Leichlinger Schießsport-Zentrum
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  ist_charakteristikum: true
+  ist_zentrum_von: Schießsport überregional bekannt
+  anlagen_anzahl: 2
+  anlagen: Balker Schießgesellschaft 1907, SV Trompete
+  balker_trainingsanlage_luftdruckwaffen: 10 m
+  balker_trainingsanlage_kleinkaliber: 25 m + 50 m
+  trompete_landesleistungszentrum: ja
+  trompete_trainingsanlage_luftdruckwaffen: ja
+  trompete_trainingsanlage_kleinkaliber: ja
+  trompete_trainingsanlage_grosskaliber: bis 1500 Joule
+  beherbergt: Geschäftsstelle des RSB (Rheinischer Schützenbund)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: Leichlinger Turnverein LTV 1883 e.V.
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.leichlingen.de/freizeit-und-tourismus/vereine-ehrenamt/vereine | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_grosser_verein: true
+  anzahl_abteilungen: 9
+  abteilungen: Basketball, Breitensport, Faustball, Handball, Leichtathletik, Rasenkraftsport, Tennis
+  faustball_superlativ: Europameister 2015
+  bedeutung_fuer_ort: größter Sportverein mit den meisten Mitgliedern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: industrie_historisch
+BEZEICHNUNG: A. Weyermann-Söhne / Türkischrot-Färberei
+FACETTE: WIRTSCHAFT | GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  gueltig_ab: 1865
+  gueltig_bis: 1960er Jahre (Abriss)
+  ursprungsort: Elberfeld (heute zu Wuppertal)
+  grund_umzug: Verlegung nach Leichlingen
+  lage_leichl: an der Wupper ("Am Hammer")
+  gruender: Abraham Weyermann
+  leiter_zeitweise: Rudolf Weyermann (Kommerzienrat)
+  beschaft_rudolf_weyermann: Präsident der Dampfschiffahrtsgesellschaft für Nieder- und Mittelrhein, Mitglied Rheinischer Provinziallandtag
+  bedeutung_fuer_ort: größter örtlicher Arbeitgeber lange Zeit
+  veraeusserung: 1890 an Albert Römer (Opladener Färbereibesitzer)
+  abriss: 1960er Jahre
+  nachfolgenutzung: Schulzentrum errichtet
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1960
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: industrie_historisch
+BEZEICHNUNG: Simons & Frowein / Weberei
+FACETTE: WIRTSCHAFT | GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  gueltig_ab: ca. 1865
+  gueltig_bis: 1978
+  lage_leichl: Brückerfeld
+  uebernahme: 1950er Jahre durch Müller-Wipperfürth AG
+  nachfolgenutzung: Platz mit Einzelhandelgeschäften
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1978
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: industrie_historisch
+BEZEICHNUNG: Otto Geller KG / Teppichweberei
+FACETTE: WIRTSCHAFT | GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  anfaenge: 1850er Jahre
+  gruender_vater: Vater von Otto Geller
+  anfangsproduktion: handgewebte Erzeugnisse
+  anfangslage: Haus in der Mittelstraße
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: industrie_historisch
+BEZEICHNUNG: Rosenkaimer / Walzstahlbetrieb
+FACETTE: WIRTSCHAFT | GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  gueltig_ab: 1896
+  unternehmensform_spaeter: Rosenkaimer GmbH
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: industrie_historisch
+BEZEICHNUNG: Kronenberg / Profil-Unternehmen
+FACETTE: WIRTSCHAFT | GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  gueltig_ab: 1900
+  lage: Nähe Leichlinger Bahnhof
+  firmenname_aktuell: Kronenberg Profil GmbH
+  ist_noch_bestehend: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: industrie_historisch
+BEZEICHNUNG: Metallwerk Frese
+FACETTE: WIRTSCHAFT | GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  gueltig_ab: 1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: klinik_historisch
+BEZEICHNUNG: Reha-Klinik Roderbirken / Heilstätte
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  grund_stiftung: Wilhelm Boeddinghaus, Elberfelder Fabrikant und Geheimer Kommerzienrat
+  ist_noch_bestehend: true
+  firmenname_aktuell: Reha-Klinik Roderbirken
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Luftschiff-Unglück "Erbslöh"
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Balken
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  datum: 13. Juli 1910
+  besatzung_anzahl: 5
+  besatzung_schicksal: alle ums Leben gekommen
+  ursache: Absturz im dichten Nebel
+  flugzeug_name: Erbslöh
+  pilot: Oskar Erbslöh
+  bedeutung_fuer_ort: Ende von Leichlingens Ära als "Friedrichshafen des Bergischen Landes"
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1910
+GUELTIG_BIS: 1910
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Schulzentrum Leichlingen
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: Ende 1960er Jahre
+  lage_ehemals: Am ehemaligen Schmiedehammer an der Wupper
+  schultypen_urspruenglich: Gymnasium, Realschule, Hauptschule
+  schultypen_struktur: nebeneinander liegende Gebäude
+  gymnasium_schueler_ueber_1000_ab: 2007/08
+  realschule_schliessung: 26. Juni 2020
+  sekundarschule_eroeffnung: Schuljahr 2015/16
+  schule_stadtkern_grund: Schulentwicklungsprozess der Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bahnverbindung
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  strecke: Bahnstrecke Gruiten–Köln-Mülheim / Bahnstrecke Haan-Gruiten-Köln-Deutz
+  bedienung: Regionalbahn RB 48
+  frequenz: halbstündlich
+  bahnhof_umbau_gueltig_ab: Anfang 2011
+  bahnhof_umbau_gueltig_bis: Dezember 2013
+  tiefster_punkt_stadts_lage: Eisenbahnbrücke an Wupperschleife
+  tiefster_punkt_stadts_hoehe: ca. 50 m ü. NHN
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: automobilverkehr
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Leichlingen_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  naehe_autobahn_a3: ja
+  autobahn_a3_richtung: Oberhausen – Frankfurt am Main
+  anschlussstelle_a542: ja
+  verbindung_a542_zu: A 59
+  kraft_fahrzeuge_angemeldet: 20.912
+  kraft_fahrzeuge_angemeldet_datum: 1. Januar 2018
+  pkw_anteil: 17.744
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 2018
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: behoerde
+BEZEICHNUNG: Untere Denkmalbehörde Leichlingen
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.leichlingen.de/bauen-wirtschaft-und-mobilitaet/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aufgaben: Schutz, Pflege, sinnvolle Nutzung und wissenschaftliche Erforschung von Denkmälern
+  fuehrung_denkmalliste: ja
+  beratung: Denkmalschutz und Denkmalpflege
+  erlaubnispflicht: Änderungen an Baudenkmal
+  koordination: LVR-Amt für Denkmalpflege im Rheinland
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ausflugsziel
+BEZEICHNUNG: Champignonzuchtanlage
+FACETTE: FREIZEIT | WIRTSCHAFT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.leichlingen.de/freizeit-und-tourismus/unternehmungen/ausflugsziele | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_ausflugsziel: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: ausflugsziel
+BEZEICHNUNG: Skulpturen im Murbachtal
+FACETTE: FREIZEIT | KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.leichlingen.de/freizeit-und-tourismus/unternehmungen/ausflugsziele | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_ausflugsziel: true
+  lage: Murbachtal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+
+---
+
+ENTITÄT: ausflugsziel
+BEZEICHNUNG: Wipperkotten
+FACETTE: FREIZEIT | KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.leichlingen.de/freizeit-und-tourismus/unternehmungen/ausflugsziele | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_ausflugsziel: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+
+---
+
+ENTITÄT: ausflugsziel
+BEZEICHNUNG: Leichlinger Höfe
+FACETTE: FREIZEIT | WIRTSCHAFT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.leichlingen.de/freizeit-und-tourismus/unternehmungen/ausflugsziele | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_ausflugsziel: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65

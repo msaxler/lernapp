@@ -1,0 +1,448 @@
+ENTITÄT: stadtteil
+BEZEICHNUNG: Südostviertel
+FACETTE: LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bevölkerungsdichte: höchste in Essen
+  charakterisierung: lebendiges Viertel mit vielen charmanten Altbauten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Südostviertel
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  teil_von: Stadtmitte Essen (zusammen mit Westviertel, Nordviertel, Ostviertel, Südviertel, Stadtkern)
+  bebauungsform: dichte Wohnbebauung
+  hauptstrassen: Steeler Straße, Kurfürstenstraße, Ruhrallee
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Südostviertel
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  industrialisierung: weniger von Industrialisierung profitiert als andere Stadtteile
+  grund_der_stadterweiterung: Verbesserung beengter Wohnverhältnisse und Steuerung des Bergbauzuzugs
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Südostviertel
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  einwohnerzahl: 13215
+  datum_einwohnerzahl: 31. März 2025
+  anteil_unter_18_jahren: 18.5
+  anteil_65_plus_jahren: 12.6
+  auslaenderanteil: 41.9
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2025
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wasserturm
+BEZEICHNUNG: Wasserturm am Steeler Berg
+FACETTE: LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Steeler Berg, Diether-Krebs-Platz (früher Ostpark)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wasserturm
+BEZEICHNUNG: Wasserturm am Steeler Berg
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1884
+  kriegsschaeden: zu Kriegszeiten stark beschädigt, danach wieder aufgebaut
+  denkmalschutz_seit: 1985
+  aktuelle_funktion: Wasserturm
+GUELTIG_AB: 1884
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wasserturm
+BEZEICHNUNG: Wasserturm am Steeler Berg
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung_fuer_ort: quasi das Wahrzeichen des Südostviertel
+  denkmalliste_seit: 1985
+  aktuelle_nutzungen: Wasserturm und Sitz der Essener Tafel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kino
+BEZEICHNUNG: Eulenspiegel
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: historisches Kino
+  besonderheit: zeigt gelegentlich noch Stummfilme
+  publikum: beliebt bei Cineasten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kino
+BEZEICHNUNG: Eulenspiegel
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1955
+  typ: Programmkino
+  denkmalschutz: unter Denkmalschutz
+  innenausstattung: historisch erhalten
+  besonderheit: zeigt gelegentlich Stummfilme
+GUELTIG_AB: 1955
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: industriebetrieb
+BEZEICHNUNG: Puddel- und Walzwerk Schulz, Knaudt & Co.
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1855
+  standort: am Rand der Innenstadt (Südostviertel)
+  produktion: verschiedene Schmiedestücke
+  verlegung: später nach Duisburg verlegt
+  bedeutung_fuer_ort: einziger wirklicher Industriebetrieb im Südostviertel
+GUELTIG_AB: 1855
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Moltkeviertel
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1911
+  grund: Mangel an Wohnraum durch Zuzug vieler Bergarbeiter
+  zweck: Schaffung von hochwertigen Wohnraum
+GUELTIG_AB: 1911
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Moltkeviertel
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_statistik.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: architektonisch und stadtplanerisch interessant
+  merkmale: große Vorgärten, viele Parkanlagen mit altem Baumbestand
+  lage: südlicher Teil des Viertels
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Ostfriedhof
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_statistik.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: südöstlicher Teil des Viertels
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Ostfriedhof
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  inhalt: Grabstätten zahlreicher Persönlichkeiten der Essener Geschichte
+  herkunft: Umgebettungen vom aufgegebenen Friedhof Kettwiger Tor
+  grund_aufgabe_vorgaenger: Bau der Autobahn A40
+  aufgabe_vorgaenger: 1955
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_BIS: 1955
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: jugendeinrichtung
+BEZEICHNUNG: Storp9
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: nördlich der Steeler Straße
+  angebot: künstlerische Projekte für Jugendliche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: Tennisclub Schellenberg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: an der Stadtteilgrenze
+  zielgruppe: Leute aller Altersklassen
+  angebot: sportliche Betätigung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Michael
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  lage: am Wasserturm
+  vorgaenger: Vorgängerbau im Krieg zerstört (an der Stelle Wächtlerstraße, wo sich heute die Autobahn A40 befindet)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Hauptschule an der Wächtlerstraße
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  frueherer_name: Volksschule
+  lage: an der Ecke Wächtlerstraße / Kleine Steubenstraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule am Wasserturm
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  lage: am Wasserturm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: UNESCO-Schule Essen
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  typ: Aufbaugymnasium
+  lage: neben Grundschule am Wasserturm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: synagoge
+BEZEICHNUNG: Neue Synagoge
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1959
+  lage: Süden des Stadtteils
+GUELTIG_AB: 1959
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Alt-Lutherische Kirche
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Moltkeviertel (Südostviertel)
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  lage: am Moltkeplatz
+  architekt: Otto Bartning
+  besonderheit: erste Kirche des Architekten Otto Bartning in Deutschland
+  einweihung: 1910
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Auferstehungskirche
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Moltkeviertel (Südostviertel)
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  lage: an der Ecke Manteuffel-/Steubenstraße
+  erbaut: 1929
+  bedeutung_fuer_ort: eines der wichtigsten Leitbilder des modernen Kirchenbaus in Mitteleuropa
+GUELTIG_AB: 1929
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gymnasium
+BEZEICHNUNG: Viktoria-Gymnasium
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Moltkeviertel (Südostviertel)
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  lage: am Kurfürstenplatz
+  baubeginn: 1912
+  benannt_nach: Viktoria Luise von Preußen
+  typ: Mädchengymnasium
+  einweihung: 23. April 1914
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wohlfahrtsverband
+BEZEICHNUNG: Essener Tafel
+FACETTE: INFRA
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sitz: denkmalgeschützter Wasserturm am Steeler Berg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Gustav Heinemann
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: ehemaliger Bundespräsident
+  todesjahr: 1976
+  todestag: 1. Januar
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1976
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Gustav Heinemann
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1899
+  todesjahr: 1976
+  beruf: Politiker, Bundespräsident
+  wohnort: Schinkelstraße 34
+  bewohnung_von: 1. Januar 1936
+  bewohnung_bis: Tod (1. Januar 1976)
+GUELTIG_AB: 1936
+GUELTIG_BIS: 1976
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Uta Ranke-Heinemann
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1927
+  todesjahr: 2021
+  berufe: Theologin, Autorin, Politikerin
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Diether Krebs
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Südostviertel
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1947
+  todesjahr: 2000
+  berufe: Schauspieler, Komiker
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Stadtteilwappen Südostviertel
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  entwerfer: Kurt Schweder
+  charakter: hatte nie offiziellen Charakter
+  entwurfszeit: Ende der 1980er Jahre
+  akzeptanz: von der Essener Bevölkerung gut angenommen
+  blasonierung: "In Blau ein schräglinkes goldenenes Schwert, begleitet oben und unten von je drei goldenen Kugeln"
+  symbolik_schwert: Attribut der Stadtpatrone Cosmas und Damian, stellt Bezug zum Essener Stadtwappen her
+  symbolik_kugeln: symbolisieren die sechs Stadtteile (Stadtkern, Nordviertel, Ostviertel, Südostviertel, Südviertel, Westviertel)
+GUELTIG_AB: 1980er Jahre, genauigkeit: "ca."
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: autobahn
+BEZEICHNUNG: Autobahn A40
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: zerschneidet Stadtteil von West nach Ost
+  anschlussstelle: Essen-Huttrop (Großteil liegt auf Südostviertel-Gebiet)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: oeffentlicher_nahverkehr
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Südostviertel | Wikipedia
+EIGENSCHAFTEN:
+  zentrale_straehnbahnlinien: 103, 109
+  zentrale_buslinien: 146
+  periphere_buslinien: 154, 155, 160, 161
+  nachtverkehr_linien: NE5, NE7
+  betreiber: Ruhrbahn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

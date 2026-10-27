@@ -1,231 +1,269 @@
 ENTITÄT: ort
 BEZEICHNUNG: Huttrop
-QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+FACETTE: LAGE | GESCHICHTE | ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.essen.de/dasistessen/stadtteile/huttrop_2/huttrop_startseite.de.jsp | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  lage_relativ: Südöstlich der Innenstadt von Essen
-  typ_entität: Stadtteil der Stadt Essen
-  bebauung: Überwiegend Wohnbebauung
-  erste_erwähnung_jahr: 1319
-  namensanteil_trop: trop bedeutet Dorf
-  namensanteil_hut_deutung: Verschiedenste Deutungen durch Forscher (Höhe, Hügel, Hütte), bleibt Rätsel
-  bevölkerung: 15483
-  bevölkerung_stand: 31. März 2025
-  anteil_unter_18_jahren: 17.1
-  anteil_über_65_jahren: 23.1
-  ausländeranteil_prozent: 22.2
-  grenzt_an_nordwesten: Südostviertel
-  grenzt_an_westen: Moltkeviertel
-GUELTIG_AB: 1319
+  stadtteil_von: Essen
+  lage: südöstlich der Innenstadt
+  bebauung: aufgelockert mit vielen Wohnvierteln und großzügigen Grünflächen
+  erste_urkundliche_erwahnung: 1319
+  gehoert_zu_essen_seit: 1908-04-01
+  einwohner: 15483
+  gueltig_ab: 2025
+  anteil_unter_18_jahren: 17.1 %
+  anteil_ueber_65_jahren: 23.1 %
+  auslaenderanteil: 22.2 %
+GUELTIG_AB: 2025
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: stadtteil
+ENTITÄT: stadtteil_charakteristika
 BEZEICHNUNG: Moltkeviertel
-ORTSTEIL_BEZUG: Huttrop
-QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+FACETTE: LAGE | ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.essen.de/dasistessen/stadtteile/huttrop_2/huttrop_startseite.de.jsp | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  charakterisierung: Stadtplanerisch und architektonisch interessant
-  lage_in_huttrop: Bildet westlichen Bereich von Huttrop
-  ausdehnung: Liegt in Teilen auch im Südostviertel
+  beschreibung: charmanter, stadtplanerisch und architektonisch interessanter Viertelteil
+  charakteristika: alten Bergmannshäuser, großzügige Grünflächen, Gastroviertel am Moltkeplatz
+  besonderheit: erinnert an Rüttenscheid
+GUELTIG_AB: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: stadtteil
-BEZEICHNUNG: Südostviertel
-QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+ENTITÄT: bibliothek
+BEZEICHNUNG: Stadtteilbibliothek Huttrop
+FACETTE: KULTUR UND FREIZEIT | INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.essen.de/dasistessen/stadtteile/huttrop_2/huttrop_startseite.de.jsp | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  nachbarschaft_zu_huttrop: Grenzt an Huttrop im Norden/Nordwesten ohne sichtbare Grenze
+  umgestaltung: September 2023
+  konzept: "Dritte Orte"-Pilotprojekt, erste Bibliothek mit neuem Konzept
+  bedeutung_fuer_ort: Ort der Begegnung, Wohnzimmeratmosphäre
+  adresse: Mählerweg 1
+GUELTIG_AB: 2023
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: wappen
-BEZEICHNUNG: Wappen von Huttrop
+ENTITÄT: friedhof
+BEZEICHNUNG: Parkfriedhof Essen
+FACETTE: LAGE | INFRASTRUKTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.essen.de/dasistessen/stadtteile/huttrop_2/huttrop_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flaeche: 40 hectare, genauigkeit: ca.
+  superlativ: größter Friedhof Essens
+  charakteristikum: imposanter riesiger Eingangsbereich
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: turm
+BEZEICHNUNG: Ruhrturm
+FACETTE: LAGE | ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.essen.de/dasistessen/stadtteile/huttrop_2/huttrop_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 53 meter, genauigkeit: über
+  adresse: Huttropstraße 60
+  beschreibung: absoluter Hingucker, Sehenswürdigkeit
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaude
+BEZEICHNUNG: Ruhrturm (Gebäude)
+FACETTE: GESCHICHTE | ALLTAG
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
 EIGENSCHAFTEN:
-  blasonierung: In Gold (Gelb) ein blauer Hut mit roter gekreuzter Kordel begleitet von fünf blauen aufrechten Tropfen im Verhältnis 2:2:1
-  entwerfer: Kurt Schweder
-  wappentyp: Redendes Wappen - stellt Hut begleitet von Tropfen dar
-  ursprünglicher_status: Hatte nie offiziellen Charakter
-  schaffung_kontext: Ende 1980er Jahre - Heraldiker Kurt Schweder schuf für alle Essener Stadtteile Wappen
-  akzeptanz: Inzwischen gut angenommen von der Essener Bevölkerung
-  symbolik_trop: trop steht für Dorf
-  symbolik_hut: Silbe Hut hat verschiedenste Deutungen, Bedeutung ist in der Heraldik zweitrangig, wichtig ist bildliche Vorstellung des Namenkllangs
-GUELTIG_AB: 1980
+  urspruengliche_funktion: Konzernzentrale E.ON Ruhrgas
+  erbaut: 1973
+  umzug_e_on: 2010-10-18
+  akquisition: 2011-10-01
+  neuer_betreiber: Essener Fakt AG
+  umgewidmete_nutzung: Hotel, Büros, Konferenzzentrum
+GUELTIG_AB: 1973
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.90
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: flaeche
+BEZEICHNUNG: Siepental
+FACETTE: LAGE | FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.essen.de/dasistessen/stadtteile/huttrop_2/huttrop_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: grüne Idylle
+  lage: teils in Huttrop, teils in Bergerhausen
+  nutzergruppen: Naturbegeisterte, Sportler, Familien mit Kindern
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
 ENTITÄT: krankenhaus
 BEZEICHNUNG: Elisabeth-Krankenhaus
-ORTSTEIL_BEZUG: Huttrop
+FACETTE: INFRASTRUKTUR | GESCHICHTE
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
 EIGENSCHAFTEN:
-  superlativ: Älteste Klinik Essens
-  bestehen_seit_jahr: 1844
-  ursprünglicher_standort: Räume des ehemaligen Kapuzinerklosters Essen
-  kirche_im_gebäude: Kirche mit Geschichte bis ins 18. Jahrhundert
-  besonderheit: In letzten Jahren erweitert und saniert
+  superlativ: älteste Klinik Essens
+  gegruendet: 1844
+  urspruenglicher_ort: Räume des ehemaligen Kapuzinerklosters Essen
+  sanierung_und_erweiterung: in letzten Jahren durchgeführt
 GUELTIG_AB: 1844
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.90
+VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
 ENTITÄT: krankenhaus
-BEZEICHNUNG: Huyssens-Stiftung
-ORTSTEIL_BEZUG: Huttrop
+BEZEICHNUNG: Huyssens-Stiftung - Kliniken Essen-Mitte
+FACETTE: INFRASTRUKTUR
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
 EIGENSCHAFTEN:
-  info: Einer der beiden Essener Krankenhäuser in Huttrop
+  beschreibung: Krankenhaus in Huttrop
+GUELTIG_AB: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: friedhof
-BEZEICHNUNG: Parkfriedhof
-ORTSTEIL_BEZUG: Huttrop
-QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
-EIGENSCHAFTEN:
-  superlativ: Größte zusammenhängende Friedhofsfläche in Essen
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.90
-
----
-
-ENTITÄT: friedhof
-BEZEICHNUNG: Alter Friedhof Huttrop
-ORTSTEIL_BEZUG: Huttrop
-QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
-EIGENSCHAFTEN:
-  lage: Südlich der Steeler Straße
-  charakterisierung: Historischer Friedhof
-  grabmäler: Grabmäler von Nachfahren der alten Huttroper Geschlechter
-  denkmalschutz: Mehrere Grabmäler stehen unter Denkmalschutz
-  nutzung_aktuell: Nicht mehr für Bestattungen genutzt
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: sportstätte
-BEZEICHNUNG: Sporthalle Hubertusburg
-ORTSTEIL_BEZUG: Huttrop
-QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
-EIGENSCHAFTEN:
-  lage: Dinnendahlstraße
-  teil_von: Bezirkssportanlage
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.80
-
----
-
-ENTITÄT: gebäude
-BEZEICHNUNG: E.ON Ruhrgas Konzernzentrale (ehemals)
-ORTSTEIL_BEZUG: Huttrop
-QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
-EIGENSCHAFTEN:
-  erbauung_jahr: 1973
-  funktion_ursprünglich: Konzernzentrale von E.ON Ruhrgas
-  umzug: Am 18. Oktober 2010 bezog E.ON Ruhrgas einen Neubau in Rüttenscheid
-  erwerb_neuer_eigentümer: Anfang Oktober 2011 von Essener Fakt AG erworben
-  nachnutzung: Später als Ruhrturm eröffnet
-GUELTIG_AB: 1973
-GUELTIG_BIS: 2010
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.90
-
----
-
-ENTITÄT: gebäude
-BEZEICHNUNG: Ruhrturm
-ORTSTEIL_BEZUG: Huttrop
-QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
-EIGENSCHAFTEN:
-  vorgängergebäude: E.ON Ruhrgas Konzernzentrale (1973 errichtet)
-  erwerb: Anfang Oktober 2011 von Essener Fakt AG erworben
-  nutzung: Hotel, Büros und Konferenzzentrum
-  eröffnung_ungefähr: Nach Oktober 2011
-GUELTIG_AB: 2011
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.8
 
 ---
 
 ENTITÄT: kirche
 BEZEICHNUNG: St. Bonifatius
-ORTSTEIL_BEZUG: Huttrop
+FACETTE: INFRASTRUKTUR | KULTUR UND FREIZEIT
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
 EIGENSCHAFTEN:
-  konfession: Katholisch
+  konfession: katholisch
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Elisabeth-Krankenhaus Kirche
+FACETTE: INFRASTRUKTUR | KULTUR UND FREIZEIT | GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+  geschichte_seit: 18. Jahrhundert
+GUELTIG_AB: 1700
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
 ENTITÄT: kirche
-BEZEICHNUNG: Kirche des Elisabeth-Krankenhauses
-ORTSTEIL_BEZUG: Huttrop
-QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
-EIGENSCHAFTEN:
-  konfession: Katholisch
-  geschichte_seit: 18. Jahrhundert
-GUELTIG_AB: 1700
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.80
-
----
-
-ENTITÄT: kirche
 BEZEICHNUNG: Neue Pauluskirche
-ORTSTEIL_BEZUG: Huttrop
+FACETTE: INFRASTRUKTUR | GESCHICHTE
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
 EIGENSCHAFTEN:
-  konfession: Evangelisch
-  entwidmung: 2007
-  nachnutzung: 2015 zu Altenwohnheim mit Kindertagesstätte umgebaut
+  konfession: evangelisch
+  entweiht: 2007
+  umnutzung: 2015 zu Altenwohnheim mit Kindertagesstätte umgebaut
 GUELTIG_AB: 
 GUELTIG_BIS: 2007
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.90
+VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
 ENTITÄT: institution
 BEZEICHNUNG: Franz Sales Haus
-ORTSTEIL_BEZUG: Huttrop
+FACETTE: INFRASTRUKTUR | GESCHICHTE | ALLTAG
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
 EIGENSCHAFTEN:
-  benannt_nach: Heiliger Franz von Sales
-  konfession: Katholisch
-  zweck: Förderung und Unterstützung von Menschen mit geistigen, psychischen und mehrfachen Behinderungen in ihrer Eigenständigkeit
-  gründung: 3. April 1884
-  gründungsbezeichnung: Verein zur Erziehung und Pflege katholischer idiotischer Kinder beiderlei Geschlechts aus der Rheinprovinz
-  stammsitz_seit: 1892 an Steeler Chaussee (heutige Steeler Straße)
-  mitarbeiter: 800, genauigkeit: ca., zeitpunkt: 2009
-  standorte_essen: 20, zeitpunkt: 2009
-  betreute_personen: 1500, genauigkeit: ca., zeitpunkt: 2009, beschreibung: geistig behinderte Menschen
+  benannt_nach: heiliger Franz von Sales
+  gegruendet: 1884-04-03
+  urspruenglicher_name: Verein zur Erziehung und Pflege katholischer idiotischer Kinder beiderlei Geschlechts aus der Rheinprovinz
+  stammsitz_seit: 1892
+  stammsitz_adresse: Steeler Chaussee (heute Steeler Straße)
+  zweck: Unterstützung von Menschen mit geistigen, psychischen und mehrfachen Behinderungen
+  beschaeftigte: ca. 800, gueltig_ab: 2009
+  betreute_personen: ca. 1500, gueltig_ab: 2009
+  standorte: 20, gueltig_ab: 2009
 GUELTIG_AB: 1884
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.90
+VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: person
-BEZEICHNUNG: Ernst Friedrich Bange
+ENTITÄT: friedhof
+BEZEICHNUNG: Alter Friedhof Huttrop
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
 EIGENSCHAFTEN:
-  geburtsjahr: 1893
-  todesjahr: 1945
-  beruf: Kunsthistoriker
-  beziehung_ort: Sohn von Huttrop
+  lage: südlich der Steeler Straße
+  status: nicht mehr für Bestattungen genutzt
+  denkmalschutz: mehrere denkmalgeschützte Grabmäler
+  grabmaeler: Nachfahren der alten Huttroper Geschlechter
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: strasse
+BEZEICHNUNG: Steeler Straße
+FACETTE: LAGE | GESCHICHTE | ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  historische_namen: Essen-Steeler Landstraße, Steeler Chaussee
+  ausbau: 1788-1794
+  heutiger_name_seit: 1908
+  historische_bedeutung: Teil des Hellwegs, verlief vom Steeler Tor der Essener Stadtmauer zur Stadt Steele
+  rolle_heute: zentrale Einkaufsmeile mit Lebensmittelgeschäften und Dienstleistungen
+GUELTIG_AB: 1788
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: sportanlage
+BEZEICHNUNG: Bezirkssportanlage Huttrop
+FACETTE: INFRASTRUKTUR | FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  lage: Dinnendahlstraße
+  ausstattung: Sporthalle Hubertusburg
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: personengruppe
+BEZEICHNUNG: Ernst Friedrich Bange
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  profession: Kunsthistoriker
+  geboren: 1893
+  gestorben: 1945
+  bezug_zu_huttrop: Sohn des Ortes
 GUELTIG_AB: 1893
 GUELTIG_BIS: 1945
 IST_VERMUTLICH_AKTUELL: false
@@ -233,72 +271,65 @@ VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: person
+ENTITÄT: personengruppe
 BEZEICHNUNG: Leo Huttrop
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
 EIGENSCHAFTEN:
-  geburtsjahr: 1887
-  todesjahr: 1972
-  beruf: Landrat
-  beziehung_ort: Sohn von Huttrop
+  profession: Landrat
+  geboren: 1887
+  gestorben: 1972
+  bezug_zu_huttrop: Sohn des Ortes (möglicher Namensbezug)
 GUELTIG_AB: 1887
 GUELTIG_BIS: 1972
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: straße
-BEZEICHNUNG: Essen-Steeler Landstraße / Steeler Chaussee / Steeler Straße
-ORTSTEIL_BEZUG: Huttrop
-QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
-EIGENSCHAFTEN:
-  verlauf_ursprünglich: Vom Steeler Tor der Essener Stadtmauer zur Stadt Steele
-  verlauf_durch: Großbauerschaft Huttrop
-  teil_des: Hellwegs
-  ausgebaut: 1788-1794
-  namengebung_nach_ausbauerung: Steeler Chaussee genannt
-  namengebung_seit: Seit 1908 Steeler Straße
-GUELTIG_AB: 1788
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.90
-
----
-
-ENTITÄT: hof
-BEZEICHNUNG: Volmerhof
-ORTSTEIL_BEZUG: Huttrop
-QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
-EIGENSCHAFTEN:
-  charakterisierung: Mittelalterlicher Hof
-  archäologische_spuren: Ja, gibt es
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.80
-
----
-
-ENTITÄT: großbauerschaft
-BEZEICHNUNG: Großbauerschaft Huttrop
-ORTSTEIL_BEZUG: Huttrop
-QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
-EIGENSCHAFTEN:
-  entstehung: Im 17. Jahrhundert aus drei Kleinbauerschaften - Brünglinghausen, Hovescheidt, Huttrop (letzteres erstmals 1319 erwähnt)
-  infrastruktur: Essen-Steeler Landstraße verlief durch sie
-GUELTIG_AB: 1700
-GUELTIG_BIS: 1808
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: administrative_einheit
-BEZEICHNUNG: Munizipalität Altenessen
+ENTITÄT: wappen
+BEZEICHNUNG: Stadtteilwappen Huttrop
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
 EIGENSCHAFTEN:
-  gründung_datum: 1. September 1808
-  politischer_kontext: Im von Napoleon errichteten Großherzogtum Berg
-  territorium_komponenten: Huttrop, Frillendorf, Katernberg, Kray, Leithe, Rotthausen, Rüttenscheid, Schonnebeck, Stoppenberg
-  überführung: 1815 nach Niederlage Napoleons durch Wiener Kongress zu Preußen zur Bürgermeisterei Altenessen
+  entworfen_von: Kurt Schweder
+  entworfen_zeitraum: Ende 1980er Jahre
+  blasonierung: In Gold (Gelb) ein blauer Hut mit roter gekreuzter Kordel begleitet von fünf blauen aufrechten Tropfen im Verhältnis 2:2:1
+  symbolik: redendes Wappen mit Hut (Namensanspielung) und Tropfen (trop = Dorf)
+  typus: heraldisches Wappen ohne offiziellen Charakter ursprünglich
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: namensherkunft
+BEZEICHNUNG: Huttrops Ortsname
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.essen.de/dasistessen/stadtteile/huttrop_2/huttrop_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alte_namen: Huttorph, Huttorpe, Huddrop, Huttroppe
+  namenteil_trop: Dorf (eindeutig)
+  namenteil_hut: unklar, verschiedenste Deutungen, bleibt Rätsel
+  moegliche_deutungen_hut: Höhe, Hügel, Hütte
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Gründung Munizipalität Altenessen
+FACETTE: GESCHICHTE | POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1808-09-01
+  herrscher: Napoleon (Großherzogtum Berg)
+  umfang: Huttrop gehörte zur Munizipalität Altenessen zusammen mit Frillendorf, Katernberg, Kray, Leithe, Rotthausen, Rüttenscheid, Schonnebeck, Stoppenberg
 GUELTIG_AB: 1808
 GUELTIG_BIS: 1815
 IST_VERMUTLICH_AKTUELL: false
@@ -306,29 +337,130 @@ VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: administrative_einheit
-BEZEICHNUNG: Bürgermeisterei Altenessen
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Auflösung und Neugliederung nach Wiener Kongress
+FACETTE: GESCHICHTE | POLITIK
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
 EIGENSCHAFTEN:
-  entstehung: 1815 nach Niederlage Napoleons durch Wiener Kongress
-  vorgänger: Munizipalität Altenessen
-  staat: Preußen
-  änderung: Am 1. Januar 1874 wurde Huttrop (mit allen Teilen außer Karnap) ausgegliedert und kam zur Bürgermeisterei Stoppenberg
+  datum: 1815
+  folge: Neuordnung durch Wiener Kongress
+  ergebnis: Übergang zu Preußen, Umwandlung in Bürgermeisterei Altenessen
+  grund: Niederlage Napoleons
 GUELTIG_AB: 1815
-GUELTIG_BIS: 1874
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: administrative_einheit
-BEZEICHNUNG: Bürgermeisterei Stoppenberg
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Ausgliderung und Zuordnung zur Bürgermeisterei Stoppenberg
+FACETTE: GESCHICHTE | POLITIK
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
 EIGENSCHAFTEN:
-  gründung_datum: 1. Januar 1874
-  gründungsanlass: Huttrop (außer Karnap) aus Bürgermeisterei Altenessen ausgegliedert
-  änderung: Am 1. April 1908 wurde Huttrop zur Stadt Essen eingemeindet
+  datum: 1874-01-01
+  detail: Huttrop ausgegliedert aus Bürgermeisterei Altenessen
+  neue_zuordnung: Bürgermeisterei Stoppenberg
 GUELTIG_AB: 1874
 GUELTIG_BIS: 1908
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Eingemeindung zu Essen
+FACETTE: GESCHICHTE | POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1908-04-01
+  ergebnis: Huttrop wird Stadtteil der Stadt Essen
+GUELTIG_AB: 1908
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: schuleinrichtung
+BEZEICHNUNG: Robert-Schmidt-Berufskolleg
+FACETTE: INFRASTRUKTUR | BILDUNG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  typ: Berufskolleg
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schuleinrichtung
+BEZEICHNUNG: Berufskolleg Franz Sales Schule
+FACETTE: INFRASTRUKTUR | BILDUNG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  typ: Berufskolleg
+  spezialisierung: Fachkräfteausbildung für die Behindertenhilfe
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schuleinrichtung
+BEZEICHNUNG: Franz Sales Förderschule
+FACETTE: INFRASTRUKTUR | BILDUNG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  typ: Förderschule
+  zielgruppe: Kinder und Jugendliche mit geistiger Behinderung
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verkehrsinfra
+BEZEICHNUNG: Öffentlicher Personennahverkehr Huttrop
+FACETTE: INFRASTRUKTUR | LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  strassenbahn: Linien 103, 109
+  buslinien: 146, 160, 161, NE5, NE14
+  nächster_bahnhof: Essener Hauptbahnhof (unweit entfernt)
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verkehrsinfra
+BEZEICHNUNG: Autobahnanbindung Huttrop
+FACETTE: INFRASTRUKTUR | LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  direkter_anschluss: A 52 nach Düsseldorf
+  indirekter_anschluss: A 40 (Ruhrschnellweg) über Stadtteil Südostviertel
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historischer_ort
+BEZEICHNUNG: Volmerhof
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Huttrop | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: historischer Hof in Huttrop
+  archaeologische_spuren: mittelalterliche Funde vorhanden
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8

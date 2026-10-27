@@ -1,264 +1,220 @@
 ID: 410-hardert/001
 ENTITÄT: ort
 BEZEICHNUNG: Hardert
-QUELLE: https://www.hardert.de/geschichte.html | Gemeinde-Webseite
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Hardert | Wikipedia
 EIGENSCHAFTEN:
-  erste_urkundliche_erwähnung: 1321
-GUELTIG_AB: 1321
-IST_VERMUTLICH_AKTUELL: true
+  bundesland: Rheinland-Pfalz
+  landkreis: Neuwied
+  verbandsgemeinde: Rengsdorf-Waldbreitbach
+  region: Westerwald
+  position_relativ: nordöstlich von Rengsdorf
+  relief_kontext: östlich und oberhalb des Birzenbachs
 VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 410-hardert/002
 ENTITÄT: ort
 BEZEICHNUNG: Hardert
+FACETTE: GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Hardert | Wikipedia
 EIGENSCHAFTEN:
-  ortstyp: Ortsgemeinde
-  bundesland: Rheinland-Pfalz
-  landkreis: Neuwied
-  verbandsgemeinde: Rengsdorf-Waldbreitbach
-  status: staatlich anerkannter Luftkurort
-  landstrich: Westerwald
-  lage_relativ: nordöstlich von Rengsdorf
-  fliessgewaesser_bezug: östlich und oberhalb des Birzenbachs
-GUELTIG_AB: 1321
-IST_VERMUTLICH_AKTUELL: true
+  erste_urkundliche_erwaehnung: 1321
+  erste_erwaehnung_kontext: Pachturkunde des Stifts St. Kastor in Koblenz
+  erste_erwaehnung_name: Harterode
+  namensherkunft: hart (Hochwald/Bergwald) + -rode (gerodetem Gelände)
+  namensentwicklung: Harterode → Hartenrode/Hartert → Hardert
+  adelsgeschlecht_ende: 1553
+  adelsgeschlecht_letzter: Johann von Hartenrade
+  besitzer_ab_1553: Grafen zu Wied
 VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 410-hardert/003
 ENTITÄT: ort
 BEZEICHNUNG: Hardert
-QUELLE: https://de.wikipedia.org/wiki/Hardert | Wikipedia
-EIGENSCHAFTEN:
-  namensherkunft: "Hart (Hochwald oder Bergwald) + -rode (gerodetes Gelände); Silbe -rode veränderte sich zu heutiger Endsilbe -ert"
-  historische_namensvarianten: Harterode, Hartenrode
-GUELTIG_AB: 1321
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 410-hardert/004
-ENTITÄT: fest
-BEZEICHNUNG: 700-Jahr-Feier Hardert
+FACETTE: GESCHICHTE
 QUELLE: https://www.hardert.de/geschichte.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  anlass: 700-jähriges Bestehen Harderts
-  datum_durchfuehrung: 01. und 03. Juni 2022
-  urspruengliches_jahr: 2021
-  grund_verschiebung: Corona-Pandemie
+  festakt_700_jahre: 1. und 3. Juni 2022
+  festakt_grund: Nachholung wegen Corona-Verschiebung (ursprünglich 2021)
+GUELTIG_AB: 2022
 IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 410-hardert/004
+ENTITÄT: ort
+BEZEICHNUNG: Hardert
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Hardert | Wikipedia
+EIGENSCHAFTEN:
+  charakteristikum: Luftkurort
+  status_luftkurort: staatlich anerkannt
 VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 410-hardert/005
-ENTITÄT: adelsgeschlecht
-BEZEICHNUNG: derer von Hartenrode / Hardert
+ENTITÄT: berg
+BEZEICHNUNG: Steinkopf
+FACETTE: LAGE
+ORTSTEIL_BEZUG: nördlich von Hardert
 QUELLE: https://de.wikipedia.org/wiki/Hardert | Wikipedia
 EIGENSCHAFTEN:
-  ortsnamensherkunft: benannt nach diesem Geschlecht
-  ausgestorben_mit: Johann von Hartenrade
-  ausgestorben_jahr: 1553
-  gesiegelt_exemplare: Heinrich von Hardert (1483), Johann von Hardert (1523 und 1543)
-GUELTIG_BIS: 1553
-IST_VERMUTLICH_AKTUELL: false
+  hoehe: 386
+  hoehe_einheit: m ü. NHN
+  lage_relativ: nördlich von Hardert
 VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 410-hardert/006
-ENTITÄT: adelsgeschlecht
-BEZEICHNUNG: Grafen zu Wied
-QUELLE: https://de.wikipedia.org/wiki/Hardert | Wikipedia
+ENTITÄT: verein
+BEZEICHNUNG: Gesangverein 1888 Hardert
+FACETTE: FREIZEIT
+QUELLE: https://www.hardert.de/vereine.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  besitzergreifer_hardert: nach 1553
-  spaetere_titel: Fürsten zu Wied
-  wappenkonnexion: Farben Rot und Gold aus Wappen der Grafen/Fürsten zu Wied ins Hardert-Wappen übernommen
-GUELTIG_AB: 1553
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+  gruendungsjahr: 1888
+  dauer_aktiv: 135
+  fokus: Chorgesang
+  bedeutung_fuer_ort: ältester kulturtragende Verein in Hardert
+GUELTIG_AB: 1888
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 410-hardert/007
-ENTITÄT: stift
-BEZEICHNUNG: Stift St. Kastor
-QUELLE: https://de.wikipedia.org/wiki/Hardert | Wikipedia
+ENTITÄT: verein
+BEZEICHNUNG: Burschenverein Club Edelweiß
+FACETTE: FREIZEIT
+QUELLE: https://www.hardert.de/vereine.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  ort: Koblenz
-  bezug_zu_hardert: Aussteller der Pachturkunde mit erster urkundlicher Erwähnung Harderts
-  bezugsjahr: 1321
-GUELTIG_AB: 1321
-IST_VERMUTLICH_AKTUELL: false
+  charakterisierung: traditionell
+  dauer_aktiv: 100
+  einfluss: kulturelles und gemeinschaftliches Leben
+IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 ---
 ID: 410-hardert/008
-ENTITÄT: verwaltungsgremium
-BEZEICHNUNG: Gemeinderat Hardert
-QUELLE: https://de.wikipedia.org/wiki/Hardert | Wikipedia
+ENTITÄT: verein
+BEZEICHNUNG: Feuerwehrverein Hardert
+FACETTE: ALLTAG
+QUELLE: https://www.hardert.de/vereine.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  mitgliederzahl: 12
-  wahltermin: 9. Juni 2024
-  wahlmodus: Mehrheitswahl
-  vorsitzender: Ortsbürgermeister (ehrenamtlich)
+  gruendungsdatum: 3. März 1996
+  aktivitaeten: Pflege der Kameradschaft, Traditions- und Dorfleben
+GUELTIG_AB: 1996
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 410-hardert/009
-ENTITÄT: ortsbuergermeister
+ENTITÄT: verein
+BEZEICHNUNG: Alte Burschen Hardert 1984
+FACETTE: FREIZEIT
+QUELLE: https://www.hardert.de/vereine.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendungsjahr: 1984
+  zusammensetzung: Eingesessene und Zugezogene
+  aktivitaeten: Dorfengagement und Kameradschaftspflege
+GUELTIG_AB: 1984
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 410-hardert/010
+ENTITÄT: verein
+BEZEICHNUNG: 1.FCH-Frauenclub Hardert
+FACETTE: FREIZEIT
+QUELLE: https://www.hardert.de/vereine.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendungsdatum: 4. Oktober 1991
+  mitglieder_bei_gruendung: 32
+  mitglieder_aktuell: 70
+  mitglieder_aktuell_genauigkeit: über
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 410-hardert/011
+ENTITÄT: buergermeister
 BEZEICHNUNG: Heiko Schlosser
+FACETTE: POLITIK
 QUELLE: https://de.wikipedia.org/wiki/Hardert | Wikipedia
 EIGENSCHAFTEN:
+  amt_titel: Ortsbürgermeister
   amtsantritt: 19. Juni 2019
-  stimmenanteil_wahl_2019: 72.6
-  wiedergewahl_datum: 9. Juni 2024
-  stimmenanteil_wiedergewahl_2024: 88.8
-  amtszeit_nach_wiedergewahl_jahre: 5
+  wahl_stimmenanteil: 72,60
+  wahl_datum: 26. Mai 2019
+  wiederwahl_datum: 9. Juni 2024
+  wiederwahl_stimmenanteil: 88,8
+  wiederwahl_kontext: einziger Bewerber
 GUELTIG_AB: 2019
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 ---
-ID: 410-hardert/010
-ENTITÄT: ortsbuergermeister
+ID: 410-hardert/012
+ENTITÄT: gemeinderat
+BESCHREIBUNG: Gemeinderat Hardert
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Hardert | Wikipedia
+EIGENSCHAFTEN:
+  anzahl_mitglieder: 12
+  wahl_datum: 9. Juni 2024
+  wahlmodus: Mehrheitswahl
+  vorsitz: Ortsbürgermeister
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 410-hardert/013
+ENTITÄT: buergermeister_vorgaenger
 BEZEICHNUNG: Rainer Philippi
+FACETTE: POLITIK
 QUELLE: https://de.wikipedia.org/wiki/Hardert | Wikipedia
 EIGENSCHAFTEN:
   amtszeit: 2016-2019
-GUELTIG_AB: 2016
 GUELTIG_BIS: 2019
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.95
 ---
-ID: 410-hardert/011
-ENTITÄT: ortsbuergermeister
+ID: 410-hardert/014
+ENTITÄT: buergermeister_vorgaenger
 BEZEICHNUNG: Günter Schreiber
+FACETTE: POLITIK
 QUELLE: https://de.wikipedia.org/wiki/Hardert | Wikipedia
 EIGENSCHAFTEN:
   amtszeit: 2009-2014
-GUELTIG_AB: 2009
 GUELTIG_BIS: 2014
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.95
 ---
-ID: 410-hardert/012
-ENTITÄT: ortsbuergermeister
+ID: 410-hardert/015
+ENTITÄT: buergermeister_vorgaenger
 BEZEICHNUNG: Armin Bierbrauer
+FACETTE: POLITIK
 QUELLE: https://de.wikipedia.org/wiki/Hardert | Wikipedia
 EIGENSCHAFTEN:
-  amtszeit_bis: bis 2009
+  amtszeit_bis: 2009
 GUELTIG_BIS: 2009
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
----
-ID: 410-hardert/013
-ENTITÄT: wappen
-BEZEICHNUNG: Wappen von Hardert
-QUELLE: https://de.wikipedia.org/wiki/Hardert | Wikipedia
-EIGENSCHAFTEN:
-  genehmigung_jahr: 1981
-  genehmigende_behoerde: Bezirksregierung Koblenz
-  grundfarbe: Rot
-  symbolik_schwerter: "Deuten auf Geschlecht derer von Hartenrode hin; im Siegel Heinrich von Hardert (1483) und Johann von Hardert (1523, 1543) vorhanden"
-  symbolik_eichenblatt: "Versinnbildlichen den Waldreichtum der Gemeinde"
-  symbolik_kornähre: "Versinnbildlicht den Ackerbau der Gemeinde"
-  farbherkunft: "Rot und Gold aus Wappen der Grafen, später Fürsten zu Wied"
-GUELTIG_AB: 1981
-IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 410-hardert/014
-ENTITÄT: berg
-BEZEICHNUNG: Steinkopf
-QUELLE: https://de.wikipedia.org/wiki/Hardert | Wikipedia
-EIGENSCHAFTEN:
-  hoehe: 386
-  einheit: m ü. NHN
-  lage_relativ: nördlich von Hardert
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 410-hardert/015
-ENTITÄT: bach
-BEZEICHNUNG: Birzenbach
-QUELLE: https://de.wikipedia.org/wiki/Hardert | Wikipedia
-EIGENSCHAFTEN:
-  lage_relativ_zu_hardert: Hardert liegt östlich und oberhalb des Birzenbachs
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
 ---
 ID: 410-hardert/016
-ENTITÄT: wald
-BEZEICHNUNG: Staatsforst Dierdorf
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen von Hardert
+FACETTE: ALLTAG
 QUELLE: https://de.wikipedia.org/wiki/Hardert | Wikipedia
 EIGENSCHAFTEN:
-  lage_relativ: grenzt westlich an Hardert
+  genehmigung_datum: 1981
+  genehmigungsbehoerde: Bezirksregierung Koblenz
+  farbgebung: Rot und Gold
+  beschreibung: zwei schräggekreuzte, gestürzte Schwerter mit silbernen Klingen und goldenen Griffen (linker in Form von drei Viertel eines Kleeblattkreuzes), zwei goldene Eichenblätter, goldene Kornähre mit zwei abgebogenen Blättern
+  symbolik_schwerter: Adelsgeschlecht derer von Hartenrode
+  symbolik_eichenblaetter: Waldreichtum
+  symbolik_aehre: Ackerbau
+  farbherkunft: Wappen der Grafen/Fürsten zu Wied
+GUELTIG_AB: 1981
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.90
 ---
 ID: 410-hardert/017
-ENTITÄT: bundesstrasse
-BEZEICHNUNG: B 256
-QUELLE: https://de.wikipedia.org/wiki/Hardert | Wikipedia
-EIGENSCHAFTEN:
-  strecke: Neuwied nach Altenkirchen
-  lage_relativ: verläuft westlich der Gemeinde Hardert
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 410-hardert/018
-ENTITÄT: autobahnansschlussstelle
-BEZEICHNUNG: Neuwied
-QUELLE: https://de.wikipedia.org/wiki/Hardert | Wikipedia
-EIGENSCHAFTEN:
-  autobahn: A 3
-  nummer: 36
-  charakterisierung: nächste zur Gemeinde Hardert
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 410-hardert/019
-ENTITÄT: bahnhof
-BEZEICHNUNG: Bahnhof Neuwied
-QUELLE: https://de.wikipedia.org/wiki/Hardert | Wikipedia
-EIGENSCHAFTEN:
-  bahnstrecke: rechte Rheinstrecke
-  charakterisierung: nächstgelegener Bahnhof zu Hardert
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 410-hardert/020
-ENTITÄT: bahnhof
-BEZEICHNUNG: Koblenz Hauptbahnhof
-QUELLE: https://de.wikipedia.org/wiki/Hardert | Wikipedia
-EIGENSCHAFTEN:
-  bahnstrecke: linke Rheinstrecke
-  zugtyp: ICE
-  charakterisierung: nächster ICE-Halt zu Hardert
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 410-hardert/021
-ENTITÄT: bahnhof
-BEZEICHNUNG: Bahnhof Montabaur
-QUELLE: https://de.wikipedia.org/wiki/Hardert | Wikipedia
-EIGENSCHAFTEN:
-  bahnstrecke: Schnellfahrstrecke Köln–Rhein/Main
-  zugtyp: ICE
-  charakterisierung: nächster ICE-Halt zu Hardert
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 410-hardert/022
 ENTITÄT: ort
 BEZEICHNUNG: Hardert
+FACETTE: WIRTSCHAFT
 QUELLE: https://de.wikipedia.org/wiki/Hardert | Wikipedia
 EIGENSCHAFTEN:
-  wirtschaftliche_praegung_historisch: Land- und Forstwirtschaft
-  entwicklung_landwirtschaft: "In der zweiten Hälfte des 20. Jahrhunderts ging die Zahl der landwirtschaftlichen Betriebe stark zurück"
-  einwohner_1815: 160
-  einwohner_1835: 256
-  einwohner_1871: 290
-  einwohner_1905: 319
-  einwohner_1939: 347
-  einwohner_1950: 397
-  einwohner_1961: 396
-  einwohner_1970: 447
-  einwohner_1987: 632
-  einwohner_1997: 771
-  einwohner_2005: 850
-  einwohner_2025: 847
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+  wirtschaftsgeschichte: Land- und Forstwirtschaft über Jahrhunderte
+  wirtschaftswandel: 2. Hälfte 20. Jahrhundert starker Rückgang landwirtschaftlicher Betriebe
+VERTRAUEN_EXTRAKTION: 0.90

@@ -1,0 +1,612 @@
+ENTITÄT: ort
+BEZEICHNUNG: Rengsdorf
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  gemeindetyp: Ortsgemeinde
+  landkreis: Neuwied
+  bundesland: Rheinland-Pfalz
+  verwaltungssitz_von: Verbandsgemeinde Rengsdorf-Waldbreitbach
+  jahresniederschlag_mm: 834
+GUELTIG_AB: 857
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  aelteste_urkunde: um 857
+  aelteste_urkunde_erwaehnt_in: Pfarrzehntbezirk
+  aelteste_urkunde_kontext: unter Erzbischof Theutgart von Trier (847–868)
+  gehoerte_zu: Koblenzer Kastorstift
+  beschreibung: Grenzen des Rengsdorfer Pfarrzehntbezirks wurden beschrieben
+GUELTIG_AB: 857
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  anerkennung_heilklimatischer_kurort: 1963
+  kurort_tradition_seit: 19. Jahrhundert
+  bedeutung_fuer_ort: Heilklimatischer Kurort mit gesundheitstouristischer Tradition
+GUELTIG_AB: 1963
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  gemeinderat_groesse: 20
+  gemeinderat_wahl_modus: Mehrheitswahl
+  gemeinderat_wahl_jahr: 2024
+  gemeinderat_plus_ortsbuergermeister: true
+GUELTIG_AB: 2024
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Marc Dillenberger
+FACETTE: POLITIK
+QUELLE: https://www.rengsdorf-waldbreitbach.de/gemeinden-infrastruktur/gemeinden/rengsdorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtsbeginn: 9. Dezember 2024
+  adresse: Im Rosenberg 6, 56579 Rengsdorf
+  erreichbarkeit: +49 2634 2341, info@kurortrengssdorf.de
+  vorherige_funktion: Erster Beigeordneter
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Christian Robenek
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  amtsantritt: Juli 2014
+  amtsende: Juli 2024
+  wiederwahl: 26. Mai 2019
+  wiederwahl_stimmen_prozent: 75,70
+GUELTIG_AB: 2014
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Karlheinz Kleinmann
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  amtsdauer_jahre: 15
+GUELTIG_AB: 1999
+GUELTIG_BIS: 2014
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule Rengsdorf
+FACETTE: INFRA
+QUELLE: https://www.rengsdorf-waldbreitbach.de/gemeinden-infrastruktur/gemeinden/rengsdorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Schulstraße 1, 56579 Rengsdorf
+  kontakt: +49 2634 1403
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kindergarten
+BEZEICHNUNG: Sonnenland
+FACETTE: INFRA
+QUELLE: https://www.rengsdorf-waldbreitbach.de/gemeinden-infrastruktur/gemeinden/rengsdorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Pfarrer-Knappmann-Straße 7, Rengsdorf
+  kontakt: +49 2634 1415
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kindergarten
+BEZEICHNUNG: Schulhüpfer
+FACETTE: INFRA
+QUELLE: https://www.rengsdorf-waldbreitbach.de/gemeinden-infrastruktur/gemeinden/rengsdorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Schulstraße 1, Rengsdorf
+  kontakt: +49 151 12924215
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bad
+BEZEICHNUNG: Freibad Rengsdorf
+FACETTE: FREIZEIT
+QUELLE: https://www.kurortrengsdorf.de/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: inmitten wunderschöner Natur
+  bedeutung_fuer_ort: Freizeitangebot, Teil des Kurortangebots
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Bismarcksäule
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  hoehe_m: 13
+  einweihung: 1903
+  benannt_nach: Fürst Otto von Bismarck
+  bismarck_lebensjahre: 1815–1898
+  lage: Kaisereichenplatz
+  bedeutung_fuer_ort: Ehrenmal des ersten deutschen Reichskanzlers
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: archaeologisches_denkmal
+BEZEICHNUNG: Römergraben
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  urspruengliche_interpretation: Ueberbleibsel des römischen Limes
+  tatsaechliche_herkunft: fränkische Zeit
+  funktion: Wehr- und Grenzschutz zwischen Siedlungsbereichen im frühen Mittelalter
+  wall_besonderheit: seitlich mit Gebück bewachsen
+  laenge_erkenntnis_m: ca. 750
+  charakterisierung: hervorragend geeignet für Spaziergänge und Wanderungen mit exzellenter Aussicht über Neuwieder Becken
+  teil_von_fernwanderweg: Rheinsteig
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Rock the Forest
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  zeitpunkt: jährlich im Sommer
+  organisator: Rockfreunde Rengsdorf
+  beschreibung: Rockmusik-Veranstaltung mit überregionalen Künstlern
+  bekannte_künstler: Kadavar, Rage, Uriah Heep (in den letzten Jahren)
+  bedeutung_fuer_ort: überörtlich bekannte Veranstaltung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: St. Martinsumzug
+FACETTE: FREIZEIT
+QUELLE: https://www.kurortrengsdorf.de/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt_beispiel: 06. November 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Weihnachtsmarkt
+FACETTE: FREIZEIT
+QUELLE: https://www.kurortrengsdorf.de/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt_beispiel: 05. Dezember 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Kirmes
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  organisator: Burschenverein Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Karneval
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  organisator: Burschenverein Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Lohmann & Rauscher
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  produktbereich: Verband- und Medikalstoffe
+  bekanntheit: bundesweit bekannt
+  haupt_verwaltungssitz: Rengsdorf
+  bedeutung_fuer_ort: bedeutender Arbeitgeber und Wirtschaftsfaktor
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: monte mare
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  leistung: Badebetreiber
+  bekanntheit: bundesweit bekannt
+  haupt_verwaltungssitz: Rengsdorf
+  bedeutung_fuer_ort: Angebot für Freizeit und Gesundheitstourismus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Berge & Meer
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  leistung: Reiseunternehmen
+  mutterkonzern: Beteiligungsunternehmen der TUI Deutschland
+  bekanntheit: bundesweit bekannt
+  haupt_verwaltungssitz: Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: meta GmbH & Co KG
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  produktbereich: Trennwandanlagen
+  absatzmarkt: international
+  bekanntheit: international
+  haupt_verwaltungssitz: Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Maschinenbau Runkel GmbH
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  betriebstyp: Fertigungsbetrieb
+  ansaessig_in: Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Winkler und Dünnebier Süßwarenmaschinen GmbH
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  betriebstyp: Fertigungsbetrieb
+  produktbereich: Süßwarenmaschinen
+  ansaessig_in: Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: strecke
+BEZEICHNUNG: Bundesstraße 256
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  verlauf_durch_gemeinde: direkt durch die Gemeinde
+  verbindung: Neuwied und Altenkirchen
+  busverbindung: regionaler Busverkehr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Ortsumgehung B 256
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  baubeginn: 3. Juli 2006
+  budgetiert_kosten_euro: 35000000
+  laenge_km: ca. 4
+  freigabe_verkehr: 23. September 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gemeinde
+BEZEICHNUNG: Saint-Pierre-le-Moûtier
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: Burgund
+  partnerschaft_seit: 2005
+  partnerschaft_mit: Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: fernwanderweg
+BEZEICHNUNG: Rheinsteig
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  verlauf_durch_rengsdorf: ja
+  route_detail: über Römergraben mit Aussicht auf Neuwieder Becken
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Friedrich Karl Henkel
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1848–1930
+  beruf: deutscher Unternehmer
+  leistung: Gründer des Henkel-Konzerns
+  verbindung_zu_rengsdorf: hatte seinen Alterswohnsitz in Rengsdorf und verstarb dort
+  bedeutung_fuer_ort: Namensgeber oder wirtschaftlicher Einfluss möglich
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Curt Karl Rüschhoff
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1887–1969
+  beruf: deutscher Architekt
+  werk_beispiel: plante Schlosshotel Bühlerhöhe (u. a.)
+  verbindung_zu_rengsdorf: wirkte im Ort
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Richard Winkler
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1898–1972
+  funktion: Seniorchef und persönlich haftender Gesellschafter der Firma Winkler+Dünnebier
+  ehrung: Ehrenbürger der Stadt Neuwied
+  verbindung_zu_rengsdorf: Unternehmer mit Betrieb in Rengsdorf
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johannes Kintzing
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  geborensjahr: 1681
+  beruf: Müller
+  familienverhaeltnis: Großvater von Peter IV. Kinzing (Uhrmacher und Mechaniker)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Gerhard Curdes
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1933–2025
+  position: Universitätsprofessor
+  fachgebiet: Städtebau und Landesplanung
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Norbert van Heyst
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  geborensjahr: 1944
+  rang: General der Bundeswehr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Sportverein Rengsdorf
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Fußball
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Turnverein
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Turnen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: TC-Rengsdorf
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Tennis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Burschenverein Rengsdorf
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  funktion: organisiert Feste wie Kirmes und Karneval
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Rockfreunde Rengsdorf
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  funktion: organisiert Veranstaltung Rock the Forest
+  bedeutung_fuer_ort: überörtlich bekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Christlicher Verein Junger Menschen (CVJM) Rengsdorf e. V.
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 2005
+  gruendungsinitiator: Pfarrer Friedemann Stinder
+  angebote: monatliche Kinderbibeltage, Jugendtreffs, Indiaca-Sportgruppe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Freiwillige Feuerwehr Rengsdorf
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  aufgabe: Rettungsdienste und Katastrophenschutz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Deutsches Rotes Kreuz (DRK) Rengsdorf
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  aufgabe: Rettungsdienste und Katastrophenschutz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: DLRG Rengsdorf
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  aufgabe: Rettungsdienste und Katastrophenschutz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Friedhof Rengsdorf
+FACETTE: INFRA
+QUELLE: https://www.rengsdorf-waldbreitbach.de/gemeinden-infrastruktur/gemeinden/rengsdorf/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Grillhütte
+FACETTE: FREIZEIT
+QUELLE: https://www.rengsdorf-waldbreitbach.de/gemeinden-infrastruktur/gemeinden/rengsdorf/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Sportstätten
+FACETTE: FREIZEIT
+QUELLE: https://www.rengsdorf-waldbreitbach.de/gemeinden-infrastruktur/gemeinden/rengsdorf/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: ort
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Schule für Nachrichtenwesen der Bundeswehr im Hotel Rheinhöhe
+  ereignis_zeit: März 1956 – Oktober 1958
+  ereignis_detail: zog nach Bad Ems
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1956
+GUELTIG_BIS: 1958
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rengsdorf | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Radio-Kompanie im Hotel Rheinhöhe
+  ereignis_zeit: ab Dezember 1959
+  ereignis_detail: später als PSV-Bataillon 1 in Andernach stationiert
+GUELTIG_AB: 1959
+GUELTIG_BIS: 1959
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85

@@ -1,0 +1,267 @@
+ENTITÄT: ort
+BEZEICHNUNG: Hümmerich
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Hümmerich | Wikipedia
+EIGENSCHAFTEN:
+  art: Ortsgemeinde
+  landkreis: Neuwied
+  bundesland: Rheinland-Pfalz
+  verbandsgemeinde: Rengsdorf-Waldbreitbach
+  naturpark: Rhein-Westerwald
+  lage_zu_rengsdorf: ca. 10 km nördlich
+  ortsteile: Ober- und Niederhümmerich
+  hoehe_oberhümmerich: 360 [m ü. NHN]
+  hoehe_niederhümmerich: 320 [m ü. NHN]
+  tiefster_punkt: 207 [m ü. NHN]
+  wohnplaetze: Hümmericher Mühle, Karlshof
+  gewaesser: Hümmericher Bach (mündet in Dasbach)
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: ort
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Hümmerich | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: Ende 9. Jahrhundert
+  gruendung_form: einzelner Hof
+  aelteste_besiedlung_nachweis: spitznackiges Steinbeil (Flint), jüngere Steinzeit
+  aelteste_besiedlung_fund_ort: Oberhümmerich
+  aelteste_besiedlung_fund_jahr: 1935
+  aelteste_besiedlung_zeitraum: 3000-1600 [v.Chr.]
+  historische_grenzziehung: Grafschaft Wied / Kurfürstentum Trier
+  grenzsteine_jahr: 1788
+GUELTIG_BIS: 900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Hümmerich | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_1815: 108
+  einwohner_1835: 172
+  einwohner_1871: 250
+  einwohner_1905: 271
+  einwohner_1939: 226
+  einwohner_1950: 265
+  einwohner_1961: 263
+  einwohner_1970: 299
+  einwohner_1987: 526
+  einwohner_2005: 759
+  einwohner_2011: 785
+  einwohner_2017: 768
+  einwohner_2022: 810
+  einwohner_2025: 808
+  ratsmitglieder: 12
+  gemeinderatswahl: 9. Juni 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Olaf Reinhäckel
+FACETTE: POLITIK
+QUELLE: https://www.rengsdorf-waldbreitbach.de/gemeinden-infrastruktur/gemeinden/huemmerich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Ortsbürgermeister
+  adresse: Mühlenstraße 9, 53547 Hümmerich
+  email: o.reinhaeckel@rz-online.de
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Achim Schmidt
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Hümmerich | Wikipedia
+EIGENSCHAFTEN:
+  amt: Ortsbürgermeister
+  amtszeit: 10 Jahre
+  wahl_2019: 86,23 [% Stimmenanteil]
+  wahltyp_2019: Direktwahl am 26. Mai 2019
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Edwin Roth
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Hümmerich | Wikipedia
+EIGENSCHAFTEN:
+  amt: Ortsbürgermeister
+  amtszeit: 15 Jahre
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Dicke Eiche
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hümmerich | Wikipedia
+EIGENSCHAFTEN:
+  botanischer_name: Quercus petraea
+  lage: Ortseingang an Landesstraße 270
+  pflanzung: um 1700
+  bedeutung_fuer_ort: Bestandteil des Ortswappens
+  naturdenkmal_nummer: ND-7138-441
+  register: offizielles Naturdenkmal Rheinland-Pfalz
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: auszeichnung
+BEZEICHNUNG: Staatlich anerkannter Luftkurort
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hümmerich | Wikipedia
+EIGENSCHAFTEN:
+  vergabe_grund: 1. Platz Wettbewerb „Unser Dorf soll schöner werden"
+  wettbewerb_jahr: 1969/1970
+  verleihung_jahr: 1970
+  aufhebung_jahr: 2015
+  aufhebung_quelle: Staatsanzeiger für Rheinland-Pfalz
+GUELTIG_AB: 1970
+GUELTIG_BIS: 2015
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: bergbau
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Hümmerich | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum_mittelalter: Mittelalter
+  material_mittelalter: Erz
+  hinterlassenschaften: Pingenfelder (trichterförmige Vertiefungen)
+  zeitraum_neuzeit: 2. Hälfte 19. Jahrhundert
+  material_neuzeit: Brauneisenstein
+  umfang_neuzeit: gering
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Grundschule Straßenhaus
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Straßenhaus
+QUELLE: https://www.rengsdorf-waldbreitbach.de/gemeinden-infrastruktur/gemeinden/huemmerich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Schulstraße 7, 56587 Straßenhaus
+  telefon: +49 2634 4333
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Kindergarten Oberhonnefeld
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Oberhonnefeld
+QUELLE: https://www.rengsdorf-waldbreitbach.de/gemeinden-infrastruktur/gemeinden/huemmerich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Hauptstraße 15, 56587 Oberhonnefeld-Gierend
+  telefon: +49 2634 5613
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Friedhof Oberhonnefeld
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Oberhonnefeld
+QUELLE: https://www.rengsdorf-waldbreitbach.de/gemeinden-infrastruktur/gemeinden/huemmerich/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Dorfgemeinschaftshaus
+FACETTE: FREIZEIT
+QUELLE: https://www.rengsdorf-waldbreitbach.de/gemeinden-infrastruktur/gemeinden/huemmerich/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Grillhütte
+FACETTE: FREIZEIT
+QUELLE: https://www.rengsdorf-waldbreitbach.de/gemeinden-infrastruktur/gemeinden/huemmerich/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Sportstätten
+FACETTE: FREIZEIT
+QUELLE: https://www.rengsdorf-waldbreitbach.de/gemeinden-infrastruktur/gemeinden/huemmerich/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: verkehr
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Hümmerich | Wikipedia
+EIGENSCHAFTEN:
+  landesstrasse: 270
+  bundesstrasse: 256 (Neuwied–Altenkirchen)
+  autobahn: A 3
+  autobahn_anschlussstelle: 36 (Neuwied)
+  naechster_ice_bahnhof: Montabaur (Schnellfahrstrecke Köln–Rhein/Main)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: historisches_dokument
+BEZEICHNUNG: Urkunde Erzbischof Trier 857
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Hümmerich | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 857
+  aussteller: Erzbischof von Trier
+  inhalt: Grenzmarke „Weiße Stein"; Abgrenzung Zehntbezirk Rengsdorfer Kirche (St. Kastorstift Koblenz)
+GUELTIG_AB: 857
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Krunkel
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Hümmerich | Wikipedia
+EIGENSCHAFTEN:
+  lage_zu_huemmerich: Norden
+  landkreis: Altenkirchen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Willroth
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Hümmerich | Wikipedia
+EIGENSCHAFTEN:
+  lage_zu_huemmerich: Osten
+  landkreis: Altenkirchen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

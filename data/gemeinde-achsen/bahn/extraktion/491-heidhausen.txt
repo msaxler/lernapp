@@ -1,0 +1,481 @@
+ENTITÄT: ort
+BEZEICHNUNG: Heidhausen
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heidhausen_1/heidhausen_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_stadtteil: true
+  position_in_stadt: südlichster Stadtteil Essens
+  lage_regional: Eingangstor ins Bergische Land
+  liegt_bei_bergischland: beginnt bei Velbert
+  nachbarstaedtteile_west: Kettwig
+  nachbarstaedtteile_ost: Kupferdreh, Fischlaken
+  nachbarstaedtteile_nord: Werden
+  nachbarstaedtteile_sued: Velbert
+  gehoert_zu_essen_seit: 1929-08-01
+  urspruenglich_gemeinde: Siebenhonnschaften
+  hoechster_punkt_essen_location: Preutenborbeckstraße
+  hoechster_punkt_essen_hoehe: 202.54 [m ü.NN]
+  superlativ: höchster Punkt der Stadt Essen
+  namensherkunft: heideähnliche Landschaft; Gebiet niederen Bewuchses nach Rodung und Urbarmachung
+  namensherkunft_historisch: Ansiedlung auf der Heide im Sinne der gemeinschaftlichen Nutzung einer Bauerschaft
+  namensformen_12jh: Hethhusen, Hethusen
+  urkundlich_erwaehnt_seit: 1512
+  urkundlich_erwaehnt_genauigkeit: vermutlich besiedelt vor 1512
+  urspruenglich_honschaften: Heidhausen, Holsterhausen, Kleinumstand
+  flaeche_gruenflaechen_waldanteil: 75 [%]
+  bebauung_typ: überwiegend Ein- und Zweifamilienhäuser
+  bedeutung_lage: grüne, waldreich Wohnlandschaft, landwirtschaftlich geprägt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Heidhausen
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Heidhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 6769
+  einwohner_stand: 2025-03-31
+  einwohner_genauigkeit: exakt
+  unter_18_jahre_prozent: 16.7
+  unter_18_jahre_vergleich_essen: 16.9
+  ab_65_jahre_prozent: 27.3
+  ab_65_jahre_vergleich_essen: 21.7
+  auslaenderanteil_prozent: 6.9
+  auslaenderanteil_vergleich_essen: 20.6
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Heidhausen
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heidhausen_1/heidhausen_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bis_1806_herrschaft: Herzogtum Berg unter Abtei Werden
+  um_1815_zugehoerigkeit: Preußen
+  wappen_beschreibung: zwei Heidenkronen (Heid-) und Fachwerkhaus (-hausen)
+  wappen_blasonierung: "In Rot unter zwei balkenweise silbernen (weißen) Heidenkronen, besetzt mit grünen Steinen, ein silbernes (weißes) Haus mit schwarzem Fachwerk und silbernem (weißem) Tor."
+  wappen_designer: Kurt Schweder (1980er Jahre für alle Essener Stadtteile)
+  wappen_typ: redendes Wappen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: befestigung
+BEZEICHNUNG: Alteburg
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Heidhausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heidhausen_1/heidhausen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Am Pastoratsberg
+  typ: karolingische Ringwallanlage
+  denkmalschutz: true
+  funktion_historisch: Fliehburg für die Bevölkerung des Umlandes
+  zeitraum_nutzung: 9.–11. Jahrhundert
+  beschreibung: Reste eines karolingischen Ringwalls
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche_historisch
+BEZEICHNUNG: St. Clemens
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Heidhausen
+QUELLE: https://de.wikipedia.org/wiki/Heidhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  standort: Am Pastoratsberg (Alteburg)
+  typ: Pfarrhaus
+  geweiht_datum: 1957-05-01
+  geweiht_bezug: Papst Clemens von Rom
+  funktion: Fluchtort der umliegenden Gutshofbesitzer
+  besonderheit: Teile der Ausstattung in der Schatzkammer der Abtei Werden
+GUELTIG_BIS: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kloster_und_fachklinik
+BEZEICHNUNG: Kamillushaus
+FACETTE: INFRASTRUKTUR | GESCHICHTE
+ORTSTEIL_BEZUG: Heidhausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heidhausen_1/heidhausen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Heidhauser Straße 273
+  bauzeit: 1900-1901
+  baustil: neugotisch
+  material: Backstein
+  architekt: Peter Aßheuer
+  geschichtliche_bedeutung: erste katholische "Trinkeranstalt" in Deutschland
+  bedeutung_fuer_ort: Landmark für die medizinische und soziale Infrastruktur Heidhausens
+  gruender_thema: Fachklinik für Suchtkrankenbehandlung
+  ortsname_kirche: Klosterkirche (ursprünglich von Kamillianern errichtet)
+  kirche_funktion_bis_2008: Pfarrkirche der eigenständigen Pfarrei St. Kamillus
+  kirche_funktion_seit_2008: Gemeindekirche der Pfarrei St. Ludgerus in Werden
+  kirche_ausstattung: originale Inneneinrichtung erhalten (Altäre, Stühle, Beichtstühle)
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche_modern
+BEZEICHNUNG: Jona Kirche
+FACETTE: INFRASTRUKTUR | KULTUR
+ORTSTEIL_BEZUG: Heidhausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heidhausen_1/heidhausen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Am Schwarzen
+  eingeweiht_datum: 1965-02-14
+  architekt: Heinrich Otto Vogel (Trierer Baurat)
+  besonderheit: Kirchenbau erinnert an ein Schiff
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus Heidhausen
+FACETTE: INFRASTRUKTUR | GESCHICHTE
+ORTSTEIL_BEZUG: Heidhausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heidhausen_1/heidhausen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Heidhauser Platz 1
+  erbaut: 1910-1911
+  architekt: J. F. Happ
+  baustil: neugotisch
+  denkmalschutz: true
+  funktion_historisch: diente der Bürgermeisterei Werden-Land
+  funktion_aktuell: Übernachtungsmöglichkeiten (Gästehaus)
+  bedeutung_fuer_ort: Ortsmitte des früheren Werden-Land (mit Heidhauser Platz und altem Haus)
+GUELTIG_AB: 1911
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: herrenhaus
+BEZEICHNUNG: Oberhof Barkhov
+FACETTE: GESCHICHTE | INFRASTRUKTUR
+ORTSTEIL_BEZUG: Heidhausen
+QUELLE: https://de.wikipedia.org/wiki/Heidhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Oberhof, Scheunenlager für Getreideabgaben der Bauern an die Abtei Werden
+  eigentuemer: Schulte-Barkhov (Träger der Gerichtsbarkeit im abteilichen Herrschaftsbereich)
+  funktion: Lagerstätte für Getreide zur Deckung des Bedarfs der Abtei Werden
+  status_heute: Teile sind noch vorhanden
+  groesse_vergleich: nicht der größte Hof (Langenhorst war größer)
+GUELTIG_BIS: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: personalitaet
+BEZEICHNUNG: Theodor Mintrop
+FACETTE: GESCHICHTE | KULTUR
+ORTSTEIL_BEZUG: Heidhausen
+QUELLE: https://de.wikipedia.org/wiki/Heidhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Maler
+  wohnort_frueh: Oberhof Barkhov (als Knecht, bis zum 30. Lebensjahr)
+  bedeutung_fuer_ort: Persönlichkeit mit Ortsbezug, in OpenStreetMap als Denkmal dokumentiert
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: klinik
+BEZEICHNUNG: Ruhrlandklinik
+FACETTE: INFRASTRUKTUR
+ORTSTEIL_BEZUG: Heidhausen
+QUELLE: https://de.wikipedia.org/wiki/Heidhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  standort: Tüschener Weg
+  funktion: Westdeutsches Lungenzentrum
+  gruendung_jahr: 1902
+  gruendung_name: Lungenheilstätte Holsterhausen
+  spezialisierung_historisch: hauptsächlich Tuberkulose-Patienten
+  status_seit_2009: Tochtergesellschaft des Universitätsklinikums Essen
+  status_seit_2009_datum: 2009-04-01
+  bedeutung_fuer_ort: bedeutende medizinische Einrichtung mit überörtlichem Ruf
+GUELTIG_AB: 1902
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bildungszentrum
+BEZEICHNUNG: BEW (Bildungszentrum für die Entsorgungs- und Wasserwirtschaft)
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Heidhausen
+QUELLE: https://de.wikipedia.org/wiki/Heidhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  sitz: Heidhausen
+  funktion: Bildungszentrum für Entsorgungs- und Wasserwirtschaft
+  bedeutung_fuer_ort: Bildungs- und Arbeitgeberinstitution
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: organisation_wissenschaft
+BEZEICHNUNG: Stifterverband für die deutsche Wissenschaft e.V.
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Heidhausen
+QUELLE: https://de.wikipedia.org/wiki/Heidhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  sitz: Heidhausen
+  funktion: Förderung von Wissenschaft und Bildung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: Golfclub Essen-Heidhausen e.V.
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Heidhausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heidhausen_1/heidhausen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Preutenborbeckstraße 36
+  sport: Golf
+  golfplatz_locher: 27 [Loch]
+  besonderheit: einziger 27-Loch-Golfplatz in Essen
+  superlativ: einziger 27-Loch-Golfplatz in Essen
+  bedeutung_fuer_ort: Freizeitwahrzeichen, überörtliche Bekanntheit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: SC Werden-Heidhausen e.V.
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Heidhausen
+QUELLE: https://de.wikipedia.org/wiki/Heidhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  standort: Im Löwental 35
+  sport: Fußball
+  gruendung_jahr_ungefaehr: 1990er Jahre
+  gruendung_durch_fusion: Fusion von ASV Werden und SC Heidhausen
+  liga: Bezirksliga
+  mannschaften_beschreibung: Mannschaft der Bezirksliga plus drei weitere Herren-Senioren-Teams und eine Damen-Mannschaft
+  jugendarbeit: zahlreiche Mannschaften der G- bis A-Jugend
+  preis_2006: Belobigung durch Fußballverband Niederrhein und Sepp-Herberger-Stiftung des DFB für herausragende Jugendarbeit (Mai 2006)
+  heimstaette_frueh: Sportplatz Am Volkswald (stillgelegt 2013)
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: jugendherberge
+BEZEICHNUNG: Jugendherberge Essen
+FACETTE: FREIZEIT | INFRA
+ORTSTEIL_BEZUG: Heidhausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heidhausen_1/heidhausen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Pastoratsberg 2
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: freizeitheim
+BEZEICHNUNG: Haus am Turm
+FACETTE: FREIZEIT | INFRA
+ORTSTEIL_BEZUG: Heidhausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heidhausen_1/heidhausen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Am Turm 7
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: poststation
+BEZEICHNUNG: Poststation Heidhausen
+FACETTE: GESCHICHTE | INFRASTRUKTUR
+ORTSTEIL_BEZUG: Heidhausen
+QUELLE: https://de.wikipedia.org/wiki/Heidhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1785
+  funktion: Poststation mit Beherbergungsbetrieb
+  denkmalschutz: true
+  standort: Heidhauser Straße
+  erweiterung_zeitraum: 19. Jahrhundert
+  funktion_19_20jh: Gaststätte
+  status_heute: in Privatbesitz (mit Nebengebäuden)
+  bedeutung: Bestandteil der Ortsmitte des früheren Werden-Land (mit Rathaus und Heidhauser Platz)
+GUELTIG_AB: 1785
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: jüdischer Friedhof Heidhausen
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Heidhausen
+QUELLE: https://de.wikipedia.org/wiki/Heidhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  standort: Am Pastoratsberg
+  grabsteine_zeitraum: 19. und 20. Jahrhundert
+  beschreibung: Grabsteine aus 19. und 20. Jahrhundert erhalten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gewerk_kohle
+BEZEICHNUNG: Kohleabbau Heidhausen
+FACETTE: GESCHICHTE | ALLTAG
+ORTSTEIL_BEZUG: Heidhausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heidhausen_1/heidhausen_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum_beginn: spätes Mittelalter
+  abbauart: tonnlägig (nahezu ebenerdig)
+  abbau_ende_grund: Grundwasser machte weiteren Abbau unmöglich
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: abbau_alaun
+BEZEICHNUNG: Alaun-Abbau Hespertal
+FACETTE: GESCHICHTE | ALLTAG
+ORTSTEIL_BEZUG: Heidhausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heidhausen_1/heidhausen_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Hespertal
+  rohstoff: Alaun
+  zeitraum_kontext: spätes Mittelalter bis Frühneuzeit
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: handwerksbetrieb
+BEZEICHNUNG: Seilerei Strötgen
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Heidhausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heidhausen_1/heidhausen_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  handwerk: Seilerei
+  zeitraum_kontext: 19. und 20. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: handwerksbetrieb
+BEZEICHNUNG: Großziegelei Frielingsdorf
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Heidhausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heidhausen_1/heidhausen_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  handwerk: Ziegelherstellung
+  groesse: Großbetrieb
+  zeitraum_kontext: 19. und 20. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: handwerksbetrieb
+BEZEICHNUNG: Schlossfabrik Sul
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Heidhausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heidhausen_1/heidhausen_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  handwerk: Schlossfertigung
+  zeitraum_kontext: 19. und 20. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: landschaft_erholungsgebiet
+BEZEICHNUNG: Wanderlandschaft Heidhausen
+FACETTE: FREIZEIT | LAGE
+ORTSTEIL_BEZUG: Heidhausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heidhausen_1/heidhausen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakter: weitläufige Landschaft oberhalb der Ruhr und ins Hespertal hinein
+  nutzung: Wandern und ambitioniertes Radfahren
+  bedeutung_fuer_ort: prägende Freizeit- und Naherholungslandschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Schule an der Jacobsallee
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Heidhausen
+QUELLE: https://de.wikipedia.org/wiki/Heidhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Grundschule
+  traeger: städtisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: einrichtung_feuerwehr
+BEZEICHNUNG: Feuer- und Rettungswache Heidhausen
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Heidhausen
+QUELLE: https://de.wikipedia.org/wiki/Heidhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  standort: Brakeler Wald
+  stationiert: Freiwillige Feuerwehr Heidhausen und Rettungswagen der Essener Berufsfeuerwehr
+  einsatzgebiet: Großraum Werden
+  bereitschaft: 24-stündige Alarmbereitschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bundesstrasse
+BEZEICHNUNG: Bundesstraße 224
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Heidhausen
+QUELLE: https://de.wikipedia.org/wiki/Heidhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: führt mitten durch den Stadtteil
+  auswirkung: hohes Verkehrsaufkommen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bushaltestelle
+BEZEICHNUNG: Heidhauser Platz
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Heidhausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heidhausen_1/heidhausen_statistik.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: zentrale Bushaltestelle
+  buslinien: 169, 180, 190, SB19, NE8
+  bedeutung_fuer_ort: Ortsmitte (mit Rathaus und altem Haus)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Essen-Werden
+FACETTE: INFRA
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heidhausen_1/heidhausen_statistik.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bahn: S-Bahn S6
+  nächstgelegen_zu: Heidhausen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

@@ -1,0 +1,351 @@
+ENTITÄT: ort
+BEZEICHNUNG: Schuir
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Schuir | Wikipedia
+EIGENSCHAFTEN:
+  ist_stadtteil: true
+  stadtteil_von: Essen
+  stadtteil_bezirk_nummer: IX
+  lage_beschreibung: nördlich der Ruhr, zwischen Haarzopf (Nordwesten), Bredeney (Nordosten), Werden (Südosten), Kettwig (Südwesten)
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Schuir
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Schuir | Wikipedia
+EIGENSCHAFTEN:
+  superlativ: bevölkerungsärmster Stadtteil Essens
+  charakteristik: überwiegend landwirtschaftlich geprägt
+  siedlungstypen: eine Wohnsiedlung an Grenze zu Bredeney, vereinzelt feudale Villen, überwiegend Reit- und Bauernhöfe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Schuir
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/schuir_1/schuir_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwahnung: 800
+  erste_urkundliche_erwahnung_als: Ortschaft Wallney
+  namensherkunft: aus Scheuer beziehungsweise Schutzdach, Bezeichnung ten Schuiren für zu den Scheuern oder Schuren
+  namensherkunft_beleg: 1296 Ritter Evert von Schuren in Schuir erwähnt
+  gehoert_zu_essen_seit: 1915-04-01
+  gehoert_zu: Reichsabtei Werden (bis 1803)
+  funktion_historisch: Sommersitz der Mönche
+GUELTIG_AB: 800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Schuir
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Schuir | Wikipedia
+EIGENSCHAFTEN:
+  bevoelkerung_31_dez_2025: 1538
+  bevoelkerungsanteil_unter_18_prozent: 17.8
+  bevoelkerungsanteil_ab_65_prozent: 24.4
+  auslaenderanteil_prozent: 15.6
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: sternwarte
+BEZEICHNUNG: Walter-Hohmann-Sternwarte Essen e.V.
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/schuir_1/schuir_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1965
+  lage: Wallneyer Straße
+  benannt_nach: Raumfahrtpionier Walter Hohmann
+  angebot: Beobachtung Sternenhimmel, Planeten, Galaxien, regelmäßige Vorträge und Workshops
+  bedeutung_fuer_ort: Sehenswürdigkeit, Mitglieder wahre Entdecker
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: sternwarte
+BEZEICHNUNG: Walter-Hohmann-Sternwarte
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Schuir | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1969
+  lage_gebauede: teils in ehemaligem Schulgebäude (katholische Schule)
+  besonderheit: Kleinplaneten entdeckt
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wasserburg
+BEZEICHNUNG: Haus Schuir
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/schuir_1/schuir_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: mittelalterliche Wasserburg
+  adresse: Schuirweg 74
+  erbaut: 1792
+  erbaut_von: Werdener Abt Bernhard II.
+  verwendung: Sommerresidenz des Klosters Werden
+  erhaltung: seit 1810 nur noch Haupthaus vorhanden
+  denkmalschutz: ja
+GUELTIG_AB: 1792
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: freizeit_betrieb
+BEZEICHNUNG: Rutherhof
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/schuir_1/schuir_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angebot: Poolball, Fußball-Golf, Swin-Golf
+  besonderheit: Straußenfarm
+  gastronomie: Restaurant
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: freizeit_betrieb
+BEZEICHNUNG: Reiterhof Schuir
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/schuir_1/schuir_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Reitanlage umgeben von Wäldern, zum Ausritt einladend
+  infrastruktur: zwei Reithallen, zwei Außenplätze
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: freizeit_betrieb
+BEZEICHNUNG: Reitstall Beckmann
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/schuir_1/schuir_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Stallgemeinschaft
+  angebot: Paddockboxen, Hofanlagen, Reitlehrer (Klassische und Westernreitweise)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: betrieb
+BEZEICHNUNG: Karstadt-Hauptverwaltung
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Schuir | Wikipedia
+EIGENSCHAFTEN:
+  einweihung: 1969
+  lage: Theodor-Althoff-Straße
+  vorgaenger: am Limbecker Platz
+  denkmalschutz: erster Bauabschnitt seit 2017-02-02
+  status: seit 2025-09-01 leer, Umzug Zentrale Düsseldorf-Unterbilk
+  bedeutung_fuer_ort: größeres Unternehmen im ländlichen Stadtteil
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Mutterhaus der Barmherzigen Schwestern von der heiligen Elisabeth
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Schuir | Wikipedia
+EIGENSCHAFTEN:
+  orden_gruendung: 1843
+  erster_krankenhaus: Kapuzinerkloster Essen
+  nachfolger_krankenhaus: Elisabeth-Krankenhaus seit 1912 in Essen-Huttrop
+  orden_verlagerung: 2016 ins Kloster Emmaus in Schönebeck
+  nachnutzung_ab_2016: Unterkunft für ca. 500 Flüchtlinge
+GUELTIG_BIS: 2016
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Radarturm Deutscher Wetterdienst
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Schuir | Wikipedia
+EIGENSCHAFTEN:
+  errichtet: seit 2010
+  lage: Wallneyer Straße 10
+  besonderheit: einer von 17 Radartürmen in Deutschland
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Evangelische Schule An der Pierburg
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Schuir | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1676
+  typ: Heck- und Winkelschule
+  anlass_gruendung: Kinder mussten weiten Weg nach Kettwig gehen
+  betrieb: bis 1968
+GUELTIG_AB: 1676
+GUELTIG_BIS: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Katholische Schule Schuir
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Schuir | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1750
+  lage: Am Est an der Wallneyer Straße
+  baugeschichte: Teile aus 1830
+  anlass_gruendung: Bauern wollten eigene Schule, vorher weiter Schulweg nach Werden
+  gruendungsweise: Abt von Werden stellte Baumaterial, Bauern Arbeitskräfte
+  schaelerzahl: bis ca. 180 Kinder
+  typ: zweiklassige Schule
+  aufloessung: 1939
+  nachnutzung: Wohnhaus, später Räume der Walter-Hohmann-Sternwarte
+GUELTIG_AB: 1750
+GUELTIG_BIS: 1939
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kriegsereignis
+BEZEICHNUNG: Bombardement Schuir 1945
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Schuir | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1945-04-09
+  beschreibung: Alliierte verwechselten ca. 3000 Zwangsarbeiter am Schuirweg mit Wehrmacht-Einheit
+  tote: mehr als 40
+  verletzte: weitere
+  bergung: Schwestern des nahen Klosters beteiligt
+  besonderheit: von Toten nur einer nach über 60 Jahren identifiziert
+  gedenkstein: 2007 errichtet am Ort des Geschehens
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: politische_persoenlichkeit
+BEZEICHNUNG: Hans Toussaint
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Schuir | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Großhandelskaufmann
+  partei: CDU
+  amt: Vertreter Kommunalwahlbezirk 40 (Bredeney, Fischlaken, Schuir)
+  amtszeit_bezirk: 1946-1975
+  oberbuergermeister_stadt: Essen
+  oberbuergermeister_amtszeit: 1949-1956
+GUELTIG_AB: 1946
+GUELTIG_BIS: 1956
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: politische_persoenlichkeit
+BEZEICHNUNG: Wolfgang Reiniger
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Schuir | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Rechtsanwalt und Notar
+  partei: CDU
+  amt: Vertreter Kommunalwahlbezirk 40
+  amtszeit_bezirk: 1975-1999
+  oberbuergermeister_stadt: Essen
+  oberbuergermeister_amtszeit: 1999-2008
+GUELTIG_AB: 1975
+GUELTIG_BIS: 1999
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: politische_persoenlichkeit
+BEZEICHNUNG: Matthias Hauer
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Schuir | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Rechtsanwalt
+  partei: CDU
+  amt: Vertreter Kommunalwahlbezirk 40
+  wahlperioden: 2004, 2009
+  besonderheit: stadtweit höchste CDU-Ergebnisse erzielt
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Kettwig Rundweg A4
+FACETTE: FREIZEIT
+QUELLE: ZEUGEN (OpenStreetMap, Gemeindegrenze)
+EIGENSCHAFTEN:
+  laenge: 10 (km)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Margarethenhöhe Rundweg M
+FACETTE: FREIZEIT
+QUELLE: ZEUGEN (OpenStreetMap, Gemeindegrenze)
+EIGENSCHAFTEN:
+  laenge: 8.3 (km)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Heissiwald Rundweg A3
+FACETTE: FREIZEIT
+QUELLE: ZEUGEN (OpenStreetMap, Gemeindegrenze)
+EIGENSCHAFTEN:
+  laenge: 5.5 (km)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Eggenweg
+FACETTE: FREIZEIT
+QUELLE: ZEUGEN (OpenStreetMap, Gemeindegrenze)
+EIGENSCHAFTEN:
+  laenge: 43 (km)
+  markierung: Raute4
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: GeoRoute Ruhr
+FACETTE: FREIZEIT
+QUELLE: ZEUGEN (OpenStreetMap, Gemeindegrenze)
+EIGENSCHAFTEN:
+  laenge: 185 (km)
+  typ: Themenweg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8

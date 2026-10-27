@@ -1,5 +1,5 @@
 {
- "erzeugt": "2026-10-21",
+ "erzeugt": "2026-10-26",
  "katalog": [
   {
    "schluessel": "bundesland",
@@ -858,7 +858,26 @@
   "Schluchsee: geo.sqlite hat für Kreis 08315 kein Kennzeichen",
   "Lenzkirch: Wikidata P131 nennt „Landkreis Hochschwarzwald“ ohne Enddatum, Infobox „Breisgau-Hochschwarzwald“",
   "Lenzkirch: geo.sqlite hat für Kreis 08315 kein Kennzeichen",
-  "Friedenweiler: geo.sqlite hat für Kreis 08315 kein Kennzeichen"
+  "Friedenweiler: geo.sqlite hat für Kreis 08315 kein Kennzeichen",
+  "Haarzopf: hoehe_m 119 (Wikidata P2044) gegen 127 (Altbestand geo.sqlite (GeoNames 2913087))",
+  "Margarethenhöhe: hoehe_m 105 (Wikidata P2044) gegen 112 (Altbestand geo.sqlite (GeoNames 2873724))",
+  "Südostviertel: hoehe_m 105 (Wikidata P2044) gegen 112 (Altbestand geo.sqlite (GeoNames 12500843))",
+  "Freisenbruch: hoehe_m 80 (Wikidata P2044) gegen 94 (Altbestand geo.sqlite (GeoNames 11611458))",
+  "Neuwied: hoehe_m 60 (Wikidata P2044) gegen 67 (Altbestand staedte.json)",
+  "Neuwied: hoehe_m 60 (Wikidata P2044) gegen 67 (Altbestand geo.sqlite (GeoNames 2863840))",
+  "Altwied: hoehe_m 82 (Wikidata P2044) gegen 87 (Altbestand geo.sqlite (GeoNames 2956764))",
+  "Rengsdorf: hoehe_m 240 (Wikidata P2044) gegen 275 (dewiki Infobox)",
+  "Rengsdorf: hoehe_m 240 (Wikidata P2044) gegen 269 (Altbestand geo.sqlite (GeoNames 2848215))",
+  "Willroth: Wikidata P131 nennt „Landkreis Altenkirchen“ ohne Enddatum, Infobox „Altenkirchen (Westerwald)“",
+  "Willroth: Briefwahl nur auf Ebene der Verbandsgemeinde Altenkirchen-Flammersfeld; Wahlergebnis gilt für die Verbandsgemeinde",
+  "Willroth: einwohner 980 (Wikidata P1082) gegen 821 (Altbestand geo.sqlite (GeoNames 2808497))",
+  "Horhausen: Wikidata P131 nennt „Landkreis Altenkirchen“ ohne Enddatum, Infobox „Altenkirchen (Westerwald)“",
+  "Horhausen: Briefwahl nur auf Ebene der Verbandsgemeinde Altenkirchen-Flammersfeld; Wahlergebnis gilt für die Verbandsgemeinde",
+  "Horhausen: geo.sqlite hat für Kreis 07141 kein Kennzeichen",
+  "Horhausen: hoehe_m 330 (Wikidata P2044) gegen 350 (dewiki Infobox)",
+  "Hümmerich: hoehe_m 330 (Wikidata P2044) gegen 358 (dewiki Infobox)",
+  "Krunkel: Wikidata P131 nennt „Landkreis Altenkirchen“ ohne Enddatum, Infobox „Altenkirchen (Westerwald)“",
+  "Krunkel: Briefwahl nur auf Ebene der Verbandsgemeinde Altenkirchen-Flammersfeld; Wahlergebnis gilt für die Verbandsgemeinde"
  ],
  "orte": [
   {
@@ -82409,6 +82428,505 @@
    }
   },
   {
+   "slug": "496-neuwied",
+   "rolle": "ziel",
+   "name": "Neuwied",
+   "einheit": "Stadt",
+   "wikidata": "Q3967",
+   "lat": 50.42861,
+   "lon": 7.46139,
+   "gemeindeschluessel": "07138045",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Neuwied",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Neuwied",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Rheinland-Pfalz",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 67201,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 67083,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 66805,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2863840)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 86.5,
+      "quelle": "Wikidata P2046"
+     },
+     {
+      "wert": 86.5,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 777,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "NR",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "NR",
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": "NR",
+      "quelle": "Altbestand geo.sqlite (Kreis 07138)"
+     },
+     {
+      "wert": "NR",
+      "quelle": "Altbestand kfz_kennzeichen.csv"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 60,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 60,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 67,
+      "quelle": "Altbestand staedte.json",
+      "abweichend": true
+     },
+     {
+      "wert": 67,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2863840)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Koblenz",
+       "km": 12
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "12 km nordwestlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Mainz",
+       "km": 77
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Engers",
+       "Bahnhof Neuwied"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     },
+     {
+      "wert": {
+       "kategorie": 5,
+       "bahnhof_name": "Neuwied Bahnhof",
+       "fernverkehr": false,
+       "ice_halt": false
+      },
+      "quelle": "Altbestand bahnhof.json"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "56564–56567"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "56564",
+       "56566",
+       "56567"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "02622",
+       "02631"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 27.1,
+        "AfD": 23.5,
+        "SPD": 20.5,
+        "GRÜNE": 8.2,
+        "Die Linke": 7.3,
+        "BSW": 5.7
+       },
+       "wahlbeteiligung_prozent": 77.4,
+       "gueltige_zweitstimmen": 35422
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Jan Einig",
+       "partei": "CDU"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-26",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Güstrow",
+       "Almería",
+       "London Borough of Bromley",
+       "Drom HaScharon",
+       "Beverwĳk"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "497-altwied",
+   "rolle": "ziel",
+   "name": "Altwied",
+   "einheit": "Ortsteil von Neuwied",
+   "wikidata": "Q446841",
+   "lat": 50.4828,
+   "lon": 7.46778,
+   "gemeindeschluessel": "07138045",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Neuwied",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Neuwied, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Rheinland-Pfalz",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 674,
+      "quelle": "dewiki Infobox",
+      "stand": "2026-07-06"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "NR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Neuwied, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 82,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 82,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 87,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2956764)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Koblenz",
+       "km": 16
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "16 km nordwestlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Mainz",
+       "km": 80
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1970-11-07",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "56567"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "02631"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 27.1,
+        "AfD": 23.5,
+        "SPD": 20.5,
+        "GRÜNE": 8.2,
+        "Die Linke": 7.3,
+        "BSW": 5.7
+       },
+       "wahlbeteiligung_prozent": 77.4,
+       "gueltige_zweitstimmen": 35422
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Neuwied, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "498-rengsdorf",
+   "rolle": "ziel",
+   "name": "Rengsdorf",
+   "einheit": "Gemeinde",
+   "wikidata": "Q566074",
+   "lat": 50.50222,
+   "lon": 7.49722,
+   "gemeindeschluessel": "07138061",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Neuwied",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Neuwied",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Rheinland-Pfalz",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 2996,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 2671,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2848215)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 6.91,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 434,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "NR",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "NR",
+      "quelle": "Altbestand geo.sqlite (Kreis 07138)"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 240,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 275,
+      "quelle": "dewiki Infobox",
+      "abweichend": true
+     },
+     {
+      "wert": 269,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2848215)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Koblenz",
+       "km": 18
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "18 km nördlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Mainz",
+       "km": 80
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "56579"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "56579"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "02634"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 32.7,
+        "AfD": 18.6,
+        "SPD": 17.6,
+        "GRÜNE": 10.4,
+        "FDP": 7.0,
+        "Die Linke": 5.5
+       },
+       "wahlbeteiligung_prozent": 82.6,
+       "gueltige_zweitstimmen": 1778
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Marc Dillenberger"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-26",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
    "slug": "404-niederbieber",
    "rolle": "ziel",
    "name": "Niederbieber",
@@ -84039,6 +84557,1045 @@
       },
       "quelle": "dewiki Infobox",
       "stand": "2026-10-17",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "499-bonefeld",
+   "rolle": "ziel",
+   "name": "Bonefeld",
+   "einheit": "Gemeinde",
+   "wikidata": "Q565769",
+   "lat": 50.52389,
+   "lon": 7.49083,
+   "gemeindeschluessel": "07138005",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Neuwied",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Neuwied",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Rheinland-Pfalz",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 938,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 1052,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2946481)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 5.2,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 180,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "NR",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "NR",
+      "quelle": "Altbestand geo.sqlite (Kreis 07138)"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 345,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 345,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 345,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2946481)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Koblenz",
+       "km": 20
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "20 km nördlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Mainz",
+       "km": 82
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "56579"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "56579"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "02634"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 30.0,
+        "AfD": 23.5,
+        "SPD": 21.7,
+        "GRÜNE": 8.6
+       },
+       "wahlbeteiligung_prozent": 87.3,
+       "gueltige_zweitstimmen": 631
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Claudia Runkel"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-26",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "500-strassenhaus",
+   "rolle": "ziel",
+   "name": "Straßenhaus",
+   "einheit": "Gemeinde",
+   "wikidata": "Q648782",
+   "lat": 50.53917,
+   "lon": 7.51861,
+   "gemeindeschluessel": "07138071",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Neuwied",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Neuwied",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Rheinland-Pfalz",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 1995,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 10.17,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 196,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "NR",
+      "quelle": "Wikidata P395"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 365,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 365,
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Koblenz",
+       "km": 21
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "21 km nördlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Mainz",
+       "km": 82
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "56587"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "02634"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 29.3,
+        "AfD": 22.5,
+        "SPD": 19.4,
+        "GRÜNE": 7.0,
+        "Die Linke": 6.2,
+        "BSW": 6.2
+       },
+       "wahlbeteiligung_prozent": 80.7,
+       "gueltige_zweitstimmen": 1251
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Holger Drees"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-26",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "501-oberhonnefeld-gierend",
+   "rolle": "ziel",
+   "name": "Oberhonnefeld-Gierend",
+   "einheit": "Gemeinde",
+   "wikidata": "Q647171",
+   "lat": 50.55278,
+   "lon": 7.51972,
+   "gemeindeschluessel": "07138053",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Neuwied",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Neuwied",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Rheinland-Pfalz",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 1057,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 999,
+      "quelle": "Altbestand geo.sqlite (GeoNames 3207891)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 3.97,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 266,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "NR",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "NR",
+      "quelle": "Altbestand geo.sqlite (Kreis 07138)"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 391,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 391,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 387,
+      "quelle": "Altbestand geo.sqlite (GeoNames 3207891)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Koblenz",
+       "km": 23
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "23 km nördlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Mainz",
+       "km": 83
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "56587"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "56587"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "02634"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "AfD",
+       "anteile_prozent": {
+        "AfD": 25.2,
+        "CDU": 24.1,
+        "SPD": 16.9,
+        "GRÜNE": 9.4,
+        "FDP": 6.6,
+        "BSW": 6.3,
+        "Die Linke": 5.7
+       },
+       "wahlbeteiligung_prozent": 85.1,
+       "gueltige_zweitstimmen": 635
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Harald Berndt"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-26",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "502-willroth",
+   "rolle": "ziel",
+   "name": "Willroth",
+   "einheit": "Gemeinde",
+   "wikidata": "Q627775",
+   "lat": 50.56806,
+   "lon": 7.52889,
+   "gemeindeschluessel": "07132116",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Altenkirchen (Westerwald)",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Rheinland-Pfalz",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 980,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 821,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2808497)",
+      "abweichend": true
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 1.96,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 500,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "AK",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "AK",
+      "quelle": "Altbestand geo.sqlite (Kreis 07132)"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 368,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 368,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 385,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2808497)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Koblenz",
+       "km": 24
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "24 km nördlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Mainz",
+       "km": 84
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "56594"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "56594"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "02687"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 28.6,
+        "AfD": 24.8,
+        "SPD": 18.7,
+        "GRÜNE": 8.0,
+        "Die Linke": 5.8,
+        "BSW": 5.2
+       },
+       "wahlbeteiligung_prozent": 82.2,
+       "gueltige_zweitstimmen": 22070
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Verbandsgemeinde Altenkirchen-Flammersfeld, nicht für die Gemeinde allein; die Briefwahl wird dort für alle Gemeinden gemeinsam ausgezählt"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Wilfried Schiefer"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-26",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "503-horhausen",
+   "rolle": "ziel",
+   "name": "Horhausen",
+   "einheit": "Gemeinde",
+   "wikidata": "Q654384",
+   "lat": 50.58889,
+   "lon": 7.5325,
+   "gemeindeschluessel": "07132055",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Altenkirchen (Westerwald)",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Rheinland-Pfalz",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 2148,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 1908,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2899024)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 4.72,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 455,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "AK",
+      "quelle": "Wikidata P395"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 330,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 350,
+      "quelle": "dewiki Infobox",
+      "abweichend": true
+     },
+     {
+      "wert": 337,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2899024)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Koblenz",
+       "km": 26
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "26 km nördlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Mainz",
+       "km": 86
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "56593"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "56379"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "02687"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 28.6,
+        "AfD": 24.8,
+        "SPD": 18.7,
+        "GRÜNE": 8.0,
+        "Die Linke": 5.8,
+        "BSW": 5.2
+       },
+       "wahlbeteiligung_prozent": 82.2,
+       "gueltige_zweitstimmen": 22070
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Verbandsgemeinde Altenkirchen-Flammersfeld, nicht für die Gemeinde allein; die Briefwahl wird dort für alle Gemeinden gemeinsam ausgezählt"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Thomas Schmidt",
+       "partei": "CDU"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-26",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "504-huemmerich",
+   "rolle": "ziel",
+   "name": "Hümmerich",
+   "einheit": "Gemeinde",
+   "wikidata": "Q565278",
+   "lat": 50.56861,
+   "lon": 7.49639,
+   "gemeindeschluessel": "07138030",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Neuwied",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Neuwied",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Rheinland-Pfalz",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 808,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 4.27,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 189,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "NR",
+      "quelle": "Wikidata P395"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 330,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 358,
+      "quelle": "dewiki Infobox",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Koblenz",
+       "km": 25
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "25 km nördlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Mainz",
+       "km": 86
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "53547"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "02687"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 26.8,
+        "AfD": 25.4,
+        "SPD": 17.6,
+        "GRÜNE": 8.0,
+        "Die Linke": 6.7,
+        "BSW": 6.1,
+        "FDP": 5.3
+       },
+       "wahlbeteiligung_prozent": 83.6,
+       "gueltige_zweitstimmen": 511
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Olaf Reinhäckel"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-26",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "505-krunkel",
+   "rolle": "ziel",
+   "name": "Krunkel",
+   "einheit": "Gemeinde",
+   "wikidata": "Q658657",
+   "lat": 50.57583,
+   "lon": 7.50472,
+   "gemeindeschluessel": "07132065",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Altenkirchen (Westerwald)",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Rheinland-Pfalz",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 587,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 671,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2883234)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 2.81,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 209,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "AK",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "AK",
+      "quelle": "Altbestand geo.sqlite (Kreis 07132)"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 305,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 311,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 300,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2883234)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Koblenz",
+       "km": 25
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "25 km nördlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Mainz",
+       "km": 86
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "56593"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "56593"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "02687"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 28.6,
+        "AfD": 24.8,
+        "SPD": 18.7,
+        "GRÜNE": 8.0,
+        "Die Linke": 5.8,
+        "BSW": 5.2
+       },
+       "wahlbeteiligung_prozent": 82.2,
+       "gueltige_zweitstimmen": 22070
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Verbandsgemeinde Altenkirchen-Flammersfeld, nicht für die Gemeinde allein; die Briefwahl wird dort für alle Gemeinden gemeinsam ausgezählt"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Thomas Schug"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-26",
       "hinweis": "zeitabhängig; Aktualität nicht geprüft"
      }
     ],
@@ -85897,6 +87454,679 @@
      {
       "wert": [
        "45219"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 26.5,
+        "SPD": 22.2,
+        "AfD": 17.0,
+        "GRÜNE": 12.4,
+        "Die Linke": 9.5
+       },
+       "wahlbeteiligung_prozent": 80.1,
+       "gueltige_zweitstimmen": 317018
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "490-schuir",
+   "rolle": "ziel",
+   "name": "Schuir",
+   "einheit": "Ortsteil von Essen",
+   "wikidata": "Q1368646",
+   "lat": 51.38806,
+   "lon": 6.96361,
+   "gemeindeschluessel": "05113000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Essen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Nordrhein-Westfalen",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 6.72,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "E",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 106,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 111,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2836002)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Mülheim an der Ruhr",
+       "km": 8
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "8 km südöstlich von Mülheim an der Ruhr (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Düsseldorf",
+       "km": 23
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1915-04-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "45133",
+       "45239"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 26.5,
+        "SPD": 22.2,
+        "AfD": 17.0,
+        "GRÜNE": 12.4,
+        "Die Linke": 9.5
+       },
+       "wahlbeteiligung_prozent": 80.1,
+       "gueltige_zweitstimmen": 317018
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "491-heidhausen",
+   "rolle": "ziel",
+   "name": "Heidhausen",
+   "einheit": "Ortsteil von Essen",
+   "wikidata": "Q258254",
+   "lat": 51.37972,
+   "lon": 7.01778,
+   "gemeindeschluessel": "05113000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Essen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Nordrhein-Westfalen",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 10.9,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "E",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 178,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 172,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2907774)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Essen",
+       "km": 9
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "9 km südlich von Essen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Düsseldorf",
+       "km": 24
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1929-08-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "45239"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 26.5,
+        "SPD": 22.2,
+        "AfD": 17.0,
+        "GRÜNE": 12.4,
+        "Die Linke": 9.5
+       },
+       "wahlbeteiligung_prozent": 80.1,
+       "gueltige_zweitstimmen": 317018
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "492-haarzopf",
+   "rolle": "ziel",
+   "name": "Haarzopf",
+   "einheit": "Ortsteil von Essen",
+   "wikidata": "Q1252653",
+   "lat": 51.41972,
+   "lon": 6.95889,
+   "gemeindeschluessel": "05113000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Essen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Nordrhein-Westfalen",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 4.27,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "E",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 119,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 127,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2913087)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Essen",
+       "km": 6
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "6 km südwestlich von Essen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Düsseldorf",
+       "km": 25
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1915-04-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "45149"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 26.5,
+        "SPD": 22.2,
+        "AfD": 17.0,
+        "GRÜNE": 12.4,
+        "Die Linke": 9.5
+       },
+       "wahlbeteiligung_prozent": 80.1,
+       "gueltige_zweitstimmen": 317018
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "493-margarethenhoehe",
+   "rolle": "ziel",
+   "name": "Margarethenhöhe",
+   "einheit": "Ortsteil von Essen",
+   "wikidata": "Q257398",
+   "lat": 51.4325,
+   "lon": 6.97722,
+   "gemeindeschluessel": "05113000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Essen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Nordrhein-Westfalen",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 1.48,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "E",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 105,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 112,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2873724)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Essen",
+       "km": 4
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "4 km südwestlich von Essen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Düsseldorf",
+       "km": 27
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1905-06-21",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "45149"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 26.5,
+        "SPD": 22.2,
+        "AfD": 17.0,
+        "GRÜNE": 12.4,
+        "Die Linke": 9.5
+       },
+       "wahlbeteiligung_prozent": 80.1,
+       "gueltige_zweitstimmen": 317018
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "494-suedostviertel",
+   "rolle": "ziel",
+   "name": "Südostviertel",
+   "einheit": "Ortsteil von Essen",
+   "wikidata": "Q1368653",
+   "lat": 51.45278,
+   "lon": 7.03083,
+   "gemeindeschluessel": "05113000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Essen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Nordrhein-Westfalen",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 0.97,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "E",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 105,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 112,
+      "quelle": "Altbestand geo.sqlite (GeoNames 12500843)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Essen",
+       "km": 1
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "1 km östlich von Essen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Düsseldorf",
+       "km": 31
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "45128",
+       "45138",
+       "45139"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 26.5,
+        "SPD": 22.2,
+        "AfD": 17.0,
+        "GRÜNE": 12.4,
+        "Die Linke": 9.5
+       },
+       "wahlbeteiligung_prozent": 80.1,
+       "gueltige_zweitstimmen": 317018
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "495-freisenbruch",
+   "rolle": "ziel",
+   "name": "Freisenbruch",
+   "einheit": "Ortsteil von Essen",
+   "wikidata": "Q1368622",
+   "lat": 51.45167,
+   "lon": 7.10056,
+   "gemeindeschluessel": "05113000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Essen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Nordrhein-Westfalen",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 3.8,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "E",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 80,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 94,
+      "quelle": "Altbestand geo.sqlite (GeoNames 11611458)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Gelsenkirchen",
+       "km": 6
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "6 km südlich von Gelsenkirchen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Düsseldorf",
+       "km": 34
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1929-08-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "45279"
       ],
       "quelle": "Wikidata P281"
      }

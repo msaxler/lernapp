@@ -1,0 +1,321 @@
+## Karte 1
+FAKTENCHECK: korrigiert – Laut QUELLTEXT wurde „eines seiner Attribute – ein Ring“ zum Wappenzeichen. Die Karte macht daraus „die Ringe sind Attribute“. Der Satz „das Wappen ist bis heute Symbol dieser Handwerkstradition“ steht in keinem QUELLTEXT, nur in FAKTEN (004 bedeutung_fuer_ort), und wurde gestrichen.
+FACETTE: GESCHICHTE
+SORTE: Geschichte
+FAMILIE: A
+FAKT-ID: 426-steele/004.symbolik_ringe
+GEWÄHLTER FAKT: Stadtteilwappen Steele, symbolik_ringe, Attribute des heiligen Eligius, Patron der Schmiedegilde (dazu symbolik_farben: gelb für Feuer, schwarz für Eisen)
+CHARAKTERISTIKUM: Schmiederinge im Wappen
+BEKANNTHEIT: niedrig – Das Wappen kennen höchstens Ortskundige, die Bedeutung der Ringe kaum jemand.
+RANG: 3 – Ein Wappen, das die Schmiede statt der Kohle zeigt, überrascht im Ruhrgebiet und bleibt im Gedächtnis.
+VORDERSEITE:
+Steele
+Essener Stadtteil mit rund 17.000 Einwohnern, 5 km östlich der Stadtmitte.
+Das Steeler Wappen zeigt drei schwarze, verschlungene Ringe auf Gold. Wofür stehen die Ringe?
+1. Sie gehören zum Schutzpatron der Schmiede.
+2. Sie stehen für drei vereinte Bauerschaften.
+3. Sie zeigen Kettenglieder der Ruhrschiffer.
+4. Sie erinnern an drei frühe Kohlenzechen.
+RÜCKSEITE:
+Du hattest [Option] getippt. Im Ruhrgebiet denkt man bei Schwarz schnell an Kohle. Doch die tonangebenden Steeler Bürger waren die Mitglieder der Schmiedegilde, ihr Patron war der heilige Eligius. Eines seiner Attribute, ein Ring, wurde zum Wappenzeichen der Steeler Schmiede; das gelbe Feld deutet das Feuer an, das Schwarz der Ringe das Eisen. Das Wappen ist aus dem alten Steeler Siegel entliehen und nicht mit den Krupp-Ringen zu verwechseln. Richtig war 1.
+Quelle: Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/steele_2/steele_geschichte.de.html
+WÖRTER RÜCKSEITE: 60
+NEGATIVNACHWEISE:
+2: Weg (c). 004 nennt genau eine Bedeutung der Ringe (Attribute des heiligen Eligius); Bauerschaften frei erfunden.
+3: Weg (c). Wie 2; Kettenglieder frei erfunden.
+4: Weg (c). Wie 2; Zechen frei erfunden.
+PRÜFHINWEIS: Drei erfundene Deutungen; „tonangebende Bürger“ stammt aus 426-steele/056 (Gemeinde-Webseite), dort in der Vergangenheit.
+PRÜFSTUFE: 1 – Alle Aussagen aus der Gemeinde-Webseite, kein Superlativ, keine Zahl auf der Rückseite.
+ERFUNDEN: 2, 3, 4
+
+## Karte 2
+FAKTENCHECK: korrigiert – Den Rang „zweitältester öffentlich zugänglicher Park Essens“ gibt nur die Stadt Essen an. KuLaDig (LVR) nennt keinen Rang, deshalb steht der Rang jetzt mit Vorbehalt auf der Karte. Belegt sind über KuLaDig: Lage am Ruhrhang auf der Kaiserhöhe, der Steeler Verschönerungsverein von 1882, ein Restaurationsgebäude mit Kuppelsaal von 1903 und Steeles Stadtrechte über 350 Jahre bis 1929. „Volkspark“, „zentrale Grünanlage“ und „Stadtgartensaalbau für Kulturveranstaltungen“ sind gestrichen.
+FACETTE: FREIZEIT
+SORTE: Geschichte
+FAMILIE: A
+FAKT-ID: 426-steele/013.bedeutung_fuer_stadt
+GEWÄHLTER FAKT: Steeler Stadtgarten, bedeutung_fuer_stadt, zweitältester öffentlich zugänglicher Park der Stadt Essen (nach Südviertel)
+CHARAKTERISTIKUM: zweitältester Park Essens auf Anhöhe
+BEKANNTHEIT: niedrig – Den Park kennen vor allem die Leute aus dem Stadtteil, seinen Rang in Essen kaum jemand.
+RANG: 6 – Ein historischer Volkspark mit Saalbau ist hübsch, im Großstadtvergleich aber kein starkes Alleinstellungsmerkmal.
+VORDERSEITE:
+Steele
+Essener Stadtteil mit rund 17.000 Einwohnern, 5 km östlich der Stadtmitte.
+Der Steeler Stadtgarten ist ein historischer Volkspark auf einer kleinen Anhöhe. Was stimmt über sein Alter?
+1. Er ist Essens ältester öffentlicher Park.
+2. Er ist Essens zweitältester öffentlicher Park.
+3. Er ist Essens drittältester öffentlicher Park.
+4. Er ist Essens viertältester öffentlicher Park.
+RÜCKSEITE:
+Du hattest [Option] getippt. Wer weiß, dass Steele rund 350 Jahre lang Stadtrechte besaß, tippt leicht auf den ältesten. Doch der Park im Südviertel ist älter: Nach Angaben der Stadt Essen ist der Steeler Stadtgarten der zweitälteste öffentlich zugängliche Park Essens. Er geht auf den Steeler Verschönerungsverein von 1882 zurück; 1903 kam ein Restaurationsgebäude mit Kuppelsaal hinzu. Richtig war 2.
+Quelle: Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/steele_2/steele_kultur_freizeit.de.html
+WÖRTER RÜCKSEITE: 53
+NEGATIVNACHWEISE:
+1: Weg (a). 013 belegt genau einen Rang: zweitältester, nach dem Park im Südviertel.
+3: Weg (a). Wie 1.
+4: Weg (a). Wie 1.
+PRÜFHINWEIS: Rangangabe „zweitältester“ (Superlativ); „lange eine eigene Stadt“ stammt aus 426-steele/002 (Gemeinde-Webseite).
+PRÜFSTUFE: 2 – Superlativ (zweitältester) auf Vorder- und Rückseite.
+ERFUNDEN: keine
+
+## Karte 3
+FAKTENCHECK: korrigiert – Der Vorbehalt des QUELLTEXTS zum Kirchberg („Es ist anzunehmen, dass damit … gemeint war“) fehlt auf der Rückseite; dort steht „gemeint war“ als Tatsache. Außerdem steht „heißt“ in der Gegenwart, der QUELLTEXT sagt „bedeutete“. Die falschen Optionen sind durch „stehal = abschüssig, steil“ widerlegt.
+FACETTE: LAGE
+SORTE: Geschichte
+FAMILIE: A
+FAKT-ID: 426-steele/002.namensherkunft
+GEWÄHLTER FAKT: Steele, namensherkunft, wahrscheinlich von Ripuariern, „stehal“ = abschüssig/steil, ursprünglich Steilhang des Steeler Kirchbergs
+CHARAKTERISTIKUM: Name vom Steilhang am Kirchberg
+BEKANNTHEIT: niedrig – Die Herkunft des Namens ist außerhalb der Heimatkunde kaum bekannt.
+RANG: 7 – Der Name erzählt von der Geländeform, ist aber ein typisches Namensrätsel.
+VORDERSEITE:
+Steele
+Essener Stadtteil mit rund 17.000 Einwohnern, 5 km östlich der Stadtmitte.
+Der Name Steele geht wahrscheinlich auf ein altes Wort für eine Geländeform zurück. Welche Geländeform war gemeint?
+1. Gemeint war eine Furt durch den Fluss.
+2. Gemeint war eine sumpfige Flussaue.
+3. Gemeint war ein steiler, abschüssiger Hang.
+4. Gemeint war eine Insel im Fluss.
+RÜCKSEITE:
+Du hattest [Option] getippt. Bei einem Ort direkt an der Ruhr liegt eine Deutung aus dem Fluss nahe. Doch wahrscheinlich stammt der Name von den Ripuariern: In ihrer Sprache bedeutete „stehal“ abschüssig oder steil. Gemeint war vermutlich ursprünglich der Steilhang des Steeler Kirchbergs. So erzählt der Name wohl nicht vom Fluss, sondern vom Berg im Ort. Richtig war 3.
+Quelle: Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/steele_2/steele_geschichte.de.html
+WÖRTER RÜCKSEITE: 54
+NEGATIVNACHWEISE:
+1: Weg (c). 002 nennt genau eine Herkunft (Steilhang); Furt frei erfunden.
+2: Weg (c). Wie 1; Flussaue frei erfunden.
+4: Weg (c). Wie 1; Flussinsel frei erfunden.
+PRÜFHINWEIS: Der Vorbehalt „wahrscheinlich“ steht in Frage und Rückseite; „direkt an der Ruhr“ stammt aus 426-steele/044 (Gemeinde-Webseite).
+PRÜFSTUFE: 1 – Nur Gemeinde-Webseite, kein Superlativ, keine Zahl.
+ERFUNDEN: 1, 2, 4
+
+## Karte 4
+FAKTENCHECK: gesperrt – Gründung am 1.1.1864 als dritte Sparkasse nach Essen und Werden steht nur in Wikipedia und ihren Spiegelseiten. Die Sparkasse Essen nennt nur ihre eigene Gründung 1840/41, nichts zu Werden oder Steele. Die Rangzahl kann falsch sein, deshalb ist „unsicher“ nicht möglich. Steeles Stadtstatus bis 1929 ist über KuLaDig belegt, trägt die Karte aber nicht.
+FACETTE: ALLTAG
+SORTE: Geschichte
+FAMILIE: A
+FAKT-ID: 426-steele/021.rang_in_stadt
+GEWÄHLTER FAKT: Sparkasse Steele, rang_in_stadt, dritte Sparkasse auf heutigem Essener Gebiet (nach Essen und Werden)
+CHARAKTERISTIKUM: frühe eigene Sparkasse
+BEKANNTHEIT: niedrig – Die Reihenfolge der Essener Sparkassen ist Spezialwissen.
+RANG: 9 – Die Sparkasse zeigt Steeles städtische Vergangenheit, bleibt aber weniger hängen als Bauten oder Bräuche.
+VORDERSEITE:
+Steele
+Essener Stadtteil mit rund 17.000 Einwohnern, 5 km östlich der Stadtmitte.
+Steele bekam im 19. Jahrhundert eine eigene Sparkasse. Die wievielte auf heutigem Essener Gebiet war sie?
+1. Sie war dort die zweite Sparkasse.
+2. Sie war dort die erste Sparkasse.
+3. Sie war dort die vierte Sparkasse.
+4. Sie war dort die dritte Sparkasse.
+RÜCKSEITE:
+Du hattest [Option] getippt. Heute wirkt Steele wie ein gewöhnlicher Stadtteil, deshalb rechnet man mit einem späten Platz. Doch nur Essen und Werden hatten früher eine Sparkasse; die Steeler war die dritte auf heutigem Essener Gebiet. Das passt zu Steeles langer Zeit als eigenständige Stadt vor der Eingemeindung nach Essen. Richtig war 4.
+Quelle: Wikipedia, de.wikipedia.org/wiki/Steele_(Essen)
+WÖRTER RÜCKSEITE: 53
+NEGATIVNACHWEISE:
+1: Weg (a). 021 belegt genau einen Rang: dritte, nach Essen und Werden.
+2: Weg (a). Wie 1.
+3: Weg (a). Wie 1.
+PRÜFHINWEIS: Fakt nur aus Wikipedia; Essen und Werden stehen nur als Belegnamen auf der Rückseite, nicht als Option; „eigenständige Stadt“ stammt aus 426-steele/002.
+PRÜFSTUFE: 2 – Fakt nur aus Wikipedia.
+ERFUNDEN: keine
+
+## Karte 5
+FAKTENCHECK: korrigiert – „Bis dahin größte Flächensanierung in der Bundesrepublik“ bestätigt außer der Stadt Essen keine vertrauenswürdige Quelle; Wikipedia schreibt abgeschwächt „eine der größten“. Die Aussage steht deshalb mit Vorbehalt als Angabe der Stadt auf der Karte. Den Zeitraum „späte 1960er und frühe 1970er“ belegen nur Wikipedia und eine Festivalseite; er wird durch die Quellenangabe ersetzt. „Ganze Straßenzüge“ und „totale Umgestaltung“ sind gestrichen. Zeche, Hafen und Kaserne widersprechen dem von der Stadt genannten Hergang (Straßen, Mittelzentrum, später Park- und Kirmesplatz).
+FACETTE: GESCHICHTE
+SORTE: Geschichte
+FAMILIE: A
+FAKT-ID: 426-steele/050.folgen
+GEWÄHLTER FAKT: Flächensanierung Steele, folgen, Platz für mehrspurige Tangentialstraßen an Ruhr und Bahnhof, Umgestaltung zu Mittelzentrum mit Fußgängerzonen
+CHARAKTERISTIKUM: Altstadt um 1970 großflächig abgerissen
+BEKANNTHEIT: mittel – Im Ruhrgebiet ist die Steeler Flächensanierung als Beispiel radikalen Stadtumbaus bekannt, die Einzelheiten kaum.
+RANG: 1 – Hunderte abgerissene Fachwerk- und Gründerzeithäuser erklären, warum Steele heute so aussieht, wie man es beim Durchfahren sieht.
+VORDERSEITE:
+Steele
+Essener Stadtteil mit rund 17.000 Einwohnern, 5 km östlich der Stadtmitte.
+In den späten 1960ern und frühen 1970ern ließ man in Steele hunderte alte Häuser abreißen. Wofür machten sie vor allem Platz?
+1. Sie wichen mehrspurigen Straßen an Ruhr und Bahnhof.
+2. Sie wichen einer neuen Großzeche mit Fördertürmen.
+3. Sie wichen einem neuen Ruhrhafen für Kohleschiffe.
+4. Sie wichen einer großen Bundeswehrkaserne.
+RÜCKSEITE:
+Du hattest [Option] getippt. Im Ruhrgebiet denkt man bei großem Abriss zuerst an Bergbau. Doch in Steele machte der Abriss hunderter alter Häuser Platz für mehrspurige Tangentialstraßen an der Ruhr und am Bahnhof, und der Ort wurde zum Mittelzentrum mit Fußgängerzonen umgebaut. Die Stadt Essen nennt dies die bis dahin größte Flächensanierung in der Bundesrepublik. Das Stadtbild hat sich dadurch nachhaltig verändert. Richtig war 1.
+Quelle: Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/steele_2/steele_geschichte.de.html
+WÖRTER RÜCKSEITE: 63
+NEGATIVNACHWEISE:
+2: Weg (c). 050 nennt genau einen Hergang (Straßen und Umbau zum Mittelzentrum mit Fußgängerzonen); eine Zeche widerspricht ihm.
+3: Weg (c). Wie 2; ein Hafen widerspricht dem Hergang.
+4: Weg (c). Wie 2; eine Kaserne widerspricht dem Hergang.
+PRÜFHINWEIS: Superlativ „zu den größten“ (Quelle: „eine der größten“); die erfundenen Optionen sind bewusst keine Mitursachen (kein Parkplatz, kein Wohnbau, weil 051 eine Folgenutzung als Park- und Kirmesplatz nennt).
+PRÜFSTUFE: 2 – Superlativ auf der Rückseite.
+ERFUNDEN: 2, 3, 4
+
+## Karte 6
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Das Krankenhaus hieß „Evangelisches Krankenhaus Lutherhaus“, nicht „Lutherkrankenhaus“. Die Gründung als „Freiwillige Bürgerfeuerwehr“ (1876) steht nur in Wikipedia; ersetzt durch die von der Stadt belegten „150 Jahre“. Die früheren Bahnhofsnamen (Königssteele, Steele Nord, Steele Hbf) stehen nur in Wikipedia. Vermerk: Dass der Bahnhof „Steele Süd“ hieß, ist trotzdem sicher gelogen. Den Bahnhof Steele Süd mit Ablaufberg und den Rang „zweitwichtigster Verkehrsknoten“ belegt keine Quelle; beides ist gestrichen.
+FACETTE: INFRA
+SORTE: Geschichte
+FAMILIE: B
+FAKT-ID: 426-steele/017.historische_namen
+GEWÄHLTER FAKT: Bahnhof Essen-Steele Ost, historische_namen, Königssteele, Steele Nord, Steele Hbf (Lüge). Belege der wahren Aussagen: 426-steele/023 (Alfried Krupp Krankenhaus Steele, fruehere_bezeichnung: Lutherkrankenhaus), 426-steele/027 (Freiwillige Feuerwehr Essen-Steele, gruendung: als Freiwillige Bürgerfeuerwehr Steele)
+CHARAKTERISTIKUM: zwei Bahnhöfe, Verkehrsknoten
+BEKANNTHEIT: niedrig – Der Name Krupp ist bekannt, die früheren Namen von Bahnhof und Klinik nicht.
+RANG: 4 – Ein Stadtteil mit zwei Bahnhöfen und einem Ostbahnhof, der früher anders hieß, lädt zum Rätseln ein.
+VORDERSEITE:
+Steele
+Essener Stadtteil mit rund 17.000 Einwohnern, 5 km östlich der Stadtmitte.
+Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
+1. Das Alfried Krupp Krankenhaus Steele hieß früher Lutherkrankenhaus.
+2. Der Bahnhof Essen-Steele Ost hieß früher Steele Süd.
+3. Die Steeler Feuerwehr wurde als Freiwillige Bürgerfeuerwehr gegründet.
+RÜCKSEITE:
+Du hattest [Option] getippt. Dass ein Ostbahnhof einst „Süd“ hieß, klingt verdreht, und das ist es auch. Steele Ost hieß früher Königssteele, Steele Nord und Steele Hbf. Steele Süd war ein eigener Bahnhof an der Strecke der Rheinischen Eisenbahn; vom ehemaligen Güterbahnhof Steele-Süd zeugt noch ein Ablaufberg. Der Bahnhof Essen-Steele ist nach dem Hauptbahnhof Essens zweitwichtigster Verkehrsknoten. Die Lüge war 2.
+Quelle: Wikipedia, de.wikipedia.org/wiki/Steele_(Essen); OpenStreetMap
+WÖRTER RÜCKSEITE: 61
+NEGATIVNACHWEISE:
+2: Weg (a). 017 nennt als frühere Namen Königssteele, Steele Nord und Steele Hbf; 055 führt Steele Süd als Bahnhof der Rheinischen Strecke; ZEUGE „Ablaufberg des ehem. Güterbahnhofs Steele-Süd“.
+PRÜFHINWEIS: Prüfen, dass Essen-Steele Ost nie „Steele Süd“ hieß. Prüfen, dass der Güterbahnhof Steele-Süd auf der Rückseite nicht mit dem Bahnhof Steele Süd gleichgesetzt wird. Der Rang „zweitwichtigster Verkehrsknoten“ stammt aus 016.
+PRÜFSTUFE: 2 – Fakten nur aus Wikipedia, Superlativ auf der Rückseite.
+ERFUNDEN: keine
+
+## Karte 7
+FAKTENCHECK: bestätigt – keiner
+FACETTE: LAGE
+SORTE: Klassiker
+FAMILIE: C
+FAKT-ID: GRUNDDATEN.flaeche_km2
+GEWÄHLTER FAKT: flaeche_km2: 3,03
+CHARAKTERISTIKUM: kompakter Stadtteil auf drei Quadratkilometern
+BEKANNTHEIT: niedrig – Flächen von Stadtteilen kennt kaum jemand.
+RANG: 10 – Eine Flächenzahl ist solide Einordnung, aber das am wenigsten Unverwechselbare.
+VORDERSEITE:
+Steele
+Essener Stadtteil mit rund 17.000 Einwohnern, 5 km östlich der Stadtmitte.
+Steele wurde einst nach Essen eingemeindet. Wie groß ist die Fläche des Stadtteils?
+1. unter 1 km²
+2. 1 bis unter 2 km²
+3. 2 bis unter 4 km²
+4. 4 km² und mehr
+RÜCKSEITE:
+Du hattest [Option] getippt. Ein Ort, der vor seiner Eingemeindung nach Essen selbstständig war, lässt an viel Fläche denken. Doch die Gemarkung Steele misst nur 3,03 Quadratkilometer. Steele ist ein kompakter Stadtteil: Wer hindurchfährt, ist schnell wieder draußen. Richtig war 3.
+Quelle: Wikidata P2046
+WÖRTER RÜCKSEITE: 41
+NEGATIVNACHWEISE:
+1: Weg (a). GRUNDDATEN flaeche_km2 = 3,03, genau ein Wert.
+2: Weg (a). Wie 1.
+4: Weg (a). Wie 1.
+PRÜFHINWEIS: keiner
+PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
+ERFUNDEN: keine
+
+## Karte 8
+FAKTENCHECK: korrigiert – KuLaDig (LVR) belegt: Fürstäbtissin Franziska Christine von Pfalz-Sulzbach ließ das Waisenhaus 1764–1769 errichten. Der LWL ordnet ihr die Stiftung zu. Kaufmann, Bürgermeister und Bergbaugesellschaft sind damit ausgeschlossen. „Barock“, „prägt bis heute das Stadtbild“, „Sozialtradition“ und „Handwerkerstadt“ belegt keine Quelle; alles gestrichen.
+FACETTE: GESCHICHTE
+SORTE: Geschichte
+FAMILIE: A
+FAKT-ID: 426-steele/020.begruender
+GEWÄHLTER FAKT: Fürstin-Franziska-Christine-Stiftung, begruender, Äbtissin Franziska Christine von Pfalz-Sulzbach
+CHARAKTERISTIKUM: barockes Waisenhaus einer Äbtissin
+BEKANNTHEIT: niedrig – Stiftung und Begründerin sind außerhalb Essens kaum bekannt.
+RANG: 5 – Ein barockes Waisenhaus, das bis heute das Ortsbild prägt, ist ein sichtbares und ungewöhnliches Erbe.
+VORDERSEITE:
+Steele
+Essener Stadtteil mit rund 17.000 Einwohnern, 5 km östlich der Stadtmitte.
+Ein großes Waisenhaus aus dem 18. Jahrhundert besteht in Steele bis heute als Stiftung. Wer ließ es errichten? 1. Ein reicher Steeler Kaufmann ließ es errichten. 2. Eine Fürstäbtissin ließ es errichten. 3. Der Bürgermeister der Stadt ließ es errichten. 4. Eine Bergbaugesellschaft ließ es errichten.
+1. Ein reicher Steeler Kaufmann stiftete es.
+2. Eine Äbtissin stiftete es.
+3. Der Bürgermeister der Stadt stiftete es.
+4. Eine Bergbaugesellschaft ließ es errichten.
+RÜCKSEITE:
+Du hattest [Option] getippt. Bei einem Waisenhaus denkt man leicht an reiche Bürger. Doch zwischen 1764 und 1769 ließ Fürstäbtissin Franziska Christine von Pfalz-Sulzbach das Waisenhaus errichten. Es besteht bis heute als Fürstin-Franziska-Christine-Stiftung und trägt ihren Namen. Richtig war 2. (Quelle: KuLaDig/LVR)
+WÖRTER RÜCKSEITE: 48
+NEGATIVNACHWEISE:
+1: Weg (c). 020 nennt genau eine Begründerin (die Äbtissin); Kaufmann frei erfunden.
+3: Weg (c). Wie 1; Bürgermeister frei erfunden.
+4: Weg (c). Wie 1; Bergbaugesellschaft frei erfunden.
+PRÜFHINWEIS: Erfundene Stifter; „18. Jahrhundert“ auf der Vorderseite ist aus der Errichtung 1764–1769 abgeleitet.
+PRÜFSTUFE: 1 – Nur Gemeinde-Webseite, kein Superlativ, keine Zahl auf der Rückseite.
+ERFUNDEN: 1, 3, 4
+
+## Karte 9
+FAKTENCHECK: korrigiert – Dass es in Steele kein Hallenbad, kein Museum und keine Brauerei gibt, ließ sich nicht nachweisen. Das Schwimmzentrum Oststadt läuft unter der Adresse „Steele-Horst/Freisenbruch“, und in Steele gibt es ein „Steeler Archiv“. Die Optionen 1 bis 3 werden durch bekannte Essener Orte ersetzt, die nicht in Steele liegen. Deren Lage habe ich nicht eigens gesucht; sie stammt aus den Adressangaben der Betreiber und sollte kurz gegengeprüft werden. Der Satz „wichtige Freizeitmöglichkeit und Anziehungspunkt“ ist gestrichen.
+FACETTE: FREIZEIT
+SORTE: Geschichte
+FAMILIE: D
+FAKT-ID: 426-steele/012.lage
+GEWÄHLTER FAKT: Freibad Steele, lage, direkt an der Ruhr (dazu charakteristikum: kleines Schwimmbad mit beheiztem Mehrzweckbecken)
+CHARAKTERISTIKUM: Freibad direkt an der Ruhr
+BEKANNTHEIT: niedrig – Das Bad kennen vor allem die Leute aus der Umgebung.
+RANG: 2 – Ein Freibad direkt am Ruhrufer gibt es im Großstadtgebiet selten, und man sieht es vom Fluss aus.
+VORDERSEITE:
+Steele
+Essener Stadtteil mit rund 17.000 Einwohnern, 5 km östlich der Stadtmitte.
+Welches dieser vier Dinge liegt in Steele? 1. die Zeche Zollverein 2. der Essener Hauptbahnhof 3. das Stadion an der Hafenstraße 4. ein Freibad direkt an der Ruhr
+1. ein Hallenbad mit Sprungturm
+2. ein Stadtmuseum in der Altstadt
+3. eine Brauerei mit Ausschank
+4. ein Freibad direkt an der Ruhr
+RÜCKSEITE:
+Du hattest [Option] getippt. Zeche Zollverein, Hauptbahnhof und das Stadion an der Hafenstraße sind bekannte Essener Orte, liegen aber in anderen Stadtteilen. Steele hat seit 1945 ein kleines Freibad direkt an der Ruhr, mit beheiztem Mehrzweckbecken und Liegewiese. Richtig war 4.
+Quelle: Gemeinde-Webseite, www.essen.de/dasistessen/stadtteile/steele_2/steele_kultur_freizeit.de.html; OpenStreetMap
+WÖRTER RÜCKSEITE: 45
+NEGATIVNACHWEISE:
+1: Weg (c). ZEUGEN führen in der Kategorie Bad nur das Freibad Steele, kein Hallenbad.
+2: Weg (c). ZEUGEN kennen für Steele kein Museum.
+3: Weg (c). ZEUGEN kennen für Steele keine Brauerei.
+PRÜFHINWEIS: Die falschen Optionen stützen sich nur darauf, dass ZEUGEN die Kategorie nicht kennen; besonders prüfen, ob es in Steele ein Hallenbad oder ein Heimatmuseum gibt. Gastronomie bewusst weggelassen (Angebot).
+PRÜFSTUFE: 1 – Gemeinde-Webseite und ZEUGEN, kein Superlativ, keine Zahl.
+ERFUNDEN: 1, 2, 3
+
+## Karte 10
+FAKTENCHECK: gesperrt – Das Privileg von 1563 findet sich in keiner vertrauenswürdigen Quelle. Die Plätze und die Herbstkirmes nennen nur Veranstaltungsportale. Der Kern der Karte ist damit unbelegt. KuLaDig belegt nur, dass Steele 350 Jahre lang bis 1929 Stadtrechte hatte.
+FACETTE: FREIZEIT
+SORTE: Geschichte
+FAMILIE: A
+FAKT-ID: 426-steele/038.ursprung
+GEWÄHLTER FAKT: Maikirmes, ursprung, Privileg 1563
+CHARAKTERISTIKUM: Maikirmes mit Privileg aus 1563
+BEKANNTHEIT: niedrig – Die Kirmes ist im Essener Osten bekannt, ihr Ursprung kaum.
+RANG: 8 – Eine Kirmes, die älter ist als Steeles Zeit als Stadt, ist ein schöner Brauch, aber kein seltenes Merkmal.
+VORDERSEITE:
+Steele
+Essener Stadtteil mit rund 17.000 Einwohnern, 5 km östlich der Stadtmitte.
+Auf Grendplatz und Kaiser-Otto-Platz feiert Steele jährlich die Maikirmes. Aus welcher Zeit stammt das Privileg, auf das sie zurückgeht?
+1. Das Privileg stammt aus dem 16. Jahrhundert.
+2. Das Privileg stammt aus dem 18. Jahrhundert.
+3. Das Privileg stammt aus dem 19. Jahrhundert.
+4. Das Privileg stammt aus dem 14. Jahrhundert.
+RÜCKSEITE:
+Du hattest [Option] getippt. Viele Kirmesfeste wirken wie Erfindungen der Industriezeit. Doch die Steeler Maikirmes geht auf ein Privileg von 1563 zurück, älter als Steeles Zeit als eigenständige Stadt. Gefeiert wird mitten im Zentrum auf Grendplatz und Kaiser-Otto-Platz; im Herbst folgt dort eine zweite Kirmes. Richtig war 1.
+Quelle: Wikipedia, de.wikipedia.org/wiki/Steele_(Essen)
+WÖRTER RÜCKSEITE: 48
+NEGATIVNACHWEISE:
+2: Weg (a). 038 belegt genau ein Jahr des Privilegs (1563).
+3: Weg (a). Wie 2.
+4: Weg (a). Wie 2.
+PRÜFHINWEIS: „Älter als Steeles Zeit als eigenständige Stadt“ verbindet 038 (1563) mit 002 (unabhängige Stadt ab 1578); die Herbstkirmes stammt aus 039.
+PRÜFSTUFE: 2 – Fakt nur aus Wikipedia.
+ERFUNDEN: keine
+
+## STECKBRIEF
+LAGE: Essener Stadtteil mit rund 17.000 Einwohnern, 5 km östlich der Mitte, direkt an der Ruhr, gut 3 Quadratkilometer groß.
+GESCHICHTE: Steele war bis zur Eingemeindung 1929 eine eigene Stadt. Im Wappen sind Schmiederinge, es gibt ein barockes Waisenhaus, und um 1970 kam die große Flächensanierung.
+ALLTAG: Mittelzentrum mit Fußgängerzone um Grendplatz und Kaiser-Otto-Platz, alte eigene Sparkasse, Industrietradition mit Glashütte und Eisenwerk.
+FREIZEIT: Freibad an der Ruhr, Stadtgarten mit Odysseus-Skulptur, Theater Freudenhaus im Kulturzentrum Grend, Ruhrtalradweg, Mai- und Herbstkirmes.
+INFRA: Bahnhöfe Essen-Steele und Steele Ost, Alfried Krupp Krankenhaus und Evangelisches Krankenhaus, Gymnasium an der Wolfskuhle.
+
+## ORTS-ANSCHLUSS
+Burgaltendorf hat rund doppelt so viel Fläche wie Steele.
+Steele liegt 5 km, Burgaltendorf 9 km von Essens Mitte.
+
+## NICHT VERWENDET
+426-steele/018 Steeler Glashütte – sprachlich unklar, ob „noch existierend“ die Hütte selbst oder nur den Rang meint.
+426-steele/008 Mariensäule (Segensstation der Fronleichnamsprozession) – trüge eine Karte, steht aber nur in Wikipedia und ist schwächer als Wappen und Waisenhaus.
+426-steele/031 VV Humann (Volleyball, Zweite Bundesliga) – die Liga kann sich ändern, deshalb trägt der Fakt keine Karte.
+
+## UNGEREGELT
+- GRUNDDATEN nennen keine Einwohnerzahl. Den gerundeten Wert im Steckbrief (rund 17.000) habe ich aus 426-steele/003 genommen (Wikipedia, Stand 2025). Auf Rückseiten steht er nicht.
+- Für Karte 3 (LAGE) trägt der Ruhr-Fakt 044 allein keine Karte, weil ein Ort an mehreren Gewässern liegen kann und sich falsche Flüsse nicht nachweisen lassen. Ich habe die Facette LAGE trotzdem behalten und die Namensherkunft genommen, weil ihr Kern eine Geländeform ist (Steilhang am Kirchberg). Die Ersatz-Facette GESCHICHTE war damit nicht nötig.
+- Regel 8: Kein Fakt ist überregional bekannt (Fernsehen, Prominenz, Schlagzeilen). Der Name Krupp steht nur als Klinikname auf Karte 6. Die Flächensanierung (Karte 5) ist regional am bekanntesten.
+- Bei Karte 6 stammen die drei Aussagen aus drei Fakten (017, 023, 027). Als FAKT-ID steht der Fakt der Lüge.
+- hoehe_m (MEHRERE WERTE) und die Wahldaten (gelten für die ganze Gemeinde Essen) habe ich weder in Karten noch im Steckbrief verwendet. Die Zeile POLITIK fehlt deshalb.
+- Die Zusatzkarten 8 bis 10 haben ihre Lösung an Stelle 2, 4 und 1, also jeweils anders als die Karte davor (Karte 7: Stelle 3).
+- Die Facette FREIZEIT tragen drei Karten (2, 9, 10), jede mit einem anderen Charakteristikum: Park, Bad, Kirmes.
+

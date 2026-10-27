@@ -1,21 +1,21 @@
 {
  "stufe": "extraktion",
  "ort": "413-rossbach-wied",
- "prompt": "prompt-stufe1-v0.6.txt",
+ "prompt": "prompt-stufe1-v0.7.txt",
  "modell_wunsch": "haiku",
  "modelle": [
   "claude-haiku-4-5-20251001"
  ],
- "eingabe_zeichen": 20506,
- "token_ein": 23488,
- "token_aus": 22083,
+ "eingabe_zeichen": 31804,
+ "token_ein": 26468,
+ "token_aus": 18234,
  "usage": {
   "input_tokens": 9,
-  "cache_creation_input_tokens": 16351,
+  "cache_creation_input_tokens": 19331,
   "cache_read_input_tokens": 7128,
-  "output_tokens": 22083,
+  "output_tokens": 18234,
   "output_tokens_details": {
-   "thinking_tokens": 12402
+   "thinking_tokens": 3886
   },
   "server_tool_use": {
    "web_search_requests": 0,
@@ -23,19 +23,19 @@
   },
   "service_tier": "standard",
   "cache_creation": {
-   "ephemeral_1h_input_tokens": 16351,
+   "ephemeral_1h_input_tokens": 19331,
    "ephemeral_5m_input_tokens": 0
   },
   "inference_geo": "not_available",
   "iterations": [
    {
     "input_tokens": 9,
-    "output_tokens": 22083,
+    "output_tokens": 18234,
     "cache_read_input_tokens": 7128,
-    "cache_creation_input_tokens": 16351,
+    "cache_creation_input_tokens": 19331,
     "cache_creation": {
      "ephemeral_5m_input_tokens": 0,
-     "ephemeral_1h_input_tokens": 16351
+     "ephemeral_1h_input_tokens": 19331
     },
     "type": "message"
    }
@@ -43,8 +43,8 @@
   "speed": "standard",
   "fallback_credit": null
  },
- "kosten_usd": 0.1438388,
- "sekunden": 142,
+ "kosten_usd": 0.1305538,
+ "sekunden": 131,
  "fehler": false,
- "zeit": "2026-10-17T13:14:36"
+ "zeit": "2026-10-27T08:40:28"
 }

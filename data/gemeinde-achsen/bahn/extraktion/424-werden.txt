@@ -1,217 +1,452 @@
 ENTITÄT: ort
 BEZEICHNUNG: Werden
-QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
+FACETTE: LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_startseite.de.jsp | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  ist_stadtteil_von: Essen (seit 1929)
-  lage_in_essen: Süden
-  dialekt: Waddisch Platt / Wadden
-  ist_ehemalige_abtei_stadt: true
-  namensherkunft: weist auf Furt oder Fähre hin
-  stadtrechte_seit: 1317
-  einwohner: 9666
-  einwohner_stand: 31. März 2025
-  bevölkerungsanteil_unter_18_jahren: 13,3 %
-  bevölkerungsanteil_ab_65_jahren: 30,2 %
-  ausländeranteil: 12,3 %
-  eingemeindung_zu_essen: 1. August 1929
-  brand_stadt: 1498
-  wappen_blasonierung: Auf rotem Grund ein silbernes mit vier roten Kugeln besetztes Pallium
-GUELTIG_AB: 1317
+  ist_stadtteil: true
+  stadtteil_von: Essen
+  lage_beschreibung: südlicher Stadtteil, an den Baldeneysee anschmiegend
+  charakterisierung: "Die Perle an der Ruhr"
+  merkmale: Altstadtgassen, Folkwang-Universität-Gebäude, Idylle
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: kloster
-BEZEICHNUNG: Stift Werden / Benediktinerkloster Werden
-QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
+ENTITÄT: ort
+BEZEICHNUNG: Werden
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_geschichte.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  gegründet_durch: Hl. Liudger
-  gründungsjahr: 799
-  genauigkeit_gründung: ca.
-  ordenstyp: Benediktinerkloster
-  besitzungen_abtei: Bredeney, Heisingen, Schuir, Kettwig, Fischlaken, Heidhausen, Kupferdreh, Byfang, Hetterscheid
-  säkularisiert: 1803
-  grund_säkularisierung: Reichsdeputationshauptschluss
-  gebäudenutzung_1811_1928: Strafanstalt
-  verwaltung_1811_bis_1860: französisch, dann preußisch
-  gebäudenutzung_ab_1927: Folkwang Universität der Künste
+  namensherkunft: "Werd" (Althochdeutsch/Mittelniederdeutsch) bedeutet Ufer, Insel, hochwasserfreier Ort; später Bedeutung einer Örtlichkeit an erhöhter, geschützter Stelle
+  urkundlich_ersterwahnt: 799
+  urkundliche_form: "Uuerethinum Diapanbeci siue Uuerithina"
+  urban_seit: 1317
+  stadt_von_wann_bis: 1317-1929
+  eingemeindung_zu_essen: 1929-08-01
+  aelter_als: Essen
+GUELTIG_AB: 799
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+
+ENTITÄT: stadtteil_wappen
+BEZEICHNUNG: Wappen Werden
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: auf rotem Grund ein mit vier roten Kugeln besetztes silbernes Pallium
+  pallium_bedeutung: Ehrenstück, das Erzbischöfen und in Ausnahmefällen heilig gesprochenen Bischöfen vom Papst verliehen wurde
+  belegt_seit: 17. Jahrhundert
+  figurenbegleitung: heiliger Ludgerus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: benediktiner_abtei
+BEZEICHNUNG: Stift/Abtei Werden
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_jahr: 799
+  gruender: Liudger (Friesen-Missionar)
+  orden: Benediktiner
+  herrschaft_bis: 1803
+  saekulierung: 1803
+  grund_saekulierung: Reichsdeputationshauptschluss durch Preußen
 GUELTIG_AB: 799
 GUELTIG_BIS: 1803
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.98
 
 ---
 
-ENTITÄT: person
-BEZEICHNUNG: Hl. Liudger / Ludgerus
-QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
+ENTITÄT: basilika
+BEZEICHNUNG: Basilika Sankt Ludgerus
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_kultur_freizeit.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  rolle: Begründer des Klosters Werden und des Bistums Münster
-  tätigkeit: Gründung Benediktinerkloster
-  tätigkeitszeitraum: Ende 8. Jahrhundert
-  tätigkeit_jahr: 799
-  genauigkeit_tätigkeit: ca.
-  ruhestätte: Krypta der Abteikirche St. Ludgerus
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
+  ursprung: Abteikirche
+  architekturstil: romanische Baukunst, rheinischer Übergangsstil
+  bauform_von: 1256
+  superlativ: eines der letzten Werke romanischer Baukunst im Rheinland
+  ist_praegendes_bauwerk: true
+  bedeutung_fuer_ort: prägt das Stadtbild von Werden
+  hochaltar: Barock
+  kunstwerke: Gemälde des Werdener Malers Theodor Mintrop
+  reliquien: Gebeine des Hl. Liudger in der Krypta
+  schatzkammer: Helmstedter Kreuz, Liudgerus-Schrein
+GUELTIG_AB: 1256
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
 
 ---
 
 ENTITÄT: kirche
-BEZEICHNUNG: Abteikirche St. Ludgerus
-QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
+BEZEICHNUNG: Luciuskirche / St.-Lucius-Kirche
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_kultur_freizeit.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  errichtet_mit: Kloster Werden
-  errichtungsjahr: 799
-  genauigkeit_errichtung: ca.
-  brände: mehrere große Brände
-  wiedereinweihung_nach_brände: 1275
-  architekturstil: rheinischer Übergangsstil
-  rang_seit: Basilica minor
-  rang_verleihung_datum: 6. Juli 1993
-  rang_verleihung_durch: Papst Johannes Paul II.
-  ausstattung: barocker Hochaltar
-  maler: Theodor Mintrop
-  reliquien: Gebeine des Hl. Liudger
-  schatzkammer_kunstwerke: Helmstedter Kreuz, Liudgerus-Schrein
-  superlativ: eine der schönsten Kirchen des Rheinlandes, Paradebeispiel des rheinischen Übergangsstils
-GUELTIG_AB: 799
+  eingeweiht: 1063
+  architekturstil: romanisch
+  superlativ: älteste erhaltene Pfarrkirche nördlich der Alpen
+  ist_praegendes_bauwerk: true
+  bedeutung_fuer_ort: prägt das Stadtbild von Werden
+GUELTIG_AB: 1063
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: kirche
-BEZEICHNUNG: St.-Lucius-Kirche
-QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
-EIGENSCHAFTEN:
-  gründung_früh_datierung: 10. Jahrhundert
-  baubeginn: 995
-  abt_baubeginn: Werinbert
-  nutzung_nach_säkularisation_1803: 150 Jahre als Stall
-  nutzung_danach: Wohnraum für Flüchtlinge
-  rekonstruktion: 1965
-  weihe_nach_rekonstruktion: 1965
-GUELTIG_AB: 995
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.93
 
 ---
 
 ENTITÄT: kirche
 BEZEICHNUNG: Evangelische Kirche Essen-Werden
-QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_kultur_freizeit.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  weihe: 24. Juni 1900
-  architekturstil: Jugendstil
-  besonderheit: wertvolle Jugendstil-Malereien
-  stifter: Familie Krupp, Familie Huffmann
+  architekturstil: deutsche Renaissance
+  eingeweiht: 1900
+  denkmalschutz: true
+  ausstattung_besonderheit: reiche florale Ausmalung, Walcker-Orgel im Originalzustand
+  gestiftet_von: Familie Krupp und Familie Huffmann
 GUELTIG_AB: 1900
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kunsthochschule
+BEZEICHNUNG: Folkwang Universität der Künste
+FACETTE: ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1929
+  urspruengliche_bezeichnung: "Folkwangschule für Musik, Tanz und Sprechen"
+  bezug_zu_werden: 1946 in ehemalige Benediktiner-Abtei eingezogen
+  standort_hauptsitz: Abteigebäude Werden
+  bedeutung_fuer_ort: Hauptsitz bis heute, prägender Betrieb
+  charakterisierung: renommierte Kunsthochschule
+GUELTIG_AB: 1946
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stausee
+BEZEICHNUNG: Baldeneysee
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: 1933
+  art: Ruhr-Stauwehr und Stausee
+  superlativ: größter der sechs Ruhr-Stauseen
+  bedeutung_fuer_ort: eines der beliebtesten Naherholungsgebiete in der Region
+  schiffsverkehr: Weiße Flotte Baldeney
+GUELTIG_AB: 1933
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+
+---
+
+ENTITÄT: stadpark
+BEZEICHNUNG: Brehminsel
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Ruhrinsel
+  merkmale: alter Baumbestand, zahlreiche Spielangebote
+  bedeutung_fuer_ort: Werdens beliebter Stadtpark
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: schleuse
+BEZEICHNUNG: Schleuse Neukirchen
+FACETTE: HISTORY
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 18. Jahrhundert
+  art: historische Schleusenanlage an der Ruhr
+  historischer_zweck: Ruhrschifffahrt (vor Aufstauung des Baldeneysees)
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: schleuse
+BEZEICHNUNG: Papiermühlenschleuse
+FACETTE: HISTORY
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 18. Jahrhundert
+  art: historische Schleusenanlage an der Ruhr
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: kraeutergarten
+BEZEICHNUNG: Werdener Kräutergarten
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 2006
+  beschreibung: Kräuter- und Heilpflanzengarten
+  anlass: setzt Tradition der klösterlichen Kräutergärten fort
+GUELTIG_AB: 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
 
 ---
 
 ENTITÄT: rathaus
-BEZEICHNUNG: Werdener Rathaus / Altes Rathaus Essen-Werden
+BEZEICHNUNG: Werdener Rathaus (Altes Rathaus)
+FACETTE: HISTORY
 QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
 EIGENSCHAFTEN:
-  errichtung_zeitraum: 1879-1880
-  architekt_planung: Wilhelm Bovensiepen
-  standort_vorher: Grund des ersten Postwärteramts von Werden
-  umbau_erweiterung_zeitraum: 1912-1913
-  umbau_architekten: Grosskopf und Kunz
-  nutzung_heute: Verwaltungsstelle Essen-Werden
+  bauzeit: 1879-1880
+  baumeister: Wilhelm Bovensiepen (Kupferdreher)
+  ursprung_des_gelaendes: Platz des ersten Postwärteramts
+  umbau_und_erweiterung: 1912-1913 durch Essener Architekten Grosskopf und Kunz
+  heutige_form: seit 1912-1913
+  funktion_nach_eingemeindung: Verwaltungsstelle Essen-Werden
 GUELTIG_AB: 1879
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.93
 
 ---
 
-ENTITÄT: gebäude
-BEZEICHNUNG: Bürgermeisterhaus
+ENTITÄT: buergermeisterhaus
+BEZEICHNUNG: Bürgermeisterhaus Werden
+FACETTE: HISTORY
 QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
 EIGENSCHAFTEN:
-  adresse: Heckstraße 105
-  architekturstil: klassizistisch
+  lage: Heckstraße 105
+  architekturstil: klassizistische Villa
   erbaut: 1833
-  erbauer: Industrieller F. Vogelsang
+  erbaut_von: Industrieller F. Vogelsang
   renovierung: 2004
-  nutzung_ursprünglich: Wohnhaus des Bürgermeisters
-  nutzung_ab_1985: Kulturstätte (Lesungen, Kammerkonzerte)
+  funktion_seit: 1985 Kulturstätte (Lesungen, Kammerkonzerte)
 GUELTIG_AB: 1833
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.90
 
 ---
 
-ENTITÄT: denkmal
-BEZEICHNUNG: Kriegerdenkmal
+ENTITÄT: kriegerdenkmal
+BEZEICHNUNG: Kriegerdenkmal Wurden (Rathausvorplatz)
+FACETTE: HISTORY
 QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
 EIGENSCHAFTEN:
-  standort: Rathausvorplatz
-  einweihung_datum: 13. November 1881
-  künstler: Wilhelm Albermann
-  erinnert_an: Gefallene der Kriege von 1864, 1866 und 1870/71
-  verwendung_später: zentraler Schauplatz patriotischer Festlichkeiten
+  einweihung: 1881-11-13
+  kuenstler: Wilhelm Albermann (Werdener Künstler)
+  widmung: Gefallene der Kriege von 1864, 1866 und 1870/71
+  bedeutung_fuer_ort: zentraler Schauplatz patriotischer Festlichkeiten
 GUELTIG_AB: 1881
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.90
 
 ---
 
-ENTITÄT: gebäude
+ENTITÄT: post_gebaeude
 BEZEICHNUNG: Post- und Telegrafengebäude
+FACETTE: INFRA
 QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
 EIGENSCHAFTEN:
-  adresse: Wesselswerth 11
-  grundsteinlegung: 15. Februar 1879
-  erbaut: 1879
+  lage: Wesselswerth 11
+  grundsteinlegung: 1879-02-15
+  heutige_funktion: Bürger- und Jugendzentrum
 GUELTIG_AB: 1879
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: gebäude
-BEZEICHNUNG: Amtsgerichtsgebäude
+ENTITÄT: amtsgericht
+BEZEICHNUNG: Amtsgerichtsgebäude Werden
+FACETTE: INFRA
 QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
 EIGENSCHAFTEN:
   erbaut: 1879
   architekt: Wilhelm Bovensiepen
-  nutzung_heute: Bürger- und Jugendzentrum
+  heutige_funktion: Bürger- und Jugendzentrum
 GUELTIG_AB: 1879
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: person
-BEZEICHNUNG: Theodor Mintrop
+ENTITÄT: infrastruktur_historisch
+BEZEICHNUNG: Gasversorgung Werden
+FACETTE: INFRA
 QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
 EIGENSCHAFTEN:
-  geburtsjahr: 1814
-  geburtsort: Werden
-  todesjahr: 1870
-  sterbeort: Düsseldorf
-  profession: Maler der Romantik und der Düsseldorfer Malerschule
-  werke: Gemälde in der Abteikirche St. Ludgerus
-GUELTIG_AB: 1814
-GUELTIG_BIS: 1870
+  gaslaternen_seit: 1860
+  gasanstalt: errichtet
+GUELTIG_AB: 1860
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: infrastruktur_historisch
+BEZEICHNUNG: Kanalisierung Werden
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
+EIGENSCHAFTEN:
+  kanalisierung: 1887
+GUELTIG_AB: 1887
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: zeitung
+BEZEICHNUNG: Werden-Kettwiger Wochenblatt
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: erste Zeitung in Werden
+  erstweinung: Mitte 19. Jahrhundert
+GUELTIG_AB: 1850
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Pöttingsiepen
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Fischlaken
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stilllegung: 1973
+  kontext: letzte Zeche im Gebiet nach Kohleförderung ab Anfang 16. Jahrhundert
+GUELTIG_AB: 1600
+GUELTIG_BIS: 1973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: industrial_manufaktur
+BEZEICHNUNG: Werdener Feintuchwerke AG
+FACETTE: ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: Entwicklung des Tuchmacherhandwerks zur industriellen Größe
+  betriebsschliessung: 1964
+  lage: direkt an der Ruhr
+  heutige_nutzung: attraktive Wohnadresse
+  bedeutung_fuer_ort: lange Tradition endete 1964
+GUELTIG_BIS: 1964
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: brunnen
+BEZEICHNUNG: Ludgerusbrunnen
+FACETTE: INFRA
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Treffpunkt für Spaziergangspaten-Programm
+  verwendung: Mittwochs 15 Uhr Seniorentreffen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: brunnen
+BEZEICHNUNG: Trinkwasserbrunnen Werdener Markt
+FACETTE: INFRA
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Werdener Markt
+  funktion: öffentliche Trinkwasseranlage
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: grillzone
+BEZEICHNUNG: Grillzone Im Löwental
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Im Löwental (ehemaliges Freibad Werden)
+  beschreibung: öffentliche Grillzone für Eigengrills
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Ruhrtalradweg
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 230 km
+  verlauf: von Ruhrquelle Winterberg bis Mündung in den Rhein bei Duisburg
+  verlauf_in_werden: am Südufer des Baldeneysees
+  charakter: beliebter Fernwanderweg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Essen Erfahren - Route Süd
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  startpunkt: Werden
+  verlauf: rund um Baldeneysee mit Abstecher ins Deilbachtal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: personengruppe
+BEZEICHNUNG: Spaziergangspaten "Willst Du mit mir geh'n"
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zielgruppe: Seniorinnen und Senioren
+  treffpunkt: Ludgerusbrunnen
+  treffzeit: Mittwochs 15 Uhr
+  organisation: Seniorenbeirat in Zusammenarbeit mit Gesundheitsamt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: schifffahrt
+BEZEICHNUNG: Weiße Flotte Baldeney
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betriebszeit: April bis Oktober
+  strecke: vom Stauwehr Essen-Werden bis zum Anleger Essen-Kupferdreh
+  gewässer: Baldeneysee
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
 ENTITÄT: schule
 BEZEICHNUNG: Heckerschule
+FACETTE: BILDUNG
 QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
 EIGENSCHAFTEN:
-  typ: Städtische Grundschule
-  benannt_nach: Johann Julius Hecker
-  bezug_person: in Werden geborener Theologe und Begründer der praxisorientierten Realschule
-GUELTIG_AB: ~1900
+  art: Grundschule
+  namenspate: Johann Julius Hecker (in Werden geborener Theologe und Begründer der praxisorientierten Realschule)
+  stadt: städtische Grundschule
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 
@@ -219,270 +454,532 @@ VERTRAUEN_EXTRAKTION: 0.85
 
 ENTITÄT: schule
 BEZEICHNUNG: Ludgerus-Grundschule
+FACETTE: BILDUNG
 QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
 EIGENSCHAFTEN:
-  typ: Grundschule
-  benannt_nach: heiliger Liudger
-  angebot: Ganztagsbetreuung
-  schülerzahl: ca. 100
-GUELTIG_AB: ~1900
+  art: Grundschule
+  namenspate: heiliger Liudger
+  betreuung: Ganztagsbetreuung für etwa 100 Schülerinnen und Schüler
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: schule
+ENTITÄT: gymnasium
 BEZEICHNUNG: Gymnasium Essen-Werden
+FACETTE: BILDUNG
 QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
 EIGENSCHAFTEN:
-  typ: städtisches Gymnasium
-  ursprünge: Lateinschule des Klosters Werden
-  ursprünge_jahr: 799
-  genauigkeit_ursprünge: ca.
-  spezialität: Musik- und Tanzabteilungen
-  hundertjahrfeier_gymnasium: 2006
-  hundertjahrfeier_gymnasium_kontext: als städtisches Gymnasium
+  art: städtisches Gymnasium
+  ursprung: Lateinschule des Klosters Werden (um 800)
+  bekanntheit: Musik- und Tanzabteilungen
+  geschichtlicher_meilenstein: 2006 hundertjähriges Bestehen als städtisches Gymnasium
 GUELTIG_AB: 800
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.90
 
 ---
 
-ENTITÄT: schule
+ENTITÄT: gymnasium
 BEZEICHNUNG: Mariengymnasium
+FACETTE: BILDUNG
 QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
 EIGENSCHAFTEN:
-  gegründet: 1858
-  gründer: Töchter des heiligen Kreuzes
-  ursprüngliche_schülerschaft: Töchter der oberen Schicht
-  ursprüngliche_form: Mädchengymnasium
-  umwandlung_koedukation_ab: Schuljahr 2010/2011
-  gebäude_adresse_alt: Dudenstraße 14
-  gebäude_alt_erbaut: 1912
-  gebäude_neu_adresse: Brückstraße
-  gebäude_neu_bezug: Februar 2007
+  gruendung: 1858
+  gruender: Töchter des heiligen Kreuzes
+  urspruengliche_form: reines Mädchengymnasium des Bistums Essen
+  urspruengliche_adressaten: Töchter der oberen Schicht
+  konfessionelle_traegerschaft: Bistum Essen
+  geschlechterintegration: seit Schuljahr 2010/11 auch Jungen (in getrennten Klassen)
+  gebaeude_alt: Dudenstraße 14, erbaut 1912
+  gebaeude_neu: Brückstraße, Bezug Februar 2007
 GUELTIG_AB: 1858
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.90
 
 ---
 
-ENTITÄT: hochschule
-BEZEICHNUNG: Folkwang Universität der Künste / Folkwang-Hochschule
+ENTITÄT: allgemeines_ereignis
+BEZEICHNUNG: Straßenbahnunfall am Porthofplatz
+FACETTE: GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
 EIGENSCHAFTEN:
-  gegründet: 1927
-  schwerpunkte: Musik, Theater, Tanz, Gestaltung und Wissenschaft
-  standort_hauptsitz: früheren Abteigebäuden Werdens
-  standort_zweigstelle: Weiße Mühle an der Schleuse Neukirchen
-  philosophie: Folkwang-Gedanke – die Einheit der Künste
-  gebäudenutzung_ab: 1949
-GUELTIG_AB: 1927
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: ereignis
-BEZEICHNUNG: Straßenbahnunfall Werden
-QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
-EIGENSCHAFTEN:
-  datum: 1. September 1912
-  ort: Porthofplatz
-  fahrzeug: Straßenbahn
-  todesfälle_kinder: 4 Kinder
-  alter_todesfälle: 10 bis 13 Jahre
-  verletzte: viele
-  gedenkort: Ehrengrab mit Erläuterungstafel auf Friedhof Werden II
-  beschreibung: schwerer Unfall
-GUELTIG_AB: 1912
+  datum: 1912-09-01
+  art: schwerer Straßenbahnunfall
+  opfer: 4 Kinder (Alter 10-13 Jahre) getötet, viele Verletzte
+  gedenkstaette: Ehrengrab auf Friedhof Werden II mit Erläuterungstafel
+GUELTIG_BIS: 1912
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.88
 
 ---
 
-ENTITÄT: ereignis
-BEZEICHNUNG: Ruhraufstand Werden
+ENTITÄT: allgemeines_ereignis
+BEZEICHNUNG: Ruhraufstand und Ruhrbesetzung Werden
+FACETTE: GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
 EIGENSCHAFTEN:
-  datum_entwaffnung: 15. März 1920
-  aktion_entwaffnung: Arbeiter entwaffneten Teile der Einwohnerwehr
-  datum_folge: 16. März 1920
-  aktion_folge: Freikorps Schultz schoss vor dem Rathaus in friedliche Demonstration
+  kontext: Ruhraufstand
+  datum_entwaffnung: 1920-03-15
+  handlung_entwaffnung: Arbeiter entwaffneten Teile der Einwohnerwehr
+  datum_freikorps: 1920-03-16
+  handlung_freikorps: Freikorps Schultz schoss vor dem Rathaus in friedliche Demonstration
   tote: 4 Demonstranten
-GUELTIG_AB: 1920
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: ereignis
-BEZEICHNUNG: Ruhrbesetzung und Militärgericht in Werden
-QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
-EIGENSCHAFTEN:
-  besatzung_jahr: 1923
-  besatzungsmacht: Frankreich
-  militärgericht_datum: 4. bis 8. Mai 1923
-  angeklagter_haupt: Gustav Krupp von Bohlen und Halbach
-  angeklagte_weitere: Direktoren und Mitarbeiter des Krupp-Konzern
+  deutsche_besatzung: 1923 französische Truppen besetzten Werden
+  militaergericht: 1923-05-04 bis 1923-05-08
+  angeschuldigte: Gustav Krupp von Bohlen und Halbach, Direktoren und Mitarbeiter des Krupp-Konzerns
   vorwurf: Aufwiegelung zum Widerstand am Essener Blutsamstag
-  verurteilung_haft: 15 Jahre
-  verurteilung_geldstrafe: 100 Millionen Mark
-GUELTIG_AB: 1923
+  verurteilung_krupp: 15 Jahre Haft, 100 Millionen Mark Geldstrafe
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 0.92
 
 ---
 
-ENTITÄT: ereignis
-BEZEICHNUNG: Eingemeindung Werdens nach Essen
+ENTITÄT: bevoelkerungsstatistik
+BEZEICHNUNG: Bevölkerung Werden
+FACETTE: POLITIK
 QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
 EIGENSCHAFTEN:
-  datum: 1. August 1929
-  beschreibung: Werden wurde zusammen mit mehreren anderen Orten eingemeindet
-GUELTIG_AB: 1929
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: bauwerk_infrastruktur
-BEZEICHNUNG: Ruhrstauwehr und Baldeneysee
-QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
-EIGENSCHAFTEN:
-  bau_zeitraum: 1931-1933
-  folge_stauung: Baldeneysee entstand
-  nutzung_heute: Naherholungsgebiet
-GUELTIG_AB: 1931
+  einwohner_2025: 9666
+  erfassungsdatum: 2025-03-31
+  anteil_unter_18_jahren: 13.3%
+  anteil_unter_18_jahren_essener_durchschnitt: 16.9%
+  anteil_ueber_65_jahren: 30.2%
+  anteil_ueber_65_jahren_essener_durchschnitt: 21.7%
+  auslaenderanteil: 12.3%
+  auslaenderanteil_essener_durchschnitt: 20.6%
+GUELTIG_AB: 2025
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.93
 
 ---
 
-ENTITÄT: schleuse
-BEZEICHNUNG: Schleuse Neukirchen
+ENTITÄT: mundart
+BEZEICHNUNG: Waddisch Platt / Werdener Platt
+FACETTE: ALLTAG
 QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
 EIGENSCHAFTEN:
-  funktion_historisch: Ruhrschifffahrt
-  zeitraum_funktion: Ende 18. und Anfang 19. Jahrhundert
-  beschreibung: alte Schleuse
-GUELTIG_AB: 1750
-GUELTIG_BIS: 1820
+  art: lokaler bergischer Dialekt
+  charakterisierung: Übergangsmundart mit Ähnlichkeiten zum Kleverländischen, südniederfränkischen und westfälischen
+  erhalt: aktiver Heimatverein für Erhalt der Mundart
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gartenhaus
+BEZEICHNUNG: Gartenhaus Dingerkus
+FACETTE: HISTORY
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architekturstil: Spätbarock
+  ehemaliger_besitzer: Johann Everhard Dingerkus (letzter Abteilicher Kanzleidirektor)
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: rittersitz
+BEZEICHNUNG: Haus Heck
+FACETTE: HISTORY
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 13. Jahrhundert
+  ursprungsfunktion: Rittersitz
+  heutige_funktion: Gemeindehaus der evangelischen Kirche
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Joseph Breuer
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 1904-1929
+  kontext: letzter Bürgermeister vor Eingemeindung
+GUELTIG_AB: 1904
+GUELTIG_BIS: 1929
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Johann Emil Trapp
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 1896-1904
+GUELTIG_AB: 1896
+GUELTIG_BIS: 1904
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: mühle
-BEZEICHNUNG: Weiße Mühle
+ENTITÄT: buergermeister
+BEZEICHNUNG: Ludwig Soldan
+FACETTE: POLITIK
 QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
 EIGENSCHAFTEN:
-  lage: an der Schleuse Neukirchen
-  nutzung: Teil der Folkwang-Hochschule
-GUELTIG_AB: 1927
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
+  amtszeit: 1886-1895
+GUELTIG_AB: 1886
+GUELTIG_BIS: 1895
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: person
-BEZEICHNUNG: Johann Julius Hecker
+ENTITÄT: buergermeister
+BEZEICHNUNG: Alexander Heinrich von dem Bottlenberg gen. von Schirp (jr.)
+FACETTE: POLITIK
 QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
 EIGENSCHAFTEN:
-  geburtsjahr: 1707
-  geburtsort: Werden
-  todesjahr: 1768
-  sterbeort: Berlin
-  profession: Theologe
-  leistung: Gründer der praxisorientierten Realschule
+  amtszeit: 1851-1886
+GUELTIG_AB: 1851
+GUELTIG_BIS: 1886
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Theodor Märcker
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 1819-1843
+GUELTIG_AB: 1819
+GUELTIG_BIS: 1843
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Alexander Heinrich von dem Bottlenberg gen. von Schirp (sen.)
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 1811-1819
+GUELTIG_AB: 1811
+GUELTIG_BIS: 1819
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Benedict Ludger Hiegemann
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 1808-1811
+GUELTIG_AB: 1808
+GUELTIG_BIS: 1811
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Liudger (Hl. Liudger)
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: Friesen
+  funktion: Missionar
+  wirken: Ende des 8. Jahrhunderts
+  gruendung: Benediktiner-Kloster Werden 799
+  wirkung: Namensgeber Ludgerus-Grundschule, Ludgerusbrunnen, Basilika Sankt Ludgerus, Ludgerus-Schrein
+  begruendung: Bistum Münster
+  reliquien: Gebeine in der Krypta der Basilika
+GUELTIG_AB: 799
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Julius Hecker
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
+EIGENSCHAFTEN:
+  geburt_ort: Werden
+  geburt_jahr: 1707
+  todes_ort: Berlin
+  todes_jahr: 1768
+  funktion: Theologe
+  bedeutung: Begründer der praxisorientierten Realschule
+  namenspate: Heckerschule
 GUELTIG_AB: 1707
 GUELTIG_BIS: 1768
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 0.90
 
 ---
 
-ENTITÄT: person
-BEZEICHNUNG: Andreas Petrus Hecker
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Theodor Mintrop
+FACETTE: GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
 EIGENSCHAFTEN:
-  geburtsjahr: 1709
-  geburtsort: Werden
-  todesjahr: 1771
-  sterbeort: Stargard/Pommern
-  profession: Theologe, Pietist, Lehrer und Reformpädagoge
-GUELTIG_AB: 1709
-GUELTIG_BIS: 1771
+  geburt_ort: Werden
+  geburt_jahr: 1814
+  todes_ort: Düsseldorf
+  todes_jahr: 1870
+  funktion: Maler der Romantik und der Düsseldorfer Malerschule
+  kunstwerke: Gemälde in der Basilika Sankt Ludgerus
+GUELTIG_AB: 1814
+GUELTIG_BIS: 1870
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 0.88
 
 ---
 
-ENTITÄT: person
-BEZEICHNUNG: Wilhelm Albermann
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ludger Mintrop
+FACETTE: GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
 EIGENSCHAFTEN:
-  herkunft: Werdener Künstler
-  werke: Kriegerdenkmal auf dem Rathausvorplatz
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Wilhelm Bovensiepen
-QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
-EIGENSCHAFTEN:
-  herkunftsort: Kupferdreh
-  titel: Baumeister
-  bauten: Werdener Rathaus, Amtsgerichtsgebäude
+  geburt_ort: Werden
+  geburt_jahr: 1880
+  todes_ort: Essen
+  todes_jahr: 1956
+  funktion: Geophysiker
+GUELTIG_AB: 1880
+GUELTIG_BIS: 1956
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: person
-BEZEICHNUNG: Ludger Mintrop
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karl Forstmann
+FACETTE: GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
 EIGENSCHAFTEN:
-  geburtsjahr: 1880
-  geburtsort: Werden
-  todesjahr: 1956
-  sterbeort: Essen
-  profession: Geophysiker
-GUELTIG_AB: 1880
-GUELTIG_BIS: 1956
+  geburt_ort: Werden
+  geburt_jahr: 1826
+  todes_ort: Wiesbaden
+  todes_jahr: 1889
+  funktion: Tuchfabrikant, Stadtverordneter
+  ehrentitel: erster Ehrenbürger Werdens
+GUELTIG_AB: 1826
+GUELTIG_BIS: 1889
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 0.88
 
 ---
 
-ENTITÄT: person
-BEZEICHNUNG: Hermann Joseph Müller
-QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
+ENTITÄT: sportverein
+BEZEICHNUNG: Frauen und Mädchen-Turnverein 1953 Essen-Werden e.V.
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_kultur_freizeit.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  geburtsjahr: 1803
-  geburtsort: Werden
-  todesjahr: 1876
-  sterbeort: Aschaffenburg
-  profession: Beamter, Jurist und Journalist
-  funktion: Mitglied der Frankfurter Nationalversammlung
-GUELTIG_AB: 1803
-GUELTIG_BIS: 1876
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: mundart_dialekt
-BEZEICHNUNG: Waddisch Platt / Werdener Platt
-QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
-EIGENSCHAFTEN:
-  typ: lokaler bergischer Dialekt
-  gesprochen_in: Werden
-  charakteristik: Übergangsmundart
-  ähnlichkeiten: Kleverländisch, südniederfränkische und westfälische Dialekte
-  erhalt_initiative: aktiver Heimatverein
-GUELTIG_AB: 799
+  gruendung: 1953
+GUELTIG_AB: 1953
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: Werdener Turnerbund 1886 e.V.
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1886
+GUELTIG_AB: 1886
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: Rasen- und Wassersportverein Essen 1931 e.V.
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1931
+GUELTIG_AB: 1931
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: Kanufreunde Essen e.V.
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Kanusportverein
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: sportanlage
+BEZEICHNUNG: Stadtbad Werden
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Schwimmbad
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: chor
+BEZEICHNUNG: Männerchor Werdener Sangesfreunde e.V.
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Männerchor
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: schatzkammer
+BEZEICHNUNG: Schatzkammer Sankt Ludgerus
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Basilika Sankt Ludgerus
+  kunstwerke: Helmstedter Kreuz, Liudgerus-Schrein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bibliothek
+BEZEICHNUNG: Stadtteilbibliothek Werden
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Stadtteilbibliothek
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: jugendzentrum
+BEZEICHNUNG: Jugendzentrum Werden / JuBB - Werden
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Jugendzentrum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: gewässer
+BEZEICHNUNG: Ruhr
+FACETTE: LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: "Ruhr" prägt das Ortsbild ("Die Perle an der Ruhr")
+  bedeutung_fuer_ort: Lage an der Ruhr ist attraktiver Faktor für Wohnen und Freizeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: markt
+BEZEICHNUNG: Werdener Markt
+FACETTE: ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_statistik.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: zentrale Haltestelle, öffentlicher Marktplatz
+  verkehrsanbindung: Busse 169, 180, 190, SB19, NE8
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Essen-Werden
+FACETTE: INFRA
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_statistik.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: westlich der Ruhr
+  verkehrsanbindung: S-Bahn Linie S6
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: handelszone
+BEZEICHNUNG: Fußgängerzonen Grafenstraße und Hufergasse
+FACETTE: ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_statistik.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Zentrum von Werden
+  charakterisierung: hochwertige Einzelhandelsgeschäfte, breite Gastronomie
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wohngebiet
+BEZEICHNUNG: Werdener Zentrum
+FACETTE: ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/werden_2/werden_statistik.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: historisches Zentrum mit vielen Sehenswürdigkeiten, Lage an der Ruhr
+  wohnungsangebot: hoher Anteil Ein- und Zweifamilienhäuser
+  baualter: etwa ein Drittel aus der Zeit vor 1918
+  attraktivitaet: beliebtes Wohngebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: strafanstalt
+BEZEICHNUNG: Strafanstalt Werden
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
+EIGENSCHAFTEN:
+  lage: früheren Abteigebäuden
+  nutzungszeit: 1811-1928
+  verwaltung_phasen: zuerst französisch, dann preußisch
+GUELTIG_AB: 1811
+GUELTIG_BIS: 1928
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kunsthochschule
+BEZEICHNUNG: Folkwang-Hochschule / Folkwang Universität der Künste
+FACETTE: BILDUNG
+QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
+EIGENSCHAFTEN:
+  fachgebiet: Musik, Theater, Tanz, Gestaltung, Wissenschaft
+  standort_hauptsitz: frühere Abteigebäuden Werdens
+  standort_nebensitz: Weiße Mühle an der Schleuse Neukirchen
+  gruendung: 1927
+  idealismus: Folkwang-Gedanke (Einheit der Künste) seit 1927
+  internationalitaet: Studierende und Lehrende aus aller Welt
+GUELTIG_AB: 1927
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Kettwiger Panoramasteig
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Werden | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Wandermöglichkeit in/um Werden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75

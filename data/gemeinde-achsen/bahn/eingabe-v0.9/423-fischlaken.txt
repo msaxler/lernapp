@@ -1,0 +1,562 @@
+ZIELORT: Fischlaken (Ortsteil von Essen)
+LAGE: Stadtteil von Essen, 8 km südlich der Stadtmitte (Luftlinie)
+ARTIKEL: Fischlaken
+
+GRUNDDATEN:
+  landkreis: Stadtkreis Essen — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P131]
+  bundesland: Nordrhein-Westfalen — GILT FÜR DIE GEMEINDE ESSEN  [über die Gemeinde]
+  flaeche_km2: 9,17  [Wikidata P2046]
+  kfz: E (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P395]
+  hoehe_m: 122 | 127  [Wikidata P2044; Altbestand geo.sqlite (GeoNames 2926483)]
+  naechste_grossstadt: Essen, 8 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Düsseldorf, 25 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  eingemeindung: 1929-04-01  [dewiki Infobox]
+  plz: 45239, 45257  [Wikidata P281]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,5 %, SPD 22,2 %, AfD 17 %, GRÜNE 12,4 %, Die Linke 9,5 %; Wahlbeteiligung 80,1 % — GILT FÜR DIE GEMEINDE ESSEN  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 82,2 % im Bundesland (Ort 80,1 %, Abstand 2,1 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+ZEUGEN (OpenStreetMap, Gemeindegrenze; belegt nur, dass es die Sache gibt):
+  Freizeit: Hafen Scheppen
+  Freizeit: Seilscheibe von Zeche Pörtingsiepen
+  Freizeit: Essener Yacht-Club
+  Freizeit: Marinekameradschaft Essen Kupferdreh von 1912
+  Freizeit: Seglerkameradschaft Scheppen
+  Freizeit: Segelclub Najade Essen
+  Freizeit: EFKV - Essener Fahrtensegler- und Kanuverein (sailing)
+  Freizeit: Sportgemeinschaft Ruhe e.V.
+  Burg/Denkmal: Der Seligen Mutter Maria
+  Burg/Denkmal: Zeche Hermann
+  Burg/Denkmal: Zeche Augusta
+  Burg/Denkmal: Hohes Kreuz
+  Burg/Denkmal: Kriegsgräber
+  Aussicht: Baldeneyseeblick
+  Aussicht: Ruhrtalblick
+  Gipfel: Halde Pörtingsiepen
+  Bahnhof: Haus Scheppen
+  Gewässer: Ruhr
+  Radweg: Ruhrtalradweg (230 km)
+  Radweg: Deutsche Fußball Route NRW (Mitte)
+  Wanderweg: Rundweg um Kupferdreh (25 km)
+  Wanderweg: [Raute6] Hügellandweg
+  Wanderweg: [Raute4] Eggenweg (43 km)
+  Wanderweg: Langenhorst Rundweg A2 (7.3 km)
+  Wanderweg: Bergischer Weg
+  Wanderweg: BaldeneySteig (seit 2017, 26.7 km)
+
+PLAN:
+  Karte 1: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 4
+  Karte 2: FACETTE FREIZEIT (Ersatz: ALLTAG), Geschichte, D, wahre Option an Stelle 1
+  Karte 3: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, A, wahre Option an Stelle 2
+  Karte 4: FACETTE ALLTAG (Ersatz: FREIZEIT), Geschichte, D, wahre Option an Stelle 3
+  Karte 5: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 4
+  Karte 6: FACETTE INFRA (Ersatz: LAGE), Geschichte, B, Lüge an Stelle 2
+  Karte 7: FACETTE LAGE, Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Höhe des Orts), C, wahre Spanne an Stelle 2
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je ein weiteres Charakteristikum, Facette frei, Familie A, B oder D, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Stadtwald (Ortsteil von Essen)
+  landkreis: Stadtkreis Essen — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P131]
+  flaeche_km2: 4,14  [Wikidata P2046]
+  kfz: E (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P395]
+  hoehe_m: 122 | 144 — MEHRERE WERTE  [Wikidata P2044; Altbestand geo.sqlite (GeoNames 11611394)]
+  naechste_grossstadt: Essen, 4 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,5 %, SPD 22,2 %, AfD 17 %, GRÜNE 12,4 %, Die Linke 9,5 %; Wahlbeteiligung 80,1 % — GILT FÜR DIE GEMEINDE ESSEN  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 82,2 % im Bundesland (Ort 80,1 %, Abstand 2,1 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+FAHRT: Wiehre, Waldsee, Altstadt, Stühlinger, Neuburg, Herdern, Zähringen, Brühl, Oberau, Haslach, Sankt Georgen, Vauban, Weingarten, Betzenhausen, Mooswald, Landwasser, Lehen, Rieselfeld, Dietenbach, Opfingen, Tiengen, Munzingen, Waltershofen, Ebnet, Littenweiler, Kappel, Merzhausen, Au, Horben, Günterstal, Ebringen, Schallstadt, Bad Krozingen, Staufen, Heitersheim, Müllheim, Waldkirch, Hochdorf, Gundelfingen, Denzlingen, Glottertal, March, Umkirch, Gottenheim, Merdingen, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Vogtsburg, Oberrotweil, Achkarren, Burkheim, Bischoffingen, Bickensohl, Oberbergen, Schelingen, Sasbach, Leiselheim, Wyhl, Forchheim, Breisach, Gündlingen, Niederrimsingen, Oberrimsingen, Kirchzarten, Stegen, St. Peter, St. Märgen, Oberried, Buchenbach, Höllental, Hinterzarten, Breitnau, Titisee, Titisee-Neustadt, Feldberg, Schluchsee, Lenzkirch, Eisenbach, Friedenweiler, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Neuwied, Altwied, Rengsdorf, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Bonefeld, Straßenhaus, Oberhonnefeld-Gierend, Willroth, Horhausen, Hümmerich, Krunkel, Breitscheid, Kloster Marienhaus, Wolfenacker, Kupferdreh, Überruhr, Bergerhausen, Rellinghausen, Stadtwald, Fischlaken, Werden, Burgaltendorf, Steele, Byfang, Rüttenscheid, Bredeney, Huttrop, Kettwig, Schuir, Heidhausen, Haarzopf, Margarethenhöhe, Südostviertel, Freisenbruch
+
+FAKTEN (Zielort Fischlaken):
+ID: 423-fischlaken/001
+ENTITÄT: ort
+BEZEICHNUNG: Fischlaken
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_in_stadt: Südlich von Essen
+  status_stadtteil: true
+  eingemeindung_essen: 1929-08-01
+  namensherkunft: Name reicht bis ins 9. Jahrhundert zurück; Mönche des Klosters Werden hatten hier landwirtschaftliche Gebiete und Fischteiche
+  fruehere_schreibweisen: Fislacu, Fiselacu, Wislaken
+  bedeutung_schreibweisen: stehendes Gewässer mit reichem Fischbestand
+  urkundlich_erstmals_erwaehnt: 796
+  zugehoerigkeit_bis_1803: Benediktinerkloster Werden
+  zugehoerigkeit_1808: Bürgermeisterei Werden
+  zugehoerigkeit_ab_1857: Werden-Land
+  superlativ: ältestes Dorf an der Ruhr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 423-fischlaken/002
+ENTITÄT: ort
+BEZEICHNUNG: Fischlaken
+FACETTE: ALLTAG | LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_statistik.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: Wohnt man im Grünen; Siedlungen mit überwiegend Ein- und Zweifamilienhäusern wechseln sich ab mit landwirtschaftlich genutzten Flächen und Waldungen
+  grenzen: Im Norden Baldeneysee; im Westen Werden; im Südwesten Heidhausen; im Südosten Kupferdreh; im Norden Heisingen und Bredeney mit Ruhr als Grenzfluss
+  einzelhandelsangebot: nur wenige kleine Geschäfte; täglicher Bedarf wird in Heidhausen und Werden gedeckt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 423-fischlaken/003
+ENTITÄT: ort
+BEZEICHNUNG: Fischlaken
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 4353
+  einwohner_stand: 2025-03-31
+  bevölkerungsanteil_unter_18: 15.8, genauigkeit: "%"
+  bevölkerungsanteil_ab_65: 27.5, genauigkeit: "%"
+  auslaenderanteil: 8.0, genauigkeit: "%"
+  wahlbezirk: 40
+  wahlbezirk_umfasst: Bredeney, Fischlaken, Schuir
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2025
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 423-fischlaken/004
+ENTITÄT: stadtwappen
+BEZEICHNUNG: Stadtteilwappen Fischlaken
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  blasonierung: In Blau zwischen silbernen erhöhten und erniedrigten Balken ein waagerechter silberner Fisch
+  typ: redendes Wappen
+  designer: Kurt Schweder
+  symbolik: spielt auf Namen an; drückt stehendes Gewässer mit reichem Fischbestand aus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 423-fischlaken/005
+ENTITÄT: see
+BEZEICHNUNG: Baldeneysee
+FACETTE: FREIZEIT | LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  groesse_rang: größter der sechs Ruhr-Stauseen
+  entstehung: 1933
+  bedeutung_fuer_ort: eines der beliebtesten Naherholungsgebiete in der Region
+  lage_zu_fischlaken: Norden des Stadtteils
+GUELTIG_AB: 1933
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 423-fischlaken/006
+ENTITÄT: lehnshof
+BEZEICHNUNG: Haus Scheppen
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: Ehemaliger Lehnshof der Herren von Scheppen
+  zeit_mittelalter: aus dem Mittelalter
+  lage: am Baldeneysee
+  erhaltene_reste: aus dem 17. Jahrhundert
+  bedeutung_fuer_ort: Sehenswürdigkeit, überregional bekannter Motorradtreff
+  nutzung_heute: See-Café, Ausflugsort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 423-fischlaken/007
+ENTITÄT: bergwerk
+BEZEICHNUNG: Zeche Pörtingsiepen
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betriebszeit: 1779-1973
+  status: 1973 stillgelegt, letzte Zeche in Fischlaken
+  denkmal: Seilscheibe des Fördergerüstes aufgestellt
+  arbeitplaetze: gab zeitweise über 2000 Menschen Arbeit
+GUELTIG_BIS: 1973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 423-fischlaken/008
+ENTITÄT: museumsbahn
+BEZEICHNUNG: Hespertalbahn
+FACETTE: FREIZEIT | GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: Ehemalige Schmalspurbahn
+  ursprungszweck: Erschließung der Zeche Pörtingsiepen
+  streckenverlauf: von Essen-Kupferdreh bis Haus Scheppen
+  betrieb_heute: historische Dampf- und Diesellokomotiven
+  betriebstage: 25 Tage im Jahr
+  bedeutung_fuer_ort: erinnert an alte Zeiten des Schienenverkehrs
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 423-fischlaken/009
+ENTITÄT: radweg
+BEZEICHNUNG: Ruhrtalradweg
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 230, genauigkeit: "km"
+  streckenverlauf: von der Ruhrquelle in Winterberg bis zur Mündung in den Rhein bei Duisburg
+  lage_zu_fischlaken: verläuft am Südufer des Baldeneysees durch Fischlaken
+  beschreibung: beliebter Radweg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 423-fischlaken/010
+ENTITÄT: radroute
+BEZEICHNUNG: Essen Erfahren - Route Süd
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  streckenverlauf: ausgeschilderte Route rund um den Baldeneysee mit Abstecher ins Deilbachtal
+  lage_zu_fischlaken: führt am Südufer des Sees auch durch Fischlaken
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 423-fischlaken/011
+ENTITÄT: hoefeplatz
+BEZEICHNUNG: Fischlaker Höfe
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: an der gleichnamigen Straße
+  beschreibung: Reihe von historischen Höfen
+  zeitspanne: 18. und 19. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 423-fischlaken/012
+ENTITÄT: schifffahrtslinie
+BEZEICHNUNG: Weiße Flotte Baldeney
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betrieb: Von April bis Oktober
+  strecke: vom Stauwehr in Essen-Werden bis zum Anleger in Essen-Kupferdreh
+  angebot: Ausflugsfahrten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 423-fischlaken/013
+ENTITÄT: kirche
+BEZEICHNUNG: Christi-Himmelfahrtskirche
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+  ursprung: 1952 aus der Scheune des ehemaligen Wintgenhofes als Notkirche entstanden
+  fenster: Werdener Glasmaler de Graaf
+  umbau_wintgenhof: 1956 Wohnhaus zum Pfarrhaus umgebaut
+  eigenstaendige_pfarrgemeinde_seit: ein Jahr nach 1956 (ehemalige Werdener Rektoratsgemeinde)
+  architekt: Felix König aus Heisingen
+  grundsteinlegung: 1963-08-09
+  einweihung: 1964-12-20
+  lage: zwischen Wintgenstraße und Lürsweg
+GUELTIG_AB: 1952
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 423-fischlaken/014
+ENTITÄT: kirche
+BEZEICHNUNG: Zur Schmerzhaften Mutter Maria
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+  status: wird nicht mehr finanziell durch das Bistum Essen unterstützt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 423-fischlaken/015
+ENTITÄT: kirche
+BEZEICHNUNG: Jona-Kirche
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  lage: Am Schwarzen
+  architekt: Heinrich Otto Vogel, E. Brennecke
+  einweihung: 1965-02-14
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 423-fischlaken/016
+ENTITÄT: gemeinde
+BEZEICHNUNG: Neuapostolische Gemeinde Fischlaken
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  bestand: 1908-2008
+  kirchengebaeude_errichtet: 1968
+  kirchengebaeude_beschreibung: turmloses Kubus
+  kirchengebaeude_lage: Wintgenstraße
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 423-fischlaken/017
+ENTITÄT: verein
+BEZEICHNUNG: BSV Gut Schuss Essen-Fischlaken 07 e.V.
+FACETTE: ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Bürgerschützenverein
+  adresse: Laupendahler Landstraße 47
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 423-fischlaken/018
+ENTITÄT: verein
+BEZEICHNUNG: Essener Yacht-Club e.V.
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Segelclub
+  adresse: Hardenbergufer 375
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 423-fischlaken/019
+ENTITÄT: verein
+BEZEICHNUNG: Segelkameradschaft Scheppen e.V.
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Segelverein
+  adresse: Hardenbergufer 268
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 423-fischlaken/020
+ENTITÄT: reitanlage
+BEZEICHNUNG: Reitstall und Reitschule Landwirtschaft Maas
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Maasstraße 13
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 423-fischlaken/021
+ENTITÄT: verein
+BEZEICHNUNG: Heidhauser Reiterverein Maashof
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  lage: Maashof
+  ursprung: seit 1512 abteilich-werdenscher Behandigungshof Padberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 423-fischlaken/022
+ENTITÄT: verein
+BEZEICHNUNG: Fischlaker Begräbnisverein
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1877
+  gruendungsanlass: Initiative von Fischlaker Bürgern
+  ursprung: Überführung von Toten mit Heuwagen zur Friedhofskapelle
+  innovation: Leichenwagen für verstorbene Mitglieder
+  betriebsform: Sterbekasse
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 423-fischlaken/023
+ENTITÄT: schule
+BEZEICHNUNG: Bernhardschule / Ruhrtalschule
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  ursprung: 1782 Schule zu errichten erlaubt durch Abt Bernhard II.
+  ursprungsname: Schule am Stüfken
+  umbenennung: später nach dem Abt benannt
+  lage_ursprung: heutige Fischlaker Straße
+  lage_ersatz: Steinhaus nach Brand
+  baujahr_ersatz: 1885
+  funktion_ab_1969: Sonderschule Ruhrtalschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 423-fischlaken/024
+ENTITÄT: schule
+BEZEICHNUNG: Luisenschule
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  baujahr: 1910
+  lage: Bernhardstraße
+  schliessung: 1939
+  zerstoerung: 1943 im Zweiten Weltkrieg
+GUELTIG_AB: 1910
+GUELTIG_BIS: 1943
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 423-fischlaken/025
+ENTITÄT: schule
+BEZEICHNUNG: Peter-Ullner-Schule / Fischlaker Grundschule
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnung: 1955-09-14
+  konfession: konfessionslos
+GUELTIG_AB: 1955
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 423-fischlaken/026
+ENTITÄT: politician
+BEZEICHNUNG: Hans Toussaint
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  beruf: Großhandelskaufmann
+  wahlbezirk: 40 (Bredeney, Fischlaken, Schuir)
+  wahlperiode: 1946-1975
+  amt_oberbuergermeister: 1949-1956
+GUELTIG_AB: 1946
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 423-fischlaken/027
+ENTITÄT: politician
+BEZEICHNUNG: Wolfgang Reiniger
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  beruf: Rechtsanwalt und Notar
+  wahlbezirk: 40 (Bredeney, Fischlaken, Schuir)
+  wahlperiode: 1975-1999
+  amt_oberbuergermeister: 1999-2004
+GUELTIG_AB: 1975
+GUELTIG_BIS: 1999
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 423-fischlaken/028
+ENTITÄT: politician
+BEZEICHNUNG: Matthias Hauer
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  beruf: Rechtsanwalt
+  wahlbezirk: 40 (Bredeney, Fischlaken, Schuir)
+  wahlperioden: 2004, 2009
+  besonderheit: stadtweit höchstes CDU-Ergebnis
+GUELTIG_AB: 2004
+GUELTIG_BIS: 2009
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 423-fischlaken/029
+ENTITÄT: politician
+BEZEICHNUNG: Ulrich Beul
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  wahlbezirk: 40 (Bredeney, Fischlaken, Schuir)
+  vertreter_seit: 2014
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2014
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 423-fischlaken/030
+ENTITÄT: siedlung
+BEZEICHNUNG: Werkssiedlung an Lürsweg und Lürshöhe
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  erbauung: 1950er Jahre
+  vorbild: Gartenstadt
+  charakterisierung: freistehende Ein- und Zweifamilienhäuser
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 423-fischlaken/031
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bundesstraße 224
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  bedeutung: direkte Anbindung als wichtige Essener Verkehrsader
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 423-fischlaken/032
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Zentrale Haltestelle Fischlaker Straße
+FACETTE: INFRA
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_statistik.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bus_linie: 180
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 423-fischlaken/033
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnhof Essen-Werden
+FACETTE: INFRA
+QUELLE: https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_statistik.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entfernung: nächstgelegen
+  sbahn_linie: S6
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 423-fischlaken/034
+ENTITÄT: gewaesser
+BEZEICHNUNG: Ruhr
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Grenzfluss (nördliche Grenze zwischen Fischlaken und Heisingen/Bredeney)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 423-fischlaken/035
+ENTITÄT: flur
+BEZEICHNUNG: Flur Weinberg
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  lage: teilweise auf Werdener Gebiet
+  fruehe_strassennamen: Rebenranke, Rebstock, Weinberg
+  fruehe_verwendung: Weinbau
+  historischer_beleg: alter Weinberg bei Kettwig bereits 1877 erwähnt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 423-fischlaken/036
+ENTITÄT: denkmal
+BEZEICHNUNG: Seilscheibe des Fördergerüstes Zeche Pörtingsiepen
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  ursprung: Fördergerüst der Zeche Pörtingsiepen
+  aufstellung: als Denkmal aufgestellt
+  erinnerung: an die stillgelegte Zeche und Bergbaugeschichte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 423-fischlaken/037
+ENTITÄT: ort
+BEZEICHNUNG: Fischlaken
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Fischlaken | Wikipedia
+EIGENSCHAFTEN:
+  archaeologische_funde: Feuersteine aus Bronzezeit, Mittelsteinzeit, Altsteinzeit (um 30000 v.Chr.)
+  gruben_und_pfoestenloecher: lassen auf sehr frühe Besiedlung schließen
+  erste_namentliche_erwaehnung: 8. Jahrhundert
+  schenkungs_ereignis_796: Theganbalds überträgt Alfgatinghof an Liudger (Werdener Klostergründer)
+  schenkungsurkunde_fundort: Staatsarchiv Leiden (Abschrift aus 10. Jahrhundert)
+  wirtschaft_urspruenglich: Land- und Forstwirtschaft
+  steinkohleabbau_beginn: 1578 auf Zeche Richradt
+  industrielle_nutzung: ausgehend 19. und beginnend 20. Jahrhundert, heute nur wenige Zeugnisse
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+

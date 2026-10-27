@@ -7345,19 +7345,51 @@
     "fehler": "HTTP Error 404: Not Found"
    },
    {
+    "url": "http://weissenthurm.de/index.php/tourismus/gastgeber",
+    "fehler": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "http://weissenthurm.de/index.php/buergerservice/vereine",
+    "fehler": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "http://weissenthurm.de/index.php/tourismus/ausflugsziele",
+    "fehler": "HTTP Error 404: Not Found"
+   },
+   {
     "url": "https://www.ich-geh-wandern.de/weißenthurm",
     "art": "Gemeinde-Webseite",
     "zeichen": 4592
    },
    {
+    "url": "https://weissenthurm.de/index.php/vereine",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 574
+   },
+   {
+    "url": "https://weissenthurm.de/index.php/tourismus",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 573
+   },
+   {
+    "url": "https://weissenthurm.de/index.php/wirtschaft",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 447
+   },
+   {
     "url": "https://weissenthurm.de/index.php/adressen/kirchengemeinden",
     "art": "Gemeinde-Webseite",
     "zeichen": 882
+   },
+   {
+    "url": "https://weissenthurm.de/index.php/wirtschaft/95-wirtschaft-in-weissenthurm",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 442
    }
   ],
   "start": "https://www.weissenthurm.de/",
-  "sekunden": 9,
-  "zeichen": 5649
+  "sekunden": 32,
+  "zeichen": 8035
  },
  "141-spay": {
   "slug": "141-spay",
@@ -9997,10 +10029,26 @@
  },
  "193-leverkusen": {
   "slug": "193-leverkusen",
-  "seiten": [],
-  "start": "https://www.leverkusen.de/",
-  "sekunden": 2,
-  "zeichen": 0
+  "seiten": [
+   {
+    "url": "https://www.leverkusen.de/stadt-erleben/freizeit/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1396
+   },
+   {
+    "url": "https://www.leverkusen.de/stadt-erleben/freizeit/naherholung",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2426
+   },
+   {
+    "url": "https://www.leverkusen.de/stadt-erleben/freizeit/jung-in-leverkusen",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 3715
+   }
+  ],
+  "start": "https://www.leverkusen.de/stadt-erleben/",
+  "sekunden": 4,
+  "zeichen": 7824
  },
  "194-langenfeld": {
   "slug": "194-langenfeld",
@@ -10257,7 +10305,7 @@
    {
     "url": "https://www.essen.de/dasistessen/stadtgeschichte_1/stadtarchiv_1/stadtarchiv_startseite.de.html",
     "art": "Gemeinde-Webseite",
-    "zeichen": 5283
+    "zeichen": 4171
    },
    {
     "url": "https://www.essen.de/dasistessen/stadtgeschichte_1/stadtarchaeologie/stadtarchaeologie___die_funde_des_monats.de.html",
@@ -10270,9 +10318,14 @@
     "zeichen": 1868
    },
    {
+    "url": "https://www.essen.de/leben/sport_und_freizeit_/bildergalerien/100_jahre_vom_stadtamt_fuer_leibesuebungen_zu_den_sport_und_baederbetrieben_essen.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1619
+   },
+   {
     "url": "https://www.essen.de/dasistessen/essen_in_zahlen/statistik_im_ueberblick.de.html",
     "art": "Gemeinde-Webseite",
-    "zeichen": 2285
+    "zeichen": 2439
    },
    {
     "url": "https://www.essen.de/e_magazin/emagazin_1606327.de.html",
@@ -10280,19 +10333,49 @@
     "zeichen": 5294
    },
    {
+    "url": "https://www.essen.de/e_magazin/emagazin_1602406.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 5969
+   },
+   {
     "url": "https://www.essen.de/leben/kultur_/schloss_borbeck_/schloss_borbeck_.de.html",
     "art": "Gemeinde-Webseite",
-    "zeichen": 4502
+    "zeichen": 4667
    },
    {
     "url": "https://www.essen.de/dasistessen/leben_im_gruenen_/isenburg_/die_isenburg.de.html",
     "art": "Gemeinde-Webseite",
-    "zeichen": 2551
+    "zeichen": 2705
+   },
+   {
+    "url": "https://www.essen.de/leben/sport_und_freizeit_/subportal_sport_und_freizeit.de.jsp",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2403
+   },
+   {
+    "url": "https://www.essen.de/leben/sport_und_freizeit_/schwimmen/baeder_startseite.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2824
+   },
+   {
+    "url": "https://www.essen.de/leben/umwelt/abfall__und_kreislaufwirtschaft/abfallwirtschaft.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 3859
+   },
+   {
+    "url": "https://www.essen.de/leben/sport_und_freizeit_/sportstaetten/sportstaetten_startseite.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 4770
    },
    {
     "url": "https://www.essen.de/leben/planen_bauen_und_wohnen/denkmalpflege/denkmalschutz__denkmalpflege.de.html",
     "art": "Gemeinde-Webseite",
-    "zeichen": 2092
+    "zeichen": 2246
+   },
+   {
+    "url": "https://www.essen.de/rathaus/haushalt_und_finanzen/entsorgungswirtschaft_und_stadtinterne_steuerberatung/entsorgungswirtschaft_und_stadtinterne_steuerberatung_.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1916
    },
    {
     "url": "https://www.essen.de/e_magazin/emagazin_1578193.de.html",
@@ -10306,8 +10389,8 @@
    }
   ],
   "start": "https://www.essen.de/aktuell.de.html",
-  "sekunden": 10,
-  "zeichen": 48145
+  "sekunden": 14,
+  "zeichen": 71999
  },
  "200-gelsenkirchen": {
   "slug": "200-gelsenkirchen",
@@ -16617,9 +16700,29 @@
     "zeichen": 670
    },
    {
+    "url": "https://www.neustadt-wied.de/newpage",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 568
+   },
+   {
+    "url": "https://www.neustadt-wied.de/vereine",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 6629
+   },
+   {
     "url": "https://www.neustadt-wied.de/kirchen",
     "art": "Gemeinde-Webseite",
     "zeichen": 1876
+   },
+   {
+    "url": "https://www.neustadt-wied.de/tourismus",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 3112
+   },
+   {
+    "url": "https://www.neustadt-wied.de/vereinstag-2026",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 4754
    },
    {
     "url": "https://www.neustadt-wied.de/newpageb48139b3",
@@ -16627,14 +16730,39 @@
     "zeichen": 2964
    },
    {
+    "url": "https://www.neustadt-wied.de/gewerbebetriebe",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 4340
+   },
+   {
+    "url": "https://www.neustadt-wied.de/freizeitangebote",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2567
+   },
+   {
     "url": "https://www.neustadt-wied.de/sehenswürdigkeiten",
     "art": "Gemeinde-Webseite",
     "zeichen": 1840
+   },
+   {
+    "url": "https://www.neustadt-wied.de/erster-vereinstag-der-ortsgemeinde-war-ein-voller-erfolg",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 12000
+   },
+   {
+    "url": "https://www.neustadt-wied.de/neues-zuhause-fur-die-imkerei-bienenzuchtverein-zieht-nach-neustadt",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 12000
+   },
+   {
+    "url": "https://www.neustadt-wied.de/neustadter-kirmes-begeistert-mit-tradition-gemeinschaft-und-bester-stimmung",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 12000
    }
   ],
   "start": "https://www.neustadt-wied.de/",
-  "sekunden": 4,
-  "zeichen": 13681
+  "sekunden": 11,
+  "zeichen": 72512
  },
  "341-windhagen": {
   "slug": "341-windhagen",
@@ -16642,7 +16770,12 @@
    {
     "url": "https://windhagen.de/html/geschichte.htm",
     "art": "Gemeinde-Webseite",
-    "zeichen": 3872
+    "zeichen": 3740
+   },
+   {
+    "url": "https://windhagen.de/html/vereine.htm",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 7527
    },
    {
     "url": "https://windhagen.de/html/kirchen.htm",
@@ -16650,14 +16783,19 @@
     "zeichen": 2299
    },
    {
+    "url": "https://windhagen.de/html/wirtschaft.htm",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1504
+   },
+   {
     "url": "https://windhagen.de/html/sehenswertes.htm",
     "art": "Gemeinde-Webseite",
-    "zeichen": 5643
+    "zeichen": 5511
    }
   ],
   "start": "https://windhagen.de/",
-  "sekunden": 4,
-  "zeichen": 12044
+  "sekunden": 5,
+  "zeichen": 20962
  },
  "342-vettelschoss": {
   "slug": "342-vettelschoss",
@@ -16670,27 +16808,52 @@
    {
     "url": "https://www.vettelschoss.de/miteinander/kirchen/evangelische-kirche/",
     "art": "Gemeinde-Webseite",
-    "zeichen": 2430
+    "zeichen": 2445
    },
    {
     "url": "https://www.vettelschoss.de/miteinander/kirchen/koeb/",
     "art": "Gemeinde-Webseite",
-    "zeichen": 948
+    "zeichen": 963
+   },
+   {
+    "url": "https://www.vettelschoss.de/miteinander/ehrenamt-vereine/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 6492
+   },
+   {
+    "url": "https://www.vettelschoss.de/fuereinander/gewerbeflaechen/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 3810
+   },
+   {
+    "url": "https://www.vettelschoss.de/fuereinander/regionales-gewerbe/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 599
+   },
+   {
+    "url": "https://www.vettelschoss.de/fuereinander/wirtschaftsfoerderung/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 690
    },
    {
     "url": "https://www.vettelschoss.de/miteinander/kirchen/katholische-kirche/",
     "art": "Gemeinde-Webseite",
-    "zeichen": 670
+    "zeichen": 685
    },
    {
     "url": "https://www.vettelschoss.de/gemeinde-vettelschoss/in-und-um-vettelschoss/dorfmuseum/",
     "art": "Gemeinde-Webseite",
     "zeichen": 964
+   },
+   {
+    "url": "https://www.vettelschoss.de/gemeinde-vettelschoss/in-und-um-vettelschoss/naherholung-ausflugsziele/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 3426
    }
   ],
   "start": "https://www.vettelschoss.de/",
-  "sekunden": 6,
-  "zeichen": 17556
+  "sekunden": 11,
+  "zeichen": 33139
  },
  "343-asbach": {
   "slug": "343-asbach",
@@ -16708,29 +16871,79 @@
     "zeichen": 12000
    },
    {
+    "url": "https://www.hennef.de/freizeit/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 12000
+   },
+   {
+    "url": "https://www.hennef.de/ehrenamt/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2214
+   },
+   {
+    "url": "https://www.hennef.de/tourismus/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2073
+   },
+   {
+    "url": "https://www.hennef.de/stadtbetriebe/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 4622
+   },
+   {
+    "url": "https://www.hennef.de/freizeit/sport/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 5560
+   },
+   {
+    "url": "https://www.hennef.de/stadtbetriebe/abwasser/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 10791
+   },
+   {
+    "url": "https://www.hennef.de/wirtschaft-und-tourismus/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 6933
+   },
+   {
+    "url": "https://www.hennef.de/stadtbetriebe/strassenreinigung/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 12000
+   },
+   {
     "url": "https://www.hennef.de/bau-turbo-fuer-hennef-beschlossen/",
     "art": "Gemeinde-Webseite",
-    "zeichen": 3124
+    "zeichen": 3147
    },
    {
-    "url": "https://www.hennef.de/herbstferien-auf-burg-blankenberg/",
+    "url": "https://www.hennef.de/wirtschaft-und-tourismus/liegenschaften/",
     "art": "Gemeinde-Webseite",
-    "zeichen": 536
+    "zeichen": 3207
    },
    {
-    "url": "https://www.hennef.de/personalversammlung-rathaus-geschlossen/",
+    "url": "https://www.hennef.de/stadtbetriebe/starkregen-und-ueberflutung/",
     "art": "Gemeinde-Webseite",
-    "zeichen": 444
+    "zeichen": 7681
+   },
+   {
+    "url": "https://www.hennef.de/kooperationsvereinbarung-staerkt-den-kinderschutz/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 3253
    },
    {
     "url": "https://www.hennef.de/parkraumkonzept-fuer-den-hennefer-zentralort-beschlossen/",
     "art": "Gemeinde-Webseite",
-    "zeichen": 3390
+    "zeichen": 3413
+   },
+   {
+    "url": "https://www.hennef.de/weihnachtssingen-auf-dem-baubetriebshof-mirko-baeumer-und-die-lustigen-musikanten/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1674
    }
   ],
   "start": "https://www.hennef.de/",
-  "sekunden": 10,
-  "zeichen": 19970
+  "sekunden": 42,
+  "zeichen": 91911
  },
  "345-sankt-augustin": {
   "slug": "345-sankt-augustin",
@@ -16764,18 +16977,19 @@
   "slug": "346-siegburg",
   "seiten": [
    {
-    "url": "https://siegburg.de/&",
-    "fehler": "HTTP Error 404: 404"
-   },
-   {
     "url": "https://siegburg.de/strukturierte-daten/cityportal/firmen-unternehmen/lichtgeschichten/",
     "art": "Gemeinde-Webseite",
-    "zeichen": 2196
+    "zeichen": 2204
    },
    {
     "url": "https://siegburg.de/strukturierte-daten/cityportal/vereine/geschichts-und-altertumsverein/",
     "art": "Gemeinde-Webseite",
-    "zeichen": 1100
+    "zeichen": 1085
+   },
+   {
+    "url": "https://siegburg.de/buergerservice-views/leistungen/NRW:entry:41713-VLR/geschichts-und-altertumsverein/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 767
    },
    {
     "url": "https://siegburg.de/medien/dokumente/feuerwehr-siegburg-chronik-der-loeschgruppe-4.pdf?cid=8ss",
@@ -16783,34 +16997,54 @@
     "zeichen": 3453
    },
    {
-    "url": "https://siegburg.de/buergerservice-views/leistungen/NRW:entry:41713-VLR/geschichts-und-altertumsverein/",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 790
-   },
-   {
     "url": "https://siegburg.de/strukturierte-daten/orte/sehenswuerdigkeiten/infostelen-michaelsberg/stele-10-siegwerk-geschichte/",
     "art": "Gemeinde-Webseite",
-    "zeichen": 2113
+    "zeichen": 2128
    },
    {
     "url": "https://siegburg.de/buergerservice-views/abteilungen/NRW:department:15352/amt-13-amt-fuer-kommunikation-und-historisches-archiv/",
     "art": "Gemeinde-Webseite",
-    "zeichen": 1727
+    "zeichen": 1712
+   },
+   {
+    "url": "https://siegburg.de/wirtschaft/city-business/wochenmarkt/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 4541
+   },
+   {
+    "url": "https://siegburg.de/strukturierte-daten/cityportal/firmen-unternehmen/rosa-aussicht/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1184
+   },
+   {
+    "url": "https://siegburg.de/strukturierte-daten/cityportal/firmen-unternehmen/optik-am-markt/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 808
+   },
+   {
+    "url": "https://siegburg.de/strukturierte-daten/cityportal/vereine/freizeit-ag-siegburg-n-e-v/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 863
+   },
+   {
+    "url": "https://siegburg.de/strukturierte-daten/cityportal/firmen-unternehmen/eine-welt-markt-siegburg/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2263
+   },
+   {
+    "url": "https://siegburg.de/strukturierte-daten/cityportal/firmen-unternehmen/edeka-markt-klein-hessling/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1294
+   },
+   {
+    "url": "https://siegburg.de/strukturierte-daten/cityportal/firmen-unternehmen/skm-katholischer-verein-fuer-soziale-dienste-im-rhein-sieg-kreis-e-v/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1461
    },
    {
     "url": "https://siegburg.de/buergerservice-views/leistungen/NRW:entry:42451-VLR/verwarnungs-oder-bussgeld-bezahlen/",
     "art": "Gemeinde-Webseite",
-    "zeichen": 1008
-   },
-   {
-    "url": "https://siegburg.de/feeds/",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 2491
-   },
-   {
-    "url": "https://siegburg.de/sitemap/",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 2969
+    "zeichen": 970
    },
    {
     "url": "https://siegburg.de/wirtschaft/",
@@ -16818,137 +17052,38 @@
     "zeichen": 12000
    },
    {
-    "url": "https://siegburg.de/cityportal/",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 4225
-   },
-   {
-    "url": "https://siegburg.de/feeds/citykey/news.json",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 12000
-   },
-   {
-    "url": "https://siegburg.de/leichte-sprache/",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 2388
-   },
-   {
     "url": "https://siegburg.de/kultur-freizeit/",
     "art": "Gemeinde-Webseite",
     "zeichen": 3734
+   },
+   {
+    "url": "https://siegburg.de/cityportal/vereine/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2016
+   },
+   {
+    "url": "https://siegburg.de/cityportal/handwerk/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2041
+   },
+   {
+    "url": "https://siegburg.de/wirtschaft/city-business/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2854
+   },
+   {
+    "url": "https://siegburg.de/wirtschaft/klima-business/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2849
    }
   ],
   "start": "https://siegburg.de/",
-  "sekunden": 33,
-  "zeichen": 53670
+  "sekunden": 49,
+  "zeichen": 52574
  },
  "347-lohmar": {
   "slug": "347-lohmar",
   "seiten": [
-   {
-    "url": "https://www.lohmar.de/startseite/unternehmerisches-engagement-bauen-und-wohnen/stadtteilprojekte/dorfmarketing-honrath/lage-und-geschichte/",
-    "fehler": "HTTP Error 404: Not Found"
-   },
-   {
-    "url": "https://www.lohmar.de/startseite/raum-fuer-jung-und-alt-gesellschaft-und-soziales/friedhoefe/historisches0/",
-    "fehler": "HTTP Error 404: Not Found"
-   },
-   {
-    "url": "https://www.lohmar.de/startseite/erlebnisfaktoren-natur-und-sport-freizeit-und-tourismus/naturschule-im-aggerbogen/ueber-uns/",
-    "fehler": "HTTP Error 404: Not Found"
-   },
-   {
-    "url": "https://www.lohmar.de/startseite/unternehmerisches-engagement-bauen-und-wohnen/stadtteilprojekte/dorfmarketing-honrath/kirchengemeinde-honrath/",
-    "fehler": "HTTP Error 404: Not Found"
-   },
-   {
-    "url": "https://www.lohmar.de/startseite/unternehmerisches-engagement-bauen-und-wohnen/untere-denkmalbehoerde/",
-    "fehler": "HTTP Error 404: Not Found"
-   },
-   {
-    "url": "https://www.lohmar.de/startseite/erlebnisfaktoren-natur-und-sport-freizeit-und-tourismus/tourismus/sehenswertes/",
-    "fehler": "HTTP Error 404: Not Found"
-   },
-   {
-    "url": "https://www.lohmar.de/startseite/unternehmerisches-engagement-bauen-und-wohnen/untere-denkmalbehoerde/denkmalpflegeplan/",
-    "fehler": "HTTP Error 404: Not Found"
-   },
-   {
-    "url": "https://www.lohmar.de/startseite/unternehmerisches-engagement-bauen-und-wohnen/immobilienangebote/gewerbepark-burg-suelz/",
-    "fehler": "HTTP Error 404: Not Found"
-   },
-   {
-    "url": "https://www.lohmar.de/startseite/erlebnisfaktoren-natur-und-sport-freizeit-und-tourismus/tourismus/sehenswertes/information/",
-    "fehler": "HTTP Error 404: Not Found"
-   },
-   {
-    "url": "https://www.lohmar.de/startseite/familienfreundlichkeit-bildung-und-kultur/kulturtage-lohmar/kulturtage-2016/nacht-der-kirchen/",
-    "fehler": "HTTP Error 404: Not Found"
-   },
-   {
-    "url": "https://www.lohmar.de/startseite/erlebnisfaktoren-natur-und-sport-freizeit-und-tourismus/kulturtage-lohmar/kulturtage-2016/nacht-der-kirchen/",
-    "fehler": "HTTP Error 404: Not Found"
-   },
-   {
-    "url": "https://www.lohmar.de/startseite/unternehmerisches-engagement-bauen-und-wohnen/stadtteilprojekte/",
-    "fehler": "HTTP Error 404: Not Found"
-   },
-   {
-    "url": "https://www.lohmar.de/startseite/familienfreundlichkeit-bildung-und-kultur/senioren/angebotederortsteile/",
-    "fehler": "HTTP Error 404: Not Found"
-   },
-   {
-    "url": "https://www.lohmar.de/startseite/unternehmerisches-engagement-bauen-und-wohnen/stadtteilprojekte/wahlscheid/",
-    "fehler": "HTTP Error 404: Not Found"
-   },
-   {
-    "url": "https://www.lohmar.de/startseite/unternehmerisches-engagement-bauen-und-wohnen/stadtteilprojekte/birk/alte-schule/",
-    "fehler": "HTTP Error 404: Not Found"
-   },
-   {
-    "url": "https://www.lohmar.de/startseite/unternehmerisches-engagement-bauen-und-wohnen/stadtteilprojekte/birk/wohnbebauung/",
-    "fehler": "HTTP Error 404: Not Found"
-   },
-   {
-    "url": "https://www.lohmar.de/startseite/unternehmerisches-engagement-bauen-und-wohnen/stadtteilprojekte/dorfmarketing-honrath/",
-    "fehler": "HTTP Error 404: Not Found"
-   },
-   {
-    "url": "https://www.lohmar.de/startseite/unternehmerisches-engagement-bauen-und-wohnen/stadtteilprojekte/birk/feuerwehrgeraetehaus/",
-    "fehler": "HTTP Error 404: Not Found"
-   },
-   {
-    "url": "https://www.lohmar.de/startseite/unternehmerisches-engagement-bauen-und-wohnen/stadtteilprojekte/dorfmarketing-honrath/kunst-in-honrath/",
-    "fehler": "HTTP Error 404: Not Found"
-   },
-   {
-    "url": "https://www.lohmar.de/startseite/unternehmerisches-engagement-bauen-und-wohnen/stadtteilprojekte/dorfmarketing-honrath/honrather-fenster/",
-    "fehler": "HTTP Error 404: Not Found"
-   },
-   {
-    "url": "https://www.lohmar.de/startseite/unternehmerisches-engagement-bauen-und-wohnen/stadtteilprojekte/dorfmarketing-honrath/standorte-der-kunst/",
-    "fehler": "HTTP Error 404: Not Found"
-   },
-   {
-    "url": "https://www.lohmar.de/startseite/unternehmerisches-engagement-bauen-und-wohnen/stadtteilprojekte/dorfmarketing-honrath/rundgang-in-honrath/",
-    "fehler": "HTTP Error 404: Not Found"
-   },
-   {
-    "url": "https://www.lohmar.de/startseite/unternehmerisches-engagement-bauen-und-wohnen/stadtteilprojekte/dorfmarketing-honrath/honrather-dorfschule/",
-    "fehler": "HTTP Error 404: Not Found"
-   },
-   {
-    "url": "https://www.lohmar.de/startseite/unternehmerisches-engagement-bauen-und-wohnen/stadtteilprojekte/dorfmarketing-honrath/arbeitskreisergebnisse/",
-    "fehler": "HTTP Error 404: Not Found"
-   },
-   {
-    "url": "https://www.lohmar.de/startseite/unternehmerisches-engagement-bauen-und-wohnen/stadtteilprojekte/dorfmarketing-honrath/unser-dorf-hat-zukunft/",
-    "fehler": "HTTP Error 404: Not Found"
-   },
-   {
-    "url": "https://www.lohmar.de/startseite/unternehmerisches-engagement-bauen-und-wohnen/stadtteilprojekte/dorfmarketing-honrath/willkommenstafel-in-honrath/",
-    "fehler": "HTTP Error 404: Not Found"
-   },
    {
     "url": "https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/",
     "art": "Gemeinde-Webseite",
@@ -16957,7 +17092,7 @@
    {
     "url": "https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtarchiv/links-zur-geschichte-lohmars/",
     "art": "Gemeinde-Webseite",
-    "zeichen": 755
+    "zeichen": 763
    },
    {
     "url": "https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/",
@@ -16966,21 +17101,96 @@
    }
   ],
   "start": "https://www.lohmar.de/startseite/",
-  "sekunden": 112,
-  "zeichen": 25155
+  "sekunden": 34,
+  "zeichen": 25163
  },
  "348-roesrath": {
   "slug": "348-roesrath",
   "seiten": [
+   {
+    "url": "https://www.roesrath.de/freizeit-kultur/tourismus/stadtportrait/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 3178
+   },
    {
     "url": "https://www.roesrath.de/freizeit-kultur/kultur-partner/stadtgeschichte/",
     "art": "Gemeinde-Webseite",
     "zeichen": 2497
    },
    {
-    "url": "https://www.roesrath.de/freizeit-kultur/tourismus/stadtportrait/",
+    "url": "https://www.roesrath.de/freizeit-kultur/tourismus/",
     "art": "Gemeinde-Webseite",
-    "zeichen": 3178
+    "zeichen": 455
+   },
+   {
+    "url": "https://www.roesrath.de/freizeit-kultur/freizeit/vereine/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 3941
+   },
+   {
+    "url": "https://www.roesrath.de/freizeit-kultur/tourismus/imagefilm/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 873
+   },
+   {
+    "url": "https://www.roesrath.de/freizeit-kultur/tourismus/ausflugsziele/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 4394
+   },
+   {
+    "url": "https://www.roesrath.de/freizeit-kultur/tourismus/radfahren-wandern/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 3261
+   },
+   {
+    "url": "https://www.roesrath.de/freizeit-kultur/tourismus/unterkuenfte-gastronomie/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1146
+   },
+   {
+    "url": "https://www.roesrath.de/freizeit-kultur/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 337
+   },
+   {
+    "url": "https://www.roesrath.de/freizeit-kultur/freizeit/sport/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2134
+   },
+   {
+    "url": "https://www.roesrath.de/freizeit-kultur/kultur-partner/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1339
+   },
+   {
+    "url": "https://www.roesrath.de/freizeit-kultur/freizeit/baeder/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1358
+   },
+   {
+    "url": "https://www.roesrath.de/freizeit-kultur/freizeit/spielplaetze/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 12000
+   },
+   {
+    "url": "https://www.roesrath.de/freizeit-kultur/freizeit/erholungsgebiete/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 3840
+   },
+   {
+    "url": "https://www.roesrath.de/freizeit-kultur/kultur-partner/stolpersteine/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 5386
+   },
+   {
+    "url": "https://www.roesrath.de/rathaus-buergerservice/buergerservice/gewerbe/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 10121
+   },
+   {
+    "url": "https://www.roesrath.de/freizeit-kultur/kultur-partner/partnerstaedte/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1360
    },
    {
     "url": "https://www.roesrath.de/bauen-umwelt/planen-bauen/untere-denkmalbehoerde/",
@@ -16988,92 +17198,127 @@
     "zeichen": 2631
    },
    {
-    "url": "https://www.roesrath.de/strukturierte-daten/organisationen/untere-denkmalbehoerde/",
+    "url": "https://www.roesrath.de/freizeit-kultur/kultur-partner/stadtverfuehrungen/",
     "art": "Gemeinde-Webseite",
-    "zeichen": 311
+    "zeichen": 808
    },
    {
-    "url": "https://www.roesrath.de/strukturierte-daten/organisationen/schloss-eulenbroich-ggmbh/",
+    "url": "https://www.roesrath.de/rathaus-buergerservice/verwaltung/wirtschaftsfoerderung/",
     "art": "Gemeinde-Webseite",
-    "zeichen": 367
-   },
-   {
-    "url": "https://www.roesrath.de/soziales-bildung/zusammenleben/kirchen-glaubensgemeinschaften/",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 1898
-   },
-   {
-    "url": "https://www.roesrath.de/bauen-umwelt/planen-bauen/bauaufsicht/abgeschlossenheitsbescheinigung/",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 1297
-   },
-   {
-    "url": "https://www.roesrath.de/bauen-umwelt/planen-bauen/planungsrecht/bebauungsplaene/bp-078-schloss-venauen/",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 702
-   },
-   {
-    "url": "https://www.roesrath.de/soziales-bildung/zusammenleben/stadtteilbuero/",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 3425
+    "zeichen": 5149
    }
   ],
   "start": "https://www.roesrath.de/",
-  "sekunden": 61,
-  "zeichen": 17367
+  "sekunden": 37,
+  "zeichen": 68227
  },
  "349-leichlingen": {
   "slug": "349-leichlingen",
   "seiten": [
+   {
+    "url": "https://www.leichlingen.de/freizeit-und-tourismus/vereine-ehrenamt",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 864
+   },
+   {
+    "url": "https://www.leichlingen.de/freizeit-und-tourismus/vereine-ehrenamt/vereine",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 12000
+   },
+   {
+    "url": "https://www.leichlingen.de/freizeit-und-tourismus/vereine-ehrenamt/ehrenamtskarte-nrw",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 4447
+   },
+   {
+    "url": "https://www.leichlingen.de/freizeit-und-tourismus",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 986
+   },
+   {
+    "url": "https://www.leichlingen.de/freizeit-und-tourismus/wandern",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 879
+   },
+   {
+    "url": "https://www.leichlingen.de/freizeit-und-tourismus/heimatpreis",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2541
+   },
+   {
+    "url": "https://www.leichlingen.de/freizeit-und-tourismus/fahrradfahren",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 820
+   },
+   {
+    "url": "https://www.leichlingen.de/freizeit-und-tourismus/unternehmungen",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 809
+   },
+   {
+    "url": "https://www.leichlingen.de/freizeit-und-tourismus/wandern/obstweg",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1451
+   },
+   {
+    "url": "https://www.leichlingen.de/freizeit-und-tourismus/bluetenbarometer",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1142
+   },
+   {
+    "url": "https://www.leichlingen.de/bauen-wirtschaft-und-mobilitaet/denkmalschutz",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1273
+   },
    {
     "url": "https://www.leichlingen.de/kultur-und-bildung/stadtbuecherei/ueber-uns-1",
     "art": "Gemeinde-Webseite",
     "zeichen": 538
    },
    {
-    "url": "https://www.leichlingen.de/leben-in-leichlingen/leichlingen-stellt-sich-vor/stadtportrait",
+    "url": "https://www.leichlingen.de/freizeit-und-tourismus/wandern/naturlehrpfade",
     "art": "Gemeinde-Webseite",
-    "zeichen": 897
+    "zeichen": 793
    },
    {
-    "url": "https://www.leichlingen.de/leben-in-leichlingen/leichlingen-stellt-sich-vor/zahlen-daten-fakten",
+    "url": "https://www.leichlingen.de/freizeit-und-tourismus/naturarena-bergisches-land",
     "art": "Gemeinde-Webseite",
-    "zeichen": 869
+    "zeichen": 747
    },
    {
-    "url": "https://www.leichlingen.de/bauen-wirtschaft-und-mobilitaet/denkmalschutz",
+    "url": "https://www.leichlingen.de/freizeit-und-tourismus/wandern/der-wupperwanderweg",
     "art": "Gemeinde-Webseite",
-    "zeichen": 1208
+    "zeichen": 898
+   },
+   {
+    "url": "https://www.leichlingen.de/freizeit-und-tourismus/unternehmungen/aktivitaeten",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 801
+   },
+   {
+    "url": "https://www.leichlingen.de/freizeit-und-tourismus/unternehmungen/ausflugsziele",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 880
+   },
+   {
+    "url": "https://www.leichlingen.de/freizeit-und-tourismus/wandern/gefuehrte-wanderungen",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 874
+   },
+   {
+    "url": "https://www.leichlingen.de/freizeit-und-tourismus/fahrradfahren/alte-bahntrassen",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 961
    },
    {
     "url": "https://www.leichlingen.de/bauen-wirtschaft-und-mobilitaet/denkmalschutz/verfahren",
     "art": "Gemeinde-Webseite",
-    "zeichen": 1604
-   },
-   {
-    "url": "https://www.leichlingen.de/bauen-wirtschaft-und-mobilitaet/denkmalschutz/denkmallandschaft",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 1158
-   },
-   {
-    "url": "https://www.leichlingen.de/bauen-wirtschaft-und-mobilitaet/denkmalschutz/aufgaben-und-ziele",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 1857
-   },
-   {
-    "url": "https://www.leichlingen.de/bauen-wirtschaft-und-mobilitaet/denkmalschutz/finanzielle-vorteile",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 2033
-   },
-   {
-    "url": "https://www.leichlingen.de/bauen-wirtschaft-und-mobilitaet/denkmalschutz/weiterfuehrende-links",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 1532
+    "zeichen": 1685
    }
   ],
   "start": "https://www.leichlingen.de/",
-  "sekunden": 9,
-  "zeichen": 12807
+  "sekunden": 20,
+  "zeichen": 37544
  },
  "350-solingen": {
   "slug": "350-solingen",
@@ -17091,14 +17336,14 @@
     "zeichen": 1625
    },
    {
-    "url": "https://www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 4409
-   },
-   {
     "url": "https://www.hilden.de/de/wirtschaft-bauen/wirtschaftsfoerderung/wir-ueber-uns/",
     "art": "Gemeinde-Webseite",
     "zeichen": 2235
+   },
+   {
+    "url": "https://www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 4409
    },
    {
     "url": "https://www.hilden.de/de/wirtschaft-bauen/wirtschaftsfoerderung/wirtschaftsstandort/daten-fakten/",
@@ -17111,9 +17356,9 @@
     "zeichen": 478
    },
    {
-    "url": "https://www.hilden.de/de/stadt-rathaus/die-stadt/stadtwappen-logo/",
+    "url": "https://www.hilden.de/de/kultur-freizeit/vereine-verbaende-brauchtum/",
     "art": "Gemeinde-Webseite",
-    "zeichen": 1566
+    "zeichen": 1870
    },
    {
     "url": "https://www.hilden.de/de/strukturierte-daten/vereine/reformationskirche/",
@@ -17126,6 +17371,11 @@
     "zeichen": 813
    },
    {
+    "url": "https://www.hilden.de/de/wirtschaft-bauen/citymanagement/stadtmarketing-verein/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 554
+   },
+   {
     "url": "https://www.hilden.de/de/kultur-freizeit/kultureinrichtungen/wilhelm-fabry-museum/",
     "art": "Gemeinde-Webseite",
     "zeichen": 722
@@ -17136,9 +17386,19 @@
     "zeichen": 327
    },
    {
+    "url": "https://www.hilden.de/de/kultur-freizeit/freizeit-kulturangebote/hildener-kuenstlermarkt/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2721
+   },
+   {
     "url": "https://www.hilden.de/de/kultur-freizeit/freizeit-kulturangebote/tag-des-offenen-denkmals/",
     "art": "Gemeinde-Webseite",
     "zeichen": 443
+   },
+   {
+    "url": "https://www.hilden.de/de/kultur-freizeit/kultureinrichtungen/stadtbibliothek/förderverein/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2927
    },
    {
     "url": "https://www.hilden.de/de/strukturierte-daten/vereine/katholische-kirchengemeinde-st-jacobus/",
@@ -17149,11 +17409,31 @@
     "url": "https://www.hilden.de/de/strukturierte-daten/vereine/freunde-u-foerderer-der-reformationskirche-hilden-e-v/",
     "art": "Gemeinde-Webseite",
     "zeichen": 540
+   },
+   {
+    "url": "https://www.hilden.de/de/strukturierte-daten/vereine/freizeitgemeinschaft-behinderte-und-nichtbehinderte-hilden-e-v/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 329
+   },
+   {
+    "url": "https://www.hilden.de/de/strukturierte-daten/vereine/freizeitgemeinschaft-behinderte-und-nichtbehinderte-hilden-e-v-1/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 502
+   },
+   {
+    "url": "https://www.hilden.de/de/kultur-freizeit/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 989
+   },
+   {
+    "url": "https://www.hilden.de/de/wirtschaft-bauen/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 741
    }
   ],
   "start": "https://www.hilden.de/de/",
-  "sekunden": 45,
-  "zeichen": 17991
+  "sekunden": 37,
+  "zeichen": 27895
  },
  "352-haan": {
   "slug": "352-haan",
@@ -17164,24 +17444,54 @@
     "zeichen": 1494
    },
    {
-    "url": "https://www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Stadtarchiv/",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 5263
-   },
-   {
-    "url": "https://www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Legendenschilder-Haaner-Straßennamen/",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 12000
-   },
-   {
     "url": "https://www.haan.de/Wirtschaft-Stadtentwicklung/Umwelt-Nachhaltigkeit/Kommunale-Energie-und-Wärmeplanung/Zahlen-Daten-Fakten/",
     "art": "Gemeinde-Webseite",
     "zeichen": 3408
    },
    {
-    "url": "https://www.haan.de/Stadt-Rathaus/Stadt/Denkmalpflege/",
+    "url": "https://www.haan.de/Kultur-Freizeit/Tourismus/",
     "art": "Gemeinde-Webseite",
-    "zeichen": 7152
+    "zeichen": 1237
+   },
+   {
+    "url": "https://www.haan.de/Kultur-Freizeit/Tourismus/Haan-entdecken/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 12000
+   },
+   {
+    "url": "https://www.haan.de/Kultur-Freizeit/Tourismus/Wandern-in-Haan/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 4273
+   },
+   {
+    "url": "https://www.haan.de/Kultur-Freizeit/Engagement/Haaner-Vereine/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 12000
+   },
+   {
+    "url": "https://www.haan.de/Kultur-Freizeit/Tourismus/Radfahren-in-Haan/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1996
+   },
+   {
+    "url": "https://www.haan.de/Kultur-Freizeit/Tourismus/Einkaufen-in-Haan/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2720
+   },
+   {
+    "url": "https://www.haan.de/Kultur-Freizeit/Tourismus/Übernachten-in-Haan/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2517
+   },
+   {
+    "url": "https://www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Stadtarchiv/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 5263
+   },
+   {
+    "url": "https://www.haan.de/Kultur-Freizeit/Freizeit-Sport/Haaner-Wochenmarkt/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1534
    },
    {
     "url": "https://www.haan.de/Wirtschaft-Stadtentwicklung/Planen-Bauen/Bauaufsicht-Denkmalschutz/",
@@ -17189,14 +17499,34 @@
     "zeichen": 1713
    },
    {
-    "url": "https://www.haan.de/Stadt-Rathaus/Verwaltung/Verwaltung-im-Überblick/Verwaltungsorganisation/Dezernat-III/63-Amt-für-Bauaufsicht-und-Denkmalschutz/",
+    "url": "https://www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Legendenschilder-Haaner-Straßennamen/",
     "art": "Gemeinde-Webseite",
-    "zeichen": 1754
+    "zeichen": 12000
+   },
+   {
+    "url": "https://www.haan.de/Wirtschaft-Stadtentwicklung/Umwelt-Nachhaltigkeit/Klimaschutz-in-der-Gartenstadt/Wir-vor-Ort-/Vereine-Initiativen/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 793
+   },
+   {
+    "url": "https://www.haan.de/Wirtschaft-Stadtentwicklung/Umwelt-Nachhaltigkeit/Klimaschutz-Wissen/Klimaschutz-Tipps-für-den-Alltag/Konsum-und-Freizeit/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 449
+   },
+   {
+    "url": "https://www.haan.de/Wirtschaft-Stadtentwicklung/Umwelt-Nachhaltigkeit/Klimaschutz-Wissen/Klimaschutz-Tipps-für-den-Alltag/Konsum-und-Freizeit/Kleidung/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1110
+   },
+   {
+    "url": "https://www.haan.de/Wirtschaft-Stadtentwicklung/Umwelt-Nachhaltigkeit/Klimaschutz-in-der-Gartenstadt/Über-die-Stadtgrenzen-hinaus-/Vereinte-Nationen-UN-/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1451
    }
   ],
   "start": "https://www.haan.de/",
-  "sekunden": 7,
-  "zeichen": 33679
+  "sekunden": 20,
+  "zeichen": 68097
  },
  "353-erkrath": {
   "slug": "353-erkrath",
@@ -17204,27 +17534,12 @@
    {
     "url": "https://www.erkrath.de/rathaus-politik/stadt/stadtportraet/geschichte",
     "art": "Gemeinde-Webseite",
-    "zeichen": 6025
-   },
-   {
-    "url": "https://www.erkrath.de/rathaus-politik/stadt/stadtportraet/stadtwappen-und-stadtlogo",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 4593
-   },
-   {
-    "url": "https://www.erkrath.de/rathaus-politik/stadt/stadtportraet",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 2545
-   },
-   {
-    "url": "https://www.erkrath.de/rathaus-politik/stadt/stadtportraet/statistik",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 1348
+    "zeichen": 5991
    },
    {
     "url": "https://www.erkrath.de/kultur-freizeit/tourismus/sehenswuerdigkeiten",
     "art": "Gemeinde-Webseite",
-    "zeichen": 1342
+    "zeichen": 1322
    },
    {
     "url": "https://www.erkrath.de/kultur-freizeit/tourismus/sehenswuerdigkeiten/neandertal",
@@ -17232,9 +17547,14 @@
     "zeichen": 5303
    },
    {
+    "url": "https://www.erkrath.de/rathaus-politik/stadt/stadtportraet/stadtwappen-und-stadtlogo",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 4629
+   },
+   {
     "url": "https://www.erkrath.de/kultur-freizeit/tourismus/sehenswuerdigkeiten/gaerten-und-parks",
     "art": "Gemeinde-Webseite",
-    "zeichen": 1729
+    "zeichen": 1743
    },
    {
     "url": "https://www.erkrath.de/kultur-freizeit/tourismus/sehenswuerdigkeiten/das-stellarium-erkrath",
@@ -17257,6 +17577,51 @@
     "zeichen": 12000
    },
    {
+    "url": "https://www.erkrath.de/rathaus-politik/stadt/stadtportraet",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2525
+   },
+   {
+    "url": "https://www.erkrath.de/kultur-freizeit/tourismus/neanderland",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 978
+   },
+   {
+    "url": "https://www.erkrath.de/kultur-freizeit/freizeit/vereine-erkrath",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 12000
+   },
+   {
+    "url": "https://www.erkrath.de/rathaus-politik/stadt/stadtportraet/statistik",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1314
+   },
+   {
+    "url": "https://www.erkrath.de/kultur-freizeit/tourismus/unterkuenfte-und-hotels",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2157
+   },
+   {
+    "url": "https://www.erkrath.de/kultur-freizeit/tourismus/neanderland/entdeckerschleifen",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 4115
+   },
+   {
+    "url": "https://www.erkrath.de/kultur-freizeit/kultur/kulturprogramm/stadtkultur/markt-der-freizeitkunst",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1310
+   },
+   {
+    "url": "https://www.erkrath.de/wirtschaft-bauen/wirtschaft-handel/einkaufen-und-wochenmaerkte/feierabendmaerkte",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1190
+   },
+   {
+    "url": "https://www.erkrath.de/wirtschaft-bauen/wirtschaft-handel/einkaufen-und-wochenmaerkte/open-air-troedelmarkt",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 578
+   },
+   {
     "url": "https://www.erkrath.de/wirtschaft-bauen/wirtschaft-handel/einkaufen-und-wochenmaerkte/stadtteil-hochdahl",
     "art": "Gemeinde-Webseite",
     "zeichen": 1202
@@ -17264,17 +17629,12 @@
    {
     "url": "https://www.erkrath.de/wirtschaft-bauen/wirtschaft-handel/einkaufen-und-wochenmaerkte/stadtteil-alt-erkrath",
     "art": "Gemeinde-Webseite",
-    "zeichen": 1202
-   },
-   {
-    "url": "https://www.erkrath.de/wirtschaft-bauen/wirtschaft-handel/einkaufen-und-wochenmaerkte/stadtteil-unterfeldhaus",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 1071
+    "zeichen": 1216
    }
   ],
   "start": "https://www.erkrath.de/",
-  "sekunden": 22,
-  "zeichen": 55328
+  "sekunden": 27,
+  "zeichen": 77234
  },
  "354-mettmann": {
   "slug": "354-mettmann",
@@ -17327,19 +17687,59 @@
     "zeichen": 12000
    },
    {
-    "url": "https://www.wuelfrath.net/planen-bauen/denkmalschutz",
+    "url": "https://www.wuelfrath.net/freizeit/vereine",
     "art": "Gemeinde-Webseite",
-    "zeichen": 12000
+    "zeichen": 1483
    },
    {
-    "url": "https://www.wuelfrath.net/kultur-tourismus/kulturtourismus-sehenswertes",
+    "url": "https://www.wuelfrath.net/freizeit/vereine/eine-welt",
     "art": "Gemeinde-Webseite",
-    "zeichen": 6827
+    "zeichen": 2046
+   },
+   {
+    "url": "https://www.wuelfrath.net/freizeit/vereine/vereine-a-z",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 4694
+   },
+   {
+    "url": "https://www.wuelfrath.net/freizeit/vereine/musikvereine",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 559
+   },
+   {
+    "url": "https://www.wuelfrath.net/freizeit/vereine/kulturvereine",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 476
+   },
+   {
+    "url": "https://www.wuelfrath.net/freizeit/vereine/eine-welt/bentota",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 877
+   },
+   {
+    "url": "https://www.wuelfrath.net/freizeit/vereine/brauchtumsvereine",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 307
+   },
+   {
+    "url": "https://www.wuelfrath.net/kultur-tourismus/wander-und-radwege",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 5248
+   },
+   {
+    "url": "https://www.wuelfrath.net/freizeit/vereine/sportvereine-/-fanclubs",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 867
+   },
+   {
+    "url": "https://www.wuelfrath.net/freizeit/vereine/tier-und-naturschutzvereine",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 339
    }
   ],
   "start": "https://www.wuelfrath.net/startseite",
-  "sekunden": 9,
-  "zeichen": 62271
+  "sekunden": 16,
+  "zeichen": 61089
  },
  "356-wuppertal": {
   "slug": "356-wuppertal",
@@ -17382,6 +17782,26 @@
     "zeichen": 3209
    },
    {
+    "url": "https://www.velbert.de/tourismus",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2893
+   },
+   {
+    "url": "https://www.velbert.de/wirtschaft",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2815
+   },
+   {
+    "url": "https://www.velbert.de/stadtleben/vereine",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1375
+   },
+   {
+    "url": "https://www.velbert.de/vereine/sportvereine",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 608
+   },
+   {
     "url": "https://www.velbert.de/kultur/schloss-hardenberg",
     "art": "Gemeinde-Webseite",
     "zeichen": 1680
@@ -17390,6 +17810,16 @@
     "url": "https://www.velbert.de/stadtleben/stadt-velbert/wappen",
     "art": "Gemeinde-Webseite",
     "zeichen": 3390
+   },
+   {
+    "url": "https://www.velbert.de/wirtschaft/die-schluesselregion",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 540
+   },
+   {
+    "url": "https://www.velbert.de/wirtschaft/wirtschaftsfoerderung",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2201
    },
    {
     "url": "https://www.velbert.de/stadtleben/kirchen/evangelische-kirche",
@@ -17412,14 +17842,14 @@
     "zeichen": 3119
    },
    {
-    "url": "https://www.velbert.de/stadtleben/stadt-velbert/wappen/logo-stadtjubilaeum",
+    "url": "https://www.velbert.de/rathaus-politik/technische-betriebe-velbert-aoer",
     "art": "Gemeinde-Webseite",
-    "zeichen": 12000
+    "zeichen": 402
    }
   ],
   "start": "https://www.velbert.de/startseite",
-  "sekunden": 19,
-  "zeichen": 45599
+  "sekunden": 23,
+  "zeichen": 44910
  },
  "358-heiligenhaus": {
   "slug": "358-heiligenhaus",
@@ -17499,9 +17929,31 @@
  },
  "360-heisingen": {
   "slug": "360-heisingen",
-  "seiten": [],
-  "sekunden": 0,
-  "zeichen": 0
+  "seiten": [
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_startseite.de.jsp",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1501
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_geschichte.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2217
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 3197
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_statistik.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1639
+   }
+  ],
+  "start": "https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_startseite.de.jsp",
+  "sekunden": 3,
+  "zeichen": 9041
  },
  "361-kayh": {
   "slug": "361-kayh",
@@ -20017,77 +20469,12 @@
    {
     "url": "https://www.neuwied.de/stadtleben/standort/stadtteile/niederbieber",
     "art": "Gemeinde-Webseite",
-    "zeichen": 7635
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/geschichtliches",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 2054
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/geschichtliches/der-deich",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 6379
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/geschichtliches/schriftenreihe",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 12000
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/geschichtliches/stadtgeschichte-zum-ausschneiden",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 12000
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/geschichtliches/geschichte-der-juedischen-gemeinde-neuwied",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 3397
-   },
-   {
-    "url": "https://www.neuwied.de/wirtschaft/daten-fakten",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 3190
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/stadtteile/feldkirchen",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 9966
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/unsere-stadt-in-zahlen",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 739
-   },
-   {
-    "url": "https://www.neuwied.de/erneuerung-schlossstrasse",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 9419
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 2060
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/stadtteile/block",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 2868
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/stadtteile/engers",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 4550
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/stadtteile/irlich",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 2970
+    "zeichen": 7683
    }
   ],
   "start": "https://www.neuwied.de/stadtleben/standort/stadtteile/niederbieber",
-  "sekunden": 18,
-  "zeichen": 80647
+  "sekunden": 2,
+  "zeichen": 7786
  },
  "405-segendorf": {
   "slug": "405-segendorf",
@@ -20095,77 +20482,12 @@
    {
     "url": "https://www.neuwied.de/stadtleben/standort/stadtteile/segendorf",
     "art": "Gemeinde-Webseite",
-    "zeichen": 3309
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/geschichtliches",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 2054
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/geschichtliches/der-deich",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 6379
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/geschichtliches/schriftenreihe",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 12000
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/geschichtliches/stadtgeschichte-zum-ausschneiden",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 12000
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/geschichtliches/geschichte-der-juedischen-gemeinde-neuwied",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 3397
-   },
-   {
-    "url": "https://www.neuwied.de/wirtschaft/daten-fakten",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 3190
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/stadtteile/feldkirchen",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 9966
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/unsere-stadt-in-zahlen",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 739
-   },
-   {
-    "url": "https://www.neuwied.de/erneuerung-schlossstrasse",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 9419
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 2060
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/stadtteile/block",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 2868
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/stadtteile/engers",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 4550
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/stadtteile/irlich",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 2970
+    "zeichen": 3357
    }
   ],
   "start": "https://www.neuwied.de/stadtleben/standort/stadtteile/segendorf",
-  "sekunden": 15,
-  "zeichen": 76318
+  "sekunden": 2,
+  "zeichen": 3457
  },
  "406-datzeroth": {
   "slug": "406-datzeroth",
@@ -20187,90 +20509,49 @@
    {
     "url": "https://www.neuwied.de/stadtleben/standort/stadtteile/oberbieber",
     "art": "Gemeinde-Webseite",
-    "zeichen": 3776
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/geschichtliches",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 2054
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/geschichtliches/der-deich",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 6379
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/geschichtliches/schriftenreihe",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 12000
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/geschichtliches/stadtgeschichte-zum-ausschneiden",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 12000
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/geschichtliches/geschichte-der-juedischen-gemeinde-neuwied",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 3397
-   },
-   {
-    "url": "https://www.neuwied.de/wirtschaft/daten-fakten",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 3190
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/stadtteile/feldkirchen",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 9966
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/unsere-stadt-in-zahlen",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 739
-   },
-   {
-    "url": "https://www.neuwied.de/erneuerung-schlossstrasse",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 9419
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 2060
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/stadtteile/block",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 2868
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/stadtteile/engers",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 4550
-   },
-   {
-    "url": "https://www.neuwied.de/stadtleben/standort/stadtteile/irlich",
-    "art": "Gemeinde-Webseite",
-    "zeichen": 2970
+    "zeichen": 3824
    }
   ],
   "start": "https://www.neuwied.de/stadtleben/standort/stadtteile/oberbieber",
-  "sekunden": 14,
-  "zeichen": 76786
+  "sekunden": 2,
+  "zeichen": 3925
  },
  "409-melsbach": {
   "slug": "409-melsbach",
   "seiten": [
    {
+    "url": "https://www.gemeinde-melsbach.de/?view=article&amp;id=327:glasfaserausbau-in-melsbach-–-der-weg-zum-anschluss-an-die-datenautobahn&amp;catid=118",
+    "fehler": "'ascii' codec can't encode character '\\u2013' in position 58: ordinal not in ran"
+   },
+   {
     "url": "https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html",
     "art": "Gemeinde-Webseite",
     "zeichen": 3204
+   },
+   {
+    "url": "https://www.gemeinde-melsbach.de/wohnen-und-leben/vereine-in-melsbach.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 485
+   },
+   {
+    "url": "https://www.gemeinde-melsbach.de/wohnen-und-leben/gewerbe-in-melsbach.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 496
+   },
+   {
+    "url": "https://www.gemeinde-melsbach.de/wohnen-und-leben/tourismus,-übernachten-und-essen.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1717
+   },
+   {
+    "url": "https://www.gemeinde-melsbach.de/?view=article&amp;id=354:traditionelle-kirmes-in-melsbach&amp;catid=120",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1170
    }
   ],
   "start": "https://www.gemeinde-melsbach.de/",
-  "sekunden": 6,
-  "zeichen": 3320
+  "sekunden": 18,
+  "zeichen": 7675
  },
  "410-hardert": {
   "slug": "410-hardert",
@@ -20279,11 +20560,21 @@
     "url": "https://www.hardert.de/geschichte.html",
     "art": "Gemeinde-Webseite",
     "zeichen": 697
+   },
+   {
+    "url": "https://www.hardert.de/vereine.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1073
+   },
+   {
+    "url": "https://www.hardert.de/gewerbebetriebe.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 644
    }
   ],
   "start": "https://www.hardert.de/",
-  "sekunden": 3,
-  "zeichen": 772
+  "sekunden": 4,
+  "zeichen": 2641
  },
  "411-ehlscheid": {
   "slug": "411-ehlscheid",
@@ -20292,11 +20583,46 @@
     "url": "https://www.ehlscheid.de/unsere-geschichte",
     "art": "Gemeinde-Webseite",
     "zeichen": 1453
+   },
+   {
+    "url": "https://www.ehlscheid.de/vereine",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 991
+   },
+   {
+    "url": "https://www.ehlscheid.de/gewerbe",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2214
+   },
+   {
+    "url": "https://www.ehlscheid.de/baumlehrpfad",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 653
+   },
+   {
+    "url": "https://www.ehlscheid.de/post/ehlscheider-hofflohmarkt-2026",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 844
+   },
+   {
+    "url": "https://www.ehlscheid.de/post/dhl-packstation-ehlscheid-ist-in-betrieb",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 649
+   },
+   {
+    "url": "https://www.ehlscheid.de/post/dorf-und-heimatverein-lädt-ein-zur-oktobergaudi",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 741
+   },
+   {
+    "url": "https://www.ehlscheid.de/post/möhnenverein-ehlscheid-präsentiert-in-der-heimathalle-ehlscheid-wwrockerz-in-concert-mit-einer-aco",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1017
    }
   ],
   "start": "https://www.ehlscheid.de/",
-  "sekunden": 1,
-  "zeichen": 1532
+  "sekunden": 6,
+  "zeichen": 9335
  },
  "412-kurtscheid": {
   "slug": "412-kurtscheid",
@@ -20305,6 +20631,31 @@
     "url": "https://www.kurtscheid.de/geschichte.html",
     "art": "Gemeinde-Webseite",
     "zeichen": 847
+   },
+   {
+    "url": "https://www.kurtscheid.de/vereine.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 8255
+   },
+   {
+    "url": "https://www.kurtscheid.de/gewerbe.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 441
+   },
+   {
+    "url": "https://www.kurtscheid.de/nah-super.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2953
+   },
+   {
+    "url": "https://www.kurtscheid.de/kornbitze.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 387
+   },
+   {
+    "url": "https://www.kurtscheid.de/holzverkauf.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1954
    },
    {
     "url": "https://www.kurtscheid.de/kirchengemeinde-katholisch.html",
@@ -20318,8 +20669,8 @@
    }
   ],
   "start": "https://www.kurtscheid.de/",
-  "sekunden": 2,
-  "zeichen": 6787
+  "sekunden": 5,
+  "zeichen": 21160
  },
  "413-rossbach-wied": {
   "slug": "413-rossbach-wied",
@@ -20330,14 +20681,59 @@
     "zeichen": 2197
    },
    {
+    "url": "https://www.rossbach-wied.de/tourismus/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 514
+   },
+   {
+    "url": "https://www.rossbach-wied.de/gruppen-vereine/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1385
+   },
+   {
     "url": "https://www.rossbach-wied.de/unser-dorf/kirche/",
     "art": "Gemeinde-Webseite",
     "zeichen": 1443
    },
    {
+    "url": "https://www.rossbach-wied.de/wohnen-und-leben/gewerbe/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1003
+   },
+   {
+    "url": "https://www.rossbach-wied.de/tourismus/essen-und-trinken/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 404
+   },
+   {
+    "url": "https://www.rossbach-wied.de/tourismus/aktivitaten/wandern/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1488
+   },
+   {
+    "url": "https://www.rossbach-wied.de/tourismus/aktivitaten/radfahren/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1199
+   },
+   {
     "url": "https://www.rossbach-wied.de/rat-verwaltung/ortsburgermeister/",
     "art": "Gemeinde-Webseite",
     "zeichen": 1057
+   },
+   {
+    "url": "https://www.rossbach-wied.de/tourismus/aktivitaten/ausflugsziele/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1504
+   },
+   {
+    "url": "https://www.rossbach-wied.de/tourismus/uebernachten/campingplatz/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 799
+   },
+   {
+    "url": "https://www.rossbach-wied.de/tourismus/uebernachten/ferienwohnung/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 436
    },
    {
     "url": "https://www.rossbach-wied.de/unser-dorf/ortsteile/",
@@ -20346,8 +20742,8 @@
    }
   ],
   "start": "https://www.rossbach-wied.de/",
-  "sekunden": 4,
-  "zeichen": 7875
+  "sekunden": 14,
+  "zeichen": 17451
  },
  "414-hausen-wied": {
   "slug": "414-hausen-wied",
@@ -20362,47 +20758,67 @@
    {
     "url": "https://www.rengsdorf-waldbreitbach.de/externe-datenquellen/deskline/3d2b133f-124a-4eab-858a-aa9053c8870d:0/geschichten-die-bleiben-lesungen-im-klosterladen/",
     "art": "Gemeinde-Webseite",
-    "zeichen": 5236
+    "zeichen": 5221
    },
    {
-    "url": "https://www.rengsdorf-waldbreitbach.de/rathaus-buergerservice/weitere-informationen/wappen/",
+    "url": "https://www.rengsdorf-waldbreitbach.de/touristik-freizeit/vereinsregister/",
     "art": "Gemeinde-Webseite",
-    "zeichen": 2035
+    "zeichen": 527
    },
    {
-    "url": "https://www.rengsdorf-waldbreitbach.de/bildung-soziales/jugend/ferienaktionen/jugendbildungsfahrt-hamburg/",
+    "url": "https://www.rengsdorf-waldbreitbach.de/strukturierte-daten/vereine/gewerbeverband-waldbreitbach-e-v/",
     "art": "Gemeinde-Webseite",
-    "zeichen": 1518
+    "zeichen": 481
    },
    {
     "url": "https://www.rengsdorf-waldbreitbach.de/strukturierte-daten/vereine/foerderkreis-dorfmuseum-niederbreitbach-e-v/",
     "art": "Gemeinde-Webseite",
-    "zeichen": 1414
+    "zeichen": 1140
    },
    {
-    "url": "https://www.rengsdorf-waldbreitbach.de/bildung-soziales/schulen/grundschule-niederbreitbach/aus-dem-schulalltag/karneval-an-der-neuerburg-grundschule/",
+    "url": "https://www.rengsdorf-waldbreitbach.de/strukturierte-daten/vereine/wirtschaftsforum-vg-rengsdorf-waldbreitbach-e-v/",
     "art": "Gemeinde-Webseite",
-    "zeichen": 859
+    "zeichen": 463
    },
    {
-    "url": "https://www.rengsdorf-waldbreitbach.de/bildung-soziales/schulen/grundschule-niederbreitbach/aus-dem-schulalltag/die-adventszeit-in-der-neuerburg-grundschule/",
+    "url": "https://www.rengsdorf-waldbreitbach.de/strukturierte-daten/vereine/wiedklang-e-v/",
     "art": "Gemeinde-Webseite",
-    "zeichen": 967
+    "zeichen": 465
    },
    {
-    "url": "https://www.rengsdorf-waldbreitbach.de/rathaus-buergerservice/rathaus/buergermeister/informatives-aus-dem-rathaus/austausch-mit-buergermeister-fred-juengerich-vg-altenkirchen-flammersfeld/",
+    "url": "https://www.rengsdorf-waldbreitbach.de/strukturierte-daten/vereine/scheunenbouler/",
     "art": "Gemeinde-Webseite",
-    "zeichen": 1787
+    "zeichen": 700
    },
    {
-    "url": "https://www.rengsdorf-waldbreitbach.de/rathaus-buergerservice/rathaus/verbandsgemeindewerke/abwasserbeseitigung/entsorgungsbereiche/entsorgungsbereich-4-ortsgemeinde-kurtscheid-ohne-ortsteil-escherwiese/",
+    "url": "https://www.rengsdorf-waldbreitbach.de/strukturierte-daten/vereine/kuju-im-wiedtal/",
     "art": "Gemeinde-Webseite",
-    "zeichen": 583
+    "zeichen": 516
+   },
+   {
+    "url": "https://www.rengsdorf-waldbreitbach.de/strukturierte-daten/vereine/tc-rengsdorf-e-v/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 550
+   },
+   {
+    "url": "https://www.rengsdorf-waldbreitbach.de/strukturierte-daten/vereine/chorioso-ehlscheid/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 931
+   },
+   {
+    "url": "https://www.rengsdorf-waldbreitbach.de/strukturierte-daten/vereine/tus-kurtscheid-e-v/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 962
+   },
+   {
+    "url": "https://www.rengsdorf-waldbreitbach.de/touristik-freizeit/sport-freizeit/sportstaetten/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 3349
    }
   ],
   "start": "https://www.rengsdorf-waldbreitbach.de",
-  "sekunden": 37,
-  "zeichen": 15858
+  "sekunden": 59,
+  "zeichen": 16895
  },
  "416-kloster-marienhaus": {
   "slug": "416-kloster-marienhaus",
@@ -20460,87 +20876,415 @@
  },
  "418-kupferdreh": {
   "slug": "418-kupferdreh",
-  "seiten": [],
-  "sekunden": 0,
-  "zeichen": 0
+  "seiten": [
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_startseite.de.jsp",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1986
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_geschichte.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2342
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_kultur_freizeit.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2103
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_statistik.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1543
+   }
+  ],
+  "start": "https://www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_startseite.de.jsp",
+  "sekunden": 3,
+  "zeichen": 8469
  },
  "419-ueberruhr": {
   "slug": "419-ueberruhr",
-  "seiten": [],
-  "sekunden": 0,
-  "zeichen": 0
+  "seiten": [
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/ueberruhr_hinsel_/ueberruhr_hinsel_startseite.de.jsp",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 761
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/ueberruhr_hinsel_/ueberruhr_hinsel_geschichte.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2423
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/ueberruhr_hinsel_/ueberruhr_hinsel_kultur_freizeit.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1789
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/ueberruhr_hinsel_/ueberruhr__hinsel_statistik.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1407
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/ueberruhr_holthausen/ueberruhr_holthausen_startseite.de.jsp",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 916
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/ueberruhr_holthausen/ueberruhr_holthausen_geschichte.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2392
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/ueberruhr_holthausen/ueberruhr_holthausen_kultur_freizeit.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1703
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/ueberruhr_holthausen/ueberruhr_statistik.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 859
+   }
+  ],
+  "start": "https://www.essen.de/dasistessen/stadtteile/ueberruhr_hinsel_/ueberruhr_hinsel_startseite.de.jsp",
+  "sekunden": 6,
+  "zeichen": 13346
  },
  "420-bergerhausen": {
   "slug": "420-bergerhausen",
-  "seiten": [],
-  "sekunden": 0,
-  "zeichen": 0
+  "seiten": [
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/bergerhausen_/bergerhausen_startseite.de.jsp",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1214
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/bergerhausen_/bergerhausen_geschichte.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1173
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/bergerhausen_/bergerhausen_kultur_freizeit.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 3998
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/bergerhausen_/bergerhausen_statistik.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1030
+   }
+  ],
+  "start": "https://www.essen.de/dasistessen/stadtteile/bergerhausen_/bergerhausen_startseite.de.jsp",
+  "sekunden": 3,
+  "zeichen": 7922
  },
  "421-rellinghausen": {
   "slug": "421-rellinghausen",
-  "seiten": [],
-  "sekunden": 0,
-  "zeichen": 0
+  "seiten": [
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_startseite.de.jsp",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1613
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_geschichte.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 6829
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_kultur_freizeit.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1924
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_statistik.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1513
+   }
+  ],
+  "start": "https://www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_startseite.de.jsp",
+  "sekunden": 3,
+  "zeichen": 12398
  },
  "422-stadtwald-essen": {
   "slug": "422-stadtwald-essen",
-  "seiten": [],
-  "sekunden": 0,
-  "zeichen": 0
+  "seiten": [
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/stadwald/stadtwald_startseite.de.jsp",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1011
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/stadwald/stadtwald_geschichte.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1647
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/stadwald/stadtwald_kultur_freizeit.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2330
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/stadwald/stadtwald_statistik.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1182
+   }
+  ],
+  "start": "https://www.essen.de/dasistessen/stadtteile/stadwald/stadtwald_startseite.de.jsp",
+  "sekunden": 3,
+  "zeichen": 6645
  },
  "423-fischlaken": {
   "slug": "423-fischlaken",
-  "seiten": [],
-  "sekunden": 0,
-  "zeichen": 0
+  "seiten": [
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_startseite.de.jsp",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1177
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_geschichte.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1574
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_kultur_freizeit.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2017
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_statistik.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1010
+   }
+  ],
+  "start": "https://www.essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_startseite.de.jsp",
+  "sekunden": 3,
+  "zeichen": 6273
  },
  "424-werden": {
   "slug": "424-werden",
-  "seiten": [],
-  "sekunden": 0,
-  "zeichen": 0
+  "seiten": [
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/werden_2/werden_startseite.de.jsp",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2071
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/werden_2/werden_geschichte.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 3092
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/werden_2/werden_kultur_freizeit.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 3388
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/werden_2/werden_statistik.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1133
+   }
+  ],
+  "start": "https://www.essen.de/dasistessen/stadtteile/werden_2/werden_startseite.de.jsp",
+  "sekunden": 3,
+  "zeichen": 10147
  },
  "425-burgaltendorf": {
   "slug": "425-burgaltendorf",
-  "seiten": [],
-  "sekunden": 0,
-  "zeichen": 0
+  "seiten": [
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/burgaltendorf_2/burgaltendorf_startseite.de.jsp",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1702
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/burgaltendorf_2/essen_de___inhaltsseite_6.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2729
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/burgaltendorf_2/burgaltendorf_kultur_freizeit.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1604
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/burgaltendorf_2/burgaltendorf_statistik_1.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1271
+   }
+  ],
+  "start": "https://www.essen.de/dasistessen/stadtteile/burgaltendorf_2/burgaltendorf_startseite.de.jsp",
+  "sekunden": 3,
+  "zeichen": 7828
  },
  "426-steele": {
   "slug": "426-steele",
-  "seiten": [],
-  "sekunden": 0,
-  "zeichen": 0
+  "seiten": [
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/steele_2/steele_startseite.de.jsp",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2732
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/steele_2/steele_geschichte.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 3332
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/steele_2/steele_kultur_freizeit.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1835
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/steele_2/stelle_statistik.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1146
+   }
+  ],
+  "start": "https://www.essen.de/dasistessen/stadtteile/steele_2/steele_startseite.de.jsp",
+  "sekunden": 3,
+  "zeichen": 9508
  },
  "427-byfang": {
   "slug": "427-byfang",
-  "seiten": [],
-  "sekunden": 0,
-  "zeichen": 0
+  "seiten": [
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/byfang/byfang_startseite.de.jsp",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 741
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/byfang/geschichte_byfang.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1098
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/byfang/byfang_kultur_freizeit.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 479
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/byfang/byfang_statistik.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1621
+   }
+  ],
+  "start": "https://www.essen.de/dasistessen/stadtteile/byfang/byfang_startseite.de.jsp",
+  "sekunden": 3,
+  "zeichen": 4394
  },
  "428-ruettenscheid": {
   "slug": "428-ruettenscheid",
-  "seiten": [],
-  "sekunden": 0,
-  "zeichen": 0
+  "seiten": [
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/ruettenscheid_1/ruettenscheid_startseite.de.jsp",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2891
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/ruettenscheid_1/ruettenscheid_geschichte.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 3047
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/ruettenscheid_1/ruettenscheid_kultur_freizeit.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1774
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/ruettenscheid_1/ruettenscheid_statistik.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1548
+   }
+  ],
+  "start": "https://www.essen.de/dasistessen/stadtteile/ruettenscheid_1/ruettenscheid_startseite.de.jsp",
+  "sekunden": 3,
+  "zeichen": 9779
  },
  "429-bredeney": {
   "slug": "429-bredeney",
-  "seiten": [],
-  "sekunden": 0,
-  "zeichen": 0
+  "seiten": [
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_startseite.de.jsp",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1160
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_geschichte.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1670
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_kultur_freizeit.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 3184
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_statistik.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1052
+   }
+  ],
+  "start": "https://www.essen.de/dasistessen/stadtteile/bredeney_1/bredeney_startseite.de.jsp",
+  "sekunden": 3,
+  "zeichen": 7545
  },
  "430-huttrop": {
   "slug": "430-huttrop",
-  "seiten": [],
-  "sekunden": 0,
-  "zeichen": 0
+  "seiten": [
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/huttrop_2/huttrop_startseite.de.jsp",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1551
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/huttrop_2/huttrop_geschichte.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2424
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/huttrop_2/huttrop_kultur_freizeit.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1146
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/huttrop_2/huttrop_statistik.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1832
+   }
+  ],
+  "start": "https://www.essen.de/dasistessen/stadtteile/huttrop_2/huttrop_startseite.de.jsp",
+  "sekunden": 3,
+  "zeichen": 7424
  },
  "431-kettwig": {
   "slug": "431-kettwig",
-  "seiten": [],
-  "sekunden": 0,
-  "zeichen": 0
+  "seiten": [
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_startseite.de.jsp",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1941
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_geschichte.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 3774
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_kultur_freizeit.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 4306
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_statistik.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1484
+   }
+  ],
+  "start": "https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_startseite.de.jsp",
+  "sekunden": 3,
+  "zeichen": 11968
  },
  "432-breitnau": {
   "slug": "432-breitnau",
@@ -26179,5 +26923,558 @@
   "start": "https://www.friedenweiler.de/",
   "sekunden": 12,
   "zeichen": 14261
+ },
+ "493-margarethenhoehe": {
+  "slug": "493-margarethenhoehe",
+  "seiten": [
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/margarethenhoehe/margarethenhoehe_startseite.de.jsp",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1145
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/margarethenhoehe/margarethenhoehe_geschichte.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2566
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/margarethenhoehe/margarethenhoehe_kultur_freizeit.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1803
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/margarethenhoehe/margarethenhoehe_statistik_.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1433
+   }
+  ],
+  "start": "https://www.essen.de/dasistessen/stadtteile/margarethenhoehe/margarethenhoehe_startseite.de.jsp",
+  "sekunden": 3,
+  "zeichen": 7483
+ },
+ "490-schuir": {
+  "slug": "490-schuir",
+  "seiten": [
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/schuir_1/schuir_startseite.de.jsp",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1248
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/schuir_1/schuir_geschichte.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1857
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/schuir_1/schuir_kultur_freizeit.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1675
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/schuir_1/schuir_statistik.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1493
+   }
+  ],
+  "start": "https://www.essen.de/dasistessen/stadtteile/schuir_1/schuir_startseite.de.jsp",
+  "sekunden": 3,
+  "zeichen": 6736
+ },
+ "491-heidhausen": {
+  "slug": "491-heidhausen",
+  "seiten": [
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/heidhausen_1/heidhausen_startseite.de.jsp",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1513
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/heidhausen_1/heidhausen_geschichte.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1592
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/heidhausen_1/heidhausen_kultur_freizeit.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1597
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/heidhausen_1/heidhausen_statistik.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1037
+   }
+  ],
+  "start": "https://www.essen.de/dasistessen/stadtteile/heidhausen_1/heidhausen_startseite.de.jsp",
+  "sekunden": 3,
+  "zeichen": 6234
+ },
+ "492-haarzopf": {
+  "slug": "492-haarzopf",
+  "seiten": [
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/haarzopf/haarzopf_startseite.de.jsp",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1814
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/haarzopf/haarzopf_geschichte.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 3093
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/haarzopf/haarzopf_kultur_freizeit.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1174
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/haarzopf/haarzopf_statistik.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1384
+   }
+  ],
+  "start": "https://www.essen.de/dasistessen/stadtteile/haarzopf/haarzopf_startseite.de.jsp",
+  "sekunden": 3,
+  "zeichen": 7936
+ },
+ "494-suedostviertel": {
+  "slug": "494-suedostviertel",
+  "seiten": [
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_startseite.de.jsp",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1095
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_geschichte.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1587
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_kultur_freizeit.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1099
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_statistik.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1466
+   }
+  ],
+  "start": "https://www.essen.de/dasistessen/stadtteile/suedostviertel_1/suedostviertel_startseite.de.jsp",
+  "sekunden": 3,
+  "zeichen": 5774
+ },
+ "495-freisenbruch": {
+  "slug": "495-freisenbruch",
+  "seiten": [
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/freisenbruch_2/fischlaken_startseite.de.jsp",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1659
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/freisenbruch_2/freisenbruch_geschichte.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1578
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/freisenbruch_2/freisenbruch_kultur_freizeit.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1409
+   },
+   {
+    "url": "https://www.essen.de/dasistessen/stadtteile/freisenbruch_2/freisenbruch_statistik.de.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1335
+   }
+  ],
+  "start": "https://www.essen.de/dasistessen/stadtteile/freisenbruch_2/fischlaken_startseite.de.jsp",
+  "sekunden": 3,
+  "zeichen": 6490
+ },
+ "496-neuwied": {
+  "slug": "496-neuwied",
+  "seiten": [
+   {
+    "url": "https://www.neuwied.de/wirtschaft/daten-fakten",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 3190
+   },
+   {
+    "url": "https://www.neuwied.de/stadtleben/standort/geschichtliches",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2102
+   },
+   {
+    "url": "https://www.neuwied.de/stadtleben/standort/geschichtliches/der-deich",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 6427
+   },
+   {
+    "url": "https://www.neuwied.de/stadtleben/standort/geschichtliches/schriftenreihe",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 12000
+   },
+   {
+    "url": "https://www.neuwied.de/stadtleben/standort/geschichtliches/stadtgeschichte-zum-ausschneiden",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 12000
+   },
+   {
+    "url": "https://www.neuwied.de/stadtleben/standort/geschichtliches/geschichte-der-juedischen-gemeinde-neuwied",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 3445
+   },
+   {
+    "url": "https://www.neuwied.de/kultur-freizeit/brauchtum",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 940
+   },
+   {
+    "url": "https://www.neuwied.de/kultur-freizeit/maerkte/markt-der-kulturen",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1276
+   },
+   {
+    "url": "https://www.neuwied.de/stadtleben/standort/stadtteile/feldkirchen",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 10014
+   },
+   {
+    "url": "https://www.neuwied.de/stadtleben/standort/unsere-stadt-in-zahlen",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 787
+   },
+   {
+    "url": "https://www.neuwied.de/flohmarkt",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2895
+   },
+   {
+    "url": "https://www.neuwied.de/tourismus",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 4522
+   },
+   {
+    "url": "https://www.neuwied.de/wirtschaft",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1883
+   },
+   {
+    "url": "https://www.neuwied.de/gartenmarkt",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1410
+   },
+   {
+    "url": "https://www.neuwied.de/wochenmarkt",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1623
+   },
+   {
+    "url": "https://www.neuwied.de/deichstadtfest",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2136
+   },
+   {
+    "url": "https://www.neuwied.de/kultur-freizeit",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2358
+   },
+   {
+    "url": "https://www.neuwied.de/tourismusstrategie",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 5750
+   },
+   {
+    "url": "https://www.neuwied.de/tourismus/prospekte",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 524
+   },
+   {
+    "url": "https://www.neuwied.de/wirtschaft/netzwerke",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2332
+   }
+  ],
+  "start": "https://www.neuwied.de/",
+  "sekunden": 34,
+  "zeichen": 79400
+ },
+ "497-altwied": {
+  "slug": "497-altwied",
+  "seiten": [
+   {
+    "url": "https://www.neuwied.de/stadtleben/standort/stadtteile/altwied",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 3292
+   }
+  ],
+  "start": "https://www.neuwied.de/stadtleben/standort/stadtteile/altwied",
+  "sekunden": 2,
+  "zeichen": 3390
+ },
+ "498-rengsdorf": {
+  "slug": "498-rengsdorf",
+  "seiten": [
+   {
+    "url": "https://www.rengsdorf-waldbreitbach.de/gemeinden-infrastruktur/gemeinden/rengsdorf/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1039
+   },
+   {
+    "url": "https://www.kurortrengsdorf.de/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 754
+   }
+  ],
+  "start": "https://www.rengsdorf-waldbreitbach.de/gemeinden-infrastruktur/gemeinden/rengsdorf/",
+  "sekunden": 3,
+  "zeichen": 1981
+ },
+ "499-bonefeld": {
+  "slug": "499-bonefeld",
+  "seiten": [
+   {
+    "url": "https://www.bonefeld.de/chronik.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 6205
+   },
+   {
+    "url": "https://www.bonefeld.de/wappen.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1156
+   },
+   {
+    "url": "https://www.bonefeld.de/kirchen.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 412
+   },
+   {
+    "url": "https://www.bonefeld.de/handwerk.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 894
+   },
+   {
+    "url": "https://www.bonefeld.de/burverein.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 935
+   },
+   {
+    "url": "https://www.bonefeld.de/alte-burschen.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 712
+   }
+  ],
+  "start": "https://www.bonefeld.de/",
+  "sekunden": 7,
+  "zeichen": 10760
+ },
+ "500-strassenhaus": {
+  "slug": "500-strassenhaus",
+  "seiten": [
+   {
+    "url": "https://www.rengsdorf-waldbreitbach.de/gemeinden-infrastruktur/gemeinden/strassenhaus/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 846
+   }
+  ],
+  "start": "https://www.rengsdorf-waldbreitbach.de/gemeinden-infrastruktur/gemeinden/strassenhaus/",
+  "sekunden": 6,
+  "zeichen": 969
+ },
+ "501-oberhonnefeld-gierend": {
+  "slug": "501-oberhonnefeld-gierend",
+  "seiten": [
+   {
+    "url": "https://oberhonnefeld.de/chronik.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 3603
+   },
+   {
+    "url": "https://oberhonnefeld.de/kirche-.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 6976
+   },
+   {
+    "url": "https://oberhonnefeld.de/mgv/index.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 463
+   },
+   {
+    "url": "https://oberhonnefeld.de/burschen/index.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1099
+   },
+   {
+    "url": "https://oberhonnefeld.de/feuerwehr/index.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 520
+   },
+   {
+    "url": "https://oberhonnefeld.de/gewerbestruktur.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 732
+   },
+   {
+    "url": "https://oberhonnefeld.de/gewerbe-auf-unserer-hp.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 976
+   },
+   {
+    "url": "https://oberhonnefeld.de/ortsteile.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1954
+   }
+  ],
+  "start": "https://oberhonnefeld.de/",
+  "sekunden": 10,
+  "zeichen": 16957
+ },
+ "502-willroth": {
+  "slug": "502-willroth",
+  "seiten": [
+   {
+    "url": "https://www.vg-altenkirchen-flammersfeld.de/gemeinde-politik/uebersicht-ortsgemeinden/willroth",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 5328
+   },
+   {
+    "url": "https://www.vg-altenkirchen-flammersfeld.de/gemeinde-politik/chroniken-der-ortsgemeinden",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1048
+   }
+  ],
+  "start": "https://www.vg-altenkirchen-flammersfeld.de/gemeinde-politik/uebersicht-ortsgemeinden/willroth",
+  "sekunden": 2,
+  "zeichen": 6632
+ },
+ "503-horhausen": {
+  "slug": "503-horhausen",
+  "seiten": [
+   {
+    "url": "https://www.horhausen.de/gemeinde/geschichte",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 8918
+   },
+   {
+    "url": "https://www.horhausen.de/einrichtungen/historische-einrichtungen",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1230
+   },
+   {
+    "url": "https://www.horhausen.de/freizeit-sport-tourismus/sport-u-freizeitanlagen",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2663
+   },
+   {
+    "url": "https://www.horhausen.de/freizeit-sport-tourismus/gastronomieunterkuenfte",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2042
+   },
+   {
+    "url": "https://www.horhausen.de/vereine",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 7756
+   },
+   {
+    "url": "https://www.horhausen.de/wirtschaft",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 682
+   },
+   {
+    "url": "https://www.horhausen.de/unternehmen",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 12000
+   },
+   {
+    "url": "https://www.horhausen.de/persoenlichkeiten",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 687
+   },
+   {
+    "url": "https://www.horhausen.de/einrichtungen/ev-kirchengemeinde",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2354
+   },
+   {
+    "url": "https://www.horhausen.de/einrichtungen/kath-kirchengemeinde",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1263
+   }
+  ],
+  "start": "https://www.horhausen.de/",
+  "sekunden": 10,
+  "zeichen": 40480
+ },
+ "504-huemmerich": {
+  "slug": "504-huemmerich",
+  "seiten": [
+   {
+    "url": "https://www.rengsdorf-waldbreitbach.de/gemeinden-infrastruktur/gemeinden/huemmerich/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 714
+   }
+  ],
+  "start": "https://www.rengsdorf-waldbreitbach.de/gemeinden-infrastruktur/gemeinden/huemmerich/",
+  "sekunden": 5,
+  "zeichen": 835
+ },
+ "505-krunkel": {
+  "slug": "505-krunkel",
+  "seiten": [
+   {
+    "url": "https://www.gemeinde-krunkel.de/wir-in-krunkel/geschichte.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 8839
+   },
+   {
+    "url": "https://www.gemeinde-krunkel.de/freizeit-und-kultur/kirche.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2245
+   },
+   {
+    "url": "https://www.gemeinde-krunkel.de/wir-in-krunkel/ortsportrait.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2338
+   },
+   {
+    "url": "https://www.gemeinde-krunkel.de/freizeit-und-kultur/vereine.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 550
+   },
+   {
+    "url": "https://www.gemeinde-krunkel.de/wirtschaft/unternehmen.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 851
+   },
+   {
+    "url": "https://www.gemeinde-krunkel.de/wirtschaft/gewerbeflaechen.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1443
+   },
+   {
+    "url": "https://www.gemeinde-krunkel.de/freizeit-und-kultur/wasserweg.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 3298
+   },
+   {
+    "url": "https://www.gemeinde-krunkel.de/freizeit-und-kultur/devon-platz.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2230
+   },
+   {
+    "url": "https://www.gemeinde-krunkel.de/freizeit-und-kultur/sport-und-freizeitanlagen.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 677
+   },
+   {
+    "url": "https://www.gemeinde-krunkel.de/freizeit-und-kultur/kunterbunt-der-familien-erlebnisweg.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1261
+   }
+  ],
+  "start": "https://www.gemeinde-krunkel.de/",
+  "sekunden": 16,
+  "zeichen": 24785
  }
 }

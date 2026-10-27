@@ -1,14 +1,15 @@
 ENTITÄT: ort
 BEZEICHNUNG: Kurtscheid
+FACETTE: LAGE
 QUELLE: https://de.wikipedia.org/wiki/Kurtscheid | Wikipedia
 EIGENSCHAFTEN:
-  kategorie: Ortsgemeinde
-  landkreis: Neuwied
-  bundesland: Rheinland-Pfalz
+  gebietsstand: Ortsgemeinde im Landkreis Neuwied, Rheinland-Pfalz
   verbandsgemeinde: Rengsdorf-Waldbreitbach
-  naturpark: Rhein-Westerwald
-  hoechste_bebauung: 395 [m ü. NHN], genauigkeit: knapp
+  naturraum: Naturpark Rhein-Westerwald
+  lage_relativ: nördlich von Ehlscheid
+  erhoehung: 395 m ü. NHN
   superlativ: höchstgelegener Ort im Landkreis Neuwied
+  grundwort_ortsname: -scheid (Wasserscheide)
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 
@@ -16,173 +17,95 @@ VERTRAUEN_EXTRAKTION: 0.95
 
 ENTITÄT: ort
 BEZEICHNUNG: Kurtscheid
+FACETTE: GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Kurtscheid | Wikipedia
 EIGENSCHAFTEN:
-  erste_urkundliche_erwaehnung_jahr: 1457
-  erste_urkundliche_erwaehnung_form: Kurtschyt
-  fruehere_erwaehnung_jahr: 1314
-  fruehere_erwaehnung_status: ungesichert
+  erste_urkundliche_erwaehnung: 1457
+  urkundliche_bezeichnung: Kurtschyt
+  jahreszahl_1314_status: ungesichert
 GUELTIG_AB: 1457
 IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Kurtscheid
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kurtscheid | Wikipedia
+EIGENSCHAFTEN:
+  grund_konfessionszugehoerigkeit: In Reformationszeit auf Grenze zwischen Territorium Grafen zu Wied und Kölner Kurfürst. Graf zu Wied schloss sich 1556 dem evangelischen Glauben an; Kurtscheider verlegten daraufhin ihre 11 auf wiedischem Territorium gelegenen Häuser auf die kurkölnische Seite, wo sie katholisch blieben. Konfessionelle Grenze zu Ehlscheid über Jahrhunderte.
+  verlegung_haeuser: 1556
+  haeuser_zahl: 11
+GUELTIG_AB: 1556
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Kurtscheid
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Kurtscheid | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_1815: 338
+  einwohner_1835: 285
+  einwohner_1871: 350
+  einwohner_1905: 387
+  einwohner_1939: 441
+  einwohner_1950: 492
+  einwohner_1961: 592
+  einwohner_1970: 799
+  einwohner_1987: 917
+  einwohner_2005: 959
+  einwohner_2011: 948
+  einwohner_2017: 946
+  einwohner_2022: 997
+IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
 ENTITÄT: ort
 BEZEICHNUNG: Kurtscheid
+FACETTE: INFRA
 QUELLE: https://de.wikipedia.org/wiki/Kurtscheid | Wikipedia
 EIGENSCHAFTEN:
-  konfession: katholisch
-  grund_konfession: "1556 Graf zu Wied zum evangelischen Glauben übergetreten; Kurtscheider verlegten 11 Häuser vom wiedischen auf kurkölnisches Territorium, um katholisch zu bleiben"
-  konfessionelle_grenze_nachbar: Ehlscheid
-  konfessionelle_grenzzeit: mehrere Jahrhunderte
-  territoriale_teilung_bis: 1803
-  grund_wappensymbolik: "Wappen symbolisiert die bis 1803 währende Teilung in wiedischen und kurkölnischen Ortsteil"
-GUELTIG_AB: 1556
+  bundesstrasse: B 256 östlich (Neuwied nach Altenkirchen)
+  autobahn_anschlussstelle: A 3 Neuwied (#36)
+  naechster_bahnhof: Bahnhof Neuwied (rechte Rheinstrecke)
+  naechste_ice_halte: Hauptbahnhof Koblenz (linke Rheinstrecke), Bahnhof Montabaur (Schnellfahrstrecke Köln-Rhein/Main)
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: seelsorger
-BEZEICHNUNG: Johann Matthias Eudenbach
-QUELLE: https://www.kurtscheid.de/kirchengemeinde-katholisch.html | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  geburtstag: 17.06.1688
-  sterbetag: 08.02.1754
-  funktion: erster Seelsorger Kurtscheids
-  titel: Vikar
-GUELTIG_AB: 1688
-GUELTIG_BIS: 1754
-IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: kirche
-BEZEICHNUNG: Kirche Kurtscheid (1842)
-QUELLE: https://www.kurtscheid.de/kirchengemeinde-katholisch.html | Gemeinde-Webseite
+ENTITÄT: ort
+BEZEICHNUNG: Kurtscheid
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Kurtscheid | Wikipedia
 EIGENSCHAFTEN:
-  grundsteinlegung: 07.09.1842
-  besonderheit: erste eigene Kirche Kurtscheids
-  initiator_geistlich: Johann Tömmel, Pfarrvikar
-  initiator_weltlich: Wilhelm Wagner, Gemeindeschöffe
-  baumeister: Maurermeister Nörteshäuser aus Dieblich an der Mosel
-  weitere_baubeteiligte: Linzenbach (Zimmermeister), Heinrich Wittlich
-GUELTIG_AB: 1842
-GUELTIG_BIS: 1923
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: pfarrvikarie
-BEZEICHNUNG: Pfarrvikarie Kurtscheid
-QUELLE: https://www.kurtscheid.de/kirchengemeinde-katholisch.html | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  gruendung: 1842
-  eingepfarrte_gemeinden: "Rengsdorf, Bonefeld, Hardert, Straßenhaus, Ehlscheid, Oberhonnefeld-Gierend, Oberraden, Hümmerich"
-  erhoehung_zur_pfarrei: 24. Februar 1961
-GUELTIG_AB: 1842
-GUELTIG_BIS: 1961
-IST_VERMUTLICH_AKTUELL: false
+  gemeinderat_groesse: 16 Sitze
+  gemeinderat_sitze_2024: CDU 7, FWG 9
+  gemeinderat_sitze_2019: CDU 5, Grüne 1, FWG 6
+  gemeinderat_sitze_2014: CDU 6, Grüne 1, FWG 5
+  gemeinderat_sitze_2009: CDU 9, FWG 7
+  gemeinderat_sitze_2004: SPD 1, CDU 7, FWG 4
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: pfarrei
-BEZEICHNUNG: Pfarrei Kurtscheid
-QUELLE: https://www.kurtscheid.de/kirchengemeinde-katholisch.html | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  erhoehung_zur_pfarrei: 24. Februar 1961
-  erster_pfarrer_ernannt: 18. Juli 1961
-  erster_pfarrer_name: Dreikhausen
-  pfarreiengemeinschaft_ab: 01.05.2008
-  pfarreiengemeinschaft_partner: "Waldbreitbach und Niederbreitbach"
-GUELTIG_AB: 1961
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: kirche
-BEZEICHNUNG: Kirche Kurtscheid (1923)
-QUELLE: https://www.kurtscheid.de/kirchengemeinde-katholisch.html | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  weihe: 21. Mai 1923
-  weihe_tag: Pfingstmontag
-  besonderheit: neue Kirche, erste wurde abgerissen
-  beteiligte_personen: Prälat Jakob Hubert Schütz
-  gottesdienstnutzung_bis: 1957
-GUELTIG_AB: 1923
-GUELTIG_BIS: 1957
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: kirche
-BEZEICHNUNG: Kirche Kurtscheid (aktuell)
-QUELLE: https://www.kurtscheid.de/kirchengemeinde-katholisch.html | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  erbaut: 1957
-  grund_erbauung: "Ersatz für Kirche von 1923, diese wurde abgerissen"
-  bewertung_historisch: "rückblickend vielleicht ein Fehler, die Kirche von 1923 abzureißen", genauigkeit: vermutlich
-GUELTIG_AB: 1957
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: kirchenglocke
-BEZEICHNUNG: Fis-Glocke
-QUELLE: https://www.kurtscheid.de/kirchengemeinde-katholisch.html | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  herkunft: Spende von Papst Pius XI
-  geweiht: hl. Kastor
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: kirchenglocke
-BEZEICHNUNG: Cis-Glocke
-QUELLE: https://www.kurtscheid.de/kirchengemeinde-katholisch.html | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  geweiht: hl. Franziskus-Xaverius
-  grund_weihe: Schutzpatron der ersten Kurtscheider Kapelle
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: kirchenglocke
-BEZEICHNUNG: Herz-Jesu-Glocke
-QUELLE: https://www.kurtscheid.de/kirchengemeinde-katholisch.html | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  beschreibung: Kirchenglocke in Kurtscheid
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.7
-
----
-
-ENTITÄT: kirchenglocke
-BEZEICHNUNG: Schutzengel-Glocke
-QUELLE: https://www.kurtscheid.de/kirchengemeinde-katholisch.html | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  geweiht: hl. Schutzengel
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
 
 ---
 
 ENTITÄT: ortsbuergermeister
 BEZEICHNUNG: Melanie Anhäuser
+FACETTE: POLITIK
 QUELLE: https://de.wikipedia.org/wiki/Kurtscheid | Wikipedia
 EIGENSCHAFTEN:
-  amtsantritt: 28. August 2024
-  ernennung_modus: einstimmig durch Gemeinderat
-  grund_ernennung: "Direktwahl am 9. Juni 2024 ohne Wahlvorschlag; konstituierende Sitzung am 10. Juli keine Bewerber; Anhäuser zuvor zur Ersten Beigeordneten bestimmt"
+  amtsantritt: 28.08.2024
+  erwaehlung: einstimmig durch Gemeinderat
+  grund_bestellung: bei Direktwahl 09.06.2024 kein Wahlvorschlag eingereicht; Erste Beigeordnete, dann zur Ortsbürgermeisterin gewählt
+GUELTIG_AB: 2024
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 
@@ -190,14 +113,12 @@ VERTRAUEN_EXTRAKTION: 0.95
 
 ENTITÄT: ortsbuergermeister
 BEZEICHNUNG: Ferdinand Wittlich
+FACETTE: POLITIK
 QUELLE: https://de.wikipedia.org/wiki/Kurtscheid | Wikipedia
 EIGENSCHAFTEN:
-  amtszeit_beginn: Juli 2014
-  amtszeit_ende: August 2024
-  amtszeit_dauer: 10 [Jahre]
-  direktwahl: 26. Mai 2019
-  stimmenanteil: 95,06 [%]
-  wiederwahl_dauer: 5 [Jahre]
+  amtsantritt: Juli 2014
+  direktwahl_2019: 95,06 % Stimmenanteil, wiedergewählt
+  amtszeit: 5 Jahre (2019-2024)
 GUELTIG_AB: 2014
 GUELTIG_BIS: 2024
 IST_VERMUTLICH_AKTUELL: false
@@ -205,169 +126,460 @@ VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: ortsbuergermeister
-BEZEICHNUNG: Heinz-Dieter Wagner
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Werner Wittlich
+FACETTE: GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Kurtscheid | Wikipedia
 EIGENSCHAFTEN:
-  amtszeit_dauer: 10 [Jahre]
-  nachfolger: Ferdinand Wittlich
+  geburtsjahr: 1946
+  geburtsort: Kurtscheid
+  titel: MdB (Mitglied des Bundestages), MdL Rheinland-Pfalz
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Kurtscheid
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Kurtscheid | Wikipedia
+EIGENSCHAFTEN:
+  wappenschild_blasonierung: gespalten von Rot und Silber durch eingebogene grüne Spitze; vorn vier rote Schrägbalken; hinten durchgehendes schwarzes Balkenkreuz; unten über goldenem Dreiberg ein sechszackiges silbernes Zahnrad
+  wappen_element_schraegbalken: aus dem Wappen von Wied
+  wappen_element_kreuz: aus Kurköln
+  wappensymbol_dreiberg: Lage als höchstgelegener Ort, Grundwort -scheid als Wasserscheide
+  wappensymbol_farbe_gold: Ackerbau
+  wappensymbol_farbe_gruen: Waldbestand
+  wappensymbol_zahnrad: frühere Silber- und Eisenerzgruben, heutige Industrie
+  wappenbedeutung: erinnert an Teilung 1556-1803 in wiedischen und kurkölnischen Ortsteil
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Freiwillige Feuerwehr Kurtscheid
+FACETTE: ALLTAG
+QUELLE: https://www.kurtscheid.de/vereine.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vereinszweck: Retten, Löschen, Bergen, Schützen
+  mitglieder_aktiv_2016: 33
+  mitglieder_passiv_2016: 18
+  wehrfuehrer: Michael Wilbert
+  stellv_wehrfuehrer: René Geisen
+  standort: Im Tiergarten 18, 56581 Kurtscheid
+  uebungsbetrieb: Donnerstags ab 19:00 Uhr, Industriestraße 2a
+GUELTIG_AB: 2016
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Jugendfeuerwehr Kurtscheid
+FACETTE: FREIZEIT
+QUELLE: https://www.kurtscheid.de/vereine.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vereinszweck: Nachwuchsförderung, allgemeine Jugendarbeit für Freiwillige Feuerwehr Verbandsgemeinde Rengsdorf-Waldbreitbach
+  mitglieder_jugendliche_2016: 35
+  mitglieder_betreuer_2016: 15
+  verantwortlicher: Tobias Dittrich
+  stellvertreterin: Daniela Polifka
+  standort: Kapellenstraße 2, 56579 Rengsdorf
+  uebungsbetrieb: Montags 18:45-20:15 Uhr, Industriestraße 2a
+GUELTIG_AB: 2016
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: MGV Eintracht Kurtscheid e.V.
+FACETTE: FREIZEIT
+QUELLE: https://www.kurtscheid.de/vereine.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vereinszweck: Singen und Pflege des Vereinslebens
+  mitglieder_aktiv_2016: 28
+  mitglieder_passiv_2016: 30
+  vorsitzender: Erwin Marquart
+  stellv_vorsitzender: Günther Kursch
+  standort: Rosenstr. 7, 56581 Kurtscheid
+  probentage: Donnerstags 20:00 Uhr, Wiedhöhenhalle Kurtscheid
+GUELTIG_AB: 2016
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Musikverein "HARMONIE" Kurtscheid e.V.
+FACETTE: FREIZEIT
+QUELLE: https://www.kurtscheid.de/vereine.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vereinszweck: moderne Blaskapelle, Musikausbildung Kinder/Jugendliche/Erwachsene, Pflege Blasmusik, Ausführung örtlicher Veranstaltungen
+  mitglieder_aktiv_2016: 42
+  mitglieder_passiv_2016: 67
+  vorsitzender: Sebastian Juhr
+  stellv_vorsitzender: Sonja Schäfer
+  standort: Schulstraße 5, 56581 Kurtscheid
+  musikalische_frueherziehung: Montags 15:45 Uhr Wiedhöhenhalle
+  probenarbeit: Dienstags 19:30 Uhr Wiedhöhenhalle, Dirigent Michael Schmitz
+GUELTIG_AB: 2016
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Kirchenchor Cäcilia
+FACETTE: FREIZEIT
+QUELLE: https://www.kurtscheid.de/vereine.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  chorleiterin: Claudia Euler
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Reiterverein Kurtscheid e.V.
+FACETTE: FREIZEIT
+QUELLE: https://www.kurtscheid.de/vereine.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorsitzende: Jutta Spies
+  stellv_vorsitzender: Helmut Ewenz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: TUS Kurtscheid e.V.
+FACETTE: FREIZEIT
+QUELLE: https://www.kurtscheid.de/vereine.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vereinszweck: Gymnastik, Turnen, Walking
+  gruendung: 1977 durch sportliche Frauen
+  charakterisierung: zu den größten Vereinen in Kurtscheid gehörend
+  mitglieder_2019: 125
+  sportangebote: Nordic Walking, Body Workout, Powertraining, Senioren-Sitzgymnastik
+  jahresbeitrag: 36,00 Euro
+  vereinsleben: jährliche Sportivtour, Weihnachtsfeier
+  vorsitzende: Veronika Steinbach
+  stellv_vorsitzender: Svenja Umbscheiden
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Schützenbruderschaft "St. Hubertus" Kurtscheid e.V.
+FACETTE: FREIZEIT
+QUELLE: https://www.kurtscheid.de/vereine.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vereinszweck: Schießsport, Wahrung des Brauchtums (Glaube, Sitte, Heimat)
+  mitglieder_2016: 95
+  vorsitzender: Martin Stüber
+  stellv_vorsitzender: Klaus Wittlich
+  standort: In den Erlen 1, 56581 Kurtscheid
+  trainingstage_schuetzen: Freitags 18:00 Uhr Schützenhaus
+  trainingstage_jugend: Freitags 17:00 Uhr Schützenhaus
+GUELTIG_AB: 2016
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Kirmesgesellschaft e.V. (KGK)
+FACETTE: FREIZEIT
+QUELLE: https://www.kurtscheid.de/vereine.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vereinszweck: traditionelle, kulturelle und sittlich einwandfreie Veranstaltungen
+  mitglieder_aktiv: 17
+  vorsitzender: David Grothaus
+  stellv_vorsitzender: Jens Prangenberg
+  standort: Im Weidenbruch 10, 56581 Kurtscheid
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Karnevalsclub KCK "Hie Höh"
+FACETTE: FREIZEIT
+QUELLE: https://www.kurtscheid.de/vereine.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorsitzender: Andre Reuber
+  stellv_vorsitzer: Katrin Weingarten
+  schatzmeisterin: Petra Schäfer
+  geschaeftsfuehrer: Matthias Schäfer
+  leiterin_tanzsport: Jasmin Wolfram
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: St. Georgs Pfadfinder
+FACETTE: FREIZEIT
+QUELLE: https://www.kurtscheid.de/vereine.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  leitung: Raphaela Funk
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: NABU (Natur Artenschutz Biotop Umwelt)
+FACETTE: FREIZEIT
+QUELLE: https://www.kurtscheid.de/vereine.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorsitzende: Lucia Preilowski
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: betrieb
+BEZEICHNUNG: NAH SUPER
+FACETTE: ALLTAG
+QUELLE: https://www.kurtscheid.de/nah-super.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konzept: innovativer Selbstbedienungs-Supermarkt ohne Personal
+  oeffnungszeiten: 05:00-23:00 Uhr täglich
+  sortiment: ca. 1100 Artikel
+  regionalprodukte: Backwaren, Eier, Fleisch, Wurst, Gemüse, Honig, Säfte aus der Region
+  besonderheit: Eigen-Scanning und bargeldlose Zahlungsmethoden
+  bedeutung_fuer_ort: Nahversorgung für Einwohner, schließt Versorgungslücke im Ort
+  superlativ: erstes Geschäft dieser Art im Kreis Neuwied
+  weitere_filialen: geplant
+  besucherzielgruppe: Einwohner Kurtscheid, Bürger benachbarter Gemeinden, Camper Wiedtal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: platz
+BEZEICHNUNG: Kornbitze
+FACETTE: FREIZEIT
+QUELLE: https://www.kurtscheid.de/kornbitze.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausstattung: Kinderspielplatz, Streetballplatz, Fußballtor, Tischtennisplatz, Pavillon, Tribüne als Forum
+  veranstaltungen: öffentliche Konzerte der Musikvereine Kurtscheids
+  infrastruktur_parkplatz: großer angrenzender Parkplatz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: forstwirtschaft
+BEZEICHNUNG: PEFC-Zertifizierung Ortsgemeinde Kurtscheid
+FACETTE: INFRA
+QUELLE: https://www.kurtscheid.de/holzverkauf.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zertifizierung: Programm for the Endorsement of Forest Certification Schemes
+  teilnahme_seit: mehrere Jahre, Selbstverpflichtung 06.12.2001
+  zertifizierer: HW-Zert GmbH PEFC-Region Rheinland-Pfalz
+  zertifikat_nummer: HW-RWZ-0006-25
+  konformitaet: PEFC D 1001, PEFC D 1002-1
+  gueltig_bis: 29.11.2025
+  logonutzungsregistrierung: PEFC/04-21-051224
+  zweck: nachhaltige Forstwirtschaft, Holzverkauf aus zertifizierter Waldbewirtschaftung
+GUELTIG_AB: 2001
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Katholische Pfarrgemeinde Kurtscheid
+FACETTE: GESCHICHTE
+QUELLE: https://www.kurtscheid.de/kirchengemeinde-katholisch.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geschichte_zentralitaet: Bis Reformation gehörte Kurtscheid zur Pfarrei Rengsdorf. Nach deren Übertritt zum Protestantismus Anschluss zur Pfarrei Waldbreitbach.
+  erster_seelsorger: Vikar Johann Matthias Eudenbach (geb. 17.06.1688, gest. 08.02.1754)
+GUELTIG_BIS: 1842
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: gemeinderat
-QUELLE: https://de.wikipedia.org/wiki/Kurtscheid | Wikipedia
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Kirche Kurtscheid (1842)
+FACETTE: GESCHICHTE
+QUELLE: https://www.kurtscheid.de/kirchengemeinde-katholisch.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  groesse: 16 [Ratsmitglieder]
-  wahl: 9. Juni 2024
-  wahlsystem: personalisierte Verhältniswahl
-  vorsitz: ehrenamtlicher Ortsbürgermeister
-  sitzverteilung_2024_cdu: 7
-  sitzverteilung_2024_fwg: 9
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+  grundsteinlegung: 07.09.1842
+  erbaut_unter_leitung: Pfarrvikar Johann Tömmel
+  weitere_beteiligte: Gemeindeschöffe Wilhelm Wagner, Zimmermeister Linzenbach, Heinrich Wittlich, Maurermeister Nörteshäuser (Dieblich)
+  bedeutung_fuer_ort: Etablierung der Pfarrvikarie Kurtscheid seit 1842, eingepfarrte Gemeinden: Rengsdorf, Bonefeld, Hardert, Straßenhaus, Ehlscheid, Oberhonnefeld-Gierend, Oberraden, Hümmerich
+GUELTIG_AB: 1842
+GUELTIG_BIS: 1957
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: wappen
-QUELLE: https://de.wikipedia.org/wiki/Kurtscheid | Wikipedia
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Kirche Kurtscheid (1923)
+FACETTE: GESCHICHTE
+QUELLE: https://www.kurtscheid.de/kirchengemeinde-katholisch.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  blasonierung: "Gespalten von Rot und Silber durch eine eingebogene grüne Spitze; vorn vier rote Schrägbalken; hinten ein durchgehendes schwarzes Balkenkreuz; unten über goldenem Dreiberg, von diesem teils verdeckt, ein sechszackiges silbernes Zahnrad"
-  symbolik_schrägbalken: "Wappen von Wied, erinnert an wiedischen Ortsteil"
-  symbolik_kreuz: "Kreuz von Kurköln, erinnert an kurkölnischen Ortsteil"
-  symbolik_dreiberg: "Lage Kurtscheids als höchstgelegene Gemeinde im Landkreis Neuwied und Wasserscheide zwischen mehreren Zuflüssen der Wied"
-  symbolik_gold: Ackerbau
-  symbolik_gruen: bedeutender Waldbestand der Gemeinde
-  symbolik_zahnrad: "frühere Silber- und Eisenerzgruben, heute Industrie in der Gemeinde"
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+  weihe: Pfingstmontag, 21.05.1923
+  finanzierung_unterstuetzung: durch Prälat Jakob Hubert Schütz (in Kurtscheid beliebt und bekannt)
+  vorgaenger_abriss: frühere Kirche abgerissen und ersetzt (rückblickend möglicherweise Fehler)
+  verwendung_bis: 1957 zum Gottesdienst
+GUELTIG_AB: 1923
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
 
 ---
 
-ENTITÄT: bundesstrasse
-BEZEICHNUNG: B 256
-QUELLE: https://de.wikipedia.org/wiki/Kurtscheid | Wikipedia
+ENTITÄT: kirchenglocke
+BEZEICHNUNG: fis-Glocke (Hl. Kastor)
+FACETTE: GESCHICHTE
+QUELLE: https://www.kurtscheid.de/kirchengemeinde-katholisch.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  position_relativ_gemeinde: östlich
-  verlauf: "von Neuwied nach Altenkirchen"
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: autobahnanschlussstelle
-BEZEICHNUNG: Neuwied
-QUELLE: https://de.wikipedia.org/wiki/Kurtscheid | Wikipedia
-EIGENSCHAFTEN:
-  nummer: 36
-  autobahn: A 3
-  entfernung_zu_gemeinde: nächstgelegene
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: bahnhof
-BEZEICHNUNG: Bahnhof Neuwied
-QUELLE: https://de.wikipedia.org/wiki/Kurtscheid | Wikipedia
-EIGENSCHAFTEN:
-  entfernung_zu_gemeinde: nächstgelegener
-  bahnstrecke: rechte Rheinstrecke
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: bahnhof
-BEZEICHNUNG: Hauptbahnhof Koblenz
-QUELLE: https://de.wikipedia.org/wiki/Kurtscheid | Wikipedia
-EIGENSCHAFTEN:
-  entfernung_zu_gemeinde: "nächster ICE-Halt"
-  bahnstrecke: linke Rheinstrecke
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: bahnhof
-BEZEICHNUNG: Bahnhof Montabaur
-QUELLE: https://de.wikipedia.org/wiki/Kurtscheid | Wikipedia
-EIGENSCHAFTEN:
-  entfernung_zu_gemeinde: "nächster ICE-Halt"
-  bahnstrecke: Schnellfahrstrecke Köln-Rhein/Main
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Werner Wittlich
-QUELLE: https://de.wikipedia.org/wiki/Kurtscheid | Wikipedia
-EIGENSCHAFTEN:
-  geburtsort: Kurtscheid
-  geburtsjahr: 1946
-  funktion: MdB (Mitglied des Bundestags), MdL Rheinland-Pfalz (Mitglied des Landtags)
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: gemeinschaft
-BEZEICHNUNG: Evangelische Gemeindemitglieder Kurtscheid
-QUELLE: https://www.kurtscheid.de/kirchengemeinde-evangelisch.html | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  konfession: evangelisch
-  anzahl: 250, genauigkeit: etwa
-  kirchengemeinde: Evangelische Kirchengemeinde Rengsdorf
+  herkunft: Spende von Papst Pius XI
+  gewidmet: Hl. Kastor
+GUELTIG_AB: 1923
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: kirchengemeinde
-BEZEICHNUNG: Evangelische Kirchengemeinde Rengsdorf
-QUELLE: https://www.kurtscheid.de/kirchengemeinde-evangelisch.html | Gemeinde-Webseite
+ENTITÄT: kirchenglocke
+BEZEICHNUNG: cis-Glocke (Hl. Franziskus-Xaverius)
+FACETTE: GESCHICHTE
+QUELLE: https://www.kurtscheid.de/kirchengemeinde-katholisch.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  umfasst_orte: "Rengsdorf, Bonefeld, Ehlscheid, Hardert, Kurtscheid"
-  typ: unierte Gemeinde
-  pruegung: "evangelische Christen lutherischer und reformierter Prägung"
-  bekenntnis: "reformiert (Heidelberger Katechismus)"
-  pfarrer: Friedemann Stinder
+  gewidmet: Hl. Franziskus-Xaverius, Schutzpatron der ersten Kurtscheider Kapelle
+GUELTIG_AB: 1923
 IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kirchenglocke
+BEZEICHNUNG: Glocke der Schutzengel
+FACETTE: GESCHICHTE
+QUELLE: https://www.kurtscheid.de/kirchengemeinde-katholisch.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gewidmet: Hl. Schutzengel
+GUELTIG_AB: 1923
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: pfarrvikarie
+BEZEICHNUNG: Pfarrvikarie Kurtscheid
+FACETTE: GESCHICHTE
+QUELLE: https://www.kurtscheid.de/kirchengemeinde-katholisch.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegruendet: 1842
+  zur_pfarrei_erhoben: 24.02.1961
+  erster_pfarrer: Dreikhausen (ernannt 18.07.1961)
+GUELTIG_AB: 1842
+IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
 ENTITÄT: pfarrer
-BEZEICHNUNG: Friedemann Stinder
+BEZEICHNUNG: Egon Müller
+FACETTE: POLITIK
+QUELLE: https://www.kurtscheid.de/kirchengemeinde-katholisch.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtszeit_dauer: 24 Jahre
+  amtsende_grund: Ruhestand
+  amtsende_datum: 01.05.2008
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: pfarrer
+BEZEICHNUNG: Josef Mettel
+FACETTE: POLITIK
+QUELLE: https://www.kurtscheid.de/kirchengemeinde-katholisch.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  pfarrer_von: Pfarreiengemeinschaft Waldbreitbach, Niederbreitbach, Kurtscheid
+  amtsantritt: 01.05.2008
+  amtsende_grund: auf eigenen Wunsch
+  amtsende_monat: April 2013
+GUELTIG_AB: 2008
+GUELTIG_BIS: 2013
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: pfarrer
+BEZEICHNUNG: Marco Hartmann
+FACETTE: POLITIK
+QUELLE: https://www.kurtscheid.de/kirchengemeinde-katholisch.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel_vorher: Kaplan
+  ernannt: 01.09.2013 durch Bischoff Dr. Stephan Ackermann
+  pfarrer_von: Pfarreiengemeinschaft Waldbreitbach, Niederbreitbach, Kurtscheid
+GUELTIG_AB: 2013
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Rengsdorf
+FACETTE: ALLTAG
 QUELLE: https://www.kurtscheid.de/kirchengemeinde-evangelisch.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  konfession: evangelisch
-  gemeinde: Evangelische Kirchengemeinde Rengsdorf
-  zustaendigkeit: "auch für Evangelische in Kurtscheid"
-  adresse: "Pfarrer-Knappmann-Str. 9, Rengsdorf"
-  telefon: 2268
+  mitglieder_kurtscheid: ca. 250 evangelische Gemeindemitglieder
+  umfasst_orte: Kurtscheid, Rengsdorf, Bonefeld, Ehlscheid, Hardert
+  konfession: uniert (lutherisch und reformiert), bekennend reformiert (Heidelberger Katechismus)
+  charakterisierung: bekennende, missionarische und einladende Gemeinde
+GUELTIG_AB: unbekannt
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: friedhof
-BEZEICHNUNG: Evangelischer Friedhof Rengsdorf
+ENTITÄT: pfarrer
+BEZEICHNUNG: Friedemann Stinder
+FACETTE: POLITIK
 QUELLE: https://www.kurtscheid.de/kirchengemeinde-evangelisch.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  nutzung: "Bestattungen von Evangelischen aus Kurtscheid möglich"
-  konfession: evangelisch
+  zustaendig_fuer: Evangelische in Kurtscheid
+  adresse: Pfarrer-Knappmann-Str. 9, Rengsdorf
+GUELTIG_AB: unbekannt
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.8
 
 ---
 
-ENTITÄT: friedhof
-BEZEICHNUNG: Kommunalfriedhof Kurtscheid
-QUELLE: https://www.kurtscheid.de/kirchengemeinde-evangelisch.html | Gemeinde-Webseite
+ENTITÄT: ortsteil
+BEZEICHNUNG: Escherwiese
+FACETTE: LAGE
+QUELLE: https://www.kurtscheid.de/geschichte.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  nutzung: "Bestattungen von Evangelischen aus Kurtscheid möglich"
+  charakterisierung: interessanter Kurtscheider Ortsteil
+ORTSTEIL_BEZUG: Escherwiese
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Wasserversorgung Kurtscheid
+FACETTE: INFRA
+QUELLE: https://www.kurtscheid.de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besonderheit: 100 Jahre Wasserversorgung mit Wasserturm
+GUELTIG_AB: 100 Jahre vor Zeitpunkt Quellenveröffentlichung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7

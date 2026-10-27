@@ -1,480 +1,433 @@
 ID: 409-melsbach/001
 ENTITÄT: ort
 BEZEICHNUNG: Melsbach
+FACETTE: LAGE
 QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  ist_ortsgemeinde: true
-  lage_westerwald: Rand des Westerwaldes
-  lage_neuwieder_becken: auf Anhöhe
-  naturpark: Rhein-Westerwald
-  lage_zu_rengsdorf: südwestlich
-  in_naeche_von: Wied
-  erste_urkundliche_erwahnung: 1267
-  erste_erwahnung_transaktion: "Graf Gottfried von Eppstein, der Jüngere, verkauft seinen Erbhof"
-GUELTIG_AB: 1267
-IST_VERMUTLICH_AKTUELL: true
+  lage_beschreibung: Rand des Westerwaldes, Anhöhe am Neuwieder Becken
+  naturpark: Naturpark Rhein-Westerwald
+  relative_lage: südwestlich von Rengsdorf, in der Nähe der Wied
+  hoehenlage_von: 130
+  hoehenlage_bis: 200
+  hoehenlage_einheit: m ü.NN
 VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 409-melsbach/002
 ENTITÄT: ort
+BEZEICHNUNG: Melsbach
+FACETTE: GESCHICHTE
+QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1267
+  grundung_durch: Graf Gottfried von Eppstein der Jüngere, Verkauf Erbhof
+  kaufpreis: 80 Mark
+  kaeufer: Ritter Rüdiger
+  fruehe_besiedlung: Bronzezeit (Situlafund Hallstattzeit)
+  roemische_zeit: Obergermanischer Limes verlief ca. 200m südlich der Kreuzkirche
+  zollstation_seit: 1357
+  kirchspiel_wechsel_1: 1278 zu Rengsdorf
+  kirchspiel_wechsel_2: 1747 zu Altwied
+  schiedachschiefer_gewinnung: um 1750, neun Gruben am Laubach, blauer Dachschiefer
+  jubilaeum_750_jahre: 2017
+GUELTIG_AB: 1267
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 409-melsbach/003
+ENTITÄT: ort
+BEZEICHNUNG: Melsbach
+FACETTE: ALLTAG
+QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_schule: 1692-1720
+  schulgebaeude_1896: Volksschule
+  grundschule_seit: 1971
+  freiwillige_feuerwehr_seit: 1907
+  burschenverein_seit: 1865
+  sportverein_sv_melsbach_seit: 1919
+GUELTIG_AB: 1692
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 409-melsbach/004
+ENTITÄT: ort
+BEZEICHNUNG: Melsbach
+FACETTE: POLITIK
 QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
 EIGENSCHAFTEN:
   landkreis: Neuwied
   bundesland: Rheinland-Pfalz
-  region_bundesland: Norden
-  hoehe_ue_nn_min: 130
-  hoehe_ue_nn_max: 200
-  hoehe_einheit: m ü.NN
-  verbandsgemeinde: Rengsdorf-Waldbreitbach
-  verbandsgemeinde_gueltig_ab: 1. Januar 2018
-  verbandsgemeinde_vorher: Rengsdorf (ab 1970)
-  verbandsgemeinde_davor: Niederbieber-Segendorf (bis 1970)
-  jubilaeums_bestehen_dauer: 750 Jahre
-  jubilaeums_bestehen_datum: 11.-14. August 2017
-GUELTIG_AB: 1970
+  verbandsgemeinde_bis_1970: Niederbieber-Segendorf
+  verbandsgemeinde_1970_bis_2018: Rengsdorf
+  verbandsgemeinde_seit_2018: Rengsdorf-Waldbreitbach
+  gebietsreform_1970: 8. November 1970
+  gebietsreform_2018: 1. Januar 2018
+  gemeinderat_sitze: 16
+  gemeinderat_gewahl_2024_spd: 2
+  gemeinderat_gewahl_2024_cdu: 4
+  gemeinderat_gewahl_2024_fwg: 10
+GUELTIG_AB: 2018
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 409-melsbach/003
-ENTITÄT: archaeologischer_fund
-BEZEICHNUNG: Bronzeeimer (Situla)
-QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  fundjahr: 1956
-  fundort: Gelände Tonbergwerk Didier-Werke AG
-  epoche: Hallstattzeit
-  epoche_zeitspanne: 600-300 v.Chr.
-  aufbewahrung: Kreismuseum Neuwied
-  bedeutung: deutet auf Besiedlung in Bronzezeit hin
-GUELTIG_AB: 600 v.Chr.
-GUELTIG_BIS: 300 v.Chr.
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 409-melsbach/004
-ENTITÄT: archaeologischer_fund
-BEZEICHNUNG: Bronzeeimer (Situla)
-QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
-EIGENSCHAFTEN:
-  fundjahr: 1956
-  fundort: Gelände Tonbergwerk Didier-Werke AG
-  dekor: Henkel mit schraffierten Dreiecken verziert
-  typus: Rheinischer Typus
-  aufbewahrung: Kreismuseum Neuwied
-GUELTIG_AB: 600 v.Chr.
-GUELTIG_BIS: 300 v.Chr.
-IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 409-melsbach/005
-ENTITÄT: limes_roemer
-BEZEICHNUNG: Obergermanischer Limes
+ENTITÄT: ort
+BEZEICHNUNG: Melsbach
+FACETTE: POLITIK
 QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
 EIGENSCHAFTEN:
-  verlauf_zeit: römische Zeit
-  lage_zur_kreuzkirche: ca. 200 Meter südlich
-  spuren_erkennbar_bis: ca. 1962
-  wachturm: Wp 1/33 ("An der Kreuzkirche")
-  wachturm_standort: Kreuzberg (Gemarkung Altwied)
-  wachturm_sichtbarmachung: 2007 durch Gabionen
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 409-melsbach/006
-ENTITÄT: kirche
-BEZEICHNUNG: Kreuzkirche
-QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  erste_urkundliche_erwahnung: 1399
-  erste_erwahnung_funktion: Wallfahrtsort
-  architektur_erhalten: gotisch
-  vermutlich_aelter_als: 1399
-  zugehoerigkeit_geistlich: Abtei St. Thomas zu Andernach (1399)
-  wallfahrtsort_zeitspanne: bis ca. 1558
-  status_nach_1558: aufgegeben und verfallen
-  status_ab_1625: Ruine
-  denkmalschutz: true
-  denkmalschutz_grundlage: Denkmalschutzgesetz Rheinland-Pfalz (DSchG)
-GUELTIG_AB: 1399
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 409-melsbach/007
-ENTITÄT: alaunwerk
-QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  erkannt_grundstoff: 1786
-  erkannt_durch: Engelhardt
-  superlativ: ältestes Alaunwerk im Rheinland
-  stilllegung: 1880
-  abriss: 1882
-  standort_nach_abriss: Abraumhalde heute Sportplatz Melsbach
-GUELTIG_AB: 1786
-GUELTIG_BIS: 1882
+  einwohner_1815: 345
+  einwohner_1835: 382
+  einwohner_1871: 431
+  einwohner_1905: 576
+  einwohner_1939: 609
+  einwohner_1950: 731
+  einwohner_1961: 973
+  einwohner_1970: 1391
+  einwohner_1987: 2015
+  einwohner_2005: 2114
+  einwohner_2022: 2011
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 409-melsbach/006
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Melsbach
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
+EIGENSCHAFTEN:
+  blasonierung: Unter grünem Schildplatt, darin ein linksschräger silberner Wellenbalken, in Silber auf grünem Dreiberg eine grüne Eiche
+  bedeutung_wellenbalken: symbolisiert Grundwort -bach des Ortsnamens
+  bedeutung_dreiberg: Höhenlage des Ortes zwischen Wied- und Wallbachtal
+  bedeutung_eiche: waldreiche Umgebung
+  entwurf: A. Brust, Kirn
+  gueltig_seit: 31. August 1966
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 409-melsbach/007
+ENTITÄT: kirche
+BEZEICHNUNG: Kreuzkirche
+FACETTE: GESCHICHTE
+QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1399
+  funktion_historisch: Wallfahrtsort
+  wallfahrtsort_bis: ca. 1558
+  architektur_stil: gotisch
+  urspruenge: möglicherweise älteren Vorgängerbau
+  zuordnung_1399: Abtei St. Thomas zu Andernach
+  aufgegeben: nach 1558
+  verfallszustand_1625: Ruine
+  denkmalschutz: ja, nach DSchG Rheinland-Pfalz
+  ortsteil_bezug: Kreuzkirch
+  bedeutung_fuer_ort: bedeutender und vielbesuchter Wallfahrtsort bis 1558
+ORTSTEIL_BEZUG: Kreuzkirch
+GUELTIG_AB: 1399
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 409-melsbach/008
 ENTITÄT: alaunwerk
-QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
+FACETTE: GESCHICHTE
+QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  erkannt_grundstoff: 1786
-  erkannt_durch: Gustav Engelhardt
-  erkannt_titel: Bergassessor (fürstlich-wiedisch)
+  erkannt_von: Bergassessor Gustav Engelhardt
+  erkannt_jahr: 1786
+  grundstoff: Ton (als Alaun-Rohstoff)
+  ortsteil_standort: Kreuzkirch
   superlativ: ältestes Alaunwerk im Rheinland
-  stilllegung: 1880
-  abriss: 1882
-  standort_nach_abriss: Sportplatz Melsbach auf ehemaliger Abraumhalde
-  bedeutung_ortsteil: Gründung der Alaunhütten mag die Entstehung des Ortsteils Kreuzkirch erklären
+  stilllegung_jahr: 1880
+  abgerissen_jahr: 1882
+  nachnutzung_abraumhalde: Sportplatz von Melsbach
+  bedeutung_fuer_ort: erschloss neue Wirtschaftsgrundlage und führte zur Entstehung des Ortsteils Kreuzkirch
+ORTSTEIL_BEZUG: Kreuzkirch
 GUELTIG_AB: 1786
-GUELTIG_BIS: 1882
+GUELTIG_BIS: 1880
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 0.92
 ---
 ID: 409-melsbach/009
 ENTITÄT: tonbergwerk
-BEZEICHNUNG: Didier-Werke AG
+BEZEICHNUNG: Tonbergwerk Didier-Werke AG
+FACETTE: GESCHICHTE
 QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  sitz: Wiesbaden
-  foerderschacht_errichtet: 1938-1939
-  foerderschacht_teufe_ca: 86
+  unternehmen: Didier-Werke AG (Sitz Wiesbaden)
+  foerderschacht_errichtet: 1938/39
+  foerderschacht_teufe: ca. 86
   foerderschacht_teufe_einheit: m
-  zweck_ton: Auskleidung von Hochöfen (Wehrmacht-Aufrüstung)
-  kontext_start: ab 1935 Stahlerzeugung wieder aufgeblüht
-  foerderung_unterbrochen: Zweiter Weltkrieg
-  foerderung_wiederaufnahme: 1948
+  betrieb_unterbrochen: Zweiter Weltkrieg
+  foerderung_wiederaufgenommen: 1948
   betriebsstilllegung: 1983
+  fund_bronzeeimer: 1956 (Hallstattzeit, Situla)
+  grund_ton: Auskleidung der Hochöfen (Stahlproduktion)
 GUELTIG_AB: 1938
 GUELTIG_BIS: 1983
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 0.92
 ---
 ID: 409-melsbach/010
 ENTITÄT: tonbergwerk
-BEZEICHNUNG: Dr. C. Otto & Comp.
+BEZEICHNUNG: Tonbergwerk Dr. C. Otto & Comp.
+FACETTE: GESCHICHTE
 QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  sitz: Bendorf
-  zweck_ton: Auskleidung von Hochöfen (Wehrmacht-Aufrüstung)
+  unternehmen: Dr. C. Otto & Comp. (Sitz Bendorf)
   betrieb_bis: 1990
-GUELTIG_AB: 1938
+  grund_ton: Auskleidung der Hochöfen (Stahlproduktion)
+GUELTIG_AB: 1935
 GUELTIG_BIS: 1990
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 409-melsbach/011
-ENTITÄT: gebaeude
-BEZEICHNUNG: Förderturm (Tonbergwerk)
+ENTITÄT: foerderturm
+FACETTE: FREIZEIT
 QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
 EIGENSCHAFTEN:
-  gehoert_zu: Dr. C. Otto & Comp.
   material: Eisen
-  errichtet: ca. 1938-1939
-  lage_zu_kreuzkirch: unweit
-  besichtigung_moeglich: true
-  besteigung_erlaubt: false
-  grund_sperrung: Einsturzgefahr
-GUELTIG_AB: 1938
+  betreiber: Dr. C. Otto & Comp.
+  errichtet: um 1938/39
+  besichtigung_moeglich: ja
+  besteigung_moeglich: nein (Einsturzgefahr)
+  ortsteil: Kreuzkirch
+ORTSTEIL_BEZUG: Kreuzkirch
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.92
 ---
 ID: 409-melsbach/012
-ENTITÄT: schule
+ENTITÄT: bronzeeimer
+BEZEICHNUNG: Situla (Bronzeeimer)
+FACETTE: GESCHICHTE
 QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  erste_schulgebaeude_errichtet: 1692-1720
-  erste_schulgebaeude_nennung: 1896
-  schulform_alt: Volksschule
-  schulform_ab_1971: Grundschule (gemeindeeigen)
-  grund_grundschule: nach wiederholten Protesten Gemeinderäte gegen Auflösung (Schulreformen)
-  besteht_heute: true
-GUELTIG_AB: 1692
-IST_VERMUTLICH_AKTUELL: true
+  zeitperiode: Hallstattzeit
+  datierung_von: 600
+  datierung_von_einheit: v. Chr.
+  datierung_bis: 300
+  datierung_bis_einheit: v. Chr.
+  fundort: Tonbergwerk Didier-Werke AG
+  fundort_ortsteil: Kreuzkirch
+  fundjahr: 1956
+  charakteristikum: Henkel mit schraffierten Dreiecken verziert
+  typus: Rheinischer Typus
+  aufbewahrungsort: Kreismuseum Neuwied
+  bedeutung: deutet auf Besiedlung des Raumes bereits in der Bronzezeit
+  superlativ: Fund mit spezifischem "Rheinischen Typus" Dekor
+GUELTIG_AB: -600
+GUELTIG_BIS: -300
+IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 409-melsbach/013
-ENTITÄT: schule
+ENTITÄT: limes
+BEZEICHNUNG: Obergermanischer Limes
+FACETTE: LAGE
 QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
 EIGENSCHAFTEN:
-  schulgebaeude_errichtet: Januar 1896
-  schulform_original: Volksschule
-  schulform_ab_1971: Grundschule (gemeindeeigen)
-  status_1971: sollte aufgelöst werden (landesweite Schulreformen)
-  grund_erhalt: wiederholte Proteste mehrerer Gemeinderäte
-  besteht_heute: true
-GUELTIG_AB: 1896
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+  roemische_zeit: ja
+  verlauf_beschreibung: ca. 200m südlich der Kreuzkirche
+  wachturm: Wp 1/33 (An der Kreuzkirche)
+  wachturm_lage: Kreuzberg (Gemarkung Altwied)
+  sichtbarkeit_bis_etwa: 1962
+  rekonstruktion_konturen: 2007 durch Gabionen sichtbar gemacht
+GUELTIG_AB: -100
+GUELTIG_BIS: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 409-melsbach/014
-ENTITÄT: kirmes
+ENTITÄT: verein
+BEZEICHNUNG: Burschenverein Melsbach
+FACETTE: KULTUR
 QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  erste_kirmes: 1863
-  erstes_getraenk: Wein Melsbacher Goldberg
-  tradition_unterbrochen: Zeit der Weltkriege
-  zeitpoint_tradition: zweites Wochenende im August
-  tradition_alter: über 140 Jahre
-  ausrichtung_durch: Burschenverein 1865 Melsbach
-  burschen_anzahl: 25
-  maimaedchen_anzahl: 17
-  kooperationsverein: Kirmes- und Kulturgesellschaft Melsbach e.V. (2006-2011)
-GUELTIG_AB: 1863
+  gegruendet: 1865
+  funktion_heute: Ausrichter Kirmes
+  aktive_mitglieder_burschen: 25
+  aktive_mitglieder_maedchen: 17
+  maiden_titel: Maikönigspaar und Schuldes
+  tradition: organisiert Kirmes seit über 140 Jahren
+  bedeutung_fuer_ort: bewahrt traditionelle Kirmestradition
+GUELTIG_AB: 1865
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 0.93
 ---
 ID: 409-melsbach/015
 ENTITÄT: verein
-BEZEICHNUNG: Burschenverein 1865 Melsbach
+BEZEICHNUNG: Freiwillige Feuerwehr Melsbach
+FACETTE: INFRA
 QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  gegründet: 1865
-  aufgabe: Ausrichtung der Kirmes
-  burschen_aktuell: 25
-  maimaedchen_aktuell: 17
-GUELTIG_AB: 1865
+  gegruendet: 1907
+GUELTIG_AB: 1907
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 409-melsbach/016
-ENTITÄT: verein
-BEZEICHNUNG: Freiwillige Feuerwehr Melsbach
-QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  gegründet: 1907
-GUELTIG_AB: 1907
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 409-melsbach/017
-ENTITÄT: verein
-BEZEICHNUNG: SV Melsbach 1919 e.V.
+ENTITÄT: sportverein
+BEZEICHNUNG: SV Melsbach 1919 e. V.
+FACETTE: KULTUR
 QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
 EIGENSCHAFTEN:
-  gegründet: 1919
-  grund_gruendung: Aktive Turner und Fußballer hatten sich zusammengeschlossen
-  aktivitaeten: Turnen, Fußball
-  jubilaeums_100_jahre: 15. Juni 2019
-  jubilaeums_spiel_gegner: Auswahl Borussia Mönchengladbach
-  jubilaeums_spiel_ergebnis: 1:4 (verloren)
-  jubilaeums_spiel_detail: "Traditionsteam (Weisweiler-Elf) von Borussia Mönchengladbach, darunter Ex-Kapitän Hans-Jörg Criens"
+  gegruendet: 1919
+  gruendungsgruppe: Aktive Turner und Fußballer
+  sportarten: Turnen, Fußball
+  100_jahres_jubilaeum: 15. Juni 2019
+  jubilaeum_event: Spiel All-Star-Team gegen Auswahl Borussia Mönchengladbach
+  jubilaeum_event_ergebnis: 1:4 Niederlage
+  jubilaeum_event_notabilitaeten: Hans-Jörg Criens, Ex-Mannschaftskapitän
+  gegner_traditionsname: Weisweiler-Elf (Traditionsmannschaft Borussia Mönchengladbach)
+  bedeutung_fuer_ort: Sportverein mit überörtlicher Bekanntheit durch 100-Jahres-Jubiläum mit Bundesligisten
 GUELTIG_AB: 1919
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 409-melsbach/017
+ENTITÄT: kirmes
+FACETTE: KULTUR
+QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_feier: 1863
+  tradition_seit: über 140 Jahre
+  ausnahmen: Weltkriege
+  termin: zweiter Sonntag im August
+  dauer: 4 Tage
+  ausrichter: Burschenverein Melsbach
+  begleitwein_erster_feier: Melsbacher Goldberg
+  ort_kirmesplatz: Turnhalle/Bürgerhaus
+  ortsfarben_schmuck: grün-weiß
+  kooperationen_2006_2011: Kirmes- und Kulturgesellschaft Melsbach e.V.
+  bedeutung_fuer_ort: traditionelle Veranstaltung, geprägte Besonderheit des Ortes
+GUELTIG_AB: 1863
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
 ---
 ID: 409-melsbach/018
-ENTITÄT: verein
-BEZEICHNUNG: Burschenverein 1865 Melsbach
-QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
+ENTITÄT: wein
+BEZEICHNUNG: Melsbacher Goldberg
+FACETTE: KULTUR
+QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  gegründet: 1865
-GUELTIG_AB: 1865
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+  erste_erwaehnung: 1863
+  anlass_erwaehnung: erste Melsbacher Kirmes
+  bedeutung_fuer_ort: Charakteristikum der Kirmestradition, traditioneller Kirmewein
+GUELTIG_AB: 1863
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
 ---
 ID: 409-melsbach/019
-ENTITÄT: verein
-BEZEICHNUNG: Freiwillige Feuerwehr Melsbach
+ENTITÄT: grundschule
+FACETTE: INFRA
 QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
 EIGENSCHAFTEN:
-  gegründet: 1907
-GUELTIG_AB: 1907
+  schulgebaeude_erbaut: 1896
+  schulgebaeude_typ_initial: Volksschule
+  umwandlung_zu_grundschule: 1971
+  grund_umwandlung: Landweite Schulreformen bedrohten Bestand
+  ergebnis_proteste: Nach wiederholten Protesten Gemeinderäte entschieden für gemeindeeigene Grundschule
+  bestand_bis_heute: ja
+GUELTIG_AB: 1896
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 0.93
 ---
 ID: 409-melsbach/020
-ENTITÄT: verein
-BEZEICHNUNG: Kirmes- und Kulturgesellschaft Melsbach e.V.
-QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
-EIGENSCHAFTEN:
-  gegründet: 2006
-  aufgabe: Ausrichtung Kirmes und Bereicherung kulturelles Leben durch weitere Veranstaltungen
-  aufgelöst: 2011
-GUELTIG_AB: 2006
-GUELTIG_BIS: 2011
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 409-melsbach/021
 ENTITÄT: mundart
 BEZEICHNUNG: Melsbacher Mundart (Melsbija Platt)
+FACETTE: KULTUR
 QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
 EIGENSCHAFTEN:
-  spielart_von: Wäller Platt
-  dialekt_gruppe: moselfränkisch
-  kategorie_dialekt: Mitteldeutsch
-  charakteristikum: zweite (hochdeutsche) Lautverschiebung nur unvollständig durchgeführt
-  beispiel: "das=dat, was=wat (t wird nicht durch s ersetzt)"
-  problem_aktuell: immer weniger Menschen sprechen und verstehen die Mundart
-  stammtisch_gegründet: Februar 2004
-  stammtisch_grund: Aufhalten des Aussterbens
-  stammtisch_taetigkeit_bis: ca. 2018
-  broschure_1_veroeffentlichung: 2014
-  broschure_1_umfang: 72 Seiten
-  broschure_1_inhalt_woerter: über 1300 Wörter (Hochdeutsch und Mundart)
-  broschure_1_inhalt_weitere: Sprüche, Sprichwörter, Geschichten, mundartliche Bezeichnungen für Plätze und Fluren
-  broschure_2_veroeffentlichung: 2017
-  broschure_2_umfang: 10 Seiten
-  broschure_2_inhalt: über 150 weitere Begriffe und in Mundart übertragene Redensarten
+  dialekt_typ: Wäller Platt (moselfränkisch)
+  sprachgruppe: Mitteldeutsch
+  charakteristikum: unvollständige zweite Lautverschiebung (t→s nicht durchgeführt)
+  beispiele: "das" statt "das", "wat" statt "was"
+  mundartstammtisch_gruendung: Februar 2004
+  mundartstammtisch_ziel: Verhinderung Aussterben der Mundart
+  mundartstammtisch_aktivitaeten_2014: 72-seitige Broschüre mit 1300+ Wörtern Hochdeutsch und Dialekt, Sprüche, Sprichwörter, Geschichten, Flur- und Straßennamen
+  mundartstammtisch_aktivitaeten_2017: 10-seitige Ergänzung mit 150+ weiteren Begriffen und Redensarten
+  mundartstammtisch_aktiv_bis: ca. 2018
+  bedeutung_fuer_ort: gepflegte Lokalidentität und Kulturerbe
+GUELTIG_AB: 2004
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 0.91
 ---
-ID: 409-melsbach/022
-ENTITÄT: ortsbürgermeister
+ID: 409-melsbach/021
+ENTITÄT: ortsbuerermeister
 BEZEICHNUNG: Holger Klein
+FACETTE: POLITIK
 QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
 EIGENSCHAFTEN:
   amtsantritt: 30. Juni 2014
-  partei: FWG (Freie Wählergruppe Melsbacher Bürger e.V.)
-  wiederwaehlung_1: 26. Mai 2019
-  stimmenanteil_2019: 93,60%
-  wiederwaehlung_2: 9. Juni 2024
-  stimmenanteil_2024: 90,8%
+  fraktion: FWG (Freie Wählergruppe)
+  wiederbestaetigung_2019: ja
+  stimmenanteil_2019: 93,60
+  stimmenanteil_2019_einheit: "%"
+  wiederbestaetigung_2024: ja
+  stimmenanteil_2024: 90,8
+  stimmenanteil_2024_einheit: "%"
   kandidaten_2024: einziger Bewerber
-  amtsperiode_dauer: 5 Jahre
+  amtszeit: 5 Jahre
+  vergoengert_seit: 2014 (mindestens 10 Jahre)
 GUELTIG_AB: 2014
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 ---
-ID: 409-melsbach/023
-ENTITÄT: ortsbürgermeister
+ID: 409-melsbach/022
+ENTITÄT: ortsbuerermeister
 BEZEICHNUNG: Joachim Herzog
+FACETTE: POLITIK
 QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
 EIGENSCHAFTEN:
-  amtsdauer_jahre: 15
-  nachfolger: Holger Klein
+  vergoengert_vor_klein: ja
+  amtszeit_dauer: 15 Jahre
+GUELTIG_AB: 1999
 GUELTIG_BIS: 2014
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 0.9
 ---
-ID: 409-melsbach/024
-ENTITÄT: gemeinderat
-QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
-EIGENSCHAFTEN:
-  ratsmitglieder_anzahl: 16
-  wahlform: personalisierte Verhältniswahl
-  wahltermin_aktuell: 9. Juni 2024
-  vorsitz: ehrenamtlicher Ortsbürgermeister
-  sitzverteilung_2024_fwg: 10
-  sitzverteilung_2024_cdu: 4
-  sitzverteilung_2024_spd: 2
-  sitzverteilung_2024_gesamt: 16
-GUELTIG_AB: 2024
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 409-melsbach/025
-ENTITÄT: wappen
-QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
-EIGENSCHAFTEN:
-  blasonierung: "Unter grünem Schildplatt, darin ein linksschräger silberner Wellenbalken, in Silber auf grünem Dreiberg eine grüne Eiche"
-  symbolik_wellenbalken: Grundwort "-bach" des Ortsnamens
-  symbolik_dreiberg: Höhenlage des Ortes zwischen Wied- und Wallbachtal
-  symbolik_eiche: waldreiche Umgebung
-  rechtsgueltig_seit: 31. August 1966
-  entwurf: A. Brust, Kirn
-  aenderung_verbandsgemeinde: Neues Wappen für Verbandsgemeinde Rengsdorf-Waldbreitbach seit 1. Januar 2018, Melsbachs Dorfwappen unverändert
-GUELTIG_AB: 1966
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 409-melsbach/026
-ENTITÄT: schiefergewinnung
-QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
-EIGENSCHAFTEN:
-  zeit_ca: 1750
-  ort_gewässer: Laubach
-  anzahl_gruben: 9
-  produkt: blauer Dachschiefer
-GUELTIG_AB: 1750
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
----
-ID: 409-melsbach/027
-ENTITÄT: ortsteil
-BEZEICHNUNG: Kreuzkirch
-QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
-EIGENSCHAFTEN:
-  existenz_auf_preussischen_landkarten_1820_1878: nein (nicht eingetragen)
-  eintraege_auf_landkarten: nur Alaunhütten und "Ruine Kreutzkirche"
-  genese: Gründung der Alaunhütten mag die Entstehung des Ortsteils erklären
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 409-melsbach/028
+ID: 409-melsbach/023
 ENTITÄT: naturdenkmal
 BEZEICHNUNG: Wasserfall des Laubachs
+FACETTE: LAGE
 QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
 EIGENSCHAFTEN:
-  note: siehe auch Liste der Wasserfälle in Deutschland
+  gewaesser: Laubach
+  status: Naturdenkmal
+  erwaehnungen: Liste der Wasserfälle in Deutschland
+GUELTIG_AB: 1900
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
+VERTRAUEN_EXTRAKTION: 0.85
 ---
-ID: 409-melsbach/029
-ENTITÄT: bohrung_kohlesuche
-QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
+ID: 409-melsbach/024
+ENTITÄT: schiefergruben
+FACETTE: GESCHICHTE
+QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  zeit_ca: 1780
-  auftraggeber: Heinrich Wilhelm Remy (Unternehmer)
-  grund_auftrag: Kohle benötigt für Hütten- und Walzwerk "Rasselstein" im Wiedtal bei Neuwied
-  lage: nahe Ruine der Kreuzkirche
-  vermutung: Steinkohlelager
-  ergebnis: stieß nur auf unbrauchbare Braunkohle (zwischen Tonlagern)
-  folge: Erkenntnis der Tonlagern als Grundstoff von Alaun (1786)
-GUELTIG_AB: 1780
+  zeitpunkt: um 1750
+  anzahl_gruben: 9
+  gewaesser: Laubach
+  material: blauer Dachschiefer
+GUELTIG_AB: 1750
+GUELTIG_BIS: 1800
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.85
 ---
-ID: 409-melsbach/030
-ENTITÄT: ort
-EIGENSCHAFTEN:
-  einwohnerzahl_1815: 345
-  einwohnerzahl_1835: 382
-  einwohnerzahl_1871: 431
-  einwohnerzahl_1905: 576
-  einwohnerzahl_1939: 609
-  einwohnerzahl_1950: 731
-  einwohnerzahl_1961: 973
-  einwohnerzahl_1970: 1391
-  einwohnerzahl_1987: 2015
-  einwohnerzahl_2005: 2114
-  einwohnerzahl_2022: 2011
+ID: 409-melsbach/025
+ENTITÄT: verbandsgemeinde
+BEZEICHNUNG: Verbandsgemeinde Rengsdorf-Waldbreitbach
+FACETTE: POLITIK
 QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
+EIGENSCHAFTEN:
+  neugruendung_datum: 1. Januar 2018
+  fusionierte_vorgaenger: Verbandsgemeinde Rengsdorf und Verbandsgemeinde Waldbreitbach
+  planungsbeginn_fusion: Oktober 2017
+  planungsabschluss: 29. Dezember 2017
+  neue_gemeindeverw_wappen: ja
+  datum_neues_wappen: 1. Januar 2018
+  melsbachs_wappen_betroffenheit: unverändert
+  mitgliedsgemeinde_melsbach: ja
+GUELTIG_AB: 2018
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 409-melsbach/031
-ENTITÄT: kirchspiel
-BEZEICHNUNG: Kirchspiel Rengsdorf
-QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  gehoert_zu: Melsbach
-  zeitspanne: 1278-1747
-  zeitspanne_wiedereintritt: ab 1747
-GUELTIG_AB: 1278
-GUELTIG_BIS: 1747
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 409-melsbach/032
-ENTITÄT: kirchspiel
-BEZEICHNUNG: Kirchspiel Altwied
-QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  gehoert_zu: Melsbach
-  zeitspanne_1: bis 1278
-  zeitspanne_2: ab 1747
-GUELTIG_AB: 1747
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 409-melsbach/033
-ENTITÄT: zollstation
-QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  ort: Melsbach
-  errichtet: 1357
-GUELTIG_AB: 1357
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85

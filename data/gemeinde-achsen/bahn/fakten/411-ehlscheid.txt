@@ -1,350 +1,531 @@
 ID: 411-ehlscheid/001
 ENTITÄT: ort
 BEZEICHNUNG: Ehlscheid
-QUELLE: https://www.ehlscheid.de/unsere-geschichte | Gemeinde-Webseite
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
 EIGENSCHAFTEN:
-  erste_erwaehnung_name: Ehlscheyt
-  erste_erwaehnung_jahr: 857
-  urkundliche_erwaehnung_jahr: 1311
-  einwohner_1870: 100
-  einwohner_1959: 371
-  einwohner_1975: 950
-  einwohner_2025: 1605 [Juni 2025]
-  urspruengliche_wirtschaft: Landwirtschaft, Forstwirtschaft
-  wandel_nach_wk2: Fremdenverkehrsort
-  erste_sommerfrischler_jahr: 1905
-  anerkennung_luftkurort_jahr: 1962
-GUELTIG_AB: 857
+  typ: Ortsgemeinde
+  landkreis: Neuwied
+  bundesland: Rheinland-Pfalz
+  regio: Norden von Rheinland-Pfalz
+  verband: Verbandsgemeinde Rengsdorf-Waldbreitbach
+  naturpark: Naturpark Rhein-Westerwald
+  lage_topografie: oberhalb des Neuwieder Beckens
+  wohnplaetze: Forsthaus Gommerscheid, Hof Talblick, Talhof
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 411-ehlscheid/002
 ENTITÄT: ort
 BEZEICHNUNG: Ehlscheid
-QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
+FACETTE: GESCHICHTE
+QUELLE: https://www.ehlscheid.de/unsere-geschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  gemeindeart: Ortsgemeinde
-  bundesland: Rheinland-Pfalz
-  landkreis: Neuwied
-  verbandsgemeinde: Rengsdorf-Waldbreitbach
-  naturpark: Rhein-Westerwald
-  lage: oberhalb des Neuwieder Beckens
-  kirchspiel: Rengsdorf
-  historische_grafschaft: Wied
-  religion_bis_20_jh: evangelisch [Augsburger Reichs- und Religionsfriedens]
-  religion_ab_20_jh: Zuzug von Katholiken nach Zweitem Weltkrieg
-GUELTIG_AB: 1311
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+  ersterwähnung_name: Ehlscheyt
+  ersterwähnung_jahr: 857
+  urkundliche_ersterwähnung_jahr: 1311
+  einwohner_1870: 100
+  einwohner_1959: 371
+  einwohner_1975: 950
+  einwohner_2025: 1605, Stand Juni 2025
+  urspruengliche_oekonomie: Land- und Forstwirtschaft
+  transformation_nach_wk2: Entwicklung zum Fremdenverkehrsort
+  erste_sommerfrischler_jahr: 1905
+  luftkurort_anerkennung: 1962
+VERTRAUEN_EXTRAKTION: 0.92
 ---
 ID: 411-ehlscheid/003
-ENTITÄT: wohnplatz
-BEZEICHNUNG: Forsthaus Gommerscheid
+ENTITÄT: ort
+BEZEICHNUNG: Ehlscheid
+FACETTE: GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
 EIGENSCHAFTEN:
-  beschreibung: Wohnplatz gehört zu Ehlscheid
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+  telefonnetz_anschluss: 1905
+  stromnetz_anschluss: 1912
+  freibad_baubeginn: 1957
+  luftkurort_anerkennung: 1963
+  heilklimatischer_luftkurort: 1992
+  heilklimatischer_luftkurort_status_2024: rueckgegeben (wegen rückläufiger Übernachtungszahlen)
+VERTRAUEN_EXTRAKTION: 0.88
 ---
 ID: 411-ehlscheid/004
-ENTITÄT: wohnplatz
-BEZEICHNUNG: Hof Talblick
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Freibad Laubachtal
+FACETTE: FREIZEIT
 QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
 EIGENSCHAFTEN:
-  beschreibung: Wohnplatz gehört zu Ehlscheid
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 411-ehlscheid/005
-ENTITÄT: wohnplatz
-BEZEICHNUNG: Talhof
-QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
-EIGENSCHAFTEN:
-  beschreibung: Wohnplatz gehört zu Ehlscheid
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 411-ehlscheid/006
-ENTITÄT: wildpark
-BEZEICHNUNG: Wildpark Gommerscheid
-QUELLE: https://www.ehlscheid.de/unsere-geschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  beschreibung: Freizeitangebot und Attraktion des Fremdenverkehrs
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.65
----
-ID: 411-ehlscheid/007
-ENTITÄT: freibad
-BEZEICHNUNG: Freibad im Laubachtal
-QUELLE: https://www.ehlscheid.de/unsere-geschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  charakteristik: beheizt
-  status: aktiv in der Berichtszeit
-GUELTIG_AB: 1962
-GUELTIG_BIS: vor 2025
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.7
----
-ID: 411-ehlscheid/008
-ENTITÄT: freibad
-BEZEICHNUNG: Freibad im Laubachtal
-QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
-EIGENSCHAFTEN:
-  baubeginn_jahr: 1957
-  baufinanzierung: örtliche Hotels
   einweihung_jahr: 1958
-  becken_groesse: 15 × 25 Meter
-  geschlossen_jahr: 2012
-  grund_schliessung: bauliche Schäden
-  zugeschuettet_jahr: 2016
+  becken_masse: 15 × 25 Meter
+  schließung_grund: bauliche Schäden
+  schließung_jahr: 2012
+  zuschuettung_jahr: 2016
 GUELTIG_AB: 1958
 GUELTIG_BIS: 2016
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.95
 ---
-ID: 411-ehlscheid/009
-ENTITÄT: buergermeister
-BEZEICHNUNG: Ingelore Runkel
-QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
+ID: 411-ehlscheid/005
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Ehlscheider Freibad
+FACETTE: FREIZEIT
+QUELLE: https://www.ehlscheid.de/unsere-geschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  amt: Ortsbürgermeisterin
-  wahl_1_datum: 26. Mai 2019
-  wahl_1_stimmenanteil: 78,0 %
-  amtsantritt: 21. August 2019
-  wahl_2_datum: 9. Juni 2024
-  wahl_2_stimmenanteil: 85,1 %
-  wahl_2_besonderheit: einzige Bewerberin
-  amtsperiode_dauer: 5 Jahre [2024-2029]
-  waehlgruppe: Runkel
-  eigenschaft_ehrenamtlich: true
-GUELTIG_AB: 2019
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 411-ehlscheid/010
-ENTITÄT: buergermeister
-BEZEICHNUNG: Norbert Lück
-QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
-EIGENSCHAFTEN:
-  partei: CDU
-  amtszeit_dauer: 10 Jahre
-  amtsende_jahr: 2019
-  nachfolger: Ingelore Runkel
-GUELTIG_BIS: 2019
+  beschreibung: herrlich gelegenes, beheiztes Freibad
+  bedeutung_fuer_ort: Freizeitangebot für Gäste und Einwohner
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 411-ehlscheid/011
-ENTITÄT: naturdenkmal
-BEZEICHNUNG: Kaisereiche
-QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
-EIGENSCHAFTEN:
-  jahr_aufzeichnung: 1871
-  art: Eiche
-IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 ---
-ID: 411-ehlscheid/012
-ENTITÄT: bauwerk
-BEZEICHNUNG: Westerwälder Fachwerkhaus
-QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
+ID: 411-ehlscheid/006
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Wildpark Gommerscheid
+FACETTE: FREIZEIT
+QUELLE: https://www.ehlscheid.de/unsere-geschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  baustil: Fachwerkarchitektur der Westerwald-Region
-IST_VERMUTLICH_AKTUELL: true
+  beschreibung: Wildpark als Freizeitangebot
+  bedeutung_fuer_ort: Attraktion für Fremdenverkehr
+IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.75
 ---
-ID: 411-ehlscheid/013
-ENTITÄT: wappen
-QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
+ID: 411-ehlscheid/007
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Aussichtspunkte
+FACETTE: FREIZEIT
+QUELLE: https://www.ehlscheid.de/unsere-geschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  blasonierung: Der Wappenschild, gespalten durch eine eingebogene Spitze, darin über einem überdachten, goldenen Ziehbrunnen eine goldene Ähre, die rechts und links von je einem silbernen Eichenblatt begleitet ist; vorn in Gold vier rote Schrägbalken, hinten von Silber und Rot gerautet.
-  hauptsymbole: Ziehbrunnen (Wasser/Versorgung), Ähre (Landwirtschaft), Eichenblätter (Naturraum)
+  beschreibung: traumhafte Aussichtspunkte
+  lage: Wanderwege
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 0.8
 ---
-ID: 411-ehlscheid/014
-ENTITÄT: gemeinderat
-QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
+ID: 411-ehlscheid/008
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Ehlscheider Kurpark
+FACETTE: FREIZEIT
+QUELLE: https://www.ehlscheid.de/baumlehrpfad | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  anzahl_ratsmitglieder: 16
-  vorsitzende: Ingelore Runkel [Ortsbürgermeisterin, ehrenamtlich]
-  wahlsystem_ab_2024: Mehrheitswahl
-  wahlsystem_bis_2019: personalisierte Verhältniswahl
-  letzte_wahl: 9. Juni 2024
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 411-ehlscheid/015
-ENTITÄT: infrastruktur
-BEZEICHNUNG: Telefonnetz
-QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
-EIGENSCHAFTEN:
-  anschluss_jahr: 1905
-GUELTIG_AB: 1905
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 411-ehlscheid/016
-ENTITÄT: infrastruktur
-BEZEICHNUNG: Stromnetz
-QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
-EIGENSCHAFTEN:
-  anschluss_jahr: 1912
-GUELTIG_AB: 1912
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 411-ehlscheid/017
-ENTITÄT: wanderweg
-BEZEICHNUNG: Klosterweg
-QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
-EIGENSCHAFTEN:
-  verbindung: Westerwaldsteig und Rheinsteig
-  entfernung_zum_rheinsteig: ca. 1,7 km [via Zuwegung]
-  beschreibung: führt vorbei an Aussichtspunkten
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 411-ehlscheid/018
-ENTITÄT: bundesstrasse
-BEZEICHNUNG: B 256
-QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
-EIGENSCHAFTEN:
-  verlauf: östlich der Gemeinde Ehlscheid
-  strecke: Neuwied nach Altenkirchen
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 411-ehlscheid/019
-ENTITÄT: autobahn
-BEZEICHNUNG: A 3
-QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
-EIGENSCHAFTEN:
-  naechster_anschluss: Neuwied
-  verhaeltnis_zu_ehlscheid: nächste Anschlussstelle
+  lage: Ortseingang
+  ausstattung: Baumlehrpfad, Barfußpfad, Schaukelbank, Entdeckerpfad
+  bedeutung_fuer_ort: Zentrale Freizeit- und Erholungsanlage
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
-ID: 411-ehlscheid/020
-ENTITÄT: bahnhof
-BEZEICHNUNG: Bahnhof Neuwied
+ID: 411-ehlscheid/009
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Baumlehrpfad
+FACETTE: FREIZEIT
+QUELLE: https://www.ehlscheid.de/baumlehrpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: 13 Tafeln erklären Bäume im Kurpark
+  tafelanzahl: 13
+  lage: Kurpark am Ortseingang und Kleinkinder-Spielplatz
+  funktion: Ort zum Entdecken und Lernen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 411-ehlscheid/010
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Barfußpfad Ehlscheid
+FACETTE: FREIZEIT
+QUELLE: https://www.ehlscheid.de/baumlehrpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung_jahr: 2021
+  lage: Kurpark
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 411-ehlscheid/011
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Schaukelbank
+FACETTE: FREIZEIT
+QUELLE: https://www.ehlscheid.de/baumlehrpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung_jahr: 2023
+  lage: Kurpark
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 411-ehlscheid/012
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Ehlscheider Entdeckerpfad
+FACETTE: FREIZEIT
+QUELLE: https://www.ehlscheid.de/baumlehrpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Ober- und unterhalb des Kurparks
+  zusammenhang: verbunden mit Kurpark und Baumlehrpfad
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 411-ehlscheid/013
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Klosterweg
+FACETTE: FREIZEIT
 QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
 EIGENSCHAFTEN:
-  verhaeltnis_zu_ehlscheid: nächstgelegener Bahnhof
+  typ: Wanderweg / Fernwanderweg
+  beschreibung: Verbindung zwischen Westerwaldsteig und Rheinsteig
+  besonderheit: Vorbei an einigen Aussichtspunkten
+  entfernung_zu_rheinsteig: 1,7 km
+  bedeutung_fuer_ort: Überörtliche Wanderanbindung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 411-ehlscheid/014
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Hofflohmarkt Ehlscheid
+FACETTE: KULTUR
+QUELLE: https://www.ehlscheid.de/post/ehlscheider-hofflohmarkt-2026 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Flohmarkt im ganzen Dorf und im Kurpark
+  lage: gesamtes Ortsgebiet und Kurpark
+  bedeutung_fuer_ort: beliebter Treffpunkt und Attraktion
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 411-ehlscheid/015
+ENTITÄT: charakteristikum
+BEZEICHNUNG: OktoberGaudi
+FACETTE: KULTUR
+QUELLE: https://www.ehlscheid.de/post/dorf-und-heimatverein-lädt-ein-zur-oktobergaudi | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Fest mit bayerischer Tradition
+  veranstalter: Dorf- und Heimatverein e.V.
+  ort: Heimathalle Ehlscheid
+  bedeutung_fuer_ort: Dorffest mit überörtlicher Ausstrahlung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 411-ehlscheid/016
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Möhnenkarneval
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
+EIGENSCHAFTEN:
+  vollbezeichnung: Karnevalssitzung und Kinderkarneval
+  veranstalter: Möhnenverein 1989 Ehlscheid e.V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 411-ehlscheid/017
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Sommerfest
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
+EIGENSCHAFTEN:
+  veranstalter: Männergesangverein, Frauenchor und Dorf- und Heimatverein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 411-ehlscheid/018
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Waldfest
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
+EIGENSCHAFTEN:
+  veranstalter: Möhnenverein 1989 Ehlscheid e.V.
+  zeitpunkt: August
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 411-ehlscheid/019
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Kirmes
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
+EIGENSCHAFTEN:
+  veranstalter: Burschenverein
+  beschreibung: Dorffest
+  zeitpunkt: September
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 411-ehlscheid/020
+ENTITÄT: verein
+BEZEICHNUNG: Sportverein Ehlscheid e.V.
+FACETTE: ALLTAG
+QUELLE: https://www.ehlscheid.de/vereine | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorsitzende: Karolin Krumscheid
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 411-ehlscheid/021
-ENTITÄT: bahnhof
-BEZEICHNUNG: Hauptbahnhof Koblenz
-QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
+ENTITÄT: verein
+BEZEICHNUNG: CHORioso
+FACETTE: KULTUR
+QUELLE: https://www.ehlscheid.de/vereine | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  zugtyp: ICE
-  verhaeltnis_zu_ehlscheid: nächster ICE-Bahnhof
+  beschreibung: Der Chor für Ehlscheid
+  vorsitzende: Michaela Mayer
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 411-ehlscheid/022
-ENTITÄT: bahnhof
-BEZEICHNUNG: Bahnhof Montabaur
-QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
+ENTITÄT: verein
+BEZEICHNUNG: MGV Ehlscheid
+FACETTE: KULTUR
+QUELLE: https://www.ehlscheid.de/vereine | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  strecke: Schnellfahrstrecke Köln-Rhein/Main
-  zugtyp: ICE
-  verhaeltnis_zu_ehlscheid: nächster ICE-Bahnhof
+  vollname: Männergesangverein Ehlscheid
+  vorsitzender: Otfried Ehlscheid
+  status: Ruhemodus
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 411-ehlscheid/023
+ENTITÄT: verein
+BEZEICHNUNG: Dorf- und Heimatverein e.V.
+FACETTE: KULTUR
+QUELLE: https://www.ehlscheid.de/vereine | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorsitzende: Ingelore Runkel
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
-ID: 411-ehlscheid/023
-ENTITÄT: luftkurort_status
-DESIGNATIONEN: Heilklimatischer Luftkurort
-QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
-EIGENSCHAFTEN:
-  verleihung_jahr: 1992
-  rückgabe_entscheidung: beschlossen durch Gemeinde
-  grund_rückgabe: rückläufige Übernachtungszahlen und Rückgang der Kurmöglichkeiten
-GUELTIG_AB: 1992
-GUELTIG_BIS: nach 2022 [genaues Datum der Rückgabe unbekannt]
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
----
 ID: 411-ehlscheid/024
-ENTITÄT: kulinarische_spezialitaet
-BEZEICHNUNG: Döppekooche
+ENTITÄT: verein
+BEZEICHNUNG: Möhnenverein 1989 Ehlscheid e.V.
+FACETTE: KULTUR
+QUELLE: https://www.ehlscheid.de/vereine | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorsitzende: Daniela Wust
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 411-ehlscheid/025
+ENTITÄT: verein
+BEZEICHNUNG: Schachclub Kurtscheid-Ehlscheid
+FACETTE: ALLTAG
+QUELLE: https://www.ehlscheid.de/vereine | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 411-ehlscheid/026
+ENTITÄT: verein
+BEZEICHNUNG: Burschenverein Ehlscheid
+FACETTE: KULTUR
+QUELLE: https://www.ehlscheid.de/vereine | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorsitzender: Benjamin Lück
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 411-ehlscheid/027
+ENTITÄT: verein
+BEZEICHNUNG: Boule-Club
+FACETTE: FREIZEIT
+QUELLE: https://www.ehlscheid.de/vereine | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kontaktperson: Irmtraud Kiefer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 411-ehlscheid/028
+ENTITÄT: verein
+BEZEICHNUNG: Alte Burschen Ehlscheid
+FACETTE: KULTUR
+QUELLE: https://www.ehlscheid.de/vereine | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorsitzender: Christoph Cravatzo
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 411-ehlscheid/029
+ENTITÄT: politician
+BEZEICHNUNG: Ingelore Runkel
+FACETTE: POLITIK
 QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
 EIGENSCHAFTEN:
-  region: Ehlscheid/Westerwald
+  amt: Ortsbürgermeisterin
+  amtsantritt: 21. August 2019
+  wahl_2019_stimmenanteil: 78,0 %
+  wahl_2024_stimmenanteil: 85,1 %
+  wahl_2024_datum: 9. Juni 2024
+  amtsperiode: 5 Jahre
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 411-ehlscheid/030
+ENTITÄT: politician
+BEZEICHNUNG: Norbert Lück
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
+EIGENSCHAFTEN:
+  amt: Ortsbürgermeister (Vorgänger)
+  partei: CDU
+  amtsdauer: 10 Jahre
+  amtsende: 2019
+GUELTIG_BIS: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 411-ehlscheid/031
+ENTITÄT: gebaeude
+BEZEICHNUNG: Heimathalle Ehlscheid
+FACETTE: ALLTAG
+QUELLE: https://www.ehlscheid.de/post/dorf-und-heimatverein-lädt-ein-zur-oktobergaudi | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Veranstaltungsort
+  nutzungen: OktoberGaudi, Konzerte, Wohnzimmerkonzerte, Vereinsfeste
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 411-ehlscheid/032
+ENTITÄT: gebaeude
+BEZEICHNUNG: Westerwälder Fachwerkhaus
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Bauwerk im Westerwald-Fachwerkstil
+  bedeutung_fuer_ort: Charakteristische Bauweise
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.75
 ---
-ID: 411-ehlscheid/025
+ID: 411-ehlscheid/033
+ENTITÄT: naturdenkmael
+BEZEICHNUNG: Kaisereiche
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
+EIGENSCHAFTEN:
+  pflanzung_jahr: 1871
+  bedeutung_fuer_ort: Naturdenkmal
+GUELTIG_AB: 1871
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 411-ehlscheid/034
+ENTITÄT: infrastruktur
+BEZEICHNUNG: DHL Packstation Ehlscheid
+FACETTE: INFRA
+QUELLE: https://www.ehlscheid.de/post/dhl-packstation-ehlscheid-ist-in-betrieb | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nummer: 179
+  adresse: Parkstraße 2, 56581 Ehlscheid
+  erreichbarkeit_stunden: 24
+  barrierefrei: true
+  parkplaetze: vorhanden
+  lage: Parkplatz am Eingang zur Gemeindeverwaltung, neben E-Bike-Ladestation
+GUELTIG_AB: 2024, ungefähr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 411-ehlscheid/035
+ENTITÄT: infrastruktur
+BEZEICHNUNG: B 256
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
+EIGENSCHAFTEN:
+  typ: Bundesstraße
+  verlauf: östlich der Gemeinde, von Neuwied nach Altenkirchen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 411-ehlscheid/036
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Autobahnanschlussstelle Neuwied
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
+EIGENSCHAFTEN:
+  autobahn: A 3
+  entfernung: naechstgelegene fuer Ehlscheid
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 411-ehlscheid/037
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnhof Neuwied
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
+EIGENSCHAFTEN:
+  nahe_zu: naechstgelegener Bahnhof
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 411-ehlscheid/038
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Hauptbahnhof Koblenz
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
+EIGENSCHAFTEN:
+  typ: ICE-Bahnhof
+  entfernung: naechster ICE-Bahnhof von Ehlscheid
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 411-ehlscheid/039
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnhof Montabaur
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
+EIGENSCHAFTEN:
+  typ: ICE-Bahnhof
+  line: Schnellfahrstrecke Köln-Rhein/Main
+  entfernung: naechster ICE-Bahnhof von Ehlscheid
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 411-ehlscheid/040
+ENTITÄT: kulinarische_spezialitaet
+BEZEICHNUNG: Döppekooche
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
+EIGENSCHAFTEN:
+  region: Westerwälder Spezialität
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 411-ehlscheid/041
 ENTITÄT: kulinarische_spezialitaet
 BEZEICHNUNG: Heinzelmännchen
+FACETTE: ALLTAG
 QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
 EIGENSCHAFTEN:
   beschreibung: kleine Blutwurst oder Pfälzer Leberwurstkringel
+  region: Westerwälder Spezialität
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
+VERTRAUEN_EXTRAKTION: 0.8
 ---
-ID: 411-ehlscheid/026
+ID: 411-ehlscheid/042
 ENTITÄT: kulinarische_spezialitaet
 BEZEICHNUNG: Panhas
+FACETTE: ALLTAG
 QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
 EIGENSCHAFTEN:
-  region: Ehlscheid/Westerwald
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
----
-ID: 411-ehlscheid/027
-ENTITÄT: veranstaltung
-BEZEICHNUNG: Karnevalssitzung und Kinderkarneval
-QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
-EIGENSCHAFTEN:
-  organisator: Möhnenverein 1989 Ehlscheid e.V.
-  regelmaessigkeit: regelmäßig
+  region: Westerwälder Spezialität
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.8
 ---
-ID: 411-ehlscheid/028
-ENTITÄT: veranstaltung
-BEZEICHNUNG: Sommerfest
+ID: 411-ehlscheid/043
+ENTITÄT: religion
+BEZEICHNUNG: Evangelische Konfession
+FACETTE: GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
 EIGENSCHAFTEN:
-  organisatoren: Männergesangverein, Frauenchor, Dorf- und Heimatverein Ehlscheid e.V.
-  regelmaessigkeit: regelmäßig
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
+  historischer_hintergrund: Ehlscheid gehörte zur Grafschaft Wied und war nach dem Augsburger Reichs- und Religionsfrieden bis zum 20. Jahrhundert evangelisch
+  grenzziehung: Religionsgrenze trennte Ehlscheid vom benachbarten kurkölnischen Kurtscheid
+  veraenderung_nach_wk2: Nach dem Zweiten Weltkrieg zogen Katholiken in nenneswertem Umfang zu
+GUELTIG_BIS: 2000, ungefähr
+IST_VERMUTLICH_AKTUELL: true (als historisches Merkmal)
+VERTRAUEN_EXTRAKTION: 0.88
 ---
-ID: 411-ehlscheid/029
-ENTITÄT: veranstaltung
-BEZEICHNUNG: Waldfest
+ID: 411-ehlscheid/044
+ENTITÄT: kirchspiel
+BEZEICHNUNG: Kirchspiel Rengsdorf
+FACETTE: GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
 EIGENSCHAFTEN:
-  organisator: Möhnenverein 1989 Ehlscheid e.V.
-  monat: August
-  regelmaessigkeit: regelmäßig
+  teil: Ehlscheid gehört dazu
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
+VERTRAUEN_EXTRAKTION: 0.85
 ---
-ID: 411-ehlscheid/030
-ENTITÄT: veranstaltung
-BEZEICHNUNG: Kirmes
+ID: 411-ehlscheid/045
+ENTITÄT: wappen
+FACETTE: LAGE
 QUELLE: https://de.wikipedia.org/wiki/Ehlscheid | Wikipedia
 EIGENSCHAFTEN:
-  organisator: Burschenverein
-  art: Dorffest
-  monat: September
-  regelmaessigkeit: regelmäßig
+  beschreibung: Wappenschild, gespalten durch eine eingebogene Spitze, darin über einem überdachten, goldenen Ziehbrunnen eine goldene Ähre, die rechts und links von je einem silbernen Eichenblatt begleitet ist; vorn in Gold vier rote Schrägbalken, hinten von Silber und Rot gerautet
+  motive: Ziehbrunnen, Ähre, Eichenblätter, Schrägbalken
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
----
-ID: 411-ehlscheid/031
-ENTITÄT: freizeitanlage
-BEZEICHNUNG: Minigolfanlage
-QUELLE: https://www.ehlscheid.de/unsere-geschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  art: Minigolf
-  grund_schliessung: Rückgang der Besucherzahlen
-GUELTIG_BIS: vor 2025
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
+VERTRAUEN_EXTRAKTION: 0.9

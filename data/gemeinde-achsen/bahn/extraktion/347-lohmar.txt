@@ -1,926 +1,721 @@
-ENTITÄT: verein
-BEZEICHNUNG: Heimatverein Birk
-ORTSTEIL_BEZUG: Birk
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtarchiv/links-zur-geschichte-lohmars/ | Gemeinde-Webseite
+ENTITÄT: ort
+BEZEICHNUNG: Lohmar
+FACETTE: LAGE | GESCHICHTE | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
 EIGENSCHAFTEN:
-  gruendung: 1920
-GUELTIG_AB: 1920
+  lage: rechtsrheinisch im Rhein-Sieg-Kreis, südlicher Teil des Bergischen Landes
+  landkreis: Rhein-Sieg-Kreis
+  nachbargemeinden: Overath, Rösrath (Rheinisch-Bergischer Kreis); Neunkirchen-Seelscheid, Siegburg, Troisdorf (Rhein-Sieg-Kreis)
+  namensherkunft: fränkische Siedler; Loh = Wald, Mar = stehendes Gewässer oder Sumpf
+  gewässer_hauptfluss: Agger
+  is_stadt: true
+  stadtwerdung_jahr: 1991
+  erste_urkundliche_erwähnung: 1081
+  erste_urkundliche_erwähnung_form: Schenkung des Erzbischofs Sigewin an das Georgstift in Köln, Hof in Lomere
+  historische_zugehörigkeit: Amt Blankenberg, Herzogtum Berg
+  gebietsreform: 1969 (Zusammenlegung Gemeinden Lohmar, Breidt, Halberg, Inger, Scheiderhöhe und Wahlscheid)
+  stadtteile_anzahl: 30
+  weiler_und_höfe_anzahl: ca. 108
+  wappen_beschreibung: Bergischer Löwe (oben), Zusammenfluss Agger und Sülz (unten)
+  visuelles_erscheinungsbild_seit: 2003
+GUELTIG_AB: 1081
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: verein
-BEZEICHNUNG: Verein für Heimat und Brauchtum Deesem e.V.
-ORTSTEIL_BEZUG: Deesem
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtarchiv/links-zur-geschichte-lohmars/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  registriert_als: eingetragener Verein
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: verein
-BEZEICHNUNG: Heimatverein Dahlhaus e.V.
-ORTSTEIL_BEZUG: Dahlhaus
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtarchiv/links-zur-geschichte-lohmars/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  registriert_als: eingetragener Verein
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: verein
-BEZEICHNUNG: Heimat- und Geschichtsverein Lohmar e.V.
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtarchiv/links-zur-geschichte-lohmars/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  registriert_als: eingetragener Verein
-  fokus: Heimat- und Lokalgeschichte
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: verein
-BEZEICHNUNG: Heimat- und Kulturverein Breidt e.V.
-ORTSTEIL_BEZUG: Breidt
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtarchiv/links-zur-geschichte-lohmars/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  registriert_als: eingetragener Verein
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: verein
-BEZEICHNUNG: Verkehrs- und Verschönerungsverein Wahlscheid / Aggertal e.V.
-ORTSTEIL_BEZUG: Wahlscheid
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtarchiv/links-zur-geschichte-lohmars/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  registriert_als: eingetragener Verein
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: einrichtung
-BEZEICHNUNG: Stadtarchiv Lohmar
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtarchiv/links-zur-geschichte-lohmars/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  adresse: Hauptstraße 27-29, 53797 Lohmar
-  telefon: 02246 15-272
-  oeffnungszeiten_montag: 08:30-12:00 und 13:00-16:00 Uhr
-  oeffnungszeiten_dienstag: 13:00-16:00 Uhr (sowie nach Vereinbarung)
-  besucher_anmeldung: erforderlich
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
 ENTITÄT: ort
 BEZEICHNUNG: Lohmar
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
 EIGENSCHAFTEN:
-  erhielt_stadtrecht: true
-  ortsteile: Agger, Albach, Algert, Birk, Breidt, Dahlhaus, Deesem, Donrath, Durbusch, Ellhausen, Geber, Grimberg, Hausen, Heide, Heppenberg, Höffen, Honrath, Hoven, Inger, Krahwinkel, Muchensiefen, Naaferberg, Neuhonrath, Oberstehöhe, Scheid, Scheiderhöhe, Wahlscheid, Weegen, Wielpütz, Lohmar-Ort
-GUELTIG_AB: 1991
-IST_VERMUTLICH_AKTUELL: true
+  bevölkerung_1962: 11384
+  bevölkerung_1970: 18853
+  bevölkerung_1980: 23496
+  bevölkerung_1990: 27098
+  bevölkerung_2000: 30659
+  bevölkerung_2010: 31129
+  bevölkerung_2021: 30452
+  kraftfahrzeuge_anmeldungen_2018: 24017
+  davon_pkw: 20152
+GUELTIG_AB: 1962
+IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: ereignis
-BEZEICHNUNG: Stadtwerdung Lohmar
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Matthias Schmitz
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  amtswahl_datum: 2025-09-28
+  amtswahl_stimmenanteil: 51.4 %
+  amtsantritt: 2025-11-01
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gymnasium
+BEZEICHNUNG: Gymnasium Lohmar
+FACETTE: INFRA
 QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  datum: 01.01.1991
-  erhielt_titel: Stadt
+  schulbetrieb_ab: 1991-09-02
+  lage: Donrather Dreieck (Bildungscampus)
+  bauabschnitt_1_richtfest: 1993-10-22
+  bauabschnitt_1_kosten: 16000000 DM
+  status_seit_2023_2024: Bündelungsgymnasium
+  ausstattung: zwei Sportplätze, Kunstrasenplatz, Rasenplatz im Stadion, Jabachhalle, Mensa (seit 2016)
 GUELTIG_AB: 1991
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: veranstaltung
-BEZEICHNUNG: Festakt zur Stadtwerdung Lohmar
+ENTITÄT: veranstaltungsstätte
+BEZEICHNUNG: Jabachhalle
+FACETTE: FREIZEIT | INFRA
 QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  datum: 24.01.1991
-  ort: Jabachhalle
+  erste_jabachhalle_eröffnung: 1991-01-24
+  neue_jabachhalle_einweihung: 1999-10-23
+  neue_jabachhalle_kosten: 11400000 DM
+  neue_jabachhalle_gäste_einweihung: 740
+  nutzung: Sportunterricht, kulturelle Veranstaltungen
+  besonderheit: Durchführung Kulturtage seit 2008
 GUELTIG_AB: 1991
-GUELTIG_BIS: 1991
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: veranstaltung
-BEZEICHNUNG: Fußballspiel Borussia Dortmund gegen Lohmarer Stadtauswahl
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  datum: 11.06.1991
-  ort: Lohmarer Stadion
-  ergebnis: 20:1 für Borussia Dortmund
-GUELTIG_AB: 1991
-GUELTIG_BIS: 1991
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: veranstaltung
-BEZEICHNUNG: "Lohmar wie es singt und klingt"
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  datum: 16.06.1991
-  ort: Jabachhalle
-  beteiligte_vereine: 11
-  programmtyp: Musik-, Tanz- und Theaterdarbietungen
-GUELTIG_AB: 1991
-GUELTIG_BIS: 1991
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: schule
-BEZEICHNUNG: Gymnasium Lohmar
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  schulbeginn: 02.09.1991
-  erste_bauabschnitt_einweihung: 22.10.1993
-  erste_bauabschnitt_kosten: 16 Mio DM
-GUELTIG_AB: 1991
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: gebaeude
-BEZEICHNUNG: Bürgerhaus Birk
-ORTSTEIL_BEZUG: Birk
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  eroeffnung: 06.05.1992
-  funktion: Versammlungs- und Konzertstätte
-  hat_zweifach_sporthalle: true
-  sporthalle_bau: 1989
-  gesamtkosten: 7 Mio DM
-GUELTIG_AB: 1992
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: kindergarten
-BEZEICHNUNG: Villa Regenbogen
-ORTSTEIL_BEZUG: Neuhonrath
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  eroeffnung: 01.09.1992
-  gruendungsart: Elterninitiative als Notgemeinschaft
-  grund_gruendung: Bedarfsdeckung KiTa-Plätze nur zu 50% durch existierende Einrichtungen
-GUELTIG_AB: 1992
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: infrastruktur
-BEZEICHNUNG: Anruf-Sammeltaxi (AST) Lohmar
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  einfuehrung: 01.03.1993
-  zweck: ÖPNV-Anbindung für unterversorgten Ortschaften
-GUELTIG_AB: 1993
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: park
-BEZEICHNUNG: Landschaftsgarten Aggerbogen
+ENTITÄT: naturschule
+BEZEICHNUNG: Naturschule im Aggerbogen
+FACETTE: FREIZEIT | INFRA
 ORTSTEIL_BEZUG: Wahlscheid
 QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  errichtung_beginn: 11.06.1993
-  boden_vorher: Weideland
-  funktion: Naturschutz und Erholung vereinbaren
+  eröffnung_datum: 1994-06-04
+  gründerin: Dr. Manuela Giannetti
+  zweck: Naturschutz und Erholungsbedürfnis vereinbaren
+  ursprüngliche_fläche: ehemaliges Weideland
+GUELTIG_AB: 1994
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: landschaftsgarten
+BEZEICHNUNG: Landschaftsgarten Aggerbogen
+FACETTE: FREIZEIT | LAGE
+ORTSTEIL_BEZUG: Wahlscheid
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  errichtung: 1993-06-11
+  besonderheit: verbindet Naturschutz und Erholungsbedürfnis
 GUELTIG_AB: 1993
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: behoerde
-BEZEICHNUNG: Jugendamt Lohmar
+ENTITÄT: verwaltungsgebäude
+BEZEICHNUNG: Rathaus/Stadthaus
+FACETTE: INFRA | POLITIK
 QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  gruendung: 01.01.1994
-  grund: Stadt Lohmar wird Träger der öffentlichen Jugendhilfe
-GUELTIG_AB: 1994
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Dr. Manuela Giannetti
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  beschreibung: Eröffnerin der Naturschule am Aggerbogen
-  ereignis_datum: 04.06.1994
-GUELTIG_AB: 1994
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: schule
-BEZEICHNUNG: Naturschule am Aggerbogen
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  eroeffnung: 04.06.1994
-  anlass: erste Lohmarer Umweltwoche
-GUELTIG_AB: 1994
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Horst Schöpe
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  amt: Stadtdirektor (vorher), erster hauptamtlicher Bürgermeister (ab 1994)
-  partei: SPD
-  wahl_zum_buergermeister: 03.11.1994 (Stadtrat), 12.09.1999 (direkt vom Volk mit 54,0%)
-  amtsende: wechsel zu direkter Wahl 1999
-GUELTIG_AB: 1994
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Manfred Kühl
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  amt: Stellvertretender Bürgermeister (ab 1994)
-  partei: CDU
-GUELTIG_AB: 1994
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Annemarie van Allen
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  amt: Stellvertretender Bürgermeister (ab 1994)
-  partei: SPD
-GUELTIG_AB: 1994
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Dr. Hans Günther van Allen
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  partei: SPD
-  amt_alt: Ratsmitglied (bis 1994), später Stellvertreter Landrat
-  amt_neu: stellvertretender Landrat des Rhein-Sieg-Kreises (ab 1994)
-  ehrenbuerger: 16.05.2008
-GUELTIG_AB: 1994
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: gebaeude
-BEZEICHNUNG: Grundschule Birk Erweiterungsbau
-ORTSTEIL_BEZUG: Birk
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  richtfest: 15.12.1994
-  kosten: 1 Mio DM
-GUELTIG_AB: 1994
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: gebaeude
-BEZEICHNUNG: Sporthalle Breidt
-ORTSTEIL_BEZUG: Breidt
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  einweihung: 27.10.1995
-  kosten: 2 Mio DM
-GUELTIG_AB: 1995
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: unternehmen
-BEZEICHNUNG: Battenfeld-Fischer
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  status: stillgelegt
-  abriss: 15.10.1996
-  adresse: Hermann-Löns-Straße
-  nachnutzung: Wohnungsbau
-GUELTIG_AB: 1996
-GUELTIG_BIS: 1996
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: gebaeude
-BEZEICHNUNG: Rathaus Lohmar / Stadthaus
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  planung_kosten: 22 Mio Euro
-  richtfest: 13.03.1998
-  baubeginn: 25.02.1998 (näherungsweise)
-  umbau_kosten: 10 Mio DM (für Stadthaus 1998)
-  renovierung_kosten: 3,8 Mio DM (2000)
-  urspruenge: Zusammenlegung von acht Verwaltungsstandorten auf zwei Standorte
-  standort_alt: Rathausstraße 4, Hauptstraße 25-29
-  umbau_hauptstraße_kosten: 3,5 Mio Euro (2005)
+  standort: Hauptstraße 25-29
+  planungskosten_gesamtbudget: 22000000 EUR
+  richtfest: 1998-03-13
+  mitarbeiterzugzug: 1998-11-19
+  baukosten: 10000000 DM
+  renovierung_rathaus_einweihung: 2000-04-07
+  renovierung_rathaus_kosten: 3800000 DM
+  konsolidierung: konzentriert 8 Standorte auf 2 Standorte
 GUELTIG_AB: 1998
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: unternehmen
-BEZEICHNUNG: Wirtschaftsförderungs- und Entwicklungsgesellschaft Lohmar
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  gruendung: 06.12.1996
-  erste_aufgabe: Erschließung Gewerbegebiet Burg Sülz
-GUELTIG_AB: 1996
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: ereignis
-BEZEICHNUNG: Bürgerentscheid zum Rathaus Lohmar
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  datum: 20.04.1997
-  initiiert_von: Horst Becker, Reiner Albrecht (GRÜNE), Heinz Urbach (UWG)
-  ziel: Stopp der Rathaus-Planung an der Hauptstraße
-  ergebnis: gescheitert (Quorum 25%, erreicht 23,6%)
-  fuer_stopp: 23,6%
-  gegen_stopp: 21,1%
-GUELTIG_AB: 1997
-GUELTIG_BIS: 1997
-IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: gremium
-BEZEICHNUNG: Kinder- und Jugendforum Lohmar
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  erste_sitzung: 18.06.1997
-  zielgruppe: Jugendliche 10-18 Jahre
-  transformation_zu: Jugendausschuss JaiL (2002)
-GUELTIG_AB: 1997
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Wolfgang Röger
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  amt: Erster Beigeordneter
-  wahl_beigeordneter: 17.12.1997 (erneut)
-  wahl_buergermeister: 26.09.2004 (59,4%)
-  partei: CDU
-  gegner_bei_buergermeisterwahl_2004: Stefan Müller (SPD, 40,6%)
-GUELTIG_AB: 1997
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: veranstaltung
-BEZEICHNUNG: Stadtmarketing- und Entwicklungskonzept Workshop
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  erste_veranstaltung: 21.04.1999
-  entwickelt_von: Stadtplanungsbüro Hamerla
-  charakter: Beteiligung der Öffentlichkeit
-GUELTIG_AB: 1999
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: infrastruktur_projekt
-BEZEICHNUNG: Gewerbepark Burg Sülz
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  planung_vorstellung: 09.06.1999
-GUELTIG_AB: 1999
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: gebaeude
-BEZEICHNUNG: Jabachhalle (Neubau)
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  einweihung: 23.10.1999
-  besucher_bei_einweihung: 740 Gaeste
-  kosten: 11,4 Mio DM
-  gebaut_neben: urspruengliche Jabachhalle
-GUELTIG_AB: 1999
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: infrastruktur_projekt
-BEZEICHNUNG: Ortsumgehung Lohmar über Autobahn A3
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  erster_spatenstich: 08.05.2000
-  freigabe: 21.06.2004
-  komponenten: Auf- und Abfahrt Lohmar-Nord, Brücke, Verbindung L288, Donrather Kreuzung
-  kosten: 12,13 Mio Euro
-  eroeffnet_durch: NRW-Verkehrsminister Dr. Axel Horstmann
-GUELTIG_AB: 2000
-GUELTIG_BIS: 2004
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: ereignis
-BEZEICHNUNG: Auelsbach Überschwemmung
-ORTSTEIL_BEZUG: (Buchbitze, Bachstraße, Hauptstraße, Gewerbegebiet Auelsweg)
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  datum: 29.07.2000
-GUELTIG_AB: 2000
-GUELTIG_BIS: 2000
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: verein
-BEZEICHNUNG: Stadtmarketingverein Lohmar
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  gruendung: 23.10.2001
-  erster_vorsitzender: Dr. Hans Günther van Allen
-GUELTIG_AB: 2001
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: gebaeude
-BEZEICHNUNG: Feuerwehrhaus Scheiderhöhe
-ORTSTEIL_BEZUG: Scheiderhöhe
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  uebergabe: 16.06.2002
-  kosten: 1,38 Mio Euro
-GUELTIG_AB: 2002
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: infrastruktur
-BEZEICHNUNG: Bahnhofsgebäude Lohmar
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  abriss: 29.04.2003
-  adresse: Kirchstraße
-  nachnutzung: Kreisverkehrsplatz Kirch-/Vila-Verde-/Raiffeisenstraße
-GUELTIG_AB: 2003
-GUELTIG_BIS: 2003
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: infrastruktur
-BEZEICHNUNG: Frouardplatz Lohmar
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  umbau_beginn: 21.05.2003
-  abriss_bestandteile: Brunnen, Grünanlage (Nordteil)
-  neue_ausstattung: Plattenbelag Großformat
-  nutzung: Veranstaltungen, Wochenmarkt
-GUELTIG_AB: 2003
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: unternehmen
-BEZEICHNUNG: LIDL
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  abriss_vorbereitung: 16.10.2003 (Südseite Kirchstraße)
-  neubau_an: Kirchstraße Südseite
-GUELTIG_AB: 2003
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: infrastruktur
-BEZEICHNUNG: Wasserwerk Lohmar Betriebsgebäude
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  eroeffnung: 17.10.2003
-  adresse: Bauhof Schlesierweg
-GUELTIG_AB: 2003
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: gebaeude
-BEZEICHNUNG: Villa Friedlinde
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  einweihung: 19.06.2004
-  umbauzeit: 13 Monate
-  tagline: "Gute Stube der Stadt"
-GUELTIG_AB: 2004
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: infrastruktur_projekt
-BEZEICHNUNG: Hauptstraße Lohmar Umbau
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  umbau_beginn: 10.07.2004
-  umbau_eroeffnung: 27.11.2005
-  eroeffnung_fest: 21.05.2006
-  ziel: "Flaniermeile"
-  kosten: 3,5 Mio Euro
-  eroeffnet_durch: Regierungspräsident Hans Peter Lindlar (bei Pflanzung letzte Linde)
-GUELTIG_AB: 2004
-GUELTIG_BIS: 2006
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Stefan Müller
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  partei: SPD
-  kandidatur: Bürgermeisterwahl 26.09.2004
-  ergebnis: 40,6% (unterlag Wolfgang Röger)
-GUELTIG_AB: 2004
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Stefan Hanraths
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  partei: parteilos
-  amt: Erster Beigeordneter
-  wahl: 27.01.2005
-GUELTIG_AB: 2005
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Michael Hildebrand
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  partei: GRÜNE
-  amt: Beigeordneter
-  wahl: 27.01.2005
-GUELTIG_AB: 2005
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: gremium
-BEZEICHNUNG: Seniorenvertretung Lohmar
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  erste_wahl: 22.05.2005
-  wahlberechtigung: Buerger ab 60 Jahren
-  initiiert_von: Agenda-Arbeitskreis Lebensstile
-GUELTIG_AB: 2005
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: ereignis
-BEZEICHNUNG: Jabach Hochwasser und Überschwemmung RSB-Siedlung
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  datum: 30.06.2005
-  zeitabstand: 24 Stunden nach erste Flutwelle
-  betroffene_orte: RSB-Siedlung, Schulen Donrather Dreieck, Feuerwehrhaus Hauptstraße, Bürogebäude
-GUELTIG_AB: 2005
-GUELTIG_BIS: 2005
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: prozess
-BEZEICHNUNG: Dorfmarketing-Prozess Honrath
-ORTSTEIL_BEZUG: Honrath
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  auftakt: 19.09.2005
-  ort_auftakt: Peter-Lemmer-Haus
-  begleitung: Franz-Georg Rübben (Planungsamtsleiter)
-  beteiligung: ca. 20 Personen
-GUELTIG_AB: 2005
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: infrastruktur_projekt
-BEZEICHNUNG: Lohmarer Höfe
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  planung_vorstellung: 22.03.2006
-  investor: 3C Real Estate (Hamburg)
-  baubeginn: 25.02.2008
-  kosten: ca. 12 Mio Euro
-GUELTIG_AB: 2006
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: stiftung
-BEZEICHNUNG: BürgerStiftungLohmar
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  gruendung: 01.05.2006
-  gruendungsort: Schloss Auel (renoviert)
-  gruendungsunterstuetzer: NRW-Innenminister Dr. Ingo Wolf
-GUELTIG_AB: 2006
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: ereignis
-BEZEICHNUNG: Orkan Kyrill
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  datum: 23.01.2007
-  schaeden: Entwurzelung zahlreicher Nadelbäume
-GUELTIG_AB: 2007
-GUELTIG_BIS: 2007
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: gebaeude
+ENTITÄT: mühle
 BEZEICHNUNG: Naafer Mühle
+FACETTE: GESCHICHTE | FREIZEIT
 QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  eroeffnung_neunutzung: 15.05.2007
-  betreiber: Oberbergische Gesellschaft
-  funktion: Einrichtung für ehemals drogenabhängige Jugendliche
-  zustand_vor: gründlich restauriert
+  restaurierung_abschluss: 2007-05-15
+  nutzung_ab_2007: Einrichtung für ehemals drogenabhängige Jugendliche (Oberbergische Gesellschaft)
 GUELTIG_AB: 2007
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.8
 
 ---
 
-ENTITÄT: veranstaltung
-BEZEICHNUNG: Beach-Soccer-Turnier Lohmar
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  datum: 17.05.2007
-  ort: Frouardplatz
-  besonderheit: erstes Beach-Soccer-Turnier in Lohmar
-  vorbereitung: 400 Tonnen Sand aufgebracht
-GUELTIG_AB: 2007
-GUELTIG_BIS: 2007
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: veranstaltung
-BEZEICHNUNG: Erstes Unternehmertreffen Lohmar
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  datum: 22.05.2007
-  ort: Ratssaal
-  format: Frühstück
-  organisator: städtische Wirtschaftsförderung
-GUELTIG_AB: 2007
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: veranstaltung
-BEZEICHNUNG: Erstes Sportfest "Lohmar in Bewegung"
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  datum: 09.06.2007
-  ort: Donrather Dreieck
-  ziel: Generationen zusammenbringen
-GUELTIG_AB: 2007
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: gebaeude
-BEZEICHNUNG: Evangelisches Altenheim Hermann-Löns-Straße
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  spatenstich: 16.07.2007
-  adresse: Hermann-Löns-Straße
-GUELTIG_AB: 2007
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: partnerschaft
-BEZEICHNUNG: Städtepartnerschaft Lohmar - Zarów
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  unterzeichnung_urkunde: 28.10.2007
-  unterzeichner: Bürgermeister Marek Zywer (Zarów/Polen) und Wolfgang Röger (Lohmar)
-  partnerstadt: Zarów, Polen
-GUELTIG_AB: 2007
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Marek Zywer
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  amt: Bürgermeister von Zarów
-  partnerstadt: Zarów, Polen
-  ereignis_datum: 28.10.2007
-GUELTIG_AB: 2007
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: infrastruktur_projekt
-BEZEICHNUNG: Wahlscheid-Nord Wohnbauprojekt
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Auel
+FACETTE: GESCHICHTE | FREIZEIT
 ORTSTEIL_BEZUG: Wahlscheid
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  besonderheit: Napoleon-Besuch während Inspektion der Rheinarmee 1811; einziger Besuch Napoleons im Rheinland
+  golfplatz_standort: Golfplatz bei Schloss Auel
+  nutzung: Ausflugsziel
+GUELTIG_AB: 1811
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebäude
+BEZEICHNUNG: Villa Friedlinde
+FACETTE: FREIZEIT
 QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  baubeginn: 07.04.2008
-  flaeche: Grünland am Rande Golfplatz Schloss Auel
-  bauplaetze: 92 Baugrundstücke für frei geplante Häuser
+  einweihung: 2004-06-19
+  umbaudauer: 13 Monate
+  bezeichnung_funktion: Gute Stube der Stadt
+  veranstaltungsort: ja
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: einkaufszentrum
+BEZEICHNUNG: Lohmarer Höfe
+FACETTE: ALLTAG | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  eröffnung: 2008-12-31
+  genauigkeit_eröffnung: ca. (Ende 2008)
+  typ: Büro- und Einkaufszentrum
+  kosten: 12000000 EUR
+  genauigkeit_kosten: ca.
+  bedeutung_fuer_ort: steigerte Attraktivität Lohmars für Einzelhandel deutlich
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: festspiele
+BEZEICHNUNG: Kulturtage Lohmar
+FACETTE: FREIZEIT
+QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  premiere: 2008-04-19
+  charakteristikum: neuartige Festform
+  premiere_details: acht Chöre und Lohmarer Blasorchester auf der Bühne der Jabachhalle; in neun Tagen 30 Veranstaltungen an 22 Orten der Stadt
+  rhythmus: zwei-Jahres-Rhythmus
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sportveranstaltung
+BEZEICHNUNG: Lohmar in Bewegung
+FACETTE: FREIZEIT
+QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  premiere: 2007-06-09
+  lage: Donrather Dreieck
+  besonderheit: bringt Generationen zusammen
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: radrennen
+BEZEICHNUNG: Lohmar Challenge
+FACETTE: FREIZEIT
+QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  premiere: 2008-05-11
+  start_tag: Pfingstsonntag
+  teilnehmer_premiere: 600
+  strecke_varianten: [55 km, 105 km]
+  strecken_charakteristik: bergreich
+  strecken_gebiet: zwischen Lohmar, Overath und Much
+  format: Jedermann-Radrennen
 GUELTIG_AB: 2008
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.8
 
 ---
 
-ENTITÄT: veranstaltung
-BEZEICHNUNG: Kulturtage Lohmar (neu konzipiert)
+ENTITÄT: bürgerbus
+BEZEICHNUNG: Bürgerbus Lohmar e.V.
+FACETTE: INFRA
 QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  erster_termin: 19.04.2008
-  dauer: neun Tage
-  veranstaltungen_gesamt: 30 Veranstaltungen
-  orte: 22 verschiedene Orte der Stadt
-  mitwirkende: acht Chöre, Lohmarer Blasorchester
-GUELTIG_AB: 2008
+  gründung: 2006-08-18
+  fahrbetrieb_ab: 2007-09-27
+GUELTIG_AB: 2006
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: infrastruktur
-BEZEICHNUNG: Auelsbach Renaturierung
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
+ENTITÄT: grundschule
+BEZEICHNUNG: Waldschule Lohmar
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
 EIGENSCHAFTEN:
-  arbeitsbegin: 23.04.2008
-  neues_bett: am Innovationsstandort
-GUELTIG_AB: 2008
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: veranstaltung
-BEZEICHNUNG: Lohmar Challenge (Jedermann-Radrennen)
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  erste_austragung: 11.05.2008 (Pfingstsonntag)
-  teilnehmer_erstmals: 600 Fahrer
-  strecken_länge: 55 km bzw. 105 km
-  charakteristik: bergreiche Strecke
-  region: zwischen Lohmar, Overath und Much
-GUELTIG_AB: 2008
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Dr. Hans Günther van Allen (Ehrenbürger)
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  ehrentitel: Ehrenbürger von Lohmar
-  ernennung: 16.05.2008
-  grund: früherer Bürgermeister und Vizelandrat
-GUELTIG_AB: 2008
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: ereignis
-BEZEICHNUNG: Auelsbach Überschwemmung Donrath
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  datum: 02.06.2008
-  ortsteil: Donrath
-  ursache: kleine Bäche
-GUELTIG_AB: 2008
-GUELTIG_BIS: 2008
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: erfolg
-BEZEICHNUNG: Wettbewerbserfolg "Unser Dorf hat Zukunft"
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  datum_mitteilung: 09.09.2008
-  ortsteil_honrath: Goldmedaille
-  ortsteil_ingersauel: Goldmedaille
-  wettbewerb: Kreiswettbewerb "Unser Dorf hat Zukunft"
-GUELTIG_AB: 2008
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: unternehmen
-BEZEICHNUNG: ALDI Süd Filiale Lohmar
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  eroeffnung: 20.11.2008
-  adresse: Walterscheid-Müller-Straße
-GUELTIG_AB: 2008
+  neubau_einweihung: 2009-04-25
+  besonderheit: Lehrschwimmbecken
+  offene_ganztagsschule: true
+GUELTIG_AB: 2009
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
 ENTITÄT: schule
-BEZEICHNUNG: Waldschule Lohmar (Grundschule Neubau)
-QUELLE: https://www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/ | Gemeinde-Webseite
+BEZEICHNUNG: Gesamtschule Lohmar
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
 EIGENSCHAFTEN:
-  einweihung: 25.04.2009
-GUELTIG_AB: 2009
+  standort_1: ehemaliger Realschule-Komplex im Donrather Dreieck
+  standort_2: ehemalige Gemeinschaftshauptschule Hermann-Löns-Straße
+GUELTIG_AB: 1991
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: musik_kunstschule
+BEZEICHNUNG: Musik- und Kunstschule Lohmar
+FACETTE: FREIZEIT | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  schüler_anzahl: ca. 800
+  schüler_details: Kinder, Jugendliche und Erwachsene
+  besonderheit: Bundesebene-Erfolge, international aktive Künstler und Projekte
+  charakteristikum: Gitarrenforum im zwei-Jahres-Rhythmus
+  bedeutung_fuer_ort: wesentlicher Bestandteil Lohmarer Kulturlandschaft
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bibliothek
+BEZEICHNUNG: Stadtbibliothek Lohmar
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  medienbestand: ca. 40000
+  medienarten: Bücher, Zeitschriften, Zeitungen, CD-ROMs, Computerspiele, CDs, Hörbücher, Cassetten, DVDs, konventionelle Spiele
+  besucher_jahr_2010: 50000
+  bedeutung_fuer_ort: meistbesuchte kulturelle Einrichtung der Stadt (2010)
+  internetplätze: 4 (Stadtbibliothek Lohmar und Stadtbibliothek Wahlscheid zusammen)
+  medienentleihe_pro_kopf_durchschnitt: 5
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Frouard und Pompey
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  partnerschaftsbeginn: 1974
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Vila Verde
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  land: Portugal
+  partnerschaftsbeginn: 1986
+GUELTIG_AB: 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Eppendorf
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  land: Deutschland (Sachsen)
+  partnerschaftsbeginn: 1990
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Żarów
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  land: Polen
+  partnerschaftsbeginn: 2007
+  partnerschaftsunterzeichnung: 2007-10-28
+  unterzeichner: Bürgermeister Marek Zywer (Żarów) und Wolfgang Röger (Lohmar)
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gewässer
+BEZEICHNUNG: Agger
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  typ: Sieg-Nebenfluss
+  größe: größtes fließendes Gewässer im Stadtgebiet
+  besonderheit: Brücken beliebte Fotomotive bei Touristen
+GUELTIG_AB: 1081
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Naafbachtal
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  status: unter Naturschutz
+  besonderheit: Flora und Fauna
+GUELTIG_AB: 1991
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Wahner Heide
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  status: unter Naturschutz, ehemaliges Sperrgebiet
+  besonderheit: ausgeprägte Grünfläche
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: straße
+BEZEICHNUNG: Deutsche Alleenstraße
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: durch Lohmarer Stadtgebiet
+  besonderheit: Allee mit drei Baumreihen zwischen Lohmar-Donrath und Rösrath-Rambrücken
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: golfplatz
+DESIGNUNG: Golfplatz Schloss Auel
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Wahlscheid
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  lage: bei Schloss Auel
+  besonderheit: internationales Sportereignis
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: golfplatz
+BEZEICHNUNG: Golfplatz Naafshäuschen
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Agger
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  lage: bei Naafshäuschen
+  besonderheit: internationales Sportereignis
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: verkehrsinfra
+BEZEICHNUNG: Fernmeldeturm Lohmar-Birk
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Birk
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  höhe: 134 Meter
+  betreiber: Deutsche Telekom AG
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Haltepunkt Honrath
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Honrath
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  linie: Aggertalbahn
+  zugverbindung: Köln – Overath – Gummersbach – Lüdenscheid
+  betreiber_linie: Oberbergische Bahn (RB 25)
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bahnstrecke_stillgelegt
+BEZEICHNUNG: Bahnstrecke Siegburg–Olpe (Lohmarer Innenstadtbahnhof)
+FACETTE: GESCHICHTE | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  innenstadtbahnhof_existenz: Bahnstrecke Siegburg–Olpe
+  innenstadtbahnhof_lage: Lohmar (früher)
+  personenverkehr_einstellung: 1956
+  güterverkehr_einstellung: Ende 1980er-Jahre (Lohmar-Siegburg)
+  streckenabbau_lohmar_overath: seit 1960er-Jahren
+  umwandlung_heute: Radweg
+GUELTIG_AB: 1956
+GUELTIG_BIS: 1980
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: grube
+BEZEICHNUNG: Grube Walpot
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Deesem
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  mineral: Kupferkies
+  betrieb_ab: vor Dreißigjährigem Krieg
+  betrieb_bis: Anfang 20. Jahrhundert
+  besonderheit: archäologische Ausgrabung 1995 des Stollenmundlochs, Schlägel- und Eisenarbeit, Stollen vor Sprengtechnik (Datierung: frühe Neuzeit)
+  lage_tal: Wenigerbachtal
+GUELTIG_AB: 1620
+GUELTIG_BIS: 1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: bergwerk
+BEZEICHNUNG: Grube Moritz
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Lohmarhohn
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  betrieb_zeitraum: Mitte 19. Jahrhundert bis Anfang 20. Jahrhundert
+  erze: Kupfer-, Blei-, Zinkerze
+GUELTIG_BIS: 1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: bergwerk
+BEZEICHNUNG: Grube Nöggerath
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Salgert
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  betrieb_zeitraum: Mitte 19. Jahrhundert bis Anfang 20. Jahrhundert
+  erze: Kupfer-, Blei-, Zinkerze
+GUELTIG_BIS: 1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: bergwerk
+BEZEICHNUNG: Grube Pilot
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Wahlscheid
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  betrieb_zeitraum: Mitte 19. Jahrhundert bis Anfang 20. Jahrhundert
+  erze: Kupfer-, Blei-, Zinkerze
+GUELTIG_BIS: 1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: bergwerk
+BEZEICHNUNG: Grube Schubert
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Bloch (Naafbachtal)
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  betrieb_zeitraum: Mitte 19. Jahrhundert bis Anfang 20. Jahrhundert
+  erze: Kupfer-, Blei-, Zinkerze
+GUELTIG_BIS: 1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: bergwerk
+BEZEICHNUNG: Grube Aurora
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Honrath
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  betrieb_zeitraum: Mitte 19. Jahrhundert bis Anfang 20. Jahrhundert
+  erze: Kupfer-, Blei-, Zinkerze
+GUELTIG_BIS: 1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: bergwerk
+BEZEICHNUNG: Grube Volta
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Honrath
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  betrieb_zeitraum: Mitte 19. Jahrhundert bis Anfang 20. Jahrhundert
+  erze: Kupfer-, Blei-, Zinkerze
+GUELTIG_BIS: 1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: GKN Walterscheid GmbH
+FACETTE: ALLTAG | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  branche: Metallverarbeitung
+  bedeutung_fuer_ort: Arbeitgeber im Stadtgebiet
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Emitec
+FACETTE: ALLTAG | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  branche: Elektroindustrie und Kunststoffverarbeitung
+  bedeutung_fuer_ort: Arbeitgeber im Stadtgebiet
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: ABS Pumpen / Cardo Flow Solutions Germany GmbH
+FACETTE: GESCHICHTE | ALLTAG
+ORTSTEIL_BEZUG: Scheiderhöhe
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  gründungsort: Lohmar-Scheiderhöhe
+  hauptfirmensitz_bis: 2011
+  produkt: größter Hersteller von Pumpen und Rührwerken
+  umbenennungm: 2010 in Cardo Flow Solutions Germany GmbH
+  übernahme: 2011 Sulzer-Konzern (Schweiz)
+  schließung: Ende 2017
+GUELTIG_AB: 1991
+GUELTIG_BIS: 2017
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Hans Günther van Allen
+FACETTE: GESCHICHTE | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  verleihung_datum: 2008-05-16
+  hintergrund: ehemaliger Lohmarer Bürgermeister (1975-1984) und Vizelandrat
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: radiowelle
+BEZEICHNUNG: Radio Bonn/Rhein-Sieg
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  typ: Lokalradio
+  sendegebiet: Bonn und alle Städte/Gemeinden des Rhein-Sieg-Kreises
+  bedeutung_fuer_ort: wichtigster Radiosender für Lohmar
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: zeitung
+BEZEICHNUNG: Kölner Stadt-Anzeiger / Rhein-Sieg-Anzeiger
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  typ: Tageszeitung
+  lokalausgabe: Rhein-Sieg-Anzeiger
+  bedeutung_fuer_ort: wichtigstes Printmedium für Lohmar
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: zeitung
+BEZEICHNUNG: Kölnische Rundschau / Rhein-Sieg-Rundschau
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  typ: Tageszeitung
+  lokalausgabe: Rhein-Sieg-Rundschau
+  bedeutung_fuer_ort: wichtigstes Printmedium für Lohmar
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Special Olympics Host Town
+FACETTE: FREIZEIT | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Lohmar | Wikipedia
+EIGENSCHAFTEN:
+  bewerbung: 2021 (zusammen mit Rhein-Sieg-Kreis und Siegburg)
+  zusage: 2022 (als Host Town für Special Olympics Brasilien)
+  ereignis: Special Olympics World Summer Games 2023 (Berlin)
+  programm_länge: viertägiges Programm für internationale Delegation
+  besonderheit: Teil des größten kommunalen Inklusionsprojekts in der Geschichte der Bundesrepublik (200+ Host Towns)
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

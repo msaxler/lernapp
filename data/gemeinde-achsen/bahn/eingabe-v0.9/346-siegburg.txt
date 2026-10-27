@@ -1,0 +1,857 @@
+ZIELORT: Siegburg (Stadt)
+LAGE: 11 km nordöstlich von Bonn (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Siegburg
+
+GRUNDDATEN:
+  bundesland: Nordrhein-Westfalen  [dewiki Infobox]
+  einwohner: 42.204  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 23,66  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 1784  [berechnet aus Einwohner und Fläche]
+  kfz: SU (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 60 | 71 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2832521)]
+  naechste_grossstadt: Bonn, 11 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Düsseldorf, 56 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Siegburg Nord, Bahnhof Siegburg/Bonn  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 53721  [Wikidata P281]
+  vorwahl: 02241, 02242  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 29,1 %, SPD 18,1 %, AfD 16,4 %, GRÜNE 14,2 %, Die Linke 8,2 %, FDP 5,2 %; Wahlbeteiligung 81,5 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 82,2 % im Bundesland (Ort 81,5 %, Abstand 0,7 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+  buergermeister: Stefan Rosemann (SPD) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-14]
+  partnerstaedte: Nogent-sur-Marne, Bolesławiec [Bunzlau], Selçuk, Guarda  [Wikidata P190]
+
+PLAN:
+  Karte 1: FACETTE ALLTAG (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 4
+  Karte 2: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 1
+  Karte 3: FACETTE FREIZEIT (Ersatz: ALLTAG), Geschichte, A, wahre Option an Stelle 2
+  Karte 4: FACETTE INFRA (Ersatz: LAGE), Geschichte, D, wahre Option an Stelle 3
+  Karte 5: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, A, wahre Option an Stelle 4
+  Karte 6: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, B, Lüge an Stelle 3
+  Karte 7: FACETTE LAGE, Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 2
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je ein weiteres Charakteristikum, Facette frei, Familie A, B oder D, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Sankt Augustin (Stadt)
+  einwohner: 56.033  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 34,22  [Wikidata P2046; Altbestand staedte.json]
+  kfz: SU (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 65 | 69 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json]
+  naechste_grossstadt: Bonn, 8 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Großenbusch, Bahnhof Hangelar, Bahnhof Menden (Rheinl), Bahnhof Niederpleis  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 32,1 %, SPD 17,8 %, AfD 15,7 %, GRÜNE 13,9 %, Die Linke 7,4 %, FDP 5,1 %; Wahlbeteiligung 82,4 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 82,2 % im Bundesland (Ort 82,4 %, Abstand 0,2 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+FAHRT: Wiehre, Waldsee, Altstadt, Stühlinger, Neuburg, Herdern, Zähringen, Brühl, Oberau, Haslach, Sankt Georgen, Vauban, Weingarten, Betzenhausen, Mooswald, Landwasser, Lehen, Rieselfeld, Dietenbach, Opfingen, Tiengen, Munzingen, Waltershofen, Ebnet, Littenweiler, Kappel, Merzhausen, Au, Horben, Günterstal, Ebringen, Schallstadt, Bad Krozingen, Staufen, Heitersheim, Müllheim, Waldkirch, Hochdorf, Gundelfingen, Denzlingen, Glottertal, March, Umkirch, Gottenheim, Merdingen, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Vogtsburg, Oberrotweil, Achkarren, Burkheim, Bischoffingen, Bickensohl, Oberbergen, Schelingen, Sasbach, Leiselheim, Wyhl, Forchheim, Breisach, Gündlingen, Niederrimsingen, Oberrimsingen, Kirchzarten, Stegen, St. Peter, St. Märgen, Oberried, Buchenbach, Höllental, Hinterzarten, Breitnau, Titisee, Titisee-Neustadt, Feldberg, Schluchsee, Lenzkirch, Eisenbach, Friedenweiler, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Neuwied, Altwied, Rengsdorf, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Bonefeld, Straßenhaus, Oberhonnefeld-Gierend, Willroth, Horhausen, Hümmerich, Krunkel, Breitscheid, Kloster Marienhaus, Wolfenacker, Kupferdreh, Überruhr, Bergerhausen, Rellinghausen, Stadtwald, Fischlaken, Werden, Burgaltendorf, Steele, Byfang, Rüttenscheid, Bredeney, Huttrop, Kettwig, Schuir, Heidhausen, Haarzopf, Margarethenhöhe, Südostviertel, Freisenbruch
+
+FAKTEN (Zielort Siegburg):
+ID: 346-siegburg/001
+ENTITÄT: ort
+BEZEICHNUNG: Siegburg
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  ist_kreisstadt: true
+  verwaltungssitz: Rhein-Sieg-Kreis
+  regierungsbezirk: Köln
+  bundesland: Nordrhein-Westfalen
+  lage: Süden Nordrhein-Westfalens, etwa 8 km östlich des Rheins
+  entfernung_koeln: ca. 25 km (nächste Großstadt)
+  entfernung_bonn: ca. 20 km (nächste Großstadt)
+  hoechster_punkt_gelaende: 220 Meter ü. NHN (Ortsteil Braschoß)
+  niedrigster_punkt_gelaende: 54 Meter ü. NHN (Aggermündung)
+  groesse_kommune: flächenkleinste im Rhein-Sieg-Kreis
+  nachbarstadte: Troisdorf, Lohmar, Neunkirchen-Seelscheid, Hennef, Sankt Augustin
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/002
+ENTITÄT: ort
+FACETTE: HISTORY
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  besiedlung_alt: Jungsteinzeit (ca. 3000–1800 v. Chr.)
+  aelteste_siedlungen: 1000–500 v. Chr. (Brückberg, Seidenberg)
+  beschreibung: Nach Gründung der Benediktinerabtei 1064 entwickelte sich Siegburg zur Markt-, Zoll- und Münzstadt (1069). Seit ca. 1000 bekannt als Töpferstadt. Im Mittelalter Zentrum der Siegburger Reform des Benediktinertums. Mehrfach belagert und bombardiert in Kriegszeiten. 1803 Säkularisierung der Abtei. 1816 Kreisstadt. 1840 Industrialisierung mit Textil- und Rüstungsbetrieben. Nach 1945 Transformation zu Verwaltungs- und Dienstleistungszentrum.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 346-siegburg/003
+ENTITÄT: ort
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_2019: 43333
+  einwohner_2025_dezember: 44069
+  katholische_konfession_2025: 27,5 Prozent
+  evangelische_konfession_2025: 14,8 Prozent
+  konfessionslose_2025: 57,7 Prozent
+  auslander: 6383 (Stand 2019)
+  frauenquote: 50,4 Prozent (Stand 2019)
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/004
+ENTITÄT: ort
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  buergermeister_aktuell: Stefan Rosemann
+  partei_buergermeister: SPD
+  wahl_buergermeister: 27. September 2020
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/005
+ENTITÄT: gewässer
+BEZEICHNUNG: Sieg
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  namensgeber_stadt: true
+  muendung: Rhein (westlich von Siegburg)
+  benachbarte_gewaesser: Agger (Nebenfluss, bildet Trennlinie zu Troisdorf), Siegburger Mühlengraben, Wahnbach, Rothenbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/006
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Michaelsberg
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  geologie: erloschener Vulkan
+  bedeutung_fuer_ort: Wahrzeichen Siegburgs
+  hoehe: nicht spezifiziert
+  nutzung: Sitz der Benediktinerabtei St. Michael
+  namensherkunft: ursprünglich "Sygberg" oder "Sigeberg", später "Michaelsberg" nach dem Klosterpatron
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/007
+ENTITÄT: kloster
+BEZEICHNUNG: Benediktinerabtei St. Michael
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1064
+  gründer: Erzbischof Anno II. von Köln (ab 1056)
+  vorgeschichte: Burg seit 9. Jahrhundert, im Besitz der Ezzonen
+  bedeutung_fuer_ort: Zentrum der Siegburger Reform, Reformbestrebungen der benediktinischen Mönchtum
+  heiliger: Anno II., heiliggesprochen 1183, beigesetzt 1075, Annoschrein
+  säkularisierung: 1803
+  nachnutzung_1825_1878: Erste Rheinische Irrenheilanstalt
+  wiederöffnung: 1914
+  aufgegeben: 2011
+  nachnutzung_ab_2012: Ordensgemeinschaft Unbeschuhte Karmeliten (OCD)
+  nachnutzung_ab_2017: Katholisch-Soziales Institut (KSI) der Erzdiözese Köln
+  zerstoerung: Luftangriff 28. Dezember 1944 (fast vollständig zerstört)
+  wiederaufbau_kirche: Weihe 1953, Reparaturarbeiten bis 1967
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/008
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Servatius
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  errichtung: vor 1064
+  umbau_gotisch: 12./13. Jahrhundert zu zweischiffiger Emporen-Basilika
+  chor_umgestaltung: 1285 nach hochgotischem Vorbild des Kölner Doms
+  ausstattung: Schatzkammer mit Siegburger Kirchenschatz (spätromanisch-gotisch)
+  orgel: große Orgel der Orgelmanufaktur Klais
+  veranstaltungen: Internationaler Siegburger Orgelzyklus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/009
+ENTITÄT: kloster
+BEZEICHNUNG: Klosterkirche Seligenthal (Sankt Antonius)
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Seligenthal
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  gründer: Graf Heinrich III. von Sayn und Mechthild von Landsberg
+  baustart: Baubeginn mit Pause 1255 (Geldknappheit)
+  fertigstellung: 1256
+  stil: rheinischer Übergangsstil
+  besonderheit: älteste erhaltene Franziskanerkirche nördlich der Alpen
+  bewohner: Nonnen (bis heute)
+  kunstwerk: Jesu-Statue im Süd-Ost-Hof (17. Jahrhundert), 2017 ins theologische Museum Königswinter überführt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 346-siegburg/010
+ENTITÄT: handwerk
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Siegburg gilt seit ca. 1000 als Töpferstadt, Entwicklung setzte wesentlich früher ein als in Frechen
+  material: Siegburger Steinzeug, gesintert
+  besonderheit: Schnellen (charakteristische Keramikform)
+  herkunft_rohstoff: hellgraue bis dunkelgelbe Tone, Tonablagerungen aus dem Oligozän
+  blüte_1: ab ca. 1300
+  blüte_2: ab ca. 1500 mit kunstvollen Verzierungen
+  niedergang: Vor und nach 1600 verließ großer Teil der Töpfer die Stadt, siedelten sich im Kannebäckerland (Westerwald) an
+  aulgasse: Vorstadt mit Töpfereien, Name nach Töpferhandwerk
+  bedeutung_fuer_ort: Grundlage des Siegburger Keramikhandwerks
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/011
+ENTITÄT: bergwerk
+BEZEICHNUNG: Bergwerk Ziethen
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Seligenthal/Weingartsgasse
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  lage: unterhalb der Wahnbachtalsperre zwischen Seligenthal und Weingartsgasse
+  baue: Blei- und Kupfererze
+  erste_aktivitaet: ab 12. Jahrhundert
+  wiederinbetriebnahme: 1854
+  stilllegung: 1878 (Erzmächtigkeit mit zunehmender Tiefe abnahm)
+  untersuchung: 1923–1927 (ohne Abbau)
+  tiefe_abbau: ca. 70 Meter
+  problem: Wasserhaltung äußerst schwierig
+  heute: überwachsene Halde und Eisenstangen sichtbar
+GUELTIG_AB: 1200
+GUELTIG_BIS: 1878
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 346-siegburg/012
+ENTITÄT: markt
+BEZEICHNUNG: Wochenmarkt
+FACETTE: ALLTAG
+QUELLE: https://siegburg.de/wirtschaft/city-business/wochenmarkt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  marktrechte_verliehen: 1069
+  bedeutung_fuer_ort: gelebte Tradition, vertrauter Begleiter im Siegburger Alltag, Einzugsbereich bis Köln
+  tage_oeffnung: 6 von 7 Tagen (montags bis samstags)
+  oeffnungszeiten: 8:00–15:00 Uhr
+  lage: Herzen der Stadt, Marktplatz in Fußgängerzone
+  erreichbarkeit: wenige Schritte vom Bahnhof entfernt
+  sortiment_fokus: Frischesortiment (Gemüse, Obst, Geflügel, Fleisch, Fisch, Molkereiprodukte, Backwaren, Blumen, Pflanzen)
+  sortiment_dynamik: Warensortiment wächst mit den Wochentagen
+  ausnahmen: weicht zweitem Juli-Wochenende Keramikmarkt aus, verlagert zu S-Carré; gruppiert sich beim Mittelalter-Weihnachtsmarkt im Advent
+  veranstaltungen: Maikäfer-Fest (Frühling), Spargel-Essen (Frühsommer), Oktoberfest (Herbst)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/013
+ENTITÄT: verein
+BEZEICHNUNG: Geschichts- und Altertumsverein
+FACETTE: GESCHICHTE
+QUELLE: https://siegburg.de/buergerservice-views/leistungen/NRW:entry:41713-VLR/geschichts-und-altertumsverein/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 30. November 1903
+  ursprüngliche_bezeichnung: Altertumsverein Siegburg
+  mitgliederzahl_aktuell: 500
+  genauigkeit_mitglieder: ca.
+  aufgabe: Förderung der Lokalgeschichte in Siegburg und im Rhein-Sieg-Kreis
+  publikation: Heimatblätter (jährlich, wissenschaftlich)
+  aktivitaeten: häufige Exkursionen zu historisch bedeutsamen Stätten
+  adresse: Nogenter Platz 10, 53721 Siegburg
+  oeffnungszeiten: Montag–Freitag 08:00–12:00 Uhr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 346-siegburg/014
+ENTITÄT: loesch_organisation
+BEZEICHNUNG: Löschgruppe Stallberg
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Stallberg
+QUELLE: https://siegburg.de/medien/dokumente/feuerwehr-siegburg-chronik-der-loeschgruppe-4.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundung: 1930er Jahre (vermutlich, Bilder deuten darauf hin)
+  genauigkeit: vermutlich
+  vorgeschichte: Stadtteil ursprünglich durch Löschgruppe Wolsdorf betreut
+  neudefinition: Löschgruppe 4 der Freiwilligen Feuerwehr Siegburg
+  initiator: auf dem Stallberg wohnende Feuerwehrleute
+  unterstuetzer_firmen: Kepec und gebr. Seiler (Übungsbetrieb durch großzügige Hilfe)
+  erster_uebungsleiter: Oberbrandmeister Wilhelm Krey
+  stellvertreter: Oberbrandmeister Hans Schönenberg (damaliger Leiter der Feuerwache Siegburg)
+  erster_eigenstaendiger_brandmeister: Karl Stocksiefen (Prüfung 11. November 1957)
+  vize_1957: BM Rolf Grosch
+  unterstuetzung_1957: Unterbrandmeister Karl Kattwinkel
+  jubilaeum_25: 1975 im Pfarrer-Rupprecht-Saal
+  geraetehaus_alt: Kaldauerstraße Höhe Viehtrift
+  florianstube: 1976 auf Dachboden des katholischen Pfarrhauses gebaut, beliebter Treffpunkt bis heute
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 346-siegburg/015
+ENTITÄT: kunstort
+BEZEICHNUNG: Rosa Aussicht
+FACETTE: FREIZEIT
+QUELLE: https://siegburg.de/strukturierte-daten/cityportal/firmen-unternehmen/rosa-aussicht/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Künstleratelier und Werkstatt in alter Schreinerei
+  adresse: Albertstraße 3, 53721 Siegburg
+  angebote: Kunst- und Kreativangebote für Menschen jeden Alters, Ausstellungen, Lesungen, Konzerte, eigene künstlerische Arbeiten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 346-siegburg/016
+ENTITÄT: verein
+BEZEICHNUNG: Freizeit AG Siegburg n.e.V.
+FACETTE: FREIZEIT
+QUELLE: https://siegburg.de/strukturierte-daten/cityportal/vereine/freizeit-ag-siegburg-n-e-v/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  teamname: Texel-Team
+  veranstaltung: einwöchige Ferienfreizeit
+  zielgruppe: 9–14 jährige Kinder und Jugendliche
+  zeitpunkt: jährlich in Herbstferien
+  ort: niederländische Insel Texel
+  durchfuehrung: von JugendleiterInnen mit langjähriger Erfahrung
+  adresse: Frankfurter Straße 56, 53721 Siegburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 346-siegburg/017
+ENTITÄT: laden
+BEZEICHNUNG: Eine-Welt-Markt Siegburg
+FACETTE: WIRTSCHAFT
+QUELLE: https://siegburg.de/strukturierte-daten/cityportal/firmen-unternehmen/eine-welt-markt-siegburg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1982
+  betreiber: ehrenamtlich tätige Mitglieder des Vereins Eine-Welt-Markt Siegburg e.V.
+  mission: Förderung gerechterer, nachhaltigerer Weltwirtschaft und partnerschaftlicher Handelsbeziehungen mit Produzierenden im Globalen Süden auf Augenhöhe
+  sortiment: hochwertige Lebensmittel (überwiegend biologischer Anbau), Kunstgewerbe, nachhaltige Gebrauchsgegenstände, Tee-, Kaffee-, Schokoladenspezialitäten, Honig, Reis, Öle, Wein, Schmuck, Leder- und Filzwaren, Musikinstrumente
+  besonderheit: vielfältige Saisonartikel
+  adresse: Zeughausstraße 7–9, 53721 Siegburg
+  bedeutung_fuer_ort: Zeichen von Fairness und globalem Engagement
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 346-siegburg/018
+ENTITÄT: verein
+BEZEICHNUNG: SKM – Katholischer Verein für soziale Dienste im Rhein-Sieg-Kreis e. V.
+FACETTE: ALLTAG
+QUELLE: https://siegburg.de/strukturierte-daten/cityportal/firmen-unternehmen/skm-katholischer-verein-fuer-soziale-dienste-im-rhein-sieg-kreis-e-v/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  dachverband: Fachverband im Deutschen Caritasverband
+  aufgaben: Jugend-, Gefährdeten- und Wohnungslosenhilfe, Schuldnerberatung, Arbeit mit psychisch kranken Menschen
+  mitarbeiter: 96
+  fachbereiche: 6
+  adresse: Bahnhofstraße 27, 53721 Siegburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 346-siegburg/019
+ENTITÄT: museum
+BEZEICHNUNG: Stadtmuseum
+FACETTE: FREIZEIT
+QUELLE: https://siegburg.de/kultur-freizeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inhalte: Stadtgeschichte, zeitgenössische Kunst, Veranstaltungen von Klassik bis Kabarett, Vorträge bis Tagungen
+  bedeutung_fuer_ort: wichtiger Kulturort im Herzen der Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 346-siegburg/020
+ENTITÄT: bibliothek
+BEZEICHNUNG: Stadtbibliothek
+FACETTE: FREIZEIT
+QUELLE: https://siegburg.de/kultur-freizeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  auszeichnung: mehrfach ausgezeichnet
+  angebot: große Auswahl an Büchern und DVDs
+  veranstaltungen: Lesungen mit bekannten Autoren, Theaterveranstaltungen für Kinder und Jugendliche, regelmäßige kulturelle Events
+  funktion: Treffpunkt, Veranstalter, Förderer
+  beschreibung: macht Lust am Lesen, bietet Raum für Lernen und Robotik-Workshops
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 346-siegburg/021
+ENTITÄT: veranstaltungsort
+BEZEICHNUNG: RHEIN SIEG FORUM
+FACETTE: FREIZEIT
+QUELLE: https://siegburg.de/kultur-freizeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Herz der Kreisstadt Siegburg
+  bedeutung: eine der modernsten Veranstaltungsstätten der Region
+  kapazität: groß
+  technik: modernste
+  programm: Veranstaltungen der städtischen Theatersaison, eigenes abwechslungsreiches Kulturprogramm
+  bedeutung_fuer_ort: bereichert Siegburger Kultur
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 346-siegburg/022
+ENTITÄT: freizeitbad
+BEZEICHNUNG: Freizeitbad Oktopus
+FACETTE: FREIZEIT
+QUELLE: https://siegburg.de/kultur-freizeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vollname: Gesundheits- und Erlebnispark Oktopus
+  angebote: Badespaß, abwechslungsreiche Freizeitaktivitäten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 346-siegburg/023
+ENTITÄT: musikschule
+BEZEICHNUNG: Engelbert-Humperdinck-Musikschule
+FACETTE: FREIZEIT
+QUELLE: https://siegburg.de/kultur-freizeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zielgruppe: Kinder ab 2 Jahren, Jugendliche, Erwachsene, Senioren
+  besonderheit: Fokus auf Leben und Werk Engelbert Humperdincks
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 346-siegburg/024
+ENTITÄT: theater
+BEZEICHNUNG: Studiobühne Siegburg
+FACETTE: FREIZEIT
+QUELLE: https://siegburg.de/kultur-freizeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1998
+  gründer: Wolf Bongôrt von Roy
+  erster_titel: Bertolt Brechts „Herr Puntila und sein Knecht Matti"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 346-siegburg/025
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Humperdinck-Musikfest
+FACETTE: FREIZEIT
+QUELLE: https://siegburg.de/kultur-freizeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: Juli
+  rhythmus: regelmäßig
+  beschreibung: Highlight des kulturellen Lebens der Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 346-siegburg/026
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Siegburger Literaturwochen
+FACETTE: FREIZEIT
+QUELLE: https://siegburg.de/kultur-freizeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: November
+  rhythmus: regelmäßig
+  besonderheit: Verleihung Rheinischer Literaturpreis Siegburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 346-siegburg/027
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Keramikmarkt
+FACETTE: FREIZEIT
+QUELLE: https://siegburg.de/kultur-freizeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: zweiter Sonntag im Juli
+  lage: Marktplatz (normalerweise beim Wochenmarkt)
+  besonderheit: internationaler Keramikmarkt, mit dessen Stattfinden der Wochenmarkt ausweicht
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 346-siegburg/028
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Mittelalterlicher Markt zu Weihnachten
+FACETTE: FREIZEIT
+QUELLE: https://siegburg.de/kultur-freizeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: Advent (Dezember)
+  lage: oberer Teil des Marktplatzes an der Siegessäule
+  besonderheit: traditionell, Händler des Wochenmarkts gruppieren sich zusammen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 346-siegburg/029
+ENTITÄT: unternehmen
+BEZEICHNUNG: Siegwerk Druckfarben AG
+FACETTE: WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  ansaessig_seit: 1840
+  beschreibung: einer der weltweit größten Druckfarbenhersteller
+  bedeutung_fuer_ort: großer Arbeitgeber, Industriestandort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/030
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnhof Siegburg/Bonn
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  ice_anbindung_seit: 2003
+  linie: ICE-Schnellfahrstrecke Köln–Rhein/Main
+  neubau: 2004
+  besonderheit: ICE-Wagen 403016/403516 tragen Namen Siegburg (#76) seit 22. Juli 2003
+  stadtbahn_linie: 66 der Stadtbahn Bonn (10-Minuten-Takt werktags)
+  weitere_linien: RE 9 (Siegstrecke Köln–Siegen), S12 und S19 (S-Bahn Köln)
+  bedeutung_fuer_ort: verbindung zu Köln und Bonn, hohe Erreichbarkeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/031
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Autobahnanschluss
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  autobahn_a3: anschluss seit 17. Dezember 1937, auf Strecke von 30 km zwischen Autobahnkreuz Köln-Mülheim und Siegburg
+  autobahn_a3_ausbau_1: 12 km bis Anschlussstelle Siebengebirge am 15. Dezember 1938
+  autobahn_a3_ausbau_2: weitere 30 km bis Dierdorf am 20. September 1939
+  autobahn_a560: nach Bonn und Hennef
+  bundesstrassen: B 8, B 56, B 484
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/032
+ENTITÄT: historisches_ereignis
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Hexenverfolgungen
+  zeitraum: 1636–1638
+  kommissare: Franz Buirmann und Kaspar Lieblar
+  opfer: 37 Menschen (32 Frauen, 5 Männer)
+  begruendung: Abwesenheit des Abtes nach Flucht nach Köln vor dem Dreißigjährigen Krieg, Arbeit der Hexenkommissare
+  dokumente: 19 vollständige Hexenprozess-Protokolle sowie Prozessfragmente im Hauptstaatsarchiv Düsseldorf und Stadtarchiv Siegburg
+  kontekt: Dreißigjähriger Krieg
+GUELTIG_AB: 1636
+GUELTIG_BIS: 1638
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/033
+ENTITÄT: historisches_ereignis
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Novemberpogrom 1938
+  ziel: Synagoge in der Holzgasse
+  handlung: Zerstörung
+  kontext: NS-Zeit, Verfolgung von Juden
+GUELTIG_AB: 1938
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/034
+ENTITÄT: historisches_ereignis
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Bombenanschläge auf Siegburg
+  datum_1: 28. Dezember 1944
+  bomben_1: 1500
+  tote_1: 66
+  verletzte_1: Hunderte
+  ziel_1: Abtei Michaelsberg (fast vollständig zerstört)
+  datum_2: 3. März 1945
+  bomben_2: 3000
+  tote_2: 35
+  gebaeude_beschaedigt: ca. 1000
+  datum_3: 9.–10. März 1945
+  ort_3: Wolsdorf
+  tote_3: über 100
+  kontext: Zweiter Weltkrieg
+GUELTIG_AB: 1944
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/035
+ENTITÄT: historisches_ereignis
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Besetzung durch US-Armee
+  datum: 10. April 1945
+  kraft: Teile der 97. Infanteriedivision
+  bürgermeister_us_besatzer: Eugen Vogel (Deutschamerikaner aus Siegburg)
+  kontext: Ende Zweiter Weltkrieg
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/036
+ENTITÄT: stadt_eigenschaft
+FACETTE: FREIZEIT
+QUELLE: https://siegburg.de/wirtschaft/klima-business/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zertifikat: Fairtrade-Town
+  zertifikat_seit: Juni 2023
+  initiative: Fairtrade-Town Initiative
+  koordination: gemeinsam mit lokalen Unternehmen und Schulen
+  ziel: fairer Handel und globale Verantwortung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 346-siegburg/037
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Engelbert Humperdinck
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1854
+  todesjahr: 1921
+  beruf: Komponist
+  geburtsort: Siegburg
+  bedeutung_fuer_ort: Namensgeber des Humperdinck-Musikfests, Musikwerkstatt
+GUELTIG_AB: 1854
+GUELTIG_BIS: 1921
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/038
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Wolfgang Overath
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1943
+  beruf: Fußballspieler
+  karriere_start: Siegburger Sportverein 1904 e. V. (SSV 04)
+  erfolg: Präsident des 1. FC Köln, Mitglied deutsche Fußballnationalmannschaft, Fußballweltmeister 1974
+  ehrenbuerg_seit: 2003
+  geburtsort: Siegburg
+GUELTIG_AB: 1943
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/039
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Anno II. von Köln
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: um 1010
+  todesjahr: 1075
+  rang: Erzbischof von Köln (1056–1075)
+  handel: Heiliger der katholischen Kirche
+  verbindung_siegburg: gründer Abtei St. Michael (1064), heiliggesprochen 1183, Annoschrein in Abteikirche
+  bedeutung_fuer_ort: Begründer der Siegburger Reform, Zentrum der Erneuerung des benediktinischen Mönchtums
+GUELTIG_AB: 1010
+GUELTIG_BIS: 1075
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/040
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Stefan Rosemann
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1971
+  beruf: Politiker (SPD), Bürgermeister von Siegburg
+  amt_seit: 2020
+  wahl: Stichwahl 27. September 2020 mit 57,54 Prozent der Stimmen
+  geburtsort: Siegburg
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/041
+ENTITÄT: stadtteil
+BEZEICHNUNG: Stallberg
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  status: Ortsteil von Wolsdorf
+  zuordnung: Wolsdorf (eingemeindet 1899)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/042
+ENTITÄT: stadtteil
+BEZEICHNUNG: Braschoß
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1956
+  ortsteile: Kaldauen, Schneffelrath, Schreck, Haus zur Mühlen
+  hoechster_punkt: ca. 220 m ü. NHN (höchster Punkt des Stadtgebiets)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/043
+ENTITÄT: stadtteil
+BEZEICHNUNG: Seligenthal
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1969
+  infrastruktur: Wahnbach aus Wahnbachtalsperre fließt hier durch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/044
+ENTITÄT: haus
+BEZEICHNUNG: Haus zum Winter
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1220–1230
+  beschreibung: ältestes, zumindest teilweise erhaltenes Wohnhaus Siegburgs
+  funktion_original: ehemaliges Pfarrhaus der Servatiuskirche
+  lage: oberer Markt (Griesgasse 2)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 346-siegburg/045
+ENTITÄT: gebaeude
+BEZEICHNUNG: Hexenturm
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  typ: Wachturm in Form eines Halbturms
+  teil_von: Stadtmauer
+  lage: Bergstraße
+  namensherkunft: 19. Jahrhundert, Erscheinung in Roman von Wilhelm Herchenbach „Meister Hansen, der Scharfrichter von Siegburg"
+  kontext: Mit Hexenverfolgungen 1636–1638 assoziiert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 346-siegburg/046
+ENTITÄT: gebaeude
+BEZEICHNUNG: Zeughaus
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  funktion_original: königlich-preußisches Zeughaus
+  lage: Zeughausstraße
+  bedeutung_geschichte: Ziel von Freischärlern 1849 (versuchter Sturm)
+  status_heute: Denkmalschutz
+  nutzer_heute: Musikwerkstatt Engelbert Humperdinck
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 346-siegburg/047
+ENTITÄT: gefaengnis
+BEZEICHNUNG: Justizvollzugsanstalt Siegburg
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnung: 1886
+  typ: königlich preußische Strafanstalt
+  ereignis_2006: brutaler Misshandlungsfall, 20-Jähriger von drei Mithäftlingen zu Tode gefoltert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 346-siegburg/048
+ENTITÄT: betrieb
+BEZEICHNUNG: Phrix-Werke AG
+FACETTE: WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: Nachkriegszeit bis Schließung
+  bedeutung_fuer_ort: bedeutender Betrieb der Nachkriegszeit
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 346-siegburg/049
+ENTITÄT: militaer
+BEZEICHNUNG: Wachbataillon beim Bundesministerium der Verteidigung
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  stationierung_seit: 1957 (Brückberg-Kaserne in Siegburg)
+  beteiligung: protokollarischer Ehrendienst beim Bundespräsidenten, Staatsbesuche und -empfänge
+  verlegung: im Zuge der Wiedervereinigung nach Berlin
+  patenschaft_stadt: seit 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 346-siegburg/050
+ENTITÄT: militaer
+BEZEICHNUNG: Stabsmusikkorps der Bundeswehr
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  stationierung_seit: 1957 (Brückberg-Kaserne in Siegburg)
+  verbleib: verblieb in Siegburg (nach Wiedervereinigung)
+  patenschaft_stadt: seit 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 346-siegburg/051
+ENTITÄT: schiff
+BEZEICHNUNG: Minensuchboot Wega
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  patenschaft_seit: 1965
+  typ: schnelles Minensuchboot
+  initiative: Marinekameradschaft Siegburg 1913
+  ausmusterung: 1988
+  nachfolger: Nachfolgeboot erhielt Namen Siegburg
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 346-siegburg/052
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Nogent-sur-Marne
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  partnerschaft_seit: 1964
+  besonderheit: seit 2002 auch partnerschaftlich mit Bolesławiec verbunden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/053
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Bolesławiec
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  land: Polen
+  partnerschaft_seit: 1992
+  besonderheit: seit 2002 auch partnerschaftlich mit Nogent-sur-Marne verbunden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/054
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Selçuk
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  land: Turkei
+  partnerschaft_seit: 1993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/055
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Orestiada
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  land: Griechenland
+  partnerschaft_seit: 1994
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/056
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Guarda
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  land: Portugal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/057
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Werder (Havel)
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Siegburg | Wikipedia
+EIGENSCHAFTEN:
+  land: Deutschland
+  partnerschaft_seit: 4. Oktober 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+

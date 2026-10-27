@@ -1,0 +1,624 @@
+ENTITÄT: ort
+BEZEICHNUNG: Krunkel
+FACETTE: LAGE | GESCHICHTE | POLITIK
+QUELLE: https://www.gemeinde-krunkel.de/wir-in-krunkel/ortsportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bundesland: Rheinland-Pfalz
+  landkreis: Altenkirchen (Westerwald)
+  verbandsgemeinde: Altenkirchen-Flammersfeld
+  ortsteile: 2 (Krunkel, Epgert)
+  naturpark: Rhein-Westerwald
+  einwohner: 620
+  einwohner_1787: 86
+  einwohner_1853: 134
+  einwohner_1946: 321
+  einwohner_1815: 168
+  einwohner_1835: 226
+  einwohner_1871: 248
+  einwohner_1905: 300
+  einwohner_1939: 331
+  einwohner_1950: 331
+  einwohner_1961: 366
+  einwohner_1970: 444
+  einwohner_1987: 468
+  einwohner_1997: 603
+  einwohner_2005: 687
+  einwohner_2025: 587
+  naehe_autobahn: A3, Anschlussstelle Neuwied/Altenkirchen
+  naehe_ballungsraeume: Köln/Bonn, Koblenz/Neuwied
+  infrastruktur_nachbarort: Horhausen, 3 km entfernt, mit Kindergarten, Grundschule, IGS, ärztlicher Versorgung, Einkaufsmöglichkeiten
+  charakteristika_wanderwege: Westerwald-Steig, Rheinsteig, Rengsdorfer Land, Wiedtal
+  industriegebiet: vorhanden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Krunkel
+FACETTE: GESCHICHTE
+QUELLE: https://www.gemeinde-krunkel.de/wir-in-krunkel/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehn_datum: 1354-05-02
+  erste_urkundliche_erwaehn_name: Cranwinkil
+  erwaehn_1620: Crankell
+  erwaehn_1727: Kronckell
+  feuerstellen_1684: 6
+  feuerstellen_1715: 10
+  staat_1815: Königreich Preußen
+  grund_staat_1815: Wiener Kongress, Niederlage Napoleon
+  politischer_status_1815: selbstständige Gemeinde
+  amt_1816: Bürgermeisterei Flammersfeld, Kreis Altenkirchen, Regierungsbezirk Koblenz
+  province_ab_1822: Rheinprovinz
+  staat_bis_ca_1800: Kurfürstentum Trier
+  staatliche_zugehoerig_1803: Fürstentum Nassau-Weilburg
+  staatliche_zugehoerig_1806: Herzogtum Nassau
+  bergbau_ab: 940
+  bergbau_produkt: Eisenerz
+  bergbau_ende: ca. 1960
+  bergbau_bedeutung: Haupterwerbszweig
+GUELTIG_AB: 1354
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Epgert
+FACETTE: GESCHICHTE
+QUELLE: https://www.gemeinde-krunkel.de/wir-in-krunkel/ortsportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  politischer_status_bis_1939: eigenstaendige Gemeinde
+  eingemeindung_datum: 1939-04-01
+  eingemeindung_grund: Deutsche Gemeindeordnung §§10, 15, 117 Abs. 3 vom 30.01.1935
+  kirchliche_zugehoerig: Pfarrgemeinde Peterslahr, Filialkirche St. Josef Obersteinebach
+GUELTIG_AB: 1939
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Herz-Jesu-Kirche Krunkel
+FACETTE: LAGE | GESCHICHTE | KULTUR
+QUELLE: https://www.gemeinde-krunkel.de/freizeit-und-kultur/kirche.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  grundsteinlegung: 1962-07-01
+  einweihung: 1964-06-14
+  einweihender: Kardinal Dr. Josef Höffner (Bischof von Münster)
+  baukosten_dm: 194373.01
+  abschlussrechnung: 1965-12-20
+  bauzeit: 1962-1964
+  grund_neubau: Platzmangel in Herz-Jesu-Kapelle (1910), schlechte Bausubstanz der Kapelle
+  ortsbild_bedeutung: kennzeichnet mit prägnanter Silhouette das Bild der Ortsgemeinde
+  superlativ: prägnante Silhouette kennzeichnet Ortsbild
+  bedeutung_fuer_ort: Wahrzeichen, kennzeichnet Ortsbild
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Herz-Jesu-Kapelle Krunkel
+FACETTE: GESCHICHTE
+QUELLE: https://www.gemeinde-krunkel.de/wir-in-krunkel/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baubeginn: 1910-05-03
+  einweihung: 1911-03-26
+  einweihender: Pastor Franz Steffens
+  grund_neubau: Kapelle war Ausgangspunkt für spätere Kirche
+  nachfolgebau: Herz-Jesu-Kirche
+GUELTIG_AB: 1910
+GUELTIG_BIS: 1964
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Gemeindewappen Krunkel
+FACETTE: KULTUR
+QUELLE: https://www.gemeinde-krunkel.de/wir-in-krunkel/ortsportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anerkennung: 1988-05-18
+  beschreibung: über silbernem Schildfuß mit rotem Kurtrierer Kreuz; in Blau silberne Wellenleiste; oben zwei silberne Eichenblätter mit Eichel; unten silbernes Förderrad
+  symbol_eiche: alte, zum Naturdenkmal bestimmte Eiche, dient Grenzpunkt zwischen Hümmerich und Epgert
+  symbol_wellenleiste: Lahrbach, bestimmt Landschaftsbild der Gemarkung
+  symbol_foerderrad: Erinnerung an Erzbergbau bis um 1960, Haupterwerbszweig
+  symbol_kreuz: Zugehörigkeit zu Kurfürstentum Trier bis um 1800
+GUELTIG_AB: 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Georoute Wasserweg
+FACETTE: FREIZEIT
+QUELLE: https://www.gemeinde-krunkel.de/freizeit-und-kultur/wasserweg.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  type: Rundwanderweg, Themenweg zur Wasserversorgungsgeschichte
+  laenge_km: 7.7
+  schwierigkeit: moderat
+  startpunkt: Parkplatz am Dorfgemeinschaftshaus, Auf der Burg 4, Krunkel-Epgert
+  erstellung_kontext: Dorfmoderation
+  finanzierung: Naturpark Rhein-Westerwald
+  begleitung_fachlich: Geopark Westerwald-Lahn-Taunus, Landesamt für Geologie und Bergbau
+  eroeffnung: 2020-09
+  stationen: Dorfbrunnen Krunkel, Dorfbrunnen Epgert, Hochbehälter "Panoramablick", Tiefenbohrung Lahrbachtal, ehemaliges Wasserwerk, Devon Platz
+  thema_geschichte: historische Wasserversorgung, Lebenssituation früherer Jahrzehnte
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: platz
+BEZEICHNUNG: Devon Platz
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://www.gemeinde-krunkel.de/freizeit-und-kultur/devon-platz.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Epgert
+  entstehungsanlass: ICE-Eisenbahn-Trasse Köln-Rhein-Main-Gebiet, Somm 1999 Unter-Devon-Gesteine freigelegt
+  regionen_betroffen: Hombach, Epgert, Krunkel, Willroth
+  geologisches_zeitalter: Unter-Devon
+  geologischer_zeitraum: vor 417 bis 358 Mio. Jahren (Erdaltertum)
+  fossilienfunde: Seeskorpione, Chasmataspiden, Arthropoden (tausendfüßlerähnlich), Spinnentiere
+  fossilien_besonderheit: älteste Spinnentiere im Rheinischen Schiefergebirge nachgewiesen
+  groesste_lebensform: Jaekelopterus Rhenanie, bis 2.5 m
+  geologische_besonderheit: Rheinische Meeresstraße, Old Red-Kontinent, Gondwana-Kollision
+  gestaltungselemente: Sandstein (historisches Baumaterial, markante Gebäude prägen Ortsbild), Stahl und Eisen (Bergbau/Hüttenwerke), Eichenmischwälder (Baustoff, Lebensgrundlage)
+  begruenung: schmalkronige Eichen
+  geopark_status: Infopunkt im nationalen Geopark Westerwald-Lahn-Taunus
+  eroeffnung: 2016-07-09
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: KUNTERBUNT
+FACETTE: FREIZEIT
+QUELLE: https://www.gemeinde-krunkel.de/freizeit-und-kultur/kunterbunt-der-familien-erlebnisweg.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  type: Familien-Erlebnisweg, zwei Schleifen
+  laenge_km: 3.3
+  schwierigkeit: leicht
+  startpunkt: Parkplatz am Dorfgemeinschaftshaus, Auf der Burg 4, Krunkel-Epgert
+  schleife_1: Kindergarten Burgmäuse – Lahrbach – Epgert, mit Naturmaterialien dekoriert
+  schleife_2: Lahrbachtal Richtung Obersteinebach, Moosberg, Krunkel mit Spielplatz
+  gestaltung_1: Kindergarten Burgmäuse mit Naturmaterialien
+  gestaltung_2: Krunkeler Frauen mit handgearbeiteter Deko, Künstlerin Jutta Hahn (getöpferte Wichtel, Kobolde, Drachen aus Keramik)
+  besonderheit: drollige Überraschungen am Wegesrand
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Schule Epgert
+FACETTE: GESCHICHTE
+QUELLE: https://www.gemeinde-krunkel.de/wir-in-krunkel/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  brand: 1894-10-29
+  brandfolge: Unterricht ausgesetzt
+  ausweichort_1: Haus Peter Rüth, Obersteinebach (ab 1894-11-08)
+  unterricht_ausweichort: halbtags, 8–12 Uhr ältere Jahrgänge, 14–16 Uhr jüngere Jahrgänge
+  neubau_baubeginn: 1898-04-04
+  neubau_ort: Weg von Epgert nach Obersteinebach
+  neubau_einweihung: 1899-07-16
+  einweihender: Pfarrer Oden
+  schulverband_erweiterung_ab: 1898 tritt Krunkel bei
+  schließung: 1973
+  bedeutung: Schulverband für Krunkel, Epgert, Obersteinebach
+GUELTIG_AB: 1898
+GUELTIG_BIS: 1973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Wasserleitung Krunkel
+FACETTE: INFRA | GESCHICHTE
+QUELLE: https://www.gemeinde-krunkel.de/wir-in-krunkel/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_beratung: 1907-11-07
+  baubeginn: 1911
+  inbetriebnahme: 1911
+  bedeutung_fuer_ort: erste zentrale Wasserversorgung
+GUELTIG_AB: 1911
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Wasserleitung Epgert
+FACETTE: INFRA | GESCHICHTE
+QUELLE: https://www.gemeinde-krunkel.de/freizeit-und-kultur/wasserweg.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grund_bau: Verunreinigung durch Vieh, 1954 Typhus-Erkrankungen (9 von 156 Einwohner)
+  wasserbeschaffungsverband_grund: Gemeinderat Krunkel lehnte gemeinsame Versorgung ab
+  wasserbeschaffungsverband_bestaetigung: 1956-01
+  wasserbeschaffungsverband_modell: genossenschaftlich, jeder Haushalt 500 DM Grundkapital
+  landeszuschuss: 45000 DM
+  darlehen: 35000 DM, zinsgünstig
+  wasserfest: 1956-08-11
+  wasserbeschaffungsverband_auflosung: 1972
+  aufloesungsgrund: Wasserversorgung an Kreiswasserwerk Neuwied übertragen
+GUELTIG_AB: 1956
+GUELTIG_BIS: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Stromnetz Krunkel
+FACETTE: INFRA | GESCHICHTE
+QUELLE: https://www.gemeinde-krunkel.de/wir-in-krunkel/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anschluss_jahr: 1926
+  spannungsklasse: 20 KV
+  anschlussort: Zieleichen
+  strecke: über Hofbüsch, Eckhardtswiesenberg, Hasenstück, Froschweiher
+  kosten_mark: 6000
+  quelle: Chronist Anton Schmidt
+GUELTIG_AB: 1926
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Autobahn A3
+FACETTE: INFRA | LAGE
+QUELLE: https://www.gemeinde-krunkel.de/wir-in-krunkel/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erdarbeiten_beginn: 1937-09-10
+  verlauf: Köln-Frankfurt
+  bedeutung: Nähe zur Anschlussstelle Neuwied/Altenkirchen
+  rastplatz: benannt nach Ortsteil Epgert
+GUELTIG_AB: 1937
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Mehrzweckhalle Krunkel/Epgert
+FACETTE: INFRA | FREIZEIT
+QUELLE: https://www.gemeinde-krunkel.de/wir-in-krunkel/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Gemeinde Krunkel und Obersteinebach
+  einweihung: 1984-05-12
+  anbau_eroeffnung: 2010-08-28
+  hallengemeinschaft_aenderung: Obersteinebach verließ später die Hallengemeinschaft
+GUELTIG_AB: 1984
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kindergarten
+BEZEICHNUNG: Kindergarten Burgmäuse
+FACETTE: INFRA
+QUELLE: https://www.gemeinde-krunkel.de/wir-in-krunkel/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umzug_von: Kindergarten Horhausen
+  eroeffnung: 1998-06-02
+  neu_erbaut: ja
+  betreute_orte: Krunkel, Epgert, Obersteinebach, Willroth
+  anbau_spatensti: 2010-12-06
+  anbau_einweihung: 2012-09-09
+GUELTIG_AB: 1998
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: bad
+BEZEICHNUNG: Schwimmbad Krunkel (ehemaliges)
+FACETTE: FREIZEIT | GESCHICHTE
+QUELLE: https://www.gemeinde-krunkel.de/wir-in-krunkel/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Alois Becker aus Krunkel
+  freibad_eroeffnung: 1961
+  freibad_erste_saison: schlechtes Wetter ("ins Wasser gefallen")
+  umbau_zu: Hallenbad
+  betrieb_ende: vor 2014 (seit vielen Jahren nicht mehr genutzt)
+  abriss: 2014
+  abrisszweck: Platz für Pavilion-Neubau
+GUELTIG_AB: 1961
+GUELTIG_BIS: 2014
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: industriegebiet
+BEZEICHNUNG: Industriegebiet Horhausen/Willroth/Krunkel
+FACETTE: WIRTSCHAFT | INFRA
+QUELLE: https://www.gemeinde-krunkel.de/wirtschaft/gewerbeflaechen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: unmittelbar an Autobahn A3, Anschlussstelle Neuwied/Altenkirchen
+  bedeutung: zentrale Lage Europas, unschlagbare Verkehrsanbindung
+  bedeutung_for_ort: Wettbewerbsfähigkeit, Nähe zu Bonn/Köln/Ruhrgebiet und Rhein-Main
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: industriepark
+BEZEICHNUNG: Industriepark am Förderturm
+FACETTE: WIRTSCHAFT | INFRA
+QUELLE: https://www.gemeinde-krunkel.de/wirtschaft/gewerbeflaechen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Erweiterung des Industriegebietes
+  groesse_hektar: 8
+  beteiligung: Ortsgemeinden Krunkel und Willroth
+  besonderheit: Infrastruktur und Naturpark Rhein-Westerwald und Wiedtal verbunden
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Tambourchor Epgert / Obersteinebach
+FACETTE: KULTUR
+QUELLE: https://www.gemeinde-krunkel.de/wir-in-krunkel/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1948-03-25
+GUELTIG_AB: 1948
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Männerchor Krunkel
+FACETTE: KULTUR
+QUELLE: https://www.gemeinde-krunkel.de/wir-in-krunkel/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1948-03-25
+  auflosung: 1970
+GUELTIG_AB: 1948
+GUELTIG_BIS: 1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Verschönerungsverein Krunkel/Epgert
+FACETTE: KULTUR
+QUELLE: https://www.gemeinde-krunkel.de/wir-in-krunkel/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1971
+  aktivitaeten: Blockhütte 1976, Wettbewerb "Unser Dorf soll schöner werden"
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: SG Epgert-Obersteinebach-Krunkel e.V.
+FACETTE: KULTUR
+QUELLE: https://www.gemeinde-krunkel.de/wir-in-krunkel/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1975-11-23
+  typ: Fußballverein
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Sing- und Spinnstube Krunkel
+FACETTE: KULTUR
+QUELLE: https://www.gemeinde-krunkel.de/wir-in-krunkel/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1985
+  auflosung: 2012
+GUELTIG_AB: 1985
+GUELTIG_BIS: 2012
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Thomas Schug
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Krunkel | Wikipedia
+EIGENSCHAFTEN:
+  amtsbeginn: 2022-09
+  wiederwahl: 2024-06-09
+  wiederwahlstimmen_prozent: 94.5
+  wiederwahlmodus: Direktwahl
+  amtsdauer: 5 Jahre
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Werner Eul
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Krunkel | Wikipedia
+EIGENSCHAFTEN:
+  amtsbeginn: 2013-03
+  amtsende: 2021-09
+  wiederwahl: 2019-05-26
+  grund_amtsniederlegung: vorzeitige Niederlegung
+GUELTIG_AB: 2013
+GUELTIG_BIS: 2021
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Richard Lysun
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Krunkel | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Vorgänger von Werner Eul
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Hubert Oswald
+FACETTE: KULTUR | GESCHICHTE
+QUELLE: https://www.gemeinde-krunkel.de/wir-in-krunkel/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: Krunkel
+  aktivitaet: Sammlung und Archivierung von Gemeindegeschichte in Bild und Text
+  bedeutung_fuer_ort: erhält Wissen um geschichtliche Entwicklung für Nachwelt
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Kardinal Dr. Josef Höffner
+FACETTE: GESCHICHTE | KULTUR
+QUELLE: https://www.gemeinde-krunkel.de/freizeit-und-kultur/kirche.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsdatum: 1906-12-24
+  geburtsort: Horhausen
+  position_bei_einweihung: Bischof von Münster
+  kirchliche_handlung: Einweihung Herz-Jesu-Kirche Krunkel am 1964-06-14
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: naturpark
+BEZEICHNUNG: Naturpark Rhein-Westerwald
+FACETTE: LAGE
+QUELLE: https://www.gemeinde-krunkel.de/wir-in-krunkel/ortsportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung_fuer_ort: Einbettung Krunkels, hohe Lebensqualität, unverbrauchte Landschaften, Sehenswürdigkeiten, Feste, Traditionen
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: geopark
+BEZEICHNUNG: Geopark Westerwald-Lahn-Taunus
+FACETTE: LAGE | KULTUR
+QUELLE: https://www.gemeinde-krunkel.de/freizeit-und-kultur/devon-platz.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_national: nationaler Geopark
+  funktion: Unterstützung und fachliche Begleitung Themenweg Wasserweg
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Dorfgemeinschaftshaus Auf der Burg
+FACETTE: INFRA | FREIZEIT
+QUELLE: https://www.gemeinde-krunkel.de/freizeit-und-kultur/sport-und-freizeitanlagen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Auf der Burg 4, Krunkel-Epgert
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wettbewerb
+BEZEICHNUNG: Unser Dorf soll schöner werden
+FACETTE: KULTUR | POLITIK
+QUELLE: https://www.gemeinde-krunkel.de/wir-in-krunkel/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  teilnahme_ort: Krunkel
+  auszeichnung_datum: 1977-11-15
+  auszeichnung_ort: Landeshauptstadt Mainz
+  auszeichnung_resultat: Siegerehrung der Ortsgemeinde Krunkel
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: projekt
+BEZEICHNUNG: Willrother Berg
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://www.gemeinde-krunkel.de/wir-in-krunkel/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerort: Willroth
+  zusammenschluss: 2009-03-13
+  typ: gemeinschaftliches Projekt
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: projekt
+BEZEICHNUNG: Dorferneuerungsprogramm Krunkel
+FACETTE: KULTUR | INFRA
+QUELLE: https://www.gemeinde-krunkel.de/wir-in-krunkel/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschluss: 2012-03-07
+  planung_realisierung: 2014
+GUELTIG_AB: 2012
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: initiative
+BEZEICHNUNG: Erzählcafé Krunkel
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://www.gemeinde-krunkel.de/wir-in-krunkel/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 2014-07-14
+  initiator: Bürgerinitiative
+  ziel: miteinander ins Gespräch kommen, Menschen kennenlernen, aufeinander zugehen
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gemeinderat
+DESIGNNUNG: Gemeinderat Krunkel
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Krunkel | Wikipedia
+EIGENSCHAFTEN:
+  ratsmitglieder: 12
+  wahlmodus: Mehrheitswahl
+  wahltermin: 2024-06-09
+  vorsitz: ehrenamtlicher Ortsbürgermeister
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: flurbereinigung
+BEZEICHNUNG: Vereinfachtes Flurbereinigungsverfahren Horhausen-Willroth-Krunkel
+FACETTE: WIRTSCHAFT | INFRA
+QUELLE: https://www.gemeinde-krunkel.de/wir-in-krunkel/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anordnung: 2010-10-08
+  anordner: Dienstleistungszentrum Ländlicher Raum (DLR) Westerwald-Osteifel
+GUELTIG_AB: 2010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

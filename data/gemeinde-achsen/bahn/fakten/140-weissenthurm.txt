@@ -1,37 +1,758 @@
 ID: 140-weissenthurm/001
-ENTITÄT: stadtrat
+ENTITÄT: ort
+FACETTE: LAGE
 QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
 EIGENSCHAFTEN:
-  groesse: 24 Ratsmitglieder
-  leitung: ehrenamtlicher Stadtbürgermeister
-  wahl_2024: 9. Juni 2024 (personalisierte Verhältniswahl)
-  sitzverteilung_2024_spd: 4
-  sitzverteilung_2024_cdu: 9
-  sitzverteilung_2024_fdp: 0
-  sitzverteilung_2024_fwg: 11
-GUELTIG_AB: 2024
+  landkreis: Mayen-Koblenz
+  bundesland: Rheinland-Pfalz
+  lage_am_fluss: Linksrheinisch am Mittelrhein, an der Mündung der Nette in den Rhein
+  zwischen_staedten: Zwischen Andernach und Koblenz
+  gegenueber_von: Neuwied
+  liegt_in: Neuwieder Becken
+  verwaltungssitz: Verbandsgemeinde Weißenthurm
+  landesplanung: Grundzentrum
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 140-weissenthurm/002
-ENTITÄT: gemeinde_bildung
+ENTITÄT: fluss
+BEZEICHNUNG: Nette
+FACETTE: LAGE
+QUELLE: https://www.ich-geh-wandern.de/weißenthurm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 59 km
+  ursprung: Hohenleimbach im Brohltal
+  muendung: Rhein bei Weißenthurm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 140-weissenthurm/003
+ENTITÄT: bauwerk
+BEZEICHNUNG: Weißer Turm
+FACETTE: GESCHICHTE
+QUELLE: https://www.ich-geh-wandern.de/weißenthurm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1400-1410
+  genauigkeit_bauzeit: ca.
+  ort_im_ort: Altestraße
+  baustoff: Bruchstein
+  hoehe: 29 m
+  hoehe_genauigkeit: "knapp"
+  wanddicke_unten: 2 m
+  wanddicke_genauigkeit: "über"
+  geschosse: 4
+  verputz: hell, strahlend weiß
+  bautyp: Spätmittelalterlicher Wohn- und Zollturm
+  grenzposition: Grenze zwischen Kurtrier und Kurköln
+  funktion: Zollturm auf Handelsstraße von Mainz über Koblenz und Bonn nach Köln
+  erbaut_im_auftrag_von: Werner von Falkenstein, Erzbischof und Kurfürst von Trier
+  namensgeber: ja
+  bedeutung_fuer_ort: Wahrzeichen, Namensgeber der Stadt
+  heute: Eulenthurm-Museum (nach Vereinbarung besichtigbar)
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 140-weissenthurm/004
+ENTITÄT: kirche
+BEZEICHNUNG: St. Trinitatis (Pfarrkirche)
+FACETTE: KULTUR
+QUELLE: https://www.ich-geh-wandern.de/weißenthurm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: Römisch-katholisch
+  baustil: Frühklassizismus, Frühhistorismus
+  bautyp: Saalbau
+  erbaut: 1836-1839
+  grundsteinlegung: 1. Mai 1837
+  benediktion: 8. Oktober 1838
+  konsekration: 1. August 1844
+  benedizierende_person: Bischof Wilhelm Arnoldi
+  schutzpatrone: Heilige Dreifaltigkeit
+  architekt: Johann Claudius von Lassaulx
+  merkmale: Markanter Turm mit Wichhäuschen, Rundbogenportal
+  erweiterung: 1900
+  grundsteinlegung_erweiterung: 1. August 1900
+  architekt_erweiterung: Caspar Clemens Pickel
+  turmhoehe: 40 m
+  turmhoehe_ungefaehr: "ca."
+  markantes_zeichen: ja
+  taufstein_geschichte: Fürst Metternich wurde hier getauft; Stein stammt aus Koblenzer Liebfrauenkirche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 140-weissenthurm/005
+ENTITÄT: denkmal
+BEZEICHNUNG: Monument General Hoche
+FACETTE: GESCHICHTE
+QUELLE: https://www.ich-geh-wandern.de/weißenthurm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anlass: Rheinquerung der französischen Sambre- und Maas-Armee unter General Lazare Hoche am 18. April 1797
+  bezug_person: General Lazare Hoche besiegte Österreicher in Neuwied
+  baustil: Frühklassizistisch
+  lage: Frauenberg
+  superlativ: Größtes und ältestes französisches Monument in Deutschland
+  eigentuemer_seit: Französische Republik (seit 1798)
+  bedeutung_fuer_ort: Anziehungspunkt, Erinnerungsstätte an Kriegsereignis 1797
+GUELTIG_AB: 1797
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 140-weissenthurm/006
+ENTITÄT: bahnhof
+FACETTE: INFRA
 QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
 EIGENSCHAFTEN:
-  beschluss: Allerhöchster Beschluss vom 9. November 1865
-  zusammensetzung: Grundstücke aus Kettig, Kärlich, Andernach und Rheininsel
-  charakterisierung: legitimierte ein schon lange bestehendes Gemeinwesen
-GUELTIG_AB: 1865
+  eroeffnet: 1858
+  frueherer_name: "Neuwied, linksrheinischer Bahnhof", später "Neuwied-Weißenthurm"
+  name_aenderung: 1893 in "Weißenthurm" geändert
+  baustil: Klassizismus
+  bauweise: Zweistöckiger Putzbau, flankiert von ein- und zweistöckigen Anbauten
+  besonderheiten: Oberlichter mit Rundbögen, Raum für Fürstenhaus zu Wied, Wartesäle, Fahrkarten- und Expressgutschalter, Restaurant, Wohnungen für Bahnbedienstete
+  repraesentativ: ja
+  denkmalschutz: ja
+  verkauft: 1998 an Privatmann
+  zustand: Verfällt trotz Investitionen (Stand 2022)
+  linie: Linke Rheinstrecke
+  anbindung: Regelmäßige Verbindungen zu Koblenz und Köln
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 140-weissenthurm/007
+ENTITÄT: bruecke
+BEZEICHNUNG: Raiffeisenbrücke
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  eingeweiht: 1978
+  einweihnungsdatum: 28. September 1978
+  verbindung: Weißenthurm zu Neuwied (rechtsrheinisch)
+  bauweise: Sechsspurig
+  ersatz_fuer: Stahlbrücke von 1949
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 140-weissenthurm/008
+ENTITÄT: bruecke
+BEZEICHNUNG: Stahlbrücke (1934/1949)
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1934
+  baukosten: 3,5 Millionen Reichsmark
+  arbeiter: ca. 200
+  eingeweiht: 3. November 1935
+  benannt_nach: Hermann Göring (preußischer Ministerpräsident)
+  einweihung_anwesend: Hermann Göring, Robert Krups (Neuwieder Bürgermeister)
+  beschaedigung: 16. Januar 1945 durch Bomben zerstört (Brücke blieb weitgehend verschont)
+  wiederaufbau_behelfsbruecke: Sommer 1945 (Holz)
+  umbau_behelfsbruecke: 1946
+  zerstoerung_behelfsbruecke: Februar 1947 durch Eisgang
+  wiederherstellung: 9. Februar 1949 (in alter Form)
+  ersetzt_durch: Raiffeisenbrücke (1978)
+GUELTIG_AB: 1935
+GUELTIG_BIS: 1978
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 140-weissenthurm/009
+ENTITÄT: park
+BEZEICHNUNG: Nette-Park
+FACETTE: FREIZEIT
+QUELLE: https://www.ich-geh-wandern.de/weißenthurm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: An der Mündung der Nette in den Rhein
+  merkmale: Kleiner Weiher, Spazierweg zum Rheinufer
+  nutzung: Erholung, Spaziergang
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 140-weissenthurm/010
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bootshafen Weißenthurm
+FACETTE: INFRA
+QUELLE: https://www.ich-geh-wandern.de/weißenthurm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Am Rhein
+  funktion: Bootshafen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 140-weissenthurm/011
+ENTITÄT: insel
+BEZEICHNUNG: Weißenthurmer Werth (Rheininsel)
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  lage: Im Rhein vor Weißenthurm
+  erreichbarkeit: Über Rheinbrücke
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 ---
-ID: 140-weissenthurm/003
-ENTITÄT: pfarrei_geschichte
+ID: 140-weissenthurm/012
+ENTITÄT: kirche
+BEZEICHNUNG: St. Bartholomäus
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: Kettig
+QUELLE: https://www.ich-geh-wandern.de/weißenthurm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: Römisch-katholisch
+  pfarrkirche: ja
+  datierung: um 1470
+  turmform: Viereckig
+  turmhoehe: 35 m
+  besonderheiten: Seitenschiff mit quer gestellten Giebelddächern, wertvolle Fresken im Inneren
+  lage: Südliche Seite der Bundesstraße B 9
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 140-weissenthurm/013
+ENTITÄT: kirche
+BEZEICHNUNG: Friedhofskapelle
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: Kettig
+QUELLE: https://www.ich-geh-wandern.de/weißenthurm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1971
+  symbolik: Verbundenheit von Leben und Tod, Ewigkeit
+  bauweise: Ungewöhnliche Architektur
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 140-weissenthurm/014
+ENTITÄT: kirche
+BEZEICHNUNG: Paul-Schneider-Haus (Evangelisches Gemeindezentrum)
+FACETTE: KULTUR
 QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
 EIGENSCHAFTEN:
-  urspruengliche_zugehoerigkeit: Pfarrei Kärlich
-  aenderung_1808: an Pfarrei Kettig angegliedert
-  erhebung_zur_pfarrei: 1872
-  grund: neue größere Kirche nach Plänen Lassaulx 1836–1839 gebaut
+  konfession: Evangelisch
+  kirchenraum_name: Friedenskirche
+  erbaut: 1963-1965
+  fertigstellung: Herbst 1965
+  vorgaengerbau: Gloria-Kino
+  umgestaltung: 1963
+  sitzplaetze: 300
+  ausstattung: Sakristei, Unterrichts-, Garderoben- und Clubräume, Teeküche, 2 Wohnungen
+  glockenaufbau: Offene Betonkonstruktion über dem Portal (Genehmigung für Glockenturm abgelehnt)
+  vorangegangener_standort: Straße Pilau nahe am Rhein (1951/1952 erbaut)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 140-weissenthurm/015
+ENTITÄT: kirche
+BEZEICHNUNG: Erste katholische Kapelle
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1706-1707
+  baumeister: Matthias Zengerlein aus Gondorf (1707)
+  bauweise: Kleine Kapelle
+  laenge: ca. 8 m
+  breite: ca. 6 m
+  kapazitaet: 50-60 Personen
+  grund_neubau: Zu klein, baufällig geworden
+  nachfolgebau: St. Trinitatis (1836-1839)
+GUELTIG_AB: 1707
+GUELTIG_BIS: 1839
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 140-weissenthurm/016
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Fürst Metternich
+FACETTE: GESCHICHTE
+QUELLE: https://www.ich-geh-wandern.de/weißenthurm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  taufe_ort: St. Trinitatis, Weißenthurm (Taufstein)
+  geburt: 1773 in Koblenz
+  tod: 1859 in Wien
+  amt: Außenminister des Kaisertums Österreich
+  bedeutung: Bedeutender Akteur beim Wiener Kongress
+  politische_ausrichtung: Monarchische Ordnung, Restauration
+GUELTIG_AB: 1773
+GUELTIG_BIS: 1859
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 140-weissenthurm/017
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Claudius von Lassaulx
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  geboren: 1781
+  gestorben: 1848
+  beruf: Architekt, Baumeister, Bauinspektor
+  gebaeude_weissenthurm: Pfarrkirche St. Trinitatis (Plan und kostenlose Bauleitung)
+  stil: Frühhistorismus
+  bedeutung: Bedeutender Vertreter des Frühhistorismus, Stadtbaumeister
+  bauwerke_rheinland: Mehrere Gebäude im Rheinland, erkennbar an eingearbeiteten Rundbögen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 140-weissenthurm/018
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Bardo Weiß
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  geburt_in_weissenthurm: ja
+  geboren: 1934
+  gestorben: 2018
+  beruf: Theologieprofessor
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 140-weissenthurm/019
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Erich Syri
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  geburt_in_weissenthurm: ja
+  geboren: 1937
+  gestorben: 2022
+  beruf: Opernsänger
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 140-weissenthurm/020
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Helmut Müller
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  geburt_in_weissenthurm: ja
+  geboren: 1953
+  gestorben: 2011
+  beruf: Fußballspieler
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 140-weissenthurm/021
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karl-Dieter Hoffmann
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  geburt_in_weissenthurm: ja
+  geboren: 1950
+  beruf: Politikwissenschaftler, Hochschullehrer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 140-weissenthurm/022
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Norbert Alich
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  geburt_in_weissenthurm: ja
+  geboren: 1955
+  beruf: Kabarettist
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 140-weissenthurm/023
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Walter Ohm
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  geburt_in_weissenthurm: ja
+  geboren: 1958
+  beruf: Generalmajor
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 140-weissenthurm/024
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Christoph Anselm Noll
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  geburt_in_weissenthurm: ja
+  geboren: 1959
+  beruf: Musiker
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 140-weissenthurm/025
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Rudolf Bock
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  verbund_mit_weissenthurm: ja
+  geboren: 1924
+  gestorben: 2008
+  berufe: Landtagsabgeordneter, Bürgermeister von Weißenthurm
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 140-weissenthurm/026
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Werner Klein
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  verbund_mit_weissenthurm: ja
+  geboren: 1928
+  gestorben: 1985
+  berufe: Landtagsabgeordneter, Bürgermeister von Weißenthurm
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 140-weissenthurm/027
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Tobias Nickenig
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  verbund_mit_weissenthurm: ja
+  geboren: 1984
+  beruf: Fußballspieler
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 140-weissenthurm/028
+ENTITÄT: brauerei
+BEZEICHNUNG: Schultheis-Brauerei
+FACETTE: WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  groesse: Großbetrieb
+  bedeutung_historisch: Teil der "3B-Stadt" (Bims, Brauereien, Blechverarbeitung)
+  schicksal: Von Bitburger Brauerei aufgekauft und später geschlossen
+  bedeutung_fuer_ort: Ehemaliger Großbetrieb, Wirtschaftsfaktor
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 140-weissenthurm/029
+ENTITÄT: brauerei
+BEZEICHNUNG: Brauerei zur Nette (Nette-Brauerei)
+FACETTE: WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  gegruendet: 1849
+  bedeutung_historisch: Teil der "3B-Stadt"
+  eigentümer_ab_1938: Königsbacher Brauerei in Koblenz
+  schicksal_1: Königsbacher Brauerei ab 2010 Bitburger
+  schicksal_2: Insolvenz Koblenzer Brauerei; Nette Pils seither in Bitburg gebraut
+  bombenanschlag: 1. Januar 1945 schwerer Bombenanschlag, 87 Tote (viele in Kellern Zuflucht)
+  bedeutung_fuer_ort: Ehemaliger Großbetrieb, Wirtschaftsfaktor
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 140-weissenthurm/030
+ENTITÄT: industrie
+BEZEICHNUNG: Bimsindustrie Weißenthurm
+FACETTE: WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  bedeutung_historisch: Teil der "3B-Stadt", prägender Industriezweig
+  status: Verschwunden
+  grund: Rohstoff Bims in der Region Weißenthurm weitgehend abgebaut
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 140-weissenthurm/031
+ENTITÄT: industrie
+BEZEICHNUNG: Blechverpackungsindustrie/Blechverarbeitung
+FACETTE: WIRTSCHAFT
+QUELLE: https://weissenthurm.de/index.php/wirtschaft | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  unternehmen: Ball Packaging, Impress (ehemals Schmalbach-Lubeca)
+  bedeutung_historisch: Teil der "3B-Stadt"
+  status_aktuell: Größter Gewerbesteuerzahler (Großbetrieb)
+  bedeutung_fuer_ort: Wirtschaftsfaktor, prägende Industrie
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 140-weissenthurm/032
+ENTITÄT: gewerbeflaechen
+FACETTE: WIRTSCHAFT
+QUELLE: https://weissenthurm.de/index.php/wirtschaft | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Kleinere Gewerbegebiete
+  verfuegbarkeit: Noch Flächen zur Verfügung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 140-weissenthurm/033
+ENTITÄT: stadt_verwaltung
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  stadtrechte_verliehen: 25. Juni 1966
+  stadtrat_groesse: 24 Ratsmitglieder
+  stadtrat_vorsitz: Ehrenamtlicher Stadtbürgermeister
+  wahlart: Personalisierte Verhältniswahl
+  letzte_wahl: 9. Juni 2024
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 140-weissenthurm/034
+ENTITÄT: stadtbuergermeister
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  name: Johannes Juchem
+  partei: FWG
+  amtsantritt: 25. Juli 2024
+  wahlart: Direktwahl
+  wahltermin: 9. Juni 2024
+  stimmenanteil: 64,4 %
+  gegenkandidat_partei: CDU
+  wahlbeteiligung: 45,9 %
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 140-weissenthurm/035
+ENTITÄT: vorgaenger_stadtbuergermeister
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  name: Gerd Heim
+  partei: CDU
+  amtsdauer: ca. 14 Jahre
+  kandidatur_2024: Nein
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 140-weissenthurm/036
+ENTITÄT: beigeordneter
+BEZEICHNUNG: Cedrik Klein
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  funktion: 1. Beigeordneter
+  partei: CDU
+  amtsantritt: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 140-weissenthurm/037
+ENTITÄT: beigeordneter
+BEZEICHNUNG: Karl-Heinz Schmalenbach
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Weiterer Beigeordneter
+  partei: SPD
+  amtsantritt: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 140-weissenthurm/038
+ENTITÄT: wappen
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Stilisierter weißer Turm auf rotem tulpenförmig geschwungenem Schild
+  flanke_rechts: Weißes Wappen mit rotem Kreuz von Kurtrier
+  flanke_links: Weißes Wappen mit schwarzem Kreuz von Kurköln
+  genehmigt: 21. August 1935
+  genehmigung_behoerde: Oberpräsident der Rheinprovinz
+  ergaenzung: Stadtmauer in Gold (für 1966 verliehene Stadtrechte)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 140-weissenthurm/039
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Courrières
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: Pas-de-Calais, Nordfrankreich
+  typ: Kleinstadt
+  partnerschaft_seit: 1975
+  partnerschaft_mit: Weißenthurm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 140-weissenthurm/040
+ENTITÄT: freiwillige_feuerwehr
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  gegruendet: 1898
+  traegerschaft: Verbandsgemeinde Weißenthurm
+  einsaetze_jaehrlich: über 120
+  einsatzgebiet: Stadtgebiet Weißenthurm und gesamte Verbandsgemeinde
+  mannschaftsstaerke: ca. 50 Kameraden
+  fahrzeuge: Kommandowagen (KdoW), 2× Hilfeleistungslöschgruppenfahrzeuge (HLF20), Drehleiter mit Korb (DL(A)K), Wechselladerfahrzeug mit Kran (WLF-K), 2× Mehrzweckfahrzeuge (MZF)
+  boot: Mehrzweckboot (MZB) mit Jetantrieb (für Rheineinsätze)
+  leitstelle: Feuerwehreinsatzzentrale (FEZ) am Stierweg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 140-weissenthurm/041
+ENTITÄT: umweltzug
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  name: Umweltzug VG Weißenthurm
+  aufgabe: Katastrophenschutz für einen Sektor des Landkreises Mayen-Koblenz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 140-weissenthurm/042
+ENTITÄT: sportverein
+BEZEICHNUNG: BSV Weißenthurm
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Fußball
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 140-weissenthurm/043
+ENTITÄT: sportverein
+BEZEICHNUNG: Turnverein 1868 e.V. Weißenthurm
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  gegruendet: 5. Juni 1868
+  genehmigung: Bürgermeisteramt
+  sportarten: Laufsport, Leichtathletik, Radfahren, Seniorensport, Turnen für Kinder und Jugendliche
+  frauenaufnahme: Ab 1924
+  kriegsverluste: 26 Mitglieder nach WWII
+  aktivitaetsverbot_nachkrieg: Bis 1950 untersagt
+  erweiterung_1976: Taekwondo-Abteilung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 140-weissenthurm/044
+ENTITÄT: schulen
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Zwei Schulen
+  schule_1_typ: Grundschule
+  schule_1_ort: Breslauer Straße
+  schule_2_typ: Realschule plus (ehemals Hauptschule)
+  schule_2_ort: Kirchstraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 140-weissenthurm/045
+ENTITÄT: kirche
+BEZEICHNUNG: Mennoniten-Brüdergemeinde
+FACETTE: KULTUR
+QUELLE: https://weissenthurm.de/index.php/adressen/kirchengemeinden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: Mennonitisch
+  adresse: Am Nette-Gut 27
+  gottesdienstzeit: Sonntag 09:30 Uhr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 140-weissenthurm/046
+ENTITÄT: gebetshaus
+BEZEICHNUNG: Deutsch-/Türkischer Kulturverein
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  lage: Obere Fährstraße
+  funktion: Gebetshaus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 140-weissenthurm/047
+ENTITÄT: stadtgeschichte_ereignis
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Marktrechtsverleihung
+  jahr: 1663
+  verliehen_von: Trierer Erzbischof und Kurfürst Karl Kaspar von der Leyen
+  folge: Name "Weißenthurm" seit damals bekannt
+  vorheriger_name: Platzenborn
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 140-weissenthurm/048
+ENTITÄT: stadtgeschichte_ereignis
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Gründung als selbstständige Gemeinde
+  jahr: 1865
+  referenz: "Allerhöchstem Beschluss vom 9. November 1865"
+  territorial: Grundstücke aus Kettig, Kärlich, Andernach und Rheininsel
+  beschreibung: Legitimation eines schon lange bestehenden Gemeinwesens
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 140-weissenthurm/049
+ENTITÄT: stadtgeschichte_ereignis
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Zur Pfarrei erhoben
+  jahr: 1872
 GUELTIG_AB: 1872
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 140-weissenthurm/050
+ENTITÄT: stadtgeschichte_ereignis
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Bombenangriff auf Weißenthurm
+  datum: 1. Januar 1945
+  beschreibung: Schwerster Bombenangriff
+  ziele: Brücke und Umgebung
+  tote: 87 Personen
+  besonderheit: Viele suchten Schutz in Kellern der Brauerei zur Nette
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 140-weissenthurm/051
+ENTITÄT: konfessionsstatistik
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  stand_2005: "30. Juni 2005"
+  katholisch_2005: 52,6 %
+  evangelisch_2005: 18,7 %
+  konfessionslos_sonstige_2005: 28,7 %
+  stand_2025: "31. Juli 2025"
+  katholisch_2025: 31,3 %
+  evangelisch_2025: 12,1 %
+  konfessionslos_sonstige_2025: 56,7 %
+  trend: Anteil evangelischer und katholischer Kirchenmitglieder sinkt
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 140-weissenthurm/052
+ENTITÄT: bevoelkerung
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_2012: 8298
+  einwohner_2015: 8894
+  einwohner_2020: 9191
+  einwohner_2024: 9020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 140-weissenthurm/053
+ENTITÄT: verkehrsanbindung
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  bundesstrassen: B 9, B 256
+  bahnhof: Ja, an linker Rheinstrecke
+  bahnverbindungen: Regelmäßige Anbindung zu Koblenz und Köln
+  rheinschifffahrt: Anleger vorhanden
+  bruecke: Raiffeisenbrücke nach Neuwied
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9

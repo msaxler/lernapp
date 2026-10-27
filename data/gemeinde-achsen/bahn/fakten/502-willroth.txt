@@ -1,0 +1,269 @@
+ID: 502-willroth/001
+ENTITÄT: ort
+BEZEICHNUNG: Willroth
+FACETTE: LAGE
+QUELLE: https://www.vg-altenkirchen-flammersfeld.de/gemeinde-politik/uebersicht-ortsgemeinden/willroth | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 300-402 m ü. NHN
+  verwaltungsebene: Ortsgemeinde
+  landkreis: Altenkirchen (Westerwald)
+  grenzlandkreis: Neuwied
+  bundesland: Rheinland-Pfalz
+  region: Nördliches Rheinland-Pfalz
+  lage_westerwald: Höhen des Westerwaldes
+  naturpark: Rhein-Westerwald
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 502-willroth/002
+ENTITÄT: ort
+BEZEICHNUNG: Willroth
+FACETTE: GESCHICHTE
+QUELLE: https://www.vg-altenkirchen-flammersfeld.de/gemeinde-politik/uebersicht-ortsgemeinden/willroth | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: Lautverschiebung aus Bezeichnung für Grenze oder Grenzort
+  namensherkunft_genauigkeit: vermutlich
+  erste_urkundliche_erwaehnung: 1338
+  erste_urkundliche_erwaehnung_kontext: Urkunde, in der Graf von Isenburg mit Herrschaft Horhausen belehnt wird
+  herrschaft_1595: Isenburg (kurtrierisch), Niedere und Obere Grafschaft Wied
+  herrschaft_1664_1803: Kurfürstentum Trier, Amt Herschbach
+  herrschaft_1803_1806: Fürstentum Nassau-Weilburg
+  herrschaft_1806_1815: Herzogtum Nassau
+  herrschaft_ab_1815: Königreich Preußen
+  regierungsbezirk_ab_1815: Koblenz
+  verwaltung_bis_1927: Bürgermeisterei Flammersfeld
+  verwaltung_ab_1927: Amt Flammersfeld
+  verbandsgemeindebehoerde_seit: 1968 (Verbandsgemeinde Flammersfeld, später Altenkirchen-Flammersfeld)
+  bergbaugeschichte_enddatum: 29. März 1965
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 502-willroth/003
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen von Willroth
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Willroth | Wikipedia
+EIGENSCHAFTEN:
+  struktur: Dreigeteilt (in Anlehnung an rheinland-pfälzisches Wappen)
+  blasonierung: In Silber eine eingebogenen rote Spitze, darin eine goldbebutzte, silberne Rose, vorne ein durchgehendes rotes Kreuz, hinten eine schwarze Froschlampe mit goldener Flamme
+  element_rotes_kreuz_bedeutung: Kurtrierisches Wappen, jahrhundertelange Zugehörigkeit zum Kurfürstentum Trier
+  element_rotes_kreuz_begruendung: Trierisches Hoheitsgebiet mit Willrother Gemarkung grenzte an wiedisches Gebiet
+  element_froschlampe_bedeutung: Erinnerung an jahrhundertealten Eisenerzbergbau bis 1965
+  element_rose_bedeutung: Attribut der hl. Theresia von Lisieux, Kirchen- und Ortspatronin
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 502-willroth/004
+ENTITÄT: industriedenkmal
+BEZEICHNUNG: Grube Georg
+FACETTE: GESCHICHTE
+QUELLE: https://www.vg-altenkirchen-flammersfeld.de/gemeinde-politik/uebersicht-ortsgemeinden/willroth | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Eisenerzbergbau
+  betrieb_bis: 1965
+  betrieb_bis_exakt: 29. März 1965
+  bedeutung_bergbauregion: Eine der bedeutendsten Gruben im siegerländisch-wiedischen Eisenerzbergbau
+  erkennungszeichen: Fördergerüst (von weitem sichtbar)
+  bedeutung_fuer_ort: Zeuge und Prägung der langen Bergbaugeschichte Willroths
+  ausflugsziel: Ja
+  besichtigungen_moeglich: Ja
+  besichtigungen_durch: Ortsgemeinde, BIW (Bürgerinitiative Willroth), Förderverein Bergbau- und Hüttentradition
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 502-willroth/005
+ENTITÄT: kirche
+BEZEICHNUNG: St. Theresa
+FACETTE: GESCHICHTE
+QUELLE: https://www.vg-altenkirchen-flammersfeld.de/gemeinde-politik/uebersicht-ortsgemeinden/willroth | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  patronin_heilige: Theresia von Lisieux
+  rolle: Kirchen- und Ortspatronin
+  wappensymbol: Silberne Rose auf rotem Grund
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 502-willroth/006
+ENTITÄT: denkmal
+BEZEICHNUNG: Weißer Stein
+FACETTE: GESCHICHTE
+QUELLE: https://www.vg-altenkirchen-flammersfeld.de/gemeinde-politik/uebersicht-ortsgemeinden/willroth | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_erhaltung: Noch erhalten
+  funktion_1595: Grenzpunkt, wo drei Landeshoheiten aufeinandertreffen (Isenburg, Niedere und Obere Grafschaft Wied)
+  funktion_ab_1816: Grenzstein zwischen Kreis Altenkirchen und Neuwied (Regierungsbezirk Koblenz)
+GUELTIG_AB: 1595
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 502-willroth/007
+ENTITÄT: buergermeister
+BEZEICHNUNG: Wilfried Schiefer
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Willroth | Wikipedia
+EIGENSCHAFTEN:
+  titel: Ortsbürgermeister
+  amtsantritt: 20. Juli 2022
+  wiederwahl: 9. Juni 2024
+  stimmenanteil_wiederwahl: 76.5%
+  amtsdauer_ab_2024: 5 Jahre
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 502-willroth/008
+ENTITÄT: buergermeister
+BEZEICHNUNG: Richard Schmitt
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Willroth | Wikipedia
+EIGENSCHAFTEN:
+  titel: Ortsbürgermeister (Vorgänger)
+  amtsantritt: 2003
+  waehlerbestaetigung_19_mai_2019: 79.84%
+  amtsende: 31. März 2021
+  grund_amtsende: Amtsniederlegung zum Zeitpunkt der Landtagswahl 2021
+GUELTIG_AB: 2003
+GUELTIG_BIS: 2021
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 502-willroth/009
+ENTITÄT: beigeordneter
+BEZEICHNUNG: Karl Kubba
+FACETTE: POLITIK
+QUELLE: https://www.vg-altenkirchen-flammersfeld.de/gemeinde-politik/uebersicht-ortsgemeinden/willroth | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Erster Beigeordneter
+  stellvertretung_monate: ca. 16 Monate (14. März 2021 bis 20. Juli 2022)
+  vertretungsgrund: Amtsgeschäfte während Vakanz des Bürgermeisters
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 502-willroth/010
+ENTITÄT: gemeinderat
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Willroth | Wikipedia
+EIGENSCHAFTEN:
+  anzahl_mitglieder: 12
+  vorsitz: Ortsbürgermeister (ehrenamtlich)
+  wahlsystem: Mehrheitswahl
+  letzte_wahl: 9. Juni 2024
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 502-willroth/011
+ENTITÄT: buergerinitiative
+BEZEICHNUNG: BIW (Bürgerinitiative Willroth)
+FACETTE: ALLTAG
+QUELLE: https://www.vg-altenkirchen-flammersfeld.de/gemeinde-politik/uebersicht-ortsgemeinden/willroth | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fokus: Erhaltung und Besichtigungen des Förderturms (Grube Georg)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 502-willroth/012
+ENTITÄT: verein_foerderung
+BEZEICHNUNG: Förderverein Bergbau- und Hüttentradition in der Verbandsgemeinde Altenkirchen-Flammersfeld
+FACETTE: ALLTAG
+QUELLE: https://www.vg-altenkirchen-flammersfeld.de/gemeinde-politik/uebersicht-ortsgemeinden/willroth | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fokus: Erhaltung und Besichtigungen des Förderturms der Grube Georg
+  vorsitzender: Fred Jüngerich (auch Bürgermeister)
+  massnahmen_2024: Verzicht auf Außenbeleuchtung des Förderturms (Energiesparen)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 502-willroth/013
+ENTITÄT: sportverein
+BEZEICHNUNG: FC Willroth
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Willroth | Wikipedia
+EIGENSCHAFTEN:
+  veranstaltung: Sportfest
+  veranstaltungsrhythmus: Zwei-Jahres-Rhythmus (abwechselnd mit Dorffest)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 502-willroth/014
+ENTITÄT: fest
+BEZEICHNUNG: Dorffest
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Willroth | Wikipedia
+EIGENSCHAFTEN:
+  veranstaltungsrhythmus: Zwei-Jahres-Rhythmus (abwechselnd mit Sportfest des FC Willroth)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 502-willroth/015
+ENTITÄT: fest
+BEZEICHNUNG: Karneval
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Willroth | Wikipedia
+EIGENSCHAFTEN:
+  bekanntheitsgrad: Weit über die Grenzen Willroths hinaus bekannt
+  teilnehmer_ungefaehr: Hunderte Fastnachtsjecken
+  rhythmus: Jährlich
+  bedeutung_fuer_ort: Überörtlicher Anziehungspunkt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 502-willroth/016
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bundesautobahn 3 (Köln–Frankfurt)
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Willroth | Wikipedia
+EIGENSCHAFTEN:
+  ausfahrt: Neuwied-Altenkirchen (36)
+  bedeutung_fuer_ort: Verkehrsgünstige Lage
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 502-willroth/017
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bundesstraße 256
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Willroth | Wikipedia
+EIGENSCHAFTEN:
+  bedeutung_fuer_ort: Verkehrsgünstige Lage
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 502-willroth/018
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Landesstraße 270
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Willroth | Wikipedia
+EIGENSCHAFTEN:
+  bedeutung_fuer_ort: Verkehrsgünstige Lage
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 502-willroth/019
+ENTITÄT: bahninfrastruktur
+BEZEICHNUNG: Schnellfahrstrecke Köln–Rhein/Main
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Willroth | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Überleitstelle in unmittelbarer Nähe zu Willroth
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 502-willroth/020
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Naturpark Rhein-Westerwald
+FACETTE: LAGE
+QUELLE: https://www.vg-altenkirchen-flammersfeld.de/gemeinde-politik/uebersicht-ortsgemeinden/willroth | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_willroth: Gemarkung von Willroth liegt im Naturpark
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 502-willroth/021
+ENTITÄT: wirtschaft
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Willroth | Wikipedia
+EIGENSCHAFTEN:
+  betriebstypen: Zahlreiche kleinere Handwerks- und Dienstleistungsbetriebe
+  besonderheit_gewerbegebiet: Größere Betriebe in Gewerbegebiet, Nähe zur Bundesautobahn 3
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

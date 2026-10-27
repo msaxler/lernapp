@@ -1,0 +1,312 @@
+ENTITÄT: ort
+FACETTE: LAGE | GESCHICHTE | POLITIK
+BEZEICHNUNG: Straßenhaus
+QUELLE: https://de.wikipedia.org/wiki/Straßenhaus | Wikipedia
+EIGENSCHAFTEN:
+  typ: Ortsgemeinde
+  landkreis: Neuwied
+  bundesland: Rheinland-Pfalz
+  verbandsgemeinde: Rengsdorf-Waldbreitbach
+  naturraum: Naturpark Rhein-Westerwald
+  lage_relativ: nördlich von Rengsdorf
+  ortsteile: Niederhonnefeld, Ellingen, Jahrsfeld, Jahrsfeldermühlen (Wohnplatz)
+  gründungsdatum: 1966-08-01
+  gründung_aus: Gemeinden Jahrsfeld und Niederhonnefeld-Ellingen
+  namensherkunft: "Straßenhaus – benannt nach dem Haus der Familie Reinhard an der Horhäuser Straße, das Anfang 17. Jahrhundert erbaut wurde; 1817 war der heutige Ort Straßenhaus noch ein Teil von Jahrsfeld"
+  grenzort: "bis 1803 Grenzort zwischen Grafschaft Wied und Kurfürstentum Trier"
+  fremdenverkehr_beginn: um 1900
+  kurbetrieb_start: 1911
+  denkmalgeschützte_fachwerkhäuser: "in allen Ortsteilen vorhanden"
+  einwohner_2025: 1995
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+FACETTE: LAGE | GESCHICHTE
+BEZEICHNUNG: Niederhonnefeld
+QUELLE: https://de.wikipedia.org/wiki/Straßenhaus | Wikipedia
+EIGENSCHAFTEN:
+  status: Ortsteil
+  vereinigung_mit_ellingen: 1845
+  grund_vereinigung: "Einführung der Preußischen Landgemeindeordnung für die Rheinprovinz"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+FACETTE: LAGE | GESCHICHTE
+BEZEICHNUNG: Ellingen
+QUELLE: https://de.wikipedia.org/wiki/Straßenhaus | Wikipedia
+EIGENSCHAFTEN:
+  status: Ortsteil
+  vereinigung_mit_niederhonnefeld: 1845
+  grund_vereinigung: "Einführung der Preußischen Landgemeindeordnung für die Rheinprovinz"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+FACETTE: LAGE
+BEZEICHNUNG: Jahrsfeld
+QUELLE: https://de.wikipedia.org/wiki/Straßenhaus | Wikipedia
+EIGENSCHAFTEN:
+  status: Ortsteil
+  historische_bedeutung: "1817 war Straßenhaus noch ein Teil von Jahrsfeld"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+FACETTE: LAGE
+BEZEICHNUNG: Jahrsfeldermühlen
+QUELLE: https://de.wikipedia.org/wiki/Straßenhaus | Wikipedia
+EIGENSCHAFTEN:
+  status: Wohnplatz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_bürgermeister
+FACETTE: POLITIK
+BEZEICHNUNG: Holger Drees
+QUELLE: https://de.wikipedia.org/wiki/Straßenhaus | Wikipedia
+EIGENSCHAFTEN:
+  amt: Ortsbürgermeister
+  wahl_datum: 2024-06-09
+  amtsantritt: 2024-07-02
+  stimmenanteil: 82.4 %
+  amtszeit: 5 Jahre
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person_bürgermeister
+FACETTE: POLITIK
+BEZEICHNUNG: Birgit Haas
+QUELLE: https://de.wikipedia.org/wiki/Straßenhaus | Wikipedia
+EIGENSCHAFTEN:
+  amt: Ortsbürgermeisterin
+  amtszeit_gesamt: 15 Jahre
+  amtsende: 2024
+  nicht_erneut_angetreten: true
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gemeinderat
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Straßenhaus | Wikipedia
+EIGENSCHAFTEN:
+  mitgliederzahl: 16
+  zusammensetzung: 16 Ratsmitglieder plus Ortsbürgermeister als Vorsitzender
+  wahl_datum: 2024-06-09
+  wahlsystem: personalisierte Verhältniswahl
+  wahlperiode: 5 Jahre
+  sitzvergabe_2024: "Grüne 3, WGR 0, WGB 7, WGS 6"
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Straßenhaus | Wikipedia
+BEZEICHNUNG: Grundschule Straßenhaus
+EIGENSCHAFTEN:
+  schulbau_beschluss: 1929
+  schulbau_kosten: 78000 RM
+  schulbetrieb_start: 1931
+  schulreform: 1973
+  hauptschule_aufgelöst: 1973
+GUELTIG_AB: 1931
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bad
+FACETTE: FREIZEIT
+BEZEICHNUNG: Naturschwimmbad Niederhonnefeld
+ORTSTEIL_BEZUG: Niederhonnefeld
+QUELLE: https://de.wikipedia.org/wiki/Straßenhaus | Wikipedia
+EIGENSCHAFTEN:
+  lage: am Höllsbach
+  zweckverband_gründung: 1927
+  zweckverband_grund: Kurbetrieb
+  garderobenhaus: 1928
+  nichtschwimmerbecken: 1930
+  nichtschwimmerbecken_kosten: 3000 RM
+  erweiterungen_ab: 1968
+  erweiterungen_details: Vorwärmbecken, Schlamm- und Rückhaltebecken, Kinderplanschbecken
+  bedeutung_fuer_ort: Freizeit- und Kureinrichtung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: markt
+FACETTE: ALLTAG | FREIZEIT
+BEZEICHNUNG: Jahrfelder Markt
+QUELLE: https://de.wikipedia.org/wiki/Straßenhaus | Wikipedia
+EIGENSCHAFTEN:
+  mundartlicher_name: Jorschelder Moat
+  termin: jährlich erster Donnerstag im September
+  erstmalige_erwähnung: 1707
+  erstmalige_erwähnung_form: urkundlich
+  markthändler_anzahl: ca. 200
+  bedeutung_fuer_ort: traditionsreicher Markt mit Waren aller Art
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: telegrafenstation
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Straßenhaus | Wikipedia
+EIGENSCHAFTEN:
+  typ: optisch-mechanische Telegrafenstation
+  lage: Jahrsfelder Anhöhe
+  betrieb: 1832-1852
+  stationsnummer: 57
+  telegrafenlinie: Berlin–Coblenz
+  betreiber: Preußen
+  ersatz: elektromagnetische Verbindung
+  geschwindigkeit_depesche: innerhalb weniger Stunden von Station zu Station
+  geschwindigkeit_zeitsignal: wenige Minuten
+  bedeutung_fuer_ort: "Teil des Gemeindewappens; Symbol für technische Moderne und Fortschritt"
+GUELTIG_AB: 1832
+GUELTIG_BIS: 1852
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: naturdenkmal
+FACETTE: LAGE | FREIZEIT
+BEZEICHNUNG: Baumgruppe Marktplatz
+QUELLE: https://de.wikipedia.org/wiki/Straßenhaus | Wikipedia
+EIGENSCHAFTEN:
+  typ: Baumgruppe
+  denkmalnummer: ND-7138-435
+  bestanteile: alte Eichen
+  bedeutung_fuer_ort: Symbol der waldreichen Umgebung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: naturdenkmal
+FACETTE: LAGE | FREIZEIT
+BEZEICHNUNG: Stangenstein
+QUELLE: https://de.wikipedia.org/wiki/Straßenhaus | Wikipedia
+EIGENSCHAFTEN:
+  typ: Felsformation
+  denkmalnummer: ND-7138-436
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: naturdenkmal
+FACETTE: LAGE | FREIZEIT
+BEZEICHNUNG: Hangeley
+QUELLE: https://de.wikipedia.org/wiki/Straßenhaus | Wikipedia
+EIGENSCHAFTEN:
+  typ: Felsformation
+  denkmalnummer: ND-7138-440
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: partnergemeinde
+FACETTE: POLITIK
+BEZEICHNUNG: Ellingen (Bayern)
+QUELLE: https://de.wikipedia.org/wiki/Straßenhaus | Wikipedia
+EIGENSCHAFTEN:
+  lage: Bayern
+  partnerschaft_seit: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: partnergemeinde
+FACETTE: POLITIK
+BEZEICHNUNG: Hohenberg-Krusemark
+QUELLE: https://de.wikipedia.org/wiki/Straßenhaus | Wikipedia
+EIGENSCHAFTEN:
+  lage: Sachsen-Anhalt, Landkreis Stendal
+  partnerschaft_seit: 1996-11
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wappen
+FACETTE: GESCHICHTE | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Straßenhaus | Wikipedia
+EIGENSCHAFTEN:
+  rechtsgültig_seit: 1980-04-29
+  designer: Rudolf Rabs, Straßenhaus
+  beschreibung: "Schräglinks geteilt von Grün und Gold; oben ein goldener Eichenzweig mit zwei Blättern und einer linksseitigen Eichel; unten ein wachsender schwarzer, optisch-mechanischer Telegraph mit sechs Flügeln auf einem niedrigen schwarzen Turm mit Geländerplattform und Anbau rechts, in beiden je ein offenes Fenster"
+  symbol_eiche: "alte Eichen auf dem Marktplatz und waldreiche Umgebung"
+  symbol_telegraph: "Telegrafenstation Nr. 57 (1832–1852)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: verkehrsanbindung
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Straßenhaus | Wikipedia
+EIGENSCHAFTEN:
+  bundesstrasse: 256
+  autobahn: 3
+  schnellfahrstrecke: Köln–Rhein/Main
+  nächster_bahnhof: Montabaur
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gasthof
+FACETTE: GESCHICHTE | ALLTAG
+BEZEICHNUNG: Gasthof zur Post
+QUELLE: https://de.wikipedia.org/wiki/Straßenhaus | Wikipedia
+EIGENSCHAFTEN:
+  spätere_bezeichnung: Hotel zur Post
+  eröffnung_kurbetrieb: 1911
+  bedeutung_fuer_ort: Auslöser der Entwicklung von Straßenhaus zum Kurort
+GUELTIG_AB: 1911
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: haus
+FACETTE: GESCHICHTE
+BEZEICHNUNG: Haus der Familie Reinhard
+QUELLE: https://de.wikipedia.org/wiki/Straßenhaus | Wikipedia
+EIGENSCHAFTEN:
+  erbauung: Anfang 17. Jahrhundert
+  besitzer_herkunft: Familie Reinhard aus der wied-runkelischen Herrschaft
+  lage: unmittelbare Nähe des heutigen Marktplatzes
+  funktion: Gasthaus und Zollstation
+  historische_bedeutung: Ausgangspunkt für die Namengebung und Entwicklung Straßenhaus' zum Ort
+  grenzpunkt_bis: 1803
+  grenze_zwischen: Grafschaft Wied und Kurfürstentum Trier
+GUELTIG_BIS: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9

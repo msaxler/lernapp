@@ -145,7 +145,9 @@ def ort_holen(slug, cfg):
         try:
             su, sh = holen(start)
             protokoll['start'] = su
-            urls = hand + [u for u in kandidaten(su, sh) if u not in hand]
+            # "nur_seiten": nur die gesetzten Seiten lesen, keine Menü-Kandidaten der Startseite (2026-10-26, Essener
+            # Stadtteile: sonst füllen stadtweite essen.de-Seiten jede Stadtteil-Quelle auf)
+            urls = hand if cfg.get('nur_seiten') else hand + [u for u in kandidaten(su, sh) if u not in hand]
             gelesen = []
             for u in urls:
                 if len(gelesen) >= MAX_SEITEN:

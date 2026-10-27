@@ -1,0 +1,646 @@
+ZIELORT: Rellinghausen (Ortsteil von Essen)
+LAGE: Stadtteil von Essen, 4 km südöstlich der Stadtmitte (Luftlinie)
+ARTIKEL: Rellinghausen
+
+GRUNDDATEN:
+  landkreis: Stadtkreis Essen — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P131]
+  bundesland: Nordrhein-Westfalen — GILT FÜR DIE GEMEINDE ESSEN  [über die Gemeinde]
+  flaeche_km2: 1,4  [Wikidata P2046]
+  kfz: E (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P395]
+  hoehe_m: 79 | 107 — MEHRERE WERTE  [Wikidata P2044; Altbestand geo.sqlite (GeoNames 2848339)]
+  naechste_grossstadt: Essen, 4 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Düsseldorf, 30 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  eingemeindung: 1910-04-01  [dewiki Infobox]
+  plz: 45134  [Wikidata P281]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,5 %, SPD 22,2 %, AfD 17 %, GRÜNE 12,4 %, Die Linke 9,5 %; Wahlbeteiligung 80,1 % — GILT FÜR DIE GEMEINDE ESSEN  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 82,2 % im Bundesland (Ort 80,1 %, Abstand 2,1 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+ZEUGEN (OpenStreetMap, Gemeindegrenze; belegt nur, dass es die Sache gibt):
+  Burg/Denkmal: Personaltor der Zeche Gottfried Wilhelm
+  Burg/Denkmal: Förderrad
+  Schutzgebiet: Heisinger Ruhraue (seit 1983)
+  Gewässer: Ruhr
+  Freizeit: Schloß Schellenberg
+  Museum: Historische Sammlung der Ruhrwasserwirtschaft
+  Museum: Kunsthaus Essen
+  Radweg: Ruhrtalradweg (230 km)
+  Radweg: Deutsche Fußball Route NRW (Mitte)
+  Radweg: Bahntrassenweg Grugaweg
+  Wanderweg: Zugangsweg zum Ruhrhöhenweg (9 km)
+  Wanderweg: Raute10 Hugo-Kracht-Weg
+  Wanderweg: Rundweg A1 (Schellenberger Wald) (3 km)
+  Wanderweg: Kulturhistorischer Rundweg Rellinghausen
+
+PLAN:
+  Karte 1: FACETTE ALLTAG (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 2
+  Karte 2: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 3
+  Karte 3: FACETTE FREIZEIT (Ersatz: ALLTAG), Geschichte, A, wahre Option an Stelle 4
+  Karte 4: FACETTE INFRA (Ersatz: LAGE), Geschichte, D, wahre Option an Stelle 1
+  Karte 5: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, A, wahre Option an Stelle 2
+  Karte 6: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, B, Lüge an Stelle 3
+  Karte 7: FACETTE LAGE, Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung, C, wahre Spanne an Stelle 4
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je ein weiteres Charakteristikum, Facette frei, Familie A, B oder D, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Bergerhausen (Ortsteil von Essen)
+  landkreis: Stadtkreis Essen — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P131]
+  flaeche_km2: 3,34  [Wikidata P2046]
+  kfz: E (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P395]
+  hoehe_m: 110 | 118 — MEHRERE WERTE  [Wikidata P2044; Altbestand geo.sqlite (GeoNames 2950590)]
+  naechste_grossstadt: Essen, 3 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,5 %, SPD 22,2 %, AfD 17 %, GRÜNE 12,4 %, Die Linke 9,5 %; Wahlbeteiligung 80,1 % — GILT FÜR DIE GEMEINDE ESSEN  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 82,2 % im Bundesland (Ort 80,1 %, Abstand 2,1 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+FAHRT: Wiehre, Waldsee, Altstadt, Stühlinger, Neuburg, Herdern, Zähringen, Brühl, Oberau, Haslach, Sankt Georgen, Vauban, Weingarten, Betzenhausen, Mooswald, Landwasser, Lehen, Rieselfeld, Dietenbach, Opfingen, Tiengen, Munzingen, Waltershofen, Ebnet, Littenweiler, Kappel, Merzhausen, Au, Horben, Günterstal, Ebringen, Schallstadt, Bad Krozingen, Staufen, Heitersheim, Müllheim, Waldkirch, Hochdorf, Gundelfingen, Denzlingen, Glottertal, March, Umkirch, Gottenheim, Merdingen, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Vogtsburg, Oberrotweil, Achkarren, Burkheim, Bischoffingen, Bickensohl, Oberbergen, Schelingen, Sasbach, Leiselheim, Wyhl, Forchheim, Breisach, Gündlingen, Niederrimsingen, Oberrimsingen, Kirchzarten, Stegen, St. Peter, St. Märgen, Oberried, Buchenbach, Höllental, Hinterzarten, Breitnau, Titisee, Titisee-Neustadt, Feldberg, Schluchsee, Lenzkirch, Eisenbach, Friedenweiler, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Neuwied, Altwied, Rengsdorf, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Bonefeld, Straßenhaus, Oberhonnefeld-Gierend, Willroth, Horhausen, Hümmerich, Krunkel, Breitscheid, Kloster Marienhaus, Wolfenacker, Kupferdreh, Überruhr, Bergerhausen, Rellinghausen, Stadtwald, Fischlaken, Werden, Burgaltendorf, Steele, Byfang, Rüttenscheid, Bredeney, Huttrop, Kettwig, Schuir, Heidhausen, Haarzopf, Margarethenhöhe, Südostviertel, Freisenbruch
+
+FAKTEN (Zielort Rellinghausen):
+ID: 421-rellinghausen/001
+ENTITÄT: ort
+BEZEICHNUNG: Rellinghausen
+FACETTE: LAGE | GESCHICHTE | ALLTAG | POLITIK
+QUELLE: https://www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Südosten der Stadt Essen, an der Ruhr
+  ist_stadtteil: true
+  einwohner: 3600
+  genauigkeit_einwohner: "ca."
+  rangstellung: zu den kleinsten Stadtteilen Essens
+  historischer_rang: zu den ältesten Stadtteilen Essens
+  geschichte_reicht_zurueck: 860
+  charakteristikum: reicher Bestand an erhaltenen Bau- und Bodendenkmälern
+  wohnstandort_typ: gehobener Wohnstandort
+  flair: dörflich
+GUELTIG_AB: 860
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 421-rellinghausen/002
+ENTITÄT: ort
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: Der Name leitet sich vom Siedlungsgründer Ruold ab; erstmals 943 als "Ruolding-hus" urkundlich erwähnt
+  erste_urkundliche_erwahnung: 943
+  eingemeindung_zu_essen: 1. April 1910
+GUELTIG_AB: 943
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 421-rellinghausen/003
+ENTITÄT: stift
+BEZEICHNUNG: Frauenstift Rellinghausen
+FACETTE: GESCHICHTE | LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 996 oder 998 (laut Überlieferung)
+  gruenderin: Äbtissin Mathilde
+  zweck: Stift für Töchter des Dienstadels
+  oberste_wuerdentragerin: Pröpstin
+  prägung_des_ortes: 800 Jahre
+  befestigung: Stiftbezirk mit Stiftskirche und Stiftshäusern von Mauer umgrenzt
+  aufloesung: 1802
+  bedeutung_fuer_ort: prägte Geschicke des Ortes über 800 Jahre
+  superlativ: "Damenstift mit über 800-jähriger Wirkungsdauer"
+GUELTIG_AB: 996
+GUELTIG_BIS: 1802
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 421-rellinghausen/004
+ENTITÄT: kirche
+BEZEICHNUNG: Sankt Lambertus
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://de.wikipedia.org/wiki/Rellinghausen | Wikipedia
+EIGENSCHAFTEN:
+  standort_heute: Am Glockenberg 31
+  erste_kirche_um: 750
+  zweiter_kirchbau: 11./12. Jahrhundert, dreischiffige romanische Pfeilerbasilika
+  abriss_basilika: 1822
+  umbenennung: 1634 von St. Jakob zu St. Lambertus
+  grund_umbenennung: Spanische Reitertruppen im Dreißigjährigen Krieg 1621-1622
+  neuer_bau_bauzeit: 1826-1829
+  stilrichtung: klassizistischer Saalbau mit neoromanischem Westturm
+  architekten: Otto von Gloeden, Karl Friedrich Schinkel (Mitwirkung)
+  einweihung: 1852
+  schaeden_weltkrieg: brannte im Zweiten Weltkrieg aus
+  wiederherstellung: 1949 erneut geweiht
+  besonderheit: Taufstein etwa 1000 Jahre alt
+GUELTIG_AB: 750
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ID: 421-rellinghausen/005
+ENTITÄT: kapelle
+BEZEICHNUNG: Sankt Annen-Kapelle
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Sankt Annental
+  erbauung: frühes 18. Jahrhundert
+  grund_erbauung: erinnert an Hostienraub am 25. Juli 1516
+  historischer_anlass: Säckchen mit geweihten Hostien von Schäfer im Dornenstrauch am Rellinghauser Mühlenbach gefunden
+  prozession_jaehrlich: ja, am St.-Annen-Tag von Kapelle zur St.-Lambertus-Kirche
+  prozession_dauer: seit über 500 Jahren
+GUELTIG_AB: 1701
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 421-rellinghausen/006
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Hostienraub
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://de.wikipedia.org/wiki/Rellinghausen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 25. Juli 1516
+  ort: Stiftskirche Sankt Lambertus
+  anlass: Kirchweihfest zu Ehren des Apostels Jakobus
+  gegenstand: Säckchen mit geweihten Hostien
+  fundort: Mühlental (heute Annental)
+  finder: Schäfer
+  folge: legendenhafte Ausschmückung, Kapellenbau, jährliche Prozession
+  nächstes_ereignis_1932: 71. Deutscher Katholikentag im St.-Annen-Tal (31. August - 5. September)
+GUELTIG_AB: 1516
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 421-rellinghausen/007
+ENTITÄT: gerichtsturm
+BEZEICHNUNG: Blücherturm
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Am Stift 9
+  erbauung: 1567
+  erbauer: Wilhelm von Eyll, damaliger Stiftsvogt
+  umwandlung: bestehender steinerner Turm zum Gerichtsturm umgebaut
+  funktion_hexenprozesse: Schauplatz von Hexenprozessen 1571-1595
+  weitere_funktionen: Gefängnis und Folterkammer
+  namensgeber: Spitzname des letzten Bewohners, Polizist dem Marshall von Blücher ähnelnd
+GUELTIG_AB: 1567
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 421-rellinghausen/008
+ENTITÄT: hexenprozesse
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1579-1591
+  ort: Gerichtsturm (Blücherturm)
+  opfer: 42 Menschen
+  hinrichtungsort: Galgenberg (heute Schillerwiese)
+  ritual_erinnerung: Straßenname "Hexentaufe" erinnert an damit verbundenes Ritual
+GUELTIG_AB: 1579
+GUELTIG_BIS: 1591
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 421-rellinghausen/009
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Schellenberg
+FACETTE: GESCHICHTE | LAGE | FREIZEIT
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Renteilichtung 1
+  erste_erwaehnung: 12. Jahrhundert als Burg
+  ursprungsform: steinerner Wohnturm, von Wasser umschlossen
+  kaufdatum: 28. August 1452
+  kaeufer: Johann von den Vitingchave gen. Schele
+  kaufpreis: 1100 Rheinische Gulden
+  entwicklung: über Generationen zur heutigen Anlage ausgebaut
+  eigentuemergeschichte: Familie Vittinghoff-Schell über 650 Jahre
+  auswanderung_grund: Verärgerung über Zeche Gottfried Wilhelm in unmittelbarer Nähe
+  auswanderung_jahr: 1909
+  neue_residenz: Schloss Kalbeck bei Goch
+  besonderheit: Nachfahren bis 1994 auf Rellinghauser Friedhof bestattet
+GUELTIG_AB: 1452
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 421-rellinghausen/010
+ENTITÄT: brunn
+BEZEICHNUNG: Schillerbrunnen
+FACETTE: FREIZEIT | GESCHICHTE
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  location: Stadtwald
+  einweihung: 1905
+  anlass: 100. Todestag Friedrich Schiller
+  bildhauer: Fritz Behn
+GUELTIG_AB: 1905
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 421-rellinghausen/011
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Gottfried Wilhelm
+FACETTE: GESCHICHTE | WIRTSCHAFT
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  abteufen: 1833
+  standort: heutige Rellinghauser Straße
+  produkt: Steinkohle, zeitweilig auch Eisenstein
+  bedeutung_fuer_ort: Teil der Großzechen-Zeit, prägte Industrialisierung
+  verbund: 1972 verbunden mit Heisinger Zeche Karl Funke
+  stilllegung: 1972
+GUELTIG_AB: 1833
+GUELTIG_BIS: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 421-rellinghausen/012
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Ludwig
+FACETTE: GESCHICHTE | WIRTSCHAFT
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  abteufen: 1833
+  standort: heutige Rellinghauser Straße
+  produkt: Steinkohle
+  stilllegung: 1966
+GUELTIG_AB: 1833
+GUELTIG_BIS: 1966
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 421-rellinghausen/013
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Langenbrahm
+FACETTE: GESCHICHTE | WIRTSCHAFT
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  folgte_nach: Zeche Ludwig
+  stilllegung: 1966
+GUELTIG_AB: 1833
+GUELTIG_BIS: 1966
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 421-rellinghausen/014
+ENTITÄT: kolonie
+BEZEICHNUNG: Gottfried-Wilhelm-Kolonie
+FACETTE: GESCHICHTE | ALLTAG
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://de.wikipedia.org/wiki/Rellinghausen | Wikipedia
+EIGENSCHAFTEN:
+  baubeginn: 1908
+  lage: Zwischen Frankenstraße und Schellenberger Wald
+  oberhalb: der Ruhr, links der Frankenstraße
+  architekt: Oskar Schwer
+  baukonzept: zahlreiche Auszeichnungen erhalten, Gartenstadtcharakter mit kleinteiliger Bebauung in offener Bauweise
+  hausgruppen: 13
+  denkmalschutz_schulhaus: ehemaliges Schulhaus seit 1986 Kulturinitiative "Kunsthaus"
+  grund_entstehung: Zeche Gottfried Wilhelm Abteufen
+GUELTIG_AB: 1908
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 421-rellinghausen/015
+ENTITÄT: museum
+BEZEICHNUNG: Kunsthaus Essen
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Rübezahlschule (denkmalgeschützt)
+  gruendung: seit 1986
+  charakteristikum: Kulturinitiative für junge Kunst in Essen
+  bedeutung_fuer_ort: bedeutsam für junge Kunst in Essen
+  weiterenutzer: Mütter- und Familienzentrum Essen (MüZe e.V.)
+GUELTIG_AB: 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 421-rellinghausen/016
+ENTITÄT: sammlung
+BEZEICHNUNG: Historische Sammlung der Ruhrwasserwirtschaft
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Museum zu Ruhrwasserwirtschaft
+IST_VERMUTATIV_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.60
+---
+ID: 421-rellinghausen/017
+ENTITÄT: wald
+BEZEICHNUNG: Schellenberger Wald
+FACETTE: FREIZEIT | LAGE
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  naturschutzgebiet: Hülsenhaine
+  nutzung: ausgedehnte Spaziergänge
+  wanderwege: mehrere
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 421-rellinghausen/018
+ENTITÄT: gewaesser
+BEZEICHNUNG: Ruhr
+FACETTE: LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_rellinghausen: Rellinghausen liegt an der Ruhr
+  bedeutung_wappen: blaue Wellenbalken im Wappen stehen für Lage an der Ruhr
+  nutzung_freizeit: Lage lädt zum Radfahren ein
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 421-rellinghausen/019
+ENTITÄT: radweg
+BEZEICHNUNG: Ruhrtalradweg
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 230 km
+  nutzung: ehemalige Bahntrassen laden zum Radfahren ein
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 421-rellinghausen/020
+ENTITÄT: wanderweg
+BEZEICHNUNG: Rundweg A1
+FACETTE: FREIZEIT
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  gebiet: Schellenberger Wald
+  laenge: 3 km
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.50
+---
+ID: 421-rellinghausen/021
+ENTITÄT: wanderweg
+BEZEICHNUNG: Hugo-Kracht-Weg (Raute10)
+FACETTE: FREIZEIT
+QUELLE: ZEUGEN (OpenStreetMap)
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.50
+---
+ID: 421-rellinghausen/022
+ENTITÄT: wanderweg
+BEZEICHNUNG: Kulturhistorischer Rundweg Rellinghausen
+FACETTE: FREIZEIT
+QUELLE: ZEUGEN (OpenStreetMap)
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.50
+---
+ID: 421-rellinghausen/023
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Rellinghausen
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://de.wikipedia.org/wiki/Rellinghausen | Wikipedia
+EIGENSCHAFTEN:
+  erste_kirche: 1654 kleine Holzkirche auf Gemeindegrundstück
+  erste_kirche_dimension: 15m lang, 11m breit, 6,5m hoch
+  zweite_kirche_grundstein: 8. April 1772
+  zweite_kirche_einweihung: 1775
+  zweite_kirche_abriss: 1934
+  heutige_kirche: 1934/1935 errichtet
+  denkmalschutz_seit: 1997
+  grund_neubau_1935: Infolge Industrialisierung stieg Zahl Gemeindemitglieder von ca. 800 auf 8000
+  stilrichtung: typischer Vertreter des damaligen "neuen Bauens", Elemente klassischer Bauformen und Bauhaus-Ideen
+  standort_heute: Oberstraße
+GUELTIG_AB: 1654
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 421-rellinghausen/024
+ENTITÄT: hospiz
+BEZEICHNUNG: Alte Dorfschänke (Hospiz)
+FACETTE: GESCHICHTE | ALLTAG
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1487
+  gruender: Cord von Vittinghoff-Schell und Frau Bate von Stael-Holstein
+  zweck: Hospiz für "arme und gebrechliche Leute, wandernde Scholaren und Pilger"
+  heutige_nutzung: Gaststätte unter dem Namen "Alte Dorfschänke"
+GUELTIG_AB: 1487
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 421-rellinghausen/025
+ENTITÄT: stiftshaus
+BEZEICHNUNG: Altes Stiftshaus
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Stiftplatz 1
+  ursprung: ehemaliges Konventsgebäude des Stiftes Rellinghausen
+  erbaueungszeit: 16. Jahrhundert
+  besonderheit: beeindruckendes Kellergewölbe
+  heutige_nutzung: Restaurant
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 421-rellinghausen/026
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus Rellinghausen
+FACETTE: INFRA | GESCHICHTE
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://de.wikipedia.org/wiki/Rellinghausen | Wikipedia
+EIGENSCHAFTEN:
+  standort: Frankenstraße (ehemalige Provinzialstraße)
+  architekt: Friedrich Kunhenn
+  finanzierung: Verkaufserlös des Gebietes um Spillenburg (Kreuzung Spillenburg-/Westfalenstraße)
+  bezug: 1. November 1877
+  denkmalschutz: ja
+  nachnutzung_seit_2016: Gesellschaft für Soziale Dienstleistungen Essen (GSE), Aufgabe Tagespflege
+  grund_neubau: Gemeinde Rellinghausen wurde 1876 eigenständige Bürgermeisterei
+GUELTIG_AB: 1877
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 421-rellinghausen/027
+ENTITÄT: buergermeister
+BEZEICHNUNG: Joseph Sartorius
+FACETTE: POLITIK | GESCHICHTE
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://de.wikipedia.org/wiki/Rellinghausen | Wikipedia
+EIGENSCHAFTEN:
+  geburtsyahr: 1842
+  sterbejahr: 1910
+  amt: Bürgermeister von Rellinghausen
+  amtsantritt: 1876
+  amtsende: 1910
+  besonderheit: einziger Bürgermeister der eigenständigen Bürgermeisterei
+  dauer: 34 Jahre
+GUELTIG_AB: 1876
+GUELTIG_BIS: 1910
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 421-rellinghausen/028
+ENTITÄT: adliges_geschlecht
+BEZEICHNUNG: Familie Vittinghoff-Schell
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://de.wikipedia.org/wiki/Rellinghausen | Wikipedia
+EIGENSCHAFTEN:
+  ansaessigkeit_dauer: über 650 Jahre
+  ansaessigkeit_zeitraum: ca. 1250-1909
+  erste_erwaehnung: 1247 als Heinrich von Vittinghoff, Burgmann
+  wohnsitz_ab_1452: Schloss Schellenberg
+  abwanderung: 1909
+  grund_abwanderung: Verärgerung über Zechenbau Gottfried Wilhelm in unmittelbarer Nähe des Schlosses
+  neue_residenz: Schloss Kalbeck bei Goch
+  wohlfahrtstaetigkeiten: Schulstiftung 1678, Hospiz 1487, Glashütte 1723
+  stammfamilie_ausgestorben: 1994
+  nachbestaettung_familiengruft: bis zum Aussterben auf Rellinghauser Friedhof
+GUELTIG_AB: 1247
+GUELTIG_BIS: 1909
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 421-rellinghausen/029
+ENTITÄT: schulstiftung
+FACETTE: GESCHICHTE | INFRASTRUKTUR
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://de.wikipedia.org/wiki/Rellinghausen | Wikipedia
+EIGENSCHAFTEN:
+  gruender: Franz von Vittinghoff-Schell
+  gruendungsjahr: 1678
+  betrag: 600 Reichstaler
+  zweck: Sicherung der Anstellung eines Lehrers mit Orgeldienst
+  wirkung: erste Volksschule, garantierter Unterricht für alle Kinder des Stiftbezirks
+  schulgebaeude: Fachwerkhaus neben der Stiftskirche
+GUELTIG_AB: 1678
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 421-rellinghausen/030
+ENTITÄT: strasse
+BEZEICHNUNG: Frankenstraße
+FACETTE: INFRA | ALLTAG
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://de.wikipedia.org/wiki/Rellinghausen | Wikipedia
+EIGENSCHAFTEN:
+  namengebung: 1910
+  vorherige_namen: Steeler- oder Rellinghauser Straße
+  verlauf: führt über Essen-Stadtwald bis nach Bredeney ins ehemalige Fränkische Reich
+  funktion_heute: verbindet Rellinghausen mit Stadtteil Stadtwald, Einkaufsstraße
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 421-rellinghausen/031
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Heisinger Ruhraue
+FACETTE: LAGE
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  schutzstatus: seit 1983
+GUELTIG_AB: 1983
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.50
+---
+ID: 421-rellinghausen/032
+ENTITÄT: wappe
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://de.wikipedia.org/wiki/Rellinghausen | Wikipedia
+EIGENSCHAFTEN:
+  blason: In Silber rotes Kreuz über rechtsschrägen blauen Wellenbalken
+  herkunft: 17. Jahrhundert, erstellt von Äbtissin von Essen in ihrer Eigenschaft als Reichsfürstin
+  positionierung: im rechten unteren Viertel des Schildes von Stift Essen
+  symbolik_kreuz: christliche Funktion des ehemaligen adligen Damenstiftes
+  symbolik_wellenbalken: Lage an der Ruhr
+  wappenkuenstler: Kurt Schweder
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 421-rellinghausen/033
+ENTITÄT: buergermeisterei
+FACETTE: GESCHICHTE | POLITIK
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://de.wikipedia.org/wiki/Rellinghausen | Wikipedia
+EIGENSCHAFTEN:
+  bestand_von: 1876
+  bestand_bis: 1910
+  zusammensetzung: Gemeinde Rellinghausen mit Bauerschaften Heide und Bergerhausen, Landgemeinde Heisingen, südliche Spitze Gemeinde Huttrop
+  einwohner_1885: 10150
+  einwohner_1910: 17977
+  grund_eingemeindung: selbständige Finanzierung nicht mehr möglich, dringend neue Infrastruktur gebraucht
+  eigenstaendige_finanzierung: nicht mehr moeglich
+GUELTIG_AB: 1876
+GUELTIG_BIS: 1910
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 421-rellinghausen/034
+ENTITÄT: sportanlage
+BEZEICHNUNG: Bezirkssportanlage Am Krausen Bäumchen
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umbau_abschluss: 28.09.2026
+  beschreibung: umfangreicher Umbau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 421-rellinghausen/035
+ENTITÄT: sportverein
+BEZEICHNUNG: Essener Sportclub Rellinghausen 06 e.V.
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Gottfried-Wilhelm Straße 10
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.60
+---
+ID: 421-rellinghausen/036
+ENTITÄT: sportverein
+BEZEICHNUNG: TV Rellinghausen
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Am Glockenberg 1
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.60
+---
+ID: 421-rellinghausen/037
+ENTITÄT: bruderschaft
+BEZEICHNUNG: 1. R.K.G. Rellinghausen Gemütlichkeit
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Sartoriusstraße 67
+  charakteristikum: Brauchtum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.60
+---
+ID: 421-rellinghausen/038
+ENTITÄT: galerie
+BEZEICHNUNG: Galerie 09
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Rellinghausen
+QUELLE: https://www.essen.de/dasistessen/stadtteile/rellinghausen_1/rellinghausen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Eisenbahnstraße 9
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.60
+

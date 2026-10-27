@@ -1,0 +1,932 @@
+ZIELORT: Heisingen (Ortsteil von Essen)
+LAGE: Stadtteil von Essen, 7 km südöstlich der Stadtmitte (Luftlinie)
+ARTIKEL: Heisingen
+
+GRUNDDATEN:
+  landkreis: Stadtkreis Essen — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P131]
+  bundesland: Nordrhein-Westfalen — GILT FÜR DIE GEMEINDE ESSEN  [über die Gemeinde]
+  flaeche_km2: 6,83  [Wikidata P2046]
+  kfz: E (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P395]
+  hoehe_m: 89 | 91  [Wikidata P2044; Altbestand geo.sqlite (GeoNames 2907135)]
+  naechste_grossstadt: Essen, 7 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Düsseldorf, 29 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  eingemeindung: 1929-08-01  [dewiki Infobox]
+  plz: 45259  [Wikidata P281]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,5 %, SPD 22,2 %, AfD 17 %, GRÜNE 12,4 %, Die Linke 9,5 %; Wahlbeteiligung 80,1 % — GILT FÜR DIE GEMEINDE ESSEN  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 82,2 % im Bundesland (Ort 80,1 %, Abstand 2,1 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+ZEUGEN (OpenStreetMap, Gemeindegrenze; belegt nur, dass es die Sache gibt):
+  Freizeit: Nachbildung eines Stollenmundloches
+  Freizeit: Stollenmundloch mit Lore am Verladebereich
+  Freizeit: Ehemalige Schleuse "Rote Mühle"
+  Freizeit: Sportgemeischaft Ruhr 1929 e.V.
+  Freizeit: Seglerkameradschaft Essen Heisingen - SKEH
+  Freizeit: Betriebs-Sport-Gemeinschaft Stadtwerke Essen AG e.V.
+  Freizeit: Schachtanlage Carl Funke 1
+  Freizeit: Yachtclub Ruhrland Essen
+  Aussicht: Korteklippe
+  Sportstätte: Jugendhalle
+  Burg/Denkmal: Fliegerdenkmal (seit 1918)
+  Burg/Denkmal: Carl Funke Denkmal
+  Burg/Denkmal: Barbaraglocke
+  Burg/Denkmal: Heinrich Hildebrandt (seit 2017)
+  Burg/Denkmal: Adam Mieczyslav Januszewski
+  Schutzgebiet: Heisinger Ruhraue (seit 1983)
+  Schutzgebiet: Vogelschutzgebiet Heisinger Bogen
+  Schutzgebiet: NSG Hülsenhaine im Schellenberger Wald
+  Gewässer: Ruhr
+  Museum: Bergbau- und Heimatmuseum im Paulushof
+  Betrieb: Regenüberlaufbecken Obere Aue
+  Radweg: Ruhrtalradweg (230 km)
+  Radweg: Deutsche Fußball Route NRW (Mitte)
+  Wanderweg: Raute10 Hugo-Kracht-Weg
+  Wanderweg: Rundweg A2 (Schellenberger Wald) (5 km)
+  Wanderweg: GeoRoute Ruhr (185 km)
+  Wanderweg: Bergischer Weg
+  Wanderweg: BaldeneySteig (seit 2017, 26.7 km)
+  Bildung: Universität Duisburg-Essen
+
+PLAN:
+  Karte 1: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 2
+  Karte 2: FACETTE FREIZEIT (Ersatz: ALLTAG), Geschichte, D, wahre Option an Stelle 3
+  Karte 3: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, A, wahre Option an Stelle 4
+  Karte 4: FACETTE ALLTAG (Ersatz: FREIZEIT), Geschichte, D, wahre Option an Stelle 1
+  Karte 5: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 2
+  Karte 6: FACETTE INFRA (Ersatz: LAGE), Geschichte, B, Lüge an Stelle 2
+  Karte 7: FACETTE LAGE, Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Höhe des Orts), C, wahre Spanne an Stelle 4
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je ein weiteres Charakteristikum, Facette frei, Familie A, B oder D, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Hattingen (Stadt)
+  einwohner: 52.969  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 71,67  [Wikidata P2046; Altbestand staedte.json]
+  kfz: WIT (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 88 | 90 | 100 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2909230)]
+  naechste_grossstadt: Bochum, 9 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Hattingen (Ruhr)  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 28,9 %, SPD 23 %, AfD 17 %, GRÜNE 12,2 %, Die Linke 6,9 %; Wahlbeteiligung 82,7 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 82,2 % im Bundesland (Ort 82,7 %, Abstand 0,5 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+FAHRT: Wiehre, Waldsee, Altstadt, Stühlinger, Neuburg, Herdern, Zähringen, Brühl, Oberau, Haslach, Sankt Georgen, Vauban, Weingarten, Betzenhausen, Mooswald, Landwasser, Lehen, Rieselfeld, Dietenbach, Opfingen, Tiengen, Munzingen, Waltershofen, Ebnet, Littenweiler, Kappel, Merzhausen, Au, Horben, Günterstal, Ebringen, Schallstadt, Bad Krozingen, Staufen, Heitersheim, Müllheim, Waldkirch, Hochdorf, Gundelfingen, Denzlingen, Glottertal, March, Umkirch, Gottenheim, Merdingen, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Vogtsburg, Oberrotweil, Achkarren, Burkheim, Bischoffingen, Bickensohl, Oberbergen, Schelingen, Sasbach, Leiselheim, Wyhl, Forchheim, Breisach, Gündlingen, Niederrimsingen, Oberrimsingen, Kirchzarten, Stegen, St. Peter, St. Märgen, Oberried, Buchenbach, Höllental, Hinterzarten, Breitnau, Titisee, Titisee-Neustadt, Feldberg, Schluchsee, Lenzkirch, Eisenbach, Friedenweiler, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Neuwied, Altwied, Rengsdorf, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Bonefeld, Straßenhaus, Oberhonnefeld-Gierend, Willroth, Horhausen, Hümmerich, Krunkel, Breitscheid, Kloster Marienhaus, Wolfenacker, Kupferdreh, Überruhr, Bergerhausen, Rellinghausen, Stadtwald, Fischlaken, Werden, Burgaltendorf, Steele, Byfang, Rüttenscheid, Bredeney, Huttrop, Kettwig, Schuir, Heidhausen, Haarzopf, Margarethenhöhe, Südostviertel, Freisenbruch
+
+FAKTEN (Zielort Heisingen):
+ID: 360-heisingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Heisingen
+FACETTE: LAGE | GESCHICHTE | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: auf der Ruhrhalbinsel, eingerahmt durch Baldeneysee und Schellenberger Wald
+  stadtteil_von: Essen
+  charakteristika: Wohn- und Ausflugsort im Grünen, dörfliche Atmosphäre
+  einwohner: 12815 | Stand 31.03.2025
+  flaeche_eingerahmt_durch: Baldeneysee (westlich), Schellenberger Wald
+  benannt_nach: Lichtung im Buchenwald (Heissiwald), erwähnt in Römerzeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 360-heisingen/002
+ENTITÄT: ort
+FACETTE: GESCHICHTE | POLITIK
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwähnung: 796 | Geschenk an Liudger von Heinrich von der Ruhr
+  namensherkunft: von Holzgewinnung, Zaun, umzäunter Wald, Busch
+  zugehörigkeit_abtei_werden: ca. 1000 Jahre
+  abtei_werden_beleg: 875 | Weihe der Werdener Basilika
+  eigenstaendige_gemeinde_von: 1910
+  eigenstaendige_gemeinde_bis: 1929 | 1. August
+  eingemeindung_essen: 1. August 1929
+  buergermeister_1: Emil Hagmann | 1. April 1910 – 18. Oktober 1919
+  buergermeister_2: Hugo ten Hövel | 1920 – 1. August 1929
+GUELTIG_AB: 796
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 360-heisingen/003
+ENTITÄT: gewässer
+BEZEICHNUNG: Baldeneysee
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: westlich von Heisingen, Ruhr geht westlich darin über
+  bedeutung_fuer_ort: lädt zu Sport oder Naherholung ein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 360-heisingen/004
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Heisinger Ruhraue
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  status_seit: 2004 | Naturschutzgebiet
+  groesse: 150 | Hektar (ca.)
+  lage: an der Spitze der Heisinger Halbinsel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 360-heisingen/005
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Vogelschutzgebiet Heisinger Bogen
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  bedeutung: zahlreichen selten gewordenen Vogelarten Rückzugsraum
+  lage: an der Spitze der Heisinger Halbinsel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 360-heisingen/006
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Schellenberger Wald
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  lage: westlich und nördlich von Heisingen, Heisinger Bach bildet Grenze
+  status: Naturschutzgebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 360-heisingen/007
+ENTITÄT: bauwerk_historisch
+BEZEICHNUNG: Haus Heisingen
+FACETTE: GESCHICHTE | LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: rechtes Ufer der Ruhr
+  aelteste_bausubstanz: 12. Jahrhundert
+  status: Privatbesitz, denkmalgeschützt
+  urkundliche_ersterwähnung: 796
+  bedeutung_historisch: Sommerresidenz der Äbte der Abtei Werden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 360-heisingen/008
+ENTITÄT: denkmal
+BEZEICHNUNG: Fliegerdenkmal
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis: Absturz eines Staaken-Flugzeugs (Zeppelin R.VI)
+  jahr_ereignis: 1918
+  todesopfer: 7 | Besatzungsmitglieder
+  grund_absturz: dichter Nebel
+  zweck_denkmal: Andenken an tote Besatzungsmitglieder
+GUELTIG_AB: 1918
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 360-heisingen/009
+ENTITÄT: bergwerk
+BEZEICHNUNG: Zeche Carl Funke
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entdeckung_kohle: Ende 16. Jahrhundert
+  bergbautyp: zunächst oberflächlicher Bergbau, später Stollen
+  entwicklung: Anfang 20. Jahrhundert Zusammenlegung von Kleinzechen unter Carl Funke
+  groesste_auslastung_jahr: 1954
+  groesste_auslastung_mitarbeiter: 2450
+  groesste_auslastung_foerdermenge: 617000 | Tonnen
+  hoechste_auslastung_dekade: 1950er Jahre | 2500 Mitarbeiter
+  stilllegung: 1973
+  bedeutung_fuer_ort: wichtigster Arbeitgeber, prägt Siedlungsentwicklung
+  beschreibung_entwicklung: Kohle konnte über die Ruhr verschifft werden
+GUELTIG_AB: Ende 16. Jahrhundert
+GUELTIG_BIS: 1973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 360-heisingen/010
+ENTITÄT: denkmal_industrie
+BEZEICHNUNG: Förderturm des Steinkohlebergwerks Carl Funke
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Lanfermannfähre 40
+  typ: Industriedenkmal
+  status: von Renaturierung ausgeschlossen
+  beschreibung: einer von ehemals zwei Fördertürmen
+  zweck: Erinnerung an die Bergbauvergangenheit Heisingens
+  zeche: Carl Funke
+  stilllegung_zeche: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 360-heisingen/011
+ENTITÄT: bauwerk
+BEZEICHNUNG: Altes Rathaus Heisingen
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Hagmanngarten 5
+  erbaut: 1910-1911
+  ortskern: ja
+  sehenswert: Ratssaal mit drei Gemälden (Emil Hagmann, Hugo ten Hövel, Carl Funke)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 360-heisingen/012
+ENTITÄT: bauwerk
+BEZEICHNUNG: Jugendhalle Heisingen
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Bahnhofstr. 8
+  erbaut: 1915
+  besonderheit: beeindruckende Außenfassade
+  denkmalschutz: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 360-heisingen/013
+ENTITÄT: wanderweg
+BEZEICHNUNG: Denkmalpfade
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Entdeckungstouren entlang der Denkmalpfade zu Sehenswürdigkeiten
+  bedeutung: besondere Highlights neben Natur
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 360-heisingen/014
+ENTITÄT: museum
+BEZEICHNUNG: Bergbau- und Heimatmuseum im Paulushof
+FACETTE: FREIZEIT | GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Altenzentrum Paulushof der evangelischen Kirchengemeinde Essen-Heisingen
+  initiator: damaliger Pfarrer Werner Hamacher
+  bedeutung_fuer_ort: besonderes Highlight des Stadtteils
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 360-heisingen/015
+ENTITÄT: aussichtspunkt
+BEZEICHNUNG: Korte-Klippe
+FACETTE: FREIZEIT | LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Heisinger Str. 254
+  lage: nahe des Jagdhauses Schellenberg im Schellenberger Wald
+  aussicht: wunderschöner Blick über Baldeneysee und die Stadtteile Fischlaken und Heidhausen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 360-heisingen/016
+ENTITÄT: kirche
+BEZEICHNUNG: Pauluskirche
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Stemmering 20
+  erbaut: 1907
+  konfession: evangelisch
+  chor_gospel: ja
+  chor_kirche: ja
+  chor_posaunen: ja
+  floetenkreis: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 360-heisingen/017
+ENTITÄT: kirche
+BEZEICHNUNG: St. Georg
+FACETTE: GESCHICHTE | FREIZEIT | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1879-1881
+  stil: neugotisch
+  konfession: katholisch
+  pfarrkirche_fuer: Heisingen (seit Mittelalter/ab 1493)
+  material_fassade: Ruhrsandsteine aus Steinbruch des Stenneshofes
+  künstler_ausstattung: Heinrich Gerhard Bücker (westfälischer Künstler)
+  erstmalige_kapelle: 1493 | gewidmet dem heiligen Georg
+GUELTIG_AB: 1493
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 360-heisingen/018
+ENTITÄT: fest
+BEZEICHNUNG: Wottelfest
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  zeitpunkt: jedes letzte Wochenende im August
+  kontext: während der Wottelkirmes
+  tradition: alljährlich
+  etymologie_wottel: Wurzel, gemeint ist die Möhre
+  bedeutung_fuer_ort: alljährliches Highlight
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 360-heisingen/019
+ENTITÄT: mühle
+BEZEICHNUNG: Rote Mühle
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: ehemalige Wassermühle und Schleuse
+  lage: in den Heisinger Ruhrauen
+  status: ehemalig
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 360-heisingen/020
+ENTITÄT: bauwerk
+BEZEICHNUNG: Jagdhaus Schellenberg
+FACETTE: LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: im Schellenberger Wald
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 360-heisingen/021
+ENTITÄT: brücke
+BEZEICHNUNG: Kampmannbrücke
+FACETTE: INFRA | LAGE
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  typ_aktuell: Schrägseilbrücke
+  verbindung: mit Kupferdreh
+  fertigstellung_neubau: Dezember 2019
+  bauzeit_neubau: 3 | Jahre
+  erste_bruecke_jahr: 1895
+  erste_bruecke_typ: Pontonbrücke
+  ersatz_bruecke_bestand: 1950-1951 bis 2016 | Behelfsbrücke aus Kostengründen
+  bedeutung: Ruhrbrücke ist für Radwanderer nach Kupferdreh bedeutsam
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 360-heisingen/022
+ENTITÄT: eisenbahn
+BEZEICHNUNG: Ruhrtalbahn
+FACETTE: INFRA | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnung: 1. Februar 1872
+  betreiber: Bergisch-Märkische Eisenbahn-Gesellschaft
+  hauptaufgabe: Abfuhr der Kohle aus den Zechen im Ruhrtal zum Hafen Ruhrort
+  bahnhof_kilometer: 31.6
+  bedeutung: Verbindung zwischen Heisingen und größerer Wirtschaft
+  bahnhof_heisingen_eröffnung: unten am Ende der Bahnhofstraße
+  bahnhofstraße_benennung: 19. März 1877
+  bahnhof_erweiterung: 7. April 1894 | zum Bahnhof mit Güterstation
+GUELTIG_AB: 1872
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 360-heisingen/023
+ENTITÄT: verein_kultur
+BEZEICHNUNG: Große Karnevals Gesellschaft Gemütlichkeit Heisingen
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1882
+  fokus: Karneval
+GUELTIG_AB: 1882
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 360-heisingen/024
+ENTITÄT: sportverein
+BEZEICHNUNG: DJK Heisingen 1920 e.V.
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Heisinger Straße 393
+  gruendung: 1920
+  bedeutung_fuer_ort: verbunden mit Fußball-Nationaltorwart Jens Lehmann (erste Schritte)
+GUELTIG_AB: 1920
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 360-heisingen/025
+ENTITÄT: sportverein
+BEZEICHNUNG: Heisinger SV 52/96 e.V.
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1996
+  gruendung_aus: Fusion Fußballabteilung DJK Heisingen und FC Heisingen
+  typ: Fußballverein
+  mitglieder: 500+
+  jugend_und_kinder: 300+
+  bedeutung_fuer_ort: wichtiger Bestandteil im Heisinger Leben
+GUELTIG_AB: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 360-heisingen/026
+ENTITÄT: sportverein
+BEZEICHNUNG: Tennisclub Heisingen e.V.
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Westpreußenstraße 50
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 360-heisingen/027
+ENTITÄT: sportverein
+BEZEICHNUNG: SV Essen-Heisingen 1958
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Velberterer Straße 126-128
+  gruendung: 1958
+GUELTIG_AB: 1958
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 360-heisingen/028
+ENTITÄT: sportverein_wasser
+BEZEICHNUNG: Yachtclub Ruhrland Essen e.V.
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Lanfermannfähre 118 A
+  fokus: Wassersport, Segeln
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 360-heisingen/029
+ENTITÄT: sportverein_wasser
+BEZEICHNUNG: SKEH Segler-Kameradschaft Essen-Heisingen e.V.
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Lanfermannfähre 126
+  fokus: Wassersport, Segeln
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 360-heisingen/030
+ENTITÄT: sportverein_wasser
+BEZEICHNUNG: Essener Segler-Club Ruhrau e.V.
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Lanfermannfähre 58 A
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 360-heisingen/031
+ENTITÄT: sportverein_wasser
+BEZEICHNUNG: Kanu Klub Zugvogel Essen e.V.
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Stauseebogen 11
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 360-heisingen/032
+ENTITÄT: sportverein_wasser
+BEZEICHNUNG: Club Essener Wanderpaddler e.V.
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Lanfermannfähre 102
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 360-heisingen/033
+ENTITÄT: sportverein
+BEZEICHNUNG: Fischerverein Essen e.V.
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Stauseebogen 37
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 360-heisingen/034
+ENTITÄT: verein_kultur
+BEZEICHNUNG: Skatverein "Heisinger Jungs"
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Hier machen auch Frauen mit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 360-heisingen/035
+ENTITÄT: einrichtung_jugend
+BEZEICHNUNG: Ev. Kinder- und Jugendhaus Heisingen
+FACETTE: ALLTAG | FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Stemmering 20
+  programm: vielfältiges Programmangebot für Kinder, Jugendliche und junge Erwachsene
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 360-heisingen/036
+ENTITÄT: verein_jugend
+BEZEICHNUNG: Deutsche Pfadfinderschaft St. Georg - Stamm Heisingen
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Heisinger Straße 480
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 360-heisingen/037
+ENTITÄT: verein_jugend
+BEZEICHNUNG: TZ-Heisingen
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Treff-Zentrum von ehrenamtlichen Jugendlichen für Jugendliche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 360-heisingen/038
+ENTITÄT: sportverein
+BEZEICHNUNG: Schützenverein Essen-Heisingen 1958 e.V.
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1958
+GUELTIG_AB: 1958
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 360-heisingen/039
+ENTITÄT: siedlung
+BEZEICHNUNG: Siedlung Carl Funke
+FACETTE: ALLTAG | GESCHICHTE | LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_statistik.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1901
+  besonderheit: besondere Architektur
+  bedeutung: Folge des Bergbaus in den 1950er Jahren mit Zechenreihenhäusern
+GUELTIG_AB: 1901
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 360-heisingen/040
+ENTITÄT: schule
+BEZEICHNUNG: Carl-Funke-Schule
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: städtische Gemeinschaftsgrundschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 360-heisingen/041
+ENTITÄT: schule
+BEZEICHNUNG: Georgschule
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: katholische Grundschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 360-heisingen/042
+ENTITÄT: person_historisch
+BEZEICHNUNG: Friedrich Ludger Kleinheidt
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1830-1894
+  beruf: Theologe
+  position: Generalvikar des Erzbischofs von Köln
+GUELTIG_AB: 1830
+GUELTIG_BIS: 1894
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 360-heisingen/043
+ENTITÄT: person_historisch
+BEZEICHNUNG: Emil Hagmann
+FACETTE: GESCHICHTE | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1872-1919
+  beruf: Politiker
+  position: erster Bürgermeister Heisingens
+  amtszeit: 1. April 1910 – 18. Oktober 1919
+GUELTIG_AB: 1910
+GUELTIG_BIS: 1919
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 360-heisingen/044
+ENTITÄT: person_historisch
+BEZEICHNUNG: Clemens Freitag
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1883-1969
+  beruf: Maler
+GUELTIG_AB: 1883
+GUELTIG_BIS: 1969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 360-heisingen/045
+ENTITÄT: person_historisch
+BEZEICHNUNG: Hugo ten Hövel
+FACETTE: GESCHICHTE | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1890-1953
+  beruf: Politiker
+  position: zweiter und letzter Bürgermeister Heisingens
+  amtszeit: 1920 – 1. August 1929
+GUELTIG_AB: 1920
+GUELTIG_BIS: 1929
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 360-heisingen/046
+ENTITÄT: person_historisch
+BEZEICHNUNG: Otto Haibach
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1897-1999
+  berufe: Berg- und Vermessungsrat, Kartograph, Markscheidekundler
+  position: Hochschullehrer an der TU Clausthal
+  wohnort: Essen-Heisingen
+GUELTIG_AB: 1897
+GUELTIG_BIS: 1999
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 360-heisingen/047
+ENTITÄT: person_historisch
+BEZEICHNUNG: Karl Schlüter
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1907-1993
+  berufe: Architekt, Baubeamter
+  ehrentitel: Ehrenbürger der RWTH
+GUELTIG_AB: 1907
+GUELTIG_BIS: 1993
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 360-heisingen/048
+ENTITÄT: person_historisch
+BEZEICHNUNG: Wilhelm Seidensticker
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1909-2003
+  berufe: Architekt
+GUELTIG_AB: 1909
+GUELTIG_BIS: 2003
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 360-heisingen/049
+ENTITÄT: person_historisch
+BEZEICHNUNG: Heinrich Schürmann
+FACETTE: GESCHICHTE | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1922-2010
+  beruf: Politiker
+  positionen: Landtagsabgeordneter, Ratsmitglied
+GUELTIG_AB: 1922
+GUELTIG_BIS: 2010
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 360-heisingen/050
+ENTITÄT: person_historisch
+BEZEICHNUNG: Kurt Burger
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1927-2008
+  berufe: Bergbauingenieur, Geologe
+GUELTIG_AB: 1927
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 360-heisingen/051
+ENTITÄT: person_historisch
+BEZEICHNUNG: Annette Jäger
+FACETTE: GESCHICHTE | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1937-2023
+  beruf: Politikerin
+  position: Essener Oberbürgermeisterin
+  amtszeit: 1989-1999
+GUELTIG_AB: 1937
+GUELTIG_BIS: 2023
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 360-heisingen/052
+ENTITÄT: person_historisch
+BEZEICHNUNG: Stefan Hecker
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1959-2019
+  beruf: Handballtorwart
+GUELTIG_AB: 1959
+GUELTIG_BIS: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 360-heisingen/053
+ENTITÄT: person
+BEZEICHNUNG: Martin Lindow
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahr_geburt: 1965
+  beruf: Schauspieler
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 360-heisingen/054
+ENTITÄT: person
+BEZEICHNUNG: Jens Lehmann
+FACETTE: FREIZEIT | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahr_geburt: 1969
+  beruf: Fußballtorwart
+  erfolge: Vize-Weltmeister 2002, Vize-Europameister 2008
+  herkunft_sport: erste Schritte beim DJK Heisingen (Vorgänger-Verein HSV)
+  superlativ: bekanntester Sportler aus Heisingen
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 360-heisingen/055
+ENTITÄT: institution_historisch
+BEZEICHNUNG: Abtei Werden
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: ca. 800
+  gruender: Liudger (friesischer Missionar)
+  besitz_heisingen_ab: 875 | bei Weihe der Werdener Basilika
+  zugehörigkeit_heisingen: ca. 1000 Jahre
+  typ: Kloster
+GUELTIG_AB: 800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 360-heisingen/056
+ENTITÄT: bauwerk
+BEZEICHNUNG: Geologische Wand Kampmannbrücke
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  lage: bei Kampmannbrücke
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 360-heisingen/057
+ENTITÄT: bauwerk_industrie
+BEZEICHNUNG: Maschinenhaus der Zeche Hundsnocken
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Industriegebäude einer Zeche
+  status: Sehenswürdigkeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 360-heisingen/058
+ENTITÄT: infra_strasse
+BEZEICHNUNG: Bundesstraße 227
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  lage: an der Bebauung Heisingens vorbei
+  verbindung: geht innerhalb Heisingens in die Bundesautobahn 44 über
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 360-heisingen/059
+ENTITÄT: infra_autobahn
+BEZEICHNUNG: Bundesautobahn 44
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  verbindung: innerhalb Heisingens von Bundesstraße 227
+  lage: durch Heisingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 360-heisingen/060
+ENTITÄT: gewässer
+BEZEICHNUNG: Heisinger Bach
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  lage: bildet Grenze im Westen und Norden Heisingens
+  grenze_zu: Rellinghausen, Stadtwald
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 360-heisingen/061
+ENTITÄT: bevölkerung_statistik
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_gesamt: 12815 | Stand 31.03.2025
+  anteil_unter_18: 14.7 | Prozent
+  anteil_ab_65: 31.5 | Prozent
+  auslaender_anteil: 4.6 | Prozent
+  vergleich_65_essener_durchschnitt: 31.5 vs 21.7 Prozent
+  vergleich_unter_18_essener_durchschnitt: 14.7 vs 16.9 Prozent
+  vergleich_auslaender_essener_durchschnitt: 4.6 vs 20.6 Prozent
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 360-heisingen/062
+ENTITÄT: radweg
+BEZEICHNUNG: Ruhrtalradweg
+FACETTE: FREIZEIT | INFRA
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  laenge: 230 | km
+  bedeutung: überörtlicher Radweg im Ruhrtal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 360-heisingen/063
+ENTITÄT: wanderweg
+BEZEICHNUNG: Bergischer Weg
+FACETTE: FREIZEIT | INFRA
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  bedeutung: Fernwanderweg durch Bergisches Land
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 360-heisingen/064
+ENTITÄT: wanderweg
+BEZEICHNUNG: BaldeneySteig
+FACETTE: FREIZEIT | INFRA
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  laenge: 26.7 | km
+  status_seit: 2017
+GUELTIG_AB: 2017
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 360-heisingen/065
+ENTITÄT: wanderweg
+BEZEICHNUNG: GeoRoute Ruhr
+FACETTE: FREIZEIT | INFRA
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  laenge: 185 | km
+  bedeutung: Themenweg mit geologischem Fokus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 360-heisingen/066
+ENTITÄT: wanderweg
+BEZEICHNUNG: Raute10 Hugo-Kracht-Weg
+FACETTE: FREIZEIT | INFRA
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  besonderheit: Benannt nach Hugo Kracht
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 360-heisingen/067
+ENTITÄT: wanderweg
+BEZEICHNUNG: Rundweg A2 (Schellenberger Wald)
+FACETTE: FREIZEIT | INFRA
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  laenge: 5 | km
+  lage: Schellenberger Wald
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 360-heisingen/068
+ENTITÄT: radweg
+BEZEICHNUNG: Deutsche Fußball Route NRW (Mitte)
+FACETTE: FREIZEIT | INFRA
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  typ: Themenroute Fußball
+  lage_segment: Mitte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+

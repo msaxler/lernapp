@@ -1,21 +1,21 @@
 {
  "stufe": "extraktion",
  "ort": "415-breitscheid-westerwald",
- "prompt": "prompt-stufe1-v0.6.txt",
+ "prompt": "prompt-stufe1-v0.7.txt",
  "modell_wunsch": "haiku",
  "modelle": [
   "claude-haiku-4-5-20251001"
  ],
- "eingabe_zeichen": 19416,
- "token_ein": 22715,
- "token_aus": 1822,
+ "eingabe_zeichen": 28921,
+ "token_ein": 25828,
+ "token_aus": 13617,
  "usage": {
   "input_tokens": 9,
-  "cache_creation_input_tokens": 15578,
+  "cache_creation_input_tokens": 18691,
   "cache_read_input_tokens": 7128,
-  "output_tokens": 1822,
+  "output_tokens": 13617,
   "output_tokens_details": {
-   "thinking_tokens": 1706
+   "thinking_tokens": 9029
   },
   "server_tool_use": {
    "web_search_requests": 0,
@@ -23,19 +23,19 @@
   },
   "service_tier": "standard",
   "cache_creation": {
-   "ephemeral_1h_input_tokens": 15578,
+   "ephemeral_1h_input_tokens": 18691,
    "ephemeral_5m_input_tokens": 0
   },
   "inference_geo": "not_available",
   "iterations": [
    {
     "input_tokens": 9,
-    "output_tokens": 1822,
+    "output_tokens": 13617,
     "cache_read_input_tokens": 7128,
-    "cache_creation_input_tokens": 15578,
+    "cache_creation_input_tokens": 18691,
     "cache_creation": {
      "ephemeral_5m_input_tokens": 0,
-     "ephemeral_1h_input_tokens": 15578
+     "ephemeral_1h_input_tokens": 18691
     },
     "type": "message"
    }
@@ -43,8 +43,8 @@
   "speed": "standard",
   "fallback_credit": null
  },
- "kosten_usd": 0.0409878,
- "sekunden": 18,
+ "kosten_usd": 0.1061888,
+ "sekunden": 100,
  "fehler": false,
- "zeit": "2026-10-17T13:12:31"
+ "zeit": "2026-10-27T08:44:06"
 }

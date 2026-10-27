@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2-portraet",
+ "ort": "425-burgaltendorf",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 20295,
+ "token_ein": 1080987,
+ "token_aus": 14966,
+ "usage": {
+  "input_tokens": 50,
+  "cache_creation_input_tokens": 49980,
+  "cache_read_input_tokens": 1030957,
+  "output_tokens": 14966,
+  "output_tokens_details": {
+   "thinking_tokens": 6108
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 49980,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 5294,
+    "cache_read_input_tokens": 56049,
+    "cache_creation_input_tokens": 833,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 833
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.3831064,
+ "sekunden": 363,
+ "fehler": false,
+ "zeit": "2026-10-27T01:40:49"
+}

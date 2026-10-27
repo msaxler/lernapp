@@ -1,184 +1,192 @@
 ENTITÄT: ort
 BEZEICHNUNG: Heisingen
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+FACETTE: LAGE | GESCHICHTE | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_startseite.de.jsp | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  ist_stadtteil_von: Essen
-  lage_beschreibung: südlicher Stadtteil, nördlich der Ruhr auf einer Halbinsel
-  lage_geografisch: nördlich in einer Schleife der Ruhr, westlich in den Baldeneysee übergehend
-  charakterisierung: mittelständisch geprägt, lockerer Wohnbebauung mit Ortskern
-  einwohner: 12815 [Stück]
-  einwohner_unter_18_prozent: 14.7
-  einwohner_65plus_prozent: 31.5
-  auslaenderanteil_prozent: 4.6
-  namensherkunft: Lichtung im Buchenwald, Heissiwald
-  etymologie_suffix: -ing(en) bezeichnet Personenverbände und Siedlungen
-GUELTIG_AB: 796
-GUELTIG_BIS: 
+  lage: auf der Ruhrhalbinsel, eingerahmt durch Baldeneysee und Schellenberger Wald
+  stadtteil_von: Essen
+  charakteristika: Wohn- und Ausflugsort im Grünen, dörfliche Atmosphäre
+  einwohner: 12815 | Stand 31.03.2025
+  flaeche_eingerahmt_durch: Baldeneysee (westlich), Schellenberger Wald
+  benannt_nach: Lichtung im Buchenwald (Heissiwald), erwähnt in Römerzeit
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
 ENTITÄT: ort
-BEZEICHNUNG: Heisingen
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+FACETTE: GESCHICHTE | POLITIK
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_geschichte.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  verwaltungsgeschichte: Bürgermeisterei Kettwig (bis 1816), Kreis Essen (1816-1823), Kreis Duisburg (1823-1859), Kreis Essen (ab 1859), Bürgermeisterei Rellinghausen (1876-1910), eigene Bürgermeisterei (1910-1929)
-  eingemeindung_nach_essen: 1. August 1929
-  eigenstaendige_buergermeisterei_ab: 1. Januar 1910
-GUELTIG_AB: 
-GUELTIG_BIS: 1929
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: siedlung_geschichte
-BEZEICHNUNG: Entstehung Heisingen
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  vermutung_entstehung: 7. oder 8. Jahrhundert
-  grund: Siedlungsaktionen der fränkischen Ripuarier und sächsischen Brukterer
-  urkundliche_erwaehnung: 24. Februar 796
-  anlass_urkundung: Geschenk von Heinrich von der Ruhr an den heiligen Liudger (Rodung im Heissiwald)
-  genauigkeit: vermutlich
+  urkundliche_ersterwähnung: 796 | Geschenk an Liudger von Heinrich von der Ruhr
+  namensherkunft: von Holzgewinnung, Zaun, umzäunter Wald, Busch
+  zugehörigkeit_abtei_werden: ca. 1000 Jahre
+  abtei_werden_beleg: 875 | Weihe der Werdener Basilika
+  eigenstaendige_gemeinde_von: 1910
+  eigenstaendige_gemeinde_bis: 1929 | 1. August
+  eingemeindung_essen: 1. August 1929
+  buergermeister_1: Emil Hagmann | 1. April 1910 – 18. Oktober 1919
+  buergermeister_2: Hugo ten Hövel | 1920 – 1. August 1929
 GUELTIG_AB: 796
-GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: wald
-BEZEICHNUNG: Heissiwald
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+ENTITÄT: gewässer
+BEZEICHNUNG: Baldeneysee
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_startseite.de.jsp | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  etymologie: germanisches Wort hais/hes für Wald, Busch, Gehölz
-  fruehere_namensgebung: Plattenwald
-  amtliche_namensgebung_ab: 1935
-  erwaehnt_in_roemer: ja
-  ausdehnung: mindestens von Heisingen bis Mülheim-Heißen
-GUELTIG_AB: 796
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: kloster
-BEZEICHNUNG: Kloster Werden
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  gruendung: um 800
-  gruender: Liudger (friesischer Missionar)
-  besitz_in_heisingen_ab: 9. Jahrhundert
-  erwaehnung_zugehoerigkeit: 875 (bei Weihe der Werdener Basilika)
-  fronhöfe: Barkhoven, Viehausen
-  lehen: Haus Heisingen
-  lehen_befestigung_zeit: 11. und 12. Jahrhundert
-  grund_befestigung: Absicherung des fränkischen Dorfteiles, zeitweise Grenze des Fränkischen Reiches und Altsachsens
-GUELTIG_AB: 800
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: damenstift
-BEZEICHNUNG: Essener Frauengemeinschaft
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  gruendung: um Mitte 9. Jahrhundert
-  fronhof_besitz: Eickenscheidt (bei Steele)
-  besitz_ab: 9./10. Jahrhundert
-  heisinger_abhaengigkeit: wirtschaftliche Abhängigkeit, ohne politische Gewalt im späten Mittelalter
-GUELTIG_AB: 850
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: kapelle
-BEZEICHNUNG: St. Georg
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  errichtung: 1493
-  widmung: heiliger Georg
-  beschreibung: erste Kapelle Heisingens
-GUELTIG_AB: 1493
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: kirche
-BEZEICHNUNG: St. Georg
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  bauzeit: 1879-1881
-  baustil: neugotisch
-  material: Ruhrsandsteine aus Steinbruch des Stenneshofs
-  ausstattung_kuenstler: Heinrich Gerhard Bücker (westfälischer Künstler)
-  konfession: katholisch
-  funktion: Pfarrkirche
-GUELTIG_AB: 1879
-GUELTIG_BIS: 
+  lage: westlich von Heisingen, Ruhr geht westlich darin über
+  bedeutung_fuer_ort: lädt zu Sport oder Naherholung ein
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: kirche
-BEZEICHNUNG: Pauluskirche
-ORTSTEIL_BEZUG: 
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Heisinger Ruhraue
+FACETTE: LAGE
 QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
 EIGENSCHAFTEN:
-  baujahr: 1907
-  konfession: evangelisch
-  gemeinde: evangelische Kirchengemeinde Essen-Heisingen
-GUELTIG_AB: 1907
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: rathaus
-BEZEICHNUNG: Altes Rathaus
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  errichtung: 1910/1911
-  lage: Ortskern
-  veranstaltung_traditionsveranstaltung: Wottelfest (letztes Wochenende im August)
-GUELTIG_AB: 1910
-GUELTIG_BIS: 
+  status_seit: 2004 | Naturschutzgebiet
+  groesse: 150 | Hektar (ca.)
+  lage: an der Spitze der Heisinger Halbinsel
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: veranstaltung
-BEZEICHNUNG: Wottelfest
-ORTSTEIL_BEZUG: 
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Vogelschutzgebiet Heisinger Bogen
+FACETTE: LAGE
 QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
 EIGENSCHAFTEN:
-  ort: Altes Rathaus, Ortskern
-  zeitpunkt: letztes Wochenende im August
-  herkunft_name: Wort Wottel stammt von Wurzel, gemeint ist Möhre
-  tradition: traditionell
-GUELTIG_AB: 1910
-GUELTIG_BIS: 
+  bedeutung: zahlreichen selten gewordenen Vogelarten Rückzugsraum
+  lage: an der Spitze der Heisinger Halbinsel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Schellenberger Wald
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  lage: westlich und nördlich von Heisingen, Heisinger Bach bildet Grenze
+  status: Naturschutzgebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bauwerk_historisch
+BEZEICHNUNG: Haus Heisingen
+FACETTE: GESCHICHTE | LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: rechtes Ufer der Ruhr
+  aelteste_bausubstanz: 12. Jahrhundert
+  status: Privatbesitz, denkmalgeschützt
+  urkundliche_ersterwähnung: 796
+  bedeutung_historisch: Sommerresidenz der Äbte der Abtei Werden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Fliegerdenkmal
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis: Absturz eines Staaken-Flugzeugs (Zeppelin R.VI)
+  jahr_ereignis: 1918
+  todesopfer: 7 | Besatzungsmitglieder
+  grund_absturz: dichter Nebel
+  zweck_denkmal: Andenken an tote Besatzungsmitglieder
+GUELTIG_AB: 1918
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bergwerk
+BEZEICHNUNG: Zeche Carl Funke
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entdeckung_kohle: Ende 16. Jahrhundert
+  bergbautyp: zunächst oberflächlicher Bergbau, später Stollen
+  entwicklung: Anfang 20. Jahrhundert Zusammenlegung von Kleinzechen unter Carl Funke
+  groesste_auslastung_jahr: 1954
+  groesste_auslastung_mitarbeiter: 2450
+  groesste_auslastung_foerdermenge: 617000 | Tonnen
+  hoechste_auslastung_dekade: 1950er Jahre | 2500 Mitarbeiter
+  stilllegung: 1973
+  bedeutung_fuer_ort: wichtigster Arbeitgeber, prägt Siedlungsentwicklung
+  beschreibung_entwicklung: Kohle konnte über die Ruhr verschifft werden
+GUELTIG_AB: Ende 16. Jahrhundert
+GUELTIG_BIS: 1973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: denkmal_industrie
+BEZEICHNUNG: Förderturm des Steinkohlebergwerks Carl Funke
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Lanfermannfähre 40
+  typ: Industriedenkmal
+  status: von Renaturierung ausgeschlossen
+  beschreibung: einer von ehemals zwei Fördertürmen
+  zweck: Erinnerung an die Bergbauvergangenheit Heisingens
+  zeche: Carl Funke
+  stilllegung_zeche: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Altes Rathaus Heisingen
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Hagmanngarten 5
+  erbaut: 1910-1911
+  ortskern: ja
+  sehenswert: Ratssaal mit drei Gemälden (Emil Hagmann, Hugo ten Hövel, Carl Funke)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Jugendhalle Heisingen
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Bahnhofstr. 8
+  erbaut: 1915
+  besonderheit: beeindruckende Außenfassade
+  denkmalschutz: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Denkmalpfade
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Entdeckungstouren entlang der Denkmalpfade zu Sehenswürdigkeiten
+  bedeutung: besondere Highlights neben Natur
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 
@@ -186,402 +194,378 @@ VERTRAUEN_EXTRAKTION: 0.85
 
 ENTITÄT: museum
 BEZEICHNUNG: Bergbau- und Heimatmuseum im Paulushof
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+FACETTE: FREIZEIT | GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_startseite.de.jsp | Gemeinde-Webseite
 EIGENSCHAFTEN:
   lage: Altenzentrum Paulushof der evangelischen Kirchengemeinde Essen-Heisingen
-  gruender: Werner Hamacher (damaliger Pfarrer, Initiator)
-  charakterisierung: klein
-  sammelschwerpunkt: Bergbau und Heimatgeschichte
-GUELTIG_AB: 
-GUELTIG_BIS: 
+  initiator: damaliger Pfarrer Werner Hamacher
+  bedeutung_fuer_ort: besonderes Highlight des Stadtteils
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
 ENTITÄT: aussichtspunkt
 BEZEICHNUNG: Korte-Klippe
-ORTSTEIL_BEZUG: 
+FACETTE: FREIZEIT | LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Heisinger Str. 254
+  lage: nahe des Jagdhauses Schellenberg im Schellenberger Wald
+  aussicht: wunderschöner Blick über Baldeneysee und die Stadtteile Fischlaken und Heidhausen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Pauluskirche
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Stemmering 20
+  erbaut: 1907
+  konfession: evangelisch
+  chor_gospel: ja
+  chor_kirche: ja
+  chor_posaunen: ja
+  floetenkreis: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Georg
+FACETTE: GESCHICHTE | FREIZEIT | ALLTAG
 QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
 EIGENSCHAFTEN:
-  lage: Schellenberger Wald, nahe Jagdhaus Schellenberg
-  blick: Ruhrtal und Baldeneysee
-GUELTIG_AB: 
-GUELTIG_BIS: 
+  erbaut: 1879-1881
+  stil: neugotisch
+  konfession: katholisch
+  pfarrkirche_fuer: Heisingen (seit Mittelalter/ab 1493)
+  material_fassade: Ruhrsandsteine aus Steinbruch des Stenneshofes
+  künstler_ausstattung: Heinrich Gerhard Bücker (westfälischer Künstler)
+  erstmalige_kapelle: 1493 | gewidmet dem heiligen Georg
+GUELTIG_AB: 1493
 IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Wottelfest
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  zeitpunkt: jedes letzte Wochenende im August
+  kontext: während der Wottelkirmes
+  tradition: alljährlich
+  etymologie_wottel: Wurzel, gemeint ist die Möhre
+  bedeutung_fuer_ort: alljährliches Highlight
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: mühle
+BEZEICHNUNG: Rote Mühle
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: ehemalige Wassermühle und Schleuse
+  lage: in den Heisinger Ruhrauen
+  status: ehemalig
+IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: wassermühle
-BEZEICHNUNG: alte Wassermühle
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+ENTITÄT: bauwerk
+BEZEICHNUNG: Jagdhaus Schellenberg
+FACETTE: LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  lage: Heisinger Ruhrauen
-GUELTIG_AB: 
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.7
-
----
-
-ENTITÄT: schleuse
-BEZEICHNUNG: Rote Mühle
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  lage: Heisinger Ruhrauen
-GUELTIG_AB: 
-GUELTIG_BIS: 
+  lage: im Schellenberger Wald
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.75
 
 ---
 
-ENTITÄT: denkmal
-BEZEICHNUNG: Fliegerdenkmal
-ORTSTEIL_BEZUG: 
+ENTITÄT: brücke
+BEZEICHNUNG: Kampmannbrücke
+FACETTE: INFRA | LAGE
 QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
 EIGENSCHAFTEN:
-  lage: Waldstück am Wechselpfad, Anhöhe zur Wuppertaler Straße
-  anlass: Andenken an sieben zu Tode gekommene Besatzungsmitglieder
-  flugzeugtyp: Zeppelin (Staaken) R.VI (deutsches Militärflugzeug)
-  unfall_jahr: 1918
-GUELTIG_AB: 1918
-GUELTIG_BIS: 
+  typ_aktuell: Schrägseilbrücke
+  verbindung: mit Kupferdreh
+  fertigstellung_neubau: Dezember 2019
+  bauzeit_neubau: 3 | Jahre
+  erste_bruecke_jahr: 1895
+  erste_bruecke_typ: Pontonbrücke
+  ersatz_bruecke_bestand: 1950-1951 bis 2016 | Behelfsbrücke aus Kostengründen
+  bedeutung: Ruhrbrücke ist für Radwanderer nach Kupferdreh bedeutsam
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: eisenbahn
+BEZEICHNUNG: Ruhrtalbahn
+FACETTE: INFRA | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnung: 1. Februar 1872
+  betreiber: Bergisch-Märkische Eisenbahn-Gesellschaft
+  hauptaufgabe: Abfuhr der Kohle aus den Zechen im Ruhrtal zum Hafen Ruhrort
+  bahnhof_kilometer: 31.6
+  bedeutung: Verbindung zwischen Heisingen und größerer Wirtschaft
+  bahnhof_heisingen_eröffnung: unten am Ende der Bahnhofstraße
+  bahnhofstraße_benennung: 19. März 1877
+  bahnhof_erweiterung: 7. April 1894 | zum Bahnhof mit Güterstation
+GUELTIG_AB: 1872
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein_kultur
+BEZEICHNUNG: Große Karnevals Gesellschaft Gemütlichkeit Heisingen
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1882
+  fokus: Karneval
+GUELTIG_AB: 1882
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.8
 
 ---
 
-ENTITÄT: naturschutzgebiet
-BEZEICHNUNG: Heisinger Ruhraue
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+ENTITÄT: sportverein
+BEZEICHNUNG: DJK Heisingen 1920 e.V.
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  gruendung: 2004
-  groesse: 150 [Hektar]
-GUELTIG_AB: 2004
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: vogelschutzgebiet
-BEZEICHNUNG: Heisinger Bogen
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  lage: Spitze der Heisinger Halbinsel
-  funktion: Rückzugsraum für selten gewordene Vogelarten
-GUELTIG_AB: 
-GUELTIG_BIS: 
+  adresse: Heisinger Straße 393
+  gruendung: 1920
+  bedeutung_fuer_ort: verbunden mit Fußball-Nationaltorwart Jens Lehmann (erste Schritte)
+GUELTIG_AB: 1920
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: naturschutzgebiet
-BEZEICHNUNG: Schellenberger Wald
-ORTSTEIL_BEZUG: 
+ENTITÄT: sportverein
+BEZEICHNUNG: Heisinger SV 52/96 e.V.
+FACETTE: FREIZEIT | ALLTAG
 QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
 EIGENSCHAFTEN:
-  lage: am westlichen Ortsrand Heisingens
-GUELTIG_AB: 
-GUELTIG_BIS: 
+  gruendung: 1996
+  gruendung_aus: Fusion Fußballabteilung DJK Heisingen und FC Heisingen
+  typ: Fußballverein
+  mitglieder: 500+
+  jugend_und_kinder: 300+
+  bedeutung_fuer_ort: wichtiger Bestandteil im Heisinger Leben
+GUELTIG_AB: 1996
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: zeche
-BEZEICHNUNG: Zeche Carl Funke
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  entstehung: mehrere Kleinzechen wuchsen zusammen
-  gruendung_ab: Ende 16. Jahrhundert (Kohleentdeckung)
-  foerderhoechst_jahr: 1954
-  foerderhoechst_menge: 617000 [Tonnen]
-  beschaeftigte_max: 2450
-  schliessung: 1973
-  foerderturm: unter Denkmalschutz
-GUELTIG_AB: 1500
-GUELTIG_BIS: 1973
-IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: bahnhof
-BEZEICHNUNG: Bahnhof Heisingen
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+ENTITÄT: sportverein
+BEZEICHNUNG: Tennisclub Heisingen e.V.
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  errichtung_eröffnung: 1. Februar 1872
-  betreiber: Bergisch-Märkische Eisenbahn-Gesellschaft
-  bahnstrecke: Ruhrtalbahn
-  kilometer_markierung: 31.6
-  ausbau_gueterstation: 7. April 1894
-  lage_anfangs: unteres Ende der Bahnhofstraße
-  bahnhofstrasse_namensgabe: 19. März 1877
-GUELTIG_AB: 1872
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: bruecke
-BEZEICHNUNG: Kampmannbrücke
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  verbindung: mit Kupferdreh
-  erste_ausfuehrung_jahr: 1895
-  erste_ausfuehrung_typ: Pontonbrücke
-  behelfsbruecke_bauzeit: 1950-1951
-  behelfsbruecke_betrieb: bis 2016 (Kostengründe)
-  neubau_fertigstellung: Dezember 2019
-  neubau_typ: Schrägseilbrücke
-  neubau_bauzeit: 3 Jahre
-GUELTIG_AB: 1895
-GUELTIG_BIS: 
+  adresse: Westpreußenstraße 50
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 0.8
 
 ---
 
-ENTITÄT: bauwerk
-BEZEICHNUNG: Geologische Wand Kampmannbrücke
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+ENTITÄT: sportverein
+BEZEICHNUNG: SV Essen-Heisingen 1958
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  lage: an Kampmannbrücke
-GUELTIG_AB: 
-GUELTIG_BIS: 
+  adresse: Velberterer Straße 126-128
+  gruendung: 1958
+GUELTIG_AB: 1958
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.7
+VERTRAUEN_EXTRAKTION: 0.8
 
 ---
 
-ENTITÄT: herrensitz
-BEZEICHNUNG: Haus Heisingen
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+ENTITÄT: sportverein_wasser
+BEZEICHNUNG: Yachtclub Ruhrland Essen e.V.
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  fruehere_bezeichnung: Hof Kofeld
-  befestigung_zeit: 11. und 12. Jahrhundert
-  befestigung_grund: burgähnliche Absicherung des fränkischen Dorfteiles
-  befestigung_kontext: zeitweise Grenze des Fränkischen Reiches und Altsachsens
-  lehen_verleihung: 1524 (Lutter Staël von Holstein mit Stenneshof belehnt)
-GUELTIG_AB: 
-GUELTIG_BIS: 
+  adresse: Lanfermannfähre 118 A
+  fokus: Wassersport, Segeln
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.8
 
 ---
 
-ENTITÄT: jagdhaus
-BEZEICHNUNG: Jagdhaus Schellenberg
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+ENTITÄT: sportverein_wasser
+BEZEICHNUNG: SKEH Segler-Kameradschaft Essen-Heisingen e.V.
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  lage: Schellenberger Wald, nahe Aussichtspunkt Korte-Klippe
-GUELTIG_AB: 
-GUELTIG_BIS: 
+  adresse: Lanfermannfähre 126
+  fokus: Wassersport, Segeln
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: sportverein_wasser
+BEZEICHNUNG: Essener Segler-Club Ruhrau e.V.
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Lanfermannfähre 58 A
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: sportverein_wasser
+BEZEICHNUNG: Kanu Klub Zugvogel Essen e.V.
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Stauseebogen 11
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: sportverein_wasser
+BEZEICHNUNG: Club Essener Wanderpaddler e.V.
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Lanfermannfähre 102
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: Fischerverein Essen e.V.
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Stauseebogen 37
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: verein_kultur
+BEZEICHNUNG: Skatverein "Heisinger Jungs"
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Hier machen auch Frauen mit
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.75
 
 ---
 
-ENTITÄT: bauwerk
-BEZEICHNUNG: Maschinenhaus der Zeche Hundsnocken
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+ENTITÄT: einrichtung_jugend
+BEZEICHNUNG: Ev. Kinder- und Jugendhaus Heisingen
+FACETTE: ALLTAG | FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  beschreibung: Zeche-Bauwerk
-GUELTIG_AB: 
-GUELTIG_BIS: 
+  adresse: Stemmering 20
+  programm: vielfältiges Programmangebot für Kinder, Jugendliche und junge Erwachsene
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.6
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein_jugend
+BEZEICHNUNG: Deutsche Pfadfinderschaft St. Georg - Stamm Heisingen
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Heisinger Straße 480
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: verein_jugend
+BEZEICHNUNG: TZ-Heisingen
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Treff-Zentrum von ehrenamtlichen Jugendlichen für Jugendliche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: Schützenverein Essen-Heisingen 1958 e.V.
+FACETTE: FREIZEIT | ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1958
+GUELTIG_AB: 1958
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
 
 ---
 
 ENTITÄT: siedlung
 BEZEICHNUNG: Siedlung Carl Funke
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+FACETTE: ALLTAG | GESCHICHTE | LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/heisingen_2/heisingen_statistik.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  ursprung: Arbeitersiedlung im Zusammenhang mit Zeche Carl Funke
-GUELTIG_AB: 
-GUELTIG_BIS: 
+  erbaut: 1901
+  besonderheit: besondere Architektur
+  bedeutung: Folge des Bergbaus in den 1950er Jahren mit Zechenreihenhäusern
+GUELTIG_AB: 1901
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.7
-
----
-
-ENTITÄT: bahnstrecke
-BEZEICHNUNG: Ruhrtalbahn
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  errichtung_eröffnung: 1. Februar 1872
-  betreiber: Bergisch-Märkische Eisenbahn-Gesellschaft
-  zweck_hauptaufgabe: Abfuhr der Kohle aus den Zechen im Ruhrtal zum Hafen Ruhrort
-  bahnhof_heisingen_kilometer: 31.6
-  ruhrbruecke_funktion: bedeutsam für Radwanderer nach Kupferdreh (Trasse kaum mehr erkennbar)
-GUELTIG_AB: 1872
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
 ENTITÄT: schule
 BEZEICHNUNG: Carl-Funke-Schule
-ORTSTEIL_BEZUG: 
+FACETTE: ALLTAG
 QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
 EIGENSCHAFTEN:
   typ: städtische Gemeinschaftsgrundschule
-GUELTIG_AB: 
-GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.8
 
 ---
 
 ENTITÄT: schule
 BEZEICHNUNG: Georgschule
-ORTSTEIL_BEZUG: 
+FACETTE: ALLTAG
 QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
 EIGENSCHAFTEN:
   typ: katholische Grundschule
-GUELTIG_AB: 
-GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.8
 
 ---
 
-ENTITÄT: altenzentrum
-BEZEICHNUNG: Altenzentrum Paulushof
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  traeger: evangelische Kirchengemeinde Essen-Heisingen
-  besonderheit: beherbergt Bergbau- und Heimatmuseum
-GUELTIG_AB: 
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: sportverein
-BEZEICHNUNG: Heisinger SV
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  gruendung: 1996
-  gruendung_anlass: Fusion zwischen Fußballabteilung von DJK Heisingen und FC Heisingen
-  mitglieder: ca. 500
-  kinder_jugendliche: ca. 300
-GUELTIG_AB: 1996
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: sportverein
-BEZEICHNUNG: SV 52/96 e.V.
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  gruendung: 1996
-  gruendung_anlass: Zusammenschluss von DJK Aufwärts Heisingen und 1. FC Heisingen
-  sportart: Fußball
-  mitglieder: ueber 500
-GUELTIG_AB: 1996
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: sportverein
-BEZEICHNUNG: DJK Heisingen
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  abteilung_breitensport: ja
-GUELTIG_AB: 
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.7
-
----
-
-ENTITÄT: sportverein
-BEZEICHNUNG: SG Heisingen
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  abteilung_breitensport: ja
-  abteilung_rhoenrad: ja
-GUELTIG_AB: 
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: buergermeister
-BEZEICHNUNG: Emil Hagmann
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahrgang: 1872
-  todesjahr: 1919
-  beruf: Politiker
-  position: erster Bürgermeister Heisingens
-  amtszeit: 1. April 1910 – 18. Oktober 1919
-GUELTIG_AB: 1910
-GUELTIG_BIS: 1919
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: buergermeister
-BEZEICHNUNG: Hugo ten Hövel
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahrgang: 1890
-  todesjahr: 1953
-  beruf: Politiker
-  position: zweiter und letzter Bürgermeister Heisingens
-  amtszeit: 1920 – 1. August 1929 (Eingemeindung nach Essen)
-GUELTIG_AB: 1920
-GUELTIG_BIS: 1929
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: theologe
+ENTITÄT: person_historisch
 BEZEICHNUNG: Friedrich Ludger Kleinheidt
-ORTSTEIL_BEZUG: 
+FACETTE: GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
 EIGENSCHAFTEN:
-  geburtsjahrgang: 1830
-  todesjahr: 1894
-  beruf: Theologe, Generalvikar des Erzbischofs von Köln
+  lebensjahre: 1830-1894
+  beruf: Theologe
+  position: Generalvikar des Erzbischofs von Köln
 GUELTIG_AB: 1830
 GUELTIG_BIS: 1894
 IST_VERMUTLICH_AKTUELL: false
@@ -589,13 +573,28 @@ VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: maler
-BEZEICHNUNG: Clemens Freitag
-ORTSTEIL_BEZUG: 
+ENTITÄT: person_historisch
+BEZEICHNUNG: Emil Hagmann
+FACETTE: GESCHICHTE | POLITIK
 QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
 EIGENSCHAFTEN:
-  geburtsjahrgang: 1883
-  todesjahr: 1969
+  lebensjahre: 1872-1919
+  beruf: Politiker
+  position: erster Bürgermeister Heisingens
+  amtszeit: 1. April 1910 – 18. Oktober 1919
+GUELTIG_AB: 1910
+GUELTIG_BIS: 1919
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_historisch
+BEZEICHNUNG: Clemens Freitag
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1883-1969
   beruf: Maler
 GUELTIG_AB: 1883
 GUELTIG_BIS: 1969
@@ -604,15 +603,30 @@ VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: geologe_und_vermessungsrat
-BEZEICHNUNG: Otto Haibach
-ORTSTEIL_BEZUG: Essen-Heisingen
+ENTITÄT: person_historisch
+BEZEICHNUNG: Hugo ten Hövel
+FACETTE: GESCHICHTE | POLITIK
 QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
 EIGENSCHAFTEN:
-  geburtsjahrgang: 1897
-  todesjahr: 1999
-  beruf: Berg- und Vermessungsrat, Kartograph, Markscheidekundler, Hochschullehrer
-  institution: TU Clausthal
+  lebensjahre: 1890-1953
+  beruf: Politiker
+  position: zweiter und letzter Bürgermeister Heisingens
+  amtszeit: 1920 – 1. August 1929
+GUELTIG_AB: 1920
+GUELTIG_BIS: 1929
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_historisch
+BEZEICHNUNG: Otto Haibach
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1897-1999
+  berufe: Berg- und Vermessungsrat, Kartograph, Markscheidekundler
+  position: Hochschullehrer an der TU Clausthal
   wohnort: Essen-Heisingen
 GUELTIG_AB: 1897
 GUELTIG_BIS: 1999
@@ -621,15 +635,14 @@ VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: architekt
+ENTITÄT: person_historisch
 BEZEICHNUNG: Karl Schlüter
-ORTSTEIL_BEZUG: 
+FACETTE: GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
 EIGENSCHAFTEN:
-  geburtsjahrgang: 1907
-  todesjahr: 1993
-  beruf: Architekt, Baubeamter
-  titel: Ehrenbürger der RWTH
+  lebensjahre: 1907-1993
+  berufe: Architekt, Baubeamter
+  ehrentitel: Ehrenbürger der RWTH
 GUELTIG_AB: 1907
 GUELTIG_BIS: 1993
 IST_VERMUTLICH_AKTUELL: false
@@ -637,14 +650,13 @@ VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: architekt
+ENTITÄT: person_historisch
 BEZEICHNUNG: Wilhelm Seidensticker
-ORTSTEIL_BEZUG: 
+FACETTE: GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
 EIGENSCHAFTEN:
-  geburtsjahrgang: 1909
-  todesjahr: 2003
-  beruf: Architekt
+  lebensjahre: 1909-2003
+  berufe: Architekt
 GUELTIG_AB: 1909
 GUELTIG_BIS: 2003
 IST_VERMUTLICH_AKTUELL: false
@@ -652,14 +664,14 @@ VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: politiker
+ENTITÄT: person_historisch
 BEZEICHNUNG: Heinrich Schürmann
-ORTSTEIL_BEZUG: 
+FACETTE: GESCHICHTE | POLITIK
 QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
 EIGENSCHAFTEN:
-  geburtsjahrgang: 1922
-  todesjahr: 2010
-  beruf: Politiker, Landtagsabgeordneter, Ratsmitglied
+  lebensjahre: 1922-2010
+  beruf: Politiker
+  positionen: Landtagsabgeordneter, Ratsmitglied
 GUELTIG_AB: 1922
 GUELTIG_BIS: 2010
 IST_VERMUTLICH_AKTUELL: false
@@ -667,14 +679,13 @@ VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: bergbauingenieur
+ENTITÄT: person_historisch
 BEZEICHNUNG: Kurt Burger
-ORTSTEIL_BEZUG: 
+FACETTE: GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
 EIGENSCHAFTEN:
-  geburtsjahrgang: 1927
-  todesjahr: 2008
-  beruf: Bergbauingenieur, Geologe
+  lebensjahre: 1927-2008
+  berufe: Bergbauingenieur, Geologe
 GUELTIG_AB: 1927
 GUELTIG_BIS: 2008
 IST_VERMUTLICH_AKTUELL: false
@@ -682,30 +693,28 @@ VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: politikerin
+ENTITÄT: person_historisch
 BEZEICHNUNG: Annette Jäger
-ORTSTEIL_BEZUG: 
+FACETTE: GESCHICHTE | POLITIK
 QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
 EIGENSCHAFTEN:
-  geburtsjahrgang: 1937
-  todesjahr: 2023
+  lebensjahre: 1937-2023
   beruf: Politikerin
   position: Essener Oberbürgermeisterin
   amtszeit: 1989-1999
 GUELTIG_AB: 1937
 GUELTIG_BIS: 2023
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: handballtorwart
+ENTITÄT: person_historisch
 BEZEICHNUNG: Stefan Hecker
-ORTSTEIL_BEZUG: 
+FACETTE: GESCHICHTE | FREIZEIT
 QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
 EIGENSCHAFTEN:
-  geburtsjahrgang: 1959
-  todesjahr: 2019
+  lebensjahre: 1959-2019
   beruf: Handballtorwart
 GUELTIG_AB: 1959
 GUELTIG_BIS: 2019
@@ -714,403 +723,204 @@ VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: schauspieler
+ENTITÄT: person
 BEZEICHNUNG: Martin Lindow
-ORTSTEIL_BEZUG: 
+FACETTE: GESCHICHTE | FREIZEIT
 QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
 EIGENSCHAFTEN:
-  geburtsjahrgang: 1965
+  lebensjahr_geburt: 1965
   beruf: Schauspieler
 GUELTIG_AB: 1965
-GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
-ENTITÄT: fussballtorwart
+ENTITÄT: person
 BEZEICHNUNG: Jens Lehmann
-ORTSTEIL_BEZUG: 
+FACETTE: FREIZEIT | GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
 EIGENSCHAFTEN:
-  geburtsjahrgang: 1969
+  lebensjahr_geburt: 1969
   beruf: Fußballtorwart
-  karriere_status: ehemaliger Fußball-Nationaltorwart
-  erfolg_weltmeisterschaft: Vize-Weltmeister 2002
-  erfolg_europameisterschaft: Vize-Europameister 2008
-  verein_anfangskarriere: DJK Heisingen (HSV Vorgänger-Verein)
-  reputable: bekanntester Sportler aus Heisingen
+  erfolge: Vize-Weltmeister 2002, Vize-Europameister 2008
+  herkunft_sport: erste Schritte beim DJK Heisingen (Vorgänger-Verein HSV)
+  superlativ: bekanntester Sportler aus Heisingen
 GUELTIG_AB: 1969
-GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: institution_historisch
+BEZEICHNUNG: Abtei Werden
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: ca. 800
+  gruender: Liudger (friesischer Missionar)
+  besitz_heisingen_ab: 875 | bei Weihe der Werdener Basilika
+  zugehörigkeit_heisingen: ca. 1000 Jahre
+  typ: Kloster
+GUELTIG_AB: 800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Geologische Wand Kampmannbrücke
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  lage: bei Kampmannbrücke
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: bauwerk_industrie
+BEZEICHNUNG: Maschinenhaus der Zeche Hundsnocken
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Industriegebäude einer Zeche
+  status: Sehenswürdigkeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: infra_strasse
+BEZEICHNUNG: Bundesstraße 227
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  lage: an der Bebauung Heisingens vorbei
+  verbindung: geht innerhalb Heisingens in die Bundesautobahn 44 über
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infra_autobahn
+BEZEICHNUNG: Bundesautobahn 44
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  verbindung: innerhalb Heisingens von Bundesstraße 227
+  lage: durch Heisingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gewässer
+BEZEICHNUNG: Heisinger Bach
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  lage: bildet Grenze im Westen und Norden Heisingens
+  grenze_zu: Rellinghausen, Stadtwald
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bevölkerung_statistik
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_gesamt: 12815 | Stand 31.03.2025
+  anteil_unter_18: 14.7 | Prozent
+  anteil_ab_65: 31.5 | Prozent
+  auslaender_anteil: 4.6 | Prozent
+  vergleich_65_essener_durchschnitt: 31.5 vs 21.7 Prozent
+  vergleich_unter_18_essener_durchschnitt: 14.7 vs 16.9 Prozent
+  vergleich_auslaender_essener_durchschnitt: 4.6 vs 20.6 Prozent
+GUELTIG_AB: 2025
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: hof
-BEZEICHNUNG: Rohmannshof
-ORTSTEIL_BEZUG: Ortskern Heisingen
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+ENTITÄT: radweg
+BEZEICHNUNG: Ruhrtalradweg
+FACETTE: FREIZEIT | INFRA
+QUELLE: ZEUGEN (OpenStreetMap)
 EIGENSCHAFTEN:
-  lage: Op dem Rode (Ortskern)
-  benennungsursprung: nach dem Ansatzpunkt der Rodung im Heissiwald
-  erwaehnung: 1150
-  verwendung: Ackerbau/Landwirtschaft
-GUELTIG_AB: 1150
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: hof
-BEZEICHNUNG: Siepmannshof
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  erwaehnung: 1370 (aufgeteilt)
-  aufteiling: Grotesiepen (Siepmannshof) und Kleinesiepen
-  nachbarhoflage: Nachbarhof des Rohmannshofs
-  lage_vorher: Siepen / später Kuhsiepen
-GUELTIG_AB: 1370
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: hof
-BEZEICHNUNG: Kleinesiepen
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  alternativbezeichnung: Krampensiepen
-  namensgeber_aufsitzer: Krampen
-  bewohner_neuzeit: Bauer Werntgen (bis 1973)
-GUELTIG_AB: 1370
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.7
-
----
-
-ENTITÄT: hof
-BEZEICHNUNG: Grotkampshof
-ORTSTEIL_BEZUG: Nordwesten Heisingen
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  erwaehnung: 1250
-  spaetere_bezeichnung: Vogelsanghof
-GUELTIG_AB: 1250
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: hof
-BEZEICHNUNG: Kleinkampshof
-ORTSTEIL_BEZUG: Nordwesten Heisingen
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  bewohner: Bauer Werntgen (bis 1973, Landwirtschaft aufgegeben 1955)
-GUELTIG_AB: 
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.7
-
----
-
-ENTITÄT: hof
-BEZEICHNUNG: Gatherhof
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  lage: an der Viehgate (heutige Malmedystraße)
-  funktion_kontext: Vieh wurde auf dem Weg nach Norden in den Wald getrieben
-GUELTIG_AB: 
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.65
-
----
-
-ENTITÄT: hof
-BEZEICHNUNG: Wittenhof
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  lage: an der Viehgate (heutige Malmedystraße)
-  abgaben_empfaenger: Burkhard von Kückelsheim (Herr auf Schloss Schellenberg)
-GUELTIG_AB: 
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.7
-
----
-
-ENTITÄT: hof
-BEZEICHNUNG: Hickingshof
-ORTSTEIL_BEZUG: nordöstlichster Teil des Unterdorfes
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  erwaehnung_ab: 1400
-GUELTIG_AB: 1400
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.7
-
----
-
-ENTITÄT: hof
-BEZEICHNUNG: Stenneshof
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  alternativbezeichnung: Steinhus
-  lage: südlich des Hickingshofs
-  lehen_verleihung: 1524 (Lutter Staël von Holstein vom Hof Kofeld)
-  baumaterial_quelle: Steinbruch des Stenneshofs (Ruhrsandsteine für St. Georg Kirche ab 1879)
-GUELTIG_AB: 1400
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: hof
-BEZEICHNUNG: Stemmerhof
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  erwaehnung: 1250
-  lage: zwischen Rohmanns- und Stenneshof
-  aufgaben: Unterhalt der steinernen Reuse in der Ruhr
-  versorgungsauftrag: Fischversorgung für den Propst von Werden
-GUELTIG_AB: 1250
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: hof
-BEZEICHNUNG: Geilenkotten
-ORTSTEIL_BEZUG: südlichster Teil Heisingens
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  erwaehnung: 1400
-  lage: südlichster aller Höfe
-  lage_beschreibung: Weg von Heisingen zur Ruhr und weiter nach Werden verlief mitten durch
-  bewohner: Familie Stennes (Kauf 1903, Landwirtschaft eingestellt 1938)
-GUELTIG_AB: 1400
-GUELTIG_BIS: 1938
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: wappen
-BEZEICHNUNG: Wappen Heisingen
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  designer: Kurt Schweder
-  offizieller_status: kein offizieller Charakter, später (Ende 1980er) von Heraldiker für alle Essener Stadtteile geschaffen
-  annahme_bevoelkerung: gut angenommen
-  typ: redendes Wappen
-  blasonierung: in Silber (Weiß) eine dreizinnige rote Mauer mit offenem Tor, über dem Tor eine silberne (weiße) Kugel; oben schwebend ein aufrechter dreiblättriger grüner Buchenzweig, umgeben von sechs roten Kugeln
-  symbolik_mauer: Lichtung im Buchenwald (Heissiwald)
-  symbolik_kugeln: stammen aus dem Wappen des ehemaligen Rittersitzes der Herren von Stael
-GUELTIG_AB: 
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: bus_linie
-BEZEICHNUNG: Busline 145
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  betreiber: Ruhrbahn
-  verlaeufte_durch_heisingen: ja
-GUELTIG_AB: 
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: bus_linie
-BEZEICHNUNG: Busline 153
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  betreiber: Ruhrbahn
-  verlaeufte_durch_heisingen: ja
-GUELTIG_AB: 
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: bus_linie
-BEZEICHNUNG: Busline NE 7
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  betreiber: Ruhrbahn
-  verlaeufte_durch_heisingen: ja
-GUELTIG_AB: 
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: bus_linie
-BEZEICHNUNG: Busline T 72
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  betreiber: Ruhrbahn
-  verlaeufte_durch_heisingen: ja
-GUELTIG_AB: 
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: strasse
-BEZEICHNUNG: Bundesstraße 227
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  lage_heisingen: an der Bebauung Heisingens vorbeifuehrend
-  uebergang: innerhalb Heisingens in die Bundesautobahn 44
-GUELTIG_AB: 
-GUELTIG_BIS: 
+  laenge: 230 | km
+  bedeutung: überörtlicher Radweg im Ruhrtal
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.8
 
 ---
 
-ENTITÄT: kunstwerk
-BEZEICHNUNG: Ausstattung St. Georg Kirche
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+ENTITÄT: wanderweg
+BEZEICHNUNG: Bergischer Weg
+FACETTE: FREIZEIT | INFRA
+QUELLE: ZEUGEN (OpenStreetMap)
 EIGENSCHAFTEN:
-  kuenstler: Heinrich Gerhard Bücker (westfälischer Künstler)
-  kirche: St. Georg
-GUELTIG_AB: 1879
-GUELTIG_BIS: 
+  bedeutung: Fernwanderweg durch Bergisches Land
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person_heiliger
-BEZEICHNUNG: Liudger
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr_ca: 742
-  todesjahr: 809
-  herkunft: friesischer Missionar
-  gruendung: Kloster Werden (um 800)
-  schenkung: Rodung im Heissiwald von Heinrich von der Ruhr
-  schenkung_datum: 24. Februar 796
-GUELTIG_AB: 742
-GUELTIG_BIS: 809
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Heinrich von der Ruhr
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  action: Schenkung von Rodung im Heissiwald an Liudger
-  action_datum: 24. Februar 796
-GUELTIG_AB: 
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.75
 
 ---
 
-ENTITÄT: person
-BEZEICHNUNG: Burkhard von Kückelsheim
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+ENTITÄT: wanderweg
+BEZEICHNUNG: BaldeneySteig
+FACETTE: FREIZEIT | INFRA
+QUELLE: ZEUGEN (OpenStreetMap)
 EIGENSCHAFTEN:
-  position: Herr auf Schloss Schellenberg
-  abgaben_empfaenger_von: Wittenhof
-GUELTIG_AB: 
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.7
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Lutter Staël von Holstein
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  lehen_verleihung: 1524 (vom Hof Kofeld mit dem Stenneshof)
-GUELTIG_AB: 1524
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.7
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Werner Hamacher
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  position: Pfarrer (damaliger)
-  aktion: Initiator des Bergbau- und Heimatmuseums im Paulushof
-GUELTIG_AB: 
-GUELTIG_BIS: 
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: ripuarier
-BEZEICHNUNG: Ripuarier
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
-EIGENSCHAFTEN:
-  rolle_heisingen: Siedlungsaktionen im 7./8. Jahrhundert
-  herkunftsrichtung: Südwesten
-GUELTIG_AB: 700
-GUELTIG_BIS: 800
-IST_VERMUTLICH_AKTUELL: false
+  laenge: 26.7 | km
+  status_seit: 2017
+GUELTIG_AB: 2017
+IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.8
 
 ---
 
-ENTITÄT: volk
-BEZEICHNUNG: Brukterer
-ORTSTEIL_BEZUG: 
-QUELLE: https://de.wikipedia.org/wiki/Heisingen | Wikipedia
+ENTITÄT: wanderweg
+BEZEICHNUNG: GeoRoute Ruhr
+FACETTE: FREIZEIT | INFRA
+QUELLE: ZEUGEN (OpenStreetMap)
 EIGENSCHAFTEN:
-  rolle_heisingen: Siedlungsaktionen im 7./8. Jahrhundert
-  herkunftsregion: Gegend um Steele
-  herrschaftsgebiet: Steele
-  autonomieverslust: 695
-  zugehoerigkeit: Sachsen
-GUELTIG_AB: 695
-GUELTIG_BIS: 800
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
+  laenge: 185 | km
+  bedeutung: Themenweg mit geologischem Fokus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Raute10 Hugo-Kracht-Weg
+FACETTE: FREIZEIT | INFRA
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  besonderheit: Benannt nach Hugo Kracht
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Rundweg A2 (Schellenberger Wald)
+FACETTE: FREIZEIT | INFRA
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  laenge: 5 | km
+  lage: Schellenberger Wald
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Deutsche Fußball Route NRW (Mitte)
+FACETTE: FREIZEIT | INFRA
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  typ: Themenroute Fußball
+  lage_segment: Mitte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75

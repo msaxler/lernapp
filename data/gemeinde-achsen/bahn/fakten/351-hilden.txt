@@ -1,184 +1,398 @@
 ID: 351-hilden/001
 ENTITÄT: ort
-QUELLE: https://www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/ | Gemeinde-Webseite
+BEZEICHNUNG: Hilden
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Hilden | Wikipedia
 EIGENSCHAFTEN:
-  alter_charakterisierung: über tausendjährig
-  erste_urkundliche_erwaehnung: 985
-  erste_erwaehnung_grund: Hof des Erzbischofs von Köln in mittelalterlicher Urkunde
-  fruehe_besiedlung: Stein-, Bronze-, Eisenzeit
-  stadterhebung: 1861
-  eisenbahnanschluss: 1874
-  stadtwappen_verleihung: 1900
-  erstes_rathaus: 1900
-  fluss_durchfluss: Itter
+  bundesland: Nordrhein-Westfalen
+  kreis: Kreis Mettmann
+  lage_beschreibung: zwischen Düsseldorf, Wuppertal und Solingen, Übergangsbereich zwischen Rheinland und Bergischem Land
+  flaeche_km2: 26.0
+  einwohner: 55157
+  einwohner_stand: März 2026
+  einwohnerdichte_pro_km2: 2126
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 351-hilden/002
-ENTITÄT: ort
-QUELLE: https://www.hilden.de/de/wirtschaft-bauen/wirtschaftsfoerderung/wirtschaftsstandort/daten-fakten/ | Gemeinde-Webseite
+ENTITÄT: stadtwappen
+BEZEICHNUNG: Stadtwappen Hilden
+FACETTE: GESCHICHTE
+QUELLE: https://www.hilden.de/dokumente/geschichte/richtlinien-fuer-die-verwendung-des-wappens.pdf?cid=2ag | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  einwohnerzahl: 55157
-  flaeche_km2: 26.0
-  einwohnerdichte_pro_km2: 2126
-  verfuegbare_gewerbeflaeken_gesamt_m2: 70300
-  verfuegbare_gewerbeflaeken_kurzfristig_m2: 45000
-  verfuegbare_gewerbeflaeken_mittelfristig_m2: 25300
-  groesste_zusammenhaengende_gewerbefläche_m2: 11200
-  gewerbesteueraufkommen_2026_mrd_eur: 68
-  gewerbesteuerhebesatz_prozent: 430
-  grundsteuer_b_hebesatz_prozent: 800
-  grundsteuer_a_hebesatz_prozent: 400
-  sozialversicherungspflichtig_beschaeftigte: 22891
-  arbeitslosenquote_juni_2026_prozent: 6.3
-GUELTIG_AB: 2026
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.90
----
-ID: 351-hilden/003
-ENTITÄT: kirche
-BEZEICHNUNG: Reformationskirche
-QUELLE: https://www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  erbauung_beginn: Beginn 13. Jahrhundert
-  urspruengliche_weihe: Heiliger Jacobus
-  bedeutung: eines der bedeutendsten Baudenkmäler des Niederrheins
-GUELTIG_AB: 1200
+  verliehen_durch: König Wilhelm II. von Preußen
+  verliehenes_datum: 2. April 1900
+  hoheitszeichen: true
+  beschreibung: Unter silbernem Schildhaupt mit rotem Wechselzinnenbalken, in Grün silberner Schrägwellenbalken mit Kammrad oben und Sichel unten, Oberwappen dreitürmige silberne Mauerkrone
+GUELTIG_AB: 1900
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 ---
-ID: 351-hilden/004
-ENTITÄT: person
-BEZEICHNUNG: Wilhelm Fabry
+ID: 351-hilden/003
+ENTITÄT: reformationskirche
+BEZEICHNUNG: Reformationskirche
+FACETTE: GESCHICHTE
 QUELLE: https://www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/ | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  lebensjahre: 1560-1634
+  urspruengliche_weihe: heiliger Jacobus
+  bauzeit: 1200-1299
+  genauigkeit_bauzeit: ca.
+  beschreibung: Bedeutendstes Baudenkmal des Niederrheins, spätromanische Emporenkirche, auch Jacobikirche genannt
+  sakristei_anbau: 1536
+  superlativ: eines der bedeutendsten Baudenkmäler des Niederrheins
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 351-hilden/004
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Wilhelm Fabry
+FACETTE: GESCHICHTE
+QUELLE: https://www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1560-1634
   beruf: Wundarzt
-  herkunft: Hilden
-  beruf_charakterisierung: größter deutscher Wundarzt der Frühen Neuzeit
-  bedeutung: Begründer der modernen Chirurgie in Deutschland und der wissenschaftlichen Chirurgie
-  entwicklungen: neue chirurgische Instrumente und Operationsmethoden
+  bedeutung_fuer_ort: berühmtester Hildener, Begründer der modernen Chirurgie in Deutschland
+  bedeutung_fuer_ort_erlaeuterung: wegen Entwicklung neuer Instrumente und Operationsmethoden
 GUELTIG_AB: 1560
 GUELTIG_BIS: 1634
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 351-hilden/005
-ENTITÄT: person
-BEZEICHNUNG: Anton Hüls
-QUELLE: https://www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/ | Gemeinde-Webseite
+ENTITÄT: museum
+BEZEICHNUNG: Wilhelm-Fabry-Museum
+FACETTE: FREIZEIT
+QUELLE: https://www.hilden.de/de/kultur-freizeit/kultureinrichtungen/wilhelm-fabry-museum/ | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  beruf: reformierter Theologe
-  herkunft: Hilden
-GUELTIG_AB: 1550
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.70
----
-ID: 351-hilden/006
-ENTITÄT: person
-BEZEICHNUNG: Wilhelm Hüls
-QUELLE: https://www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  beruf: reformierter Theologe
-  herkunft: Hilden
-GUELTIG_AB: 1550
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.70
----
-ID: 351-hilden/007
-ENTITÄT: stadtwappen
-QUELLE: https://www.hilden.de/de/stadt-rathaus/die-stadt/stadtwappen-logo/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  verleihung: 1900
-  verleihungsdatum: 02. April 1900
-  hoheitszeichen_exklusiv: true
-  strukturkomponenten: Schild und Krone
-  mauerkrone_bedeutung: Sinnbild für die Stadt
-  gegenzinnenbalken_farbe: rot auf silber
-  gegenzinnenbalken_quelle: Landeswappen der Grafen von Berg
-  gegenzinnenbalken_bedeutung: zeigt Zugehörigkeit zum Berg'schen Land
-  silbernes_band_farbe: silber auf grün
-  silbernes_band_bedeutung: Itter (Fluss, der durch Hilden fließt)
-  kammrad_bedeutung: Industrie
-  sichel_bedeutung: Landwirtschaft
-  kammrad_und_sichel_kontext: Symbole hielten sich bei Verleihung 1900 etwa die Waage
-GUELTIG_AB: 1900
+  eroeffnungsdatum: 17. September 1989
+  schwerpunkte: Kunst und Medizin, Wechselausstellungen
+  benannt_nach: Wilhelm Fabry
+  nebengebaeude: Historische Kornbrennerei
+GUELTIG_AB: 1989
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 ---
-ID: 351-hilden/008
-ENTITÄT: museum
-BEZEICHNUNG: Wilhelm-Fabry-Museum
+ID: 351-hilden/006
+ENTITÄT: industriegebaeude
+BEZEICHNUNG: Brennerei Vogelsang
+FACETTE: LAGE
+ORTSTEIL_BEZUG: im Wilhelm-Fabry-Museum
 QUELLE: https://www.hilden.de/de/kultur-freizeit/kultureinrichtungen/wilhelm-fabry-museum/ | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  benannt_nach: Wilhelm Fabry
-  ausstellungsthemen: Kunst und Medizin
-  besonderheit: Kornbrennerei Vogelsang
-  kornbrennerei_dampfmaschine_baujahr: 1887
+  typ: Kornbrennerei
+  dokumentation: wie früher Korn und andere Spirituosen hergestellt wurden
+  besonderheit: Dampfmaschine von 1887 eingebaut
+  beschreibung: beeindruckendes industriegeschichtliches Denkmal
+GUELTIG_AB: 1887
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 351-hilden/007
+ENTITÄT: schwimmbad
+BEZEICHNUNG: Hildorado
+FACETTE: FREIZEIT
+QUELLE: https://www.hilden.de/de/kultur-freizeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Hallenschwimmbad
+  bekanntheit: überörtlich bekannt
+  besucheranzahl_2024: 300000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 351-hilden/008
+ENTITÄT: schwimmbad
+BEZEICHNUNG: Waldbad
+FACETTE: FREIZEIT
+QUELLE: https://www.hilden.de/de/kultur-freizeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Stadtwald, naturnahe Lage am Waldrand
+  bekanntheit: überörtlich bekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 351-hilden/009
+ENTITÄT: buergermeister
+BEZEICHNUNG: Dr. Claus Pommer
+FACETTE: POLITIK
+QUELLE: https://www.hilden.de/de/wirtschaft-bauen/wirtschaftsfoerderung/wir-ueber-uns/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Bürgermeister
+  amtsantritt: 2020
+  partei: CDU (seit 2025)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 351-hilden/010
+ENTITÄT: wirtschaftsforderung
+BEZEICHNUNG: Hildener Wirtschaftsförderung
+FACETTE: INFRA
+QUELLE: https://www.hilden.de/de/wirtschaft-bauen/wirtschaftsfoerderung/wir-ueber-uns/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  teamgroesse: 5 Personen
+  amtsleiter: Christian Schwenger
+  aufgaben: Unterstützung heimischer Wirtschaft, Immobilienmanagement, Unternehmensideen in öffentliche Verwaltung transportieren, Netzwerk-Veranstaltungen
+  veranstaltung: jährlicher Hildener Unternehmertag
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 351-hilden/011
+ENTITÄT: wirtschaftsstandort
+FACETTE: WIRTSCHAFT
+QUELLE: https://www.hilden.de/de/wirtschaft-bauen/wirtschaftsfoerderung/wirtschaftsstandort/daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gewerbesteueraufkommen_2026_mrd_euro: 68
+  gewerbesteuerhebesatz_prozent: 430
+  grundsteuer_b_v_h: 800
+  grundsteuer_a_v_h: 400
+  verfuegbare_industrie_gewerbeflaechfen_m2: 70300
+  verfuegbare_industrie_gewerbeflaechen_kurzfristig_m2: 45000
+  verfuegbare_industrie_gewerbeflaechen_mittelfristig_m2: 25300
+  groesste_zusammenhaengende_flaeche_m2: 11200
+  sozialversicherungspflichtig_beschaeftigte: 22891
+  arbeitslosenquote_juni_2026_prozent: 6.3
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 351-hilden/012
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirchengemeinde Hilden
+FACETTE: ALLTAG
+QUELLE: https://www.hilden.de/de/kultur-freizeit/kirche-religion/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  gemeindezentren: Reformationskirche, Erlöserkirche, Friedenskirche
+  pfarrbezirke: 7
+  gemeindeglieder_2024: 11792
+  gemeindeglieder_anfang_2026: 11500
+  mitgliederverlust_jaehrlich_prozent: 3
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 351-hilden/013
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Kirchengemeinde St. Jacobus Hilden
+FACETTE: ALLTAG
+QUELLE: https://www.hilden.de/de/kultur-freizeit/kirche-religion/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+  fusioniert: 31. Dezember 2009
+  beschreibung: derzeit größte katholische Gemeinde im Erzbistum Köln (Stand 2009)
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 ---
-ID: 351-hilden/009
-ENTITÄT: buergermmeister
-BEZEICHNUNG: Dr. Claus Pommer
-QUELLE: https://www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  amtsantritt: 2020
-GUELTIG_AB: 2020
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.90
----
-ID: 351-hilden/010
-ENTITÄT: ehrenbuerger
-BEZEICHNUNG: Otto von Bismarck
-QUELLE: https://www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  titel: Reichskanzler
-  ernennung_datum: 11. März 1895
-GUELTIG_AB: 1895
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.90
----
-ID: 351-hilden/011
-ENTITÄT: ehrenbuerger
-BEZEICHNUNG: Ferdinand Wilhelm Lieven
-QUELLE: https://www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  position: Gutsbesitzer und 1. Beigeordneter
-  ernennung_datum: 17. September 1900
-GUELTIG_AB: 1900
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.90
----
-ID: 351-hilden/012
-ENTITÄT: ehrenbuerger
-BEZEICHNUNG: Fritz Gressard
-QUELLE: https://www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  position: Fabrikant und 1. Beigeordneter
-  ernennung_datum: 26. Mai 1914
-GUELTIG_AB: 1914
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.90
----
-ID: 351-hilden/013
-ENTITÄT: ehrenbuerger
-BEZEICHNUNG: Walter Wiederhold
-QUELLE: https://www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/ | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  position: Fabrikant
-  ernennung_datum: 09. Mai 1952
-GUELTIG_AB: 1952
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.90
----
 ID: 351-hilden/014
-ENTITÄT: ehrenbuerger
-BEZEICHNUNG: Dr. Ellen Wiederhold
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Hildener Künstlermarkt
+FACETTE: FREIZEIT
+QUELLE: https://www.hilden.de/de/kultur-freizeit/freizeit-kulturangebote/hildener-kuenstlermarkt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  durchfuehrung_2026: 20. und 21. Juni
+  haeufigkeit: jährlich
+  auflage: 23. (in 2026)
+  location: Hildener Innenstadt, Mittelstraße
+  kuenstler_gesamt: 66
+  hildener_kuenstler: 8
+  künstler_aus_laender: Belgien, Frankreich
+  kunstformen: Öl- und Acrylmalerei, Aquarelle, Fotografien, Radierungen, Keramik, Glaskunst, Holzarbeiten, Objekte, Skulpturen, Maori-Tätowierungen
+  nebenveranstaltung: Street Food Festival auf dem Ellen-Wiederhold-Platz
+GUELTIG_AB: vor 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 351-hilden/015
+ENTITÄT: moschee
+BEZEICHNUNG: Emir-Sultan-Moschee
+FACETTE: ALLTAG
+QUELLE: https://www.hilden.de/de/kultur-freizeit/kirche-religion/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnungsdatum: 29. April 2001
+  lage: Otto-Hahn-Straße, Industriegelände nahe S-Bahn-Station
+  bauwerk: Minarett vorhanden
+  freitagsgebete_besucher: ca. 200
+  träger: Türkischer Arbeitnehmerverein
+GUELTIG_AB: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 351-hilden/016
+ENTITÄT: moschee
+BEZEICHNUNG: Arrahman-Moschee
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Hilden | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnungsdatum: 26. Mai 2013
+  lage: Telleringstraße
+  flaeche_m2: 2200
+  zielgruppe: ca. 1000 Hildener mit marokkanischen Wurzeln
+  gebetsraeum_maenner: 500 Plätze
+  gebetsraeum_frauen_kinder: 250 Plätze
+  finanzierung: Spenden, finanzielle Unterstützung des Marokkanischen Königreichs
+GUELTIG_AB: 2013
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 351-hilden/017
+ENTITÄT: verein
+BEZEICHNUNG: Stadtmarketing Hilden e.V.
+FACETTE: ALLTAG
+QUELLE: https://www.hilden.de/de/wirtschaft-bauen/citymanagement/stadtmarketing-verein/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Bindeglied zwischen Mitgliedern, Wirtschaftsförderung, Citymanagement und Bürgermeisterbüro
+  aufgaben: Übertragung von Mitgliederanliegen ins Rathaus, Verschönerung des Stadtbildes, Veranstaltungsplanung, Unterstützung der Stadt bei Events
+  unabhaengigkeit: betont
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 351-hilden/018
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Tag des offenen Denkmals
+FACETTE: FREIZEIT
+QUELLE: https://www.hilden.de/de/kultur-freizeit/freizeit-kulturangebote/tag-des-offenen-denkmals/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  haeufigkeit: jährlich, zweiter Sonntag im September
+  ziel: Öffentlichkeit für Bedeutung kulturellen Erbes sensibilisieren, Interesse für Denkmalpflege wecken
+  botschaft: Gemeinsam Denkmale erhalten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 351-hilden/019
+ENTITÄT: stadthalle
+BEZEICHNUNG: Stadthalle Hilden
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hilden | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnungsdatum: 16. September 1978
+  bau_kosten_mill_dm: 20
+  architekt: Hans Strizewski
+  hauptsaal_flaeche_m2: 1500
+  foyer_flaeche_m2: 1000
+  abtrennung: absenkbare Trennwand
+  typ: Multifunktionshalle
+  nutzung: Theateraufführungen, Messen, Spielzeugmärkte, Kabarett, Musik, Tanz, Karnevalsveranstaltungen, UNICEF-Gala seit 1981
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 351-hilden/020
+ENTITÄT: krankenhaus
+BEZEICHNUNG: St.-Josefs-Krankenhaus
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Hilden | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnungsdatum: 19. März 1890
+  urspruenglicher_betreiber: katholische Trägerschaft
+  neubau_eingeweiht: 1882
+  neubau_baubeginn: 1872
+  traeger_seit_2024: Gemeinnützige Gesellschaft der Franziskanerinnen zu Olpe
+  klinikverbund_seit_2024: GFO-Kliniken Mettmann-Süd
+  partner_klinik: St.-Martinus-Krankenhaus in Langenfeld
+  betten: 183
+  jaehrliche_faelle: 7630
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 351-hilden/021
+ENTITÄT: betrieb
+BEZEICHNUNG: 3M
+FACETTE: WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Hilden | Wikipedia
+EIGENSCHAFTEN:
+  ansiedlung_seit: 29. März 1958
+  bedeutung_fuer_ort: europaweit größtes 3M-Werk
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 351-hilden/022
+ENTITÄT: betrieb
+BEZEICHNUNG: AkzoNobel (ehemals ICI Paints, ehemals Hermann Wiederhold Lackfabriken)
+FACETTE: WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Hilden | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: wenige Großbetriebe noch erhalten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 351-hilden/023
+ENTITÄT: geschaeftsstelle
+BEZEICHNUNG: Bundesgeschäftsstelle der Gewerkschaft der Polizei
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Hilden | Wikipedia
+EIGENSCHAFTEN:
+  anzahl_bundesgeschaeftsstellen: 2
+  andere_standort: Berlin
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 351-hilden/024
+ENTITÄT: ortschaft
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Hilden | Wikipedia
+EIGENSCHAFTEN:
+  stadtteile_informalbezeichnungen: Mitte, Nord, Süd, Ost, West
+  keine_ausgegliederten_voroerte: true
+  dichte_besiedelung: Hilden gehört zu den am dichtesten besiedelten Kommunen Deutschlands
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 351-hilden/025
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Warrington
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Hilden | Wikipedia
+EIGENSCHAFTEN:
+  land: Vereinigtes Königreich
+  partnerschaft_seit: 1968
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 351-hilden/026
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Nové Město nad Metují
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Hilden | Wikipedia
+EIGENSCHAFTEN:
+  land: Tschechien
+  partnerschaft_seit: 1989
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 351-hilden/027
+ENTITÄT: fluss
+BEZEICHNUNG: Itter
+FACETTE: LAGE
 QUELLE: https://www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/ | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  position: Fabrikantin und Bürgermeisterin
-  ernennung_datum: 04. November 1994
-GUELTIG_AB: 1994
+  beschreibung: durchzieht Hilden, Fluss im Stadtwappen dargestellt
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.90
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 351-hilden/028
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Hilden
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Hilden | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnung: 1874
+  lage: westlich der Stadt
+  hoehe_ueber_nn_meter: 48
+  s_bahn_linie: S1
+GUELTIG_AB: 1874
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 351-hilden/029
+ENTITÄT: bahnhaltepunkt
+BEZEICHNUNG: Hilden Süd
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Hilden | Wikipedia
+EIGENSCHAFTEN:
+  inbetriebnahme: 1979
+  s_bahn_linie: S1
+GUELTIG_AB: 1979
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

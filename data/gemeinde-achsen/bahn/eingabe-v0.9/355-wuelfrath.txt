@@ -1,0 +1,814 @@
+ZIELORT: Wülfrath (Stadt)
+LAGE: 9 km westlich von Wuppertal (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Wülfrath
+
+GRUNDDATEN:
+  bundesland: Nordrhein-Westfalen  [dewiki Infobox]
+  einwohner: 20.704  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 32,27  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 642  [berechnet aus Einwohner und Fläche]
+  kfz: ME (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 262 | 189 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2805910)]
+  naechste_grossstadt: Wuppertal, 9 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Düsseldorf, 19 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Wülfrath, Haltepunkt Wülfrath-Aprath  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 42489  [Wikidata P281]
+  vorwahl: 02058  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 31,3 %, SPD 20,7 %, AfD 18,7 %, GRÜNE 10,6 %, Die Linke 6,1 %; Wahlbeteiligung 83,2 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 82,2 % im Bundesland (Ort 83,2 %, Abstand 1 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+  buergermeister: Sebastian Schorn (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-14]
+  partnerstaedte: Bondues, Ware  [Wikidata P190]
+
+PLAN:
+  Karte 1: FACETTE ALLTAG (Ersatz: FREIZEIT), Geschichte, D, wahre Option an Stelle 3
+  Karte 2: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 4
+  Karte 3: FACETTE FREIZEIT (Ersatz: ALLTAG), Geschichte, D, wahre Option an Stelle 1
+  Karte 4: FACETTE INFRA (Ersatz: LAGE), Geschichte, A, wahre Option an Stelle 2
+  Karte 5: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, A, wahre Option an Stelle 3
+  Karte 6: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, B, Lüge an Stelle 3
+  Karte 7: FACETTE INFRA, Klassiker, EIGENSCHAFT einwohner: Einwohnerzahl (Ersatz: Fläche der Gemarkung), C, wahre Spanne an Stelle 1
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je ein weiteres Charakteristikum, Facette frei, Familie A, B oder D, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Mettmann (Stadt)
+  einwohner: 39.595  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 42,56  [Wikidata P2046; Altbestand staedte.json]
+  kfz: ME (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 140 | 132 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2871535)]
+  naechste_grossstadt: Solingen, 12 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Haltepunkt Mettmann Zentrum, Mettmann Stadtwald, Neanderthal  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 33,9 %, SPD 17,5 %, AfD 15,9 %, GRÜNE 12,6 %, FDP 6,4 %, Die Linke 6 %; Wahlbeteiligung 83,8 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 82,2 % im Bundesland (Ort 83,8 %, Abstand 1,6 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+FAHRT: Wiehre, Waldsee, Altstadt, Stühlinger, Neuburg, Herdern, Zähringen, Brühl, Oberau, Haslach, Sankt Georgen, Vauban, Weingarten, Betzenhausen, Mooswald, Landwasser, Lehen, Rieselfeld, Dietenbach, Opfingen, Tiengen, Munzingen, Waltershofen, Ebnet, Littenweiler, Kappel, Merzhausen, Au, Horben, Günterstal, Ebringen, Schallstadt, Bad Krozingen, Staufen, Heitersheim, Müllheim, Waldkirch, Hochdorf, Gundelfingen, Denzlingen, Glottertal, March, Umkirch, Gottenheim, Merdingen, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Vogtsburg, Oberrotweil, Achkarren, Burkheim, Bischoffingen, Bickensohl, Oberbergen, Schelingen, Sasbach, Leiselheim, Wyhl, Forchheim, Breisach, Gündlingen, Niederrimsingen, Oberrimsingen, Kirchzarten, Stegen, St. Peter, St. Märgen, Oberried, Buchenbach, Höllental, Hinterzarten, Breitnau, Titisee, Titisee-Neustadt, Feldberg, Schluchsee, Lenzkirch, Eisenbach, Friedenweiler, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Neuwied, Altwied, Rengsdorf, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Bonefeld, Straßenhaus, Oberhonnefeld-Gierend, Willroth, Horhausen, Hümmerich, Krunkel, Breitscheid, Kloster Marienhaus, Wolfenacker, Kupferdreh, Überruhr, Bergerhausen, Rellinghausen, Stadtwald, Fischlaken, Werden, Burgaltendorf, Steele, Byfang, Rüttenscheid, Bredeney, Huttrop, Kettwig, Schuir, Heidhausen, Haarzopf, Margarethenhöhe, Südostviertel, Freisenbruch
+
+FAKTEN (Zielort Wülfrath):
+ID: 355-wuelfrath/001
+ENTITÄT: ort
+FACETTE: LAGE | GESCHICHTE | ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wülfrath | Wikipedia
+EIGENSCHAFTEN:
+  ist_kreisangehoerige_stadt: true
+  lage_kreis: Mettmann
+  lage_region: Niederbergisches Land
+  lage_bundesland: Nordrhein-Westfalen
+  nachbarstadte: Wuppertal, Velbert, Heiligenhaus, Mettmann, Ratingen
+  groesse_einwohner: 21500
+  genauigkeit: ca.
+  ist_mittleres_mittelzentrum: true
+  ist_kleinste_stadt_kreis: true
+  strom: Anger
+  urspruenge_geschichte_jahre: "vor 1000 Jahren"
+GUELTIG_AB: 713
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/002
+ENTITÄT: ort
+FACETTE: GESCHICHTE | ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stadtrechte_verliehen: 1856
+  grund_stadtrechte: "Verleihung der Städteordnung für die Rheinprovinz"
+  einwohnerzahl_1975: 24000
+  einwohnerzahl_post_reform: "unter 20000"
+  einwohnerzahl_aktuell: "ueber 22000"
+  ortsbild_beschreibung: "historisch gewachsen, moderne Entwicklung und bergische Gemütlichkeit"
+GUELTIG_AB: 1856
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 355-wuelfrath/003
+ENTITÄT: stadt_archiv
+BEZEICHNUNG: Stadtarchiv Wülfrath
+FACETTE: KULTUR | INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aelteste_akten_bis_Jahrhundert: "17."
+  schmuckstück: "Marktbrief von 1578"
+  inhalt_marktbrief: "Herzog Wilhelm von Jülich-Kleve-Berg bewilligt nach Großbrand vier steuerfreie Märkte"
+  ratsprotokolle_ab: 1846
+  bestaende: "Hausbücher, Adress- und Telefonbücher, Fotografien, Plakate, Karten, Zeitungen ab 1875"
+  leiter: "Dr. Axel Bayer"
+  adresse: "Wilhelmstraße 146, 42489 Wülfrath"
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 355-wuelfrath/004
+ENTITÄT: kirche
+BEZEICHNUNG: St.-Cornelius-Kirche
+FACETTE: LAGE | GESCHICHTE | KULTUR
+ORTSTEIL_BEZUG: Innenstadt
+QUELLE: https://de.wikipedia.org/wiki/Wülfrath | Wikipedia
+EIGENSCHAFTEN:
+  bauweise_ursprung: "frühmittelalterliche Saalkirche"
+  bauweise_ursprung_zeit: "um 713 n. Chr."
+  bauweise_romanisch: "12. Jahrhundert"
+  bauweise_gotisch: "14./15. Jahrhundert"
+  lage: "Kirchplatz, Mittelpunkt des Ortes"
+  turm: "romanisch, 12. Jahrhundert"
+  mittelschiff: "gotisch, 14. Jahrhundert"
+  suedliches_kirchenschiff: "spätgotisch, 1524"
+  bedeutung_fuer_ort: "Mittelpunkt des altbergischen Kirchplatzes, historisches Wahrzeichen"
+GUELTIG_AB: 713
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/005
+ENTITÄT: kirche
+BEZEICHNUNG: St.-Maximin-Kirche
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: Düssel
+QUELLE: https://de.wikipedia.org/wiki/Wülfrath | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1256
+  bauweise: "romanische Pfeilerbasilika"
+  bauweise_aelteste_teile: "frühes 12. Jahrhundert"
+GUELTIG_AB: 1256
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 355-wuelfrath/006
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelisch reformierte Kirchengemeinde Wülfrath
+FACETTE: KULTUR | INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wülfrath | Wikipedia
+EIGENSCHAFTEN:
+  typ: "Evangelische Kirche"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 355-wuelfrath/007
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Düssel
+FACETTE: KULTUR | INFRA
+ORTSTEIL_BEZUG: Düssel
+QUELLE: https://de.wikipedia.org/wiki/Wülfrath | Wikipedia
+EIGENSCHAFTEN:
+  typ: "Evangelische Kirche"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 355-wuelfrath/008
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Katholische Kirchengemeinde St. Maximin Wülfrath
+FACETTE: KULTUR | INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wülfrath | Wikipedia
+EIGENSCHAFTEN:
+  typ: "Katholische Kirche"
+  kirchen: "St. Joseph (Stadtmitte), St. Maximin (Düssel), St. Petrus Canisius (Rohdenhaus)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 355-wuelfrath/009
+ENTITÄT: brand
+BEZEICHNUNG: Großbrand 1578
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1578
+  wirkung: "Dorf völlig zerstört, Kirche beschädigt"
+  folge_marktbrief: "Herzog Wilhelm V. verlieh vier steuerfreie Jahrmärkte"
+  bedeutung_fuer_ort: "Anlass für Marktprivileg, wirtschaftliche Erholung und schneller Wiederaufbau"
+GUELTIG_AB: 1578
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/010
+ENTITÄT: brand
+BEZEICHNUNG: Großbrand 1678
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1678
+  zeitabstand_zum_ersten_brand: 100
+  wirkung: "Dorf in Schutt und Asche gelegt, mit Hilfe von Nachbargemeinden schnell wiedererrichtet"
+GUELTIG_AB: 1678
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/011
+ENTITÄT: buergermeister
+BEZEICHNUNG: Johann Peter Halfmann
+FACETTE: POLITIK | GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/sichtbare-geschichte-strassen-tragen-buergermeister-namen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 1807
+  sterbetag: 1883
+  amtszeit_beginn: 1833
+  amtszeit_ende: 1874
+  leistung: "Förderung des notwendigen Straßenbaus und Eisenbahnanschluss des Wülfrather Gebiets"
+  strasse: "Halfmannstraße"
+GUELTIG_AB: 1833
+GUELTIG_BIS: 1874
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/012
+ENTITÄT: buergermeister
+BEZEICHNUNG: Albert Kirschbaum
+FACETTE: POLITIK | GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/sichtbare-geschichte-strassen-tragen-buergermeister-namen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 1850
+  sterbetag: 1925
+  amtszeit_beginn: 1874
+  amtszeit_ende: 1919
+  leistung: "Straßenbau, Eisenbahnanschluss, Gründung der Freiwilligen Feuerwehr"
+  strasse: "Kirschbaumstraße"
+GUELTIG_AB: 1874
+GUELTIG_BIS: 1919
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/013
+ENTITÄT: buergermeister
+BEZEICHNUNG: August Havemann
+FACETTE: POLITIK | GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/sichtbare-geschichte-strassen-tragen-buergermeister-namen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 1877
+  sterbetag: 1940
+  amtszeit_beginn: 1919
+  amtszeit_ende: 1940
+  gesinnung: "antidemokratisch"
+  partei_waehler: "Deutschnationale Volkspartei (DNVP), 1929"
+  partei_mitglied: "NSDAP, nach 1933"
+  besonderheit: "schützte die jüdische Familie Beyth vor Deportation bis zu seinem Tod 1940"
+  strasse: "Havemannstraße"
+  vertrauen: "genoss Sympathien auch bei linken Parteien wegen seiner Tüchtigkeit und sozialen Einstellung"
+GUELTIG_AB: 1919
+GUELTIG_BIS: 1940
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 355-wuelfrath/014
+ENTITÄT: buergermeister
+BEZEICHNUNG: Sebastian Schorn
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wülfrath | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  amtsanfang: "1. November 2025"
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/015
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ina Seidel
+FACETTE: GESCHICHTE | KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/informationen-zu-ina-seidel | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1885
+  geburtsort: "Halle/Saale"
+  sterbejahr: 1974
+  sterbeort: "Ebenhausen"
+  beruf: "Schriftstellerin"
+  kultureller_hintergrund: "bürgerlich, christlich-protestantisch"
+  literarischer_durchbruch: 1930
+  werk_durchbruch: "Das Wunschkind"
+  haltung_ns_regime: "enthusiastische Unterstützung, blinde Hingebung zu Adolf Hitler"
+  treuegeloebnis_nazi: "23. Oktober 1933, mit 87 weiteren Schriftstellern auf Hitler"
+  partei_mitglied: false
+  nsdap: false
+  bedeutung: "vielgelesene Autorin im Dritten Reich, Werke in Schulunterricht, Gedicht in Tornisterschrift deutscher Soldaten, Gotbegnadeten-Liste 1944"
+GUELTIG_AB: 1885
+GUELTIG_BIS: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 355-wuelfrath/016
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Willi Münch
+FACETTE: KULTUR | GESCHICHTE | POLITIK
+ORTSTITEL_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/willi-muench-wuelfrather-kuenstler-und-mehr | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: "24. Dezember 1930"
+  sterbetag: "9. März 2023"
+  beruf: "Beamter, Heimatkundler, Maler, Zeichner, Karikaturist"
+  position_museum: "Leiter des Niederbergischen Museums (ab 1957)"
+  position_kulturamt: "Kulturamtsleiter"
+  position_denkmalbehörde: "Leiter der Unteren Denkmalbehörde"
+  position_heimatbund: "50+ Jahre Mitglied, 17 Jahre Vorsitzender, ab 2009 Ehrenvorsitzender"
+  auszeichnungen: "Albert-Steeger-Preis (1967), Rheinlandtaler (1990), Bundesverdienstkreuz (1991), Ehrenring Stadt Wülfrath (2011)"
+  publikationen_anzahl: "zahlreiche heimatgeschichtliche Werke"
+  staedtepartnerschaft: "maßgeblich beteiligt an Entwicklung mit britischer Stadt Ware"
+GUELTIG_AB: 1930
+GUELTIG_BIS: 2023
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/017
+ENTITÄT: industrie
+BEZEICHNUNG: Kalkindustrie Wülfrath
+FACETTE: WIRTSCHAFT | LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundung_erste: 1887
+  unternehmen_erste: "Rheinisch-Westfälische Kalkwerke Dornap"
+  grundung_zweite: 1903
+  unternehmen_zweite: "Rheinische Kalksteinwerke Wülfrath"
+  konglomerat_heute: "Rheinkalk, Lhoist-Gruppe (Belgien)"
+  werk_flandersbach: "größter Kalksteinbruch Europas"
+  arbeitsplaetze_1891: "über 19 gewerbliche Anlagen mit Dampfkraft, 24 Anlagen ohne Dampfkraft"
+  bedeutung_fuer_ort: "wichtigster Industriezweig, Schwerpunkt der Wirtschaft, Arbeitgeber"
+  bahnanbindung_eisenbahn: 1886
+GUELTIG_AB: 1887
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/018
+ENTITÄT: museum
+BEZEICHNUNG: Niederbergisches Museum
+FACETTE: KULTUR | FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/willi-muench-wuelfrather-kuenstler-und-mehr | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundung: 1913
+  besonderheit: "Bergische Kaffeetafel"
+  leitung_seit: 1957
+  leiter: "Willi Münch"
+  bedeutung_fuer_ort: "Dokumentation Kalkabbaus als prägende Industrie"
+GUELTIG_AB: 1913
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 355-wuelfrath/019
+ENTITÄT: museum
+BEZEICHNUNG: Zeittunnel Wülfrath
+FACETTE: KULTUR | FREIZEIT | LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/uebersicht-stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: "erdgeschichtliches Museum"
+  funktion: "Ausgangspunkt für Erkundung der Industriekultur und -natur"
+  kontext: "EUROGA 2002 plus"
+  bedeutung_fuer_ort: "touristisches Kulturangebot, sichtbar machung von Kalksteinbrüchen als Industriekultur"
+GUELTIG_AB: 2002
+IST_VERMUTGLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 355-wuelfrath/020
+ENTITÄT: friedhof
+BEZEICHNUNG: Kommunalfriedhof Wülfrath
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/kriegsgraeber | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Alte Ratinger Landstraße"
+  vorher_funktion: "katholischer Friedhof bis 1968"
+  grabanlagen_ns_opfer_anzahl: 34
+  grabanlagen_ns_opfer_angelegt: 1948
+  opfer_herkunft: "überwiegend Zwangsarbeiter aus Polen und ehemalige Sowjetunion"
+  opfer_deutsche: "3 bei Luftangriffen getötet"
+  beschaeftigung_opfer: "Kalksteinwerke, andere Firmen, Landwirtschaft"
+  neugestaltung: 2022
+  hinweistafel: 2023
+  bedeutung_fuer_ort: "Gedenken an NS-Kriegsopfer und Zwangsarbeiter"
+GUELTIG_AB: 1948
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 355-wuelfrath/021
+ENTITÄT: stadtteil
+BEZEICHNUNG: Düssel
+FACETTE: LAGE | GESCHICHTE
+ORTSTITEL_BEZUG: Düssel
+QUELLE: https://de.wikipedia.org/wiki/Wülfrath | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: "Malerisches Fachwerkdorf"
+  erste_erwaehnung_honnschaft: 875
+  honnschaft_name: "Honschaft Oberdüssel, später Unterdüssel"
+  kirche: "St.-Maximin-Kirche"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 355-wuelfrath/022
+ENTITÄT: stadtteil
+BEZEICHNUNG: Flandersbach
+FACETTE: LAGE | GESCHICHTE
+ORTSTITEL_BEZUG: Flandersbach
+QUELLE: https://de.wikipedia.org/wiki/Wülfrath | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung: 875
+  honnschaft_name: "Flandersbach"
+  namensursprung: "Flatmarasbeki = der Bach, an dem Flattmar sich niederließ"
+GUELTIG_AB: 875
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 355-wuelfrath/023
+ENTITÄT: stadtteil
+BEZEICHNUNG: Rohdenhaus
+FACETTE: LAGE
+ORTSTITEL_BEZUG: Rohdenhaus
+QUELLE: https://de.wikipedia.org/wiki/Wülfrath | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: "Ortsteil"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 355-wuelfrath/024
+ENTITÄT: stadtteil
+BEZEICHNUNG: Schlupkothen
+FACETTE: LAGE
+ORTSTITEL_BEZUG: Schlupkothen
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/uebersicht-stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "Ortsteil"
+  steinbruch: "Steinbruch Schlupkothen mit Lehr- und Erlebnispfad (EUROGA 2002 plus)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 355-wuelfrath/025
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Ware
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wülfrath | Wikipedia
+EIGENSCHAFTEN:
+  land: "Vereinigtes Königreich"
+  seit: 1971
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/026
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Bondues
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wülfrath | Wikipedia
+EIGENSCHAFTEN:
+  land: "Frankreich"
+  seit: 2003
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/027
+ENTITÄT: markt
+BEZEICHNUNG: Herzog-Wilhelm-Markt
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Innenstadt
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/uebersicht-stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: "Weihnachtsmarkt"
+  lage: "Kirchplatz"
+  rhythmus: "jährlich"
+  beginn: "Freitag vor 1. Advent"
+  bedeutung_fuer_ort: "kulturelles Angebot, attraktive Freizeitgestaltung"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 355-wuelfrath/028
+ENTITÄT: maerkte
+BEZEICHNUNG: Vier steuerfreie Jahrmärkte
+FACETTE: WIRTSCHAFT | GESCHICHTE
+ORTSTITEL_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verliehen_jahr: 1579
+  verliehen_durch: "Herzog Wilhelm V. von Jülich-Kleve-Berg (Wilhelm der Reiche)"
+  grund: "Großbrand 1578, Hilfe zum wirtschaftlichen Erholen und Wiederaufbau"
+  bedeutung_fuer_ort: "Erstarken von Handel und Gewerbe, Wandel von Bauerndorf zu Marktflecken"
+GUELTIG_AB: 1579
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/029
+ENTITÄT: pferdemarkt
+BEZEICHNUNG: Besonderer Pferdemarkt
+FACETTE: WIRTSCHAFT | GESCHICHTE
+ORTSTITEL_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verliehen_jahr: 1717
+  boosted: "Bergischer Pferdezuchtverein Aprath gegründet 1908"
+GUELTIG_AB: 1717
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 355-wuelfrath/030
+ENTITÄT: fernwanderweg
+BEZEICHNUNG: neanderland STEIG
+FACETTE: FREIZEIT
+ORTSTITEL_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/wander-und-radwege | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge_km: 230
+  anzahl_etappen: 17
+  besonderheiten: "Badeseen, Moore, Heidelandschaften, Forste, Naherholungsgebiete, Museen, Kirchen, historische und moderne Bauten, malerische Marktplätze"
+  etappen_wuelfrath: 2
+  etappen_wuelfrath_beschreibung: "Wülfrath-Düssel bis Velbert-Nordrath und Haan-Hülsberg bis Velbert-Neviges"
+  bedeutung_fuer_ort: "Fernwanderweg mit kulturellem und naturkunstlichem Angebot"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 355-wuelfrath/031
+ENTITÄT: wanderweg
+BEZEICHNUNG: Bergischer Weg
+FACETTE: FREIZEIT
+ORTSTITEL_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/wander-und-radwege | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge_km: 258
+  alter_wanderweg: "über 100 Jahre alt"
+  anzahl_etappen: 13
+  etappen_wuelfrath: 1
+  route_beschreibung: "vom Ruhrgebiet quer durch das Bergische Land ins Siebengebirge"
+  landschaftsbeschreibung: "sanft geschwungene Hügel, bunte Mischwälder, kleine Fachwerkdörfer, Orte der Kulturgeschichte"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 355-wuelfrath/032
+ENTITÄT: radweg
+BEZEICHNUNG: PanoramaRadweg niederbergbahn
+FACETTE: FREIZEIT
+ORTSTITEL_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/wander-und-radwege | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorgaenger: "Niederbergbahn (Bahnstrecke)"
+  vorgaenger_stilllegung: 1999
+  umwandlung: 2011
+  verlaeufer_staedte: "Wülfrath, Velbert, Heiligenhaus, Haan"
+  anschluss_radwege: "Ruhrtalradweg (Essen-Kettwig)"
+  nutzer: "Radfahrer, Spaziergänger, Wanderer, Jogger, Inlineskater, Familien"
+  besonderheiten: "Viadukte, Brücken, Blicke in Landschaft, Eisenbahngeschichte, Kultur, Zeittunnel, Museen, historische Stadtkerne, Relikte der Kalkindustriegeschichte"
+  bedeutung_fuer_ort: "Freizeit- und Kulturangebot verbunden mit Natur und Industriekultur"
+GUELTIG_AB: 2011
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 355-wuelfrath/033
+ENTITÄT: radweg
+BEZEICHNUNG: Kaiserroute
+FACETTE: FREIZEIT
+ORTSTITEL_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/wander-und-radwege | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge_km: 480
+  route: "Aachen nach Paderborn"
+  verlauf_wuelfrath: "führt durch die idyllische niederbergische Stadt Wülfrath"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 355-wuelfrath/034
+ENTITÄT: denkmal
+BEZEICHNUNG: Kaiser-Wilhelm-Denkmal
+FACETTE: LAGE | KULTUR
+ORTSTITEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wülfrath | Wikipedia
+EIGENSCHAFTEN:
+  lage: "außerhalb der Stadt"
+  erbaut: 1890
+  kuenstler: "Rudolf Schweinitz"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 355-wuelfrath/035
+ENTITÄT: gedenkstein
+BEZEICHNUNG: Gedenkstein Opfer des Nationalsozialismus
+FACETTE: GESCHICHTE
+ORTSTITEL_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/wuelfrath-in-der-zeit-des-nationalsozialismus-1933-45 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aufgestellt: "8. Mai 1985"
+  beschreibung: "Gedenken an Opfer des Nationalsozialismus"
+  verfolgtengruppen: "Juden (Hauptzielgruppe), Menschen aus politischen, rassistischen, sozialen Gründen, Glaubensgründen, Weltanschauung, Behinderung"
+  bedeutung_fuer_ort: "Erinnerung an Verbrechen, Aufarbeitung der NS-Zeit"
+GUELTIG_AB: 1985
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 355-wuelfrath/036
+ENTITÄT: gedenktafeln
+BEZEICHNUNG: Gedenktafeln Zwangsarbeiter
+FACETTE: GESCHICHTE
+ORTSTITEL_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/wuelfrath-in-der-zeit-des-nationalsozialismus-1933-45 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aufgestellt: "27. Januar 2023"
+  lage: "Zeittunnel und WIR-Haus, Wilhelmstraße 189"
+  anzahl_tafeln: 2
+  gedenkanlass: "mindestens 137 ausländische Zwangsarbeiter 1940-1945"
+  todesursachen: "grenzenlose Ausbeutung, Unterernährung, mangelnde Hygiene, schlechte Gesundheitsversorgung, rassistische Unterdrückung, Naziterror"
+  bedeutung_fuer_ort: "öffentliche Dokumentation, Erinnerungskultur, Bewusstsein für Menschenrechte"
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/037
+ENTITÄT: stolpersteine
+FACETTE: GESCHICHTE
+ORTSTITEL_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/wuelfrath-in-der-zeit-des-nationalsozialismus-1933-45 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_verlegung: "27. Februar 2008"
+  erste_opfer: "Johanna Beyth"
+  weitere_verlegungen: "20. Februar 2017"
+  weitere_opfer: "Eugen Raucamp, Wilhelm Everts (Rundfunkverbrechen), Heinrich und Maria Dreier (Zeugen Jehovas)"
+  anzahl_stolpersteine: 5
+  bedeutung_fuer_ort: "individuelle Erinnerung an einzelne Schicksale, Teil der Erinnerungskultur"
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 355-wuelfrath/038
+ENTITÄT: ortsteil_bezirk
+BEZEICHNUNG: Honschaft Rützkausen
+FACETTE: LAGE | GESCHICHTE
+ORTSTITEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wülfrath | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung: 875
+  namensursprung: "Hrotsteninghuson = bei den Häusern der Sippe des Hrotsen"
+GUELTIG_AB: 875
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 355-wuelfrath/039
+ENTITÄT: handwerk
+BEZEICHNUNG: Schmiede
+FACETTE: WIRTSCHAFT | GESCHICHTE
+ORTSTITLE_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_bezeugung: 1265
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 355-wuelfrath/040
+ENTITÄT: handwerk
+BEZEICHNUNG: Hausweberei
+FACETTE: WIRTSCHAFT | GESCHICHTE
+ORTSTTITLE_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wülfrath | Wikipedia
+EIGENSCHAFTEN:
+  periode: "bis Mitte 19. Jahrhundert"
+  anzahl_betriebe: "über 100 Handels- und Gewerbebetriebe"
+  typ_betriebe: "größere Hausbetriebe – meistens Heimwebereien"
+  lohnweber_verleger: "meist in Langenberg oder Wuppertal"
+GUELTIG_BIS: "Mitte 19. Jahrhundert"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 355-wuelfrath/041
+ENTITÄT: gebaeudeensemble
+BEZEICHNUNG: Kirchplatz
+FACETTE: LAGE | KULTUR
+ORTSTITLE_BEZUG: Innenstadt
+QUELLE: https://de.wikipedia.org/wiki/Wülfrath | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: "altbergischer Kirchplatz mit geschlossener Wohnbebauung und Geschäften"
+  mittelpunkt: "St.-Cornelius-Kirche"
+  charakteristika: "malerisch, in seiner Geschlossenheit einmalig schön, Originalzustand mit Denkmalschutz"
+  hausnamen: "Auf'm Keller (1678), Hamels (1678), Melanders (1678), Op der Ley (ca. 1600), Auf'm Haus (1678), Großer Klaus (1686), Kleiner Klaus (1678), Scholle (1678), Hinter'm Turm (1678), Jostenhaus (ca. 1738), Hechtsteinhaus (1678), Op de Trapp (1678), Leonhards"
+  bedeutung_fuer_ort: "historisches Wahrzeichen, attraktive Freizeitgestaltung, Ort der Identität"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 355-wuelfrath/042
+ENTITÄT: stadtteil_infrastruktur
+BEZEICHNUNG: Kindergarten Düsseler Tor
+FACETTE: INFRA
+ORTSTITLE_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/uebersicht-stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architektur: "Formensprache Friedensreich Hundertwassers"
+  merkmal: "Goldene Kuppel"
+  bedeutung_fuer_ort: "architektonischer Akzent, modernes Bauen mit künstlerischem Anspruch"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 355-wuelfrath/043
+ENTITÄT: unternehmen
+BEZEICHNUNG: Ford-Werke (Zweigbetrieb)
+FACETTE: WIRTSCHAFT
+ORTSTITLE_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wülfrath | Wikipedia
+EIGENSCHAFTEN:
+  ursprung: "Karosseriewerk Josef Hebmueller Söhne (gegründet 1889)"
+  firma_spaeter: "Knorr-Bremse Steering Systems GmbH"
+  schließung: "Ende 2020"
+  abrissjahre: "Herbst 2021 bis Frühjahr 2022"
+GUELTIG_AB: 1889
+GUELTIG_BIS: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 355-wuelfrath/044
+ENTITÄT: unternehmen
+BEZEICHNUNG: JONAS Farbenwerke GmbH & Co. KG
+FACETTE: WIRTSCHAFT
+ORTSTITLE_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wülfrath | Wikipedia
+EIGENSCHAFTEN:
+  markenname: "Jonas Farben"
+  produkt: "Farben und Lacke für professionellen Markt"
+  merkmal: "markante Silotürme prägen Stadtsilhouette, Landmarke in der Region"
+  bedeutung_fuer_ort: "visuelles Wahrzeichen, industrieller Betrieb, Arbeitgeber"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 355-wuelfrath/045
+ENTITÄT: unternehmen
+BEZEICHNUNG: Bergische Diakonie Aprath
+FACETTE: WIRTSCHAFT | INFRA
+ORTSTITLE_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wülfrath | Wikipedia
+EIGENSCHAFTEN:
+  einrichtungen: "mehrere Altenheime, Kinderheime, sozialtherapeutische Einrichtungen"
+  status: "größter Arbeitgeber Wülfraths"
+  bedeutung_fuer_ort: "Soziale Infrastruktur, Arbeitgeber, Versorgung mit Wohn- und Betreuungsangeboten"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 355-wuelfrath/046
+ENTITÄT: unternehmen
+BEZEICHNUNG: PUKY
+FACETTE: WIRTSCHAFT
+ORTSTITLE_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Wülfrath | Wikipedia
+EIGENSCHAFTEN:
+  typ: "mittelständischer Hersteller"
+  produkt: "Kinderfahrzeuge"
+  bedeutung_fuer_ort: "Arbeitgeber, spezialisierter Betrieb"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 355-wuelfrath/047
+ENTITÄT: verein
+BEZEICHNUNG: Heimatbund Wülfrath
+FACETTE: KULTUR
+ORTSTITLE_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/willi-muench-wuelfrather-kuenstler-und-mehr | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fokus: "Heimatgeschichte, Kultur"
+  bedeutung_fuer_ort: "Bewahrung und Vermittlung der lokalen Geschichte"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 355-wuelfrath/048
+ENTITÄT: verein
+BEZEICHNUNG: Sauerländischer Gebirgsverein
+FACETTE: FREIZEIT
+ORTSTITLE_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/wander-und-radwege | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktivitaeten: "geführte Wandertouren"
+  bedeutung_fuer_ort: "Freizeitangebot, Tourismusförderung"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 355-wuelfrath/049
+ENTITÄT: strasse
+BEZEICHNUNG: Halfmannstraße
+FACETTE: LAGE
+ORTSTITLE_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/sichtbare-geschichte-strassen-tragen-buergermeister-namen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  benannt_nach: "Bürgermeister Johann Peter Halfmann"
+  legende_schild: "ja, gesponsert von GWG und Stadtwerke Wülfrath"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 355-wuelfrath/050
+ENTITÄT: strasse
+BEZEICHNUNG: Havemannstraße
+FACETTE: LAGE
+ORTSTITLE_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/sichtbare-geschichte-strassen-tragen-buergermeister-namen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  benannt_nach: "Bürgermeister August Havemann"
+  legende_schild: "ja, gesponsert von GWG und Stadtwerke Wülfrath"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 355-wuelfrath/051
+ENTITÄT: strasse
+BEZEICHNUNG: Kirschbaumstraße
+FACETTE: LAGE
+ORTSTITLE_BEZUG: 
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/sichtbare-geschichte-strassen-tragen-buergermeister-namen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  benannt_nach: "Bürgermeister Albert Kirschbaum"
+  legende_schild: "ja, gesponsert von GWG und Stadtwerke Wülfrath"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+

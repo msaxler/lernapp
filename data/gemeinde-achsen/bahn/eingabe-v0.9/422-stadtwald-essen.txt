@@ -1,0 +1,548 @@
+ZIELORT: Stadtwald (Ortsteil von Essen)
+LAGE: Stadtteil von Essen, 4 km südlich der Stadtmitte (Luftlinie)
+ARTIKEL: Stadtwald (Essen)
+
+GRUNDDATEN:
+  landkreis: Stadtkreis Essen — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P131]
+  bundesland: Nordrhein-Westfalen — GILT FÜR DIE GEMEINDE ESSEN  [über die Gemeinde]
+  flaeche_km2: 4,14  [Wikidata P2046]
+  kfz: E (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P395]
+  hoehe_m: 122 | 144 — MEHRERE WERTE  [Wikidata P2044; Altbestand geo.sqlite (GeoNames 11611394)]
+  naechste_grossstadt: Essen, 4 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Düsseldorf, 28 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  eingemeindung: 1910-04-01  [dewiki Infobox]
+  plz: 45133, 45134  [Wikidata P281]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,5 %, SPD 22,2 %, AfD 17 %, GRÜNE 12,4 %, Die Linke 9,5 %; Wahlbeteiligung 80,1 % — GILT FÜR DIE GEMEINDE ESSEN  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 82,2 % im Bundesland (Ort 80,1 %, Abstand 2,1 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+ZEUGEN (OpenStreetMap, Gemeindegrenze; belegt nur, dass es die Sache gibt):
+  Bildung: Dore-Jakob-Berufskolleg
+  Burg/Denkmal: Schillerbrunnen
+  Burg/Denkmal: Ehrenmal
+  Burg/Denkmal: Alte Lore
+  Burg/Denkmal: Burgruine Vittinghoff
+  Burg/Denkmal: Mühlstein
+  Burg/Denkmal: Gottfried Wilhelm 2
+  Burg/Denkmal: Gottfried Wilhelm 1
+  Burg/Denkmal: Zweigertstein
+  Freizeit: Köhlerplatz
+  Freizeit: Altenhof II
+  Bahnhof: Essen-Stadtwald
+  Gewässer: Rellinghauser Mühlenbach
+  Gewässer: Mühlenbach
+  Sportstätte: Sporthalle (ehemals Gesamtschule Essen-Süd) (gymnastics)
+  Sportstätte: Reitsport Misall (equestrian)
+  Sportstätte: Hufotel - Pferdepension u. Zucht (equestrian)
+  Sportstätte: Turnhalle der Freien Waldorfschule Essen (multi)
+  Sportstätte: Tennisclub Grün-Weiss (tennis)
+  Wanderweg: Raute10 Hugo-Kracht-Weg
+  Wanderweg: Abteiweg Raute5 (26 km)
+  Wanderweg: Rundweg A1 (Schellenberger Wald) (3 km)
+  Wanderweg: Rundweg A3 (Baldeney)
+  Wanderweg: Rundweg A2 (Schellenberger Wald) (5 km)
+  Wanderweg: Kulturhistorischer Rundweg Rellinghausen
+  Radweg: Stadt Route (18 km)
+  Radweg: Bahntrassenweg Grugaweg
+
+PLAN:
+  Karte 1: FACETTE FREIZEIT (Ersatz: ALLTAG), Geschichte, D, wahre Option an Stelle 1
+  Karte 2: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 2
+  Karte 3: FACETTE ALLTAG (Ersatz: FREIZEIT), Geschichte, D, wahre Option an Stelle 3
+  Karte 4: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, A, wahre Option an Stelle 4
+  Karte 5: FACETTE INFRA (Ersatz: LAGE), Geschichte, D, wahre Option an Stelle 1
+  Karte 6: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, B, Lüge an Stelle 1
+  Karte 7: FACETTE LAGE, Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung, C, wahre Spanne an Stelle 3
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je ein weiteres Charakteristikum, Facette frei, Familie A, B oder D, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Rellinghausen (Ortsteil von Essen)
+  landkreis: Stadtkreis Essen — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P131]
+  flaeche_km2: 1,4  [Wikidata P2046]
+  kfz: E (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P395]
+  hoehe_m: 79 | 107 — MEHRERE WERTE  [Wikidata P2044; Altbestand geo.sqlite (GeoNames 2848339)]
+  naechste_grossstadt: Essen, 4 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,5 %, SPD 22,2 %, AfD 17 %, GRÜNE 12,4 %, Die Linke 9,5 %; Wahlbeteiligung 80,1 % — GILT FÜR DIE GEMEINDE ESSEN  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 82,2 % im Bundesland (Ort 80,1 %, Abstand 2,1 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+FAHRT: Wiehre, Waldsee, Altstadt, Stühlinger, Neuburg, Herdern, Zähringen, Brühl, Oberau, Haslach, Sankt Georgen, Vauban, Weingarten, Betzenhausen, Mooswald, Landwasser, Lehen, Rieselfeld, Dietenbach, Opfingen, Tiengen, Munzingen, Waltershofen, Ebnet, Littenweiler, Kappel, Merzhausen, Au, Horben, Günterstal, Ebringen, Schallstadt, Bad Krozingen, Staufen, Heitersheim, Müllheim, Waldkirch, Hochdorf, Gundelfingen, Denzlingen, Glottertal, March, Umkirch, Gottenheim, Merdingen, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Vogtsburg, Oberrotweil, Achkarren, Burkheim, Bischoffingen, Bickensohl, Oberbergen, Schelingen, Sasbach, Leiselheim, Wyhl, Forchheim, Breisach, Gündlingen, Niederrimsingen, Oberrimsingen, Kirchzarten, Stegen, St. Peter, St. Märgen, Oberried, Buchenbach, Höllental, Hinterzarten, Breitnau, Titisee, Titisee-Neustadt, Feldberg, Schluchsee, Lenzkirch, Eisenbach, Friedenweiler, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Neuwied, Altwied, Rengsdorf, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Bonefeld, Straßenhaus, Oberhonnefeld-Gierend, Willroth, Horhausen, Hümmerich, Krunkel, Breitscheid, Kloster Marienhaus, Wolfenacker, Kupferdreh, Überruhr, Bergerhausen, Rellinghausen, Stadtwald, Fischlaken, Werden, Burgaltendorf, Steele, Byfang, Rüttenscheid, Bredeney, Huttrop, Kettwig, Schuir, Heidhausen, Haarzopf, Margarethenhöhe, Südostviertel, Freisenbruch
+
+FAKTEN (Zielort Stadtwald):
+ID: 422-stadtwald-essen/001
+ENTITÄT: ort
+BEZEICHNUNG: Stadtwald
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: südlich der Innenstadt auf den Ruhrhöhen
+  lage_detail: nördlich des Baldeneysees
+  charakterisierung: dominiert von Wald- und Grünflächen
+  nutzung_hauptsaechlich: Wohngebiet
+  nachbarortstile: Rüttenscheid, Bergerhausen, Rellinghausen, Heisingen, Bredeney
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 422-stadtwald-essen/002
+ENTITÄT: ort
+BEZEICHNUNG: Stadtwald
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/stadwald/stadtwald_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: ehemalige Bauernschaft, Kornkammer des Stifts Rellinghausen
+  namensherkunft: Waldgebiet zur Ausgleichsfläche für wachsende Industriegebiete
+  aufforstung_jahr: 1904
+  waldflaeche: 105 ha
+  kosten_aufforstung: 1.9 Millionen Goldmark
+  grundflaeche_kaufpreis_quelle: überwiegend Adels-Familie Vittinghoff-Schell
+  eingemeindung_datum: 1910-04-01
+  bedeutung_fuer_ort: Naherholungsgebiet für rasch wachsende arbeitende Bevölkerung
+GUELTIG_AB: 1904
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 422-stadtwald-essen/003
+ENTITÄT: ort
+BEZEICHNUNG: Stadtwald
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 9713
+  einwohner_stand: 2025-03-31
+  prozentanteil_unter_18_jahren: 15.1
+  prozentanteil_ab_65_jahren: 29.7
+  prozentanteil_auslaender: 5.6
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 422-stadtwald-essen/004
+ENTITÄT: wappen
+BEZEICHNUNG: Stadtwappens von Stadtwald
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/stadwald/stadtwald_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: auf grünem Grund fünf goldene Eichenbäume und goldenes Schwert aus dem Essener Stadtwappen
+  entwerfer: Kurt Schweder
+  charakterisierung: redendes Wappen
+  symbolik_eichen: Waldname und die fünf ehemaligen Höfe der Gemarkung Heide
+  symbolik_schwert: Stadt; Attribut der Stadtpatrone Cosmas und Damian
+  offizieller_status: hatte nie offiziellen Charakter, aber inzwischen von Bevölkerung akzeptiert
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 422-stadtwald-essen/005
+ENTITÄT: gebaeude
+BEZEICHNUNG: Gebrandenhof
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  standort: Wittenbergstraße
+  denkmalschutz: ja
+  architektur: Fachwerkhaus des niederdeutschen Hallenhauses
+  erbaut: 1798
+  urspruengliche_funktion: landwirtschaftlicher Hof
+  urspruenglicher_name: Gebrande an der Heide
+  gebaeude_umfang: fünf Gebäude
+  landwirtschaftliche_nutzung_bis: 1940
+  aktuelle_nutzung: Gastronomie
+GUELTIG_AB: 1798
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 422-stadtwald-essen/006
+ENTITÄT: kapelle
+BEZEICHNUNG: Klusenkapelle
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/stadwald/stadtwald_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: Ende 13. Jahrhundert
+  urspruengliche_funktion: Klausnerei für Damen des Essener Stifts
+  erste_urkundliche_erwähnung: 1359
+  spaetere_funktion: Kapelle
+  weitere_funktion: Rückzugsort für Leprakranke
+  aktuelle_betreuung: Gemeinde St. Markus in Bredeney
+  jakobsweg_station_seit: Oktober 2011
+  bedeutung_fuer_ort: Dokument mittelalterlicher Religiosität in Essen
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 422-stadtwald-essen/007
+ENTITÄT: reithalle
+BEZEICHNUNG: Reithalle an der Wittenbergstraße
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/stadwald/stadtwald_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entwurf_jahr: 1929
+  entwurf_architekten: Alfred Fischer, Richard Speidel
+  stil: Bauhausstil
+  charakterisierung: bedeutendes Dokument der avantgardistischen Architektur der 1920er Jahre in Essen
+  bedeutung_fuer_fischer: wichtiger Entwicklungsabschnitt im Werk von Alfred Fischer
+  fischer_funktion: Direktor der Folkwangschule für Gestaltung
+  denkmalschutz: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 422-stadtwald-essen/008
+ENTITÄT: brunnen
+BEZEICHNUNG: Schillerbrunnen
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  standort: Wittenbergstraße
+  einweihung_datum: 1905-05-07
+  einweihung_anlass: 100. Todestag Friedrich Schillers
+  stifter: Hans Gelling, Essener Theaterdirektor
+  anregung_von: Heinz Niemeyer, Essener Stadtverordneter und Justizrat
+  gestalter: Fritz Behn, Münchener Bildhauer
+  design_detail: Brunnenbecken von gebogener Steinbank flankiert
+  relief_wasserspeier: mittig angebrachter Kopf
+  relief_szenen: zwei rahmende Reliefs aus Schillers "Das Lied von der Glocke" und "Wilhelm Tell"
+  denkmalschutz: ja (seit 1991)
+  restaurierung: 2024
+  restaurierung_detail: Geschichtstafel aufgestellt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 422-stadtwald-essen/009
+ENTITÄT: platz
+BEZEICHNUNG: Stadtwaldplatz
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  bedeutung: Zentrum des Stadtteils
+  verkehrsknotenpunkt: Frankenstraße, Wittenbergstraße, Heisinger Straße treffen sich hier
+  staedtebauliche_neugestaltung_jahr: 2003
+  anerkennung: "erwähnenswertrer Beitrag der Stadt Essen" in Projektsammlung "Baukultur in Städten und Gemeinden" (Bundesministerium für Verkehr, Bau- und Wohnungswesen)
+  infrastruktur_oberflaechig: Bushaltestelle (zentrale Haltestelle Essen-Stadtwaldplatz)
+  buslinien: 142, 144, 145, 175, 194, NE7, SB14
+  vorheriuge_verkehrsanbindung: Straßenbahn (bis Neugestaltung)
+  untergrund: Stadtwald-Tunnel mit S6
+  wochenmarkt: Dienstag und Freitag 8–13 Uhr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 422-stadtwald-essen/010
+ENTITÄT: stadion
+BEZEICHNUNG: Uhlenkrugstadion
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1922
+  erbaut_von: Verein Schwarz-Weiß Essen
+  finanzierung: ausschließlich aus Spenden
+  kosten: 750000 Mark
+  urspruengliche_kapazitaet: 35000 Zuschauer
+  erweitert: 1939
+  erweiterte_kapazitaet: 45000 Zuschauer (temporär)
+  aktuelle_kapazitaet: ca. 20000 Plätze
+  nutzer: Fußballverein Schwarz-Weiß Essen
+  liga: NRW-Liga
+  nutzung: Heimspiele
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 422-stadtwald-essen/011
+ENTITÄT: siedlung
+BEZEICHNUNG: Eyhofsiedlung
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  urspruenglicher_name: Stadtwaldsiedlung
+  grundflaeche_vorher: landwirtschaftlicher Eyhof
+  errichtung_ab: 1921
+  planung_jahr: 1919
+  planer: Josef Rings, Essener Architekt
+  auftraggeber: Gemeinnütziger Bauverein Essen-Stadtwald
+  bauverein_kontext: einer von rund zwanzig Bauvereinen und Baugenossenschaften, die sich bis 1930 in Essen gründeten
+  zweck: genossenschaftlicher Wohnungsbau für gehobenen Mittelstand
+  baufertigstellung_1921: 155 Häuser für 231 Familien
+  design: achsensymmetrisch, geschlossene Einheit
+  lage_bewertung: begehrte Wohnlage mit Waldblick am nordwestlichen Waldsaum
+  kriegsschaeden: während WWII weitestgehend verschont
+  grund_schonung: Einquartierung britischer Offiziere
+  infrastruktur_krieg: unterirdischer Luftschutzbunker im Bereich des Grünhofs
+  nachkrieg_entwicklung: Bebauung am Waldsaum vervollständigt, Häuser gingen fast alle in privates Eigentum über
+  diskussion_2021: geplante Neubebauung der Häuser Angerstraße 21–29
+  erhaeltungssatzung_beschluss: 2022-02-03
+  erhaeltungssatzung_verabschiedung: 2023-09-27
+  erhaeltungssatzung_rechtswirksamkeit: 2024-01-13
+  erhaeltungssatzung_flaeche: 11.5 ha
+  erhaeltungssatzung_schutzziel: Erhalt der städtebaulichen Eigenart
+GUELTIG_AB: 1921
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 422-stadtwald-essen/012
+ENTITÄT: sportplatz
+BEZEICHNUNG: Schillerwiese
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/stadwald/stadtwald_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: großer Sportplatz
+  funktion: Freizeit und Sport
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 422-stadtwald-essen/013
+ENTITÄT: park
+BEZEICHNUNG: Waldpark
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/stadwald/stadtwald_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort_vorher: Gelände eines ehemaligen Vogelparks
+  vogelpark_zeitraum_bis: Mitte 1990er Jahre
+  vogelpark_umzug: Tiere in Grugapark umgezogen
+  aktuelle_ausstattung: mehrere Lehrtafeln zu heimischer Tier- und Pflanzenwelt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 422-stadtwald-essen/014
+ENTITÄT: kirche
+BEZEICHNUNG: St. Theresia
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  art: ehemalige Filialkirche von St. Lambertus
+  erbaut: 1956-1958
+  standort_vorher: auf Grund des Leveringhofes (erste Erwähnung 1361)
+  letzter_gottesdienst: Pfingsten 2022
+  aufgabe_beschlossen: Herbst 2017
+  abriss_und_umbau_zeit: Jahreswechsel 2022/2023
+  umbaukosten: ca. 6 Millionen Euro
+  entkernung: ja
+  neue_nutzung: Kindertagesstätte, Bücherei, Gemeindezentrum mit Kapelle
+  neue_nutzung_bezug: August 2024
+  besonderheit: Turm bleibt als Landmarke erhalten
+GUELTIG_AB: 1956
+GUELTIG_BIS: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 422-stadtwald-essen/015
+ENTITÄT: burg
+BEZEICHNUNG: Burgruine Vittinghoff
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  standort: Vittinghoffstraße
+  art: Bodendenkmal einer mittelalterlichen Wasserburg (Motte)
+  erste_bekannte_besitzer: Heinrich II. von Vittinghoff
+  erbschaft: 1272
+  quelle_belege: Urkunde in Rellinghausen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 422-stadtwald-essen/016
+ENTITÄT: denkmal
+BEZEICHNUNG: Zweigertstein
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  errichtung: 1909
+  auftraggeber: zehn Bürger
+  grund: Dankbarkeit für verstorbenen Oberbürgermeister Erich Zweigert
+  benannt_nach: Erich Zweigert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 422-stadtwald-essen/017
+ENTITÄT: person
+BEZEICHNUNG: Erich Zweigert
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  titel: Oberbürgermeister
+  aktion_fuer_stadt: setzte sich für gebietsmäßige Ausweitung ein
+  fachkenntnis: erkannte Bedarf für Ausgleichsflächen als Erholungsgebiete
+  initiative: gab Anweisung zur Aufforstung und Anlage des Wegenetz
+  finanzierung_aufforstung: 1.9 Millionen Goldmark aus Stadtkasse
+  bedeutung_fuer_ort: Namensgeber für Zweigertstein und indirekt für Waldflächenerwerb
+GUELTIG_AB: 1900
+GUELTIG_BIS: 1909
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 422-stadtwald-essen/018
+ENTITÄT: bahnhof
+BEZEICHNUNG: Essen-Stadtwald
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  fruehere_bezeichnung: Rellinghausen West
+  umbenennung_datum: 1910-12-31
+  bahnstrecke: Essen–Essen-Werden
+  s_bahn_linie: S6
+  lage: nördlich des Stadtwaldplatzes
+  infrastruktur: S-Bahnhof
+  tunnel_unterhalb: Stadtwald-Tunnel (247 Meter lang)
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 422-stadtwald-essen/019
+ENTITÄT: tunnel
+BEZEICHNUNG: Stadtwald-Tunnel
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  laenge: 247 Meter
+  standort: unter Stadtwaldplatz
+  bahnstrecke: Essen–Essen-Werden
+  s_bahn_linie: S6
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 422-stadtwald-essen/020
+ENTITÄT: strasse
+BEZEICHNUNG: Frankenstraße
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  funktion: wichtigste Verkehrsverbindung, durchquert Stadtteil in Ost-West-Richtung
+  geschichte: seit Mittelalter Verbindung zwischen Kloster Werden und Rellinghausen
+  nutzung_heute: Zentrum mit zahlreichen Geschäften für den täglichen Bedarf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 422-stadtwald-essen/021
+ENTITÄT: schule
+BEZEICHNUNG: Gesamtschule Essen-Süd
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  art: Schule von Bedeutung über Stadtteilgrenzen hinaus
+  gebaeude_nachnutzung: Sporthalle (ehemals Gesamtschule Essen-Süd)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 422-stadtwald-essen/022
+ENTITÄT: schule
+BEZEICHNUNG: Freie Waldorfschule Essen
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  art: Schule von Bedeutung über Stadtteilgrenzen hinaus
+  infrastruktur_sport: Turnhalle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 422-stadtwald-essen/023
+ENTITÄT: berufskolleg
+BEZEICHNUNG: Dore-Jacobs-Berufskolleg
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  art: private Berufsfachschule für Gymnastik, Schule von Bedeutung über Stadtteilgrenzen hinaus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 422-stadtwald-essen/024
+ENTITÄT: schule
+BEZEICHNUNG: Stiftsschule
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  art: städtische Grundschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 422-stadtwald-essen/025
+ENTITÄT: bibliothek
+BEZEICHNUNG: Zweigstelle der Stadtbibliothek Essen
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  art: Zweigstelle im Stadtteil Stadtwald
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 422-stadtwald-essen/026
+ENTITÄT: sportverein
+BEZEICHNUNG: TC Grün-Weiß Stadtwald e.V.
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/stadwald/stadtwald_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Tennisclub
+  standort: Zeisigstraße 18
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 422-stadtwald-essen/027
+ENTITÄT: sportverein
+BEZEICHNUNG: ETB Schwarz-Weiß Essen
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/stadwald/stadtwald_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Fußballverein
+  liga: NRW-Liga
+  heimstadion: Uhlenkrugstadion
+  standort: Am Uhlenkrug 40
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 422-stadtwald-essen/028
+ENTITÄT: sportverein
+BEZEICHNUNG: DJK Essen-Stadtwald
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/stadwald/stadtwald_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Amselstraße 36
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 422-stadtwald-essen/029
+ENTITÄT: sportverein
+BEZEICHNUNG: RSV Essen e.V.
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/stadwald/stadtwald_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Wittenbergstraße 107-109 (Stadtwaldwende)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 422-stadtwald-essen/030
+ENTITÄT: sportverein
+BEZEICHNUNG: Verein für Reitsport
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/stadwald/stadtwald_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: großer Reitverein
+  bedeutung_fuer_ort: Heimat für großen Reitverein im Stadtteil
+  reithalle_infrastruktur: ja
+  reithalle_denkmalschutz: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 422-stadtwald-essen/031
+ENTITÄT: sportverein
+BEZEICHNUNG: Kampfsportabteilung des Polizeisportvereins Essen
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  art: Kampfsportabteilung
+  status: mehrere Tennisvereine und diese Abteilung ansässig im Stadtteil
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 422-stadtwald-essen/032
+ENTITÄT: institution
+BEZEICHNUNG: Stift Rellinghausen
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  historischer_bezug: Stadtwald gehörte lange Zeit zum Stift
+  funktion_stadtwald: Kornkammer des Stifts
+  wirtschaft_detail: überwiegend landwirtschaftliche Nutzung bis Mitte 19. Jahrhundert
+  eingemeindung_ziel: gemeinsame Eingemeindung nach Essen im April 1910 mit Rellinghausen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 422-stadtwald-essen/033
+ENTITÄT: gewaesser
+BEZEICHNUNG: Mühlenbach
+FACETTE: LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/stadwald/stadtwald_statistik.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alt_bezeichnung: Rellinghauser Mühlenbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+

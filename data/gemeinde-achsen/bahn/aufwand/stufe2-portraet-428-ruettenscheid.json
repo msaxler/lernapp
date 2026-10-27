@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2-portraet",
+ "ort": "428-ruettenscheid",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 27824,
+ "token_ein": 1745975,
+ "token_aus": 21012,
+ "usage": {
+  "input_tokens": 60,
+  "cache_creation_input_tokens": 70339,
+  "cache_read_input_tokens": 1675576,
+  "output_tokens": 21012,
+  "output_tokens_details": {
+   "thinking_tokens": 11054
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 70339,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 5911,
+    "cache_read_input_tokens": 76461,
+    "cache_creation_input_tokens": 780,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 780
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 2.1872292,
+ "sekunden": 395,
+ "fehler": false,
+ "zeit": "2026-10-27T01:46:00"
+}

@@ -1,0 +1,1120 @@
+ZIELORT: Kettwig (Ortsteil von Essen)
+LAGE: Stadtteil von Essen; 8 km südöstlich von Mülheim an der Ruhr (Luftlinie)
+ARTIKEL: Kettwig
+
+GRUNDDATEN:
+  landkreis: Stadtkreis Essen — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P131]
+  bundesland: Nordrhein-Westfalen — GILT FÜR DIE GEMEINDE ESSEN  [über die Gemeinde]
+  flaeche_km2: 15  [Wikidata P2046]
+  kfz: E (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P395]
+  hoehe_m: 53 | 91 — MEHRERE WERTE  [Wikidata P2044; Altbestand geo.sqlite (GeoNames 2891290)]
+  naechste_grossstadt: Mülheim an der Ruhr, 8 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Düsseldorf, 20 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  eingemeindung: 1975-01-01  [dewiki Infobox]
+  plz: 45219  [Wikidata P281]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,5 %, SPD 22,2 %, AfD 17 %, GRÜNE 12,4 %, Die Linke 9,5 %; Wahlbeteiligung 80,1 % — GILT FÜR DIE GEMEINDE ESSEN  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 82,2 % im Bundesland (Ort 80,1 %, Abstand 2,1 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+ZEUGEN (OpenStreetMap, Gemeindegrenze; belegt nur, dass es die Sache gibt):
+  Burg/Denkmal: Kaiser-Wilhelm-Denkmal
+  Burg/Denkmal: Kriegsgräber
+  Burg/Denkmal: Amalie Isaac (seit 2008)
+  Burg/Denkmal: Emma Joseph (seit 2008)
+  Burg/Denkmal: Hulda Joseph (seit 2008)
+  Burg/Denkmal: Johanna Joseph (seit 2008)
+  Burg/Denkmal: Max Joseph (seit 2008)
+  Burg/Denkmal: Rida Seligmann (seit 2008)
+  Aussicht: Ruhrtalblick
+  Aussicht: Anleger Kettwig
+  Freizeit: Rindsberger Mühle
+  Freizeit: Motorboot-Club-Kettwig 1965
+  Freizeit: Minigolf am Kattenturm
+  Freizeit: Historische Altstadt
+  Freizeit: Burg Luttelnau (seit 1300)
+  Freizeit: Sportplatz Kettwig (athletics)
+  Freizeit: Golf-Club Haus Oefte
+  Natur: Sturzquelle Kettwig
+  Bahnhof: Kettwig Stausee
+  Bahnhof: Kettwig
+  Gipfel: Kemmansberg
+  Gipfel: Pasberg (161 m)
+  Sportstätte: Kettwiger Sportverein 70/86 e.V. - Geschäftsstelle
+  Sportstätte: Yoga Einblicke (yoga)
+  Sportstätte: Element Yoga (yoga)
+  Sportstätte: Kettwiger Tennisgesellschaft e.V. (beachvolleyball;boules;tennis)
+  Museum: Stadtmuseum Kettwig
+  Museum: CLANART
+  Gewässer: Ruhr
+  Bad: Schwimmzentrum Kettwig (swimming)
+  Betrieb: Kläranlage Essen-Kettwig
+  Betrieb: Axel-Springer-Verlag
+  Betrieb: Gewerbegebiet Heiligenhauser Straße
+  Betrieb: Wasserkraftwerk Kettwig
+  Schutzgebiet: Naturschutzgebiet Ziegeleigelände Asey
+  Schutzgebiet: Untere Kettwiger Ruhraue (seit 1989)
+  Schutzgebiet: Wälder bei Hugenpoet und Landsberg (seit 2005)
+  Schutzgebiet: NSG Oefter Tal
+  Schutzgebiet: NSG Ruhruferstreifen am Golfplatz Oefte
+  Schutzgebiet: NSG Wälder bei Hugenpoet und Landsberg
+  Schutzgebiet: Fuchslochbachtal / Siepener Bachtal (seit 2005)
+  Schutzgebiet: Oefter Bachtal mit Nebentälern (seit 2006)
+  Klinik: MediClin Fachklinik Rhein/Ruhr
+  Radweg: Ruhrtalradweg (230 km)
+  Radweg: Deutsche Fußball Route NRW (Mitte)
+  Wanderweg: Kettwig Rundweg A2 (6.5 km)
+  Wanderweg: Kettwig Rundweg A3 (7.2 km)
+  Wanderweg: Kettwig Rundweg A1 (6 km)
+  Wanderweg: Kettwig Rundweg A4 (10 km)
+  Wanderweg: [Raute2] Aubergweg
+  Wanderweg: GeoRoute Ruhr (185 km)
+
+PLAN:
+  Karte 1: FACETTE FREIZEIT (Ersatz: ALLTAG), Geschichte, A, wahre Option an Stelle 4
+  Karte 2: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 1
+  Karte 3: FACETTE ALLTAG (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 2
+  Karte 4: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, A, wahre Option an Stelle 3
+  Karte 5: FACETTE INFRA (Ersatz: LAGE), Geschichte, A, wahre Option an Stelle 4
+  Karte 6: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, B, Lüge an Stelle 1
+  Karte 7: FACETTE LAGE, Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung, C, wahre Spanne an Stelle 2
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je ein weiteres Charakteristikum, Facette frei, Familie A, B oder D, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Huttrop (Ortsteil von Essen)
+  landkreis: Stadtkreis Essen — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P131]
+  flaeche_km2: 2,73  [Wikidata P2046]
+  kfz: E (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P395]
+  hoehe_m: 100 | 102  [Wikidata P2044; Altbestand geo.sqlite (GeoNames 2896873)]
+  naechste_grossstadt: Essen, 2 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,5 %, SPD 22,2 %, AfD 17 %, GRÜNE 12,4 %, Die Linke 9,5 %; Wahlbeteiligung 80,1 % — GILT FÜR DIE GEMEINDE ESSEN  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 82,2 % im Bundesland (Ort 80,1 %, Abstand 2,1 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+FAHRT: Wiehre, Waldsee, Altstadt, Stühlinger, Neuburg, Herdern, Zähringen, Brühl, Oberau, Haslach, Sankt Georgen, Vauban, Weingarten, Betzenhausen, Mooswald, Landwasser, Lehen, Rieselfeld, Dietenbach, Opfingen, Tiengen, Munzingen, Waltershofen, Ebnet, Littenweiler, Kappel, Merzhausen, Au, Horben, Günterstal, Ebringen, Schallstadt, Bad Krozingen, Staufen, Heitersheim, Müllheim, Waldkirch, Hochdorf, Gundelfingen, Denzlingen, Glottertal, March, Umkirch, Gottenheim, Merdingen, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Vogtsburg, Oberrotweil, Achkarren, Burkheim, Bischoffingen, Bickensohl, Oberbergen, Schelingen, Sasbach, Leiselheim, Wyhl, Forchheim, Breisach, Gündlingen, Niederrimsingen, Oberrimsingen, Kirchzarten, Stegen, St. Peter, St. Märgen, Oberried, Buchenbach, Höllental, Hinterzarten, Breitnau, Titisee, Titisee-Neustadt, Feldberg, Schluchsee, Lenzkirch, Eisenbach, Friedenweiler, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Neuwied, Altwied, Rengsdorf, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Bonefeld, Straßenhaus, Oberhonnefeld-Gierend, Willroth, Horhausen, Hümmerich, Krunkel, Breitscheid, Kloster Marienhaus, Wolfenacker, Kupferdreh, Überruhr, Bergerhausen, Rellinghausen, Stadtwald, Fischlaken, Werden, Burgaltendorf, Steele, Byfang, Rüttenscheid, Bredeney, Huttrop, Kettwig, Schuir, Heidhausen, Haarzopf, Margarethenhöhe, Südostviertel, Freisenbruch
+
+FAKTEN (Zielort Kettwig):
+ID: 431-kettwig/001
+ENTITÄT: ort
+BEZEICHNUNG: Kettwig
+FACETTE: LAGE | GESCHICHTE | FREIZEIT | INFRA
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_stadtteil_von: Essen
+  flaeche_km2: 15.36
+  position_in_essen: flächenmäßig größter Stadtteil
+  lage_geografisch: äußerster Südwesten von Essen, unmittelbar an der Ruhr
+  erstmals_urkundlich_erwähnt: 1000
+  eigenstaendige_stadt_seit: 1857
+  eingemeindung_nach_essen: 1975-01-01
+  einwohner_stand_2025_03_31: 18009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 431-kettwig/002
+ENTITÄT: ort_charakteristika
+BEZEICHNUNG: Kettwig
+FACETTE: LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Beliebter Wohn- und Ausflugsort geprägt durch Nähe zur Ruhr, angrenzende Wälder und Felder, historische Altstadt. Idylle und Historie vermischen sich mit Neuzeit
+  charakteristika: Historische Altstadt mit Fachwerkhäusern, Naherholungsgebiet, Gartenstadt
+  besonderheit_erhalt: Weitgehend von Bombardements im Zweiten Weltkrieg verschont, historische Altstadt mit zahlreichen Fachwerkhäusern erhalten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 431-kettwig/003
+ENTITÄT: namenserklärung
+BEZEICHNUNG: Kettwig
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: Endung -wik mit Tiernamen verbunden, Beiwort aus mittelniederdeutsch katte (Katze)
+  durchgehend_ueberliefert_seit: 1052
+  forma_zweisilbig_seit: 1052
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 431-kettwig/004
+ENTITÄT: stadtteilwappen
+BEZEICHNUNG: Kettwig
+FACETTE: GESCHICHTE | POLITIK
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verliehen_jahr: 1937
+  verliehen_durch: Oberpräsident der Rheinprovinz
+  symbolik_1: silberner Adler (Zeichen der Reichsabtei Werden)
+  symbolik_2: Kettwiger Brücke über der Ruhr (erstmals 1282 erwähnt)
+  beschreibung: Blasonierung - In Blau über silberner Brücke ein silberner Doppelkopfadler
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 431-kettwig/005
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Marktkirche / Kirche am Markt
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  denkmalschutz: ja, denkmalgeschütztes Kirchengebäude
+  erstmals_urkundlich_erwaehnt: 1250
+  turm_hoehe_meter: 40
+  turm_bauzeit: Ende 13. Jahrhundert
+  turm_ist_aeltester_teil: true
+  turm_ist_aeltestes_bauwerk_kettwig: true
+  material: Ruhrsandstein
+  bedeutung_fuer_ort: Keimzelle der Stadt, Standort entspricht in etwa dem Ort der ersten Siedlung Kettwigs
+  aenderung_zu_protestantisch: 1592
+  kirchenschiff_baujahr: 1720-1721
+  kirchenschiff_stil: barocke Saalkirche
+  baecker_kirchenschiff: Adam Wunderlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 431-kettwig/006
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Pfarrkirche St. Peter
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+  geweiht_jahr: 1830
+  architekten: Otto von Gloeden, Adolph von Vagedes, Karl Friedrich Schinkel (Mitwirkung)
+  stil: klassizistisch flachgedeckt
+  turm_baujahr: 1886
+  turm_stil: barock
+  hochaltar_herkunft: Katharinenkloster Gerresheim
+  sanierung_jahr: 1975-1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 431-kettwig/007
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Joseph
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Vor der Brücke
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+  fertigstellung: 1936
+  material_beschreibung: aus Überresten fertiggestellt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 431-kettwig/008
+ENTITÄT: kirche
+BEZEICHNUNG: St. Matthias
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Auf der Höhe
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: bis 1977
+  ist_oekumenische_anlage: true
+  umfasst: evangelisches Gemeindezentrum (ab 1983), evangelische und katholische Kindertagesstätte, Jugendzentrum evangelische Kirchengemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 431-kettwig/009
+ENTITÄT: rathaus
+BEZEICHNUNG: Kettwiger Rathaus
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Marktplatz
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stil: klassizistisch
+  altbau_erbaut_jahr: 1830
+  urspruengliche_funktion: Tuchfabrik
+  materialkennzeichen: Ruhrsandstein
+  besonderheiten: Westlicher Giebel, Turm mit Kunstschmiedeverzierungen, Kettwiger Wappen aus Kalkstein
+  heute_funktion: Standesamt, Stadtmuseum Kettwig (Anbau)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 431-kettwig/010
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Hugenpoet
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bautyp: Wasserschloss, dreiteilig, von Gräften umgeben
+  errichtet_jahr: 1509
+  beschaedigungen: Verwüstung im Dreißigjährigen Krieg
+  wiederaufbau_jahr: 1647
+  wiederaufbau_befehlshaber: Johann Wilhelm von Nesselrode zu Hugenpoet
+  zweiter_weltkrieg_nutzung: Wehrmacht-Dienststellen, Unterkunft für Flüchtlingsfamilien, kurzzeit Hauptgebäude Folkwang-Museum
+  heutige_nutzung: Hotel-Restaurant
+  heutige_nutzung_seit: 1955
+  denkmalschutz_seit: 1985
+  besonderheit: Renaissance-Kamine aus Schloss Horst
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 431-kettwig/011
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Oefte
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  typ: Schloss
+  lage_relation: Im Kettwiger Gebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 431-kettwig/012
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Landsberg
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  geografische_lage: Stadtgebiet Ratingen, aber ausschließlich von Kettwig zugänglich
+  heutige_nutzung: Schulungszentrum ThyssenKrupp-Konzern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 431-kettwig/013
+ENTITÄT: bruecke
+BEZEICHNUNG: Kettwiger Ruhrbrücke
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmals_erwaehnt: 1282
+  historische_bedeutung: Verbindung zwischen Rhein und Hellweg
+  dreissigjaehrer_krieg: hart umkämpfter Flussübergang
+  bedeutung_fuer_ort: Zeichen auf Stadtteilwappen
+  symbolik_wappen: Kettwiger Brücke
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 431-kettwig/014
+ENTITÄT: bruecke
+BEZEICHNUNG: Mühlengrabenbrücke
+FACETTE: GESCHICHTE | LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Brücke über Kettwiger Mühlengraben (Nebenarm der Ruhr)
+  vorgaenger_holzbruecke_erwaehnt: 1282
+  vorgaenger_position: etwa 400 Meter östlich der heutigen Stelle
+  ersetzung_steinbruecke: später an heutiger Stelle
+  zerstoerung_krieg: Dreißigjährigen Krieg 1635
+  wiederaufbau_holz: nach Zerstörung
+  heutige_bruecke_jahr: 1786
+  heutige_bruecke_material: Ruhrsandstein
+  heutige_bruecke_erbauer: Bernhard II., vorletzter Werdener Abt
+  funktion_frueh: Fuhrwerke passierbar
+  funktion_heute: ausschließlich Fußgängerbrücke
+  besonderheit: Wappen des Abtes Bernhard II. im mittleren Brückenbogen eingearbeitet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 431-kettwig/015
+ENTITÄT: stausee
+BEZEICHNUNG: Kettwiger Stausee
+FACETTE: FREIZEIT | GESCHICHTE | LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: südlicher Teil von Kettwig
+  bauzeit: 1940-1950
+  reihung: vorletzter der sechs Ruhrstauseen
+  infrastruktur_nordufer: Tretbootanleger, Anleger der Weissen Flotte
+  infrastruktur_wasserkraft: Schleuse und Laufwasserkraftwerk
+  bedeutung_wirtschaft: Route der Industriekultur
+  bedeutung_fuer_ort: Ermöglichte Entwicklung zu attraktivem Naherholungsgebiet
+  charakteristika: Spazierwege längs der Ruhr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 431-kettwig/016
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Naturschutzgebiet Untere Kettwiger Ruhraue
+FACETTE: LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: am Südufer der Ruhr
+  flaeche_ha: 25
+  vegetationstypen: Weidengebüsche, Buchten mit Stillgewässern, Heckenstrukturen, Riesen-Bärenklau, junges Ahornwäldchen
+  infra_pfad: Pfad parallel zum Ufer
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 431-kettwig/017
+ENTITÄT: schwimmzentrum
+BEZEICHNUNG: Schwimmzentrum Kettwig
+FACETTE: FREIZEIT | INFRA
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Bad mit Hallen- und Freibad
+  hallenbad_bauzeit: 1972-1973
+  hallenbad_erbauer: Stadt Kettwig (als eigenständige Stadt)
+  freibad_fertigstellung: nach Eingemeindung durch Stadt Essen
+  charakteristika: Größtes Bad im Stadtteil
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 431-kettwig/018
+ENTITÄT: klinik
+BEZEICHNUNG: MediClin Fachklinik Rhein/Ruhr
+FACETTE: INFRA | WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  typ: Rehabilitationsklinik
+  fachbereiche: Innere Medizin und Kardiologie, Neurologie und Orthopädie
+  indikationen: Erkrankungen des Herz-, Kreislauf- und Bewegungssystems
+  betten: 460
+  mitarbeiter: rund 395
+  patienten_jaehrlich: über 5800
+  groesse_bewertung: eine der größten Einrichtungen ihrer Art in Nordrhein-Westfalen
+  bedeutung_fuer_ort: Größter Arbeitgeber mit über 395 Mitarbeitern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 431-kettwig/019
+ENTITÄT: museum
+BEZEICHNUNG: Stadtmuseum Kettwig
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  untergebracht_in: Anbau des Kettwiger Rathauses
+  umfang_sammlung_historisch: Geschichte Kettwigs
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 431-kettwig/020
+ENTITÄT: textilindustrie
+BEZEICHNUNG: Kettwiger Weberei und Textilindustrie
+FACETTE: GESCHICHTE | WIRTSCHAFT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  webereien_seit: 1476
+  kohleabbau_seit: 1585
+  hauptperiode_1720_1974: Weberei und Spinnerei beschäftigten bis zu 2000 Menschen, prägten Kettwiger Industrie maßgeblich
+  produkte: Wolltuche, Schirmseiden
+  bedeutung_regional: Kettwig im großen Umfeld bekannt durch diese Produkte
+  hintergruende: Fabrikhallen, Siedlungsanlagen, Arbeiterwohnungen, Villen in Altstadt zeugen noch heute davon
+  bergbau_rolle: Obwohl Zechen vorhanden, nahm Bergbau nie zentrale Rolle ein
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1476
+GUELTIG_BIS: 1974
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 431-kettwig/021
+ENTITÄT: textilunternehmen
+BEZEICHNUNG: Scheidt (Tuchfabrik und Kammgarnspinnerei)
+FACETTE: GESCHICHTE | WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_jahr: 1681
+  gruender: Gottfried Scheidt
+  erstes_fabrikgebaeude_dampfkraft_jahr: 1837
+  erstes_fabrikgebaeude_erbauer: Julius Scheidt
+  erweiterung_kammgarnspinnerei_jahr: 1883
+  erweiterung_erbauer: Wilhelm Scheidt (Sohn)
+  groesste_ausdehnung_periode: Anfang 20. Jahrhundert
+  groesste_ausdehnung_leitende: Johann Wilhelm und Erhard August Scheidt (Söhne)
+  bedeutung_fuer_ort: Größter Arbeitgeber Kettwigs, 1928 in Aktiengesellschaft umgewandelt
+  locations: Fabrikhallen am rechten Ruhrufer, Stadtvillen und Wohnhäuser für Angestellte
+  denkmalschutz: Teile unter Denkmalschutz, teilweise zu Wohngebäuden umgestaltet
+  schließung_tuchfabrik: 1962
+  schließung_kammgarnspinnerei: 1974
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1681
+GUELTIG_BIS: 1974
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 431-kettwig/022
+ENTITÄT: druckerei
+BEZEICHNUNG: Axel-Springer-Verlag Druckerei Kettwig
+FACETTE: WIRTSCHAFT | INFRA
+ORTSTEIL_BEZUG: Teelbruch (Gewerbegebiet)
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  lage: Im Teelbruch, Kettwiger Gewerbegebiet
+  beschaeftigte: etwa 400
+  produktion: täglich etwa eine Million Tages- und Wochenzeitungen
+  produkte_umfang: eigene Titel und Lohndruckaufträge
+  bauzeit_gebiet: In letztem Drittel 20. Jahrhundert als Teil Strukturwandel
+  bedeutung_fuer_ort: Erhöhte Qualität des Stadtteils nach Errichtung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 431-kettwig/023
+ENTITÄT: wasserkraftwerk
+BEZEICHNUNG: Wasserkraftwerk Kettwig
+FACETTE: INFRA | LAGE
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia (erwähnt unter Stausee-Infrastruktur)
+EIGENSCHAFTEN:
+  laumart: Laufwasserkraftwerk
+  standort: Kettwiger Stausee
+  infrastruktur: Teil von Schleuse und Laufwasserkraftwerk
+  bedeutung_wirtschaft: Route der Industriekultur
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 431-kettwig/024
+ENTITÄT: burg_ruine
+BEZEICHNUNG: Burg Luttelnau / Kattenturm
+FACETTE: GESCHICHTE | LAGE
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  lage_geografisch: Flussaufwärts auf rechter Ruhrseite, nordöstlich als Kattenturm bekannt
+  bautyp: Burg, Ruine
+  schleifung_vermutlich: 14. Jahrhundert
+  beschreibung_heutig: Ruine
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 431-kettwig/025
+ENTITÄT: kapelle
+BEZEICHNUNG: Kapelle Maria im Maien
+FACETTE: GESCHICHTE | LAGE
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  lage: Kettwiger Norden
+  heutige_nutzung: Hochzeiten
+  urspruengliche_funktion: Katholiken an der Pierburg die fußläufige Teilnahme an der Messe erleichtern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 431-kettwig/026
+ENTITÄT: skulpturenpark
+BEZEICHNUNG: Skulpturenpark Kettwig
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_jahr: 1985
+  initiatorin: Künstlerin Marianne Kühn
+  werke_anzahl: 14
+  werke_verteilung: über das Ortsgebiet verteilt
+  kuenstler: Herbert Lungwitz, Carl Emanuel Wolff, Johannes Brus, Werner Graeff
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 431-kettwig/027
+ENTITÄT: fest
+BEZEICHNUNG: Musikalisch-Kulinarische Meile
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: Sommer
+  bedeutung_fuer_ort: Viele Besucher auch von außerhalb
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 431-kettwig/028
+ENTITÄT: fest
+BEZEICHNUNG: Brunnenfest
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: Herbst
+  bedeutung_fuer_ort: Zieht Besucher auch von außerhalb an
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 431-kettwig/029
+ENTITÄT: fest
+BEZEICHNUNG: Kürbisfest
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: Herbst
+  bedeutung_fuer_ort: Zieht Besucher auch von außerhalb an
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 431-kettwig/030
+ENTITÄT: bauensemble
+BEZEICHNUNG: Scheidt'sche Hallen
+FACETTE: FREIZEIT | GESCHICHTE | KULTUR
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urspruengliche_funktion: Kammgarnspinnerei
+  heutige_nutzung: Kreativ-Quartier
+  umfang: Ateliers und Werkstätten, Veranstaltungen, Workshops, Empfänge
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 431-kettwig/031
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Kettwig
+FACETTE: INFRA | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnet_jahr: 1872
+  historische_rolle: Großer Eisenbahnknoten
+  strecken_verzweigung: Zwei Strecken nach Süden - Untere Ruhrtalbahn nach Mülheim a.d. Ruhr, Niederbergbahn via Heiligenhaus nach Velbert
+  lage: Nördlich der Ruhr dezentral am äußersten Ende der Bebauung
+  position_problematik: Eingeklemmt zwischen Berghang und Ruhr
+  zweiter_weltkrieg: Eisenbahnbrücke gesprengt, Züge endeten südlich der Ruhr
+  heutige_nutzung: S-Bahnlinie 6, diverse Buslinien
+  haltepunkt_historisch_kreissicherung: Nein, sondern überörtliches Verkehrssystem
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 431-kettwig/032
+ENTITÄT: bahnhof
+BEZEICHNUNG: Haltepunkt Kettwig Stausee
+FACETTE: INFRA | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  errichtung_jahr: 1945
+  urspruengliche_funktion: Behelfshalt
+  grund: Nach Zweiter Weltkrieg, Eisenbahnbrücke gesprengt
+  lage: Direkt am Südufer des Kettwiger Sees im Ortsteil Kettwig Vor der Brücke
+  heutige_nutzung: S-Bahnlinie 6
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 431-kettwig/033
+ENTITÄT: stadtteil
+BEZEICHNUNG: Altstadt Kettwig
+FACETTE: LAGE | GESCHICHTE | FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristika: Historische Altstadt mit zahlreichen Fachwerkhäusern
+  gassensystem: Enge Gassen mit kurzen Einkaufswegen
+  funktion_heute: Touristenmagnet, begehrtes Wohnquartier
+  denkmalschutz_fachwerkhäuser: Einige bereits im 14. Jahrhundert erbaut, heute zu den ältesten ununterbrochen bewohnten Häusern in Nordrhein-Westfalen
+  neuerungen_1975_1977: Neugestaltung Schulstraße und Bürgermeister-Fiedler-Platz mit Abbruch von intakten Fachwerkhäusern (z.B. Gaststätte "Zum Treppchen")
+  einkaufszone: Im letzten Drittel 20. Jahrhundert um Altstadtkern entstandene geschäftige Einkaufszone
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 431-kettwig/034
+ENTITÄT: stadtteil
+BEZEICHNUNG: Gartenstadt Kettwig
+FACETTE: GESCHICHTE | LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode_eigenbezeichnung: Ab Mitte 20. Jahrhundert
+  konzeptumsetzung: Ansätze des Gartenstadtkonzepts bei Neubauten wie Kemmannsberg und Schmachtenbergviertel
+  charakteristika_heute: Viele Plätze mit Bänken für Ruhepausen, Verbindungswege und -treppen im Grünen als beliebte Fußgängerabkürzungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 431-kettwig/035
+ENTITÄT: stadtteil
+BEZEICHNUNG: Kemmannsberg
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  siedlung: Gartenstadtsiedlung seit Mitte 20. Jahrhundert
+  konzept: Gartenstadtkonzept
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 431-kettwig/036
+ENTITÄT: stadtteil
+BEZEICHNUNG: Schmachtenbergviertel
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  siedlung: Gartenstadtsiedlung seit Mitte 20. Jahrhundert
+  konzept: Gartenstadtkonzept
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 431-kettwig/037
+ENTITÄT: stadtteil
+BEZEICHNUNG: Auf der Höhe
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_statistik.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakter: Große Neubausiedlung
+  funktion: Machte Kettwig zu einem der bevölkerungsreichen Stadtteile Essens
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 431-kettwig/038
+ENTITÄT: stadtteil
+BEZEICHNUNG: Ickten
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_statistik.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakter: Große Neubausiedlung
+  funktion: Machte Kettwig zu einem der bevölkerungsreichen Stadtteile Essens
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 431-kettwig/039
+ENTITÄT: stadtteil
+BEZEICHNUNG: Vor der Brücke
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_statistik.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakter: Große Neubausiedlung
+  funktion: Machte Kettwig zu einem der bevölkerungsreichen Stadtteile Essens
+  historischer_hintergrund: Bis 1806 zum Herzogtum Berg, bis 1813 Großherzogtum Berg, später preußisch im Kreis Düsseldorf
+  eingemeindung_nach_kettwig: 1930-05-15
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 431-kettwig/040
+ENTITÄT: siedlung
+BEZEICHNUNG: Kettwiger Ruhrbogen
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  zeit_entstehung: Seit 2015
+  lage: Bereich Güterstraße nahe der Hauptstraßenkreuzung zwischen S-Bahn-Strecke und Ruhr
+  typ: Wohngebiet, Eigentumsswohnungen mit Blick auf Ruhr und Kettwiger See
+  verkehrliche_anbindung: ÖPNV-Knotenpunkt
+  geplante_massnahme: Bahnhofsverlagerung geplant, aber nicht realisiert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 431-kettwig/041
+ENTITÄT: wanderweg
+BEZEICHNUNG: Kettwig Rundweg A1
+FACETTE: FREIZEIT
+QUELLE: OSM Zeugen
+EIGENSCHAFTEN:
+  laenge_km: 6
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 431-kettwig/042
+ENTITÄT: wanderweg
+BEZEICHNUNG: Kettwig Rundweg A2
+FACETTE: FREIZEIT
+QUELLE: OSM Zeugen
+EIGENSCHAFTEN:
+  laenge_km: 6.5
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 431-kettwig/043
+ENTITÄT: wanderweg
+BEZEICHNUNG: Kettwig Rundweg A3
+FACETTE: FREIZEIT
+QUELLE: OSM Zeugen
+EIGENSCHAFTEN:
+  laenge_km: 7.2
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 431-kettwig/044
+ENTITÄT: wanderweg
+BEZEICHNUNG: Kettwig Rundweg A4
+FACETTE: FREIZEIT
+QUELLE: OSM Zeugen
+EIGENSCHAFTEN:
+  laenge_km: 10
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 431-kettwig/045
+ENTITÄT: fernwanderweg
+BEZEICHNUNG: Ruhrtalradweg
+FACETTE: FREIZEIT
+QUELLE: OSM Zeugen
+EIGENSCHAFTEN:
+  typ: Radweg
+  laenge_km: 230
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 431-kettwig/046
+ENTITÄT: fernwanderweg
+BEZEICHNUNG: Deutsche Fußball Route NRW (Mitte)
+FACETTE: FREIZEIT
+QUELLE: OSM Zeugen
+EIGENSCHAFTEN:
+  typ: Themenradweg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 431-kettwig/047
+ENTITÄT: fernwanderweg
+BEZEICHNUNG: GeoRoute Ruhr
+FACETTE: FREIZEIT
+QUELLE: OSM Zeugen
+EIGENSCHAFTEN:
+  typ: Radweg
+  laenge_km: 185
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 431-kettwig/048
+ENTITÄT: gewässer
+BEZEICHNUNG: Ruhr
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung_fuer_kettwig: Unmittelbare Lage an der Ruhr prägt den Stadtteil
+  funktion_freizeit: Spazierwege, Naherholung
+  infrastruktur: Tretbootanlage, Stausee, Schleuse, Kraftwerk
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 431-kettwig/049
+ENTITÄT: buergermeister_historisch
+BEZEICHNUNG: Albert Fiedler
+FACETTE: POLITIK | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1903-10-03
+  geburtsort: Heidhausen
+  todestag: 1976-06-03
+  todesort: Kettwig
+  funktion_1: Bürgermeister von Kettwig (1960-03-20 bis 1961-03-19)
+  funktion_2: Bürgermeister von Kettwig (1964-10-08 bis 1974-12-31)
+  partei: SPD
+  bedeutung_fuer_ort: Letzter Bürgermeister der eigenständigen Stadt Kettwig
+  ehrendes_namensdonnern: Bürgermeister-Fiedler-Platz benannt nach ihm (1979-10 anlässlich der Eingemeindung)
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1960
+GUELTIG_BIS: 1974
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 431-kettwig/050
+ENTITÄT: geschichte_ereignis
+BEZEICHNUNG: Eingemeindung nach Essen
+FACETTE: GESCHICHTE | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1975-01-01
+  grund: Gebietsreform in Nordrhein-Westfalen (§6 Ruhrgebiet-Gesetz, §11 Düsseldorf-Gesetz)
+  quelle_verwaltung_vorher: Kreis Düsseldorf-Mettmann
+  quelle_verwaltung_nachher: Stadt Essen
+  folge_stadtteil_mintard: Westlichster Ortsteil Mintard fiel an Mülheim a.d. Ruhr
+  buergerreaktion: Massive Widerstände der Bevölkerung
+  buergerbegehren_1996: Mehrheit von ca. 55% für Wiederherstellung und Rückgemeindung
+  buergerbegehren_entscheidung_1997: Landesregierung lehnte Begehren ab
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1975
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 431-kettwig/051
+ENTITÄT: geschichte_ereignis
+BEZEICHNUNG: Ehrung des letzten Bürgermeisters
+FACETTE: GESCHICHTE | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Benennung des Bürgermeister-Fiedler-Platzes
+  datum: 1979-10-01
+  geehrte_person: Albert Fiedler (letzter Bürgermeister der eigenständigen Stadt Kettwig)
+  kontext: Nach Eingemeindung zur Stadt Essen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 431-kettwig/052
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Julius Scheidt
+FACETTE: GESCHICHTE | WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1813-07-28
+  geburtsort: Kettwig
+  todestag: 1874-06-17
+  todesort: Kettwig
+  beruf: Tuchfabrikant, Politiker
+  leistung_1: Errichtung des ersten Fabrikgebäudes mit Dampfkraft an der Ruhr (1837)
+  bedeutung_fuer_ort: Prägender Unternehmer der Kettwiger Industriegeschichte
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 431-kettwig/053
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Wilhelm Scheidt
+FACETTE: GESCHICHTE | WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1838-06-09
+  geburtsort: Kettwig
+  todestag: 1896-03-27
+  todesort: Kettwig
+  beruf: Tuchfabrikant, Politiker
+  leistung_1: Erweiterung der Tuchfabrik um eine Kammgarnspinnerei (1883)
+  bedeutung_fuer_ort: Prägender Unternehmer der Kettwiger Industriegeschichte
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 431-kettwig/054
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Wilhelm Scheidt
+FACETTE: GESCHICHTE | WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1877-07-10
+  geburtsort: Kettwig
+  todestag: 1954-02-09
+  todesort: Bielefeld
+  beruf: Tuchfabrikant, Ehrenbürger
+  leistung_1: Mitführung des Unternehmens Scheidt mit Bruder Erhard August
+  groesste_ausdehnung: Mit Bruder größte Ausdehnung des Unternehmens im frühen 20. Jahrhundert
+  ehrenamt: Ehrenbürger der Stadt Kettwig
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 431-kettwig/055
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Erhard August Scheidt
+FACETTE: GESCHICHTE | WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1865-01-24
+  geburtsort: Kettwig
+  todestag: 1929-02-07
+  todesort: St. Wolfgang (Salzkammergut)
+  beruf: Tuchfabrikant, Beigeordneter
+  leistung_1: Mitführung des Unternehmens Scheidt mit Bruder Johann Wilhelm
+  groesste_ausdehnung: Mit Bruder größte Ausdehnung des Unternehmens im frühen 20. Jahrhundert
+  funktion_stadt: Beigeordneter der Stadt Kettwig
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 431-kettwig/056
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Otto Gebühr
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1877-05-29
+  geburtsort: Kettwig
+  todestag: 1954-03-13
+  todesort: Wiesbaden
+  beruf: Schauspieler
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 431-kettwig/057
+ENTITÄT: schulgebaeude
+BEZEICHNUNG: Theodor-Heuss-Gymnasium
+FACETTE: INFRA | BILDUNG
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  namensperson: Theodor Heuss, erster Bundespräsident der Bundesrepublik Deutschland
+  schueleranzahl: etwa 800
+  besonderheit_bilingual: Zweig für bilinguales Lernen
+  infrastruktur: Große Sporthalle (Schulen, Sportvereinen, Ruder-Elite)
+  veranstaltung_jaehrlich: Internationaler Indoor-Cup (Rudern)
+  veranstaltung_europameisterschaft: Ergometer-Rudern (2010, 2013)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 431-kettwig/058
+ENTITÄT: schulgebaeude
+BEZEICHNUNG: Schmachtenbergschule
+FACETTE: INFRA | BILDUNG
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  lage: Nördlicher Teil Kettwigs, Schmachtenbergstraße
+  typ: Grundschule
+  infrastruktur: Sporthalle, eigenes Lehrschwimmbecken (unter der Sporthalle, geschlossen)
+  aelterer_teil_errichtung: 1955
+  aelterer_teil_originalname: Fröbelschule (evangelische Volksschule)
+  neuerer_teil_errichtung: 1962
+  neuerer_teil_originalname: Albertusschule II (katholische Volksschule)
+  gründung_schmachtenbergschule: 1968 (Zusammenfassung der beiden Volksschulen zu Grund- und Hauptschule)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 431-kettwig/059
+ENTITÄT: schulgebaeude
+BEZEICHNUNG: Schule an der Ruhr
+FACETTE: INFRA | BILDUNG
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_zusammenfuehrung: 2007 (Erich Kästner-Grundschule und Brücker Schule)
+  urspruenglicher_arbeitstitel: Gemeinschaftsgrundschule Kettwig
+  offizielle_name_seit: 2008-09-09
+  standorte: Mintarder Weg (ehem. Brücker Schule), Gustavstraße (ehem. Erich Kästner-Grundschule)
+  probleme_2014: Schimmelbefall (Standort Mintarder Weg)
+  schadensfund_2017: Starke Belastungen mit Tetrachlorethen
+  provisorische_loesung: Container in der Gustavstraße
+  planung_stadtessen_2019: Neubau am Standort Mintarder Weg angestrebt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 431-kettwig/060
+ENTITÄT: schulgebaeude
+BEZEICHNUNG: Albert-Einstein-Realschule
+FACETTE: INFRA | BILDUNG
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  lage_vorher: Brederbachstraße (bis 2016)
+  schueleranzahl_vorher: etwa 700
+  gebaeude_jahr: 1978
+  vorgaenger_gebaeude: Alte Pädagogische Hochschule (PH, Lehrerseminar), abgerissen 1977
+  besonderheit_sportteam: Erfolgreiches Flagfootballteam (Landesmeisterschaft)
+  zusammenlegung_2016: Mit Albert-Einstein-Realschule in Essen-Rellinghausen (11 km entfernt)
+  betrieb_nach_zusammenlegung: Unterricht an beiden Standorten, Pendeln der Lehrer
+  neufuendung_seit: 2020-08-01
+  planung_stadtessen_2020: Wiederbetrieb als eigenständige Schule ab 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 431-kettwig/061
+ENTITÄT: denkmal
+BEZEICHNUNG: Kaiser-Wilhelm-Denkmal
+FACETTE: GESCHICHTE
+QUELLE: OSM Zeugen
+EIGENSCHAFTEN:
+  typ: Denkmal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 431-kettwig/062
+ENTITÄT: denkmal
+BEZEICHNUNG: Kriegsgräber
+FACETTE: GESCHICHTE
+QUELLE: OSM Zeugen
+EIGENSCHAFTEN:
+  typ: Gedenkstätte, Kriegsgräber
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 431-kettwig/063
+ENTITÄT: denkmal
+BEZEICHNUNG: Stolpersteine
+FACETTE: GESCHICHTE | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Benannte Stolpersteine in Essen (Teil davon in Kettwig)
+  verlegungsjahr: 2008 und später
+  personen_kategorien: Mehrere Name (z.B. Amalie Isaac, Emma Joseph, Hulda Joseph, Johanna Joseph, Max Joseph, Rida Seligmann)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 431-kettwig/064
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Trinkwasserbrunnen
+FACETTE: INFRA
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Bürgermeister-Fiedler-Platz
+  funktion: Öffentliche Trinkwasserversorgung, Erfrischung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 431-kettwig/065
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Notfall-Infopunkt (NIP)
+FACETTE: INFRA | POLITIK
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kettwig/kettwig_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Münzenbergerplatz 3, St. Josefshaus
+  funktion: In Krisensituationen (z.B. Stromausfall) - Informationsaustausch, Notfallmeldungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 431-kettwig/066
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Feuerwachen Kettwig
+FACETTE: INFRA | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  anzahl_wachen: Zwei (aufgrund Geschichte als eigenständige Stadt)
+  wache_1_standort: Schulstraße
+  wache_1_groesse: Größere Feuer- und Rettungswache 8
+  wache_1_stationierung: Löschzug der Freiwilligen Feuerwehr Kettwig, Rettungswagen der Berufsfeuerwehr Essen
+  wache_2_standort: Vor der Brücke, Werdender Straße
+  wache_2_funktionn: Feuerwehrhaus der Löschgruppe Kettwig Vor der Brücke
+  zusatz_stausee: Mehrzweckboot ganzjährig stationiert (Menschenrettung, Gefahrenabwehr auf Ruhr)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 431-kettwig/067
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Polizeiwache Kettwig
+FACETTE: INFRA | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  standort: Hauptstraße
+  betrieb: Tagsüber besetzt
+  zustaendigkeit_ausserhalb_dienst: Polizeiinspektion Süd in Rüttenscheid
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 431-kettwig/068
+ENTITÄT: verwaltung_geschichte
+BEZEICHNUNG: Verwaltungsgeschichte Kettwig
+FACETTE: GESCHICHTE | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  periode_reichsabtei: bis 1803 (Reichsabtei Werden)
+  periode_preussisch_1: 1803-1806
+  periode_bergherzogtum: 1813 (Großherzogtum Berg)
+  periode_preussisch_2: ab 1815
+  kreis_historisch_1: Kreis Duisburg (ab 1815)
+  kreis_historisch_2: Kreis Essen (danach bis 1929-08-01)
+  kreis_historisch_3: Kreis Düsseldorf-Mettmann (ab 1929-01-01)
+  eingemeindung: 1975-01-01 nach Essen
+  sudufer_ruhr_geschichte: Teil südlich der Ruhr bis 1806 zum Herzogtum Berg, dann bis 1813 zum Großherzogtum Berg, später preußisch (Kreis Düsseldorf), 1930-05-15 Teil der aufgelösten Gemeinde Laupendahl nach Kettwig eingemeindet
+  oefte_geschichte: Ehemalige Herrschaft Oefte 1815-1930 im Kreis Mettmann, 1936-04-01 von Heiligenhaus an Kettwig abgetreten
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1000
+GUELTIG_BIS: 1975
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 431-kettwig/069
+ENTITÄT: kirchlicher_bereich
+BEZEICHNUNG: Konfessionelle Zugehörigkeit Kettwig
+FACETTE: POLITIK | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  erzbistum_koeln_teil: Bis 2015 Zugehörigkeit zum Erzbistum Köln
+  bistumsgebiet_wechsel_2015: Überwiegend Kirchenkreis Mülheim a.d. Ruhr bis 2015, dann Kirchenkreis Essen
+  belegung_fachschule: Jugendbildungsstätte St. Altfrid 1958 vom Erzbistum Köln dem Bistum Essen überlassen (anlässlich Bistum-Gründung)
+  protestantischer_anteil: Etwa 58 Prozent
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 431-kettwig/070
+ENTITÄT: infrastruktur_historisch
+BEZEICHNUNG: Postleitzahl und Telefonanschluss Kettwig
+FACETTE: INFRA | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  postleitzahl_bis_1975: 4307
+  postleitzahl_1975_1993: 4300 Essen 18
+  postleitzahl_ab_1993: 45219 Essen-Kettwig
+  telefonvorwahl_historisch: 02144
+  telefonvorwahl_aenderung: 1978 in 02054
+  kfz_kennzeichen_bis_1975: D
+  kfz_kennzeichen_ab_1975: E (für Essen)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 431-kettwig/071
+ENTITÄT: autobahnanbindung
+BEZEICHNUNG: Bundesautobahn 52 (A52)
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  strecke: Essen–Düsseldorf
+  bauzeit: 1960er Jahre
+  verlauf_kettwig: Am Rande über Mintarder Ruhrtalbrücke
+  anschlussstelle_name: Essen-Kettwig (bis Mitte 1990er Jahre: Essen-Haarzopf)
+  anschlussstelle_lage_nicht_in_kettwig: In Schuir, etwa 2.5 km nördlich
+  brückehöhe_mintarder_ruhrtal: 65 Meter
+  anschluss_weitere_autobahnen: Autobahnkreuz Breitscheid (A3, A52, A524)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 431-kettwig/072
+ENTITÄT: bruecke
+BEZEICHNUNG: Mintarder Ruhrtalbrücke
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  funktion: A52 Querung des Ruhrtals
+  hoehe: 65 Meter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 431-kettwig/073
+ENTITÄT: bevölkerung
+BEZEICHNUNG: Bevölkerungsstruktur Kettwig
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Kettwig | Wikipedia
+EIGENSCHAFTEN:
+  stand_31_03_2025: 18009 Einwohner
+  unter_18_jahren_prozent: 14.4
+  unter_18_jahren_essen_durchschnitt: 16.9
+  ab_65_jahren_prozent: 30.3
+  ab_65_jahren_essen_durchschnitt: 21.7
+  auslaenderanteil_prozent: 8.7
+  auslaenderanteil_essen_durchschnitt: 20.6
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+

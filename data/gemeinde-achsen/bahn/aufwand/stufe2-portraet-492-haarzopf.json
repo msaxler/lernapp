@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2-portraet",
+ "ort": "492-haarzopf",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 15653,
+ "token_ein": 528240,
+ "token_aus": 9783,
+ "usage": {
+  "input_tokens": 30,
+  "cache_creation_input_tokens": 41026,
+  "cache_read_input_tokens": 487184,
+  "output_tokens": 9783,
+  "output_tokens_details": {
+   "thinking_tokens": 4758
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 41026,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 3667,
+    "cache_read_input_tokens": 45151,
+    "cache_creation_input_tokens": 2777,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 2777
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.0869148,
+ "sekunden": 214,
+ "fehler": false,
+ "zeit": "2026-10-27T01:52:19"
+}

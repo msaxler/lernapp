@@ -1,0 +1,543 @@
+ID: 501-oberhonnefeld-gierend/001
+ENTITÄT: ort
+BEZEICHNUNG: Oberhonnefeld-Gierend
+FACETTE: LAGE
+EIGENSCHAFTEN:
+  gemeindetyp: Ortsgemeinde
+  landkreis: Neuwied
+  bundesland: Rheinland-Pfalz
+  verbandsgebiet: Rengsdorf-Waldbreitbach
+  naturpark: Rhein-Westerwald
+  anzahl_ortsteile: 3
+  bevölkerung: 1057
+  bevölkerung_1961: 411
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 501-oberhonnefeld-gierend/002
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oberhonnefeld
+FACETTE: LAGE
+EIGENSCHAFTEN:
+  status: größter Ortsteil
+  lage: abseits Bundesstraße 256
+  wachstum: schnelles Wachstum in 1970er Jahren
+  infrastruktur: Boulebahn, Tischtennisplatte, Spielplätze, Kindergarten, Gaststätten
+  erholung: Weiher in Hölzbach mit Wanderwegen
+QUELLE: https://oberhonnefeld.de/ortsteile.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 501-oberhonnefeld-gierend/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gierend
+FACETTE: LAGE
+EIGENSCHAFTEN:
+  lage: kleines Tal, abseits Bundesstraße 256
+  bebauung: wenige neue Häuser in letzten Jahrzehnten
+  struktur: zwei Dorfteile getrennt durch Bach, historisch mit Zäunen umrandet und fünf Toren
+  infrastruktur: Spielplatz, Backhaus (Backes)
+QUELLE: https://oberhonnefeld.de/ortsteile.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 501-oberhonnefeld-gierend/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gierenderhöhe
+FACETTE: LAGE
+EIGENSCHAFTEN:
+  lage: direkt an Autobahnausfahrt A3
+  verkehrslage: B 256 durchlaufend, Steinstraße
+  infrastruktur: Tankstelle, Gaststätten, Restaurants, Lebensmittelmärkte
+  wirtschaft: Gewerbegebiet, Firmen, Betriebe, Geschäfte
+  siedlung_charakteristika: Eine der jüngsten Ansiedlungen der Gemeinde
+QUELLE: https://oberhonnefeld.de/ortsteile.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 501-oberhonnefeld-gierend/005
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Oberhonnefeld
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  erstnachricht_jahr: um 1000
+  nachricht_kontext: erste Erwähnung Oberhonnefelder Kirche
+  abtrennung_pfarrei: 1000 (von Pfarrei Rengsdorf)
+  historische_pfarrei_name: Hunnifeld (später Honnefeld)
+  gründungsanlass: machtpolitische Umstände, Zeichen der machtpolitischen Zuständigkeit
+  eigenkirche_stift: St. Castor Stift Koblenz
+  pfarrei_name_1204: Hunnevelt
+  baustil: klassizistische Saalkirche
+  turmeinsturz: Dezember 1801
+  turmeinsturz_sanierungsdauer: etwa 20 Jahre als Ruine
+  kirchenneubau_bauzeit: 1828-1832
+  kirchenneubau_baukosten: 3483 Reichstaler
+  bauunternehmer: Reinhard
+  reparaturen: 1911, 1962
+  bedeutung_fuer_ort: Wahrzeichen des Honnefelder Landes
+QUELLE: https://oberhonnefeld.de/kirche-.html | Gemeinde-Webseite
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 501-oberhonnefeld-gierend/006
+ENTITÄT: orgel
+BEZEICHNUNG: Orgel Evangelische Kirche Oberhonnefeld
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  anschaffung_jahr: 1832
+  kosten: 680 Reichstaler
+  erbauer: Brüder Weil aus Neuwied
+  geschichte_beschreibung: Erst 1832 konnte sich die arme Kirchengemeinde eine Orgel leisten, Kosten wurden auf Gemeinden und Kirchenkasse umgelegt
+QUELLE: https://oberhonnefeld.de/kirche-.html | Gemeinde-Webseite
+GUELTIG_AB: 1832
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 501-oberhonnefeld-gierend/007
+ENTITÄT: glocken
+BEZEICHNUNG: Glocken Evangelische Kirche Oberhonnefeld
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  glocken_alt_anzahl: 2
+  glocken_alt_herkunft: wahrscheinlich 14. Jahrhundert
+  glocken_alt_schaden_1801: kleine Glocke zersprang beim Turmeinsturz, umgeschmolzen für 130 Reichstaler
+  umguß_jahr: 1830
+  umguß_giesser: Friedrich Bernhard aus Tiefenbach
+  umguß_gewicht: 850 kg (große), 500 kg (kleine)
+  schaeden_1892: große Glocke zersprang, wurde umgegoßen
+  abgabe_kriegszeit_1917: große Glocke behördlich abgegeben (behielt Schaden nicht)
+  neue_glocke_1924: zweite Glocke 889 kg
+  abgabe_kriegszeit_1942: große Glocke erneut abgegeben
+  neue_glocken_1949: drei neue Glocken Dezember 1949, Gewichte 1315 kg, 755 kg, 565 kg
+  neue_glocken_namen: Glaube, Hoffnung, Liebe
+QUELLE: https://oberhonnefeld.de/kirche-.html | Gemeinde-Webseite
+GUELTIG_AB: 1801
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 501-oberhonnefeld-gierend/008
+ENTITÄT: pfarrhaus
+BEZEICHNUNG: Pfarrhaus Oberhonnefeld
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  errichtung_zeitraum: vor 1595
+  groesseprobleme: 1595 zu klein, nur ein Raum für Familie des Pfarrers
+  zustandsprobleme: vor 1690 armselig und verkommen
+  reparatur_dach: 1748
+  sanierungen: 1783-1793 erstmals größere Ausbesserungen
+  zustand_1856: bedenklich baufällig
+  zustand_1900: Neubau notwendig
+  neubau_beginn: 1911 (mit Unterstützung Spenden Fürst, Kirche, Bevölkerung)
+  neubau_fertig: 1912
+  gemeindehaus_nachnutzung: 1993 durch Neubau ersetzt (als Gemeindehaus)
+  historischer_bewohner: Pfarrer Siller (hatte viele Pferde und Kühe, bebaute Feld)
+QUELLE: https://oberhonnefeld.de/kirche-.html | Gemeinde-Webseite
+GUELTIG_AB: 1595
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 501-oberhonnefeld-gierend/009
+ENTITÄT: chronik
+BEZEICHNUNG: Von Hunnenweld und Gerode nach Oberhonnefeld-Gierend
+FACETTE: ALLTAG
+EIGENSCHAFTEN:
+  form: Buch
+  inhalt: historische Ereignisse, Abläufe und Persönlichkeiten der Gemeinde
+  herausgeber: benannt (nicht genannt)
+  preis: 16,50 EUR
+  bezugsquelle: Ortsbürgermeister
+QUELLE: https://oberhonnefeld.de/chronik.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 501-oberhonnefeld-gierend/010
+ENTITÄT: verein
+BEZEICHNUNG: Männergesangverein 1875 Oberhonnefeld-Gierend
+FACETTE: KULTUR
+EIGENSCHAFTEN:
+  gründungsjahr: 1875
+  dauer_chorgesang: 151 Jahre
+  motto: "Wir laden ein zum Singen und Fröhlichsein"
+  fest: Sängerfest 150 Jahre November 2025
+QUELLE: https://oberhonnefeld.de/mgv/index.html | Gemeinde-Webseite
+GUELTIG_AB: 1875
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 501-oberhonnefeld-gierend/011
+ENTITÄT: verein
+BEZEICHNUNG: Burschenverein Oberhonnefeld
+FACETTE: KULTUR
+EIGENSCHAFTEN:
+  aktivitaeten: geselliges Vereinsleben
+  lied: Burschenlied (überliefert)
+QUELLE: https://oberhonnefeld.de/burschen/index.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 501-oberhonnefeld-gierend/012
+ENTITÄT: huette
+BEZEICHNUNG: Burschenhütte
+ORTSTEIL_BEZUG: Gierend
+FACETTE: FREIZEIT
+EIGENSCHAFTEN:
+  traeger: Burschenverein Oberhonnefeld
+  lage: Gierender Tal, unterhalb Gierend
+  nutzung: vermietbar für Feiern
+QUELLE: https://oberhonnefeld.de/ortsteile.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 501-oberhonnefeld-gierend/013
+ENTITÄT: verein
+BEZEICHNUNG: Feuerwehrverein Oberhonnefeld-Gierend
+FACETTE: INFRA
+EIGENSCHAFTEN:
+  gruendung_als_verein: 1996
+  vorgaenger: Löschzug Oberhonnefeld-Gierend der Freiwilligen Feuerwehr Verbandsgemeinde Rengsdorf
+  wahlspruch: "Gott zur Ehr, dem nächsten zur Wehr"
+QUELLE: https://oberhonnefeld.de/feuerwehr/index.html | Gemeinde-Webseite
+GUELTIG_AB: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 501-oberhonnefeld-gierend/014
+ENTITÄT: backhaus
+BEZEICHNUNG: Backes
+ORTSTEIL_BEZUG: Gierend
+FACETTE: INFRA
+EIGENSCHAFTEN:
+  einweihung: 2011
+  nutzung: vermietbar
+  lage: zentral im Ort
+  besonderheit: großer Vorplatz
+QUELLE: https://oberhonnefeld.de/ortsteile.html | Gemeinde-Webseite
+GUELTIG_AB: 2011
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 501-oberhonnefeld-gierend/015
+ENTITÄT: zentrum
+BEZEICHNUNG: Kultur- und Jugendzentrum
+ORTSTEIL_BEZUG: Gierenderhöhe
+FACETTE: KULTUR
+EIGENSCHAFTEN:
+  raeume: kleine Vereinsräume, große Halle
+  nutzung: Vereinsfeste, Privatfeiern, Vereinstraining
+  auslastung: kleine Vereinsräume täglich von Vereinen/Gruppen gebucht
+QUELLE: https://oberhonnefeld.de/ortsteile.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 501-oberhonnefeld-gierend/016
+ENTITÄT: gewerbegebiet
+BEZEICHNUNG: Gierender Höhe
+ORTSTEIL_BEZUG: Gierenderhöhe
+FACETTE: ALLTAG
+EIGENSCHAFTEN:
+  funktion: Ansiedlung mittelständiger und größerer Betriebe
+  infrastruktur: Verkaufsoffene Sonntage (4 pro Jahr geplant)
+QUELLE: https://oberhonnefeld.de/gewerbestruktur.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 501-oberhonnefeld-gierend/017
+ENTITÄT: gewerbegebiet
+BEZEICHNUNG: Westerwaldpark
+FACETTE: ALLTAG
+EIGENSCHAFTEN:
+  funktion: Ansiedlung mittelständiger und größerer Betriebe
+  infrastruktur: Verkaufsoffene Sonntage (4 pro Jahr geplant)
+QUELLE: https://oberhonnefeld.de/gewerbestruktur.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 501-oberhonnefeld-gierend/018
+ENTITÄT: bergwerk
+BEZEICHNUNG: Grube Georg
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  zeit: historisch (19. Jahrhundert)
+  arbeiter: Grubenarbeiter
+  infrastruktur_verbindung: Weyerbuscherweg mit Bäumen bestanden zum Schutz gegen starke Winde und damit sich Grubenarbeiter nicht verließen
+QUELLE: https://oberhonnefeld.de/chronik.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 501-oberhonnefeld-gierend/019
+ENTITÄT: gewaesser
+BEZEICHNUNG: Weiher
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  historische_funktionen: Wasserversorgung vor Wasserleitungen, Feuerbekämpfung (Brandweiher)
+  lage: Tal zwischen Dorfteilen Gierend
+  nachfolgebau: Brunnen an gleicher Stelle
+  heilkraut: Kalmus stand an Bach, wurde für kranke Kühe verwendet
+QUELLE: https://oberhonnefeld.de/chronik.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 501-oberhonnefeld-gierend/020
+ENTITÄT: schule
+BEZEICHNUNG: Alte Schule
+ORTSTEIL_BEZUG: Oberhonnefeld
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  nachnutzung: später Haus Kleinmann
+  lage: neben Kirche
+  besonderheit: Kuhstall angebaut, eine Kuh brach während Unterricht durch Wand in Schulsaal
+  geschichte: als erste Schule des Dorfes genutzt
+QUELLE: https://oberhonnefeld.de/chronik.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 501-oberhonnefeld-gierend/021
+ENTITÄT: handwerk
+BEZEICHNUNG: Nagelschmied
+ORTSTEIL_BEZUG: Gierend
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  produkt: Schuhnägel
+  werkstatt: kleine Hütte abseits anderer Häuser
+  goeppelwerk: hinter Haus, von Hunden betrieben
+  niedergang: verlor Erwerbszweig als Schmiede auf Gierenderhöhe gebaut wurde
+  umschulung: ging in Schmiede, verdiente 50 Pfennig pro Tag
+QUELLE: https://oberhonnefeld.de/chronik.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 501-oberhonnefeld-gierend/022
+ENTITÄT: schmiede
+BEZEICHNUNG: Schmiede Gierenderhöhe
+ORTSTIEL_BEZUG: Gierenderhöhe
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  zeit_errichtung: nach Nagelschmied (ca. 19. Jahrhundert)
+  bedeutung: verdrängte Nagelschmied als Arbeitsplatz
+QUELLE: https://oberhonnefeld.de/chronik.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 501-oberhonnefeld-gierend/023
+ENTITÄT: gaststatte
+BEZEICHNUNG: Gastwirtschaft Blum
+FACETTE: INFRA
+EIGENSCHAFTEN:
+  besonderheit: erstes Telefon der Gemeinde 1910
+QUELLE: https://oberhonnefeld.de/chronik.html | Gemeinde-Webseite
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 501-oberhonnefeld-gierend/024
+ENTITÄT: gaststatte
+BEZEICHNUNG: Wirtschaft Fischer
+FACETTE: ALLTAG
+EIGENSCHAFTEN:
+  besonderheit: Treffpunkt am Lohntag (für Erzfuhrleute)
+QUELLE: https://oberhonnefeld.de/chronik.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 501-oberhonnefeld-gierend/025
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Stromversorgung
+FACETTE: INFRA
+EIGENSCHAFTEN:
+  einfuehrung_oberhonnefeld: 1920/21
+  einfuehrung_gierend: 1921/22
+QUELLE: https://oberhonnefeld.de/chronik.html | Gemeinde-Webseite
+GUELTIG_AB: 1920
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 501-oberhonnefeld-gierend/026
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Wasserleitungen
+FACETTE: INFRA
+EIGENSCHAFTEN:
+  einfuehrung: 1911 (erste)
+QUELLE: https://oberhonnefeld.de/chronik.html | Gemeinde-Webseite
+GUELTIG_AB: 1911
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 501-oberhonnefeld-gierend/027
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Dorflampen
+FACETTE: INFRA
+EIGENSCHAFTEN:
+  einfuehrung: 1925
+QUELLE: https://oberhonnefeld.de/chronik.html | Gemeinde-Webseite
+GUELTIG_AB: 1925
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 501-oberhonnefeld-gierend/028
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Omnibus-Verkehr
+FACETTE: INFRA
+EIGENSCHAFTEN:
+  einfuehrung: 1910 (erster Omnibus)
+QUELLE: https://oberhonnefeld.de/chronik.html | Gemeinde-Webseite
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 501-oberhonnefeld-gierend/029
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Telefon
+FACETTE: INFRA
+EIGENSCHAFTEN:
+  einfuehrung_erste_stelle: 1910 Gastwirtschaft Blum
+QUELLE: https://oberhonnefeld.de/chronik.html | Gemeinde-Webseite
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 501-oberhonnefeld-gierend/030
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Rundfunk
+FACETTE: INFRA
+EIGENSCHAFTEN:
+  erstes_radio_oberhonnefeld: 1928 Familie Lebro
+  erstes_radio_gierend: 1928 Familie Hoffmann
+QUELLE: https://oberhonnefeld.de/chronik.html | Gemeinde-Webseite
+GUELTIG_AB: 1928
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 501-oberhonnefeld-gierend/031
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Autobahn
+FACETTE: INFRA
+EIGENSCHAFTEN:
+  bau: 1936
+  anschluss: A3 Autobahnausfahrt bei Gierenderhöhe
+QUELLE: https://oberhonnefeld.de/chronik.html | Gemeinde-Webseite
+GUELTIG_AB: 1936
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 501-oberhonnefeld-gierend/032
+ENTITÄT: strasse
+BEZEICHNUNG: Bundesstraße 256
+FACETTE: INFRA
+EIGENSCHAFTEN:
+  strecke: von Neuwied nach Altenkirchen
+  lage: östlich Gemeinde
+  historisches_zustandsproblem: sehr schlechter Zustand früher, täglich erzbeladene Pferdefuhrwerke
+QUELLE: https://de.wikipedia.org/wiki/Oberhonnefeld-Gierend | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 501-oberhonnefeld-gierend/033
+ENTITÄT: person
+BEZEICHNUNG: David Dreydoppel
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  geburt: 1793
+  tod: 1866
+  beruf: Fürstlich Wiedischer Hofjäger
+  rolle: Wegbegleiter des Prinzen Maximilians zu Wied-Neuwied
+  herkunft: in Oberhonnefeld geboren
+QUELLE: https://de.wikipedia.org/wiki/Oberhonnefeld-Gierend | Wikipedia
+GUELTIG_AB: 1793
+GUELTIG_BIS: 1866
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 501-oberhonnefeld-gierend/034
+ENTITÄT: person
+BEZEICHNUNG: Martin Cremer
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  geburt: 1913
+  tod: 1988
+  beruf: Bibliothekar
+  position: Leiter der Westdeutschen Bibliothek und der Deutschen Schillergesellschaft
+  herkunft: in Oberhonnefeld geboren
+QUELLE: https://de.wikipedia.org/wiki/Oberhonnefeld-Gierend | Wikipedia
+GUELTIG_AB: 1913
+GUELTIG_BIS: 1988
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 501-oberhonnefeld-gierend/035
+ENTITÄT: person
+BEZEICHNUNG: Harald Berndt
+FACETTE: POLITIK
+EIGENSCHAFTEN:
+  amt: Ortsbürgermeister
+  amtsantritt: 29. September 2022
+  wahl_2022_stimmenanteil: 94,3 %
+  wahltermin_2022: 18. September 2022
+  wiederwahltermin: 9. Juni 2024
+  wiederwahlstimmen: 88,8 %
+  amtszeit: fünf Jahre
+QUELLE: https://de.wikipedia.org/wiki/Oberhonnefeld-Gierend | Wikipedia
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 501-oberhonnefeld-gierend/036
+ENTITÄT: person
+BEZEICHNUNG: Oliver Weihrauch
+FACETTE: POLITIK
+EIGENSCHAFTEN:
+  amt: Ortsbürgermeister (Vorgänger Harald Berndt)
+  amtsantritt: 9. Juli 2019
+  amtsende: 31. Mai 2022
+  wahl_stimmenanteil: 87,96 %
+  wahltermin: 26. Mai 2019
+  grund_amtsende: Gesundheitsgründe
+QUELLE: https://de.wikipedia.org/wiki/Oberhonnefeld-Gierend | Wikipedia
+GUELTIG_AB: 2019
+GUELTIG_BIS: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 501-oberhonnefeld-gierend/037
+ENTITÄT: person
+BEZEICHNUNG: Rita Lehnert
+FACETTE: POLITIK
+EIGENSCHAFTEN:
+  amt: Ortsbürgermeisterin (Vorgängerin Oliver Weihrauch)
+  amtsdauer: zehn Jahre
+QUELLE: https://de.wikipedia.org/wiki/Oberhonnefeld-Gierend | Wikipedia
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 501-oberhonnefeld-gierend/038
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Oberhonnefeld-Gierend
+FACETTE: LAGE
+EIGENSCHAFTEN:
+  rechtsgueltigkeit_ab: 3. Juni 1981
+  entwerfer: Albert Meinhard, Neuwied
+  blasonierung: Gespalten durch eingebogene Spitze, schwarze Kirche in Vorderansicht, Turm mit Rundbogentor, feldweise Fenster und Zeltdach mit Wetterhahn; vorn achtmal schräggeteilt von Gold und Rot mit schwarzem Zahnrad; hinten Grün mit dreizeiliger goldener Ähre
+  symbolik_schraegteile: Wappen der Grafen von Wied aus 1218, Zugehörigkeit zu Allodialbesitz der Grafen von Wied
+  symbolik_zahnrad: ehemalige Eisen- und Kupfergruben und -hütten (bis ausgehendes 18. Jahrhundert)
+  symbolik_aehre: Getreideanbau
+  symbolik_gruen: waldreiche Umgebung
+  symbolik_kirche: evangelische Pfarrkirche Oberhonnefeld, klassizistische Saalkirche
+QUELLE: https://de.wikipedia.org/wiki/Oberhonnefeld-Gierend | Wikipedia
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 501-oberhonnefeld-gierend/039
+ENTITÄT: rat
+BEZEICHNUNG: Gemeinderat Oberhonnefeld-Gierend
+FACETTE: POLITIK
+EIGENSCHAFTEN:
+  ratsmitglieder_aktuell: 16
+  ratsmitglieder_bis_2014: 12
+  wahlform: Mehrheitswahl
+  wahltermin: 9. Juni 2024
+  vorsitz: Ortsbürgermeister (ehrenamtlich)
+QUELLE: https://de.wikipedia.org/wiki/Oberhonnefeld-Gierend | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

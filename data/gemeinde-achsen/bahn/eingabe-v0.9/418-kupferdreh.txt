@@ -1,0 +1,823 @@
+ZIELORT: Kupferdreh (Ortsteil von Essen)
+LAGE: Stadtteil von Essen, 9 km südöstlich der Stadtmitte (Luftlinie)
+ARTIKEL: Kupferdreh
+
+GRUNDDATEN:
+  landkreis: Stadtkreis Essen — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P131]
+  bundesland: Nordrhein-Westfalen — GILT FÜR DIE GEMEINDE ESSEN  [über die Gemeinde]
+  flaeche_km2: 9,34  [Wikidata P2046]
+  kfz: E (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P395]
+  hoehe_m: 62 | 90 — MEHRERE WERTE  [Wikidata P2044; Altbestand geo.sqlite (GeoNames 2882413)]
+  naechste_grossstadt: Essen, 9 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Düsseldorf, 29 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  eingemeindung: 1929-08-01  [dewiki Infobox]
+  plz: 45257  [Wikidata P281]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,5 %, SPD 22,2 %, AfD 17 %, GRÜNE 12,4 %, Die Linke 9,5 %; Wahlbeteiligung 80,1 % — GILT FÜR DIE GEMEINDE ESSEN  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 82,2 % im Bundesland (Ort 80,1 %, Abstand 2,1 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+ZEUGEN (OpenStreetMap, Gemeindegrenze; belegt nur, dass es die Sache gibt):
+  Freizeit: Prinz-Wilhelm-Bahn
+  Freizeit: Kupferdreher Markt
+  Freizeit: Reste eines alten Stollenmundloches
+  Freizeit: Steinbruch Deilbachtal
+  Freizeit: Hundebrücke
+  Freizeit: Kraftwerksturbinenläufer
+  Freizeit: Lore, ehem. Zeche Prinz Friedrich
+  Freizeit: Francis-Turbine
+  Museum: Die Kulturlandschaft Deilbachtal
+  Museum: Mineralienmuseum Kupferdreh (seit 1900)
+  Aussicht: Baldeneyseekurvenblick
+  Aussicht: Rehmanns Hof
+  Aussicht: Baldeneysee
+  Bahnhof: Essen-Kupferdreh
+  Bahnhof: Zementfabrik
+  Burg/Denkmal: Benno Kier (seit 2007)
+  Burg/Denkmal: Stele 1 Kupferdreh
+  Burg/Denkmal: Stele 2 Kupferdreh
+  Burg/Denkmal: Stele 3 Kupferdreh
+  Burg/Denkmal: Stele 4 Kupferdreh
+  Kultur: froh&bunter Kreativraum
+  Bildung: maxQ. Essen Pflegeschule
+  Bildung: DGGP Seminarstandort
+  Bildung: Aviation Service Center
+  Schutzgebiet: Heisinger Ruhraue (seit 1983)
+  Schutzgebiet: Asbachtal
+  Klinik: St.Josef Krankenhaus
+  Sportstätte: Stadtbad Kupferdreh (swimming)
+  Sportstätte: Sporthalle Kupferdreh (multi)
+  Gewässer: Ruhr
+  Radweg: Ruhrtalradweg (230 km)
+  Radweg: Deutsche Fußball Route NRW (Mitte)
+  Wanderweg: Rundweg um Kupferdreh (25 km)
+  Wanderweg: Zugangsweg zum Ruhrhöhenweg (9 km)
+  Wanderweg: (L) Rundweg um Langenberg (34 km)
+  Wanderweg: [Raute6] Hügellandweg
+  Wanderweg: [Raute3] Bergisch-Märkischer Weg (44 km)
+  Wanderweg: [Raute4] Eggenweg (43 km)
+
+PLAN:
+  Karte 1: FACETTE ALLTAG (Ersatz: FREIZEIT), Geschichte, D, wahre Option an Stelle 1
+  Karte 2: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 2
+  Karte 3: FACETTE FREIZEIT (Ersatz: ALLTAG), Geschichte, D, wahre Option an Stelle 3
+  Karte 4: FACETTE INFRA (Ersatz: LAGE), Geschichte, A, wahre Option an Stelle 4
+  Karte 5: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, A, wahre Option an Stelle 1
+  Karte 6: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, B, Lüge an Stelle 3
+  Karte 7: FACETTE LAGE, Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung, C, wahre Spanne an Stelle 3
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je ein weiteres Charakteristikum, Facette frei, Familie A, B oder D, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Wolfenacker (Ortsteil von Niederbreitbach)
+  landkreis: Landkreis Neuwied — GILT FÜR DIE GEMEINDE NIEDERBREITBACH  [Wikidata P131]
+  kfz: NR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE NIEDERBREITBACH  [Wikidata P395]
+  hoehe_m: 270 | 271  [Wikidata P2044; Altbestand geo.sqlite (GeoNames 2806918)]
+  naechste_grossstadt: Koblenz, 21 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 35,2 %, AfD 18,9 %, SPD 16,3 %, GRÜNE 10,8 %, Die Linke 5,2 %; Wahlbeteiligung 86,9 % — GILT FÜR DIE GEMEINDE NIEDERBREITBACH  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 83 % im Bundesland (Ort 86,9 %, Abstand 3,9 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+FAHRT: Wiehre, Waldsee, Altstadt, Stühlinger, Neuburg, Herdern, Zähringen, Brühl, Oberau, Haslach, Sankt Georgen, Vauban, Weingarten, Betzenhausen, Mooswald, Landwasser, Lehen, Rieselfeld, Dietenbach, Opfingen, Tiengen, Munzingen, Waltershofen, Ebnet, Littenweiler, Kappel, Merzhausen, Au, Horben, Günterstal, Ebringen, Schallstadt, Bad Krozingen, Staufen, Heitersheim, Müllheim, Waldkirch, Hochdorf, Gundelfingen, Denzlingen, Glottertal, March, Umkirch, Gottenheim, Merdingen, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Vogtsburg, Oberrotweil, Achkarren, Burkheim, Bischoffingen, Bickensohl, Oberbergen, Schelingen, Sasbach, Leiselheim, Wyhl, Forchheim, Breisach, Gündlingen, Niederrimsingen, Oberrimsingen, Kirchzarten, Stegen, St. Peter, St. Märgen, Oberried, Buchenbach, Höllental, Hinterzarten, Breitnau, Titisee, Titisee-Neustadt, Feldberg, Schluchsee, Lenzkirch, Eisenbach, Friedenweiler, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Neuwied, Altwied, Rengsdorf, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Bonefeld, Straßenhaus, Oberhonnefeld-Gierend, Willroth, Horhausen, Hümmerich, Krunkel, Breitscheid, Kloster Marienhaus, Wolfenacker, Kupferdreh, Überruhr, Bergerhausen, Rellinghausen, Stadtwald, Fischlaken, Werden, Burgaltendorf, Steele, Byfang, Rüttenscheid, Bredeney, Huttrop, Kettwig, Schuir, Heidhausen, Haarzopf, Margarethenhöhe, Südostviertel, Freisenbruch
+
+FAKTEN (Zielort Kupferdreh):
+ID: 418-kupferdreh/001
+ENTITÄT: ort
+BEZEICHNUNG: Kupferdreh
+FACETTE: LAGE | GESCHICHTE | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  lage: Stadtteil im südösten von Essen
+  an_ruhr: true
+  am_baldeneysee: true
+  topographie: Niederbergisch-Märkisches Hügelland
+  grenzen_norden: Byfang
+  grenzen_nordosten: Hattingen-Niederbonsfeld
+  grenzen_sued: Velbert-Langenberg
+  grenzen_suedwesten: Velbert-Mitte, Heidhausen
+  grenzen_westen: Fischlaken, Heisingen
+  ist_stadtteil_essen: true
+  anbindung_bundesstraße: 227
+  anbindung_bundesautobahn: 44
+GUELTIG_AB: 1929
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 418-kupferdreh/002
+ENTITÄT: ort
+BEZEICHNUNG: Kupferdreh
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: Kupfer bezieht sich auf Kupferhütte/Kupferhammer als Landmarke; Dreh bezeichnet eine gefährliche 180-Grad-Biegung der Ruhr
+  gehört_zu_essen_seit: 1929-08-01
+  erstmalige_offizielle_namensnennung: 1855
+GUELTIG_AB: 1855
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/003
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Kupferdreh
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entwerfer: Kurt Schweder
+  zeitraum_entwurf: Ende 1980er Jahre
+  beschreibung: Wassermühlenrad (Referenz zu Kupferhammer), alchemistisches Kupferzeichen, Wellensparren (Ruhr-Drehe)
+  art: redend (sprechend)
+  offizieller_charakter: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/004
+ENTITÄT: museum
+BEZEICHNUNG: Mineralienmuseum Kupferdreh
+FACETTE: KULTUR UND FREIZEIT
+ORTSTEIL_BEZUG: Dilldorf
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Außenstelle Ruhr Museum
+  gründung: 1984
+  standort: ehemalige Hinsbeckschule, Kupferdreher Straße
+  gebaeude_material: Ruhrsandstein
+  gebaeude_status: Denkmalschutz
+GUELTIG_AB: 1984
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/005
+ENTITÄT: museumslandschaft
+BEZEICHNUNG: Kulturlandschaft Deilbachtal
+FACETTE: KULTUR UND FREIZEIT | GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: vielfältige Eindrücke in die vorindustrielle Vergangenheit
+  bedeutung_fuer_ort: Museumslandschaft, beliebte Haltestelle für Radfahrer
+GUELTIG_AB: 1984
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 418-kupferdreh/006
+ENTITÄT: schwimmbad
+BEZEICHNUNG: Stadtbad Kupferdreh
+FACETTE: FREIZEIT | INFRA
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  traeger: Interessengemeinschaft Stadtbad Kupferdreh e.V.
+  ausstattung: Schwimmbecken, Sauna, Gymnastikraum, Solarium, Seminarraum
+  standort: Schwermannstraße 45
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/007
+ENTITÄT: radweg
+BEZEICHNUNG: RuhrtalRadweg
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  länge: 230 km
+  verlauf: entlang der Ruhr
+  bedeutung_fuer_ort: beliebter Radweg, viele Radfahrer halten in Kupferdreh
+  charakteristikum: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/008
+ENTITÄT: radweg
+BEZEICHNUNG: Kaiser-Route
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  länge: 370 km
+  verlauf: zwischen Kaiserpfalzen Aachen und Paderborn
+  beschreibung: Radweg, der die historische Verbindung der Kaiserpfalzen nachzeichnet
+  quert_kupferdreh: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/009
+ENTITÄT: eisenbahn
+BEZEICHNUNG: Prinz-Wilhelm-Eisenbahn (Deilthaler Eisenbahn)
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  erbauer: Friedrich Harkort
+  erstes_jahr: 1831
+  länge: 7.3 km
+  antrieb_anfang: Pferdeantrieb
+  umbau_zu_dampf: 1844
+  zweck: Kohletransport nach Nierenhof
+  streckenverlauf: von Unterbyfang durch Hinsbeck, Deilbachtal nach Nierenhof
+  verlängerung: bis Vohwinkel
+  superlativ: erste als Gesellschaft betriebene Eisenbahn Deutschlands
+  bedeutung_fuer_ort: erste Eisenbahn Deutschlands
+GUELTIG_AB: 1831
+GUELTIG_BIS: 1844
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/010
+ENTITÄT: eisenbahn
+BEZEICHNUNG: Hespertalbahn
+FACETTE: KULTUR UND FREIZEIT | GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betrieb_als_museumseisenbahn_seit: 1976
+  verkehrsstrecke: zwischen Alter Bahnhof Kupferdreh und Haus Scheppen am Baldeneysee
+  frequenz: an Wochenenden mehrmals täglich
+  verlauf: durch ehemaliges Zechengebiet
+  alternativname: Pörtingsiepenbahn
+  charakteristikum: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/011
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Essen-Kupferdreh
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  eröffnung: 1898
+  neugestaltung: April 2012
+  bauweise: aufgeständerter Haltepunkt
+  sbahn_linie: S9
+  regional_express: RE 49
+  bedeutung_historisch: vorderer Bahnsteig für Ruhrtalbahn
+GUELTIG_AB: 1898
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/012
+ENTITÄT: brücke
+BEZEICHNUNG: Eisenbahnbrücke über die Ruhr
+FACETTE: INFRA | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  erbauer: 1872
+  originalform: runde Bögen
+  umbau: 1929 während Baldeneysee-Bau
+  wwii_schicksal: gesprengt im Zweiten Weltkrieg
+  wiederaufbau: eingleisig als Bahnbrücke
+  heutiger_zweck: Fußgängerbrücke (Gleise entfernt)
+  verbundene_eisenbahn: Bergisch-Märkische Eisenbahn, Ruhrtalbahn
+GUELTIG_AB: 1872
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/013
+ENTITÄT: brücke
+BEZEICHNUNG: Kampmannbrücke
+FACETTE: INFRA | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  verbindung: Kupferdreh mit Heisingen
+  erste_version: 1895
+  erste_version_bauweise: Pontonbrücke
+  zweite_version: 1950-1951
+  zweite_version_bauweise: Betonbalkenbrücke
+  dritte_version: 2019
+  dritte_version_bauweise: Schrägseilbrücke
+  dritte_version_grund: Baufälligkeit der Vorgängerin
+GUELTIG_AB: 1895
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/014
+ENTITÄT: wanderweg
+BEZEICHNUNG: Rundwanderweg Deilbachsteig
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  eröffnung: Juni 2023
+  verlauf: durch Kupferdreher Zentrum und Museumslandschaft Deilbachtal
+  charakteristikum: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/015
+ENTITÄT: gewässer
+BEZEICHNUNG: Baldeneysee
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  bau: 1929
+  überflutet: Kupperdrehe (Ruhr-Biegung), alter Hafen
+  freizeit_aktivitäten: Wandern, Inliner fahren, Paddeln, Segeln
+  bedeutung_fuer_ort: Naherholungsgebiet
+GUELTIG_AB: 1929
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/016
+ENTITÄT: personenschifffahrt
+BEZEICHNUNG: Weiße Flotte Baldeney
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angebot: Personenschifffahrten über Ruhr, Baldeneysee, Rhein-Herne-Kanal
+  haltestelle: Prinz-Friedrich-Straße 1
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 418-kupferdreh/017
+ENTITÄT: kirche
+BEZEICHNUNG: St. Mariä Geburt
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Dilldorf
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  erbauersjahr: 1878
+  material: Ruhrsandstein
+  denkmalschutz: true
+  konfession: katholisch
+  rektor: Wilhelm Oslender (1872-1905)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/018
+ENTITÄT: kirche
+BEZEICHNUNG: Christuskirche
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  erbauersjahr: 1877-1878
+  architekt: Wilhelm Bovensiepen
+  konfession: evangelisch
+  denkmalschutz: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/019
+ENTITÄT: kirche
+BEZEICHNUNG: St. Josef
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  weihe: 1904
+  konfession: katholisch
+  profanierung: 23. November 2013
+  abriss: Dezember 2015
+  pfarrer_erstem: Friedrich Schwermann (1900-1930)
+GUELTIG_AB: 1904
+GUELTIG_BIS: 2015
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/020
+ENTITÄT: krankenhaus
+BEZEICHNUNG: St. Josef-Krankenhaus
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  traeger: Katholische Kliniken Ruhrhalbinsel gGmbH
+  gründung_ursprung: 14. Mai 1895 (Waldbreitbacher Franziskanerinnen)
+  grundstückserwerb: 1900 durch Katholischen Krankenhausbauverein auf Feldmannshof-Gelände
+  betten: 443
+  intensivstation: true
+  altenkrankenheim_betten: 126
+  bedeutung_fuer_ort: Gesundheitsversorgung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/021
+ENTITÄT: park
+BEZEICHNUNG: Benderpark
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  ursprung: Gelände der Villa Bender (Chemiker August Bender, Mitinhaber Zementfabrik)
+  vermächtnis: Familie Bender vermachte Gelände der Gemeinde zur Parkanlage
+  grenzen: Kupferdreher Straße, St.-Josef-Krankenhaus, Byfanger Straße, Josef-Schule (nahebei)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/022
+ENTITÄT: simulationszentrum
+BEZEICHNUNG: Kraftwerkssimulationszentrum
+FACETTE: ALLTAG | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  superlativ: weltgrößtes Kraftwerkssimulationszentrum
+  gründung: 1987
+  betreiber: VGB PowerTech / Kraftwerks-Simulator-Gesellschaft KSG
+  standort_gelände: ehemalige Bergische Elektrizitätsversorgung (stillgelegt 1977)
+  zweck: Training Betriebspersonal für Kernkraftwerkstörfälle
+  bedeutung_fuer_ort: großer Arbeitgeber, technisches Zentrum von internationaler Bedeutung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/023
+ENTITÄT: bauerschaft
+BEZEICHNUNG: Hinsbeck
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  herkunft: fränkisch, Honnschaft (Hundertschaft)
+  zugehörigkeit_mittelalter: Reichsabtei Werden
+  ersterwähnung: 1150 im Heberegister der Äbte von Werden
+  eingemeindung: 1875 (zusammen mit Rodberg zur Gemeinde Kupferdreh)
+GUELTIG_AB: 1150
+GUELTIG_BIS: 1875
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/024
+ENTITÄT: bauerschaft
+BEZEICHNUNG: Rodberg
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  herkunft: fränkisch, Honnschaft (Hundertschaft)
+  zugehörigkeit_mittelalter: Reichsabtei Werden
+  ersterwähnung: 1150 im Heberegister der Äbte von Werden
+  eingemeindung: 1875 (zusammen mit Hinsbeck zur Gemeinde Kupferdreh)
+GUELTIG_AB: 1150
+GUELTIG_BIS: 1875
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/025
+ENTITÄT: bauerschaft
+BEZEICHNUNG: Dilldorf
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  herkunft: sächsisch, Bruktereren
+  herrschaft_mittelalter: Hardenberg in Neviges
+  eingemeindung: 1. April 1899 (zur Gemeinde Kupferdreh)
+  zugehörigkeit_heute: Stadtteil Kupferdreh
+GUELTIG_AB: 1150
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/026
+ENTITÄT: wohnsiedlung
+BEZEICHNUNG: Dilldorfer Höhe
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  erbauung: 2004
+  vorgänger: Ruhrlandkaserne
+  fläche: ca. 17000 Quadratmeter
+  ankauf: 1995 durch Allbau-AG für ca. 13,6 Millionen D-Mark
+  geplante_wohneinheiten: ca. 1000
+  geplante_bewohner: ca. 2500
+  zielgruppe: junge Menschen und Familien
+  trennung_vom_stadtteil: Bundesstraße 227 (seit Bauzeit), seit 2010 Teil der Bundesautobahn 44
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/027
+ENTITÄT: wohnsiedlung
+BEZEICHNUNG: Seebogen
+FACETTE: ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_statistik.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zielgruppe: junge Menschen und Familien
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 418-kupferdreh/028
+ENTITÄT: gemeinde
+BEZEICHNUNG: Gemeinde Kupferdreh
+FACETTE: GESCHICHTE | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 15. Januar 1875
+  zusammensetzung_gründung: Honnschaften Hinsbeck und Rodberg
+  bürgermeisterei: 15. Oktober 1896
+  erweiterung_1899: Bauerschaft Dilldorf, Teile von Voßnacken
+  zusammenschluss: 1. April 1922 (Gemeinden Byfang und Kupferdreh)
+  eingemeindung_essen: 1. August 1929
+GUELTIG_AB: 1875
+GUELTIG_BIS: 1929
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 418-kupferdreh/029
+ENTITÄT: buergemeister
+BEZEICHNUNG: Jacob Hubert Arntz
+FACETTE: POLITIK | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  amt: 1. Bürgermeister von Kupferdreh
+  amtsantritt: 13. August 1896
+  amtsende: 1901
+  rathaus: Kupferdreher Straße 251
+GUELTIG_AB: 1896
+GUELTIG_BIS: 1901
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/030
+ENTITÄT: buergemeister
+BEZEICHNUNG: Johann Wilhelm Krake
+FACETTE: POLITIK | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  amt: 2. Bürgermeister von Kupferdreh
+  amtsantritt: 12. Juli 1902
+  amtsende: 1910
+GUELTIG_AB: 1902
+GUELTIG_BIS: 1910
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/031
+ENTITÄT: buergemeister
+BEZEICHNUNG: Hermann Gerhard Pieper
+FACETTE: POLITIK | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  amt: 3. Bürgermeister von Kupferdreh
+  amtsantritt: Dezember 1920
+  amtsende: 1. August 1929
+  vorbeschäftigung: Essener Oberstadtsekretär
+GUELTIG_AB: 1920
+GUELTIG_BIS: 1929
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/032
+ENTITÄT: industrie
+BEZEICHNUNG: Kupferhütte Deiler Koperhut
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1550
+  standort: Kupferdreher Gebiet
+  produkt: Kupfer
+  bedeutung_fuer_region: Vorreiter der Industrialisierung im Ruhrgebiet
+GUELTIG_AB: 1550
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/033
+ENTITÄT: industrie
+BEZEICHNUNG: Deilbachhammer
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  gründung: ca. 1660
+  art: Eisenhammer
+  benannt_nach: Fluss Deilbach (mündet hier in Ruhr)
+  standort: Grenze zum Stadtteil Essen-Byfang
+  hafen: Hafen in der Deilbachmündung (17. Jahrhundert)
+  bedeutung_fuer_region: Vorreiter der Industrialisierung im Ruhrgebiet
+GUELTIG_AB: 1660
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/034
+ENTITÄT: industrie
+BEZEICHNUNG: Eisenhütte Phoenix
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1852
+  begünstigung: Eisenbahnanschluss
+  aufgelöst: 1914
+  nebenprodukt: Schlacke (Rohstoff für Portlandzement)
+GUELTIG_AB: 1852
+GUELTIG_BIS: 1914
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/035
+ENTITÄT: industrie
+BEZEICHNUNG: Zementfabrik
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  entstehung: Ende 19. Jahrhundert
+  rohstoff: Schlacke (aus Eisenhütte Phoenix) + Kalk (aus Velbert)
+  produkt: Portlandzement
+GUELTIG_AB: 1890
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 418-kupferdreh/036
+ENTITÄT: industrie
+BEZEICHNUNG: Kupferdreher Steinwerke
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1897
+  zweck: Verarbeitung von Zementfabrik-Produkten vor Ort
+GUELTIG_AB: 1897
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 418-kupferdreh/037
+ENTITÄT: bahnbau
+BEZEICHNUNG: Bahnbetriebswerk und Eisenbahnbrücke
+FACETTE: GESCHICHTE | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  erbauung: 1872
+  bedeutung_fuer_ort: Beginn eines der größten Eisenbahnknotenpunkte des Ruhrgebietes
+GUELTIG_AB: 1872
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/038
+ENTITÄT: kaserne
+BEZEICHNUNG: Ruhrlandkaserne
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Hinsbeck
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  standort: Hochplateau in der Gemarkung Hinsbeck
+  garnisonsstatus: 1937-1994
+  zeugnis: Steinkiste (ca. 4000 Jahre alt, 1937 freigelegt)
+  nachnutzung: 1995 Allbau-AG kauft Gelände zurück, 2004 Dilldorfer Höhe erbaut
+GUELTIG_AB: 1937
+GUELTIG_BIS: 1994
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/039
+ENTITÄT: militäranlage
+BEZEICHNUNG: Kruppsche Nachtscheinanlage
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: Luftwaffe
+  standorte: Rottberg und Ludscheid
+  zweck: Täuschung der alliierten Bomber
+  folge: zog zahlreiche Bombenangriffe auf die ländliche Umgebung nach sich
+GUELTIG_AB: 1941
+GUELTIG_BIS: 1945
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 418-kupferdreh/040
+ENTITÄT: fest
+BEZEICHNUNG: Karnevalszug Kupferdreh
+FACETTE: KULTUR UND FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  zeitpunkt: jährlich am Rosenmontag
+  route: Kupferdreher Straße
+  veranstalter: Festausschuss Kupferdreher Karneval
+  jubel: 2025 150-jähriges Bestehen
+  charakteristikum: ja
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/041
+ENTITÄT: musikgruppe
+BEZEICHNUNG: 257ers
+FACETTE: KULTUR UND FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  genre: Hip-Hop
+  herkunft: Kupferdreh
+  gründung: 2006
+  art: Rapcrew
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/042
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Bovensiepen
+FACETTE: KULTUR UND GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Baumeister, Architekt
+  geburt: 25. Januar 1829
+  werke: Christuskirche Kupferdreh (1879), Villa Waldrich Siegen (1879), Villa Lohmann Witten (1873), Werdener Rathaus (1879-1880)
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/043
+ENTITÄT: person
+BEZEICHNUNG: August Bender
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Chemiker, Unternehmer
+  lebensjahre: 1847-1926
+  betätigung: Mitbegründer Zementfabrik Narjes & Bender
+  vermächtnis: Benderpark
+  straße_benannt_nach: Benderstraße (1935)
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/044
+ENTITÄT: person
+BEZEICHNUNG: Theodor Narjes
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Chemiker, Unternehmer
+  lebensjahre: 1847-1905
+  betätigung: Mitbegründer Zementfabrik Narjes & Bender
+  straße_benannt_nach: Narjesstraße (1935)
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/045
+ENTITÄT: person
+BEZEICHNUNG: Friedrich Harkort
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Eisenbahn-Erbauer
+  werk: Prinz-Wilhelm-Eisenbahn / Deilthaler Eisenbahn (1831, 7,3 km)
+  namensgebung: verwendete Namen "An der Kupperdrehe" für Bahnstation 1831 und 1844
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/046
+ENTITÄT: person
+BEZEICHNUNG: Heinrich Hempel
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1885-1973
+  fachgebiete: Germanist, Mediävist, Skandinavist
+  beruf: Hochschullehrer
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 418-kupferdreh/047
+ENTITÄT: person
+BEZEICHNUNG: Johanna Langefeld
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1900-1974
+  funktion: Oberaufseherin
+  dienststellen: Konzentrationslager Ravensbrück, Auschwitz
+  regime: NS-Regime
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 418-kupferdreh/048
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Trinkwasseranlage Kupferdreher Markt
+FACETTE: INFRA
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Kupferdreher Markt
+  funktion: öffentliche Trinkwasserversorgung
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 418-kupferdreh/049
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Notfall-Infopunkt Kupferdreh
+FACETTE: INFRA
+QUELLE: https://www.essen.de/dasistessen/stadtteile/kupferdreh_2/kupferdreh_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Kupferdreher Straße 82-86 (Feuerwehr Essen)
+  funktion: Informationsaustausch und Notfallmeldungsaufnahme in Krisensituationen
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 418-kupferdreh/050
+ENTITÄT: schule
+BEZEICHNUNG: Josefschule
+FACETTE: ALLTAG | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  art: Grundschule
+  träger: städtisch-katholisch
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 418-kupferdreh/051
+ENTITÄT: schule
+BEZEICHNUNG: Hinsbeckschule
+FACETTE: ALLTAG | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  art: Grundschule
+  träger: städtisch
+  anmerkung: seit 2024 mit Abzweig Oslenderstraße
+  nutzung_ehemalig: Mineralien-Museum Kupferdreh (seit 1984)
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/052
+ENTITÄT: hochschule
+BEZEICHNUNG: Hochschule der bildenden Künste Essen
+FACETTE: BILDUNG
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 2013
+  standort: Kupferdreh
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 418-kupferdreh/053
+ENTITÄT: population
+BEZEICHNUNG: Bevölkerung Kupferdreh
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Kupferdreh | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_31_märz_2025: 11428
+  anteil_unter_18_jahren: 16.8 %
+  anteil_über_65_jahren: 23.2 %
+  ausländeranteil: 9.1 %
+GUELTIG_AB: 2025-03-31
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+

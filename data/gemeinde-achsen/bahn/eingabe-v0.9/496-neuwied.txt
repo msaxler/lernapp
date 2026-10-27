@@ -1,0 +1,877 @@
+ZIELORT: Neuwied (Stadt)
+LAGE: 12 km nordwestlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Neuwied
+
+GRUNDDATEN:
+  landkreis: Neuwied  [dewiki Infobox]
+  bundesland: Rheinland-Pfalz  [dewiki Infobox]
+  einwohner: 67.201  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 86,5  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 777  [berechnet aus Einwohner und Fläche]
+  kfz: NR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 60 | 67 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2863840)]
+  naechste_grossstadt: Koblenz, 12 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Mainz, 77 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Engers, Bahnhof Neuwied  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 56564–56567  [Wikidata P281]
+  vorwahl: 02622, 02631  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 27,1 %, AfD 23,5 %, SPD 20,5 %, GRÜNE 8,2 %, Die Linke 7,3 %, BSW 5,7 %; Wahlbeteiligung 77,4 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 83 % im Bundesland (Ort 77,4 %, Abstand 5,6 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+  buergermeister: Jan Einig (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-26]
+  partnerstaedte: Güstrow, Almería, London Borough of Bromley, Drom HaScharon, Beverwĳk  [Wikidata P190]
+
+ZEUGEN (OpenStreetMap, Gemeindegrenze; belegt nur, dass es die Sache gibt):
+  Bahnhof: Engers
+  Bahnhof: Neuwied
+  Aussicht: Almblick
+  Aussicht: Schauinsland
+  Aussicht: Hollenbusch
+  Sportstätte: Neuwieder Kanu-Club 1920 e.V.
+  Sportstätte: Raiffeisen Stadion (multi)
+  Sportstätte: Sportplatz Rodenbach (multi)
+  Sportstätte: Sporthalle Rodenbach (multi)
+  Sportstätte: Sporthalle Engers (multi)
+  Sportstätte: Familienfreibad Oberbieber (swimming)
+  Burg/Denkmal: Rockenfeld
+  Burg/Denkmal: Limesturm XVIII
+  Burg/Denkmal: Henriette Rath
+  Burg/Denkmal: Johanna Helga Rath
+  Burg/Denkmal: Lydia Rath
+  Burg/Denkmal: Neuwieder Marktfrau
+  Burg/Denkmal: Näiwidder Schärjer
+  Burg/Denkmal: Memorial Maximilian zu Wied
+  Betrieb: Calderys Deutschland GmbH & Co. OHG
+  Betrieb: Görres-Druckerei und Verlag GmbH
+  Betrieb: Thomas Beton Werk Neuwied
+  Betrieb: Coveris
+  Betrieb: Raiffeisendruckerei
+  Betrieb: Lotz GmbH
+  Betrieb: ASAŞ Alüminyum Sanayi ve Ticaret A.Ş
+  Betrieb: Becker & Co. GmbH - Spedition
+  Natur: Lotzebach
+  Natur: Bohr
+  Natur: Marienborn
+  Natur: Reichelbachquelle
+  Natur: Petersbachquelle
+  Natur: Quelle Dabach
+  Freizeit: Limesturm 1/36
+  Freizeit: Motor Yacht Club Neuwied
+  Freizeit: Bootssteg ASV Neuwied
+  Freizeit: SKFM
+  Freizeit: Piratenland Neuwied
+  Freizeit: Schloss Neuwied (seit 1706)
+  Freizeit: Eissporthalle "IceHouse" (ice skating)
+  Freizeit: Rhein-Wied-Stadion (multi)
+  Kultur: Schauburg
+  Kultur: Metropol
+  Kultur: Schloßtheater Neuwied (seit 1799)
+  Schutzgebiet: Biotop
+  Schutzgebiet: Wasserschutzgebiet I Engerser Feld
+  Schutzgebiet: Meerheck
+  Schutzgebiet: Auf der Hardt
+  Schutzgebiet: Urmitzer Werth
+  Schutzgebiet: Naturpark Rhein-Westerwald
+  Gipfel: Köppel (182 m)
+  Gipfel: Forstberg
+  Gipfel: Kuckucksberg
+  Gipfel: Wingertsberg (181 m)
+  Gipfel: Oberer Köppel (233 m)
+  Gipfel: Firmbachsberg (345 m)
+  Gipfel: Lückenberg (313 m)
+  Gipfel: Harmorgenberg (296 m)
+  Museum: Deutsches Flippermuseum
+  Museum: Stadt Galerie
+  Museum: Roentgen-Museum
+  Museum: MONREPOS | Archäologisches Forschungszentrum & Museum
+  Brauerei/Winzer: Gönnersdorfer Edelobstbrennerei Inge Wasl
+  Bildung: Kreisvolkshochschule Neuwied e.V.
+  Bildung: Landesmusikakademie Rheinland-Pfalz
+  Bildung: Marienhaus Rheinisches Bildungszentrum
+  Bildung: Staatliches Studienseminar Rheinland-Pfalz
+  Gewässer: Wied
+  Gewässer: Rhein
+  Bad: Deichwelle Allwetterbad (swimming)
+  Klinik: Johanniter-Zentrum für Kinder- und Jugendpsychiatrie
+  Klinik: Marienhaus Klinikum St. Elisabeth Neuwied
+  Klinik: Marienhaus Klinikum St. Matthias Neuwied
+  Wanderweg: Wiedweg (106 km)
+  Wanderweg: Deichstadtweg (17.3 km)
+  Wanderweg: Rheinsteig-Rundtour Fürstenweg (11 km)
+  Wanderweg: Waldlehrpfad Heimbacher Wald (4.5 km)
+  Wanderweg: Historischer Römer- und Keltenweg (13.5 km)
+  Radweg: Wiedradweg
+
+PLAN:
+  Karte 1: FACETTE ALLTAG (Ersatz: FREIZEIT), Geschichte, D, wahre Option an Stelle 1
+  Karte 2: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 2
+  Karte 3: FACETTE FREIZEIT (Ersatz: ALLTAG), Geschichte, D, wahre Option an Stelle 3
+  Karte 4: FACETTE INFRA (Ersatz: LAGE), Geschichte, A, wahre Option an Stelle 4
+  Karte 5: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, A, wahre Option an Stelle 1
+  Karte 6: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, B, Lüge an Stelle 3
+  Karte 7: FACETTE POLITIK, Klassiker, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent – AUFFÄLLIG: 77,4 % gegen 83 % im Bundesland; als Vergleich fragen, Spannen um den Landeswert legen; C, wahre Spanne an Stelle 3
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je ein weiteres Charakteristikum, Facette frei, Familie A, B oder D, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Heisingen (Ortsteil von Essen)
+  landkreis: Stadtkreis Essen — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P131]
+  flaeche_km2: 6,83  [Wikidata P2046]
+  kfz: E (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P395]
+  hoehe_m: 89 | 91  [Wikidata P2044; Altbestand geo.sqlite (GeoNames 2907135)]
+  naechste_grossstadt: Essen, 7 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,5 %, SPD 22,2 %, AfD 17 %, GRÜNE 12,4 %, Die Linke 9,5 %; Wahlbeteiligung 80,1 % — GILT FÜR DIE GEMEINDE ESSEN  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 82,2 % im Bundesland (Ort 80,1 %, Abstand 2,1 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+FAHRT: Wiehre, Waldsee, Altstadt, Stühlinger, Neuburg, Herdern, Zähringen, Brühl, Oberau, Haslach, Sankt Georgen, Vauban, Weingarten, Betzenhausen, Mooswald, Landwasser, Lehen, Rieselfeld, Dietenbach, Opfingen, Tiengen, Munzingen, Waltershofen, Ebnet, Littenweiler, Kappel, Merzhausen, Au, Horben, Günterstal, Ebringen, Schallstadt, Bad Krozingen, Staufen, Heitersheim, Müllheim, Waldkirch, Hochdorf, Gundelfingen, Denzlingen, Glottertal, March, Umkirch, Gottenheim, Merdingen, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Vogtsburg, Oberrotweil, Achkarren, Burkheim, Bischoffingen, Bickensohl, Oberbergen, Schelingen, Sasbach, Leiselheim, Wyhl, Forchheim, Breisach, Gündlingen, Niederrimsingen, Oberrimsingen, Kirchzarten, Stegen, St. Peter, St. Märgen, Oberried, Buchenbach, Höllental, Hinterzarten, Breitnau, Titisee, Titisee-Neustadt, Feldberg, Schluchsee, Lenzkirch, Eisenbach, Friedenweiler, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Neuwied, Altwied, Rengsdorf, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Bonefeld, Straßenhaus, Oberhonnefeld-Gierend, Willroth, Horhausen, Hümmerich, Krunkel, Breitscheid, Kloster Marienhaus, Wolfenacker, Kupferdreh, Überruhr, Bergerhausen, Rellinghausen, Stadtwald, Fischlaken, Werden, Burgaltendorf, Steele, Byfang, Rüttenscheid, Bredeney, Huttrop, Kettwig, Schuir, Heidhausen, Haarzopf, Margarethenhöhe, Südostviertel, Freisenbruch
+
+FAKTEN (Zielort Neuwied):
+ID: 496-neuwied/001
+ENTITÄT: ort
+BEZEICHNUNG: Neuwied
+FACETTE: LAGE | GESCHICHTE | ALLTAG | INFRA | POLITIK
+QUELLE: https://www.neuwied.de/wirtschaft/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründungsdatum: 1653
+  gründer: Graf Friedrich III. zu Wied
+  gründungsdatum_privileg: 4. Juni 1662
+  ist_kreisstadt: true
+  ist_mittelzentrum: true
+  einwohnerzahl: 67959 [Stand 6.7.2026]
+  einwohnerzahl_historisch: 65137 [Stand 31.12.2021]
+  fläche: 86.50 km²
+  industrie_gewerbefläche: 5.36 km²
+  lage_geografisch: Südrand Landkreis Neuwied, rechtes Rheinufer, etwa 10 km nordwestlich Koblenz
+  koordinaten: 50°27' nördliche Breite, 7°30' östliche Länge
+  liegt_zwischen: Köln/Bonn und Frankfurt/Wiesbaden/Mainz
+  liegt_zwischen_entfernung: 50 km zu Bonn
+  tourismusregion: Rheintal
+  spitzname: Deichstadt
+  ist_stadt_schulen: true
+  bedeutung_fuer_ort: früher Industriestandort, heute Mittelzentrum mit Branchenmix
+GUELTIG_AB: 1653
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 496-neuwied/002
+ENTITÄT: bauwerk
+BEZEICHNUNG: Deich
+FACETTE: INFRA | GESCHICHTE | LAGE
+QUELLE: https://www.neuwied.de/stadtleben/standort/geschichtliches/der-deich | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  länge: 7.5 km
+  bauzeit: 1928-1931
+  erbauer_initiative: Bürgermeister Robert Krups
+  schutzfunktion_seit: 1931
+  material: teilweise Erdwall, teilweise Quadermauer
+  mauerlänge: 500 m
+  mauerhöhe: 5 m breit
+  tore_anzahl: 9
+  pumpwerke_anzahl: 3
+  schutzfunktion_wasserhöhe: 9 m über Normalwasserstand
+  kosten_bau: 8 Millionen Reichsmark
+  kosten_bau_heute: ca. 37 Millionen Euro
+  arbeiter_anzahl: 2450
+  baufirmen_anzahl: 25 Bau- und 90 Lieferfirmen
+  nutzen_geschätzt: 750 Millionen Euro DM Schadensersparnis
+  denkmal_bürgermeister: Bronzestatue Robert Krups auf Deichpromenade
+  bedeutung_fuer_ort: Wahrzeichen, ermöglichte Stadtentwicklung, schützt vor Hochwasser
+  beschreibung: Schutzanlage gegen Hochwasser des Rheins und ehemaliger Nebenarm
+  anlass_bau: drei Hochwasser 1920, 1924, 1925/1926
+GUELTIG_AB: 1931
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 496-neuwied/003
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Neuwied
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://www.neuwied.de/stadtleben/standort/geschichtliches/der-deich | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr_beginn: 1706
+  stil: Residenzschloss
+  funktion_ursprünglich: Regierungssitz Fürstentum Wied bis 1804
+  funktion_heute: Ausflugsziel, teilweise Kulturnutzung
+GUELTIG_AB: 1706
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 496-neuwied/004
+ENTITÄT: museum
+BEZEICHNUNG: MONREPOS
+FACETTE: FREIZEIT | GESCHICHTE
+QUELLE: https://www.neuwied.de/stadtleben/standort/geschichtliches/schriftenreihe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vollname: Archäologisches Forschungszentrum & Museum für menschliche Verhaltensevolution
+  location: Monrepos, Stadtteil Segendorf
+  gebäude: Palais Waldheim, auch Prinzessinnenhaus genannt
+  ursprung: Sommersitz Grafen und Fürsten zu Wied
+  fokus: Frühgeschichte, steinzeitliche Besiedlung
+  fokus_ausgrabungen: Gönnersdorf, altsteinzeitlicher Siedlungsplatz um 12.000 v. Chr.
+  ausstellungen: Funde aus Eiszeitjäger-Siedlung
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 496-neuwied/005
+ENTITÄT: unternehmen
+BEZEICHNUNG: Rasselstein
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://www.neuwied.de/wirtschaft/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  branche: Metallverarbeitung, Eisen- und Stahlwerk
+  gründung: 1738 [aus Wikipedia]
+  bedeutung_für_ort: spielte zentrale Rolle im Wirtschaftsleben
+  leistung_1834: Herstellung Schienen für erste Eisenbahnstrecke Deutschland (Nürnberg-Fürth)
+  bedeutung_historisch: Teil des industriellen Aufschwungs Deutschland 19. Jahrhundert
+GUELTIG_AB: 1738
+GUELTIG_BIS: andauernd
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 496-neuwied/006
+ENTITÄT: industrie
+BEZEICHNUNG: Bimsindustrie
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://www.neuwied.de/wirtschaft/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  blütezeit: erste Hälfte 20. Jahrhundert
+  rohstoff: Bims aus Neuwieder Becken
+  produkt: Mauerstein
+  entstehung: ab Mitte 19. Jahrhundert
+  beschreibung: blühte in der ersten Hälfte des 20. Jahrhunderts
+  bedeutung_fuer_ort: prägte Wirtschaft und Entwicklung Neuwieds
+GUELTIG_AB: 1850
+GUELTIG_BIS: 1950
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 496-neuwied/007
+ENTITÄT: gebäude
+BEZEICHNUNG: Schlosstheater Neuwied
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://www.neuwied.de/kultur-freizeit | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1799
+  frühere_nutzung: Privat- und Residenztheater
+  renovierung: 1977
+  funktion_heute: Sitz der Landesbühne Rheinland-Pfalz
+  kapazität: 300 Plätze
+  programm: Klassiker, moderne Stücke, Revuen, Jugendtheater
+  lage: Nebengebäude Neuwieder Schloss
+GUELTIG_AB: 1799
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 496-neuwied/008
+ENTITÄT: bad
+BEZEICHNUNG: Deichwelle
+FACETTE: FREIZEIT
+QUELLE: https://www.neuwied.de/tourismus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Allwetter-Freizeitbad
+  eröffnung: März 2008
+  lage: Kernstadt
+  bedeutung_fuer_ort: Freizeiteinrichtung
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 496-neuwied/009
+ENTITÄT: brücke
+BEZEICHNUNG: Raiffeisenbrücke
+FACETTE: INFRA | LAGE
+QUELLE: https://www.neuwied.de/stadtleben/standort/geschichtliches/der-deich | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 28. September 1978
+  bauzeit: 4 Jahre
+  struktur: Schrägseilbrücke
+  verkehr: ca. 35.000 Fahrzeuge täglich
+  verbindung: Neuwied mit linkem Rheinufer bei Weißenthurm
+  vorgänger: Brücke 1935 fertiggestellt, ersetzt durch Raiffeisenbrücke
+  bedeutung_für_ort: Wahrzeichen
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 496-neuwied/010
+ENTITÄT: stadtteil
+BEZEICHNUNG: Heddesdorf
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://www.neuwied.de/stadtleben/standort/geschichtliches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_historisch: eigenständige Gemeinde bis 1904
+  eingemeindung: 1. April 1904
+  einwohnerzahl: 12287 [Stand 6.7.2026]
+  bedeutung: Innenstadt zählt heute zu Neuwied
+GUELTIG_AB: 1904
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 496-neuwied/011
+ENTITÄT: kirche
+BEZEICHNUNG: Neuwieder Synagoge
+FACETTE: GESCHICHTE | KULTUR
+QUELLE: https://www.neuwied.de/stadtleben/standort/geschichtliches/geschichte-der-juedischen-gemeinde-neuwied | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1748
+  einweihung: 13. August 1748
+  rabbiner: Lazarus Salomon
+  bedeutung: Prototyp späterer Stadtsynagogen Rheinland
+  zerstörung: Novemberpogrome 1938
+  abriss: kurz nach 1938
+  erinnerung: Engerser Straße zwischen Schlossstraße und Theaterplatz 1983 in Synagogengasse umbenannt
+GUELTIG_AB: 1748
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 496-neuwied/012
+ENTITÄT: gemeinde
+BEZEICHNUNG: jüdische Gemeinde Neuwied
+FACETTE: GESCHICHTE | KULTUR
+QUELLE: https://www.neuwied.de/stadtleben/standort/geschichtliches/geschichte-der-juedischen-gemeinde-neuwied | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anfänge: Gründungszeit Neuwieds Mitte 17. Jahrhundert
+  ursache: Religionsfreiheit 1662
+  familienanzahl_1699: 10 jüdische Familien
+  synagogenbezirk_1864: Neuwied, Heddesdorf, Irlich
+  synagogenbezirk_1894: Fahr, Hüllenberg, Rodenbach, Rockenfeld hinzugekommen
+  anteil_1924: knapp 2% von ca. 19.000 Einwohnern
+  einrichtungen: Synagoge, Volksschule, rituelles Bad, Friedhof
+  größe_1933: ca. 300 Mitglieder
+  novemberpogrom_1938: schwere Ausschreitungen
+  opfer_novemberpogrom: Metzgermeister Ferdinand Levy, Synagogeneinrichtung zerstört
+  deportation: 1942 letzte verbliebene Bürger
+  überlebende: einige überlebten in Verstecken
+  erinnerung: Mahnmal mit Gedenktafel in Synagogengasse, 250 Stolpersteine
+GUELTIG_AB: 1650
+GUELTIG_BIS: 1942
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 496-neuwied/013
+ENTITÄT: ortsteil
+BEZEICHNUNG: Feldkirchen
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/feldkirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_historisch: Gemeinde aus 5 Ortsteilen 1966 gebildet
+  komponenten: Fahr, Gönnersdorf, Hüllenberg, Rockenfeld, Wollendorf
+  eingemeindung_neuwied: November 1970
+  einwohnerzahl: 5184 [Stand 6.7.2026]
+  geschichte: jeder Ortsteil hat eigene lange Tradition
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 496-neuwied/014
+ENTITÄT: kirche
+BEZEICHNUNG: Feldkirche
+FACETTE: LAGE | GESCHICHTE | KULTUR
+QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/feldkirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsteil_bezug: Feldkirchen
+  alter_epoche: romanische Pfeilerbasilika
+  bauzeit: 1150-1200
+  merkmale: Langchor, Seitenemporen
+  turm: viergeschossig mit Rautendach
+  gewölbe: später eingewölbt
+  chor_zerstörung: 1944 durch Bomben zerstört
+  chor_wiederaufbau: 1952
+  glasmalereien: symbolische Werke von Professor Georg Meistermann
+  bedeutung: eine der ältesten Kirchen im Stadtgebiet Neuwied
+  gericht: alte Gerichtsstätte vor der Kirche seit 1316
+  brauch: Märkergericht tritt jährlich September zusammen unter Gerichtslinde
+GUELTIG_AB: 1150
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 496-neuwied/015
+ENTITÄT: siedlung
+BEZEICHNUNG: Gönnersdorf
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/feldkirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsteil_bezug: Feldkirchen
+  frühe_besiedlung: Eiszeit
+  archäologie_1906: fränkisches Gräberfeld entdeckt
+  archäologie_1968: Siedlungsplatz eiszeitlicher Jäger um 12.000 v. Chr.
+  ausgrabungen: aufschlussreiche Erkenntnisse über Siedlung
+  funde: Knochen von Mammut, Wildpferd, Wisent, Ur, Ren, Hirsch, Eisfuchs, Werkzeuge, Schmuck, Schieferplättchen mit Zeichnungen
+  grabungsgebiet: ca. 650 Quadratmeter
+  bebauung: spätere Zeit verschmolzen mit Nachbargemeinden
+GUELTIG_AB: 12000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 496-neuwied/016
+ENTITÄT: museum
+BEZEICHNUNG: Deutsches Flippermuseum
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Neuwied | Wikipedia
+EIGENSCHAFTEN:
+  ausstattung: über 60 Flipperautomaten
+  zeitraum: seit den 1930er-Jahren
+GUELTIG_AB: 1930
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 496-neuwied/017
+ENTITÄT: museum
+BEZEICHNUNG: Roentgen-Museum
+FACETTE: FREIZEIT | KULTUR | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Neuwied | Wikipedia
+EIGENSCHAFTEN:
+  fokus: Arbeiten Abraham und David Roentgen
+  fokus: Wirken Friedrich Wilhelm Raiffeisens
+  ursprung: ehemaliges Kreismuseum
+  umbenennung: Juni 2007 in Roentgen-Museum
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 496-neuwied/018
+ENTITÄT: manufaktur
+BEZEICHNUNG: Roentgen-Manufaktur
+FACETTE: GESCHICHTE | KULTUR
+QUELLE: https://www.neuwied.de/stadtleben/standort/geschichtliches/schriftenreihe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  meister: Abraham und David Roentgen
+  produkt: Möbelkunst
+  lage: Pfarrstraße
+  merkmale: Formvollendete Ästhetik, technische Perfektion, raffinierte Mechanik
+  bekannt: Möbel an Fürstenhöfen ganz Europas
+  zeitraum: vor mehr als 200 Jahren
+  bedeutung_fuer_ort: weltberühmte Möbelkunst
+GUELTIG_AB: 1700
+GUELTIG_BIS: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 496-neuwied/019
+ENTITÄT: fest
+BEZEICHNUNG: Deichstadtfest
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://www.neuwied.de/deichstadtfest | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: November 1979
+  anlass_ursprünglich: Eröffnung Luisenplatz
+  frequenz: jährlich zweites Wochenende Juli
+  dauer: mehrtägig
+  programm: Musik verschiedenster Stilrichtungen, kulinarische Spezialitäten
+  künstler: ca. 100 Stunden aktiv
+  bedeutung: beliebter Treffpunkt seit Jahrzehnten
+GUELTIG_AB: 1979
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 496-neuwied/020
+ENTITÄT: markt
+BEZEICHNUNG: Wochenmarkt Neuwied
+FACETTE: ALLTAG | FREIZEIT
+QUELLE: https://www.neuwied.de/wochenmarkt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tag: Freitag
+  zeit: 7 bis 13 Uhr
+  lage: Herzen Neuwieder Innenstadt
+  produkte: frische und regionale Produkte
+  tradition: lange Tradition in Neuwied
+  gutscheine: Wochenmarktgutscheine à 5 Euro
+GUELTIG_AB: mehrere Jahrzehnte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 496-neuwied/021
+ENTITÄT: markt
+BEZEICHNUNG: Gartenmarkt Neuwied
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://www.neuwied.de/gartenmarkt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: Frühling
+  größe: 12000 Quadratmeter
+  bezeichnung: Kulturraum Garten
+  anbieter: Firmen und Gärtnereien aus In- und Ausland
+  produkte: Gartenzubehör und Pflanzen
+  besonderheit: verwandelt Innenstadt in florales Meer
+GUELTIG_AB: jährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 496-neuwied/022
+ENTITÄT: markt
+BEZEICHNUNG: Flohmarkt Neuwied
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://www.neuwied.de/flohmarkt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Luisenplatz
+  frequenz: 2x pro Jahr
+  aussteller: Flohmarkt-Beschicker
+  teilnahme: offen für Privatpersonen und Gewerbliche
+  gebühren: ab 5 Euro pro laufender Meter
+GUELTIG_AB: jährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 496-neuwied/023
+ENTITÄT: wanderweg
+BEZEICHNUNG: Wiedweg
+FACETTE: FREIZEIT | LAGE
+QUELLE: https://www.neuwied.de/tourismus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  länge: 106 km
+GUELTIG_AB: mehrere Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 496-neuwied/024
+ENTITÄT: wanderweg
+BEZEICHNUNG: Deichstadtweg
+FACETTE: FREIZEIT | LAGE
+QUELLE: https://www.neuwied.de/tourismus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  länge: 17.3 km
+GUELTIG_AB: mehrere Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 496-neuwied/025
+ENTITÄT: wanderweg
+BEZEICHNUNG: Rheinsteig-Rundtour Fürstenweg
+FACETTE: FREIZEIT | LAGE
+QUELLE: https://www.neuwied.de/tourismus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  länge: 11 km
+GUELTIG_AB: mehrere Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 496-neuwied/026
+ENTITÄT: wanderweg
+BEZEICHNUNG: Waldlehrpfad Heimbacher Wald
+FACETTE: FREIZEIT | LAGE
+QUELLE: https://www.neuwied.de/tourismus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  länge: 4.5 km
+GUELTIG_AB: mehrere Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 496-neuwied/027
+ENTITÄT: wanderweg
+BEZEICHNUNG: Historischer Römer- und Keltenweg
+FACETTE: FREIZEIT | LAGE | GESCHICHTE
+QUELLE: https://www.neuwied.de/tourismus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  länge: 13.5 km
+GUELTIG_AB: mehrere Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 496-neuwied/028
+ENTITÄT: zoo
+BEZEICHNUNG: Zoo Neuwied
+FACETTE: FREIZEIT
+QUELLE: https://www.neuwied.de/tourismus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsteil_bezug: Heimbach-Weis
+  fläche: ca. 13.5 Hektar
+  tiere_anzahl: ca. 1200
+  arten_anzahl: 155
+  bedeutung_fuer_ort: größter Zoo Rheinland-Pfalz
+GUELTIG_AB: mehrere Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 496-neuwied/029
+ENTITÄT: theater
+BEZEICHNUNG: Landesbühne Rheinland-Pfalz
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://www.neuwied.de/kultur-freizeit | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sitz: Schlosstheater Neuwied
+  gründung: 1977
+  kapazität: 300 Plätze
+  programm: Klassiker, moderne Stücke, Revuen, Jugendtheater
+  bedeutung_fuer_ort: bedeutendste Kultureinrichtung
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 496-neuwied/030
+ENTITÄT: brauchtum
+BEZEICHNUNG: Pfingstkirmes Heddesdorf
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://www.neuwied.de/kultur-freizeit/brauchtum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter: 150 Jahre Tradition
+  zeitraum: Pfingsten
+  tradition_reiter: Ritt Heddesdorfer Burschen seit 1669
+  ziel: Abtei Rommersdorf und Engers
+  bedeutung: Tributrecht
+  kontinuität: Tradition nie unterbrochen
+  bedeutung_fuer_ort: alljährliches Großereignis
+GUELTIG_AB: 1669
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 496-neuwied/031
+ENTITÄT: brauchtum
+BEZEICHNUNG: Karneval Neuwied
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://www.neuwied.de/kultur-freizeit/brauchtum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  description: traditioneller rheinischer Karneval
+  formen: Umzüge, Saalveranstaltungen
+  besonderheit: Veilchendienstagsumzug von Heimbach-Weis
+  umzugsgröße: einer der größten Umzüge zwischen Köln und Mainz
+GUELTIG_AB: Tradition
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 496-neuwied/032
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Marktkirche
+FACETTE: KULTUR | LAGE
+QUELLE: https://de.wikipedia.org/wiki/Neuwied | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1884
+  grund_neubau: Kirche Lutherische Gemeinde abgebrannt, alte Kirche Reformierte Gemeinde baufällig
+  architekt: August Hartel aus Krefeld
+  würdigung: 2017 Kirche des Jahres gewählt
+GUELTIG_AB: 1884
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 496-neuwied/033
+ENTITÄT: klinik
+BEZEICHNUNG: Marienhaus Klinikum St. Elisabeth Neuwied
+FACETTE: INFRA
+QUELLE: https://www.neuwied.de/tourismus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Krankenhaus
+  bedeutung_fuer_ort: medizinische Versorgung
+GUELTIG_AB: mehrere Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 496-neuwied/034
+ENTITÄT: klinik
+BEZEICHNUNG: Marienhaus Klinikum St. Matthias Neuwied
+FACETTE: INFRA
+QUELLE: https://www.neuwied.de/tourismus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Krankenhaus
+  früher_name: DRK-Krankenhaus
+  bedeutung_fuer_ort: medizinische Versorgung
+GUELTIG_AB: mehrere Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 496-neuwied/035
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Engers
+FACETTE: FREIZEIT | KULTUR | LAGE
+ORTSTEIL_BEZUG: Engers
+QUELLE: https://de.wikipedia.org/wiki/Neuwied | Wikipedia
+EIGENSCHAFTEN:
+  lage: unmittelbar am Rhein
+  stil: spätbarockes Jagd- und Lustschloss
+  bauzeitraum: 18. Jahrhundert
+  nutzung: Geschäftsstelle der Landesmusik-Stiftung (Villa Musica)
+  bedeutung_fuer_ort: architektonischer Glanzpunkt
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 496-neuwied/036
+ENTITÄT: person
+BEZEICHNUNG: Maximilian Prinz zu Wied-Neuwied
+FACETTE: GESCHICHTE
+QUELLE: https://www.neuwied.de/tourismus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitalter: 19. Jahrhundert
+  beruf: Forschungsreisender
+  bedeutung: einer der einflussreichsten Forschungsreisenden 19. Jahrhunderts
+  expeditionen: Amerika-Expeditionen, Bedeutung wie Alexander von Humboldt
+  erbe: Zoo Neuwied Südamerika-Halle benannt nach ihm
+  bezug_zu_ort: Nachfahre des Stadtgründers
+GUELTIG_AB: 1800
+GUELTIG_BIS: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 496-neuwied/037
+ENTITÄT: person
+BEZEICHNUNG: Friedrich Wilhelm Raiffeisen
+FACETTE: GESCHICHTE
+QUELLE: https://www.neuwied.de/tourismus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Bürgermeister Heddesdorf
+  bedeutung: Gründer des deutschen Genossenschaftswesens
+  zeit: 19. Jahrhundert
+  bezug_zu_ort: Heddesdorf vormals eigenständig, 1904 nach Neuwied eingemeindet
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 496-neuwied/038
+ENTITÄT: person
+BEZEICHNUNG: Robert Krups
+FACETTE: GESCHICHTE
+QUELLE: https://www.neuwied.de/stadtleben/standort/geschichtliches/der-deich | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Bürgermeister Neuwied
+  zeit: 1924-1936
+  initiative: Deichbau
+  denkmal: Bronzestatue auf Deichpromenade
+  bedeutung_fuer_ort: ermöglichte Hochwasserschutz durch Deich
+GUELTIG_AB: 1924
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 496-neuwied/039
+ENTITÄT: limes
+BEZEICHNUNG: Obergermanisch-Raetischer Limes
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Neuwied | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: durch heutiges Stadtgebiet
+  bezug: mehrere Wachttürme, Kastelle, Kleinkastelle
+  städte_berührt: Rodenbach, Niederbieber-Segendorf, Altwied, Oberbieber, Gladbach, Heimbach-Weis
+  bauwerke: zwei Kastelle, ein Kleinkastell, über 30 Wachttürme
+GUELTIG_AB: 1
+GUELTIG_BIS: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 496-neuwied/040
+ENTITÄT: kastell
+BEZEICHNUNG: Kastell Heddesdorf
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Heddesdorf
+QUELLE: https://de.wikipedia.org/wiki/Neuwied | Wikipedia
+EIGENSCHAFTEN:
+  zeit_römer: 1.-3. Jahrhundert
+  fläche: 2.8 ha
+  grundriss: nahezu rechteckig etwa 160 m × 180 m
+  graben: 8 m breit
+  zweck: Sicherung des Obergermanischen Limes
+  zustand: durch Überbauung weitgehend zerstört
+GUELTIG_AB: 1
+GUELTIG_BIS: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 496-neuwied/041
+ENTITÄT: kastell
+BEZEICHNUNG: Kastell Niederbieber
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Niederbieber
+QUELLE: https://de.wikipedia.org/wiki/Neuwied | Wikipedia
+EIGENSCHAFTEN:
+  zeit_römer: 1.-3. Jahrhundert
+  fläche: 5.2 ha
+  grundriss: rechteckig etwa 265 m × 198 m
+  graben: 6 m breit Spitzgraben
+  zweck: Sicherung des Obergermanischen Limes
+  sichtbare_reste: Grundmauern des Kastellbades und nördlicher Zugangstors
+  zustand: durch Wohnhäuser und Gärten überbaut
+GUELTIG_AB: 1
+GUELTIG_BIS: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 496-neuwied/042
+ENTITÄT: gewässer
+BEZEICHNUNG: Wied
+FACETTE: LAGE
+QUELLE: https://www.neuwied.de/tourismus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flussart: Fluss
+  ursprung: Westerwald
+  mündung: Rhein
+  namensgeber: Stadt Neuwied benannt nach Wied
+GUELTIG_AB: natürliches Gewässer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 496-neuwied/043
+ENTITÄT: gewässer
+BEZEICHNUNG: Rhein
+FACETTE: LAGE
+QUELLE: https://www.neuwied.de/tourismus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung: Deutschlands größter Strom
+  charakteristikum: bei Neuwied Breitenanstieg
+  verkehrsbedeutung: Wasserstraße
+  lage: fließt durch Neuwied
+GUELTIG_AB: natürliches Gewässer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 496-neuwied/044
+ENTITÄT: naturpark
+BEZEICHNUNG: Naturpark Rhein-Westerwald
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://www.neuwied.de/tourismus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: nördlich des Stadtgebiets
+  charakteristikum: Wälder, Westerwald
+GUELTIG_AB: mehrere Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 496-neuwied/045
+ENTITÄT: eissporthalle
+BEZEICHNUNG: IceHouse
+FACETTE: FREIZEIT
+QUELLE: https://www.neuwied.de/tourismus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Eishalle für Eishockeysport
+  betrieb: seit 1980
+  bedeutung_fuer_ort: Zentrum des Eishockeysports
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 496-neuwied/046
+ENTITÄT: stadion
+BEZEICHNUNG: Raiffeisen-Stadion
+FACETTE: FREIZEIT | SPORT
+QUELLE: https://de.wikipedia.org/wiki/Neuwied | Wikipedia
+EIGENSCHAFTEN:
+  kapazität: 8000 Steh- und 500 Sitzplätze
+  früher_name: benannt nach Ferdinand Hueppe bis 2005
+  nutzung: Fußball und andere Sportarten
+  ereignisse: 2006 DFB-Pokalspiel
+GUELTIG_AB: mehrere Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 496-neuwied/047
+ENTITÄT: schriftenreihe
+BEZEICHNUNG: Schriftenreihe zur Geschichte und Gegenwart der Stadt Neuwied
+FACETTE: KULTUR | GESCHICHTE
+QUELLE: https://www.neuwied.de/stadtleben/standort/geschichtliches/schriftenreihe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anlass: Jubiläum 350 Jahre Neuwied 2003
+  inhalt: aktuelle und historische Themen der Stadt
+  zielgruppe: heimatgeschichtlich Interessierte
+  herausgebung: Pressebüro der Stadtverwaltung Neuwied
+  mitinitiatoren: Peter Kehrein (bis Band 8), dann Oliver Johann mit Mone-Verlag
+  verfügbarkeit: Tourist-Information Marktstraße 59
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 496-neuwied/048
+ENTITÄT: brauerei
+BEZEICHNUNG: Gönnersdorfer Edelobstbrennerei
+FACETTE: ALLTAG | WIRTSCHAFT
+ORTSTEIL_BEZUG: Gönnersdorf
+QUELLE: https://www.neuwied.de/tourismus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  produkt: Edelobstbrand
+  bedeutung: handwerkliche Brennerei
+GUELTIG_AB: mehrere Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+

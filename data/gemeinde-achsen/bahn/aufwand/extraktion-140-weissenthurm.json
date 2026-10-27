@@ -1,21 +1,21 @@
 {
  "stufe": "extraktion",
  "ort": "140-weissenthurm",
- "prompt": "prompt-stufe1-v0.6.txt",
+ "prompt": "prompt-stufe1-v0.7.txt",
  "modell_wunsch": "haiku",
  "modelle": [
   "claude-haiku-4-5-20251001"
  ],
- "eingabe_zeichen": 24056,
- "token_ein": 78821,
- "token_aus": 32609,
+ "eingabe_zeichen": 30531,
+ "token_ein": 26104,
+ "token_aus": 13686,
  "usage": {
-  "input_tokens": 19,
-  "cache_creation_input_tokens": 48299,
-  "cache_read_input_tokens": 30503,
-  "output_tokens": 32609,
+  "input_tokens": 9,
+  "cache_creation_input_tokens": 18967,
+  "cache_read_input_tokens": 7128,
+  "output_tokens": 13686,
   "output_tokens_details": {
-   "thinking_tokens": 23273
+   "thinking_tokens": 3906
   },
   "server_tool_use": {
    "web_search_requests": 0,
@@ -23,19 +23,19 @@
   },
   "service_tier": "standard",
   "cache_creation": {
-   "ephemeral_1h_input_tokens": 48299,
+   "ephemeral_1h_input_tokens": 18967,
    "ephemeral_5m_input_tokens": 0
   },
   "inference_geo": "not_available",
   "iterations": [
    {
-    "input_tokens": 10,
-    "output_tokens": 609,
-    "cache_read_input_tokens": 23375,
-    "cache_creation_input_tokens": 32052,
+    "input_tokens": 9,
+    "output_tokens": 13686,
+    "cache_read_input_tokens": 7128,
+    "cache_creation_input_tokens": 18967,
     "cache_creation": {
      "ephemeral_5m_input_tokens": 0,
-     "ephemeral_1h_input_tokens": 32052
+     "ephemeral_1h_input_tokens": 18967
     },
     "type": "message"
    }
@@ -43,8 +43,8 @@
   "speed": "standard",
   "fallback_credit": null
  },
- "kosten_usd": 0.2627123,
- "sekunden": 271,
+ "kosten_usd": 0.10708580000000001,
+ "sekunden": 112,
  "fehler": false,
- "zeit": "2026-10-12T19:42:26"
+ "zeit": "2026-10-27T08:25:41"
 }

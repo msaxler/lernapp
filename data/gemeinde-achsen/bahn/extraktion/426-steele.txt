@@ -1,1290 +1,839 @@
 ENTITÄT: ort
-BEZEICHNUNG: Steele
+FACETTE: LAGE
 QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
 EIGENSCHAFTEN:
   lage: östlicher Stadtteil der Stadt Essen
   bundesland: Nordrhein-Westfalen
-  einstufung_als: Mittelzentrum innerhalb Essens
-  an_fluss: Ruhr
-  nachbarorte_norden: Kray
-  nachbarorte_nordosten: Leithe
-  nachbarorte_osten: Freisenbruch
-  nachbarorte_suedosten: Horst
-  nachbarorte_sueden: Überruhr
-  nachbarorte_suedwesten: Bergerhausen
-  nachbarorte_westen: Huttrop
-  erste_erwaehnung: 840
-  selbstaendige_stadt: 1578
-  eingemeindung_zu_essen: 1929 (1. August)
-  statuswechsel: von selbständiger Stadt zur Stadt-Eingemeindung
+  funktion_in_stadt: Mittelzentrum
+  lage_an_gewässer: direkt an der Ruhr
+GUELTIG_AB: 1929
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/steele_2/steele_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  unabhängige_stadt_von: 1578
+  unabhängige_stadt_bis: 1929
+  erstmalige_urkundliche_erwähnung: 840
+  eingemeindung_zu_essen: 1929
+  namensherkunft: wahrscheinlich von Ripuariern, "stehal" = abschüssig/steil, ursprünglich Steilhang des Steeler Kirchbergs
+  charakteristikum: Mit zahlreichen historischen Gebäuden geprägt; bis 1960er durch Fachwerkhäuser und Gründerzeitbauten
+GUELTIG_AB: 840
+IST_VERMUTICUM_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: ort
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 16946
+  einwohner_unter_18_jahren_prozent: 16.5
+  einwohner_ab_65_jahren_prozent: 25.7
+  auslaenderanteil_prozent: 19.6
+GUELTIG_AB: 2025
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+
+ENTITÄT: stadtteilwappen
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/steele_2/steele_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: goldenes Feld mit drei schwarzen verschlungenen Ringen
+  herkunft: Steeler Siegel von 1578
+  symbolik_farben: gelb für Feuer (Schmiedehandwerk), schwarz für Eisen
+  symbolik_ringe: Attribute des heiligen Eligius, Patron der Schmiedegilde
+  bedeutung_fuer_ort: Wahrzeichen und Symbol der handwerklichen Tradition
+GUELTIG_AB: 1578
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Laurentius
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/steele_2/steele_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eigenschaft_aelteste: älteste Kirche in Steele
+  bauzeit: 1870
+  stil: neugotisch, dreischiffige Werksteinbasilika
+  charakteristikum: Im Volksmund "Steeler Dom" genannt; prägt das Stadtbild oberhalb der Altstadt
+  architekturmerkmale: Vierungs-Oktogon von Dachreiter bekrönt, der fast Höhe des Westturms erreicht
+  bedeutung_fuer_ort: Wahrzeichen und Sehenswürdigkeit
+GUELTIG_AB: 1875
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.96
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Friedenskirche
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  einweihung: 14. November 1872
+GUELTIG_AB: 1872
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: synagoge
+BEZEICHNUNG: Steeler Synagoge
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  einweihung: 14. September 1883
+  zerstoerung: 10. November 1938
+  beschreibung: niedergebrannt und danach abgerissen
+GUELTIG_AB: 1883
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.97
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Mariensäule
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Grendplatz
+  errichtung: 1889
+  kuenstler: Steeler Bildhauer Peters
+  funktion: Segensstation der Steeler Fronleichnamsprozession
+  anlass: Ersatz für abgerissenes Heiligenhäuschen
+  bedeutung_fuer_ort: zentrales Kunstwerk und religiöser Bezugspunkt
+GUELTIG_AB: 1889
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Odysseus
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Steeler Stadtgarten
+  aufstellung: 1910/1911
+  kuenstler: Franz Guntermann (Steeler Bildhauer)
+  beschreibung: Skulptur
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Kriegsdenkmal 1914-1918
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: "Den Gefallenen in den Kriegen von 1914-1918"
+  widmung: Gefallene des Ersten Weltkriegs
+GUELTIG_AB: 1914
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Wappenbrunnen
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Brunnen mit Wappendarstellung
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+
+---
+
+ENTITÄT: bad
+BEZEICHNUNG: Freibad Steele
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/steele_2/steele_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besteht_seit: 1945
+  lage: direkt an der Ruhr
+  charakteristikum: kleines Schwimmbad mit beheiztem Mehrzweckbecken
+  beckengroesse: 8 m × 25 m
+  lieflaechengroesse: 9500 qm
+  infrastruktur: Gastronomie, Liegewiese
+  bedeutung_fuer_ort: wichtige Freizeitmöglichkeit, Anziehungspunkt am Ruhrufer
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Steeler Stadtgarten
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/steele_2/steele_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  groesse: 4.2 hektar
+  anlage_jahr: ca. 1910
+  lage: kleine Anhöhe im Steeler Westen
+  typ: historische Parkanlage, Volkspark
+  bedeutung_fuer_stadt: zweitältester öffentlich zugänglicher Park der Stadt Essen (nach Südviertel)
+  charakteristikum: zentrale Grünanlage mit kulturellen Veranstaltungsräumen
+  infrastruktur: Stadtgartensaalbau für kulturelle Veranstaltungen
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+
+---
+
+ENTITÄT: stadtraum
+BEZEICHNUNG: Grendplatz
+FACETTE: ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/steele_2/steele_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: historische Bebauung inmitten der Steeler Fußgängerzone
+  funktion: Mittelpunkt des urbanen Lebens, Schauplatz zahlreicher Veranstaltungen
+  infrastruktur: Mariensäule, Kaiserliches Postamt (1874), Amtsgericht (1879)
+  bedeutung_fuer_ort: zentraler öffentlicher Platz mit Identitätsfunktion
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: stadtraum
+BEZEICHNUNG: Kaiser-Otto-Platz
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Mittelpunkt des urbanen Lebens, Schauplatz von Veranstaltungen
+  infrastruktur: Trinkwasserbrunnen
+  bedeutung_fuer_ort: zentraler Platz mit Infrastruktur und Identitätsfunktion
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Essen-Steele
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  schienenanbindung: S1, S3, S9, RE 14 (Emscher-Münsterland-Express), RE 49 (Wupper-Lippe-Express)
+  strassenbahnanbindung: Linien 103, 109
+  busanbindung: Linien 144, 164, 166, 170, 174, 177, 184, 194, 363, NE4, NE5, NE14
+  verkehrsplatz_errichtung: Mai 1977
+  verkehrsplatz_neubau: 2009-2010, Kosten ca. 9 Millionen Euro
+  bedeutung_fuer_ort: zweiter wichtigster Verkehrsknoten Essens nach Hauptbahnhof, zentrale Verkehrsdrehscheibe
+GUELTIG_AB: 1862
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.96
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Essen-Steele Ost
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  schienenanbindung: S1, S3
+  historische_namen: Königssteele, Steele Nord, Steele Hbf
+  entfernung_zu_hauptbahnhof: ca. ein Kilometer
+GUELTIG_AB: 1862
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: industrie
+BEZEICHNUNG: Steeler Glashütte
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/steele_2/steele_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: eine der ersten noch existierenden Industrieansiedlungen auf heutigen Essener Gebiet
+  grundung: königlich-preußisches Privileg von 1723
+  bedeutung_fuer_ort: bedeutende Industrietradition
+GUELTIG_AB: 1723
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: industrie
+BEZEICHNUNG: Eisenwerk Steele
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  inbetriebnahme: 1856
+  bedeutung_fuer_ort: Industrialisierung
+GUELTIG_AB: 1856
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Fürstin-Franziska-Christine-Stiftung
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/steele_2/steele_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Waisenhaus/Stiftung
+  errichtung: 1764-1769
+  begruender: Äbtissin Franziska Christine von Pfalz-Sulzbach
+  architektur: Barockfassade, prägt noch heute das Erscheinungsbild Steeles
+  bestand: bis heute
+  bedeutung_fuer_ort: Kulturelles Erbe, Sozialtradition
+GUELTIG_AB: 1764
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Sparkasse Steele
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1. Januar 1864
+  rang_in_stadt: dritte Sparkasse auf heutigen Essener Gebiet (nach Essen und Werden)
+GUELTIG_AB: 1864
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: krankenhaus
+BEZEICHNUNG: St.-Laurentius-Hospital
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  inbetriebnahme: 1869
+  heutige_nutzung: Seniorenstift St. Laurentius (denkmalgeschützt)
+GUELTIG_AB: 1869
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: krankenhaus
+BEZEICHNUNG: Alfried Krupp Krankenhaus Steele
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  fruehere_bezeichnung: Lutherkrankenhaus
+  ausstattung: angrenzendes Hospiz
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Kulturzentrum Grend
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/steele_2/steele_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: ehemalige Rektoratsschule an der Westfalenstraße
+  infrastruktur: Theater Freudenhaus, Gastronomie
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Kulturforum (Kufo)
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: ehemaliges Kassenhaus von Steele
+  infrastruktur: Café, Weinstube, Räume der Volkshochschule
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: theater
+BEZEICHNUNG: Theater Freudenhaus
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/steele_2/steele_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Kulturzentrum Grend, Westfalenstraße
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Freiwillige Feuerwehr Essen-Steele
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1876 als Freiwillige Bürgerfeuerwehr Steele
+  typ: ehrenamtliche Feuerwehr
+  status: taktische Einheit der Berufsfeuerwehr Essen
+  wachenlage: Ruhrbruchshof 6
+  tradition: besteht bis heute aus ehrenamtlichen Mitgliedern
+  jubilaeum: 150 Jahre (2026)
+GUELTIG_AB: 1876
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Steeler Ruderverein
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/steele_2/steele_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Grendtor 40
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: SpVgg Steele 03/09
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/steele_2/steele_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Fußballverein
+  lage: Steeler Straße 580
+GUELTIG_AB: 1903
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: TVG Steele 1863
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/steele_2/steele_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Turnverein
+  lage: Ruhrbruchshof 11
+  gruendung: 1863
+GUELTIG_AB: 1863
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: VV Humann Essen-Steele
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Volleyballverein, Herrenmannschaft
+  liga: Zweite Bundesliga
+  heimstelle: Sporthalle Wolfskuhle
+  besonderheit: Bedeutung für überörtliche Wahrnehmung
+GUELTIG_AB: 1967
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Gymnasium an der Wolfskuhle
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: Sommer 1968
+  lage: Pinxtenweg
+  struktur: gehört zu Schulkomplex mit Gesamtschule
+  eigenstaendigkeit: bleibt eigenständig
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Erich-Kästner-Gesamtschule
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1988 (Zusammenführung von Real- und Hauptschule)
+  lage: Schulkomplex an der Wolfskuhle
+GUELTIG_AB: 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: RuhrtalRadweg
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  charakter: Rad- und Wanderweg
+  lage: entlang Steeler Ruhufer
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Kaiser-Route
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  charakter: Radweg
+  lage: entlang Steeler Ruhrufer
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Route der Industriekultur
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  charakter: Themenweg zur Industriegeschichte
+  lage: entlang Steeler Ruhrufer
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.78
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Steeler Weihnachtsmarkt
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  erste_durchfuehrung: 1976
+  lage: Grendplatz / Kaiser-Otto-Platz
+  periodizitaet: jährlich
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Maikirmes
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  ursprung: Privileg 1563
+  lage: Grendplatz / Kaiser-Otto-Platz
+  periodizitaet: jährlich
+GUELTIG_AB: 1563
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Herbstkirmes
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Grendplatz / Kaiser-Otto-Platz
+  periodizitaet: jährlich
+GUELTIG_AB: 1563
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Ruhr in Flammen
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Ruhrufer
+  charakter: Feuerwerk und Spektakel
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.78
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Motorradgottesdienst
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  periodizitaet: 1-2 Mal pro Jahr
+  location: in Steele
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Steeler Verkehrs- und Verschönerungsverein
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1882
+  funktion: maßgeblich an Stadtgestaltung beteiligt, Stadtgarten-Initiative
+  geschichtsverlauf: aufgelöst in 1930er Jahren durch Nationalsozialisten; 1945 unter neuem Namen wiedergegründet
+  neuer_name: Steeler Bürgerschaft e.V.
+GUELTIG_AB: 1882
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Steeler Bürgerschaft e.V.
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1945 (Neugruendung des früheren Verkehrs- und Verschönerungsvereins)
+  kontinuitaet: Nachfolger des 1882 gegründeten Vereins
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gewässer
+BEZEICHNUNG: Ruhr
+FACETTE: LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/steele_2/steele_startseite.de.jsp | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Fluss, an dem Steele direkt liegt
+  bedeutung_fuer_ort: prägt Landschaft und Freizeitangebot, Naherholung
 GUELTIG_AB: 840
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: historisches_ereignis
-BEZEICHNUNG: Hoftag Ottos I.
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Trinkwasserbrunnen Kaiser-Otto-Platz
+FACETTE: INFRA
+QUELLE: https://www.essen.de/dasistessen/stadtteile/steele_2/steele_startseite.de.jsp | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  ereignis: Hoftag des deutschen Königs und späteren römischen Kaisers Otto I. der Große
-  jahr: 938
-
-GUELTIG_AB: 938
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: bauerschaft
-BEZEICHNUNG: Freisenbruch
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  erste_erwaehnung: 1047
-  erwaehnung_quelle: Verzeichnis des Klosters zu Werden
-  historischer_weg: Hellweg verlief durch diese Bauerschaft (zweiter Zweig)
-
-GUELTIG_AB: 1047
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: historischer_weg
-BEZEICHNUNG: Hellweg
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  beschreibung: Handelsweg mit zwei Zweigleitungen in der Steeler Region; zweiter Zweig durch Bauerschaft Freisenbruch nach Errichtung von Haus Horst sicherer geworden; ursprünglicher Verlauf über Schonnebeck und durch Bauerschaft Kray-Leithe
-  erinnerung_straßenname: "Im Helf" (Im Hellwegshof) um Gewerbegebiet Adlerstraße
-
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: weinberg
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  anlage_jahr: 1318
-  angelegt_von: Fürstin Anna Salome
-  lage: in der Nähe von Steele
-
-GUELTIG_AB: 1318
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: hof
-BEZEICHNUNG: Holbeckshof
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  typ: Behandigungsgut zum Oberhof Eickenscheidt
-  erwaehnung_erste: 1322
-  erwaehnung_zweite: 1408-1411 (Kettenbuch/liber catenatus)
-  lage: heutige Straße Holbecks Hof
-  bach: Holtbecke (Holzbach) aus nordwestlicher Richtung
-  wassermuelle: an dem Bach vorhanden
-  muehleteich: ursprünglich vorhanden, bis ins 19. Jahrhundert
-
-GUELTIG_AB: 1322
-GUELTIG_BIS: 1900
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: stadtmauer
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  anlage_beginn: 15. Jahrhundert
-  abbruch_beginn: 1815
-
-GUELTIG_AB: 1400
-GUELTIG_BIS: 1815
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: brand
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  ereignis: Großfeuer in Steele
-  jahr: 1548
-  folge: Erlass der ersten Brandschutzordnung 1549
-
-GUELTIG_AB: 1548
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: ordnung
-BEZEICHNUNG: erste Brandschutzordnung
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  erlass: 1549
-  grund: ein Jahr nach Großfeuer in Steele (1548)
-
-GUELTIG_AB: 1549
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: fest
-BEZEICHNUNG: Mai- und Herbstkirmes
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  privileg_erteilung: 1563
-  typ: Kirmes (Jahrmärkte)
-
-GUELTIG_AB: 1563
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: ort
-BEZEICHNUNG: Steele
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  stadtrechte_verleihung: 1578
-  siegel_verleiher: Äbtissin Elisabeth von Manderscheid-Blankenheim
-  siegel_beschreibung: drei Ringe
-
-GUELTIG_AB: 1578
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: kohlengruben
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  erwaehnung: 1580 im Städtebuch von Bruyn und Hugenberg als ertragreich erwähnt
-  beschreibung: ertragreich
-
-GUELTIG_AB: 1580
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: siedlung
-BEZEICHNUNG: Königssteele
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  lage: östlich von Steele
-  zeit_erwaehnung: Anfang 18. Jahrhundert
-  politik: auf preußischem Gebiet
-  grund_unterscheidung: Steele gehörte zum Äbtissinnentift Essen, östliche Siedlungen zum Königreich Preußen
-  eingemeindung_zu_steele: 1. April 1926
-  umfasst_ab_1919: Eiberg, Horst, Freisenbruch
-
-GUELTIG_AB: 1700
-GUELTIG_BIS: 1926
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: waisenhaus
-BEZEICHNUNG: Fürstin-Franziska-Christine-Stiftung
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  stifterin: Äbtissin Franziska Christine von Pfalz-Sulzbach
-  stifterin_amtszeit: 1724-1776
-  stilistische_periode: Barockfassade
-  wirkung: prägt heute das Erscheinungsbild Steeles
-
-GUELTIG_AB: 1724
+  typ: öffentliche Trinkwasseranlage
+  lage: Kaiser-Otto-Platz
+GUELTIG_AB: 2000
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: landstrasse
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Grillzone Ruhrwiesen Henglerstraße
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/steele_2/steele_startseite.de.jsp | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  verlauf: von Essen über Steele nach Bochum
-  festlegung: 1787 durch Minister von Heintz
-  fertigstellung: 1794
-  gebuehr: Wegegeld erforderlich
-
-GUELTIG_AB: 1794
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: muehle
-BEZEICHNUNG: Mühle am Isinger Tor
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  besitzergruendung: 1667 in Besitz des Bauern Schulte-Ising
-  erneuerung: 1818
-  ursprung: vermutlich vor dem Dreißigjährigen Krieg
-  genauigkeit_ursprung: vermutlich
-  brand: 1842
-  wiederaufbau: nach Brand 1842
-  isinger_tor: nicht wieder aufgebaut, Rest abgebrochen
-
-GUELTIG_AB: 1600
-GUELTIG_BIS: 1842
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: tor
-BEZEICHNUNG: Isinger Tor
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  funktion: Hellweg verlief durch das Tor
-  abbruch_reste: nach Brand der Mühle 1842
-  strasse_benannt_nach: Straße "Isinger Tor" seit 1926
-  urspruenglicher_name: Steinweg
-  ursprüngliche_ort_struktur: Knops-Porthe befand sich am Ende des Steinwegs, später Isinger Tor genannt
-
-GUELTIG_AB: 1500
-GUELTIG_BIS: 1842
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: eisenwerk
-BEZEICHNUNG: Eisenwerk Steele
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  inbetriebnahme: 1856
-
-GUELTIG_AB: 1856
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: eisenbahn
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  bahnstrecke: Witten/Dortmund–Oberhausen/Duisburg
-  betreiber: Bergisch-Märkischen Eisenbahn-Gesellschaft (BME)
-  anbindung_jahr: 1862
-  ort_anbindung: Steele
-
-GUELTIG_AB: 1862
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: bahnhof
-BEZEICHNUNG: Bahnhof Essen-Steele
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  typ: Knotenbahnhof
-  entstehung_als_knotenbahnhof: 1863
-  verbindung: Prinz-Wilhelm-Eisenbahn-Gesellschaft mit BME-Strecke über neue Ruhrbrücke
-  weitere_ausbauten: Strecke weiter nach Dahlhausen
-  namenswechsel_historisch: Königssteele, Steele Nord, Steele Hbf, heute Bahnhof Essen-Steele Ost
-
-GUELTIG_AB: 1863
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: sparkasse
-BEZEICHNUNG: Sparkasse Steele
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  gruendung: 1. Januar 1864
-  rang: dritte Sparkasse auf heutigem Essener Stadtgebiet (nach Essen und Werden)
-
-GUELTIG_AB: 1864
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: hospital
-BEZEICHNUNG: St.-Laurentius-Hospital
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  betriebsbeginn: 1869
-  heutige_nutzung: Sitz des Seniorenstifts St. Laurentius in denkmalgeschütztem Gebäude
-
-GUELTIG_AB: 1869
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: kirche
-BEZEICHNUNG: Friedenskirche
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  konfession: evangelisch
-  einweihung: 14. November 1872
-
-GUELTIG_AB: 1872
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: postamt
-BEZEICHNUNG: Kaiserliches Postamt
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  eroeffnung: 1874
-  lage: Grendplatz
-
-GUELTIG_AB: 1874
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: kirche
-BEZEICHNUNG: St. Laurentius (Pfarrkirche)
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  architekturstil: neugotisch
-  einweihung: 1875
-  besonderheit: Vierungs-Oktogon bekrönt von Dachreiter, der fast die Höhe des Westturms erreicht
-  volkstümlicher_name: Steeler Dom
-  lage: unmittelbar oberhalb der Steeler Altstadt
-  superlativ: prominentes Landmarken-Bauwerk Steeles
-
-GUELTIG_AB: 1875
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: feuerwehr
-BEZEICHNUNG: Freiwillige Bürgerfeuerwehr Steele
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  gruendung: 1876
-  heutige_bezeichnung: Freiwillige Feuerwehr Essen-Steele
-  funktion: taktische Einheit der Berufsfeuerwehr Essen
-  besetzung: ehrenamtliche Mitglieder
-  sitz: Ruhrbruchshof 6
-
-GUELTIG_AB: 1876
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: eisenbahn
-BESCHREIBUNG: Bahnstrecke Mülheim-Heißen–Altendorf (Ruhr)
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  betreiber: Rheinische Eisenbahn-Gesellschaft
-  inbetriebnahme: 1878-1879
-  bahnhof_neu: Bahnhof Steele Süd
-
-GUELTIG_AB: 1878
+  beschreibung: ausgewiesener Grillbereich mit Nutzungsregeln
+  lage: Ruhrwiesen Henglerstraße
+  regelung: Grillen nur mit eigenem Grill, Flächen sauber halten
+GUELTIG_AB: 2020
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: amtsgericht
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Notfall-Infopunkt (NIP)
+FACETTE: INFRA
+QUELLE: https://www.essen.de/dasistessen/stadtteile/steele_2/steele_startseite.de.jsp | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  einweihung: 1879
-  lage: Grendplatz
-
-GUELTIG_AB: 1879
+  lage: Ruhrbruchshof 2, Polizei Essen
+  zweck: Austausch von Informationen und Aufnahme von Notfallmeldungen bei Krisensituationen (z.B. längerer Stromausfall)
+GUELTIG_AB: 2020
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: verein
-BEZEICHNUNG: Steeler Verkehrs- und Verschönerungsverein
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  gruendung: 1882
-  rolle: maßgeblich an Gestaltung der wachsenden Stadt Steele beteiligt
-  initiative_projekte: Stadtgarten Steele
-  auflösung: 1930er Jahre (Gleichschaltungspolitik der Nationalsozialisten)
-  wiederggruendung: nach Ende des Zweiten Weltkriegs unter Namen Steeler Bürgerschaft e. V.
-
-GUELTIG_AB: 1882
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: denkmal
-BEZEICHNUNG: Mariensäule
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  errichtung: 1889
-  kuenstler: Steeler Bildhauer Peters
-  lage: Grendplatz
-  vorgaenger: jahrhundertealtes Heiligenhäuschen (wegen Baufälligkeit abgebrochen)
-  funktion: Segensstation der Steeler Fronleichnamsprozession
-  fronleichnamsprozession_termin: alljährlich am Dreifaltigkeitssonntag
-
-GUELTIG_AB: 1889
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.80
 
 ---
 
 ENTITÄT: wasserturm
 BEZEICHNUNG: Wasserturm Essen-Steele
+FACETTE: GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
 EIGENSCHAFTEN:
-  bau: 1898
+  erbauung: 1898
   betrieb_bis: 1984
-
+  lage: Steeler Westen, neues Wohnviertel (Schnütgenstraße)
+  stil: Zeugnis der Industrialisierung
 GUELTIG_AB: 1898
 GUELTIG_BIS: 1984
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.90
 
 ---
 
-ENTITÄT: park
-BEZEICHNUNG: Steeler Stadtgarten
+ENTITÄT: muehle
+BEZEICHNUNG: Mühle am Isinger Tor
+FACETTE: GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
 EIGENSCHAFTEN:
-  entstehung: 1910-1911
-  initiative: Verkehrs- und Verschönerungsverein
-  lage: ca. 40 Meter oberhalb der Ruhr auf Hang
-  flaehe: 42 ha
-  funktion: Volkspark für Erholung der Bürger von Steele
-  zeitgleiche_errichtung: Stadtgartensaalbau für kulturelle Veranstaltungen
-
-GUELTIG_AB: 1910
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: skulptur
-BEZEICHNUNG: Odysseus
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  aufstellung: 1910-1911
-  kuenstler: Franz Guntermann (Steeler Bildhauer)
-  lage: Steeler Stadtgarten
-
-GUELTIG_AB: 1910
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: synagoge
-BEZEICHNUNG: Steeler Synagoge
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  einweihung: 14. September 1883
-  lage: mitten in Steele
-  zerstoerung: niedergebrannt 10. November 1938
-  nachfolge: danach abgerissen
-
-GUELTIG_AB: 1883
-GUELTIG_BIS: 1938
+  ursprung: vermutlich vor dem Dreißigjährigen Krieg
+  besitz_seit: 1667 (Bauer Schulte-Ising)
+  erneuerung: 1818
+  beschaedigung: Brand 1842 (mit Isinger Tor)
+  wiederaufbau: nach 1842
+GUELTIG_AB: 1600
+GUELTIG_BIS: 1842
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.82
 
 ---
 
-ENTITÄT: denkmal
-BEZEICHNUNG: Denkmal des preußischen Kaisers Friedrich III.
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+ENTITÄT: stadt_sanierung
+BEZEICHNUNG: Flächensanierung Steele
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/steele_2/steele_geschichte.de.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  lage: Mitte des Grendplatzes
-  abbau: 1948
-
-GUELTIG_AB: 1800
-GUELTIG_BIS: 1948
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: stadterneuerung
-BESCHREIBUNG: Stadtsanierung und Umstrukturierung
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  zeitraum: späte 1960er Jahre bis frühe 1970er Jahre
-  masse: eine der größten städtebaulichen Umstrukturierungsmaßnahmen in der Bundesrepublik
-  methode: Abriss und Neubau, Flächensanierung
-  umfang: besonders in nördlichen und östlichen Teilen; ganze Straßenzüge aus vorindustriellen Fachwerkhäusern und gründerzeitliche Bebauung zerstört
-
-GUELTIG_AB: 1965
-GUELTIG_BIS: 1975
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: haus
-BEZEICHNUNG: Mühlenhof
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  typ: Eckhaus
-  lage: Scheidtmanntor (Ecke Steeler Straße/Paßstraße)
-  errichtung: Ende 1920er Jahre (1929 in selbständiger Stadt Steele durch Johann Vogelsang)
-  architektur: Aushängeschild Steeles gegenüber dem Bahnhof
-  abbruch: Ende der 1960er Jahre
-  nachnutzung_grundstueck: zeitweise Park- und Kirmesplatz, ab 1988 Hochhaus Kaiser-Otto-Residenz
-
-GUELTIG_AB: 1929
+  zeitraum: späte 1960er und frühe 1970er Jahre
+  beschreibung: eine der größten städtebaulichen Umstrukturierungsmaßnahmen in der Bundesrepublik
+  umfang: Abriss hunderter alter Häuser, besonders ganze Straßenzüge aus Fachwerkhäusern und Gründerzeitbauten
+  folgen: Platz für mehrspurige Tangentialstraßen an Ruhr und Bahnhof, Umgestaltung zu Mittelzentrum mit Fußgängerzonen
+  bedeutung_fuer_ort: totale Umgestaltung des Stadtbildes
+GUELTIG_AB: 1960
 GUELTIG_BIS: 1970
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
+VERTRAUEN_EXTRAKTION: 0.92
 
 ---
 
-ENTITÄT: seniorenheim
-BEZEICHNUNG: Kaiser-Otto-Residenz
+ENTITÄT: gebaeude
+BEZEICHNUNG: Mühlenhof (Eckhaus Scheidtmanntor)
+FACETTE: GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
 EIGENSCHAFTEN:
-  eroeffnung: 1988
-  standort: Grundstück des abgerissenen Mühlenhof
-
-GUELTIG_AB: 1988
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: kaufhaus
-BEZEICHNUNG: Kaufhaus Wertheim / Globus-Center
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  bau: 1972
-  konsequenz_abriss: zerstörte bedeutende historische Bausubstanz im ältesten Siedlungskern Steeles
-  schliessung: Februar 1979
-  leerstand: 1979-1985
-  umnutzung_ab_1985: Ansiedlung von Supermärkten (Globus, Spar) später fehlgeschlagen
-  neuer_name: Globus-Center
-  auszuege: Saturn (2021), Kfz-Zulassungs- und Fahrerlaubnisbehörde (Dezember 2025)
-  heutige_nutzung: Einzelhandelsgeschäfte
-  leerstand_heute: hoch
-
-GUELTIG_AB: 1972
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: wohnhaus
-BEZEICHNUNG: Wohnhochhaus GAGFAH
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  lage: Bochumer Straße 64
-  bebauungsplan_vorgesehen: 12 Etagen
-  genehmigung_tatsaechlich: 21 Etagen (auf Drängen des Investors)
-  skandal: Abweichung vom Bebauungsplan
-
-GUELTIG_AB: 1970
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: moebel_haus
-BEZEICHNUNG: Möbelhaus Kröger
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  bebauungsplan_maximal: 4 Geschosse
-  genehmigung_ausnahmegenehmigung: 6 Geschosse
-  bau_tatsaechlich: 7 Etagen
-  skandal: Baubehörde stilllegte Baustelle Januar 1972; Geschoss vollständig trotz Untersagung fertiggestellt
-  legalisierung: November 1973 durch nachträgliche Höherstufung Bebauungsplan
-  rechtsbruch: wurde nachträglich legalisiert
-  kontroverse: Akten im Essener Rechtsamt 1974 spurlos verloren gegangen
-
-GUELTIG_AB: 1972
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: bahnhof
-BEZEICHNUNG: S-Bahnhof Essen-Steele West
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  funktion: Verknüpfungspunkt S-Bahn, Stadtbahn und Bus
-  anlage: im Zug Steeler Umstrukturierungsmaßnahmen
-  folge_alter_bahnhof: alte Bahnhof Essen-Steele (1 km entfernt) in Essen-Steele Ost umbenannt
-
-GUELTIG_AB: 1970
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: eisenbahn_infrastruktur
-BESCHREIBUNG: Aufgeständerte Verbindungskurve
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  verlauf: Ruhrbrücke zum Bahnhof Essen-Steele West
-  inbetriebnahme: 1. Februar 1978
-
-GUELTIG_AB: 1978
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: stadtteil
-BEZEICHNUNG: Hünninghausenweg
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  status: historisches Quartier am Rande der Steeler Altstadt
-  denkmalschutz: Denkmalgebiet
-
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: freibad
-BEZEICHNUNG: Freibad Steele
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  eroeffnung: 1945
-  lage: direkt am Ruhrufer
-  ausstattung: kleines Mehrzweckbecken
-  betreiber: Schwimmverein Steele 11
-  zugaenglichkeit: öffentlich
-
-GUELTIG_AB: 1945
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: sportverein
-BEZEICHNUNG: Volleyball-Verein Humann Essen
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  liga_herrenmannschaft: Zweite Bundesliga
-  heimspiele_ort: Sporthalle Wolfskuhle
-
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: sporthalle
-BEZEICHNUNG: Sporthalle Wolfskuhle
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  zugehoerigkeit: Schule an der Wolfskuhle
-  nutzung: Heimspiele Volleyball-Verein Humann Essen
-
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: schule
-BEZEICHNUNG: Schule an der Wolfskuhle
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  lage: Pinxtenweg
-  gruendung_gymnasium: Sommer 1968
-  spätere_erweiterung: Real- und Hauptschule hinzugekommen
-  zusammenfuehrung_1988: Real- und Hauptschule zur Erich-Kästner-Gesamtschule
-  gymnasium_status: eigenständig geblieben
-
-GUELTIG_AB: 1968
-IST_VERMUTUNG_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: verkehrsknoten
-BEZEICHNUNG: Steeler Verkehrsplatz
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  inbetriebnahme: Mai 1977
-  rang: einer der wichtigsten Verkehrsknoten Essens (nach Hauptbahnhof)
-  konzept: Busse zentral Verkehrsplatz ansteuern; von dort S-Bahn, Regional- oder Straßenbahn zur Stadtmitte
-  umbau: Anfang 2009 bis August 2010
-  wiederinbetriebnahme: 28. August 2010
-  umbaukosten: ca. 9 Millionen Euro
-  kostenverteilung: 2/3 Land NRW, je 1/3 Stadt Essen und Verkehrsbetriebe
-  verbesserungen: bessere Erreichbarkeit Busse; neue Überdachung; Barrierefreiheit über alle Ebenen bis Bahnsteige
-
-GUELTIG_AB: 1977
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: kulturzentrum
-BEZEICHNUNG: Kulturzentrum Grend
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  lage: alte Steeler Rektoratsschule an Westfalenstraße
-  einrichtungen: Theater Freudenhaus, Gastronomie
-
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: kultureinrichtung
-BEZEICHNUNG: Kulturforum (Kufo)
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  lage: ehemaliges Kassenhaus von Steele
-  einrichtungen: Café, Weinstube, Räume der Volkshochschule
-
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Ignatius Fortuna
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  sterbeort: Steele
-  sterbejahr: 1789
-  beruf: Kammermohr der Essener Fürstäbtissin Franziska Christine von Pfalz-Sulzbach
-
-GUELTIG_BIS: 1789
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Joseph Boismard
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  geb_jahr: 1834
-  gest_jahr: 1911
-  beruf: Kaufmann und Beigeordneter
-  auszeichnung: Ehrenbürger von Steele
-
-GUELTIG_AB: 1834
-GUELTIG_BIS: 1911
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Johann Heinrich Schönscheidt
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  geb_jahr: 1835
-  gest_jahr: 1903
-  geburtsort: Steele
-  beruf: Fotograf
-
-GUELTIG_AB: 1835
-GUELTIG_BIS: 1903
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Carl Humann
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  geb_jahr: 1839
-  gest_jahr: 1896
-  bedeutung: Entdecker des Pergamonaltars
-  auszeichnung: Ehrenbürger von Steele
-
-GUELTIG_AB: 1839
-GUELTIG_BIS: 1896
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Matthias Büssem
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  geb_jahr: 1834
-  gest_jahr: 1914
-  beruf: Pfarrer
-  auszeichnung: Ehrenbürger von Steele
-
-GUELTIG_AB: 1834
-GUELTIG_BIS: 1914
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Felix Rauter
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  geb_jahr: 1841
-  gest_jahr: 1910
-  rollen: Unternehmer, Stadtverordneter, Kommerzienrat
-
-GUELTIG_AB: 1841
-GUELTIG_BIS: 1910
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Alexander Schnütgen
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  geb_jahr: 1843
-  gest_jahr: 1918
-  beruf: Domkapitular
-  stiftung: Schnütgen-Museum in Köln
-
-GUELTIG_AB: 1843
-GUELTIG_BIS: 1918
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Alexander Schnütgen (jüngerer)
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  geb_jahr: 1883
-  gest_jahr: 1955
-  geburtsort: Steele
-  beruf: Bibliothekar
-
-GUELTIG_AB: 1883
-GUELTIG_BIS: 1955
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Franz Guntermann
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  geb_jahr: 1881
-  gest_jahr: 1963
-  geburtsort: Steele
-  beruf: Bildhauer
-  werke: Skulptur Odysseus im Steeler Stadtgarten
-
-GUELTIG_AB: 1881
-GUELTIG_BIS: 1963
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Otto Schmitz
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  geb_jahr: 1883
-  gest_jahr: 1942
-  geburtsort: Steele
-  rollen: Jurist, Politiker
-
-GUELTIG_AB: 1883
-GUELTIG_BIS: 1942
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Paul Steimer
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  geb_jahr: 1883
-  gest_jahr: 1943
-  amt: Generalstaatsanwalt in Kattowitz
-
-GUELTIG_AB: 1883
-GUELTIG_BIS: 1943
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Wilhelm Schwan
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  geb_jahr: 1884
-  gest_jahr: 1960
-  geburtsort: Steele
-  parteien: SPD, KPD, SED
-  beruf: Politiker
-
-GUELTIG_AB: 1884
+  erbaut: 1929 durch Johann Vogelsang
+  abriss: Ende 1960er Jahre
+  funktion: Aushängeschild Steeles, gegenüber dem Bahnhof
+  folgenutzung: Park- und Kirmesplatz, ab 1988 Hochhaus Kaiser-Otto-Residenz
+GUELTIG_AB: 1929
 GUELTIG_BIS: 1960
 IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Kaiser-Otto-Residenz
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Seniorenheim
+  eroeffnung: 1988
+  lage: ehemaliger Standort Mühlenhof
+GUELTIG_AB: 1988
+IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: person
-BEZEICHNUNG: Ernst Busch
+ENTITÄT: gebaeude
+BEZEICHNUNG: Globus-Center
+FACETTE: ALLTAG
 QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
 EIGENSCHAFTEN:
-  geb_jahr: 1885
-  gest_jahr: 1945
-  geburtsort: Steele
-  rang: Generalfeldmarschall im Zweiten Weltkrieg
+  geschichte: 1972 Kaufhaus Wertheim, 1979 geschlossen, 1985-1990er Supermärkte (Globus, Spar), ab 2021 Saturn, ab Dezember 2025 Kfz-Zulassungsbehörde
+  aktueller_status: Einzelhandelsnutzung mit hohem Leerstand
+  lage: Stadtzentrum
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
 
-GUELTIG_AB: 1885
-GUELTIG_BIS: 1945
+---
+
+ENTITÄT: bahnlinie
+BEZEICHNUNG: Strecke Witten/Dortmund – Oberhausen/Duisburg
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: Bergisch-Märkische Eisenbahn-Gesellschaft (BME)
+  anbindung_steele: 1862
+  bedeutung: erste Bahnanbindung
+GUELTIG_AB: 1862
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: bahnlinie
+BEZEICHNUNG: Bahnstrecke Mülheim-Heißen – Altendorf (Ruhr)
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: Rheinische Eisenbahn-Gesellschaft
+  inbetriebnahme: 1878/1879
+  bahnhof: Steele Süd
+GUELTIG_AB: 1878
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: personengruppe
+BEZEICHNUNG: Schmiedegilde Steele
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/steele_2/steele_geschichte.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung: tonangebende Steeler Bürger
+  tradition: Patron heiliger Eligius
+  symbol: Ring (im Wappen)
+  zeitraum: mittelalter und frühneuzeit
+GUELTIG_AB: 1300
 IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.78
+
+---
+
+ENTITÄT: denkmalgebiet
+BEZEICHNUNG: Hünninghausenweg
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: historisches Quartier am Rand der Steeler Altstadt
+  charakteristikum: denkmalgeschützte Wohnhäuser im Stil des architektonischen Expressionismus
+GUELTIG_AB: 1920
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+
+---
+
+ENTITÄT: stadtteil_charakteristikum
+BEZEICHNUNG: Fußgängerzone
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: verkehrsberuhigte Bereiche im Stadtkern mit Einzelhandel
+  entstehung: in den 1970er Jahren aus ehemaligen Durchgangsstraßen umgewandelt
+  bedeutung: lebendiger Stadtkern
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: promenade
+BEZEICHNUNG: Ruhrpromenade
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Promenade an der Ruhr mit Freizeitmöglichkeiten
+  infrastruktur: Freibad, Spazierweg
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Fritz Reckmann
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  geb_jahr: 1907
-  gest_jahr: 1984
-  partei: NSDAP
-  beruf: Politiker
-
-GUELTIG_AB: 1907
-GUELTIG_BIS: 1984
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Wilhelm Witteler
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  geb_jahr: 1909
-  gest_jahr: 1993
-  geburtsort: Steele
-  rollen: Mediziner, SS-Sturmbannführer, Lagerarzt im Konzentrationslager Dachau
-
-GUELTIG_AB: 1909
-GUELTIG_BIS: 1993
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Bruno Hähnel
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  geb_jahr: 1911
-  partei: NSDAP
-  beruf: Politiker
-
-GUELTIG_AB: 1911
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Theodor Kellermann
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  geb_jahr: 1911
-  gest_jahr: 1945
-  geburtsort: Steele
-  beruf: katholischer Geistlicher
-
-GUELTIG_AB: 1911
-GUELTIG_BIS: 1945
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Heinrich Rüth
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  geb_jahr: 1913
-  gest_jahr: 2006
-  geburtsort: Steele
-  rang: erster Bischof von Cruzeiro do Sul
-
-GUELTIG_AB: 1913
-GUELTIG_BIS: 2006
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Gisbert Kranz
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  geb_jahr: 1921
-  gest_jahr: 2009
-  geburtsort: Steele
-  rollen: Schriftsteller, Literaturwissenschaftler, Biograph, Pädagoge, katholischer Theologe
-
-GUELTIG_AB: 1921
-GUELTIG_BIS: 2009
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: person
-BEZEICHNUNG: Werner Lachmann
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  geb_jahr: 1941
-  beruf: Wirtschaftswissenschaftler
-
-GUELTIG_AB: 1941
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: buergermeister
-BEZEICHNUNG: Albert Friedrich Bach
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  amtszeit: 1803-1811
-
-GUELTIG_AB: 1803
-GUELTIG_BIS: 1811
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: buergermeister
-BEZEICHNUNG: Maximilian Friedrich Freiherr von Vittinghoff gen. von Schell
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  amtszeit: 1811-1822
-
-GUELTIG_AB: 1811
-GUELTIG_BIS: 1822
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: buergermeister
-BEZEICHNUNG: Christian Noot
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  amtszeit: 1823-1834
-
-GUELTIG_AB: 1823
-GUELTIG_BIS: 1834
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: buergermeister
-BEZEICHNUNG: Bertram Pfeiffer
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  amtszeit: 1834-1838
-
-GUELTIG_AB: 1834
-GUELTIG_BIS: 1838
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: buergermeister
-BEZEICHNUNG: Samuel Friedrich Biegon von Czudnochowski
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  amtszeit: 1838-1844
-
-GUELTIG_AB: 1838
-GUELTIG_BIS: 1844
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: buergermeister
-BEZEICHNUNG: Friedrich de Wolff
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  amtszeit: 1844-1851
-
-GUELTIG_AB: 1844
-GUELTIG_BIS: 1851
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: buergermeister
-BEZEICHNUNG: Theodor Märcker
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  amtszeit: 1851-1863
-
-GUELTIG_AB: 1851
-GUELTIG_BIS: 1863
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: buergermeister
-BEZEICHNUNG: Theodor von Cloedt
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  amtszeit: 1863-1876
-
-GUELTIG_AB: 1863
-GUELTIG_BIS: 1876
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: buergermeister
-BEZEICHNUNG: Hugo Jesse
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  amtszeit: 1877-1880
-
-GUELTIG_AB: 1877
-GUELTIG_BIS: 1880
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: buergermeister
-BEZEICHNUNG: Carl Matthias Aloys Pietz
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  amtszeit: 1880-1881
-
-GUELTIG_AB: 1880
-GUELTIG_BIS: 1881
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: buergermeister
-BEZEICHNUNG: Theodor Heider
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  amtszeit: 1882-1894
-
-GUELTIG_AB: 1882
-GUELTIG_BIS: 1894
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: buergermeister
-BEZEICHNUNG: Wilhelm Farwick
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  amtszeit: 1894-1898
-
-GUELTIG_AB: 1894
-GUELTIG_BIS: 1898
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: buergermeister
-BEZEICHNUNG: Bernhard Schulz
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  amtszeit: 1899-1923
-
-GUELTIG_AB: 1899
-GUELTIG_BIS: 1923
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: buergermeister
-BEZEICHNUNG: Richard Disch
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  amtszeit: 1923-1929
-
-GUELTIG_AB: 1923
-GUELTIG_BIS: 1929
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: amtmann
-BEZEICHNUNG: Wilhelm Hans
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  amt: Amtmann von Königssteele
-  amtszeit: 1885-1903
-
-GUELTIG_AB: 1885
-GUELTIG_BIS: 1903
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: amtmann
-BEZEICHNUNG: Hermann Bock von Wülfingen
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  amt: Amtmann von Königssteele
-  amtszeit: 1903-1917
-
-GUELTIG_AB: 1903
-GUELTIG_BIS: 1917
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: amtmann
-BEZEICHNUNG: Bernhard Adolph Maria Hechelmann
-QUELLE: https://de.wikipedia.org/wiki/Steele_(Essen) | Wikipedia
-EIGENSCHAFTEN:
-  amt: Amtmann von Königssteele
-  amtszeit: 1919-1926
-
-GUELTIG_AB: 1919
-GUELTIG_BIS: 1926
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9

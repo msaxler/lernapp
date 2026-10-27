@@ -1,21 +1,21 @@
 {
  "stufe": "extraktion",
  "ort": "409-melsbach",
- "prompt": "prompt-stufe1-v0.6.txt",
+ "prompt": "prompt-stufe1-v0.7.txt",
  "modell_wunsch": "haiku",
  "modelle": [
   "claude-haiku-4-5-20251001"
  ],
- "eingabe_zeichen": 19703,
- "token_ein": 23070,
- "token_aus": 16924,
+ "eingabe_zeichen": 25839,
+ "token_ein": 24145,
+ "token_aus": 8979,
  "usage": {
   "input_tokens": 9,
-  "cache_creation_input_tokens": 15933,
+  "cache_creation_input_tokens": 17008,
   "cache_read_input_tokens": 7128,
-  "output_tokens": 16924,
+  "output_tokens": 8979,
   "output_tokens_details": {
-   "thinking_tokens": 10361
+   "thinking_tokens": 2965
   },
   "server_tool_use": {
    "web_search_requests": 0,
@@ -23,19 +23,19 @@
   },
   "service_tier": "standard",
   "cache_creation": {
-   "ephemeral_1h_input_tokens": 15933,
+   "ephemeral_1h_input_tokens": 17008,
    "ephemeral_5m_input_tokens": 0
   },
   "inference_geo": "not_available",
   "iterations": [
    {
     "input_tokens": 9,
-    "output_tokens": 16924,
+    "output_tokens": 8979,
     "cache_read_input_tokens": 7128,
-    "cache_creation_input_tokens": 15933,
+    "cache_creation_input_tokens": 17008,
     "cache_creation": {
      "ephemeral_5m_input_tokens": 0,
-     "ephemeral_1h_input_tokens": 15933
+     "ephemeral_1h_input_tokens": 17008
     },
     "type": "message"
    }
@@ -43,8 +43,8 @@
   "speed": "standard",
   "fallback_credit": null
  },
- "kosten_usd": 0.1172078,
- "sekunden": 137,
+ "kosten_usd": 0.0796328,
+ "sekunden": 74,
  "fehler": false,
- "zeit": "2026-10-17T12:51:24"
+ "zeit": "2026-10-27T08:37:45"
 }

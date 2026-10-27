@@ -1,0 +1,532 @@
+ZIELORT: Burgaltendorf (Ortsteil von Essen)
+LAGE: Stadtteil von Essen, 9 km südöstlich der Stadtmitte (Luftlinie)
+ARTIKEL: Burgaltendorf
+
+GRUNDDATEN:
+  landkreis: Stadtkreis Essen — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P131]
+  bundesland: Nordrhein-Westfalen — GILT FÜR DIE GEMEINDE ESSEN  [über die Gemeinde]
+  flaeche_km2: 6,3  [Wikidata P2046]
+  kfz: E (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P395]
+  hoehe_m: 99 | 126 — MEHRERE WERTE  [Wikidata P2044; Altbestand geo.sqlite (GeoNames 3205794)]
+  naechste_grossstadt: Essen, 9 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Düsseldorf, 32 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  eingemeindung: 1970-01-01  [dewiki Infobox]
+  plz: 45289  [Wikidata P281]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,5 %, SPD 22,2 %, AfD 17 %, GRÜNE 12,4 %, Die Linke 9,5 %; Wahlbeteiligung 80,1 % — GILT FÜR DIE GEMEINDE ESSEN  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 82,2 % im Bundesland (Ort 80,1 %, Abstand 2,1 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+ZEUGEN (OpenStreetMap, Gemeindegrenze; belegt nur, dass es die Sache gibt):
+  Freizeit: Stollenmundloch "Große Vastbank"
+  Freizeit: Kanone
+  Freizeit: Burg Altendorf
+  Burg/Denkmal: Zeche Vereinigte Charlotte
+  Burg/Denkmal: Ehem. Haus Holtey
+  Aussicht: Kirchstraße
+  Sportstätte: Comenius Mehrzweckhalle (multi)
+  Sportstätte: Sporthalle & Schwimmbad Grundschule Burgaltendorf (multi)
+  Sportstätte: Padelon Essen (padel)
+  Sportstätte: Aktiv Punkt - TVE Burgaltendorf
+  Gewässer: Ruhr
+  Radweg: Ruhrtalradweg (230 km)
+  Radweg: Deutsche Fußball Route NRW (Mitte)
+  Wanderweg: Zugangsweg zum Ruhrhöhenweg (9 km)
+  Wanderweg: Rhein-Ruhr-Emscherweg
+  Wanderweg: [Raute7] Hardenberger Weg (34 km)
+  Wanderweg: Rundweg Burgaltendorf A1
+  Wanderweg: Rundweg Burgaltendorf A2
+  Wanderweg: Rundweg Burgaltendorf A3
+
+PLAN:
+  Karte 1: FACETTE FREIZEIT (Ersatz: ALLTAG), Geschichte, A, wahre Option an Stelle 2
+  Karte 2: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 3
+  Karte 3: FACETTE ALLTAG (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 4
+  Karte 4: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, A, wahre Option an Stelle 1
+  Karte 5: FACETTE INFRA (Ersatz: LAGE), Geschichte, A, wahre Option an Stelle 2
+  Karte 6: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, B, Lüge an Stelle 1
+  Karte 7: FACETTE LAGE, Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung, C, wahre Spanne an Stelle 4
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je ein weiteres Charakteristikum, Facette frei, Familie A, B oder D, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Werden (Ortsteil von Essen)
+  landkreis: Stadtkreis Essen — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P131]
+  flaeche_km2: 4,04  [Wikidata P2046]
+  kfz: E (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P395]
+  hoehe_m: 58 | 60  [Wikidata P2044; Altbestand geo.sqlite (GeoNames 2810961)]
+  naechste_grossstadt: Essen, 8 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,5 %, SPD 22,2 %, AfD 17 %, GRÜNE 12,4 %, Die Linke 9,5 %; Wahlbeteiligung 80,1 % — GILT FÜR DIE GEMEINDE ESSEN  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 82,2 % im Bundesland (Ort 80,1 %, Abstand 2,1 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+FAHRT: Wiehre, Waldsee, Altstadt, Stühlinger, Neuburg, Herdern, Zähringen, Brühl, Oberau, Haslach, Sankt Georgen, Vauban, Weingarten, Betzenhausen, Mooswald, Landwasser, Lehen, Rieselfeld, Dietenbach, Opfingen, Tiengen, Munzingen, Waltershofen, Ebnet, Littenweiler, Kappel, Merzhausen, Au, Horben, Günterstal, Ebringen, Schallstadt, Bad Krozingen, Staufen, Heitersheim, Müllheim, Waldkirch, Hochdorf, Gundelfingen, Denzlingen, Glottertal, March, Umkirch, Gottenheim, Merdingen, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Vogtsburg, Oberrotweil, Achkarren, Burkheim, Bischoffingen, Bickensohl, Oberbergen, Schelingen, Sasbach, Leiselheim, Wyhl, Forchheim, Breisach, Gündlingen, Niederrimsingen, Oberrimsingen, Kirchzarten, Stegen, St. Peter, St. Märgen, Oberried, Buchenbach, Höllental, Hinterzarten, Breitnau, Titisee, Titisee-Neustadt, Feldberg, Schluchsee, Lenzkirch, Eisenbach, Friedenweiler, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Neuwied, Altwied, Rengsdorf, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Bonefeld, Straßenhaus, Oberhonnefeld-Gierend, Willroth, Horhausen, Hümmerich, Krunkel, Breitscheid, Kloster Marienhaus, Wolfenacker, Kupferdreh, Überruhr, Bergerhausen, Rellinghausen, Stadtwald, Fischlaken, Werden, Burgaltendorf, Steele, Byfang, Rüttenscheid, Bredeney, Huttrop, Kettwig, Schuir, Heidhausen, Haarzopf, Margarethenhöhe, Südostviertel, Freisenbruch
+
+FAKTEN (Zielort Burgaltendorf):
+ID: 425-burgaltendorf/001
+ENTITÄT: ort
+BEZEICHNUNG: Burgaltendorf
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  lage_in_region: auf der Ruhrhalbinsel, südlich der Ruhr, südöstlich der Stadt Essen
+  lage_in_ausgedehntem_gruenguertel: true
+---
+ID: 425-burgaltendorf/002
+ENTITÄT: ort
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/burgaltendorf_2/essen_de___inhaltsseite_6.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwähnung: 1166, als villa aldendorpe in Urkunde des Kölner Erzbischofs Rainald von Dassel
+  namensherkunft: Dublettbildung zum Stift-Essener Altendorf; Zusatz „Burg" wurde mit Eingemeindung notwendig
+  grund_zusatz_burg: Ruine der Burganlage war ausschlaggebend für Namensgebung
+  gehoert_zu_essen_seit: 1970-01-01
+  umbenennung_in: Burgaltendorf
+  grund_umbenennung: es gab bereits einen Stadtteil Altendorf
+---
+ID: 425-burgaltendorf/003
+ENTITÄT: ort
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  ordnungsnummer_stadtteil: 48. Stadtteil
+  eingemeindung_datum: 1970-01-01
+  bevölkerung: 9253, genauigkeit: Stand 31.3.2025
+  anteil_unter_18jahren_prozent: 15.2
+  anteil_ab_65jahren_prozent: 29.6
+  auslaenderanteil_prozent: 4.4
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 425-burgaltendorf/004
+ENTITÄT: burg
+BEZEICHNUNG: Burg Altendorf
+FACETTE: LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/burgaltendorf_2/burgaltendorf_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung_fuer_ort: Wahrzeichen des Stadtteils, bildet bis heute das Ortszentrum
+  charakteristikum: Ruine mit markanten Wohnturm
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 425-burgaltendorf/005
+ENTITÄT: burg
+BEZEICHNUNG: Burg Altendorf
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  errichtet_von: Rittern, den Herren von Aldendorpe
+  bauzeit: 1180, genauigkeit: um
+  bauzeit_allgemein: zweite Hälfte 12. Jahrhundert
+  gebaut_wann_konkret: vor 1180 bestanden Höfe im Umkreis
+  bewohnt_bis: ca. 1800
+  letzte_bewohner: zugewanderte Bergmannsfamilie
+  danach_verwendet_als: Steinbruch
+  folge: rascher Verfall zur Ruine
+GUELTIG_AB: 1180
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 425-burgaltendorf/006
+ENTITÄT: wappen
+BEZEICHNUNG: Stadtteilwappen Burgaltendorf
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/burgaltendorf_2/essen_de___inhaltsseite_6.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: drei silberne Pferdepramen im roten Schild
+  herkunft: Wappen der Burgherren von Altendorf
+  bedeutung_pramen: Klemmen aus Metall mit innen liegenden Zacken, verwendet beim Wildpferdefang
+  besonderheit: Herren von Altendorf jagten aber niemals Wildpferde
+  funktion_der_pramen: Nüsternklemmen zur Zähmung
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 425-burgaltendorf/007
+ENTITÄT: wappen
+BEZEICHNUNG: Stadtteilwappen Burgaltendorf
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  blasonierung: In Silber (Weiß) drei aufrechte schwarze Pferdeprammen mit Kordeln im Verhältnis 2:1
+  entworfen_von: Kurt Schweder
+  offizieller_charakter: hatte nie offiziellen Charakter
+  aktualisierung: Ende 1980er Jahre schuf Heraldiker Wappen für alle Essener Stadtteile
+  annahme: von der Essener Bevölkerung inzwischen gut angenommen
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 425-burgaltendorf/008
+ENTITÄT: kirche
+BEZEICHNUNG: Herz-Jesu-Kirche
+FACETTE: LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/burgaltendorf_2/burgaltendorf_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung_fuer_ort: Sehenswürdigkeit
+  bauzeit: 1902
+  stil: neu-romanischer Stil
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 425-burgaltendorf/009
+ENTITÄT: kirche
+BEZEICHNUNG: Herz-Jesu-Kirche
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1898-1900
+  material: Ruhrsandstein
+  stil: romanische Stilelemente
+  baugrund: Mit Bau schied Altendorf aus dem Kirchspiel Niederwenigern aus
+  vorgaenger_kirche: St.-Mauritius-Kirche in Niederwenigern, Filialkirche der Eigenkirche im Reichshof Hattingen aus 10. Jahrhundert
+GUELTIG_AB: 1898
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 425-burgaltendorf/010
+ENTITÄT: kirche
+BEZEICHNUNG: Jesus-lebt-Kirche
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  frueherer_name: evangelische Kirche
+  baubeginn: 1952
+  erstmalige_einweihung: 1953-07-19
+  anlass_neubau: Zahl evangelischer Bürger nahm zu
+  folge: evangelische Gemeinde Niederwenigern wurde unabhängig
+  grund_neubau_nach_1970: Kirchbau wegen Bergschäden aufgegeben
+  neuerbaute_kirche_einweihung: 1988-09-04
+GUELTIG_AB: 1952
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 425-burgaltendorf/011
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Theodor
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/burgaltendorf_2/essen_de___inhaltsseite_6.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: tiefster Schacht aller Zechen an der Ruhr, 1060 Meter
+  schachttiefe_meter: 1060
+  schachttiefe_superlativ: tiefster an der Ruhr
+  betrieb_bis: 1968
+  bedeutung_fuer_ort: letzte heimische Schachtanlage in Altendorf
+GUELTIG_AB: 1867
+GUELTIG_BIS: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 425-burgaltendorf/012
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Altendorf Tiefbau
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  technische_innovation: 1867 erster Presslufthammer im Bergbau
+GUELTIG_AB: 1867
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 425-burgaltendorf/013
+ENTITÄT: bergbau
+FACETTE: GESCHICHTE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/burgaltendorf_2/essen_de___inhaltsseite_6.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_nachweise_kohlennutzung: um 1500 in Burgschmiede
+  kohlegräberei: älter als nachgewiesene Nutzung, Vorläufer des Ruhrbergbaus
+  anlass_intensivierung: Schiffbarmachung der Ruhr Ende 18. Jahrhundert
+  zechen_anzahl: drei große Tiefbauzechen
+  betriebsdauer: bis in die 60er Jahre
+  bahnverkehr_ab: 1874, Güterzüge für Kohlebeförderung
+GUELTIG_AB: 1500
+GUELTIG_BIS: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 425-burgaltendorf/014
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Altendorf (Ruhr)
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnung_kohleverkehr: 1879-01-01, genauigkeit: ca. ein Jahr nach Streckeneröffnung
+  eroeffnung_personenverkehr: 1879-07-01
+  stilllegung_personenverkehr: 1959-05-31
+  streckenzugehörigkeit: Bahnstrecke Mülheim-Heißen–Altendorf (Ruhr), Mittlere Ruhrtalbahn
+GUELTIG_AB: 1879
+GUELTIG_BIS: 1959
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 425-burgaltendorf/015
+ENTITÄT: eisenbahnbruecke
+BEZEICHNUNG: Eisenbahnbrücke Dahlhausen
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  ueberspannt: Ruhr nach Dahlhausen
+  inbetriebnahme: 1879
+  zerstoerung: 1945, von den Deutschen gesprengt
+  wiederinbetriebnahme: 1951-01-01, eingleisig
+  aktueller_zustand: eingleisig ohne Gleise erhalten
+GUELTIG_AB: 1879
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 425-burgaltendorf/016
+ENTITÄT: schwimmbruecke
+BEZEICHNUNG: Eggemannsche Schwimmbrücke
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1898-1901
+  funktion: Verbindung nach Horst oder Dahlhausen
+  gebuehr: fünf Pfennige pro Überquerung
+  volksnamen: Fünf-Pfennigs-Brücke
+GUELTIG_AB: 1898
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 425-burgaltendorf/017
+ENTITÄT: schwimmbruecke
+BEZEICHNUNG: Schwimmbrücke Holtey
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1898-1901
+  funktion: Verbindung für Altendorfer Arbeiter nach Horst oder Dahlhausen
+  gebuehr: fünf Pfennige pro Überquerung
+  volksnamen: Fünf-Pfennigs-Brücke
+GUELTIG_AB: 1898
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 425-burgaltendorf/018
+ENTITÄT: theater
+BEZEICHNUNG: Kleines Theater Burgaltendorf
+FACETTE: LAGE
+QUELLE: https://www.essen.de/dasistessen/stadtteile/burgaltendorf_2/burgaltendorf_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Alte Hauptstraße 68
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 425-burgaltendorf/019
+ENTITÄT: radweg
+BEZEICHNUNG: Ruhrtal Radweg
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/burgaltendorf_2/burgaltendorf_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristikum: beliebter Fernwanderweg
+  verlauf: von der Ruhrquelle in Arnsberg bis zur Mündung in den Rhein bei Duisburg
+  fuehrung_in_burgaltendorf: entlang der Ruhr durch Burgaltendorf
+  laenge_km: 230
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 425-burgaltendorf/020
+ENTITÄT: denkmalpfad
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/burgaltendorf_2/burgaltendorf_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: vier mit Informationstafeln versehene Rundgänge
+  zweck: Erkundung des Stadtteils Burgaltendorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 425-burgaltendorf/021
+ENTITÄT: kulturverein
+BEZEICHNUNG: Sängervereinigung 1866 Essen-Burgaltendorf
+FACETTE: KULTUR
+QUELLE: https://www.essen.de/dasistessen/stadtteile/burgaltendorf_2/burgaltendorf_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegruendet_jahr: 1866
+  vereinslokal: Im Stiefel
+GUELTIG_AB: 1866
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 425-burgaltendorf/022
+ENTITÄT: kulturverein
+BEZEICHNUNG: Quartettverein Frohsinn
+FACETTE: KULTUR
+QUELLE: https://www.essen.de/dasistessen/stadtteile/burgaltendorf_2/burgaltendorf_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vereinslokal: Im Stiefel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 425-burgaltendorf/023
+ENTITÄT: verein
+BEZEICHNUNG: Rassegeflügelzuchtverein Essen-Burgaltendorf
+FACETTE: ALLTAG
+QUELLE: https://www.essen.de/dasistessen/stadtteile/burgaltendorf_2/burgaltendorf_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegruendet_jahr: 1905
+  zweck: Zucht und Arterhaltung verschiedener Geflügelarten
+GUELTIG_AB: 1905
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 425-burgaltendorf/024
+ENTITÄT: sportverein
+BEZEICHNUNG: Turnverein Einigkeit 1901 e.V.
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/burgaltendorf_2/burgaltendorf_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegruendet_jahr: 1901
+  adresse: Holteyer Straße 29
+GUELTIG_AB: 1901
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 425-burgaltendorf/025
+ENTITÄT: sportverein
+BEZEICHNUNG: SV Burgaltendorf 1913 e.V.
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/burgaltendorf_2/burgaltendorf_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegruendet_jahr: 1913
+  adresse: An der Windmühle 24
+GUELTIG_AB: 1913
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 425-burgaltendorf/026
+ENTITÄT: sportverein
+BEZEICHNUNG: TTV DJK Burgaltendorf
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/burgaltendorf_2/burgaltendorf_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Holteyer Straße 25
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 425-burgaltendorf/027
+ENTITÄT: sportverein
+BEZEICHNUNG: Tennisverein Burgaltendorf e.V.
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/burgaltendorf_2/burgaltendorf_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Kirchstraße 69a
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 425-burgaltendorf/028
+ENTITÄT: sportverein
+BEZEICHNUNG: SG1 Burgaltendorf/Kupferdreh e.V.
+FACETTE: FREIZEIT
+QUELLE: https://www.essen.de/dasistessen/stadtteile/burgaltendorf_2/burgaltendorf_kultur_freizeit.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Hemsingskotten 10
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 425-burgaltendorf/029
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Mölleney
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  bedeutung_fuer_ort: Ehrenbürger der selbständigen Gemeinde Altendorf/Ruhr
+  funktion: Arzt am Elisabeth-Hospital in Niederwenigern
+  weitere_funktionen: Leiter Sanitätskolonne, Mitglied Gemeindevertretung, erster Vorsitzender Kirchbauverein
+  kirchenvorstand_eintritt: 1902-12-22
+  todesjahr: 1913
+  todesjahr_konkret: 1913-03-23
+  namensgeber: Mölleneystraße (früher Schulstraße), benannt 1925
+  auszeichnung_grund: zum 75. Geburtstag
+GUELTIG_BIS: 1913
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 425-burgaltendorf/030
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule Burgaltendorf
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: städtische Grundschule
+  adresse: Alte Hauptstraße mit Abzweig Holteyer Straße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 425-burgaltendorf/031
+ENTITÄT: schule
+BEZEICHNUNG: Comenius-Schule
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: städtische Förderschule
+  foerderschwerpunkt: geistige Entwicklung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 425-burgaltendorf/032
+ENTITÄT: feuerwehr
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  gegruendet_jahr: 1894
+  beschreibung: Freiwillige Feuerwehr Burgaltendorf
+GUELTIG_AB: 1894
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 425-burgaltendorf/033
+ENTITÄT: ort
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: hauptsächlich geprägt von Landwirtschaft und lockerer Wohnbebauung in kleineren Ein- und Mehrfamilienhäusern
+  ausnahme: Hochhaus an der Kohlenstraße
+  ortskern: fehlt; Alte Hauptstraße dient in Teilen als Geschäftsstraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 425-burgaltendorf/034
+ENTITÄT: kriegerisches_ereignis
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Erster Weltkrieg
+  verluste: 112 Altendorfer Bewohner gefallen
+GUELTIG_BIS: 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 425-burgaltendorf/035
+ENTITÄT: kriegerisches_ereignis
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Zweiter Weltkrieg
+  verluste: über 230 Altendorfer gefallen oder vermisst
+  besonderheit: große Bombardements trafen eher Essen und Bochum; Zwangsarbeiter in Bergbau und Landwirtschaft eingesetzt
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 425-burgaltendorf/036
+ENTITÄT: fruehere_kirchenzugehoerigkeit
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  kirche_vorher: Westfälische Kirche
+  kirche_nachher: Kirche im Rheinland
+  uebergang_jahr: 1971
+  grund: Stadtteileingemeindung 1970
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 425-burgaltendorf/037
+ENTITÄT: administrativer_status
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  historische_zugehoerigkeit_periode_1: Grafschaft Mark (Anfang 13. Jahrhundert bis 1918)
+  grund_periode_1: feudale Zuordnung
+  historische_zugehoerigkeit_periode_2: Kurfürsten Brandenburg/Könige Preußen (ab 1609 durch Erbgang)
+  amtmann_sitz_periode_2: Blankenstein (Burg)
+  historische_zugehoerigkeit_periode_3: Landkreis Hörde (1753-1806)
+  historische_zugehoerigkeit_periode_4: Kreis Bochum (1815 nach Napoleonischem Zwischenspiel 1806-1813)
+  historische_zugehoerigkeit_periode_5: Kreis Hattingen (ab 1885)
+  historische_zugehoerigkeit_periode_6: Ennepe-Ruhr-Kreis (ab 1929)
+GUELTIG_AB: 1166
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+

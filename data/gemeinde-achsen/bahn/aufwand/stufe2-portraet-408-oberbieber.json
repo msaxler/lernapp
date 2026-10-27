@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2-portraet",
+ "ort": "408-oberbieber",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 15617,
+ "token_ein": 389463,
+ "token_aus": 9957,
+ "usage": {
+  "input_tokens": 24,
+  "cache_creation_input_tokens": 36204,
+  "cache_read_input_tokens": 353235,
+  "output_tokens": 9957,
+  "output_tokens_details": {
+   "thinking_tokens": 4210
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 36204,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 5463,
+    "cache_read_input_tokens": 42495,
+    "cache_creation_input_tokens": 611,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 611
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.8158579999999999,
+ "sekunden": 142,
+ "fehler": false,
+ "zeit": "2026-10-27T10:46:43"
+}

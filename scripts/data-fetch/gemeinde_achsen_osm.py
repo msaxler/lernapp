@@ -55,26 +55,27 @@ def abfrage(q, versuche=4):
     return {'elements': []}
 
 
-def gebiet(name, einheit, lat, lon):
-    """Overpass-Gebietsfilter: die Verwaltungsgrenze, die den Ortsmittelpunkt enthält (Gemeinde admin_level 8, Ortsteil 9/10);
-    nicht nach dem Namen – „Staufen“ traf eine andere Gemeinde als „Staufen im Breisgau“ (2026-10-20). Sonst Umkreis."""
-    stufe = '^(9|10)$' if einheit.startswith('Ortsteil') else '^8$'
+def gebiete(einheit, lat, lon):
+    """Overpass-Gebietsfilter in Reihenfolge: die Verwaltungsgrenze, die den Ortsmittelpunkt enthält, nicht nach dem Namen –
+    „Staufen“ traf eine andere Gemeinde als „Staufen im Breisgau“ (2026-10-20). Gemeinde: admin_level 8. Ortsteil: erst 10,
+    dann 9 – beide zugleich nahm in Essen den ganzen Stadtbezirk (Stufe 9: Schuir bekam Villa Hügel, 2026-10-26). Zuletzt Umkreis."""
+    stufen = ['10', '9'] if einheit.startswith('Ortsteil') else ['8']
     radius = 2000 if einheit.startswith('Ortsteil') else 3000
-    return ('is_in(%s,%s)->.a;\n(area.a["boundary"="administrative"]["admin_level"~"%s"];)->.g;' % (lat, lon, stufe), '(area.g)',
-            '(around:%d,%s,%s)' % (radius, lat, lon))
+    aus = [('is_in(%s,%s)->.a;\n(area.a["boundary"="administrative"]["admin_level"="%s"];)->.g;' % (lat, lon, st), '(area.g)',
+            'Gemeindegrenze') for st in stufen]
+    return aus + [('', '(around:%d,%s,%s)' % (radius, lat, lon), 'Umkreis')]
 
 
 def holen(name, einheit, lat, lon):
-    a, innen, umkreis = gebiet(name, einheit, lat, lon)
-    for filt in (innen, umkreis):
-        q = '[out:json][timeout:180];\n%s\n(' % (a if filt == innen else '')
+    for a, filt, art in gebiete(einheit, lat, lon):
+        q = '[out:json][timeout:180];\n%s\n(' % a
         for _, f in KATEGORIEN:
             for t in ('node', 'way', 'relation'):
                 q += '\n  %s%s["name"]%s;' % (t, f, filt)
         q += '\n  way["waterway"~"^(river|stream)$"]["name"]%s;\n  relation["route"~"^(hiking|bicycle)$"]["name"]%s;\n);\nout tags center;' % (filt, filt)
         d = abfrage(q)
         if d.get('elements'):
-            return d, 'Gemeindegrenze' if filt == innen else 'Umkreis'
+            return d, art
     return {'elements': []}, 'nichts'
 
 

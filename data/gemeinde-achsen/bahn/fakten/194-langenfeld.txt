@@ -1,1971 +1,1833 @@
 ID: 194-langenfeld/001
 ENTITÄT: ort
-BEZEICHNUNG: Langenfeld (Rheinland)
+BEZEICHNUNG: Langenfeld
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  land: Deutschland
+  bundesland: Nordrhein-Westfalen
+  regierungsbezirk: Düsseldorf
+  kreis: Kreis Mettmann
+  stadt_typ: mittlere kreisangehörige Stadt
+  lage_zu_duesseldorf: südöstlich
+  lage_zu_hilden: südlich
+  lage_zu_solingen_leichlingen: westlich
+  lage_zu_leverkusen: nördlich
+  lage_zu_monheim: östlich
+  flussgebiete: östlich des Rheins, ohne direkten Zugang zum Rhein
+  gesamtflaeche_qkm: 42
+  nord_sued_ausdehnung_km: 7
+  ost_west_ausdehnung_km: 6
+  tiefster_punkt_m_ueber_nn: 40
+  tiefste_punkt_ort: Knipprather Wald an Stadtgrenze zu Monheim
+  hoechste_erheebung: Wenzelnberg
+  hoechste_hoehe_m_ueber_nn: 112
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 194-langenfeld/002
+ENTITÄT: ort
+BEZEICHNUNG: Langenfeld
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: Langevelt
+  erste_urkundliche_erwaehnung_jahr: 1396
+  namensherkunft: das lange Feld
+  gemeindefusion_jahr: 1910
+  gemeindefusion_partner_1: Reusrath
+  gemeindefusion_partner_2: Richrath
+  gemeindefusion_datum: 1. April 1910
+  umbenennung_von: Richrath-Reusrath
+  umbenennung_zu: Langenfeld (Rhld.)
+  umbenennung_datum: 11. November 1936
+  stadtrechte_verleihung: 1948
+  kreis_wechsel: Rhein-Wupper-Kreis (seit 1929) zu Kreis Mettmann
+  kreis_wechsel_datum: 1975
+  grund_kreis_wechsel: Gebietsreform in NRW (Köln-Gesetz)
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 194-langenfeld/003
+ENTITÄT: ort
+BEZEICHNUNG: Langenfeld
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
   einwohner: 59821
   einwohner_stand: 31. Dezember 2025
-  status: mittlere kreisangehörige Stadt
-  kreis: Kreis Mettmann
-  regierungsbezirk: Düsseldorf
-  bundesland: Nordrhein-Westfalen
-  lage: südöstlich Düsseldorf, südlich Hilden, westlich Solingen/Leichlingen, nördlich Leverkusen, östlich Monheim am Rhein
-  fläche: 42
-  fläche_einheit: km²
-  nord_süd_ausdehnung: 7
-  nord_süd_ausdehnung_einheit: km
-  ost_west_ausdehnung: 6
-  ost_west_ausdehnung_einheit: km
-  tiefster_punkt: 40
-  tiefster_punkt_einheit: m ü. NN
-  tiefster_punkt_location: Knipprather Wald, Stadtgrenze Monheim am Rhein
-  höchster_punkt: 112
-  höchster_punkt_einheit: m ü. NN
-  höchster_punkt_name: Wenzelnberg
-  höchster_punkt_location: Stadtgrenze Solingen
-  bäche: Viehbach, Blockbach, Galkhauser Bach, Langforter Bach
-  rhein_zugang: nein, östlich des Rheins ohne direkten Zugang
-  superlativ: drittgrößte Stadt des Kreises Mettmann
-  rangfolge_größe: nach Ratingen und Velbert
-  ersterwähnung: Langevelt
-  ersterwähnung_jahr: 1396
-  kartographisch_genannt: Das lange Feldt
-  kartographisch_genannt_quelle: Nicolas Sanson-Karte Paris
-  kartographisch_genannt_jahr: 1673
-  kartographisch_genannt_2: Das lange Feldt
-  kartographisch_genannt_2_quelle: Johann Baptist Homann-Karte
-  kartographisch_genannt_2_jahr: 1730
-  gemeinde_zusammenschluss_partner: Reusrath, Richrath
-  gemeinde_zusammenschluss_datum: 1. April 1910
-  gemeinde_neue_name: Richrath-Reusrath
-  gemeinde_umbenennung: Langenfeld (Rhld.)
-  gemeinde_umbenennung_datum: 11. November 1936
-  stadtrechte_jahr: 1948
-  kreis_zugehörigkeit_alt: Rhein-Wupper-Kreis
-  kreis_zugehörigkeit_alt_ab: 1929
-  kreis_zugehörigkeit_neu: Kreis Mettmann
-  kreis_zugehörigkeit_neu_ab: 1975
-  kreis_wechsel_gesetz: Köln-Gesetz
-  schuldenfreiheit: true
-  schuldenfreiheit_ab: 3. Oktober 2008
-  schuldenfrei_bis: 2013
-  haushaltsloch_2023: 21
-  haushaltsloch_2023_einheit: Mio. Euro
-  ausgleichsrücklagen_2023: 70
-  ausgleichsrücklagen_2023_einheit: Mio. Euro
-  ausgleichsrücklagen_2026_prognose: 8.5
-  ausgleichsrücklagen_2026_prognose_einheit: Mio. Euro
-  wappen_verleihung_datum: 26. Juli 1939
-  wappen_verleihung_institution: Oberpräsident der Rheinprovinz, Koblenz
-  flagge_farben: Grün-Weiß-Grün
-  wappen_elemente: Posthorn (golden, blau, Troddeln), Bergischer Löwe (rot, zweiggeschwänzt, blaugekrönt, -bewehrt, -bezungelt)
-  wappen_symbolik_posthorn: alte Thurn-Taxis-Poststation zwischen Köln und Düsseldorf
-  wappen_symbolik_löwe: frühere Zugehörigkeit Herzogtum Berg
-  siegel_umschrift: STADT LANGENFELD RHLD.
-GUELTIG_AB: 1948
+  rang_groesste_stadt_kreis: 3
+  groesste_stadt_rang_1: Ratingen
+  groesste_stadt_rang_2: Velbert
+  maennlich_einwohner_2015: 28621
+  weiblich_einwohner_2015: 30146
+  einwohner_2015: 58767
+  schuldenstatus: schuldenfrei
+  schuldenfrei_seit: 3. Oktober 2008
+  preis_kommune_jahres: 2007
+  preis_organisation: Oskar-Patzelt-Stiftung
+  haushaltsluecke_2023: 21 Mio. Euro
+  ausgleichsruecklage_2023: 70 Mio. Euro
+  ausgleichsruecklage_2026_prognose: 8.5 Mio. Euro
+GUELTIG_AB: 
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 194-langenfeld/002
-ENTITÄT: kreis
-BEZEICHNUNG: Kreis Mettmann
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  bundesland: Nordrhein-Westfalen
-  regierungsbezirk: Düsseldorf
-  größte_stadt_1: Ratingen
-  größte_stadt_2: Velbert
-  größte_stadt_3: Langenfeld
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/003
-ENTITÄT: gräberfeld
-BEZEICHNUNG: germanisches Gräberfeld Rosendahlsberg/Neuburger Hof
-ORTSTEIL_BEZUG: Reusrath Süd, Grenze Leverkusen
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  kultur: germanisch
-  zeit: erstes nachchristliches Jahrhundert
-  bedeutung: zeigt frühe Besiedlung
-  siedlung_dazugehörig: noch nicht gefunden
-  interpretation: vermutlich besiedlung_seit_früher_zeit
-GUELTIG_AB: 1
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
+VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 194-langenfeld/004
-ENTITÄT: gräberfeld
-BEZEICHNUNG: Gräberfeld Düsseldorfer Straße/An der Landstraße
-ORTSTEIL_BEZUG: Berghausen
+ENTITÄT: fluss_gewasser
+BEZEICHNUNG: Viehbach
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  entdeckungsjahr: 2016
-  entdeckungsmonat: Januar
-  geschätztes_alter: 2500
-  geschätztes_alter_einheit: Jahre
-  geschätztes_alter_genauigkeit: ca.
-  siedlung_dazugehörig: noch nicht gefunden, vermutet in der Nähe
-GUELTIG_AB: -500
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
+  typ: Bach
+  durchfließt: Langenfeld
+  muendung_in: Langforter Bach
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
 ---
 ID: 194-langenfeld/005
-ENTITÄT: fund_archäologisch
-BEZEICHNUNG: Steinabschläge aus Feuerstein
-ORTSTEIL_BEZUG: Rosendahlsberg
+ENTITÄT: fluss_gewasser
+BEZEICHNUNG: Blockbach
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  typ: Klingenklingen
-  material: Feuerstein
-  epoche: Altsteinzeit
-  aufbewahrung: Museum für Ur- und Frühgeschichte Köln
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
+  typ: Bach
+  durchfließt: Langenfeld
+  muendung_in: Langforter Bach
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
 ---
 ID: 194-langenfeld/006
-ENTITÄT: fund_archäologisch
-BEZEICHNUNG: Steinbeile
-ORTSTEIL_BEZUG: Feldhausen
+ENTITÄT: fluss_gewasser
+BEZEICHNUNG: Galkhauser Bach
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  epoche: jüngere Steinzeit
-  bedeutung: zeigt Besiedlung der rechten Rheinterrasse seit frühester Menschheit
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
+  typ: Bach
+  durchfließt: Langenfeld
+  muendung_in: Langforter Bach
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
 ---
 ID: 194-langenfeld/007
-ENTITÄT: fund_archäologisch
-BEZEICHNUNG: römische Weiheglocke
+ENTITÄT: fluss_gewasser
+BEZEICHNUNG: Langforter Bach
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  epoche: Römerzeit
-  besonderheit: nur vier insgesamt aus der Antike bekannt
-  fundort: Rosendahlsberg
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
+  typ: Bach
+  muendung_in: Altrheinarm in Düsseldorf-Urdenbach
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
 ---
 ID: 194-langenfeld/008
-ENTITÄT: fund_archäologisch
-BEZEICHNUNG: Mercurius-Statuette
-ORTSTEIL_BEZUG: Richrath
+ENTITÄT: berg
+BEZEICHNUNG: Wenzelnberg
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  epoche: Römerzeit
-  fundort: Kirschstraße
-  fundjahr: 1976
-  bedeutung: zeigt Handelsbeziehungen und Reiseverkehr über den Rhein ins Römische Reich
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
+  hoehe_m: 112
+  hoehe_referenz: m ü. NN.
+  lage: Stadtgrenze zu Solingen
+  bedeutung_fuer_ort: höchste Erhebung
+  superlativ: höchste Erhebung der Stadt Langenfeld
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
 ---
 ID: 194-langenfeld/009
-ENTITÄT: fund_archäologisch
-BEZEICHNUNG: Knochen einer Bestatteten
-ORTSTEIL_BEZUG: Richrath
+ENTITÄT: gedenkstaette_massaker
+BEZEICHNUNG: Wenzelnbergschlucht
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  fundort: St.-Martinus-Kirche
-  fundjahr: 796
-  datierungsmethode: Radio-Carbon-Methode
-  bedeutung: zeigt Gründung von -rath-Orten Ende achtes Jahrhundert, ca. 200 Jahre früher als bisher angenommen
-  bestätigung: Grabungen in Reusrath an Kirchenwüstung St. Barbara
-GUELTIG_AB: 796
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+  ereignis: Massaker
+  datum: 13. April 1945
+  kontext: Kriegsendphasenverbrechen
+  opfer_anzahl: 71
+  opfer_herkunft: Zuchthaus Lüttringhausen
+  taeter: Gestapo
+  gedenkstelle_errichtet: 1965
+  gedenkstelle_name: Mahnmal Wenzelnberg
+  jährliche_veranstaltung: ja
+GUELTIG_AB: 1945
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
 ---
 ID: 194-langenfeld/010
-ENTITÄT: fund_archäologisch
-BEZEICHNUNG: Genagelte Schädel
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martin
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Richrath
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  fundort: Kölner Straße 50
-  fundjahr: 1964
-  funddatum: 16. April 1964
-  geschätztes_geschlecht: weiblich
-  geschätztes_alter: 20
-  geschätztes_alter_einheit: Jahre
-  beigabe: Kopfbedeckung mit Goldfäden, vermutlich orientalischen Ursprungs
-  bedeutung: Abschreckungsmittel
-  zeitraum_vermutung: Hexenverfolgungen
-  zeitraum_genauigkeit: vermutlich
-  vergleich: Klaus Störtebeker
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.7
+  typ: römisch-katholische Pfarrkirche
+  stil: Romanik
+  turm_bau_zeit: um 1150
+  turm_material: Stein
+  superlativ: ältestes erhaltenes Bauwerk der Stadt Langenfeld
+  bauwerk_charakterisierung: romanischer Turm
+  grabungsfund: Knochenfund eines Bestatteten
+  grabungsfund_datierung: Jahr 796
+  grabungsfund_methode: Radio-Carbon-Methode
+GUELTIG_AB: 1150
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
 ---
 ID: 194-langenfeld/011
-ENTITÄT: fund_archäologisch
-BEZEICHNUNG: Pferdebestattung
-ORTSTEIL_BEZUG: Richrath
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  fundort: Götscher Weg
-  entdeckungsjahrzehnt: 1960er Jahre
-  entdeckungskontext: Ausschachtungsarbeiten für Kanalbaumaßnahme
-  mögliche_zeiträume: Völkerwanderungszeit bis Türkenkrieg 1663/1664
-  dokumentation: nicht dokumentiert, mündliche Überlieferung
-  vermutung: Vorbote eines kriegerischen Ereignisses
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.5
----
-ID: 194-langenfeld/012
-ENTITÄT: mühle
-BEZEICHNUNG: Schwanenmühle
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  superlativ: Langenfelds älteste Mühle
-  urkundliche_erwähnung: 1341
-  nähe_zu_haus_graven: 800
-  nähe_zu_haus_graven_einheit: Meter
-  motte_vorgänger: Motte Schwanenmühle
-GUELTIG_AB: 1341
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/013
-ENTITÄT: burg
-BEZEICHNUNG: Dückeburg
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  vorgänger: Blockbachmotte
-  bauweise: Stein
-  vorläufer_typ: Turmhügelburg
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
----
-ID: 194-langenfeld/014
-ENTITÄT: burg
-BEZEICHNUNG: Haus Graven
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  vorgänger: Motte Schwanenmühle
-  bauweise: Wasser (Wasserburg)
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
----
-ID: 194-langenfeld/015
-ENTITÄT: motte
-BEZEICHNUNG: Blockbachmotte
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  typ: Turmhügelburg
-  nachfolger: Dückeburg
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
----
-ID: 194-langenfeld/016
-ENTITÄT: motte
-BEZEICHNUNG: Motte Schwanenmühle
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  typ: Turmhügelburg
-  nachfolger: Wasserburg Haus Graven
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
----
-ID: 194-langenfeld/017
-ENTITÄT: kirche
-BEZEICHNUNG: St. Martinus
-ORTSTEIL_BEZUG: Richrath
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  konfession: römisch-katholisch
-  bauwerk_teil: romanischer Turm
-  baujahr: 1150
-  baujahr_genauigkeit: ca.
-  superlativ: ältestes erhaltenes Bauwerk der Stadt
-  dauerausstellung: ja, im Kulturellen Forum Freiherr-vom-Stein-Haus
-GUELTIG_AB: 1150
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 194-langenfeld/018
-ENTITÄT: kirche
-BEZEICHNUNG: St. Barbara
-ORTSTEIL_BEZUG: Reusrath
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  konfession: römisch-katholisch
-  status: kirchliches Baudenkmal
-  grabungen: ja
-  grabungsfund_location: Alter Markt
-  grabungsfund: Baumsarg
-  lage_gräberfeld: auf früherem Gräberfeld
-  umbestattung: 2009, Friedhof St. Barbara
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
----
-ID: 194-langenfeld/019
 ENTITÄT: kirche
 BEZEICHNUNG: Martin-Luther-Kirche
+FACETTE: GESCHICHTE
 ORTSTEIL_BEZUG: Reusrath
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
   konfession: evangelisch
   baujahr: 1783
-  superlativ: von überregionaler Bedeutung über lange Zeit
+  bedeutung: überregionale Bedeutung über lange Zeit
+GUELTIG_AB: 1783
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 1
 ---
-ID: 194-langenfeld/020
+ID: 194-langenfeld/012
 ENTITÄT: kirche
-BEZEICHNUNG: St. Josef
-ORTSTEIL_BEZUG: Mitte (Stadtzentrum)
+BEZEICHNUNG: Anstaltskirche (LVR-Klinik-Kirche)
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Galkhausen
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  konfession: römisch-katholisch
-  status: Pfarrkirche
+  location: Gelände der Rheinischen Kliniken
+  konfessionsgruppen: evangelisch und römisch-katholisch
+  gelaute: drei Glocken aus Stahl
+  gelaute_qualitaet: harmonisch und vielgelobt
+GUELTIG_AB: 
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.8
 ---
-ID: 194-langenfeld/021
+ID: 194-langenfeld/013
 ENTITÄT: kirche
 BEZEICHNUNG: Erlöserkirche
-ORTSTEIL_BEZUG: Immigrath, Hardt
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Immigrath
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
   konfession: evangelisch
+  lage: Hardt
+GUELTIG_AB: 
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.9
 ---
-ID: 194-langenfeld/022
+ID: 194-langenfeld/014
 ENTITÄT: kirche
 BEZEICHNUNG: Lukaskirche
+FACETTE: INFRA
 ORTSTEIL_BEZUG: Richrath
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
   konfession: evangelisch
-  adresse_straße: Kaiserstraße
+  adresse: Kaiserstraße
+GUELTIG_AB: 
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.9
 ---
-ID: 194-langenfeld/023
+ID: 194-langenfeld/015
 ENTITÄT: kirche
 BEZEICHNUNG: Johanneskirche
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Langenfeld-Mitte
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
   konfession: evangelisch
-  lokation: CBT-Haus
-  adresse: Eichenfeldstraße
-  status: entwidmet
-  entweidhung_datum: 27. Januar 2017
-GUELTIG_AB: 1800
+  adresse: CBT-Haus, Eichenfeldstraße
+  entwidmet_datum: 27. Januar 2017
+GUELTIG_AB: 
 GUELTIG_BIS: 2017
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 1
 ---
-ID: 194-langenfeld/024
+ID: 194-langenfeld/016
 ENTITÄT: kirche
-BEZEICHNUNG: Christus König
-ORTSTEIL_BEZUG: Mitte (Stadtzentrum)
+BEZEICHNUNG: St. Barbara
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Reusrath
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
   konfession: römisch-katholisch
-  adresse_straße: Friedenstraße
+  adresse: Trompeter Straße
+  geschichte: Kirchenwüstung mit Grabungen
+GUELTIG_AB: 
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.9
 ---
-ID: 194-langenfeld/025
+ID: 194-langenfeld/017
+ENTITÄT: kirche
+BEZEICHNUNG: Christus König
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Langenfeld-Mitte
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+  adresse: Friedenstraße
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/018
 ENTITÄT: kirche
 BEZEICHNUNG: St. Gerhard
+FACETTE: INFRA
 ORTSTEIL_BEZUG: Mehlbruch-Gieslenberg
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
   konfession: römisch-katholisch
-  adresse_straße: Rheindorfer Straße
+  adresse: Rheindorfer Straße
+GUELTIG_AB: 
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.9
 ---
-ID: 194-langenfeld/026
+ID: 194-langenfeld/019
+ENTITÄT: kirche
+BEZEICHNUNG: St. Josef
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Langenfeld-Mitte
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+  kirchentyp: Pfarrkirche
+  adresse: Solinger Straße
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/020
 ENTITÄT: kirche
 BEZEICHNUNG: St. Maria Rosenkranz
+FACETTE: INFRA
 ORTSTEIL_BEZUG: Wiescheid
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
   konfession: römisch-katholisch
-  adresse_straße: Kirchstraße
+  adresse: Kirchstraße
+GUELTIG_AB: 
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.9
 ---
-ID: 194-langenfeld/027
+ID: 194-langenfeld/021
 ENTITÄT: kirche
 BEZEICHNUNG: St. Mariä Himmelfahrt
+FACETTE: INFRA
 ORTSTEIL_BEZUG: Hardt
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
   konfession: römisch-katholisch
+  adresse: Hardt
+GUELTIG_AB: 
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.9
 ---
-ID: 194-langenfeld/028
+ID: 194-langenfeld/022
 ENTITÄT: kirche
 BEZEICHNUNG: St. Paulus
+FACETTE: INFRA
 ORTSTEIL_BEZUG: Berghausen
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
   konfession: römisch-katholisch
-  adresse_straße: Treibstraße
+  adresse: Treibstraße
+GUELTIG_AB: 
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.9
 ---
-ID: 194-langenfeld/029
-ENTITÄT: kirche
-BEZEICHNUNG: Kapelle St.-Martinus-Krankenhaus
+ID: 194-langenfeld/023
+ENTITÄT: kirche_kapelle
+BEZEICHNUNG: Kapelle im St.-Martinus-Krankenhaus
+FACETTE: INFRA
 ORTSTEIL_BEZUG: Richrath
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
   konfession: römisch-katholisch
-  lokation: Krankenhaus
-  adresse_straße: Klosterstraße
+  typ: Krankenhauskapelle
+  adresse: Klosterstraße
+GUELTIG_AB: 
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.9
 ---
-ID: 194-langenfeld/030
-ENTITÄT: kirche
-BEZEICHNUNG: LVR-Klinik-Kirche
-ORTSTEIL_BEZUG: Galkhausen
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  konfession: Simultaneum, evangelisch und römisch-katholisch
-  lokation: Rheinische Landesklinik (LVR)
-  nutzung: gemeinsam evangelische und katholische Christen
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/031
+ID: 194-langenfeld/024
 ENTITÄT: moschee
 BEZEICHNUNG: Eyüp-Sultan-Camii-Moschee
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  verbund: DITIB
-  gemeinschaft: Türkisch-islamische Gemeinde
-  adresse_straße: Industriestraße
+  religionsgemeinschaft: Türkisch-islamische Gemeinde DITIB
+  adresse: Industriestraße
+GUELTIG_AB: 
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/025
+ENTITÄT: stadtwappen
+BEZEICHNUNG: Stadtwappen Langenfeld
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  verleihung_datum: 26. Juli 1939
+  verleihende_behoerde: Oberpräsidenten der Rheinprovinz in Koblenz
+  blasonierung: Unter grünem Schildhaupte, darin ein goldenes Posthorn mit blauer Schnur und blauen Troddeln, in Silber ein zwiegeschwänzter, blaugekrönter, -bewehrter und -bezungter roter Löwe
+  farben: Grün-Weiß-Grün
+  posthorn_bedeutung: Erinnert an alte Thurn- und Taxis-Poststation im langen Feld zwischen Düsseldorf und Köln
+  loewe_bedeutung: Bergischer Löwe, Erinnerung an frühere Zugehörigkeit zum Herzogtum Berg
+GUELTIG_AB: 1939
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 194-langenfeld/026
+ENTITÄT: traditionspaar
+BEZEICHNUNG: Postillon und die Christel von der Post
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  bedeutung: Repräsentiert die Stadt Langenfeld bei feierlichen Anlässen
+  begleitung: Kutschergarde in historischen Postuniformen
+  beschreibung: Traditionspaar der Stadt Langenfeld, würdigt vergangene Postkutschentradition
+  kunstwerk: Bronzeabbildung vor Haupteingang der Stadtgalerie
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/027
+ENTITÄT: historische_poststation
+BEZEICHNUNG: Poststation Langenfeld
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  konzession_erstuebertragung: 8. Juni 1668
+  konzession_behoerde: Düsseldorfer Fuhrunternehmer Johann Maurenbrecher
+  route: zwischen Köln und Düsseldorf
+  dienstart: Postfuhr
+  erste_poststation_einrichtung: 1774
+  erste_station_ort: Berghausen am Probsthof (Alt Langenfeld)
+  erste_station_betrieb_bis: 1788
+  zweite_station_einrichtung: 11. Oktober 1793
+  zweite_station_ort: Berliner Platz
+  postillone_1844: 24
+  pferde_1844: knapp 100
+  betreiber: Thurn und Taxis (kaiserliche Reichspost)
+  letzte_fahrpost: 1905
+  beschreibung: bedeutende Postfuhrunternehmer-Station an europäischer Fernverkehrsstraße
+GUELTIG_AB: 1668
+GUELTIG_BIS: 1905
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 194-langenfeld/028
+ENTITÄT: muehlenkomplex
+BEZEICHNUNG: Schwanenmühle
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  muehleart: Älteste Mühle Langenfelds
+  erste_urkundliche_erwaehnung: 1341
+  superlativ: Langenfelds älteste Mühle
+  bauwerk_vorgaenger: Vorgängerin der Wasserburg Haus Graven
+  lage: etwa 800 Meter von Haus Graven entfernt
+GUELTIG_AB: 1341
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 194-langenfeld/029
+ENTITÄT: burg_wasserburg
+BEZEICHNUNG: Haus Graven
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Wasserburg
+  vorgaenger: Motte Schwanenmühle
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/030
+ENTITÄT: turmhuegelburgmotte
+BEZEICHNUNG: Blockbachmotte
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  nachfolgerbauwerk: Dückeburg
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: 
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 194-langenfeld/031
+ENTITÄT: burg
+BEZEICHNUNG: Dückeburg
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Burg aus Stein
+  vorgaenger: Blockbachmotte
+  beschreibung: Nachfolgerin der Blockbachmotte
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 194-langenfeld/032
-ENTITÄT: mahnmal
-BEZEICHNUNG: Mahnmal Wenzelnberg
+ENTITÄT: turmhuegelburgmotte
+BEZEICHNUNG: Motte Schwanenmühle
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  lage: Wenzelnbergschlucht
-  ereignis: Massaker 13. April 1945
-  opfer: 71 Insassen aus Zuchthaus Lüttringhausen
-  täter: Gestapo-Leute
-  umbestattung_jahr: 1965
-  umbestattung_quelle: Kriegsgräber vor Rathaus Solingen-Ohligs
-  gedenkveranstaltung: jährlich
-GUELTIG_AB: 1965
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+  nachfolgerbauwerk: Wasserburg Haus Graven
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: 
+VERTRAUEN_EXTRAKTION: 0.8
 ---
 ID: 194-langenfeld/033
-ENTITÄT: massaker
-BEZEICHNUNG: Massaker Wenzelnbergschlucht
+ENTITÄT: graeberfeld
+BEZEICHNUNG: Germanisches Gräberfeld Rosendahlsberg
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Reusrath Süd
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  datum: 13. April 1945
-  ort: Wenzelnbergschlucht
-  opfer: 71
-  opfer_quelle: Zuchthaus Lüttringhausen
-  täter: Gestapo-Leute
-  kontext: Kriegsendphasenverbrechen
-  exhumierung: nach Krieg
-  exhumierung_überwachung: amerikanische Besatzungssoldaten
-  exhumierung_leitung: 19-jähriger Funker
-  bestattung_temporär: vor Rathaus Solingen-Ohligs
-  umbestattung_jahr: 1965
-  umbestattung_ort: Mahnmal Wenzelnberg
-GUELTIG_AB: 1945
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
+  zeitraum: erstes nachchristliches Jahrhundert
+  periode: germanisch
+  fundort: Rosendahlsberg / Neuburger Hof
+  grenzlage: Stadtgrenze zu Leverkusen
+  bedeutung: Beleg für frühe Besiedlung
+GUELTIG_AB: 1
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: 
+VERTRAUEN_EXTRAKTION: 1
 ---
 ID: 194-langenfeld/034
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Hans Litterscheid
+ENTITÄT: graeberfeld
+BEZEICHNUNG: Gräberfeld Düsseldorfer Straße Berghausen
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Berghausen
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  geburtsjahr: 1921
-  todesjahr: 2014
-  amt: Bürgermeister
-  amtszeit: 1961–1989
-  partei: CDU
-  status: Ehrenbürger
-GUELTIG_AB: 1961
-GUELTIG_BIS: 1989
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
+  entdeckung: Januar 2016
+  entdeckung_kontext: Bauarbeiten
+  fundort: Düsseldorfer Straße / An der Landstraße
+  geschaetztes_alter_jahre: 2500
+  genauigkeit: ca.
+  zugehoerige_siedlung: in der Nähe vermutet
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: 
+VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 194-langenfeld/035
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Frank Schneider
+ENTITÄT: archaeologischer_fund
+BEZEICHNUNG: Steinabschläge für Klingen aus Feuerstein
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  geburtsjahr: 1963
-  amt: Bürgermeister
-  amtsanfang: 2009
-  amtsende: 2025
-  partei: CDU
-  titel: Politiker
-GUELTIG_AB: 2009
-GUELTIG_BIS: 2025
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
+  periode: Altsteinzeit
+  fundort: Rosendahlsberg
+  verwaehrung_ort: Museum für Ur- und Frühgeschichte in Köln
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: 
+VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 194-langenfeld/036
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Gerold Wenzels
+ENTITÄT: archaeologischer_fund
+BEZEICHNUNG: Steinbeile
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Feldhausen
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  amt: Bürgermeister
-  amtsanfang: 2025
-  partei: B/G/L
-GUELTIG_AB: 2025
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+  periode: jüngere Steinzeit
+  fundort: Langenfeld-Feldhausen
+  bedeutung: Beleg für früheste menschliche Besiedlung der rechten Rheinterrasse
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: 
+VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 194-langenfeld/037
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Karl Aschenbroich
+ENTITÄT: archaeologischer_fund
+BEZEICHNUNG: Römische Weiheglocke
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  amt: Bürgermeister
-  amtszeit: 1946–1953
-  amtstyp: Ehrenamt
+  periode: Römerzeit
+  fundort: Rosendahlsberg
+  seltenheit: nur vier weitere bekannt
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: 
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/038
+ENTITÄT: archaeologischer_fund
+BEZEICHNUNG: Römische Mercurius-Statuette
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Richrath
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  periode: Römerzeit
+  fundort: Kirschstraße in Richrath
+  fundjahr: 1976
+  bedeutung: Beleg für Handelsbeziehungen und Reiseverkehr über den Rhein ins Römische Reich
+GUELTIG_AB: 1976
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: 
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/039
+ENTITÄT: archaeologischer_fund
+BEZEICHNUNG: Genagelte Schädel
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  fundort: Kölner Straße 50
+  funddatum: 16. April 1964
+  damaliges_alter_der_person: ca. 20 Jahre
+  geschlecht: weiblich (vermutet)
+  beifund: mit Goldfäden durchwebte Kopfbedeckung
+  kopfbedeckung_herkunft: vermutlich orientalisch
+  genauigkeit: vermutlich
+  vermutete_zeitraum: Hexenverfolgungen
+  bedeutung: Schädel dienten der Abschreckung (selten)
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: 
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 194-langenfeld/040
+ENTITÄT: pferdebestaettung
+BEZEICHNUNG: Pferdebestattung Götscher Weg
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Richrath
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  dokumentation: nicht dokumentiert
+  fundort: Götscher Weg
+  entdeckung: 1960er Jahre
+  entdeckung_kontext: Ausschachtungsarbeiten für Kanalbaumaßnahme
+  interpretationen: Völkerwanderungszeit bis Tod eines Vorauskommandoführers im Türkenkrieg 1663/1664
+  sagenverbindung: Sage um Weißenstein (Berghausen) oder Sieg des deutschen Kaisers (Rheinmülheim)
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 194-langenfeld/041
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Further Moor
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  flaeche_hektar: 43
+  moortypus: Heidemoor- und Übergangsmoorflächen
+  status: Naturschutzgebiet
+  archaeologische_vermutung: mutmaßlich frühmittelalterliche Burgstätten (Hapelrath - versunkenes Schloss)
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/042
+ENTITÄT: handwerksbetrieb_kotten
+BEZEICHNUNG: Schalenschneiderkotten Wiescheid
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Wiescheid
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  handwerk: Herstellung von Messergriffen
+  standort_heute: Ausstellungshalle im Volksgarten
+  arbeitskräfte: Männer aus Wiescheid
+  arbeit: Lohnarbeit, Holzgriffe für Solinger Schneidwarenindustrie
+  aufbau_neuzeitlich: seit 2008 wieder aufgebaut
+  historische_bedeutung: Beleuchtung der handwerklichen Prägung Langenfelds
+GUELTIG_AB: 2008
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 194-langenfeld/043
+ENTITÄT: gastronomie_historisch
+BEZEICHNUNG: Haus Arndt
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Langenfeld-Mitte
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  ursprung: ehemaliges Bauernhaus
+  lage: Stadtmitte
+  heutige_nutzung: gastronomische Nutzung
+  bedeutung: Zeuge der bäuerlichen Siedlung
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/044
+ENTITÄT: museum
+BEZEICHNUNG: Stadtmuseum Langenfeld
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  sammelgebiet: Stadtgeschichte
+  exponate: ausgewählte Exponate zur Stadtgeschichte
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/045
+ENTITÄT: stadthalle_kulturzentrum
+BEZEICHNUNG: Schauplatz
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: Langenfeld-Mitte
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  veranstaltungstypen: Kabarett, Musikevents
+  betreiber: Schauplatz GmbH
+  raum_nutzung: Stadtbibliothek/Artothek in den Räumlichkeiten
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/046
+ENTITÄT: kulturzentrum
+BEZEICHNUNG: Schaustall
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: Richrath
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  früherer_name: Kulturfabrik
+  veranstaltungstypen: Kabarett, Musikevents
+  betreiber: Schauplatz GmbH
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/047
+ENTITÄT: kino
+BEZEICHNUNG: Rex-Kino
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: Langenfeld-Mitte
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: Schauplatz GmbH
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/048
+ENTITÄT: improvisationstheater
+BEZEICHNUNG: Improvisationstheater Porree
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 2010
+  charakteristikum: Porree als Markenzeichen
+  gruender: Mitglieder des Langenfelder Kulturvereins
+  begleitung: Unterstuetzung durch Schauplatz GmbH
+GUELTIG_AB: 2010
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/049
+ENTITÄT: theatergruppe_kabarett
+BEZEICHNUNG: Die Studiobühne
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Kabarettensemble
+  association: Langenfelder Kulturverein
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/050
+ENTITÄT: theatergruppe_kinder_jugend
+BEZEICHNUNG: Die Blinklichter
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Kinder-/Jugendtheater
+  association: Langenfelder Kulturverein
+  regelmaessige_veranstaltung: Neues Stück Ende November
+  altersspanne: Kinder und Jugendliche zwischen 9 und 18 Jahren
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/051
+ENTITÄT: kunstverein
+BEZEICHNUNG: Kunstverein Langenfeld
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1983
+  mitglieder: freie Kulturszene
+  funktion: Kunstausstellungen, Kulturveranstaltungen
+GUELTIG_AB: 1983
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/052
+ENTITÄT: kuenstlergruppe
+BEZEICHNUNG: Künstlergruppe Falter
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  abkuerzung: IG-KLM
+  mitgliedschaft: freie Kulturszene
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 194-langenfeld/053
+ENTITÄT: kunstwerk_oeffentlicher_raum
+BEZEICHNUNG: Wiescheider Kotten
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: Wiescheid
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  artist: Langenfeld
+  ursprung: Haus des letzten Langenfelder Schalenschneiders Wilhelm Jakobs
+  neuaufstellung: 2007
+  material: moderne Glashülle
+  kunstform: Kunstwerk im öffentlichen Raum
+GUELTIG_AB: 2007
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/054
+ENTITÄT: kunstwerk_oeffentlicher_raum
+BEZEICHNUNG: Schwadlappe
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: Immigrath
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  artist: Franz Leinfelder
+  lage: Stadtteil Immigrath an der B 229
+  neuaufstellung: 2007
+  kunstform: Kunstwerk im öffentlichen Raum
+GUELTIG_AB: 2007
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/055
+ENTITÄT: kunstwerk_oeffentlicher_raum
+BEZEICHNUNG: Großer vertikaler Rhythmus
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  artist: Heinz Mack
+  kunstform: Skulptur
+  aufstellung: 2008
+  hoehe_meter: 16
+  kosten_euro: 600000
+  genauigkeit: ca.
+  anlass: 60. Stadtjubiläum
+  finanzierung: Schenkung zweier wichtiger Langenfelder Unternehmen
+  artist_bekanntheit: international bekannt
+GUELTIG_AB: 2008
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 194-langenfeld/056
+ENTITÄT: kunstwerk_oeffentlicher_raum
+BEZEICHNUNG: Hohlspiegel-Installation
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: Langenfeld-Mitte
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  artist: Adolf Luther
+  lage: am Rathaus
+  kunstform: Installation
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/057
+ENTITÄT: kunstwerk_oeffentlicher_raum
+BEZEICHNUNG: Stadtzeichen
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: Langenfeld-Mitte
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  artist: Otto Herbert Hajek
+  anzahl: zwei Skulpturen
+  lage: in der Fußgängerzone
+  kunstform: Skulptur
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/058
+ENTITÄT: kunstwerk_oeffentlicher_raum
+BEZEICHNUNG: Wandlungen
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: Langenfeld-Mitte
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  artist: Otto Herbert Hajek
+  lage: vor Eingang des Kunstvereins
+  kunstform: Skulptur
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/059
+ENTITÄT: kunstwerk_oeffentlicher_raum
+BEZEICHNUNG: Chaos und Ordnung
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: Langenfeld-Mitte
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  artist: Horst Gläsker
+  material: Edelstahl
+  kunstform: Relief
+  lage: Haupteingang des Kulturzentrums
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/060
+ENTITÄT: verkehrsmittel_historisch
+BEZEICHNUNG: Gleislose Bahn Monheim–Langenfeld
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  betriebszeit_anfang: 31. Mai 1904
+  betriebszeit_ende: 5. November 1908
+  streckenlaenge_km: 4.5
+  endstaende: Monheim, Langenfeld
+GUELTIG_AB: 1904
+GUELTIG_BIS: 1908
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 194-langenfeld/061
+ENTITÄT: verkehrsmittel_historisch
+BEZEICHNUNG: Straßenbahn Rhein-Wupper
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  betriebszeit_anfang: 1911
+  betriebszeit_ende: 1955
+  betreiber: Bahnen des Rhein-Wupper-Kreises
+  streckenverlauf: Opladen - Immigrath - Richrath - Solingen-Ohligs
+  einstellung_grund: Fahrbetrieb zugunsten des Busbetriebs
+GUELTIG_AB: 1911
+GUELTIG_BIS: 1955
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 194-langenfeld/062
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Bahnstrecke Köln–Duisburg
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  haltestellen: Langenfeld (Rhld), Langenfeld-Berghausen
+  linien: S 6 (Köln-Nippes – Köln Hbf – Langenfeld – Düsseldorf – Ratingen Ost – Essen), S 68 (Richtung Wuppertal)
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/063
+ENTITÄT: buergermeister
+BEZEICHNUNG: Karl Aschenbroich
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  amt_von: 1946
+  amt_bis: 1953
   partei: CDU
   todesjahr: 1953
 GUELTIG_AB: 1946
 GUELTIG_BIS: 1953
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 1
 ---
-ID: 194-langenfeld/038
-ENTITÄT: persönlichkeit
+ID: 194-langenfeld/064
+ENTITÄT: buergermeister
 BEZEICHNUNG: Anton Schmitz
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  amt: Bürgermeister
-  amtszeit: 1953–1961
+  amt_von: 1953
+  amt_bis: 1961
   partei: CDU
 GUELTIG_AB: 1953
 GUELTIG_BIS: 1961
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 1
 ---
-ID: 194-langenfeld/039
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Friedhelm Görgens
+ID: 194-langenfeld/065
+ENTITÄT: buergermeister
+BEZEICHNUNG: Hans Litterscheid
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  amt: Bürgermeister
-  amtszeit: 1989–1994
+  amt_von: 1961
+  amt_bis: 1989
+  partei: CDU
+  todesjahr: 2014
+  geburts_und_todesjahr: 1921–2014
+  ehrentitel: Ehrenbürger der Stadt Langenfeld
+GUELTIG_AB: 1961
+GUELTIG_BIS: 1989
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 194-langenfeld/066
+ENTITÄT: buergermeister
+BEZEICHNUNG: Friedhelm Görgens
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  amt_von: 1989
+  amt_bis: 1994
   partei: CDU
   todesjahr: 2013
 GUELTIG_AB: 1989
 GUELTIG_BIS: 1994
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 1
 ---
-ID: 194-langenfeld/040
-ENTITÄT: persönlichkeit
+ID: 194-langenfeld/067
+ENTITÄT: buergermeister
 BEZEICHNUNG: Magnus Staehler
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  amt: Bürgermeister
-  amtszeit: 1994–2009
+  amt_von: 1994
+  amt_bis: 2009
   partei: CDU
-  besonderheit: ab 1996 erster hauptamtlicher Bürgermeister
+  hauptamtlich_ab: 1996
+  besonderheit: erster hauptamtlicher Bürgermeister
 GUELTIG_AB: 1994
 GUELTIG_BIS: 2009
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 1
 ---
-ID: 194-langenfeld/041
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Peter Dietzer
+ID: 194-langenfeld/068
+ENTITÄT: buergermeister
+BEZEICHNUNG: Frank Schneider
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  amt: Stadtdirektor
-  amtszeit: 1946–1956
-  besonderheit: hauptamtlicher Leiter der Stadtverwaltung vor 1996
+  amt_von: 2009
+  amt_bis: 2025
+  partei: CDU
+  geburtsyahr: 1963
+GUELTIG_AB: 2009
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 194-langenfeld/069
+ENTITÄT: buergermeister
+BEZEICHNUNG: Gerold Wenzens
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  amt_von: 2025
+  partei: B/G/L
+GUELTIG_AB: 2025
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 194-langenfeld/070
+ENTITÄT: stadtdirektor
+BEZEICHNUNG: Peter Dietzer
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  amt_von: 1946
+  amt_bis: 1956
+  funktion: hauptamtliche Leiter der Stadtverwaltung
 GUELTIG_AB: 1946
 GUELTIG_BIS: 1956
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 1
 ---
-ID: 194-langenfeld/042
-ENTITÄT: persönlichkeit
+ID: 194-langenfeld/071
+ENTITÄT: stadtdirektor
 BEZEICHNUNG: Hans Koch
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  amt: Stadtdirektor
-  amtszeit: 1956–1968
+  amt_von: 1956
+  amt_bis: 1968
+  funktion: hauptamtliche Leiter der Stadtverwaltung
 GUELTIG_AB: 1956
 GUELTIG_BIS: 1968
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 1
 ---
-ID: 194-langenfeld/043
-ENTITÄT: persönlichkeit
+ID: 194-langenfeld/072
+ENTITÄT: stadtdirektor
 BEZEICHNUNG: Josef Wilken
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  amt: Stadtdirektor
-  amtszeit: 1968–1980
+  amt_von: 1968
+  amt_bis: 1980
+  funktion: hauptamtliche Leiter der Stadtverwaltung
 GUELTIG_AB: 1968
 GUELTIG_BIS: 1980
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 1
 ---
-ID: 194-langenfeld/044
-ENTITÄT: persönlichkeit
+ID: 194-langenfeld/073
+ENTITÄT: stadtdirektor
 BEZEICHNUNG: Siegfried Honert
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  amt: Stadtdirektor
-  amtszeit: 1980–1996
+  amt_von: 1980
+  amt_bis: 1996
+  funktion: hauptamtliche Leiter der Stadtverwaltung
 GUELTIG_AB: 1980
 GUELTIG_BIS: 1996
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/045
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Björn Joppien
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1981
-  sportart: Badminton
-  verein: FC Langenfeld
-  superlativ: siebenmaliger Deutscher Meister im Einzel
-  weitere_erfolge: 115 Einzelmeisterschaften von FC-Langenfeld-Spielern
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 194-langenfeld/046
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Rudolf Mellinghoff
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1954
-  beruf: Rechtswissenschaftler
-  herkunft: Langenfeld
-  amt_1: Richter des Bundesverfassungsgerichts
-  amt_1_zeit: 2001–2011
-  amt_2: Präsident des Bundesfinanzhofes
-  amt_2_zeit: 2011–2020
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 194-langenfeld/047
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Herbert Reul
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1952
-  herkunft: Langenfeld
-  partei: CDU
-  amt: Innenminister Nordrhein-Westfalen
-  titel: Politiker
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 194-langenfeld/048
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Cora Schumacher
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1976
-  herkunft: Langenfeld
-  beziehung: Ehefrau von Rennfahrer Ralf Schumacher
-  beziehung_zeit: 2001–2015
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 194-langenfeld/049
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Mahmoud Dahoud
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1996
-  herkunft_wohnort: Langenfeld
-  herkunft_typ: aufgewachsen in
-  sportart: Fußball
-  status: deutscher Nationalspieler
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 194-langenfeld/050
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Felix Metzmacher
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1877
-  todesjahr: 1914
-  amt: Bürgermeister
-  amtszeit: 1908–1914
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 194-langenfeld/051
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Matthias Aschenbroich
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1981
-  herkunft: Langenfeld
-  sportart: Handball
-  typ: Spieler
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/052
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Tim Bergmeister
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1975
-  herkunft: Langenfeld
-  sportart: Motorsport (Rennfahrer)
-  familienrelation: älterer Bruder von Jörg Bergmeister
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/053
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Jörg Bergmeister
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1976
-  herkunft_wohnort: Langenfeld
-  herkunft_typ: lebt in
-  sportart: Motorsport (Rennfahrer)
-  familienrelation: jüngerer Bruder von Tim Bergmeister
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/054
-ENTITÄT: sportverein
-BEZEICHNUNG: FC Langenfeld
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  sportart: Badminton
-  liga: Regionalliga
-  erfolg_typ_1: mehrmaliger deutscher Mannschaftsmeister
-  erfolg_typ_2: 115 Einzelmeisterschaften von Spielern
-  bekannte_spieler: Björn Joppien
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 194-langenfeld/055
-ENTITÄT: sportverein
-BEZEICHNUNG: SG Langenfeld
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  sportart: Handball
-  herren_liga: Regionalliga Nordrhein
-  damen_liga: Verbandsliga
-  erfolg: zweimaliger Sieger DHB-Amateur-Pokal
-  erfolg_jahre: 2016, 2020
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 194-langenfeld/056
-ENTITÄT: kulturinstitution
-BEZEICHNUNG: Schauplatz
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  typ: Stadthalle
-  ortsteil: Stadtmitte
-  betreiber: Schauplatz GmbH
-  programme: Kabarett, Musikevents
-  weitere_nutzung: Stadtbibliothek/Artothek
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 194-langenfeld/057
-ENTITÄT: kulturinstitution
-BEZEICHNUNG: Schaustall
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  früherer_name: Kulturfabrik
-  typ: Veranstaltungsort
-  ortsteil: Richrath
-  betreiber: Schauplatz GmbH
-  programme: Kabarett, Musikevents
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 194-langenfeld/058
-ENTITÄT: kulturinstitution
-BEZEICHNUNG: Rex-Kino
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  typ: Kino
-  betreiber: Schauplatz GmbH
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/059
-ENTITÄT: kulturinstitution
-BEZEICHNUNG: Kunstverein Langenfeld
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  gründungsjahr: 1983
-  typ: Kunstverein
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/060
-ENTITÄT: kulturinstitution
-BEZEICHNUNG: Volkshochschule Langenfeld
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  typ: Volkshochschule
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/061
-ENTITÄT: kulturinstitution
-BEZEICHNUNG: Jugendmusikschule Langenfeld
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  typ: Musikschule
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/062
-ENTITÄT: kulturinstitution
-BEZEICHNUNG: Kunstschule Langenfeld
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  typ: Kunstschule
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/063
-ENTITÄT: kulturinstitution
-BEZEICHNUNG: Kulturelles Forum Freiherr-vom-Stein-Haus
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  typ: Kulturinstitution
-  sammlungen_typ_1: Stadtarchiv
-  sammlungen_typ_2: Dauerausstellung zur Stadtgeschichte
-  sammlungen_typ_3: wechselnde Kunstausstellungen
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/064
-ENTITÄT: kulturinstitution
-BEZEICHNUNG: Stadthalle Schauplatz
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  andere_nutzung: Stadtbibliothek/Artothek
-  typ: Bibliothek
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/065
-ENTITÄT: improvisationstheater
-BEZEICHNUNG: Improvisationstheater Langenfeld
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  gründungsjahr: 2010
-  besonderheit: junges Ensemble mit Porree als Markenzeichen
-  gründungsherkunft: Langenfelder Kulturverein
-  schularten: auch lokale Schulen beteiligt
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/066
-ENTITÄT: theatergruppe
-BEZEICHNUNG: Die Studiobühne
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  typ: Kabarettensemble
-  zugehörigkeit: Langenfelder Kulturverein
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/067
-ENTITÄT: theatergruppe
-BEZEICHNUNG: Die Blinklichter
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  typ: Kinder-/Jugendtheater
-  zugehörigkeit: Langenfelder Kulturverein
-  besonderheit: spielt neues Stück Ende November
-  altersgruppe: 9–18 Jahre
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/068
-ENTITÄT: schule
-BEZEICHNUNG: Konrad-Adenauer-Gymnasium
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  schultyp: Gymnasium
-  träger: städtisch
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/069
-ENTITÄT: schule
-BEZEICHNUNG: Bettine-von-Arnim-Gesamtschule
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  schultyp: Gesamtschule
-  träger: Zweckverband Hilden-Langenfeld
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/070
-ENTITÄT: schule
-BEZEICHNUNG: Prismaschule
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  schultyp: Gesamtschule
-  besonderheit: 2. Gesamtschule
-  betriebsbeginn: Schuljahr 2013/2014
-  träger: städtisch
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/071
-ENTITÄT: schule
-BEZEICHNUNG: Kopernikus-Realschule
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  schultyp: Realschule
-  träger: städtisch
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/072
-ENTITÄT: schule_geschlossen
-BEZEICHNUNG: Felix-Metzmacher-Schule
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  schultyp: Hauptschule
-  träger: städtisch
-  betriebsende: Ende Schuljahr 2017/2018
-GUELTIG_BIS: 2018
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/073
-ENTITÄT: schule_geschlossen
-BEZEICHNUNG: Johann-Gutenberg-Realschule
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  schultyp: Realschule
-  betriebsende: Ende Schuljahr 2017/2018
-GUELTIG_BIS: 2018
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 1
 ---
 ID: 194-langenfeld/074
-ENTITÄT: schule
-BEZEICHNUNG: Paul-Klee-Schule
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Senlis
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  schultyp: Förderschule
-  förderschwerpunkt: körperliche und motorische Entwicklung
-  träger: Landschaftsverband Rheinland (LVR)
-  standort_alt: Leichlingen
-  umzug_grund: zweimalige Wupper-Hochwassereschäden
-  umzug_jahr: 2024
-  standort_neu: LVR-Klinik Galkhausen
-GUELTIG_AB: 2024
+  land: Frankreich
+  partnerschaft_seit: 3. Mai 1969
+GUELTIG_AB: 1969
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 1
 ---
 ID: 194-langenfeld/075
-ENTITÄT: naturschutzgebiet
-BEZEICHNUNG: Further Moor
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Gostynin
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  fläche: 43
-  fläche_einheit: Hektar
-  charakteristika: Heidemoor- und Übergangsmoorflächen
+  land: Polen
+  partnerschaft_seit: 4. Oktober 1998
+GUELTIG_AB: 1998
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 1
 ---
 ID: 194-langenfeld/076
-ENTITÄT: kunstwerk_skulptur
-BEZEICHNUNG: Großer vertikaler Rhythmus
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Batangas City
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  künstler: Heinz Mack
-  künstler_beschreibung: international bekannt
-  höhe: 16
-  höhe_einheit: Meter
-  kosten: ca. 600000
-  kosten_einheit: Euro
-  aufstellung: 2008
-  anlass_aufstellung: 60. Stadtjubiläum
-  kunstform: Skulptur
-  herkunft: Schenkung zweier wichtiger Langenfelder Unternehmen
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+  land: Philippinen
+  partnerschaft_von: 4. Oktober 1998
+  partnerschaft_bis: 2015
+GUELTIG_AB: 1998
+GUELTIG_BIS: 2015
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1
 ---
 ID: 194-langenfeld/077
-ENTITÄT: kunstwerk_installation
-BEZEICHNUNG: Schwadlappe
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Montale
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  künstler: Franz Leinfelder
-  künstler_herkunft: Langenfeld
-  aufstellung: 2007
-  ort: Stadtteil Immigrath, B 229
+  land: Italien
+  partnerschaft_seit: 3. Oktober 2013
+GUELTIG_AB: 2013
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 1
 ---
 ID: 194-langenfeld/078
-ENTITÄT: kunstwerk
-BEZEICHNUNG: Wiescheider Kotten
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Ennis
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  beschreibung: Haus des letzten Schalenschneiders Wilhelm Jakobs
-  hülle: große, moderne Hülle aus Glas
-  aufstellung: 2007
-  kontext: Kunst im öffentlichen Raum
+  land: Irland
+  partnerschaft_seit: 3. Oktober 2013
+GUELTIG_AB: 2013
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 194-langenfeld/079
+ENTITÄT: staedtefreundschaft
+BEZEICHNUNG: Köthen
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  land: Deutschland
+  region: Sachsen-Anhalt
+  freundschaft_seit: 3. Oktober 1990
+GUELTIG_AB: 1990
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 194-langenfeld/080
+ENTITÄT: staedtefreundschaft
+BEZEICHNUNG: Kirjat Bialik
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  land: Israel
+  freundschaft_seit: 1991
+GUELTIG_AB: 1991
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 194-langenfeld/081
+ENTITÄT: weinpatenschaft
+BEZEICHNUNG: Lorch im Rheingau
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  patenschaft_seit: 1995
+  region: Deutschland
+  lage: Rheingau
+GUELTIG_AB: 1995
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 194-langenfeld/082
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Stadtfest mit Kirmes
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  jahreszeit: April
+  regelmaessigkeit: jährlich
+GUELTIG_AB: 
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
-ID: 194-langenfeld/079
-ENTITÄT: kunstwerk_hohlspiegel
-BEZEICHNUNG: Hohlspiegel-Installation
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  künstler: Adolf Luther
-  ort: Rathaus
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/080
-ENTITÄT: kunstwerk_skulptur
-BEZEICHNUNG: Stadtzeichen
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  künstler: Otto Herbert Hajek
-  anzahl: 2
-  ort: Fußgängerzone
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/081
-ENTITÄT: kunstwerk_skulptur
-BEZEICHNUNG: Wandlungen
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  künstler: Otto Herbert Hajek
-  ort: vor Eingang Kunstverein
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/082
-ENTITÄT: kunstwerk_relief
-BEZEICHNUNG: Chaos und Ordnung
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  künstler: Horst Gläsker
-  material: Edelstahl
-  ort: Haupteingang Kulturzentrum
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
 ID: 194-langenfeld/083
-ENTITÄT: verkehrsmittel_historisch
-BEZEICHNUNG: Gleislose Bahn Monheim–Langenfeld
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Kinderfest im Freizeitpark
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  betriebsdauer: 31. Mai 1904 – 5. November 1908
-  strecke: 4.5
-  strecke_einheit: Kilometer
-GUELTIG_AB: 1904
-GUELTIG_BIS: 1908
-IST_VERMUTLICH_AKTUELL: false
+  jahreszeit: Mai
+  termin: vierter Sonntag im Mai
+  zweck: Völkerverständigung und Integration von Ausländern
+  veranstaltungstypen: Veranstaltungen für und von Kindern, internationale Küche, Präsentation der Jugendarbeit von Sportvereinen
+  regelmaessigkeit: jährlich
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 194-langenfeld/084
-ENTITÄT: straßenbahn
-BEZEICHNUNG: Straßenbahn Opladen–Immigrath–Richrath–Solingen-Ohligs
+ENTITÄT: veranstaltung
+BEZEICHNUNG: ZNS-Sommerfest
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  betriebsdauer: 1911–1955
-  betreiber: Bahnen des Rhein-Wupper-Kreises
-  route_von: Opladen
-  route_über: Immigrath, Richrath
-  route_bis: Solingen-Ohligs
-  betriebsende: 1955
-  betriebsende_grund: Umstellung auf Busverkehr
-  gleisabbau: 1955
-GUELTIG_AB: 1911
-GUELTIG_BIS: 1955
-IST_VERMUTLICH_AKTUELL: false
+  jahreszeit: Juni
+  seit: 1989
+  veranstaltungstypen: Bühnenveranstaltungen, Trödelmarkt, Auto-Präsentationen, verkaufsoffener Sonntag
+  regelmaessigkeit: jährlich
+GUELTIG_AB: 1989
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 194-langenfeld/085
-ENTITÄT: bahnhaltestelle
-BEZEICHNUNG: Langenfeld (Rhld)
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Erdbeerfest
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  bahnstrecke: Köln–Duisburg
-  linien: S 6, S 68
-  ziel_s6_von: Köln-Nippes
-  ziel_s6_übergänge: Köln Hbf
-  ziel_s6_zu: Düsseldorf, Ratingen Ost, Essen
-  ziel_s68: Wuppertal
+  jahreszeit: Juni
+  seit: 1979
+  regelmaessigkeit: jährlich
+GUELTIG_AB: 1979
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 194-langenfeld/086
-ENTITÄT: bahnhaltestelle
-BEZEICHNUNG: Langenfeld-Berghausen
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Schützenfeste
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  bahnstrecke: Köln–Duisburg
-  linien: S 6, S 68
-  tarifsystem_ab_ort: Verkehrsverbund Rhein-Sieg für Fahrten zu Leverkusen und Leichlingen
+  jahreszeit: Juni
+  regelmaessigkeit: jährlich
+  brauchtum: Schützenwesen
+GUELTIG_AB: 
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 194-langenfeld/087
-ENTITÄT: flugplatz
-BEZEICHNUNG: Segelfluggelände Langenfeld-Wiescheid
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Karibik-Nacht
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  flugplatztyp: Segelfluggelände
-  betreiber: LSG Erbslöh Langenfeld
-  veranstaltung_jährlich: Flugplatzfest
+  jahreszeit: Juni
+  seit: 2007
+  regelmaessigkeit: jährlich
+GUELTIG_AB: 2007
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 194-langenfeld/088
 ENTITÄT: veranstaltung
-BEZEICHNUNG: Flugplatzfest Langenfeld-Wiescheid
+BEZEICHNUNG: Langenfeld live
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  termin: erstes Septemberwochenende
-  ort: Langenfeld-Wiescheid
-  organisator: Luftsportgruppe Erbslöh
-  programme: Flugvorführungen, Rundflüge, Oldtimer-Ausstellung, Kunstflüge, Ballonglühen, Feuerwerk, Livemusik
+  jahreszeit: Sommerferien
+  seit: 2010
+  termin: jeden Mittwoch
+  veranstaltungstypen: kostenlose Open-Air-Konzerte
+  ort: Marktplatz
+GUELTIG_AB: 2010
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 194-langenfeld/089
 ENTITÄT: veranstaltung
-BEZEICHNUNG: Stadtfest mit Kirmes
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  termin: April
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/090
-ENTITÄT: veranstaltung
-BEZEICHNUNG: Kinderfest
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  termin: vierter Sonntag im Mai
-  ort: Freizeitpark zur Völkerverständigung und Integration
-  zweck: Integration von Ausländern
-  programme: Veranstaltungen für und von Kindern, internationale Küche, Präsentation Jugendarbeit Sportvereine
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/091
-ENTITÄT: veranstaltung
-BEZEICHNUNG: ZNS-Sommerfest
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  termin: Juni
-  start: 1989
-  programme: Bühnenveranstaltungen, Trödelmarkt, Auto-Präsentationen, verkaufsoffener Sonntag
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/092
-ENTITÄT: veranstaltung
-BEZEICHNUNG: Erdbeerfest
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  termin: Juni
-  start: 1979
-GUELTIG_AB: 1979
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/093
-ENTITÄT: veranstaltung
-BEZEICHNUNG: Karibik-Nacht
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  termin: Juni
-  start: 2007
-GUELTIG_AB: 2007
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/094
-ENTITÄT: veranstaltung
-BEZEICHNUNG: Langenfeld live
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  termin: Sommerferien, jeden Mittwoch
-  start: 2010
-  programm: kostenlose Open-Air-Konzerte
-  ort: Marktplatz
-GUELTIG_AB: 2010
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/095
-ENTITÄT: veranstaltung
 BEZEICHNUNG: Schlemmermeile
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  termin: August
-  besonderheit: jährlich wechselnde Themenjahre angelehnt an Länder
-  programm: landestypische Gerichte
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/096
-ENTITÄT: veranstaltung
-BEZEICHNUNG: Kartoffelfest Berghausen
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  termin: September
-  ort: Berghausen
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/097
-ENTITÄT: veranstaltung
-BEZEICHNUNG: Schoppenfest
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  termin: September
-  start: 1985
-GUELTIG_AB: 1985
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/098
-ENTITÄT: veranstaltung
-BEZEICHNUNG: Kirmes
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  termin: September
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/099
-ENTITÄT: veranstaltung
-BEZEICHNUNG: Kürbisfest Langfort
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  termin: Oktober
-  ort: Langfort
-  organisator: Verein Wir in Langfort e.V.
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/100
-ENTITÄT: veranstaltung
-BEZEICHNUNG: Herbstmarkt Richrath
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  termin: Oktober
-  ort: Richrath
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/101
-ENTITÄT: veranstaltung
-BEZEICHNUNG: Weihnachtsmarkt Langenfeld
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  termin: Dezember
-  ort: Stadtzentrum
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/102
-ENTITÄT: städtepartnerschaft
-BEZEICHNUNG: Senlis
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  land: Frankreich
-  partnerschaftsbeginn: 3. Mai 1969
-GUELTIG_AB: 1969
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 194-langenfeld/103
-ENTITÄT: städtepartnerschaft
-BEZEICHNUNG: Gostynin
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  land: Polen
-  partnerschaftsbeginn: 4. Oktober 1998
-GUELTIG_AB: 1998
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 194-langenfeld/104
-ENTITÄT: städtepartnerschaft
-BEZEICHNUNG: Montale
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  land: Italien
-  partnerschaftsbeginn: 3. Oktober 2013
-GUELTIG_AB: 2013
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 194-langenfeld/105
-ENTITÄT: städtepartnerschaft
-BEZEICHNUNG: Ennis
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  land: Irland
-  partnerschaftsbeginn: 3. Oktober 2013
-GUELTIG_AB: 2013
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 194-langenfeld/106
-ENTITÄT: städtepartnerschaft_beendet
-BEZEICHNUNG: Batangas City
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  land: Philippinen
-  partnerschaftsbeginn: 4. Oktober 1998
-  partnerschaftsende: 2015
-GUELTIG_AB: 1998
-GUELTIG_BIS: 2015
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 194-langenfeld/107
-ENTITÄT: städtefreundschaft
-BEZEICHNUNG: Köthen
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  land: Sachsen-Anhalt
-  bundesland_bundesrepublik: Deutschland
-  freundschaftsbeginn: 3. Oktober 1990
-GUELTIG_AB: 1990
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 194-langenfeld/108
-ENTITÄT: städtefreundschaft
-BEZEICHNUNG: Kirjat Bialik
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  land: Israel
-  freundschaftsbeginn: 1991
-GUELTIG_AB: 1991
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 194-langenfeld/109
-ENTITÄT: weinpatenschaft
-BEZEICHNUNG: Lorch
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  land: Deutschland
-  region: Rheingau
-  patenschaftsbeginn: 1995
-GUELTIG_AB: 1995
+  jahreszeit: August
+  regelmaessigkeit: jährlich
+  thema: wechselnde Themenjahre angelehnt an andere Länder
+  angebot: landestypische Gerichte
+GUELTIG_AB: 
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
-ID: 194-langenfeld/110
-ENTITÄT: unternehmen
-BEZEICHNUNG: Lanxess
+ID: 194-langenfeld/090
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Flugplatzfest
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Wiescheid
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  sitz: Langenfeld
-  sitz_beginn: 2005
-  typ: Chemiekonzern
-GUELTIG_AB: 2005
+  jahreszeit: September
+  termin: erstes Septemberwochenende
+  veranstalter: Luftsportgruppe Erbslöh
+  veranstaltungstypen: Flugvorführungen mit Segel- und Sportflugzeugen, Rundflüge, Ausstellung von Oldtimern, Kunstflüge, Ballonglühen, Feuerwerk, Livemusik
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/091
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Kartoffelfest Berghausen
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Berghausen
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  jahreszeit: September
+  regelmaessigkeit: jährlich
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/092
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Schoppenfest
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  jahreszeit: September
+  seit: 1985
+  regelmaessigkeit: jährlich
+GUELTIG_AB: 1985
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/093
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Kirmes
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  jahreszeit: September
+  regelmaessigkeit: jährlich
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/094
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Kürbisfest Langfort
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Langfort
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  jahreszeit: Oktober
+  veranstalter: Verein "Wir in Langfort e. V."
+  regelmaessigkeit: jährlich
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/095
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Herbstmarkt Richrath
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Richrath
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  jahreszeit: Oktober
+  regelmaessigkeit: jährlich
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/096
+ENTITÄT: veranstaltung_weihnacht
+BEZEICHNUNG: Weihnachtsmarkt
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Langenfeld-Mitte
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  jahreszeit: Dezember
+  ort: Stadtzentrum
+  regelmaessigkeit: jährlich
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/097
+ENTITÄT: sportverein
+BEZEICHNUNG: Langenfeld Longhorns
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  sportart: American Football
+  liga: 2. Bundesliga (GFL 2 Nord)
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/098
+ENTITÄT: sportverein
+BEZEICHNUNG: FC Langenfeld
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Badminton
+  liga: Regionalliga
+  erfolge: mehrmaliger deutscher Mannschaftsmeister
+  spielermeisterschaften: 115 Einzelmeisterschaften von Spielern des Vereins
+  bekannteste_spieler: Björn Joppien
+  joppien_erfolge: siebenmaliger Deutscher Meister im Einzel
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 194-langenfeld/099
+ENTITÄT: sportverein
+BEZEICHNUNG: Richrather Sportverein 08 e. V.
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: Richrath
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Badminton
+  liga: Bezirksklasse
+  typ: Breitensportverein
+  abkuerzung: RSV08
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/100
+ENTITÄT: sportverein
+BEZEICHNUNG: Bogensportgilde Rhein-Wupper e. V.
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Bogensport
+  gruendung: 1971
+  erfolge: Deutsche Meister 2012, Europameister 2012
+GUELTIG_AB: 1971
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/101
+ENTITÄT: sportverein
+BEZEICHNUNG: Cheer Label Langenfeld
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Cheerleading
+  erfolge: mehrfacher NRW-Landes- und Deutscher Meister, Vize-Europameister
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/102
+ENTITÄT: sportverein
+BEZEICHNUNG: SG Langenfeld (Handball)
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Handball
+  herren_liga: Regionalliga Nordrhein
+  damen_liga: Verbandsliga
+  erfolge: DHB-Amateur-Pokal-Sieger 2016 und 2020 (Herren)
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 194-langenfeld/103
+ENTITÄT: sportverein
+BEZEICHNUNG: RSV08 Hockey
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Hockey
+  herren_liga: 1. Verbandsliga
+  aktivitaeten: Jugend- und Elternhockey
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/104
+ENTITÄT: sportverein
+BEZEICHNUNG: SG Langenfeld Devils
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Inline-Skaterhockey
+  liga_u23: 2. Bundesliga Süd
+  liga_jugend: 1. Juniorenliga West
+  liga_frauen: 1. Damenbundesliga
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/105
+ENTITÄT: sportverein
+BEZEICHNUNG: SG Langenfeld (Volleyball)
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Volleyball
+  damen_liga: 3. Liga
+  herren_liga: Verbandsliga
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/106
+ENTITÄT: sporteinrichtung
+BEZEICHNUNG: Segelfluggelände Langenfeld-Wiescheid
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Wiescheid
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Segelflug
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 194-langenfeld/107
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Björn Joppien
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsyahr: 1981
+  herkunft: Langenfeld
+  profession: Badmintonspieler
+  erfolge: siebenmaliger Deutscher Meister im Einzel
+GUELTIG_AB: 1981
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 194-langenfeld/108
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Herbert Reul
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsyahr: 1952
+  herkunft: Langenfeld
+  profession: Politiker
+  partei: CDU
+  amt: Innenminister des Landes Nordrhein-Westfalen
+GUELTIG_AB: 1952
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 194-langenfeld/109
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Frank Schneider
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsyahr: 1963
+  herkunft: Langenfeld
+  profession: Politiker
+  partei: CDU
+  amt: Bürgermeister von Langenfeld (seit 2009, bis 2025)
+GUELTIG_AB: 1963
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 194-langenfeld/110
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Tim Bergmeister
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsyahr: 1975
+  herkunft: Langenfeld
+  profession: Rennfahrer
+  geschwister: Jörg Bergmeister (älterer Bruder)
+GUELTIG_AB: 1975
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 194-langenfeld/111
-ENTITÄT: unternehmen
-BEZEICHNUNG: Deutsche Post (Postverteilzentrum)
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Cora Schumacher
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  sitz: Langenfeld
-  typ: Logistikzentrum
-  branche: Postdienste
+  geburtsyahr: 1976
+  herkunft: Langenfeld
+  profession: ehemals Model und Personalität
+  verbindung: Ehefrau von Rennfahrer Ralf Schumacher (2001–2015)
+GUELTIG_AB: 1976
+GUELTIG_BIS: 
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 194-langenfeld/112
-ENTITÄT: historischer_ort
-BEZEICHNUNG: Postkutschenstation Berghausen
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Mahmoud Dahoud
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  lokation: Probsthof (Alt Langenfeld)
-  betrieb_anfang: 1774
-  betrieb_ende: 1788
-  betreiber: kaiserliche Reichspost (von Thurn und Taxis)
-  grund_schließung: Umzug nach Opladen, dann zurück nach Langenfeld
-GUELTIG_AB: 1774
-GUELTIG_BIS: 1788
-IST_VERMUTLICH_AKTUELL: false
+  geburtsyahr: 1996
+  herkunft: aufgewachsen in Langenfeld
+  profession: Fußballspieler
+  erfolge: deutscher Nationalspieler
+GUELTIG_AB: 1996
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 194-langenfeld/113
-ENTITÄT: historischer_ort
-BEZEICHNUNG: Postkutschenstation Langenfeld
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Jörg Bergmeister
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  lokation: Berliner Platz (gegenüber Haus Wagner)
-  betrieb_anfang: 11. Oktober 1793
-  betrieb_ende: 1905
-  betreiber: kaiserliche Reichspost (von Thurn und Taxis)
-  postillone_dokumentiert_1844: 24
-  pferde_pro_postillion: 4
-  pferde_insgesamt: ca. 100
-  function: Pferdewechselstation
-IST_VERMUTLICH_AKTUELL: false
+  geburtsyahr: 1976
+  profession: Rennfahrer
+  wohnort: lebt in Langenfeld
+  geschwister: Tim Bergmeister (jüngerer Bruder)
+GUELTIG_AB: 1976
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 194-langenfeld/114
-ENTITÄT: historisches_konzession
-BEZEICHNUNG: Postfuhr-Konzession
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Rudolf Mellinghoff
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  konzessionsinhaber: Johann Maurenbrecher (Düsseldorf)
-  konzessionsdatum: 8. Juni 1668
-  route: Köln–Düsseldorf
-  frequenz: regelmäßig
-IST_VERMUTLICH_AKTUELL: false
+  geburtsyahr: 1954
+  herkunft: Langenfeld
+  profession: Rechtswissenschaftler
+  amt_1: Richter des Bundesverfassungsgerichts (2001–2011)
+  amt_2: Präsident des Bundesfinanzhofes (2011–2020)
+GUELTIG_AB: 1954
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 194-langenfeld/115
-ENTITÄT: historisches_bauwerk_denkmal
-BEZEICHNUNG: Schuldenuhr
+ENTITÄT: veranstaltung
+BESCHREIBUNG: Special Olympics World Summer Games 2023
+BEZEICHNUNG: Host Town Programm
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
 QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
 EIGENSCHAFTEN:
-  anbringung: Rathaus
-  anbringungsjahr: 1997
-  inhalte: Schuldenstand Langenfeld, Bundesland NRW, Bund
-  demontage: Ende 2008
-  verbleib: Grevenbroich
-  grund_demontage: Schuldenziel erreicht
+  jahr_bewerbung: 2021
+  jahr_ausrichtung: 2023
+  ereignis_ort: Berlin
+  rolle_langenfeld: Host Town Gastgeberin
+  delegationen: Special Olympics Sri Lanka
+  dauer: viertägiges Programm
+  bedeutung: größtes kommunales Inklusionsprojekt in der Geschichte der Bundesrepublik mit mehr als 200 Host Towns
+GUELTIG_AB: 2023
+GUELTIG_BIS: 2023
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/116
-ENTITÄT: auszeichnung
-BEZEICHNUNG: Kommune des Jahres
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  verleihende_organisation: Oskar-Patzelt-Stiftung
-  wettbewerb: Großer Preis des Mittelstandes
-  verleihungsjahr: 2007
-  grund: Schuldenfreiheit
-GUELTIG_AB: 2007
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/117
-ENTITÄT: straßenbahn_geschichte
-BEZEICHNUNG: Fußgängerzone Langenfeld-Stadtzentrum
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  beschreibung: Teilstück zwischen Friedhofstraße und Marktplatz
-  umbau: Ende 1990er-Jahre
-  vorher: durchgängig befahrbare Straße
-  marktplatz: ursprünglich Parkplatz, dann für PKW-Verkehr gesperrt
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/118
-ENTITÄT: einzelhandelszentrum
-BEZEICHNUNG: Sass am Markt
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  vorgängerbau: Hertie GmbH / früheres Karstadt
-  vorgängerbau_status: insolvent, geschlossen
-  umbau: zu Ladenzentrum
-  fläche_ladengeschosse: 6200
-  fläche_ladengeschosse_einheit: m²
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/119
-ENTITÄT: bauwerk_schalenschneiderkotten
-BEZEICHNUNG: Schalenschneiderkotten
-ORTSTEIL_BEZUG: Wiescheid
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  funktion: Herstellung von Messergriffen
-  arbeiter: Männer aus Wiescheid
-  tätigkeitsart: Lohnarbeit
-  zielmarkt: Solinger Schneidwarenindustrie
-  material_produktion: Holzgriffe
-  ausstellung: Ausstellungshalle im Volksgarten
-  wieder_aufgebaut: 2008
-  künstlerischer_zeuge: Wilhelm Jakobs (letzter Schalenschneider)
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/120
-ENTITÄT: poststation_gedenkstättenpaar
-BEZEICHNUNG: Traditionspaar der Stadt Langenfeld
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  charaktere: Postillion und die Christel von der Post
-  funktion: Repräsentation bei feierlichen Anlässen
-  begleitung: Kutschergarde in historischen Postuniformen
-  bronzeabbildung: vor Haupteingang Stadtgalerie
-  bedeutung: würdigt Postkutschentradition
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/121
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Stefan Berger
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1964
-  herkunft: Langenfeld
-  beruf: Historiker
-  titel: Hochschullehrer
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/122
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Fabienne Deprez
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1992
-  herkunft: Langenfeld
-  sportart: Badminton
-  status: Spielerin
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/123
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Daniel Cartus
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1978
-  herkunft: Langenfeld
-  sportart: Fußball
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/124
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Thomas Hübener
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1982
-  herkunft: Langenfeld
-  sportart: Fußball
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/125
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Richard Mademann
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1968
-  herkunft: Langenfeld
-  sportart: Fußball
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/126
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Dirk Rehbein
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1967
-  herkunft: Langenfeld
-  sportart: Fußball
-  vereine: Bayer 04 Leverkusen, SC Fortuna Köln, FC Hansa Rostock
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/127
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Marcel Fürst
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1993
-  herkunft: Langenfeld
-  sportart: American Football
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/128
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Shelley Thompson
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1984
-  herkunft: Langenfeld
-  sportart: Fußball
-  status: Spielerin
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/129
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Daniel Lindemann
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1985
-  herkunft: Langenfeld
-  beruf: Schauspieler
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/130
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Matthias Ruschke
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1982
-  herkunft: Langenfeld
-  beruf: ehemaliges Kindermodell und Kinderstar
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/131
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Anton Schaaf
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1962
-  todesjahr: 2020
-  herkunft: Langenfeld
-  beruf: Politiker
-  partei: SPD
-  positionen: Bundestagsabgeordneter, Gewerkschafter
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/132
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Richard Blank
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1939
-  todesjahr: 2022
-  herkunft: Langenfeld
-  berufe: Autor, Filmemacher
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/133
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Jenny Böken
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1989
-  todesjahr: 2008
-  herkunft: Langenfeld
-  position: Sanitätsoffizier-Anwärterin
-  organisation: Deutsche Marine
-  schiff: Gorch Fock
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/134
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Jochen Herdieckerhoff
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1963
-  todesjahr: 2006
-  herkunft: Langenfeld
-  berufe: Dramaturg, LGBT-Aktivist
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/135
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Klaus Peter Schick
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1955
-  todesjahr: 2022
-  herkunft: Langenfeld
-  beruf: Diplomat
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/136
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Horst Schroten
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1957
-  herkunft: Langenfeld
-  berufe: Arzt, Infektiologe
-  titel: Hochschullehrer
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/137
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Christian Menzel
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1971
-  herkunft: Langenfeld
-  sportart: Motorsport
-  rennsportserien: Deutsche Tourenwagen-Meisterschaft, Porsche Carrera Cup, Porsche Supercup
-  fahrzeughersteller: BMW, Opel
-  zusatzberuf: Fernsehmoderator Motorsport-Sendungen
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/138
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Otto Heinrich Goebel
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1872
-  todesjahr: 1955
-  geburtsortteil: Reusrath
-  herkunft: Langenfeld
-  beruf: Volkswirt
-  titel: Hochschullehrer
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/139
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Gerd Grupe
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1955
-  herkunft: Langenfeld
-  beruf: Musikethnologe
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/140
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Norbert Hanel
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1958
-  herkunft: Langenfeld
-  beruf: provinzialrömischer Archäologe
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/141
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Jochen Küpper
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1971
-  herkunft: Langenfeld
-  berufe: Physiker, Chemiker
-  titel: Hochschullehrer
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/142
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Edgar Lein
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1959
-  herkunft: Langenfeld
-  beruf: Kunsthistoriker
-  titel: Hochschullehrer
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/143
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Jürgen Kohler
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1953
-  herkunft: Langenfeld
-  beruf: Rechtswissenschaftler
-  titel: Hochschullehrer
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/144
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Rainer Blasius
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1952
-  herkunft: Langenfeld
-  berufe: Diplomat, Historiker, Journalist
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/145
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Heinz Theisen
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1954
-  herkunft: Langenfeld
-  beruf: Politikwissenschaftler
-  titel: Hochschullehrer
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/146
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Willi Bergmeister
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1949
-  todesjahr: 2013
-  herkunft: Langenfeld
-  beruf: Automobilrennfahrer
-  besonderheit: Förderer von Michael Schumacher
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/147
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Rolf D. Gassen
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1942
-  herkunft: Langenfeld
-  beruf: Kommunalpolitiker
-  partei: FDP
-  position: stellvertretender Bürgermeister
-  position_zeit: 1989–2004
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/148
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Viktor Haase
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1969
-  herkunft_wohnort: Langenfeld
-  herkunft_typ: aufgewachsen in
-  beruf: politischer Beamter
-  partei: Bündnis 90/Die Grünen
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/149
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Wolfgang Schmitt
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1959
-  herkunft: Langenfeld
-  beruf: Politiker
-  partei: Grüne
-  position: GTZ-Geschäftsführer
-  position_zeit: 2000–2009
-  position_2: Mitglied Langenfelder Rat
-  position_2_zeit: 1984–1990
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/150
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Michael Schophaus
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1956
-  herkunft_wohnort: Langenfeld
-  herkunft_typ: lebt seit 1999 in
-  berufe: Journalist, Buchautor
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/151
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Heinrich Völkel
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1925
-  todesjahr: 1992
-  herkunft: Langenfeld
-  position: Stadtrat
-  position_dauer: 40 Jahre
-  partei: SPD
-  position_2: stellvertretender Bürgermeister
-  position_2_dauer: langjährig
-  titel: Ehrenringträger, Ehrenbürger
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/152
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Menderes Bağcı
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1984
-  herkunft: Langenfeld
-  berufe: Musiker, Entertainer
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/153
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: LAHS
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  realname: Lars Murach
-  geburtsjahr: 1974
-  berufe: Cartoonist, Karikaturist
-  wohnort: Langenfeld
-  wohnzeit: 1974–2011
-  auszeichnung: Geflügelter Bleistift
-  auszeichnung_wettbewerb: Deutscher Karikaturenpreis
-  auszeichnung_jahr: 2019
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 194-langenfeld/154
-ENTITÄT: persönlichkeit
-BESCHREIBUNG: Radasłaŭ Astroŭski
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1887
-  todesjahr: 1976
-  herkunft: belarussisch
-  beschreibung: NS-Kollaborateur
-  wohnort: Langenfeld
-  wohnzeit_jahr: 1952
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 194-langenfeld/155
-ENTITÄT: persönlichkeit
-BEZEICHNUNG: Sascha Dum
-QUELLE: https://de.wikipedia.org/wiki/Langenfeld_(Rheinland) | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1986
-  herkunft: Langenfeld
-  sportart: Fußball
-  verein: HSV Langenfeld
-  spielzeit: 1993–1996
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 1
