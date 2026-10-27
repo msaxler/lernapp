@@ -1,0 +1,50 @@
+{
+ "stufe": "pruefung-tief",
+ "ort": "444-altstadt-freiburg",
+ "prompt": "prompt-pruefung-v0.2.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 393087,
+ "token_ein": 225469,
+ "token_aus": 22176,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 218565,
+  "cache_read_input_tokens": 6902,
+  "output_tokens": 22176,
+  "output_tokens_details": {
+   "thinking_tokens": 17261
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 218565,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 22176,
+    "cache_read_input_tokens": 6902,
+    "cache_creation_input_tokens": 218565,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 218565
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 2.1934284,
+ "sekunden": 205,
+ "fehler": false,
+ "zeit": "2026-10-27T13:21:40"
+}

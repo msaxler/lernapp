@@ -1,0 +1,33 @@
+== Runde tief: 11 Stadtteile 14:00:40
+Orte: 449-bruehl-freiburg=6 451-haslach-freiburg=6 452-sankt-georgen=6 446-neuburg-freiburg=5 447-herdern=5 450-oberau=4 455-betzenhausen=4 463-munzingen=4 457-landwasser=3 440-waldsee=3 454-weingarten-freiburg=3 (Runde tief)
+== Extraktion neue Quellen (Haiku) 14:00:40
+440-waldsee          extraktion ein  18763  aus   9509   0.07 USD    72 s  claude-haiku-4-5-20251001
+446-neuburg-freiburg extraktion ein  22953  aus  12133   0.09 USD    98 s  claude-haiku-4-5-20251001
+447-herdern          extraktion ein  20029  aus   4437   0.05 USD    37 s  claude-haiku-4-5-20251001
+449-bruehl-freiburg  extraktion ein  21671  aus  11203   0.09 USD    84 s  claude-haiku-4-5-20251001
+450-oberau           extraktion ein  20503  aus   5723   0.06 USD    43 s  claude-haiku-4-5-20251001
+451-haslach-freiburg extraktion ein  21999  aus   5193   0.06 USD    42 s  claude-haiku-4-5-20251001
+452-sankt-georgen    extraktion ein  24369  aus   9485   0.08 USD    78 s  claude-haiku-4-5-20251001
+454-weingarten-freiburg extraktion ein  19731  aus  10527   0.08 USD    67 s  claude-haiku-4-5-20251001
+455-betzenhausen     extraktion ein  20375  aus  13861   0.10 USD   107 s  claude-haiku-4-5-20251001
+457-landwasser       extraktion ein  19112  aus  15277   0.10 USD   104 s  claude-haiku-4-5-20251001
+463-munzingen        extraktion ein  20084  aus  15291   0.10 USD   113 s  claude-haiku-4-5-20251001
+zusammen: 21958 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+== Eingabe v0.9-tief 14:05:46
+ABBRUCH: keine Eingabe für 449-bruehl-freiburg
+Fertig mit Abbruch 14:05:46
+== Runde tief2: Altstadt 14:05:46
+Orte: 444-altstadt-freiburg=10 (Runde tief2)
+== Extraktion neue Quellen (Haiku) 14:05:47
+444-altstadt-freiburg extraktion ein  43425  aus  12786   0.14 USD   105 s  claude-haiku-4-5-20251001
+zusammen: 22000 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+== Eingabe v0.9-tief2 14:07:32
+444-altstadt-freiburg     112792 Zeichen, 21 bisherige Karten, 10 neue geplant
+== Karten v0.9-tief (claude-opus-5-5) 14:07:32
+444-altstadt-freiburg karten     ein  96292  aus  51641   1.75 USD   450 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 14:15:02
+444-altstadt-freiburg pruefung   ein 190087  aus  12409   1.72 USD   107 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 14:16:49
+444-altstadt-freiburg stufe2     ein 365705  aus  13082   1.13 USD   158 s  claude-opus-5-5,claude-haiku-4-5-20251001
+Fertig 14:19:27
+Fertig Kette 14:19:27

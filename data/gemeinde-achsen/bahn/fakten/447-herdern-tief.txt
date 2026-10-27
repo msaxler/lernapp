@@ -1,0 +1,170 @@
+ID: 447-herdern-tief/001
+ENTITÄT: botanischer_garten
+BEZEICHNUNG: Botanischer Garten der Universität Freiburg
+FACETTE: FREIZEIT
+QUELLE: https://visit.freiburg.de/botanischer-garten-freiburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  traeger: Albert-Ludwigs-Universität Freiburg
+  wissenschaftliche_leitung: true
+  adresse: Schänzlestraße 1, 79104
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 447-herdern-tief/002
+ENTITÄT: kirche
+BEZEICHNUNG: St. Urban
+FACETTE: LAGE
+QUELLE: https://visit.freiburg.de/herdermer-kirchplatz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaujahrhundert: 18. Jahrhundert
+  namensgeber: Herdermer Kirchplatz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 447-herdern-tief/003
+ENTITÄT: platz
+BEZEICHNUNG: Herdermer Kirchplatz
+FACETTE: LAGE
+QUELLE: https://visit.freiburg.de/herdermer-kirchplatz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Hauptstraße 39, 79104
+  pflanzung: Linden und Kastanien
+  charakterisierung: Herzstück des Stadtteils Herdern
+  bedeutung_fuer_ort: zentraler Treffpunkt und Marktplatz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 447-herdern-tief/004
+ENTITÄT: fest
+BEZEICHNUNG: Herdermer Hock
+FACETTE: FREIZEIT
+QUELLE: https://visit.freiburg.de/herdermer-kirchplatz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Herdermer Kirchplatz
+  rhythmus: jährlich
+  charakterisierung: legendär
+  bedeutung_fuer_ort: Traditionsfest des Stadtteils
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 447-herdern-tief/005
+ENTITÄT: markt
+BEZEICHNUNG: Herdermer Wochenmarkt
+FACETTE: ALLTAG
+QUELLE: https://visit.freiburg.de/herdermer-kirchplatz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Herdermer Kirchplatz
+  rhythmus: dienstags und freitags, ferner Herdermer Hock jährlich
+  auch_genannt: Bauernmarkt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 447-herdern-tief/006
+ENTITÄT: kulturzentrum
+BEZEICHNUNG: Vorderhaus – Kultur in der FABRIK
+FACETTE: FREIZEIT
+QUELLE: https://visit.freiburg.de/vorderhaus-kultur-in-der-fabrik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Habsburgerstraße 9, 79104
+  programm: Kabarett, Chanson, A Cappella, Comedy, Figurentheater, Lesungen, Gigs für Kids
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 447-herdern-tief/007
+ENTITÄT: brunnen
+BEZEICHNUNG: Lallibrunnen
+FACETTE: LAGE
+QUELLE: https://visit.freiburg.de/lallibrunnen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Ecke Sandstraße und Hebsackstraße
+  ausstattung: Figur der Herdermer Lalli-Zunft
+  bedeutung_fuer_ort: Zeugnis der lokalen Fasnachts- und Zunfttradition
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 447-herdern-tief/008
+ENTITÄT: zunft
+BEZEICHNUNG: Herdermer Lalli-Zunft
+FACETTE: GESCHICHTE
+QUELLE: https://visit.freiburg.de/lallibrunnen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendungsjahr: 1930
+  superlativ: älteste Narrenzunft der Stadt
+  bedeutung_fuer_ort: prägender Bestandteil der lokalen Fasnachtstradition
+GUELTIG_AB: 1930
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 447-herdern-tief/009
+ENTITÄT: platz
+BEZEICHNUNG: Heinrich-Rosenberg-Platz
+FACETTE: LAGE
+QUELLE: https://visit.freiburg.de/heinrich-rosenberg-platz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Heinrich Rosenberg-Platz, 79104
+  beschreibung: verbindet Kunst im öffentlichen Raum mit markanter historischer Schularchitektur
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 447-herdern-tief/010
+ENTITÄT: skulptur
+BEZEICHNUNG: Flora
+FACETTE: LAGE
+QUELLE: https://visit.freiburg.de/heinrich-rosenberg-platz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kuenstler: Richard Engelmann
+  material: Bronze
+  ort: Heinrich-Rosenberg-Platz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 447-herdern-tief/011
+ENTITÄT: gymnasium
+BEZEICHNUNG: Friedrich-Gymnasium
+FACETTE: LAGE
+QUELLE: https://visit.freiburg.de/heinrich-rosenberg-platz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Heinrich-Rosenberg-Platz
+  status: bedeutendes Kulturdenkmal Freiburgs
+  charakterisierung: imposante Fassade
+  bedeutung_fuer_ort: markantes Schulgebäude und Kulturdenkmal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 447-herdern-tief/012
+ENTITÄT: museum
+BEZEICHNUNG: Archäologische Sammlung der Albert-Ludwigs-Universität Freiburg
+FACETTE: FREIZEIT
+QUELLE: https://visit.freiburg.de/archaeologische-sammlung-der-albert-ludwigs-universitaet-freiburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  traeger: Albert-Ludwigs-Universität Freiburg
+  location: Herderbau
+  adresse: Habsburger Straße 114-116, 79104
+  bestand_originale: 3000, genauigkeit: ueber
+  bestand_abguesse: 800, genauigkeit: ca.
+  zeitliche_abdeckung: ca. 2 Jahrtausende v. Chr. bis 5. Jh. n. Chr.
+  schwerpunkt: griechisch-etruskisch-römische Antike
+  funktion: Lehr- und Studiensammlung mit wechselnden Ausstellungen, Führungen und Veranstaltungen
+  highlights: Porträtgalerie klassischer Philosophen und römischer Kaiser, Architekturfragmente aus Baalbek
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 447-herdern-tief/013
+ENTITÄT: wiese
+BEZEICHNUNG: Hebsackwiese
+FACETTE: LAGE
+QUELLE: https://visit.freiburg.de/hebsackwiese | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Eichhalde 40, 79104
+  lage: oberhalb von Freiburg-Herdern
+  superlativ: schönste Aussichtswiesen am Rand der Stadt
+  beliebtheit: liebevoll als Lieblingswiese bekannt
+  funktion: Erholungsort, Spaziergänge, Naturerlebnis, Einstieg in Wanderungen
+  zugang_wanderwege: direkter Zugang zu Wanderwegen am Roßkopf
+  landschaftsbild: prägt das charakteristische Landschaftsbild oberhalb von Herdern
+  bewirtschaftung: wird bis heute als Wiese bewirtschaftet
+  entstehung: jahrzehntelange landwirtschaftliche Nutzung
+  besonderheit: besonders reizvoll bei klarer Sicht und in Abendstunden
+  bedeutung_fuer_ort: Aussichtswiese und Naturerlebnis mit Weitblick über die Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

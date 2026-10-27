@@ -1,0 +1,214 @@
+ENTITÄT: stadion
+BEZEICHNUNG: Europa-Park Stadion
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://visit.freiburg.de/europa-park-stadion-1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Achim-Stocker-Straße 1, 79110
+  heimat_verein: SC Freiburg
+  kapazitaet_zuschauer: 34.700
+  merkmale: moderne Architektur, steile Tribünen, öffentliche Nahverkehr-Anbindung
+  bedeutung_fuer_ort: neue Heimat des SC Freiburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: messe
+BEZEICHNUNG: Messe Freiburg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://visit.freiburg.de/messe-freiburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Neuer Messplatz 1, 79108
+  erfahrung_Jahre: 50
+  funktion: Veranstaltungen, Messen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: veranstaltungshalle
+BEZEICHNUNG: SICK-Arena
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://visit.freiburg.de/messe-freiburg-sick-arena | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Neuer Messplatz 1, 79098
+  betreiber: Messe Freiburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: PEAC Museum
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://visit.freiburg.de/peac-museum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Robert-Bunsen-Straße 5, 79108
+  ausstellungsflaeche_quadratmeter: 1.000
+  ausstellungsraeume: 9
+  schwerpunkt: zeitgenössische Kunst
+  sammlung: Paul Ege Art Collection
+  ergaenzung_sammlung: Minimal und Konzeptkunst, Farbmalerei
+  angebote: kostenlose Überblicksführungen, Workshops, Vorträge, Konzerte
+  bedeutung_fuer_ort: Ort für kulturelle Bildung und Teilhabe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: solaranlage
+BEZEICHNUNG: Energieberg Eichelbuck
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://visit.freiburg.de/eichelbuck | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Eichelbuckstraße 1, 79108
+  standort: Südseite ehemalige Deponie Eichelbuck
+  leistung_MWp: 2,6
+  stromversorgung_haushalte: 1.000
+  co2_einsparung_tonnen_pro_jahr: 2.500
+  superlativ: größte Solaranlage Freiburgs
+  ergaenzung: Pflanzenkohleanlage und Holzschnitzelanlage geplant
+GUELTIG_AB: 2011
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kompetenzzentrum
+BEZEICHNUNG: Solar Info Center Freiburg
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://visit.freiburg.de/solar-info-center-freiburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Emmy-Noether-Straße 2, 79110
+  schwerpunkt: Erneuerbare Energien und Energieeffizienz
+  mietfirmen: 40
+  zertifizierung: LEED 2013 Platin
+  energiekonzept: Geothermie, Photovoltaik, Solarthermie, natürliches Kühlsystem
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kino
+BEZEICHNUNG: Kandelhof Kino
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://visit.freiburg.de/kandelhof-kino | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Kandelstraße 27, 79106
+  typ: Independent-Kino
+  programmmerkmale: Literaturverfilmungen, Kurzfilme, Europäische Filme
+  netzwerk: Europa Cinemas
+  besonderheiten: monatliche Queerfilmnacht, Schwule Filmwoche, Kurzfilme vor Abendvorstellungen
+  superlativ: Schwule Filmwoche - älteste Deutschlands
+  auszeichnung: eines der ersten deutschen Kinos für bestes Programm Europas
+  regelmassige_auszeichnungen: Bund und Land zeichnen das Jahresprogramm aus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: betrieb
+BEZEICHNUNG: Emils Bio-Manufaktur
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://visit.freiburg.de/emils-bio-manufaktur | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Berta-Ottenstein-Straße 17, 79106
+  produkte: Saucen, Dressings, Mayonnaise, Ketchup, Senf
+  materialien: natürliche Zutaten, keine Zusatzstoffe, kein raffinerter Zucker, keine Verdickungsmittel, keine Zitronensäure
+  philosophie: Weniger ist mehr
+  zertifizierungen: Bioland oder Naturland, IFS-zertifizierte Produktionsstätte
+  auszeichnungen: mehrfach ausgezeichnet, PETA-Auszeichnung für vegane Produktlinie
+  herstellungsweise: handwerklich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: escape_room
+BEZEICHNUNG: Cage Quests
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://visit.freiburg.de/cage-quest | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Karlsruher Straße 3, 79108
+  stellung_region: einer der größten Anbieter von Escape Rooms in der Region
+  spielmechaniken: technisch ausgefeilte Spielmechaniken, hochwertiges Design
+  themenwelten: geheimnisvolle Labore, düstere Jahrmärkte, magische Universen, historische Szenarien
+  beispielraeume: SANCTUM, Soul Collector, Enigma 1889
+  zielgruppen: Freundesgruppen, Familien, Firmen, Vereine
+  bedeutung_fuer_ort: etabliertes Freizeitangebot im Freiburger Norden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtbezirk
+BEZEICHNUNG: Brühl-Industriegebiet
+FACETTE: POLITIK
+QUELLE: https://www.freiburg.de/pb/site/Freiburg/get/params_E-369397302/2463694/Stadtbezirksatlas%202025.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  durchschnittsalter_jahre: 31,3
+  durchschnittsalter_rang: Platz 41 von 41 (niedrigster Wert der Stadt)
+  seniorenanteil_prozent: 5,4
+  seniorenanteil_rang: Platz 41 von 41 (niedrigster Wert der Stadt)
+  neubauwohnungen_prozent: 43,8
+  neubauwohnungen_rang: Platz 2 von 41
+  wohndauer_jahre: 4,5
+  wohndauer_rang: Platz 40 von 41
+  wohnflaeche_pro_person_quadratmeter: 27,6
+  wohnflaeche_pro_person_rang: Platz 40 von 41
+  wohnflaeche_pro_wohnung_quadratmeter: 47,4
+  wohnflaeche_pro_wohnung_rang: Platz 40 von 41
+  wohneigentum_prozent: 2,4
+  wohneigentum_rang: Platz 41 von 41 (niedrigster Wert der Stadt)
+  angebotsmietpreis_eur_pro_quadratmeter: 6,1
+  angebotsmietpreis_rang: Platz 41 von 41 (niedrigster Wert der Stadt)
+  bevoelkerungsdichte_pro_hektar: 3,4
+  bevoelkerungsdichte_rang: Platz 41 von 41 (niedrigster Wert der Stadt)
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtbezirk
+BEZEICHNUNG: Brühl-Beurbarung
+FACETTE: POLITIK
+QUELLE: https://www.freiburg.de/pb/site/Freiburg/get/params_E-369397302/2463694/Stadtbezirksatlas%202025.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  altbauwohnungen_prozent: 50,4
+  altbauwohnungen_rang: Platz 1 von 41 (höchster Wert der Stadt)
+  neubauwohnungen_prozent: 1,1
+  neubauwohnungen_rang: Platz 41 von 41 (niedrigster Wert der Stadt)
+  wohnflaeche_pro_person_quadratmeter: 30,9
+  wohnflaeche_pro_person_rang: Platz 39 von 41
+  wohneigentum_prozent: 4,3
+  wohneigentum_rang: Platz 39 von 41
+  betreuungsplatzfuer_schulkinder_index: 85
+  betreuungsplatz_rang: Platz 2 von 39
+  elektro_pkw_prozent: 0,7
+  elektro_pkw_rang: Platz 39 von 41
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtbezirk
+BEZEICHNUNG: Brühl-Güterbahnhof
+FACETTE: POLITIK
+QUELLE: https://www.freiburg.de/pb/site/Freiburg/get/params_E-369397302/2463694/Stadtbezirksatlas%202025.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neubauwohnungen_prozent: 37,0
+  neubauwohnungen_rang: Platz 3 von 41
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

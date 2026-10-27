@@ -123,7 +123,8 @@ def main():
                 karten.append(k)
             anschluss, steckbrief = [], []
             # ein Ort mit Ortsporträt-Karten (v0.9) hat seinen Anschluss und Steckbrief in dessen geprüfter Fassung
-            lauf_ort = max((x['lauf'] for x in vorrat if x['ort'] == slug), default=lauf_anschluss)
+            # (Zusatzkarten einer Vertiefung, Lauf …-tief, haben weder Steckbrief noch Anschluss)
+            lauf_ort = max((x['lauf'] for x in vorrat if x['ort'] == slug and '-tief' not in x['lauf']), default=lauf_anschluss)
             pfad = os.path.join(iter_, 'karten-geprueft', lauf_ort, slug + '.md')
             if os.path.exists(pfad):
                 m = re.search(r'^## ORTS-ANSCHLUSS\s*\n(.*?)(?=^## |\Z)', lies(pfad), flags=re.S | re.M)

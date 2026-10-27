@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2-tief2",
+ "ort": "444-altstadt-freiburg",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 29970,
+ "token_ein": 365705,
+ "token_aus": 13082,
+ "usage": {
+  "input_tokens": 16,
+  "cache_creation_input_tokens": 54384,
+  "cache_read_input_tokens": 311305,
+  "output_tokens": 13082,
+  "output_tokens_details": {
+   "thinking_tokens": 6615
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 54384,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 4833,
+    "cache_read_input_tokens": 57951,
+    "cache_creation_input_tokens": 3335,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 3335
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.128803,
+ "sekunden": 158,
+ "fehler": false,
+ "zeit": "2026-10-27T14:19:27"
+}

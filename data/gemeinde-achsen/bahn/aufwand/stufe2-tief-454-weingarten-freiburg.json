@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2-tief",
+ "ort": "454-weingarten-freiburg",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 11715,
+ "token_ein": 319414,
+ "token_aus": 5877,
+ "usage": {
+  "input_tokens": 22,
+  "cache_creation_input_tokens": 29058,
+  "cache_read_input_tokens": 290334,
+  "output_tokens": 5877,
+  "output_tokens_details": {
+   "thinking_tokens": 2726
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 29058,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 2592,
+    "cache_read_input_tokens": 34517,
+    "cache_creation_input_tokens": 1443,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 1443
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.5797008,
+ "sekunden": 105,
+ "fehler": false,
+ "zeit": "2026-10-27T14:57:20"
+}

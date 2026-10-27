@@ -27,3 +27,8 @@ archive/
 docu/
 backup/
 .last-sync-state.json
+
+# Vertiefung Freiburg (2026-10-27): Rohseiten von visit.freiburg.de (85 MB) und Stadtbezirksatlas-PDF (47 MB) nur lokal;
+# neu holen mit scripts/data-fetch/freiburg_visit_pois.py bzw. aus der Adresse in freiburg_atlas_rangplaetze.py
+data/gemeinde-achsen/freiburg-vertiefung/visit/roh/
+data/gemeinde-achsen/freiburg-vertiefung/atlas/*.pdf

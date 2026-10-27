@@ -1,0 +1,574 @@
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Holbeinpferd
+FACETTE: KULTUR UND FREIZEIT
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://visit.freiburg.de/am-holbeinpferd | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  material: Beton
+  künstler: Werner Gürtner
+  aufgestellt: 1936
+  farbe_original: grau
+  lage_strasse: Ecke Günterstalstraße / Holbeinplatz
+  größe: klein, unscheinbar
+  bedeutung_fuer_ort: lokales Kunstsymbol und Wahrzeichen Freiburgs
+  besonderheit: wird regelmäßig nachts von Unbekannten bemalt; zeigt Fabelwesen, prominente Persönlichkeiten oder saisonale Motive; inoffiziell zur Kulturtradition geworden
+  beschreibung: gelebte Straßenkunst und Symbol für besonderen Humor der Stadt
+GUELTIG_AB: 1936
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Alter Wiehrebahnhof
+FACETTE: GESCHICHTE UND INFRASTRUKTUR
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://visit.freiburg.de/alter-wiehrebahnhof | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1891
+  bauherr: Höllentalbahn
+  material: Backsteingebäude
+  denkmalschutz: true
+  originalfunktion: Station der Höllentalbahn
+  stilllegung: 1934
+  neue_nutzung_ab: kultureller Treffpunkt mit Kommunalem Kino und Café
+  angebote_platz: Bauernmarkt (Mittwoch und Samstag), Bouleplatz, Tischtennisplatten, Wochen- und Flohmärkte
+  bedeutung_fuer_ort: lebendiges Kulturzentrum im Stadtteil, kreativer Treffpunkt für Einheimische und Besucher
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Christuskirche Freiburg
+FACETTE: KULTUR UND FREIZEIT
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://visit.freiburg.de/christuskirche-freiburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  religion: evangelisch
+  bedeutung_fuer_stadt: wichtigste evangelische Kirche in Freiburg
+  musikprogramm: Kirchenmusik spielt große Rolle; Konzerte durch Christuskantorei; regelmäßig Gast-Chöre und Ensembles
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kultureinrichtung
+BEZEICHNUNG: Ensemblehaus Freiburg
+FACETTE: KULTUR UND FREIZEIT
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://visit.freiburg.de/ensemblehaus-freiburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beherbergt: Barockorchester und Ensemble Recherche
+  schwerpunkt: Alte und Neue Musik
+  funktion: optimale Bedingungen für Aufnahmen und Proben
+  architektur: feierlich-ernste Außenfassade; heller und freundlicher Innenraum
+  besichtigung: von außen und innen (bei Veranstaltungen) möglich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Johanneskirche Freiburg
+FACETTE: KULTUR UND GESCHICHTE
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://visit.freiburg.de/johanneskirche-freiburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architekturstil: Gotik
+  bedeutung: beeindruckendes Beispiel für gotische Architektur in Deutschland
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kultureinrichtung
+BEZEICHNUNG: Kommunales Kino Freiburg
+FACETTE: KULTUR UND FREIZEIT
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://visit.freiburg.de/kommunales-kino-freiburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1981
+  funktion: Treffpunkt für Cineasten
+  programmierung: anspruchsvolle Filme abseits des Mainstreams
+  programm_inhalt: Arthouse-Filme, Dokumentationen, Klassiker, Independent-Produktionen, Retrospektiven, Filmreihen, Festivals, Vorträge, Diskussionen
+  fokus: künstlerische und gesellschaftliche Relevanz
+  lage: Alter Wiehrebahnhof
+  größe: intimes Ambiente
+  bedeutung_fuer_stadt: seit über 40 Jahren feste Größe in der Kulturlandschaft
+  besonderheit: Ort der Begegnung und Filmkultur
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kulturverein
+BEZEICHNUNG: kulturaggregat e.V.
+FACETTE: KULTUR UND FREIZEIT
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://visit.freiburg.de/kulturaggregat-ev | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 2014
+  rechtsform: gemeinnütziger, soziokultureller Verein
+  mitglieder: circa 20 Künstler*innen und Kulturschaffende
+  ziel: mehr Kunst, Subkultur und gesellschaftlichen Diskurs in den öffentlichen Raum bringen
+  ideenraum_titel: Freiraum für Kultur für Menschen mit Kreativität
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kunstprojekt
+BEZEICHNUNG: hilda5
+FACETTE: KULTUR UND FREIZEIT
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://visit.freiburg.de/kulturaggregat-ev | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  träger: kulturaggregat e.V.
+  gründung: 2016
+  lage_adresse: Hildastraße 5
+  gebäudeart: altes Jugendstilhaus
+  größe: ca. 500 m²
+  funktion: Plattform, Kunstraum und Labor in einem
+  nutzung: Ausstellungen, Konzerte, Lesungen, Workshops, Performances (inter)nationaler und lokaler Künstler*innen, Street-Art-Projekte
+  ausstattung: geräumige Galerie, kleine Bühne, kulturaggregat-Kinoklub (kleinster Kino der Stadt), Urban Record Store
+  fokus: Kreativschaffende auf unkonventionellen, interdisziplinären Wegen
+GUELTIG_AB: 2016
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: weingut
+BEZEICHNUNG: Staatsweingut Freiburg
+FACETTE: WIRTSCHAFT UND ALLTAG
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://visit.freiburg.de/staatsweingut-freiburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  träger: staatlich
+  größe: 37 Hektar
+  geschichtlicher_ursprung: Karl der Große ließ um das Jahr 800 Rebstöcke anpflanzen
+  tradition: Über ein Dutzend Weinbaubetriebe in Deutschland sind seit langer Zeit in staatlicher Hand
+  rebsorten: Riesling, Chardonnay, Burgunderreben; Spitzenweine aus Lagen Blankenhornsberg und Schlossberg
+  standortvorteil: mildes Klima der Region
+  qualität: hochwertige Erzeugnisse; fruchtig leichte Gutsweine und Spitzenweine
+  angebote: Führungen, Verkostungen
+  architektur: neue Vinothek mit großzügigen Verglasungen, Degustationsbereich
+  architektur_konzept: klare Formen, reduzierte Farbigkeit und Materialität spiegeln klassischen, sortentypischen und qualitativ hochwertigen Ausbau wider
+  bedeutung_fuer_ort: Weingenuss und Tradition im Stadtteil
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: freizeitflaeche
+BEZEICHNUNG: Sternwaldwiese
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://visit.freiburg.de/sternwaldwiese | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: am Rand des Sternwalds
+  typ: großzügige Freizeitwiese
+  aktivitaeten: Entspannen, Picknicken, Spielen, Wandern, Sporteinheiten
+  beliebtheit: zu den beliebtesten Grünflächen im Freiburger Süden
+  charakteristika: weitläufig, viel Platz, naturnahe Erholung, hervorragende Erreichbarkeit aus Innenstadt
+  zielgruppe: Familien, Freunde, Paare
+  ausgangspunkt: idealer Startpunkt für Schwarzwald-Wanderungen
+  besonderheit: Kombination aus großzügiger Freifläche, Waldnähe und ruhiger Atmosphäre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: fluss
+BEZEICHNUNG: Dreisam
+FACETTE: LAGE UND LANDSCHAFT
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://visit.freiburg.de/dreisam | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristika: Natur pur direkt in der Stadt; klares Wasser, üppig grüne Wiesen
+  funktion: Lebensader der Stadt; Erholungs- und Aktivgebiet; Ort für Verschnaufpausen
+  aktivitaeten: Sonnenbad, Erfrischung, Wasserspaß, Radfahren, Spaziergang, Picknick
+  erreichbarkeit: fußläufig vom Stadtzentrum
+  aussicht: Blick auf Schwarzwald
+  bedeutung_fuer_ort: authentische Erfahrung Freiburgs; zentrale Bedeutung für Erholung und Freizeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Fischtreppe Dreisam
+FACETTE: INFRASTRUKTUR
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://visit.freiburg.de/fischtreppe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtet: Sommer 2019
+  lage: unterhalb der Schwabentorbrücke
+  gewässer: Dreisam
+  funktion: ermöglicht Fischen, die Dreisam bis ins Dreisamtal zu durchqueren
+  typ: Riesenrampe
+  anlass: Verbesserung der Durchgängigkeit für Fischaufstieg
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Graffitihaus
+FACETTE: KULTUR UND FREIZEIT
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://visit.freiburg.de/graffitihaus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_adresse: Kirchstraße 17
+  künstler: Tom Brane (Freiburger Künstler)
+  art: beauftragtes Graffito
+  motiv: bunte Fabelwesen auf der Wand
+  besonderheit: Projekt sorgte anfangs für Furore, wurde aber akzeptiert und Kunstwerk darf bleiben
+  bedeutung: akzeptierte Straßenkunst im Stadtbild
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: bad
+BEZEICHNUNG: Lorettobad Freiburg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://visit.freiburg.de/lorettobad-freiburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Historisches Freibad, Familienfreibad
+  gründung: 1841
+  superlativ: ältestes Familienfreibad Deutschlands
+  besonderheit: einzigartiges separates Damenbad (ausschließlich für Frauen); einzigartig in ganz Deutschland
+  einrichtungen: 25-Meter-Becken, Kinderbereich mit Wasserpilz und Matschplatz, weitläufige parkähnliche Liegewiese
+  charakter: grüne Oase mitten in der Stadt
+  kulturveranstaltungen: sommerliche Kulturveranstaltungen; Damenbad wird zu atmosphärischer Bühne für klassische Konzerte
+  bedeutung_fuer_ort: beliebter Sommer-Treffpunkt; echtes Stück Stadtgeschichte
+  erreichbarkeit: zentrale Lage
+GUELTIG_AB: 1841
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Heliotrop
+FACETTE: INFRASTRUKTUR
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://visit.freiburg.de/heliotrop | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: drehbares Solarhaus
+  architekt: Rolf Disch
+  besonderheit: kann sich von Ost nach West mit dem Sonnenstand drehen; verglaste Seite zur Sonne ausrichtbar
+  baukonzept: Plusenergiehaus (erzeugt mehr Energie als es selbst verbraucht)
+  isolierung: stärker isolierte Seite bei Bedarf zur Verschattung
+  besichtigung: von außen zu besichtigen; Führungen nach Voranmeldung möglich
+  bedeutung: Beispiel für Verbindung von Solararchitektur und energieeffizientem Bauen
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Wasserschlössle
+FACETTE: INFRASTRUKTUR UND GESCHICHTE
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://visit.freiburg.de/wasserschloessle | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: oberhalb des Stadtteils Wiehre im Sternwald
+  funktion: Hochbehälter für Trinkwasserversorgung
+  seit: 1895
+  versorgungsgebiet: Freiburger Osten
+  wassertransport: ohne Pumpen, nur durch natürliches Gefälle
+  architektur: Fassade ist Tarnung (nicht echtes Schloss)
+  vorlage_fassade: Freiburger Stadtsiegel aus dem Jahr 1245
+  brunnen: Brunnen vor dem Schloss mit Trinkwasser
+  öffentliches_fest: Wasserschlössle-Fest alle zwei Jahre (öffnet Besichtigungsmöglichkeiten)
+  aussicht: wunderbarer Blick auf Altstadt und Freiburger Münster
+  einzigartigkeit: im Gegensatz zu Schlossberg kann man diesen Blick oft ganz für sich allein genießen
+  stadtidentität: ziert sämtliche Kanaldeckel in der Altstadt sowie Amtskette des Oberbürgermeisters
+  bedeutung_fuer_ort: Wahrzeichen mit Aussichtsfunktion, Teil der Stadtidentität
+GUELTIG_AB: 1895
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: weingut
+BEZEICHNUNG: Weingut und Brennerei Andreas Dilger
+FACETTE: WIRTSCHAFT UND ALLTAG
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://visit.freiburg.de/weingut-dilger | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 2001
+  gründer: Andreas Dilger
+  konzept: Verbindung zwischen ländlichem Weinbau und urbanem Leben; Weingut mitten in der Stadt
+  lage: fußläufig von Historischer Altstadt
+  anbaumethode: ökologischer Weinanbau
+  rebsorten: pilzwiderstandsfähige Sorten (Helios, Monarch u.a.); Johanniter, Souvignier Gris, Muscaris (im Cuvée)
+  besonderheit: bislang wenig bekannte Rebsorten mit einzigartigen Aromen
+  auszeichnung: EcoWinner 2017 für Georges Blanc (2016) als einer der besten deutschen Bioweine
+  verkostungsprofil: Limone, Honigmelone, Nektarine
+  angebote: Weinproben
+  pestizidverzicht: um Pestizidzinsatz zu vermeiden, Anbau pilzwiderstandsfähiger Sorten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: manufaktur
+BEZEICHNUNG: Hakuna Matata Feinkost Manufaktur
+FACETTE: WIRTSCHAFT UND ALLTAG
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://visit.freiburg.de/hakuna-matata-feinkost-manufaktur | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 2013
+  gründer: Michael Hofer und Philip Klingel
+  lage: Günterstalstraße 35
+  produkte: herzhafte und süße Brotaufstriche, Saucen, Salzzitronen, Senf-Spezialitäten
+  zutaten: saisonale und soweit möglich lokale Zutaten
+  zertifizierung: bio-zertifiziert, glutenfrei, vegan
+  produktanzahl: über 60
+  vertrieb: online und vor Ort in der Manufaktur
+  besonderheit: "Revolutionieren die Einmach-Kunst"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: waldgebiet
+BEZEICHNUNG: Sternwald
+FACETTE: LAGE UND LANDSCHAFT
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://visit.freiburg.de/sternwald | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: am südlichen Rand der Wiehre, bewaldete Hänge des Brombergkopfs
+  typ: beliebtes Naherholungsgebiet
+  aktivitaeten: Spaziergänge, Laufrunden, kleine Wanderungen, Bewegung
+  netzwerk: dichtes Netz aus Forstwegen und naturnahen Pfaden
+  ziele: Sternwaldeck (Aussichtsmöglichkeit), Sternwaldwiese, Wasserschlössle
+  charakteristika: Naturerlebnis, beeindruckende Ausblicke auf Stadt
+  namensursprung: ehemalige Ausflugsgasthaus "Zum Sternen" nahe Altem Wiehrebahnhof
+  bedeutung_fuer_ort: wichtiger Naturraum und Rückzugsort, nur wenige Minuten von Freiburger Innenstadt entfernt
+  zielgruppe: Familien, Spaziergänger, Jogger, Naturfreunde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Lorettoberg
+FACETTE: LAGE UND LANDSCHAFT
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://visit.freiburg.de/lorettober | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  höhe: ca. 384 Meter
+  charakter: bewaldeter Höhenrücken, beliebter Hausberg Freiburgs
+  typ: Aussichtspunkt und Naherholungsgebiet
+  aktivitaeten: Aussichtspunkte, Waldwege, Naturerlebnis, kulinarischer Genuss
+  bedeutung_fuer_stadt: zu den schönsten Aussichtspunkten und Naherholungsgebieten Freiburgs
+GUELTIG_AB: 1657
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Lorettokapelle
+FACETTE: GESCHICHTE UND KULTUR
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://visit.freiburg.de/lorettober | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1657
+  funktion: historisches Bauwerk auf dem Lorettoberg
+  anlass: Erinnerung an Schlacht um Freiburg 1644
+  namensherkunft: benannt nach italienischem Wallfahrtsort Loreto
+  besonderheit: dreiteilige Struktur
+  zusatz: Kreuzweg unterhalb der Kapelle führt durch Wiesenlandschaft
+  bedeutung_fuer_ort: Kulturhistorisches Wahrzeichen
+GUELTIG_AB: 1657
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: aussichtsturm
+BEZEICHNUNG: Hildaturm
+FACETTE: LAGE UND LANDSCHAFT
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://visit.freiburg.de/lorettober | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1886
+  lage: auf dem Lorettoberg
+  funktion: Aussichtsturm
+  aussicht: weiter Blick über Freiburg, Rheinebene und Schwarzwaldhöhen (Sommermonaten)
+  blick: einer der schönsten Panoramablicke auf Freiburg
+GUELTIG_AB: 1886
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: dienstleistung
+BEZEICHNUNG: Skytec Gleitschirmzentrum
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://visit.freiburg.de/skytec | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Dreikönigstraße 35
+  aktivität: Gleitschirmflüge
+  angebote: Tandemflüge im Schwarzwald, Fort- und Weiterbildung für Piloten, Flugreisen, Beratung und Verkauf von Flugausrüstung
+  kursprogramm: Trainingsangebote für lizenzierte Gleitschirmpiloten verschiedener Levels
+  personal: qualifizierte Fluglehrkräfte mit langjähriger Erfahrung
+  erreichbarkeit: nahe der Freiburger Innenstadt
+  zielgebiet: Schwarzwald
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Heimatwohnmuseum Freiburg
+FACETTE: KULTUR UND GESCHICHTE
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://visit.freiburg.de/heimatwohnmuseum-freiburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: privates Museum
+  lage: Beethovenstraße 7, Unterwiehre
+  gebäude: denkmalgeschützte Jugendstilvilla
+  baujahr: 1910
+  gründer: Dr. Hermann Hein
+  fokus: Familiengeschichte, Stadtgeschichte, Denkmalpflege
+  exposition: Exponate aus drei Jahrhunderten; authentische Wohnräume, Möbel, Porträte, persönliche Erinnerungsstücke der Familie Hein
+  themen_ausstellung: Wohnkultur durchdrei Epochen; nachhaltiges Bauen um 1910; Cholera-Pandemie und Auswirkungen auf Freiburg; Stadtentwicklung unter OB Otto Winterer; Geschichte bedeutender Kulturdenkmale
+  veranstaltungen: Führungen durch Museumsgründer selbst; regelmäßig Vorträge und kulturelle Veranstaltungen
+  charakter: persönliche Atmosphäre, Verbindung von historischen Fakten mit individuellen Familiengeschichten
+  erreichbarkeit: Unterwiehre (architektonisch reizvoller Stadtteil)
+  bedeutung_fuer_ort: Kultur, Erinnerung und historische Perspektiven abseits bekannter Sehenswürdigkeiten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: kultureinrichtung
+BEZEICHNUNG: wein&werk
+FACETTE: KULTUR UND FREIZEIT
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://visit.freiburg.de/weinwerk | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Talstraße 22, nahe Johanneskirche
+  konzept: kreative Workshops mit Weinbegleitung
+  aktivitaeten: Malen & Wein, Töpfern, Keramik bemalen, Weinproben, Paint Your Partner, Paint Your Bottle
+  zielgruppe: Einzelpersonen, Freundesgruppen, Paare, Unternehmen, Gruppen
+  vorkenntnisse: nicht erforderlich
+  fokus: gemeinsames Gestalten, Genuss, unkompliziertes Miteinander
+  erreichbarkeit: gut vom Stadtzentrum und Hauptbahnhof erreichbar
+  besonderheit: Kombination aus Kreativität, Genuss und Geselligkeit; Möglichkeit, regionale Weine kennenzulernen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: kultureinrichtung
+BEZEICHNUNG: DELPHI_space
+FACETTE: KULTUR UND FREIZEIT
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://visit.freiburg.de/delphi_space | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 2019
+  typ: interdisziplinäre Kunst- und Kulturplattform
+  lage: ehemalige Industrie- oder Werkstatträume
+  aktivitäten: Ausstellungen, Performances, Film, Architektur
+  besonderheit: besondere Akustik und Atmosphäre
+  programm: Ausstellungen, Film- und Architektur-Talks, Tanz- und Performanceformate (Performing Mondays)
+  künstler: regionale, überregionale und internationale Künstler*innen
+  ausrichtung: nicht-kommerziell, interdisziplinär, experimentell
+  fokus: Dialog, Begegnung und experimentelles künstlerisches Arbeiten
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Wiehre
+FACETTE: POLITIK UND DEMOGRAFIE
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://www.freiburg.de/pb/435018.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: einwohnerstärkster Stadtteil in Freiburg
+  charakteristika: vielfältig; räumlich weit gefasst; heterogene Bewohnerschaft
+  quartiere: viele unterschiedliche Quartierstypen
+  gebäudevielfalt: verschiedenste Gebäude, Freiräume, Straßenräume
+  planung_umsetzung: Stadtteilleitlinien (STELL) entwickelt 2017
+  beteiligung_bürger: sehr hohes bürgerliches Engagement; 120 Teilnehmer*innen in Arbeitsgruppen; 35 Sitzungen
+  entwicklungsziele: soziale, gestalterische, verkehrliche und klimatische Wünsche und Ziele
+  umsetzungsfonds: 155.000 Euro (5 Euro je Einwohner*in) für kleinere Maßnahmen und Projekte
+  bürgervereine: Bürgerverein Mittel- und Unterwiehre; Bürgerverein Oberwiehre-Waldsee
+  projekte: Dreisam-Boulevard, Tag der Energie, Infotafeln an Gebäuden, Lastenvelos, Restaurierung Walterspieldenkmal, Photovoltaikanlage
+  planungskonzept: informelles Planungskonzept als wichtiger Baustein für Flächennutzungsplan Freiburg 2040; Berücksichtigung in zukünftigen Bebauungsplanverfahren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Oberwiehre
+FACETTE: POLITIK UND DEMOGRAFIE
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://www.freiburg.de/pb/site/Freiburg/get/params_E-369397302/2463694/Stadtbezirksatlas%202025.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezeichnung_amtlich: Bezirk 421 Oberwiehre
+  altbauwohnungen_anteil: 46,0 %
+  altbauwohnungen_rang: Platz 2 von 41 Stadtbezirken (über dem Durchschnitt Freiburg: 14,3 %)
+  neubauwohnungen_anteil: 1,6 %
+  neubauwohnungen_rang: Platz 39 von 41 Stadtbezirken (deutlich unter Durchschnitt Freiburg: 13,0 %)
+  angebotsmietpreise: 6,5 EUR/m² (Kaltmiete)
+  angebotsmietpreise_rang: Platz 40 von 41 (deutlich unter Durchschnitt Freiburg: 11,0 EUR/m²)
+  nahversorgung_zufriedenheit: 90 (Kommunalbarometerwert 0-100, Freiburg-Umfrage 2024)
+  nahversorgung_rang: Platz 3 von 39
+  nachbarschaft_vernetzung: 70 (Kommunalbarometerwert 0-100)
+  nachbarschaft_vernetzung_rang: Platz 3 von 39
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Mittelwiehre
+FACETTE: POLITIK UND DEMOGRAFIE
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://www.freiburg.de/pb/site/Freiburg/get/params_E-369397302/2463694/Stadtbezirksatlas%202025.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezeichnung_amtlich: Bezirk 422 Mittelwiehre
+  altbauwohnungen_anteil: 45,0 %
+  altbauwohnungen_rang: Platz 3 von 41 Stadtbezirken (über dem Durchschnitt Freiburg: 14,3 %)
+  gestaltung_wohngebiet_zufriedenheit: 76 (Kommunalbarometerwert 0-100, Freiburg-Umfrage 2024)
+  gestaltung_wohngebiet_rang: Platz 2 von 39
+  nahversorgung_zufriedenheit: 95 (Kommunalbarometerwert 0-100)
+  nahversorgung_rang: Platz 2 von 39
+  gaststätten_restaurants_zufriedenheit: 83 (Kommunalbarometerwert 0-100)
+  gaststätten_restaurants_rang: Platz 2 von 39
+  carsharing_nähe_zufriedenheit: 87 (Kommunalbarometerwert 0-100)
+  carsharing_nähe_rang: Platz 3 von 39
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Unterwiehre-Nord
+FACETTE: POLITIK UND DEMOGRAFIE
+ORTSTEIL_BEZUG: Wiehre
+QUELLE: https://www.freiburg.de/pb/site/Freiburg/get/params_E-369397302/2463694/Stadtbezirksatlas%202025.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezeichnung_amtlich: Bezirk 423 Unterwiehre-Nord
+  angebotsmietpreise: 16,9 EUR/m² (Kaltmiete)
+  angebotsmietpreise_rang: Platz 3 von 41 (über dem Durchschnitt Freiburg: 11,0 EUR/m²)
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90

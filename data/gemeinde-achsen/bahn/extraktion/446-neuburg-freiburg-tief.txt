@@ -1,0 +1,357 @@
+ENTITÄT: ort
+BEZEICHNUNG: Neuburg
+FACETTE: LAGE | POLITIK
+QUELLE: https://www.freiburg.de/pb/site/Freiburg/get/params_E-369397302/2463694/Stadtbezirksatlas%202025.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_stadtteil_von: Freiburg im Breisgau
+  bezirksnummer: 120
+  anteil_haushalte_mit_kindern: 9,2%
+  rang_haushalte_mit_kindern: 39 von 41
+  vergleichswert_freiburg: 16,3%
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: tagungszentrum
+BEZEICHNUNG: Caritas-Tagungszentrum
+FACETTE: INFRA | FREIZEIT
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://visit.freiburg.de/caritas-tagungszentrum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Wintererstraße 17-19, 79104
+  lage: am Schlossberg, nahe der Altstadt
+  seminarraeume_anzahl: 15
+  seminarraeume_kapazitaet: 130 Personen
+  zimmer_anzahl: 53
+  ausstattung: barrierefreie Zugänge, moderne Veranstaltungstechnik
+  gastronomie: Restaurant und Bistro mit regionaler Küche
+  besonderheit: Schlossberg-Terrasse mit Panoramablick
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: restaurant
+BEZEICHNUNG: Schlossbergrestaurant Dattler
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://visit.freiburg.de/schlossbergrestaurant-dattler | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Am Schlossberg 1, 79104
+  lage: Freiburger Schlossberg
+  kueche: badische Küche mit mediterranen Einflüssen
+  spezialitaeten: hausgemachte Torten, Schwarzwälder Kirschtorte
+  besonderheit: spektakuläre Aussicht über die Stadt bis zum Kaiserstuhl und den Vogesen
+  ausstattung: weitläufige Terrasse mit Blick über Münster, Kaiserstuhl und Vogesen
+  bedeutung_fuer_ort: zu den bekanntesten Adressen Freiburgs
+  zusatzangebot: regelmäßige Events, eigenes Kochbuch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Stadtgarten
+FACETTE: FREIZEIT | LAGE
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://visit.freiburg.de/stadtgarten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Stadtgarten null, 79098
+  gegruendet: 1888
+  funktionen: Picknickwiese, Yogazentrum, Konzertsaal
+  rosenarten: 250
+  baumbestand: alte schattenspendende Bäume
+  ausstattung: Parkbänke, Teichgewächse
+  zugang_zur_hoehe: Schlossbergbahn
+  bedeutung: grüne Oase, beliebt zum Entspannen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Erpeldenkmal
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://visit.freiburg.de/stadtgarten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  material: Keramik
+  errichtet: 1953
+  lage: inmitten eines Weihers im Stadtgarten, umgeben von großen alten Bäumen
+  bedeutung_fuer_ort: Mahnmal für den Weltfrieden
+  anlass_legend: Der Erpel soll am 27.11.1944 die Freiburger durch sein lautes Geschnatter vor den Bomben der britischen Royal Air Force gewarnt haben
+  folge_anlass: vielen Menschen konnten sich in Luftschutzbunker retten
+  historischer_kontext: britischer Bombenangriff zerstörte Großteil der Altstadt
+  genauigkeit_anlass: vermutlich
+GUELTIG_AB: 1953
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Alter Friedhof
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://visit.freiburg.de/alter-friedhof | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Stadtstraße 8, 79104
+  betriebszeit: 1683-1872
+  kunsthistorischer_zeitraum: Barock bis Neoklassizismus
+  bedeutung: Grabmale erzählen von historischen Ereignissen und Namen bedeutender Familien und Bürger
+  beschreibung: Gang durch Freiburgs Geschichte und Kunstgeschichte
+  baumbestand: alter schattenspendendes Baumbestand
+  bauweise: von hoher Friedhofsmauer umgeben
+  besonderheit: grüne Oase mitten in der Stadt mit Eindruck der Abgeschiedenheit
+GUELTIG_AB: 1683
+GUELTIG_BIS: 1872
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Michaelskapelle
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://visit.freiburg.de/alter-friedhof | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: inmitten des Alten Friedhofs
+  erbaujahr: 1720
+  kriegszerstoerung: im 2. Weltkrieg schwer zerstört
+  wiederaufbau: originalgetreu wiederaufgebaut
+GUELTIG_AB: 1720
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: aussichtsturm
+BEZEICHNUNG: Schlossbergturm
+FACETTE: FREIZEIT | LAGE
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://visit.freiburg.de/schlossbergturm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 35 Meter
+  lage: knapp 200 Meter oberhalb Freiburgs
+  treppenstufen: 251 (Salzbüchsletreppe)
+  finanzierung: hauptsächlich durch Spenden
+  besonderheit: Donatorennamen auf Stirnseiten der Stufen eingraviert
+  ausblick: Blick über die Stadt bis in die grünen Täler, Weinberge und Flüsse des Breisgau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Schlossbergbahn
+FACETTE: INFRA | FREIZEIT
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://visit.freiburg.de/schlossbergbahn | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Stadtgarten 1, 79104
+  startpunkt: Freiburger Stadtgarten
+  zielpunkt: Schlossberg
+  zielpunkt_hoehe: 456 Meter
+  fahrtdauer: ca. 3 Minuten
+  kapazitaet: bis zu 25 Personen
+  betriebsart: nach Bedarf, durch Fahrgäste selbst bedient
+  barrierefreiheit: rollstuhl- und kinderwagentauglich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: garten
+BEZEICHNUNG: Garten der Physik
+FACETTE: FREIZEIT | LAGE
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://visit.freiburg.de/garten-der-physik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Hermann-Herder-Straße 3a, 79104
+  designer: Henne · Korn Landschaftsarchitekten
+  erbaut: 2010
+  konzept: Grundriss und Pflanzung sind Abbild des Vorgehens physikalischer Forschung
+  erreichbarkeit: von außen und innen zu besichtigen
+GUELTIG_AB: 2010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Bismarckturm
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://visit.freiburg.de/bismarckturm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 12,6 Meter
+  benannt_nach: Otto Fürst von Bismarck, erster deutscher Reichskanzler (1815-1898)
+  anlass: Reichsgründung 1871
+  welle_aehnlicher_denkmale: Nach 1871 zahlreiche Bismarcktürme deutschlandweit errichtet
+  initiator: Deutsche Studentenschaft Freiburg
+  urspruenglicher_standort: Ludwigshöhe (abgelehnt wegen Widerstand der Stadt Freiburg)
+  tatsaechlicher_standort: St. Peter Felsen
+  architekt: Oskar Geiges
+  stilistisches_vorbild: Jugendstil-Entwurf von Wilhelm Kreis
+  einweihung: 28. Juli 1900
+  besonderheit: Gedenkfeuer auf der oberen Plattform an bestimmten Tagen, u.a. an Bismarcks Geburtstag (1. April)
+  ausblicksfunktion: Plan, als Aussichtsturm zu nutzen, wurde nie realisiert
+  verantwortung: Universität
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: restaurant
+BEZEICHNUNG: Afghan-Eck
+FACETTE: ALLTAG | FREIZEIT
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://visit.freiburg.de/afghan-eck | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Habsburgerstraße 133A, 79104
+  kueche: afghanische Hausmannskost
+  speisen: Bolani, Mantu, Reisgerichte
+  optionen: vegetarische und vegane Varianten
+  betriebsart: familiengeführtes Lokal
+  merkmale: herzlicher Service, faire Preise
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Entdeckertour - Erlebnis Schlossberg Freiburg
+FACETTE: FREIZEIT | LAGE
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://visit.freiburg.de/entdeckertour-erlebnis-schlossberg-freiburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 14 km
+  dauer: 5:05 Stunden
+  aufstieg: 430 Meter
+  abstieg: 430 Meter
+  hoechster_punkt: 598 Meter
+  niedrigster_punkt: 277 Meter
+  startpunkt: Stadtgarten
+  stationen: Oberes Schloss, St. Ottilien, Unteres Schloss, Kanonenplatz, Mez'sche Gärten, Schlossbergrestaurant Dattler, Kommandantengarten
+  thema: Festungs- und Naturgeschichte am Schlossberg
+  informationen: zahlreiche Informationstafeln und Erlebnisstationen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Achtsamkeitsspaziergang Kraftort 2: Schlossberg zum Kommandantengarten
+FACETTE: FREIZEIT | LAGE
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://visit.freiburg.de/achtsamkeitsspaziergangkraftort-2-schlossberg-zum-kommandantengarten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 2,4 km
+  dauer: 49 Minuten
+  aufstieg: 147 Meter
+  abstieg: 147 Meter
+  hoechster_punkt: 423 Meter
+  niedrigster_punkt: 276 Meter
+  startpunkt: Schlossbergbahn im Stadtgarten
+  stationen: Mozartsteg, Schlossberg, Kommandantengarten
+  flora: Mammutbäume
+  konzept: achtsamer Weg, Konzentration auf Körper und Atmung
+  ruheplatz: Kommandantengarten mit Blick über Freiburg bis zu den Vogesen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Schlossberg
+FACETTE: LAGE | FREIZEIT
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://visit.freiburg.de/schlossbergbahn | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 456 Meter
+  landschaftlicher_bezug: Westseite zählt bereits zum Gebiet des Schwarzwalds
+  nutzung: Naherholungsgebiet
+  infrastruktur: Schlossbergbahn, Schlossbergrestaurant, Schlossbergturm, Aussichtsplattformen
+  blick_auf: Stadt Freiburg, Sonnenuntergang
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: garten
+BEZEICHNUNG: Kommandantengarten
+FACETTE: FREIZEIT | LAGE
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://visit.freiburg.de/entdeckertour-erlebnis-schlossberg-freiburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: am Schlossberg
+  beschreibung: versteckter Rückzugsort, baumbestandene Aussichtsterrasse
+  besonderheit: unterhalb befinden sich die einzigen beweideten Freiflächen am Schlossberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: festungsanlage
+BEZEICHNUNG: Oberes Schloss
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://visit.freiburg.de/entdeckertour-erlebnis-schlossberg-freiburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: ehemals imposante Festungsanlagen
+  aktueller_zustand: heute Stadtwald mit dichtem Blätterdach und schmalen Pfaden
+  festungsmerkmale: Festungseingang im Bereich des "Oberen Schlosses"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: festungsanlage
+BEZEICHNUNG: Unteres Schloss
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://visit.freiburg.de/entdeckertour-erlebnis-schlossberg-freiburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: am Schlossberg
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Ottilien
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://visit.freiburg.de/entdeckertour-erlebnis-schlossberg-freiburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: am Schlossberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.50
+
+---
+
+ENTITÄT: bruecke
+BEZEICHNUNG: Mozartsteg
+FACETTE: INFRA | LAGE
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://visit.freiburg.de/achtsamkeitsspaziergangkraftort-2-schlossberg-zum-kommandantengarten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Zugang vom Stadtgarten zum Schlossberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.60
+
+---
+
+ENTITÄT: gaertenanlage
+BEZEICHNUNG: Mez'sche Gärten
+FACETTE: FREIZEIT | LAGE
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://visit.freiburg.de/entdeckertour-erlebnis-schlossberg-freiburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: am Schlossberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.50

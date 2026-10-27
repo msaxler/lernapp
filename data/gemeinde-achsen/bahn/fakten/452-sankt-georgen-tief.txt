@@ -1,0 +1,289 @@
+ID: 452-sankt-georgen-tief/001
+ENTITÄT: bad
+BEZEICHNUNG: KEIDEL Therme
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Sankt Georgen
+QUELLE: https://visit.freiburg.de/keidel-therme | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flaeche: 6000 [m²]
+  eigenschaft_quelle: Thermalwasser aus eigener Quelle
+  mineralgehalt: mineralhaltiges Thermalwasser
+  becken_erlebnis_temperatur: 34 [°C]
+  becken_quelle_temperatur: 38 [°C]
+  ausstattung: Saunen und Wellnessangebote
+  umgebung: Mooswald
+  bedeutung_fuer_ort: Wohlfühloase und Erholungsort des Stadtteils
+GUELTIG_AB: 1982
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 452-sankt-georgen-tief/002
+ENTITÄT: bad
+BEZEICHNUNG: Freibad St. Georgen
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Sankt Georgen
+QUELLE: https://visit.freiburg.de/freibad-st-georgen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Familienbad
+  schwimmbecken: groß
+  kinderbereich: separates Planschbecken mit Wasserspielen
+  liegewiesen: weitläufig
+  zusatzangebote: Beachvolleyballfeld
+  umgebung: idyllische Landschaft am Rande von Freiburg
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 452-sankt-georgen-tief/003
+ENTITÄT: weingut
+BEZEICHNUNG: Weingut Faber
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Sankt Georgen
+QUELLE: https://visit.freiburg.de/weingut-faber | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betrieb_seit: 1985
+  generationen: 3. Generation
+  leiterin: Martin und Ursula Faber
+  kinder_im_betrieb: true
+  bewirtschaftungsmethoden: umweltschonend
+  produkte: Weine, Schaumweine, Edelbrände
+  eigenschaft: Vinothek mit Fachberatung
+  bedeutung_fuer_ort: Bewahrung von Familientraditionen und modernem Weinanbau
+GUELTIG_AB: 1985
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 452-sankt-georgen-tief/004
+ENTITÄT: ort
+DESIGNATIONS: Sankt Georgen
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Sankt Georgen
+QUELLE: https://visit.freiburg.de/weingut-faber | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundlich_weinbaugebiet_seit: 873
+GUELTIG_AB: 873
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 452-sankt-georgen-tief/005
+ENTITÄT: werkstatt
+BEZEICHNUNG: Messerwelt
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Sankt Georgen
+QUELLE: https://visit.freiburg.de/messerwelt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  handwerk: Handgeschmiedete Messer
+  technik: traditionelle Schmiedetechniken
+  produkte: Messer, Schneidwerkzeuge, Feuerschalen, Fackeln, Metallarbeiten
+  besonderheit: Kombination klassisches Handwerk mit individueller Gestaltung
+  workshops: möglich
+  bedeutung_fuer_ort: Erhaltung traditionellen Schmiedehandwerks
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 452-sankt-georgen-tief/006
+ENTITÄT: angebot
+BEZEICHNUNG: Freiburger Geschichten
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Sankt Georgen
+QUELLE: https://visit.freiburg.de/freiburger-geschichten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Stadtführungen
+  themen: Geschichte, Sagen, Persönlichkeiten, Krimis, Münsterführungen, unbekannte Orte
+  charakterisierung: lebendig, fundiert, thematisch vielseitig
+  zielgruppe: jedes Alter
+  anpassung: individuell zugeschnitten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 452-sankt-georgen-tief/007
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Atelier Die DNA des Lichtes
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Sankt Georgen
+QUELLE: https://visit.freiburg.de/atelier-die-dna-des-lichtes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kunstrichtung: interaktive Kunstwerke mit LED-illuminierten Farben
+  besonderheit: lebendige Bilder, die auf Interaktion reagieren
+  reaktion: auf Stimmung, Tageszeit oder Jahreszeit
+  eigenschaft: individuelle Gestaltung möglich, veränderbare Farbe und Dimensionalität
+  lage: auf der Haid
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 452-sankt-georgen-tief/008
+ENTITÄT: boulderhalle
+BEZEICHNUNG: Boulderkitchen Freiburg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Sankt Georgen
+QUELLE: https://visit.freiburg.de/boulderkitchen-fei | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flaeche: 1800 [m²]
+  boulderproblem_anzahl: 350
+  ausstattung: Campusboard, Beastmakers, Kilterboard, Trainingsbereich
+  weichbodenmatten: durchgängig
+  lounge: ja
+  gastronomie: Kaffee, Snacks, Pizzen, Flammkuchen, Getränke
+  naehe_oeffentliche_verkehrsmittel: Haltestelle Munzinger Straße
+  zielgruppe: Einsteigerinnen, Einsteiger, erfahrene Bouldernde, Familien, Schulklassen, Kindergruppen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 452-sankt-georgen-tief/009
+ENTITÄT: boulderhalle
+BEZEICHNUNG: Blockhaus Freiburg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Sankt Georgen
+QUELLE: https://visit.freiburg.de/boulderhalle-blockhaus-freiburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: größte Boulderhalle Baden-Württembergs
+  ebenen: 2
+  zielgruppe: Anfängerinnen, Anfänger, erfahrene Boulderfans, Familien
+  kinderbereich: ja
+  bistro: ja
+  lage: Freiburger Westen
+  wetterunabhängig: true
+  beschreibung: vielfältige Boulderbereiche, regelmäßig neue Routen, lebendige Community
+  bedeutung_fuer_ort: attraktives Freizeitangebot für Einheimische und Gäste
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 452-sankt-georgen-tief/010
+ENTITÄT: verkehrsbetrieb
+BEZEICHNUNG: Freiburger Verkehrs AG (VAG)
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Sankt Georgen
+QUELLE: https://visit.freiburg.de/freiburger-verkehrs-ag | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  haltestelle_innovation: VAG Zentrum mit Solardach
+  solardach_eigenschaft: erste Haltestelle im Netz mit Solardach
+  stadtbahn_energie_seit: 2009
+  energiequelle: 100% Ökostrom
+  energierückgewinnung: beim Bremsen erzeugte Energie wird in Bahn genutzt und ins Netz zurückgespeist
+  emissionen: emissionsfrei und klimaneutral
+  besichtigung: von außen möglich, Führung nach Voranmeldung
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 452-sankt-georgen-tief/011
+ENTITÄT: ort
+DESIGNATION: Sankt Georgen
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: Sankt Georgen
+QUELLE: https://www.freiburg.de/pb/site/Freiburg/get/params_E-369397302/2463694/Stadtbezirksatlas%202025.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  durchschnittsalter: 52.3 [Jahre], superlativ: höchster Wert der Stadt
+  seniorenanteil: 74.3 [%], superlativ: höchster Wert der Stadt
+  wohnflaeche_pro_person: 48.3 [m²], rang: Platz 2 der Stadt
+  ruhe_zufriedenheit: 90 [Kommunalbarometerwerte], superlativ: höchster Wert der Stadt
+  betreuungsplaetze_schulkinder: 84 [Kommunalbarometerwerte], rang: Platz 3 der Stadt
+  betreuungsplaetze_3_bis_6_jahre: 76 [Kommunalbarometerwerte], rang: Platz 2 der Stadt
+  parkplatzangebot_zufriedenheit: 74 [Kommunalbarometerwerte], superlativ: höchster Wert der Stadt
+  daten_stand: 31.12.2024
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 452-sankt-georgen-tief/012
+ENTITÄT: gebaeude
+BEZEICHNUNG: St. Georgener Stube
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Sankt Georgen
+QUELLE: https://www.freiburg.de/pb/435497.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorgaenger: Stubenareal
+  zweck: Kultur- und Vereinshaus
+  ausstattung: soziale Infrastruktur für Vereine und Menschen im Stadtteil
+  investition: 8500000 [Euro]
+  besonderheit: innovatives Energiekonzept
+  grund_umwandlung: basierend auf Gesamtkonzept aus Umsetzungsfonds
+  eroeffnet: Dezember 2022
+  bedeutung_fuer_ort: zentraler Ort für Kultur und Zusammenleben des Stadtteils
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 452-sankt-georgen-tief/013
+ENTITÄT: platz
+BEZEICHNUNG: Uffhauser Platz
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Sankt Georgen
+QUELLE: https://www.freiburg.de/pb/435497.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alias: Terlaner Platz
+  funktion: Ort der Begegnung
+  umbau_start: August 2022
+  umbau_dauer: 7 Monate
+  eroeffnung: März 2023
+  ausstattung: Narrenbrunnen renoviert und wieder aufgestellt, Narrenbaum, Weihnachtsbaum
+  bushaltestellen: barrierefrei umgebaut
+  bedeutung_fuer_ort: sozialer Treffpunkt und Begegnungsraum des Stadtteils
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 452-sankt-georgen-tief/014
+ENTITÄT: brunnen
+BEZEICHNUNG: Narrenbrunnen
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Sankt Georgen
+QUELLE: https://www.freiburg.de/pb/435497.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Uffhauser Platz
+  sanierung: renoviert und wieder aufgestellt
+  sanierungsjahr: 2023
+  bedeutung_fuer_ort: Wahrzeichen und Identitätsmerkmal des Stadtteils
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 452-sankt-georgen-tief/015
+ENTITÄT: spielplatz
+BEZEICHNUNG: Spielplatz am St. Georgener Dorfbach
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Sankt Georgen
+QUELLE: https://www.freiburg.de/pb/435497.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  massnahmen: saniert und erweitert
+  lage: Dorfbach
+  bedeutung_fuer_ort: Teil des Grünen Bandes und Beispiel für Freiraumentwicklung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 452-sankt-georgen-tief/016
+ENTITÄT: konzept
+BEZEICHNUNG: Grünes Band am Dorfbach
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Sankt Georgen
+QUELLE: https://www.freiburg.de/pb/435497.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sicherung: planerisch mittels Bebauungspläne
+  aufnahme_perspektivplan: ja, als Teil Entwicklungsbereich "D: Sportpark Bozener Straße, Dorfbach St. Georgen, Haslach Gartenstadt"
+  perspektivplan_referenz: Freiburg 2030
+  beschreibung: ökologische und Erholungsgrünzone entlang des Dorfbaches
+GUELTIG_AB: 2012
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 452-sankt-georgen-tief/017
+ENTITÄT: planungsinstrument
+BEZEICHNUNG: Stadtteilleitlinie St. Georgen
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: Sankt Georgen
+QUELLE: https://www.freiburg.de/pb/435497.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konzept_erstmalig_erprobt: 2011
+  ziel: schlankes Planungsdokument als roter Faden für Stadtteilentwicklung
+  zeitrahmen: 10-15 Jahre
+  buerger_beteiligung_start: Mai 2011
+  arbeitsgruppen_aktiv_bis: November 2011
+  uebergabe_ergebnisse: Januar 2012 an Baubürgermeister Martin Haag
+  gemeinderat_beschluss: Juli 2012
+  beschluss_grundlage: § 1 Abs. 6 Nr. 11 BauGB als städtebauliche Planung
+  umsetzungsfonds: 55000 [Euro]
+  umsetzungsfonds_pro_einwohner: 5 [Euro]
+  verwendung: Finanzierung wichtiger kleinerer Maßnahmen und Projekte
+  bedeutung_fuer_ort: strategisches Planungsinstrument und Leitbild für räumliche Entwicklung des Stadtteils
+GUELTIG_AB: 2012
+GUELTIG_BIS: 2027
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

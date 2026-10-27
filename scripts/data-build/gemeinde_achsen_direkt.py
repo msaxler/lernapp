@@ -36,6 +36,16 @@ VERBOTEN = 'Bash,Read,Write,Edit,Glob,Grep,WebSearch,WebFetch,Agent,Task,Noteboo
 # Quelltexten, Wikipedia immer dabei), GA_EINGABE=eingabe-v0.9, GA_PROMPT_KARTEN=prompt-karten-v0.9.txt
 PORTRAET = os.environ.get('GA_PORTRAET') == '1'
 EINGABE = os.environ.get('GA_EINGABE', 'eingabe-v0.8')
+# Vertiefung (Freiburg, Mike 2026-10-27): zusätzliche Karten zu einem Ort, der schon Karten hat. GA_VERTIEFUNG=1: die Extraktion
+# liest nur quellen-vertiefung/<slug>.txt und schreibt extraktion/<slug>-tief.txt (eigene Fakt-Kennungen); die Prüfstufe 1
+# bekommt diese Quelltexte dazu. Karten und Prüfungen laufen mit --tag tief, Eingabe GA_EINGABE=eingabe-v0.9-tief.
+VERTIEFUNG = os.environ.get('GA_VERTIEFUNG') == '1'
+# weitere Runde desselben Orts (Altstadt Runde 2): GA_TIEF=tief2 → quellen-vertiefung/<slug>-tief2.txt, extraktion/<slug>-tief2.txt
+TIEF = os.environ.get('GA_TIEF', 'tief')
+
+
+def quellen_tief(slug):
+    return os.path.join(RAUM, 'quellen-vertiefung', slug + ('' if TIEF == 'tief' else '-' + TIEF) + '.txt')
 STUFEN = {
     'extraktion': (os.environ.get('GA_PROMPT_EXTRAKTION', 'prompt-stufe1-v0.6.txt'), 'extraktion', '.txt'),
     # GA_PROMPT_KARTEN / GA_PROMPT_PRUEFUNG wählen eine spätere Prompt-Fassung (v0.8.1, v0.2: Zahlenregel nach der
@@ -72,6 +82,8 @@ def lies(p):
 
 
 def eingabe(stufe, slug, name, titel):
+    if stufe == 'extraktion' and VERTIEFUNG:
+        return lies(quellen_tief(slug))
     if stufe == 'extraktion':
         t = lies(os.path.join(RAUM, 'quellen-amtlich', slug + '.txt'))
         wiki = os.path.join(RAUM, 'quellen', slug + '.txt')
@@ -91,9 +103,11 @@ def eingabe(stufe, slug, name, titel):
         karten = abschnitte(lies(os.path.join(RAUM, kd('karten-v0.8'), slug + '.md')))
         return '\n\n'.join('## Karte %s %d\n%s' % (name, n, karten[n]) for n in auswahl(slug))
     if stufe == 'pruefung':
+        tief = quellen_tief(slug)
         return ('=== KARTEN ===\n' + lies(os.path.join(RAUM, kd('karten-v0.8'), slug + '.md')) +
                 '\n\n=== FAKTEN, AUS DENEN DIE KARTEN GEBAUT SIND ===\n' + lies(os.path.join(RAUM, EINGABE, slug + '.txt')) +
-                '\n\n=== QUELLTEXTE ===\n' + lies(os.path.join(RAUM, 'quellen-amtlich', slug + '.txt')))
+                '\n\n=== QUELLTEXTE ===\n' + (lies(tief) + '\n\n' if VERTIEFUNG and os.path.exists(tief) else '') +
+                lies(os.path.join(RAUM, 'quellen-amtlich', slug + '.txt')))
 
 
 def auswahl(slug):
@@ -128,7 +142,7 @@ def lauf(stufe, slug, name, titel, modell, versuch=1):
     return slug_, a
 
 
-MIN_KARTEN = 7
+MIN_KARTEN = 7 if not VERTIEFUNG else 3
 
 
 def lauf_einmal(stufe, slug, name, titel, modell):
@@ -159,16 +173,20 @@ def lauf_einmal(stufe, slug, name, titel, modell):
     except ValueError:
         return slug, {'fehler': (p.stderr or p.stdout).decode('utf-8', 'replace')[:500]}
     os.makedirs(os.path.join(RAUM, ordner), exist_ok=True)
-    with io.open(os.path.join(RAUM, ordner, slug + endung), 'w', encoding='utf-8', newline='\n') as f:
+    datei = slug + ('-' + TIEF if VERTIEFUNG and stufe == 'extraktion' else '') + endung
+    with io.open(os.path.join(RAUM, ordner, datei), 'w', encoding='utf-8', newline='\n') as f:
         f.write(d.get('result', '') + '\n')
     u = d.get('usage', {})
-    a = {'stufe': stufe + TAG, 'ort': slug, 'prompt': prompt_datei, 'modell_wunsch': modell, 'modelle': list((d.get('modelUsage') or {}).keys()),
+    # die Extraktion einer Vertiefung läuft ohne --tag; ihr Protokoll bekommt die Runde, sonst überschriebe es das der
+    # ersten Extraktion (2026-10-27, 14 Orte)
+    marke = TAG or ('-' + TIEF if VERTIEFUNG and stufe == 'extraktion' else '')
+    a = {'stufe': stufe + marke, 'ort': slug, 'prompt': prompt_datei, 'modell_wunsch': modell, 'modelle': list((d.get('modelUsage') or {}).keys()),
          'eingabe_zeichen': len(text), 'token_ein': u.get('input_tokens', 0) + u.get('cache_creation_input_tokens', 0) +
          u.get('cache_read_input_tokens', 0), 'token_aus': u.get('output_tokens', 0), 'usage': u,
          'kosten_usd': d.get('total_cost_usd'), 'sekunden': round(dauer), 'fehler': d.get('is_error'),
          'zeit': time.strftime('%Y-%m-%dT%H:%M:%S')}
     os.makedirs(os.path.join(RAUM, 'aufwand'), exist_ok=True)
-    with io.open(os.path.join(RAUM, 'aufwand', '%s%s-%s.json' % (stufe, TAG, slug)), 'w', encoding='utf-8') as f:
+    with io.open(os.path.join(RAUM, 'aufwand', '%s%s-%s.json' % (stufe, marke, slug)), 'w', encoding='utf-8') as f:
         json.dump(a, f, ensure_ascii=False, indent=1)
     return slug, a
 

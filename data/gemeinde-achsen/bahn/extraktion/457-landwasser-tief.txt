@@ -1,0 +1,129 @@
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Roter Otto
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://visit.freiburg.de/roter-otto | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 12 Meter
+  künstler: Eberhard Rau
+  jahr_schaffung: 1973
+  anzahl_figuren: 3
+  figuren_beschreibung: ein Paar mit großen Kulleraugen und das quadratische Gesicht des römischen Halbgottes Faunus
+  merkmal_drehbar: Oberkörper reagieren auf Wind
+  symbolik: Wandel und Naturverbundenheit des Stadtteils
+  namensherkunft: von Bewohnern gewählt
+  genese: Siegerprojekt eines Kunstwettbewerbs im öffentlichen Raum
+  bedeutung_fuer_ort: markante Skulptur, dynamische Präsenz im Stadtbild
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Landwasser
+FACETTE: POLITIK
+QUELLE: https://www.freiburg.de/pb/site/Freiburg/get/params_E-369397302/2463694/Stadtbezirksatlas%202025.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  seniorenanteil_prozent: 39.0
+  seniorenanteil_rang: 3 von 41 Freiburger Stadtbezirken
+  altbauwohnungen_vor_1949_prozent: 0.0
+  altbauwohnungen_vor_1949_rang: 40 von 41 Freiburger Stadtbezirken
+  elektro_pkw_prozent: 0.3
+  elektro_pkw_rang: 40 von 41 Freiburger Stadtbezirken
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gewässer
+BEZEICHNUNG: Moosweiher
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://www.freiburg.de/pb/468809.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grillplatz_vorhanden: true
+  grillplatz_umsetzung: Umgestaltung und Erweiterung
+  grillplatz_umsetzung_zeit: 2015-2017
+  einstiege_verbesserung: true
+  einsehbarkeit_verbesserung: true
+  bouléplatz_vorhanden: true
+  bouléplatz_umsetzung: öffentlicher Bouléplatz südlich des Moosweihers, eingerichtet als optionales Projekt
+  bedeutung_fuer_ort: zentraler Erholungsbereich und Schwerpunkt der Stadtteilentwicklung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sportanlage
+BEZEICHNUNG: Bolzplatz Moosgrund
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://www.freiburg.de/pb/468809.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Bolzplatz
+  unterstand_vorhanden: true
+  unterstand_beschreibung: Unterstand/Pavillon für Jugendliche und Kinder
+  unterstand_umsetzung_zeit: 2015-2017
+  bedeutung_fuer_ort: Treffpunkt für Jugendliche und Kinder
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadtteilentwicklung
+BEZEICHNUNG: Stadtteilleitlinien Landwasser
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://www.freiburg.de/pb/468809.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  leitbild: Leben in Landwasser!
+  prozess_start: 2012
+  prozess_ende: 2013
+  infoveranstaltung_termin: November 2012
+  überreichergebnis_termin: Juli 2013
+  partizipation_personen: ca. 80
+  arbeitsgruppen: 6 thematische
+  arbeitssitzungen: ca. 50
+  kinderbeteiligung: Kinderbüro Freiburg im Rahmen „Stadtteildetektive"
+  gemeinderat_beschluss: Juni 2015
+  rechtsqualität: städtebauliche Planung nach § 1 Abs. 6 Nr. 11 BauGB
+  umsetzungsfonds_euro: 35000
+  umsetzungsfonds_pro_einwohner: 5 Euro
+  planungshorizont_jahre: 10 bis 15
+  ziel_adäquate_freiraumversorgung: true
+  ziel_schaffung_wohnraum: true
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtentwicklung_projekt
+BEZEICHNUNG: Zentrum Landwasser
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://www.freiburg.de/pb/468809.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: neues Zentrum
+  status: geplant
+  verfahren: Bebauungsplanverfahren
+  berücksichtigung_leitlinien: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: stadtentwicklung_projekt
+BEZEICHNUNG: Neuentwicklung Wirthstraße
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://www.freiburg.de/pb/468809.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Neuentwicklung eines Bereichs an der Wirthstraße
+  status: geplant
+  verfahren: Bebauungsplanverfahren
+  berücksichtigung_leitlinien: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8

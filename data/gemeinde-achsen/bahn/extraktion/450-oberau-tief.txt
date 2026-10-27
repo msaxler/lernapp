@@ -1,0 +1,151 @@
+ENTITÄT: veranstaltungsort
+BEZEICHNUNG: Ballhaus Freiburg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Oberau
+QUELLE: https://visit.freiburg.de/ballhaus-freiburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Leo-Wohleb-Straße 1, 79098
+  funktion: Hochburg des Tanzes
+  gesamtflaeche: 2500, m²
+  saalzahl: 8
+  raumflexibilitaet_min: 80, m²
+  raumflexibilitaet_max: 800, m²
+  besucher_jaehrlich: 250000
+  genauigkeit_besucher: ca.
+  betreiber: Gutmann Events GmbH & Co. KG
+  besonderheit: flexible Raumgestaltung mit Faltwaenden
+  bedeutung_fuer_ort: bedeutende Veranstaltungslocation
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: brauerei
+BEZEICHNUNG: Brauerei Ganter
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Oberau
+QUELLE: https://visit.freiburg.de/brauerei-ganter | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Schwarzwaldstraße 43, 79117
+  gruendung: 1865
+  gruender: Louis Ganter
+  betriebsform: familiengeführt
+  charakterisierung: Traditionsunternehmen
+  merkmal: Moderne Technik und Verbundenheit zur Region
+  bauwerk_historisch: Kesselhaus
+  bedeutung_fuer_ort: Traditionsbrauerei mit überörtlicher Bekanntheit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kunstgalerie
+BEZEICHNUNG: Galerie Albert Baumgarten
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Oberau
+QUELLE: https://visit.freiburg.de/galerie-albert-baumgarten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Kartäuserstraße 32, 79102
+  gruendung: 1976
+  spezialisierung: Malerei, Skulptur, Fotografie
+  charakterisierung: etablierte Galerie mit hochqualitativen Einzelausstellungen
+  messepraesenz: international (Art Cologne, Art Karlsruhe, Art Paris)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: hochschule
+BEZEICHNUNG: Hochschule für Musik Freiburg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Oberau
+QUELLE: https://visit.freiburg.de/hochschule-fuer-musik-freiburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Mendelssohn-Bartholdy-Platz 1, 79102
+  superlativ: renommierteste Adresse ihres Fachs in Deutschland
+  profil: breite Palette musikalischer Berufsfelder
+  kunstwerk: Skulpturenensemble "Die Lauschenden" von Karl-Henning Seemann am Haupteingang
+  bedeutung_fuer_ort: überregional bedeutsame Kultureinrichtung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Friedenskirche Freiburg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Oberau
+QUELLE: https://visit.freiburg.de/friedenskirche-freiburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Hirzbergstraße 1, 79102
+  konfession: evangelisch
+  erbaut: 1951
+  architekt: Alfred Giese
+  baustil: rote Klinkersteine im Hamburg-Altona-Stil
+  besonderheit: nordischer Baustil als überraschende architektonische Prägung für Südwesten
+  anlage: Hofanlage mit Pfarrhaus, Gemeindehaus, Kindergarten
+  bedeutung_fuer_ort: identitätsprägende Architektur des Viertels
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: handwerksbetrieb
+BEZEICHNUNG: Stückgut Möbel-Manufaktur
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Oberau
+QUELLE: https://visit.freiburg.de/stueckgut-moebel-manufaktur | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Schwarzwaldstraße 43, 79117
+  funktion: Upcycling-Manufaktur
+  gruender: Dominikus Probst, Lorenz Buchholz
+  besonderheit: Handgefertigte Unikate aus gebrauchten Möbelteilen
+  produktpalette: Kommoden, Koffertische, Sitzmöbel
+  charakterisierung: Ort für das Besondere mit individuellem Design
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Oberau
+FACETTE: LAGE
+QUELLE: https://www.freiburg.de/pb/site/Freiburg/get/params_E-369397302/2463694/Stadtbezirksatlas%202025.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Stadtteil von Freiburg im Breisgau
+  stadtbezirksnummer: 410
+  bevoelkerungsdichte: 106.5, Bewohner pro ha
+  bevoelkerungsdichte_erhobung: 31.12.2024
+  bevoelkerungsdichte_rangplatz: Platz 3 von 41 Freiburger Stadtbezirken
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Oberau
+FACETTE: FREIZEIT
+QUELLE: https://www.freiburg.de/pb/site/Freiburg/get/params_E-369397302/2463694/Stadtbezirksatlas%202025.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zufriedenheit_sport_freizeit: 82
+  zufriedenheit_messmethode: Kommunalbarometerwert (Freiburg-Umfrage 2024)
+  zufriedenheit_rangplatz: Platz 2 von 39 Stadtbezirken
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Oberau
+FACETTE: INFRA
+QUELLE: https://www.freiburg.de/pb/site/Freiburg/get/params_E-369397302/2463694/Stadtbezirksatlas%202025.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zufriedenheit_betreuungsplaetze_schulkinder: 91
+  zufriedenheit_messmethode: Kommunalbarometerwert (Freiburg-Umfrage 2024)
+  zufriedenheit_rangplatz: Platz 1 von 39 Stadtbezirken
+  superlativ: beste Betreuungsplätze für Schulkinder unter allen Freiburger Stadtbezirken
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

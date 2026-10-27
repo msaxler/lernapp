@@ -1,0 +1,127 @@
+ID: 454-weingarten-freiburg-tief/001
+ENTITÄT: skatepark
+BEZEICHNUNG: Skatepark im Dietenbachpark
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Weingarten
+QUELLE: https://visit.freiburg.de/skatepark-im-dietenbachpark | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fläche: 2400 quadratmeter
+  superlativ: einer der größten und modernsten Skateparks Deutschlands
+  ausstattung: vielseitige Skate-Elemente mit verschiedenen Schwierigkeitsgraden, Rutschkanten, Beckenrandsteine, Skategeländer
+  besonderheit: Nachbildung der berühmten Arto Saari Bowl aus Kalifornien (Backyard-Pool)
+  erbaut: 2015
+  erweiterung: 2020
+  anlass: Wunsch der Initiative Skatement auf Engagement des Gemeinderats und Unterstützung der Eugen-Martin-Stiftung
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 454-weingarten-freiburg-tief/002
+ENTITÄT: freizeitanlage
+BEZEICHNUNG: Abenteuerspielplatz Weingarten
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Weingarten
+QUELLE: https://visit.freiburg.de/abenteuerspielplatz-weingarten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gelande_groesse: 11000 quadratmeter
+  lage: Dietenbachpark
+  landschaftsmerkmale: Hügel, Wiesen, kleiner Bach
+  aktivitaeten: Klettern, Bauen eigener Hütten, Spielen auf Freiflächen
+  werkstaetten_angebote: Schmieden, Holzarbeiten, kreatives Gestalten
+  tiere: Pferde, Ziegen, Hühner
+  sonstige_angebote: Backen im Holzofen, Gärtnern, gemeinsames Werkeln
+  charakteristika: offener Erfahrungsraum mit pädagogischem Fachpersonal, eigenständiges Entdecken und Experimentieren
+  bedeutung_fuer_ort: besonderer Freizeitort in Freiburg, abwechslungsreiche Alternative zu klassischen Freizeitangeboten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 454-weingarten-freiburg-tief/003
+ENTITÄT: sportanlage
+BEZEICHNUNG: Disc Golf Freiburg Dietenbachpark
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Weingarten
+QUELLE: https://visit.freiburg.de/disc-golf-freiburg-dietenbachpark | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sport: Disc Golf
+  anzahl_bahnen: 9
+  betreiber: Heads Up Freiburg e.V.
+  in_betrieb_seit: 2019
+  lage: Dietenbachpark, Westen Freiburgs
+  gelaende: überwiegend flach, weitläufige Grünflächen
+  spielweise: technische Würfe, offene Parkbereiche, präzise Spielpassagen
+  charakterisierung: etablierte Anlage der Region, auch für Einsteiger zugänglich
+  zugaenglichkeit: kinderwagenfreundlich, größtenteils barrierearm, Hunde erlaubt
+  ausleihe: Discgolf-Scheiben im Kinder- und Jugendzentrum Weingarten (Bugginger Straße 42)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 454-weingarten-freiburg-tief/004
+ENTITÄT: park
+BEZEICHNUNG: Dietenbachpark
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Weingarten
+QUELLE: https://visit.freiburg.de/skatepark-im-dietenbachpark | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Westen Freiburgs
+  charakteristika: großzügig angelegte Grünflächen mit Hügeln, Wiesen und kleinem Bach
+  freizeit_angebote: Spaziergang, Fahrradausflug, Skatepark, Abenteuerspielplatz, Disc Golf
+  bedeutung_fuer_ort: wunderschöner zentraler Freizeitort und Erholungsraum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 454-weingarten-freiburg-tief/005
+ENTITÄT: verein
+BEZEICHNUNG: Initiative Skatement
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Weingarten
+QUELLE: https://visit.freiburg.de/skatepark-im-dietenbachpark | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anlass_engagement: Initiierung eines Skateparks auf Wunsch der Initiative
+  erfolg_bauprojekt: Skatepark erbaut 2015, Ausbau umgesetzt 2020
+  unterstuetzer: Gemeinderat, Eugen-Martin-Stiftung
+  engagement_zeitraum: ab 2015
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 454-weingarten-freiburg-tief/006
+ENTITÄT: verein
+BEZEICHNUNG: Heads Up Freiburg e.V.
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Weingarten
+QUELLE: https://visit.freiburg.de/disc-golf-freiburg-dietenbachpark | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sportart: Disc Golf
+  betreute_anlage: Discgolf-Parcours Dietenbach Headsup (9-Bahnen-Kurs)
+  in_betrieb_seit: 2019
+  charakterisierung: etablierte Anlage der Region
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 454-weingarten-freiburg-tief/007
+ENTITÄT: freizeiteinrichtung
+BEZEICHNUNG: Kinder- und Jugendzentrum Weingarten
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Weingarten
+QUELLE: https://visit.freiburg.de/disc-golf-freiburg-dietenbachpark | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Bugginger Straße 42, 79114
+  lage: wenige Minuten vom Dietenbachpark entfernt
+  service: Ausleih von Discgolf-Scheiben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 454-weingarten-freiburg-tief/008
+ENTITÄT: ort
+BEZEICHNUNG: Weingarten
+FACETTE: POLITIK
+QUELLE: https://www.freiburg.de/pb/site/Freiburg/get/params_E-369397302/2463694/Stadtbezirksatlas%202025.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_stadtteil_von: Freiburg im Breisgau
+  haushalte_mit_kindern_prozent: 24,0
+  rang_haushalte_mit_kindern: 3 von 41 Freiburger Stadtbezirken
+  freiburg_durchschnitt_haushalte_mit_kindern_prozent: 16,3
+  abweichung_zum_durchschnitt: 7,7 Prozentpunkte über Freiburg-Durchschnitt
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

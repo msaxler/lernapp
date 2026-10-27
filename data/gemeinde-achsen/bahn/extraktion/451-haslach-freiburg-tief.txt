@@ -1,0 +1,192 @@
+ENTITÄT: kultur_raum
+BEZEICHNUNG: ArTik
+FACETTE: KULTUR UND FREIZEIT
+QUELLE: https://visit.freiburg.de/artik-freizeichen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Haslacher Straße 43, 79115
+  website: https://www.artik-freiburg.de/
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: betrieb
+BEZEICHNUNG: Decker Bier Garage
+FACETTE: WIRTSCHAFT UND ALLTAG
+QUELLE: https://visit.freiburg.de/decker-garage | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Haslacherstraße 25, 79115
+  typ: Netzwerk von Kleinstbrauereien
+  herkunft: verschiedene Kleinstbrauereien der Region Südbaden
+  spezialität: handgemachtes Craftbeer und regionale Biersorten
+  besonderheit: Grillmöglichkeit vor Ort, Braukurse und Bier-Tastings
+  charakteristikum: regionale Bierkultur und Handwerk
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: theater
+BEZEICHNUNG: Cargo-Theater in der H15
+FACETTE: KULTUR UND FREIZEIT
+ORTSTEIL_BEZUG: Haslach
+QUELLE: https://visit.freiburg.de/macromedia-theater | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Haslacherstraße 15, 79115
+  gründung_theaterkollektiv: 1992
+  bezug_zur_spielstätte_ab: 2024
+  beschreibung: feste Spielstätte des Freiburger Theaterkollektivs
+  schwerpunkte: Kinder- und Jugendtheater, Abendproduktionen, interkulturelle Projekte, improvisationsbasierte Inszenierungen
+  ausstattung: Theaterraum, Probestudio, Foyer, barrierefreier Zugang
+  bedeutung_fuer_ort: Kulturort der freien Freiburger Theaterlandschaft, Kulturraum abseits klassischer Bühnenhäuser
+GUELTIG_AB: 2024
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: betrieb
+BEZEICHNUNG: Layback
+FACETTE: WIRTSCHAFT UND ALLTAG
+QUELLE: https://visit.freiburg.de/layback | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Schopfheimer Straße 3, 79115
+  gründung: 2002
+  typ: Skateshop mit Hackbrett-Manufaktur
+  spezialität: handgefertigte Longboards und Skateboards aus regionalen Hölzern
+  besonderheit: Testcenter, Skatebereich, nachhaltige Produktion mit Solarstrom
+  kreativstandort: Layback Workspace mit Keramikateliers, Architektur- und Designbüros, Fotograf*innen, Kunstschaffende, Upcycling-Initiativen, Rennrad-Service
+  bedeutung_fuer_ort: Beispiel für kreative Stadtentwicklung und lokales Unternehmertum
+GUELTIG_AB: 2002
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kultur_raum
+BEZEICHNUNG: Schopf2
+FACETTE: KULTUR UND FREIZEIT
+QUELLE: https://visit.freiburg.de/schopf-2 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Schopfheimer Straße 2, 79115
+  veranstaltungen_pro_jahr: 80
+  beschreibung: interdisziplinärer Kulturraum für freie Szene
+  schwerpunkte: Theater, Tanz, Performance, Ausstellungen, Konzerte
+  besonderheit: Labor für experimentelle und interdisziplinäre Kunstprojekte, Vernetzung mit lokalen und internationalen Künstler*innen
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: betrieb
+BEZEICHNUNG: Günter Coffee Roasters
+FACETTE: WIRTSCHAFT UND ALLTAG
+QUELLE: https://visit.freiburg.de/guenter-coffee-roasters | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Bettackerstraße 14, 79115
+  auszeichnung: Deutscher Röstmeister 2024 und 2025
+  spezialität: Specialty Coffee, frisch und präzise geröstet
+  besonderheit: transparente Herkunft, hochwertige Bohnen, Workshops, Kaffee-Abos
+  nebenstandort: Günter Coffee Store in der Freiburger Altstadt
+  bedeutung_fuer_ort: bekannte Adresse für Specialty Coffee in Deutschland
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: betrieb
+BEZEICHNUNG: Milch trifft Mehl
+FACETTE: WIRTSCHAFT UND ALLTAG
+QUELLE: https://visit.freiburg.de/milch-trifft-mehl | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Wiesentalstraße 5, 79115
+  beschreibung: handwerkliche Backkunst mit hochwertigen, regionalen Zutaten
+  spezialität: Tartelettes, saisonale Kuchen, neapolitanische Holzofenpizza nach traditioneller Art
+  besonderheit: mobile Holzofenpizza für Märkte, Firmenfeiern, Hochzeiten; regelmäßig auf dem Wiehremer Bauernmarkt
+  charakteristikum: Handwerk, Qualität, Regionalität
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: handwerk
+BEZEICHNUNG: Norbert Seifert - Bogenbaumeister
+FACETTE: WIRTSCHAFT UND ALLTAG
+QUELLE: https://visit.freiburg.de/norbert-seifert-bogenbaumeister | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Schönbergstraße 1, 79115
+  gründung: 1932
+  beschreibung: Bogenbau-Werkstatt mit Tradition und Qualität seit 1932
+  spezialität: meisterlich gefertigte Violin-, Viola- und Cellobögen; Neubau, Behaarung, Reparatur
+  materialien: Fernambuk-Holz, Rosshaar
+  angebot: moderne Spielbögen, historische Restauration
+GUELTIG_AB: 1932
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: hallenbad
+BEZEICHNUNG: Hallenbad Haslach
+FACETTE: FREIZEIT
+QUELLE: https://visit.freiburg.de/hallenbad-haslach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Carl-Kistner-Straße 67, 79115
+  architektur: modernes Hallenbad mit Holzarchitektur aus hellem Fichtenholz
+  ausstattung: Schwimm- und Sprunganlagen mit Plattformen bis 5 m, Kinderbereich mit Planschbecken, Finnische Sauna, Sanarium, Dampfbad
+  freigelände: Spielflächen, Kinderspielplatz, Beachvolleyballfeld
+  charakteristikum: vielseitiges Familien- und Freizeitbad Freiburgs
+  kursangebot: Aqua-Sport-Kurse, Schwimmkurse für Kinder
+  erreichbarkeit: öffentliche Verkehrsmittel, Stadtbahn-Haltestelle "Haslach Bad" in der Nähe
+  bedeutung_fuer_ort: vielseitiges Familienbad mit Freizeitangebot
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Haslach-Schildacker
+FACETTE: POLITIK UND DEMOGRAFIE
+QUELLE: https://www.freiburg.de/pb/site/Freiburg/get/params_E-369397302/2463694/Stadtbezirksatlas%202025.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stadt: Freiburg im Breisgau
+  stadtbezirk_nummer: 613
+  durchschnittsalter_jahre: 31,4
+  seniorenanteil_prozent: 9,2
+  familienanteil_prozent: 27,5
+  superlativ_familie: höchster Familienanteil aller 41 Freiburger Stadtbezirke
+  altbauwohnungen_prozent: 0,1
+  neubauwohnungen_prozent: 76,5
+  superlativ_neubau: höchster Neubauanteil aller 41 Freiburger Stadtbezirke
+  wohndauer_jahre: 4,2
+  superlativ_wohndauer: niedrigste Wohndauer aller 41 Freiburger Stadtbezirke
+  wohnfläche_pro_person_qm: 27,6
+  superlativ_wohnflaeche_person: niedrigste Wohnfläche pro Person aller 41 Freiburger Stadtbezirke
+  haushaltsgröße_personen: 2,1
+  wohnflaeche_pro_wohnung_qm: 40,8
+  superlativ_wohnflaeche_wohnung: niedrigste Wohnfläche pro Wohnung aller 41 Freiburger Stadtbezirke
+  wohneigentum_prozent: 3,2
+  angebotsmietpreise_eur_pro_qm: 17,2
+  superlativ_mietpreise: höchste Angebotsmietpreise aller 41 Freiburger Stadtbezirke
+  elektro_pkw_anteil_prozent: 0,2
+  superlativ_elektro_pkw: niedrigster E-Pkw-Anteil aller 41 Freiburger Stadtbezirke
+  charakteristika: junger Stadtteil mit hohem Familienanteil, Neubaugebiet, hohe Bevölkerungsdichte, hohe Mietpreise, geringe Wohndauer
+GUELTIG_AB: 2024
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

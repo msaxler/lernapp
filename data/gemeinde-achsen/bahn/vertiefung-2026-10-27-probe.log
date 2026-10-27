@@ -1,0 +1,23 @@
+Orte: 444-altstadt-freiburg 439-wiehre 445-stuehlinger
+== Extraktion neue Quellen (Haiku) 13:04:04
+439-wiehre           extraktion ein  33142  aus  17496   0.14 USD   154 s  claude-haiku-4-5-20251001
+444-altstadt-freiburg extraktion ein  78085  aus  21739   0.25 USD   203 s  claude-haiku-4-5-20251001
+445-stuehlinger      extraktion ein  26056  aus   7852   0.08 USD    66 s  claude-haiku-4-5-20251001
+zusammen: 21849 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+== Eingabe v0.9-tief 13:07:28
+444-altstadt-freiburg      84307 Zeichen, 9 bisherige Karten, 15 neue geplant
+439-wiehre                 49207 Zeichen, 10 bisherige Karten, 6 neue geplant
+445-stuehlinger            55315 Zeichen, 9 bisherige Karten, 6 neue geplant
+== Karten v0.9-tief (claude-opus-5-5) 13:07:28
+439-wiehre           karten     ein  59735  aus  38417   1.19 USD   346 s  claude-opus-5-5
+444-altstadt-freiburg karten     ein  79418  aus  73256   2.05 USD   647 s  claude-opus-5-5
+445-stuehlinger      karten     ein  64933  aus  51994   1.51 USD   468 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 13:18:15
+439-wiehre           pruefung   ein 128147  aus   9703   1.17 USD    95 s  claude-opus-5-5
+444-altstadt-freiburg pruefung   ein 225469  aus  22176   2.19 USD   205 s  claude-opus-5-5
+445-stuehlinger      pruefung   ein 125197  aus   8979   1.13 USD    91 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 13:21:40
+439-wiehre           stufe2     ein 517608  aus   8141   0.93 USD   186 s  claude-opus-5-5,claude-haiku-4-5-20251001
+444-altstadt-freiburg stufe2     ein 178034  aus   6844   0.73 USD    85 s  claude-opus-5-5,claude-haiku-4-5-20251001
+445-stuehlinger      stufe2     ein 227543  aus   8416   1.01 USD   126 s  claude-opus-5-5,claude-haiku-4-5-20251001
+Fertig 13:24:46

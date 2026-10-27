@@ -1,0 +1,511 @@
+{
+ "stadtteile": {
+  "439-wiehre": {
+   "name": "Wiehre",
+   "visit_orte": [
+    "Holbeinpferd",
+    "Alter Wiehrebahnhof",
+    "Christuskirche Freiburg",
+    "Ensemblehaus Freiburg",
+    "Johanneskirche Freiburg",
+    "Kommunales Kino",
+    "kulturaggregat e.V.",
+    "Staatsweingut Freiburg",
+    "Sternwaldwiese",
+    "Dreisam",
+    "Fischtreppe",
+    "Graffitihaus",
+    "Lorettobad Freiburg",
+    "Heliotrop",
+    "Wasserschlössle",
+    "Weingut und Brennerei Andreas Dilger",
+    "Tannenliebe",
+    "Hakuna Matata Feinkost Manufaktur",
+    "fairfood Freiburg",
+    "KIWI KOALA",
+    "Rösterei Schwarzwild",
+    "ABC Guide Dr. Petra-Angelika Rohde",
+    "wein&werk",
+    "DELPHI_space",
+    "Heimatwohnmuseum Freiburg",
+    "Sternwald",
+    "Lorettoberg",
+    "Skytec"
+   ],
+   "atlas": true,
+   "leitlinie": true,
+   "zeichen": 43908
+  },
+  "440-waldsee": {
+   "name": "Waldsee",
+   "visit_orte": [
+    "Dreisamstadion",
+    "Möslepark und Waldsee",
+    "Waldrestaurant St. Ottilien",
+    "Strandbad",
+    "Dreieckswiese"
+   ],
+   "atlas": true,
+   "leitlinie": false,
+   "zeichen": 6867
+  },
+  "444-altstadt-freiburg": {
+   "name": "Altstadt",
+   "visit_orte": [
+    "Augustinerplatz",
+    "Alte Wache - Haus der badischen Weine",
+    "Alemannische Bühne Freiburg",
+    "Augustinermuseum",
+    "Blickfang Freiburg",
+    "Altes Rathaus",
+    "Adelhauser Kirche",
+    "Adelhauser Neukloster",
+    "Colombi Hotel",
+    "CRASH",
+    "Colombipark Freiburg",
+    "Colombischlössle – Archäologisches Museum",
+    "Dokumentationszentrum Nationalsozialismus",
+    "Carl-Schurz-Haus",
+    "Buchhandlung zum Wetzstein",
+    "Erzbischöfliches Ordinariat",
+    "Freiburg (Breisgau) Hauptbahnhof",
+    "Fasnetmuseum im Zunfthaus der Narren",
+    "Drifters Club",
+    "ELPI Freiburg",
+    "Europaplatz",
+    "Freiburger Münster",
+    "Hausbrauerei Feierling",
+    "Freiburger Münsterbauhütte",
+    "Harmonie Kino",
+    "Galerie Meier Freiburg",
+    "Großer Meyerhof",
+    "Haus der Graphischen Sammlung (im Augustinermuseum)",
+    "Huji Maja",
+    "HISTORIX-TOURS",
+    "Historisches Kaufhaus",
+    "Humboldtsaal im Freiburger Hof",
+    "Karlsplatz",
+    "Kurz & Kork",
+    "Konzerthaus Freiburg",
+    "Ludwig Holderied",
+    "Goldschmiede in der Ölmühle",
+    "Konviktskirche - Seminarkirche",
+    "Kunstverein Freiburg",
+    "St. Martinskirche Freiburg",
+    "Konviktstraße",
+    "Literaturhaus Freiburg",
+    "Meckel-Halle im Sparkassen-FinanzZentrum",
+    "Martinstor",
+    "Poolbar",
+    "Münsterplatz Freiburg",
+    "Museum für Neue Kunst",
+    "Museum Natur und Mensch",
+    "Neues Rathaus",
+    "Planetarium Freiburg",
+    "Oberlindenbrunnen",
+    "Platz der Alten Synagoge",
+    "Puzzles",
+    "Schmuckwerk",
+    "Schlossberg",
+    "Schwabentor",
+    "Stadtbibliothek",
+    "Schafferer & Co. KG",
+    "sinneswerk",
+    "Tourist Information Freiburg",
+    "Theater Freiburg",
+    "Theater im Marienbad",
+    "Uniseum",
+    "Universität Freiburg",
+    "The Great Räng Teng Teng",
+    "Weinschlösschen Freiburg (Elisabeth-Schneider-Stiftung)",
+    "Universitätskirche Freiburg",
+    "Wallgraben Theater",
+    "Zinnfigurenklause",
+    "Universitätsbibliothek Freiburg",
+    "vhs im Schwarzen Kloster",
+    "Weinhandlung Drexler",
+    "Strandcafé",
+    "Alte Münsterbauhütte - Münsterladen",
+    "Bertoldsbrunnen",
+    "Basler Hof",
+    "Kastaniengarten",
+    "Erzbischöfliches Palais - Haus zum Ritter",
+    "Freiburger Bächle",
+    "Gasthaus zum Rauhen Mann",
+    "Haus zum Walfisch",
+    "Kornhaus",
+    "Kanonenplatz",
+    "Gerichtslaube",
+    "SKAJO",
+    "Sichelschmiede",
+    "Synagoge Freiburg",
+    "Siegesdenkmal",
+    "Pauluskirche Freiburg",
+    "Universität Freiburg - Alte Universität",
+    "Zum Roten Bären",
+    "Tee Peter Kaffee",
+    "Seilnacht Juwelier",
+    "Barleben Handspielpuppen",
+    "Honig-Galerie Heldt",
+    "Krokodil, Ole Meinecke, 2001",
+    "Mantelskulptur, Johannes Rühl, 2003",
+    "Münstermarkt",
+    "Schneckenvorstadt",
+    "Tanzbrunnen",
+    "Reclining Figure",
+    "Busatti Freiburg",
+    "Stiegeler Schlafkomfort GmbH",
+    "Parfümerie Kern",
+    "Neun Musen, Bettina Eichin, 1978 – 1992",
+    "Tanzende Kegel",
+    "FREIBURGerLEBEN",
+    "Faulerbad",
+    "Gründerzeit und Dorfidyll",
+    "FRIZ Lounge & Concept Store",
+    "Haus zur Lieben Hand",
+    "Bierle Bar",
+    "Stadterlebnis Freiburg",
+    "Sedanviertel",
+    "Entlang der Dreisam ins Grüne",
+    "FEUERWERK - Schmuck & Design",
+    "Foresta Nera Tours",
+    "KARREE",
+    "Café Salz",
+    "Eiscafé Verona",
+    "Eiscafé Mona Lisa",
+    "Tukul AfroFood Freiburg",
+    "nikano",
+    "Wiwili-Brücke",
+    "MANO"
+   ],
+   "atlas": true,
+   "leitlinie": true,
+   "zeichen": 173925
+  },
+  "445-stuehlinger": {
+   "name": "Stühlinger",
+   "visit_orte": [
+    "Bar am Funkeneck",
+    "E-WERK Freiburg",
+    "Eschholzpark Freiburg",
+    "Herz-Jesu-Kirche im Stühlinger",
+    "Rathaus im Stühlinger",
+    "Stühlinger Kirchplatz",
+    "Theater der Immoralisten",
+    "Lederleplatz",
+    "Radstation",
+    "Schlucker und Spucker",
+    "Gartenschlauch, Claes Oldenburg und Coosje van Bruggen, 1983",
+    "Maßschuhe Patrick Frei",
+    "Klarastraße",
+    "apecafé"
+   ],
+   "atlas": true,
+   "leitlinie": true,
+   "zeichen": 26851
+  },
+  "446-neuburg-freiburg": {
+   "name": "Neuburg",
+   "visit_orte": [
+    "Caritas-Tagungszentrum",
+    "Schlossbergrestaurant Dattler",
+    "Stadtgarten und Erpeldenkmal",
+    "Entdeckertour - Erlebnis Schlossberg Freiburg",
+    "Alter Friedhof",
+    "Schlossbergturm",
+    "Schlossbergbahn",
+    "Garten der Physik",
+    "Bismarckturm",
+    "Afghan-Eck",
+    "Achtsamkeitsspaziergang Kraftort 2: Schlossberg zum Kommandantengarten"
+   ],
+   "atlas": true,
+   "leitlinie": false,
+   "zeichen": 14830
+  },
+  "447-herdern": {
+   "name": "Herdern",
+   "visit_orte": [
+    "Botanischer Garten der Universität Freiburg",
+    "Herdermer Kirchplatz",
+    "Vorderhaus – Kultur in der FABRIK",
+    "Lallibrunnen",
+    "Heinrich Rosenberg-Platz",
+    "Archäologische Sammlung der Albert-Ludwigs-Universität Freiburg im Herderbau",
+    "Hebsackwiese"
+   ],
+   "atlas": false,
+   "leitlinie": false,
+   "zeichen": 6749
+  },
+  "448-zaehringen": {
+   "name": "Zähringen",
+   "visit_orte": [],
+   "atlas": false,
+   "leitlinie": false,
+   "zeichen": 53
+  },
+  "449-bruehl-freiburg": {
+   "name": "Brühl",
+   "visit_orte": [
+    "Europa-Park Stadion",
+    "Messe Freiburg",
+    "Messe Freiburg - SICK-Arena",
+    "PEAC Museum",
+    "Energieberg Eichelbuck",
+    "Solar Info Center Freiburg",
+    "Kandelhof Kino",
+    "Emils Bio-Manufaktur",
+    "Cage Quests Escape room Freiburg"
+   ],
+   "atlas": true,
+   "leitlinie": false,
+   "zeichen": 13869
+  },
+  "450-oberau": {
+   "name": "Oberau",
+   "visit_orte": [
+    "Ballhaus Freiburg",
+    "Brauerei Ganter",
+    "Galerie Albert Baumgarten",
+    "Hochschule für Musik Freiburg",
+    "Friedenskirche Freiburg",
+    "Stückgut Möbel-Manufaktur"
+   ],
+   "atlas": true,
+   "leitlinie": false,
+   "zeichen": 7678
+  },
+  "451-haslach-freiburg": {
+   "name": "Haslach",
+   "visit_orte": [
+    "ArTik",
+    "Decker Bier Garage",
+    "Cargo-Theater in der H15",
+    "Layback",
+    "Schopf2",
+    "FrohNat",
+    "Günter Coffee Roasters",
+    "Milch trifft Mehl",
+    "Norbert Seifert - Bogenbaumeister",
+    "Hallenbad Haslach"
+   ],
+   "atlas": true,
+   "leitlinie": false,
+   "zeichen": 15471
+  },
+  "452-sankt-georgen": {
+   "name": "Sankt Georgen",
+   "visit_orte": [
+    "Freiburger Verkehrs AG",
+    "KEIDEL Therme",
+    "Freibad St. Georgen",
+    "Weingut Faber",
+    "Messerwelt",
+    "Freiburger Geschichten",
+    "Atelier Die DNA des Lichtes",
+    "Boulderhalle Boulderkitchen Freiburg",
+    "Boulderhalle Blockhaus Freiburg"
+   ],
+   "atlas": true,
+   "leitlinie": true,
+   "zeichen": 18393
+  },
+  "453-vauban": {
+   "name": "Vauban",
+   "visit_orte": [
+    "Alfred-Döblin-Platz",
+    "Feri Braun - Schuhe nach Maß"
+   ],
+   "atlas": true,
+   "leitlinie": false,
+   "zeichen": 4872
+  },
+  "454-weingarten-freiburg": {
+   "name": "Weingarten",
+   "visit_orte": [
+    "Skatepark im Dietenbachpark",
+    "Abenteuerspielplatz Weingarten",
+    "Disc Golf Freiburg Dietenbachpark"
+   ],
+   "atlas": true,
+   "leitlinie": false,
+   "zeichen": 6091
+  },
+  "455-betzenhausen": {
+   "name": "Betzenhausen",
+   "visit_orte": [
+    "Echte Helden Arena - EHC Freiburg",
+    "Seepark Freiburg",
+    "Japanischer Garten im Seepark",
+    "Westbad Freiburg"
+   ],
+   "atlas": true,
+   "leitlinie": false,
+   "zeichen": 7442
+  },
+  "456-mooswald": {
+   "name": "Mooswald",
+   "visit_orte": [
+    "Ökostation Freiburg"
+   ],
+   "atlas": true,
+   "leitlinie": false,
+   "zeichen": 2003
+  },
+  "457-landwasser": {
+   "name": "Landwasser",
+   "visit_orte": [
+    "Roter Otto"
+   ],
+   "atlas": true,
+   "leitlinie": true,
+   "zeichen": 7955
+  },
+  "458-lehen-freiburg": {
+   "name": "Lehen",
+   "visit_orte": [
+    "Hallenbad Lehen"
+   ],
+   "atlas": true,
+   "leitlinie": false,
+   "zeichen": 1912
+  },
+  "459-rieselfeld": {
+   "name": "Rieselfeld",
+   "visit_orte": [],
+   "atlas": true,
+   "leitlinie": false,
+   "zeichen": 1379
+  },
+  "460-dietenbach": {
+   "name": "Dietenbach",
+   "visit_orte": [],
+   "atlas": false,
+   "leitlinie": false,
+   "zeichen": 54
+  },
+  "461-opfingen": {
+   "name": "Opfingen",
+   "visit_orte": [
+    "Walter Hoch 5",
+    "Opfinger See"
+   ],
+   "atlas": true,
+   "leitlinie": false,
+   "zeichen": 3660
+  },
+  "462-tiengen-freiburg": {
+   "name": "Tiengen",
+   "visit_orte": [
+    "Weingut Gottschalk",
+    "Weinhof Mößner"
+   ],
+   "atlas": true,
+   "leitlinie": false,
+   "zeichen": 4206
+  },
+  "463-munzingen": {
+   "name": "Munzingen",
+   "visit_orte": [
+    "Weingut Philipp Lang",
+    "Weingut Clemens Lang",
+    "Weingut Baumann"
+   ],
+   "atlas": true,
+   "leitlinie": false,
+   "zeichen": 6652
+  },
+  "464-waltershofen": {
+   "name": "Waltershofen",
+   "visit_orte": [
+    "Weingut Hercher",
+    "Weingut Landmann"
+   ],
+   "atlas": true,
+   "leitlinie": false,
+   "zeichen": 4326
+  },
+  "387-ebnet": {
+   "name": "Ebnet",
+   "visit_orte": [
+    "Roßkopf"
+   ],
+   "atlas": true,
+   "leitlinie": false,
+   "zeichen": 2883
+  },
+  "388-littenweiler": {
+   "name": "Littenweiler",
+   "visit_orte": [],
+   "atlas": false,
+   "leitlinie": false,
+   "zeichen": 56
+  },
+  "442-kappel": {
+   "name": "Kappel",
+   "visit_orte": [
+    "Eugen-Keidel-Turm (Schauinslandturm)"
+   ],
+   "atlas": true,
+   "leitlinie": false,
+   "zeichen": 2327
+  },
+  "436-guenterstal": {
+   "name": "Günterstal",
+   "visit_orte": [
+    "Schauinsland",
+    "Waldtraut - höchster Baum Deutschlands",
+    "WaldHaus Freiburg"
+   ],
+   "atlas": true,
+   "leitlinie": false,
+   "zeichen": 4613
+  },
+  "397-hochdorf-freiburg": {
+   "name": "Hochdorf",
+   "visit_orte": [
+    "Silbersee",
+    "Freiburg Padel am Silbersee",
+    "Hallenbad Hochdorf"
+   ],
+   "atlas": false,
+   "leitlinie": false,
+   "zeichen": 3894
+  }
+ },
+ "ohne_stadtteil": [
+  "Freiburger Golfclub e.V.",
+  "Jesuitenschloss",
+  "Museums-Bergwerk Schauinsland",
+  "Schauinslandbahn",
+  "Tier-Natur-Erlebnispark Mundenhof",
+  "Winzerhof Ebringen",
+  "Zelt-Musik-Festival (ZMF)",
+  "HofEis Das Original",
+  "Badeparadies Schwarzwald",
+  "Belchenhotel Jägerstüble",
+  "Die Halde",
+  "Vita Classica",
+  "Europa-Park Erlebnis-Resort",
+  "Bürgerbad Merzhausen",
+  "Hotel Libertas Elements pure",
+  "Luisenhöhe – Gesundheitsresort Schwarzwald",
+  "Galerie Schindel",
+  "Strick.Werk.Statt",
+  "El Purica Specialty Coffee Roasters",
+  "Saunahaus wellness pur",
+  "Kultour Entdecken GmbH",
+  "Gasthaus zum Raben",
+  "frohnatouren",
+  "Weingut Landerer",
+  "Christine Ludin- Himmlische Cupcakes",
+  "Dreisambad",
+  "Weingut Otto und Martin Frey",
+  "VDP.Weingut Stigler",
+  "BERGGEHEIMNIS: Outdoor Escape Erlebnis | Vaubans Vermächtnis",
+  "Hofgut Sternen",
+  "Vitra Campus Weil am Rhein",
+  "BERGGEHEIMNIS: Outdoor Escape Erlebnis | Freiburger Weiberkrieg"
+ ]
+}

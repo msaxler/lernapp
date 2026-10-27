@@ -1,0 +1,115 @@
+ENTITÄT: sport_spielstaette
+BEZEICHNUNG: Echte Helden Arena
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Betzenhausen
+QUELLE: https://visit.freiburg.de/echte-helden-arena | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Ensisheimer Straße 1, 79110
+  heimat_mannschaft: EHC Freiburg (Freiburger Wölfe)
+  sportart: Eishockey
+  bedeutung_fuer_ort: Heimstätte des EHC Freiburg, Name setzt Zeichen für Hoffnung und Solidarität mit Kindern und Jugendlichen der Freiburger Kinder- und Jugendkliniken
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Seepark
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Betzenhausen
+QUELLE: https://visit.freiburg.de/seepark-freiburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung_fuer_stadt: eine der beliebtesten Grünanlagen innerhalb des Stadtgebiets
+  angebote: Badesee, Restaurants, Schwimmbad, Spielplätze, Minigolfanlage
+  entwicklungsgeschichte: vor Jahrhundertwende landwirtschaftlich genutzt; 1920er Jahre Schotterbetrieb Firma Flückiger zur Sand- und Kiesgewinnung; 1970er Jahre Kiesabbau beendet; 1986 für Landesgartenschau umgestaltet; 1990 Japanischer Garten angelegt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: garten
+BEZEICHNUNG: Japanischer Garten
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Betzenhausen
+QUELLE: https://visit.freiburg.de/japanischer-garten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Gerhart-Hauptmann-Str. 1, 79110
+  lage: im Seepark
+  planung: Yoshinori Tokumoto, Gartenarchitekt aus Matsuyama
+  anlage_jahr: 1990
+  anlage_team: 3 japanische Gärtner, 10 Freiburger Gärtner
+  flaeche: 3600, einheit: m²
+  anlass: Partnerschaftsgeschenk von Partnerstadt Matsuyama
+  material_felssteine: Schauinsland
+  material_kieselsteine: Kieswerk am Rhein
+  material_pflanzen: Freiburger Stadtgärtnerei
+  material_steinlaternen: Originale aus Japan
+  gestaltungsprinzip: Wasserlauf von Bergquelle über Wasserfall durch Stromlandschaften ins Meer (dargestellt durch Flückigersee)
+  bedeutung: Ort der Ruhe und Beschaulichkeit, Symbol der Partnerschaft mit Matsuyama
+  besonderheit: Freiburger Gärtner lernten traditionelle japanische Gartenpflege im Gartenbaubetrieb Tokumoto in Matsuyama
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: hallenbad
+BEZEICHNUNG: Westbad
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Betzenhausen
+QUELLE: https://visit.freiburg.de/westbad-freiburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Ensisheimer Straße 9, 79110
+  superlativ: größtes Schwimmbad der Stadt
+  besonderheit_typ: einziges Kombibad Freiburgs (Hallenbad und Freibad kombiniert)
+  sportbecken_laenge: 50, einheit: m
+  sprungturm_hoehe: 10, einheit: m
+  sprungturm_regionalbekanntheit: in der Region eine Besonderheit
+  ausstattung: 50m-Sportbecken, Sprungturm, Freizeitbereich, großzügige Liegewiesen, Kinderbecken mit Sonnensegel, Wasserspiele
+  sportangebote: Beachvolleyball, Basketball, Calisthenics, Soccercourt
+  kuerseangebote: Schwimmkurse, Aquafitness
+  barrierefreiheit: barrierefreie Zugänge
+  lage: direkt am Flückiger See, gute ÖPNV-Anbindung
+  bedeutung_fuer_stadt: beliebtes Ausflugsziel für Einheimische und Gäste der Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Alt-Betzenhausen
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: Betzenhausen
+QUELLE: https://www.freiburg.de/pb/site/Freiburg/get/params_E-369397302/2463694/Stadtbezirksatlas%202025.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stadtbezirk_nummer: 532
+  durchschnittsalter: 45.1, einheit: Jahre
+  durchschnittsalter_ranking: Platz 3 von 41 Stadtbezirken
+  durchschnittsalter_kontext: über dem Freiburg-Durchschnitt von 41.1 Jahren
+  oepnv_versorgung_zufriedenheit: 93, einheit: Kommunalbarometerwert 0-100
+  oepnv_versorgung_ranking: Platz 3 von 39 Stadtbezirken
+  oepnv_versorgung_kontext: über dem Freiburg-Durchschnitt von 81
+  datenquelle: Freiburg-Umfrage 2024, Messungen vom 31.12.2024
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Betzenhausen-Bischofslinde
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: Betzenhausen
+QUELLE: https://www.freiburg.de/pb/site/Freiburg/get/params_E-369397302/2463694/Stadtbezirksatlas%202025.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stadtbezirk_nummer: 531
+  wohnflaeche_pro_wohnung: 52.1, einheit: m²
+  wohnflaeche_pro_wohnung_ranking: Platz 39 von 41 Stadtbezirken
+  wohnflaeche_pro_wohnung_kontext: deutlich unter dem Freiburg-Durchschnitt von 70.0 m²
+  sport_freizeitmoglichkeiten_zufriedenheit: 81, einheit: Kommunalbarometerwert 0-100
+  sport_freizeitmoglichkeiten_ranking: Platz 3 von 39 Stadtbezirken
+  sport_freizeitmoglichkeiten_kontext: über dem Freiburg-Durchschnitt von 70
+  datenquelle: Freiburg-Umfrage 2024, Messungen vom 31.12.2024
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90

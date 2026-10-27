@@ -1,0 +1,668 @@
+ZIELORT: Brühl (Ortsteil von Freiburg im Breisgau)
+LAGE: Stadtteil von Freiburg im Breisgau, 3 km nördlich der Stadtmitte (Luftlinie)
+ARTIKEL: Brühl (Freiburg im Breisgau)
+
+GRUNDDATEN:
+  landkreis: Stadtkreis Freiburg im Breisgau — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [Wikidata P131]
+  bundesland: Baden-Württemberg — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [über die Gemeinde]
+  einwohner: 13.578  [Wikidata P1082, Stand 2024]
+  flaeche_km2: 11,48  [Wikidata P2046]
+  dichte_ew_km2: 1183  [berechnet aus Einwohner und Fläche]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [Wikidata P395]
+  hoehe_m: 245  [Wikidata P2044; dewiki Infobox]
+  naechste_grossstadt: Freiburg im Breisgau, 3 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 129 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  plz: 79106, 79108, 79110  [Wikidata P281]
+  vorwahl: 0761  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: GRÜNE 30,2 %, CDU 17,9 %, Die Linke 16,9 %, SPD 15,2 %, AfD 8,8 %; Wahlbeteiligung 85,7 % — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 83,4 % im Bundesland (Ort 85,7 %, Abstand 2,3 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+ZEUGEN (OpenStreetMap, Gemeindegrenze; belegt nur, dass es die Sache gibt):
+  Kultur: Kino Kandelhof
+  Kultur: Delphi Space
+  Sportstätte: Eiger Nord (climbing)
+  Sportstätte: Rückgrat (multi)
+  Sportstätte: kraft.werk powered by Rückgrat (multi)
+  Sportstätte: Amrita Naturheilpraxis (yoga)
+  Burg/Denkmal: Germania (seit 1929)
+  Burg/Denkmal: Grab- und Ehrenmal 27. November 1944
+  Burg/Denkmal: Vertriebenenkreuz
+  Burg/Denkmal: Hedwig Metzger (seit 2004)
+  Burg/Denkmal: Fritz Hauser (seit 2010)
+  Burg/Denkmal: Leo Metzger (seit 2004)
+  Burg/Denkmal: Dr. Else Hamburge (seit 2003)
+  Burg/Denkmal: Fritz Hamburger (seit 2003)
+  Freizeit: Klimmzugstangen (athletics)
+  Freizeit: Europa-Park Stadion (soccer)
+  Gipfel: Wolfsbuck (260 m)
+  Gipfel: Eichelbuck
+  Museum: PEAC Museum
+  Brauerei/Winzer: Braukollektiv
+  Betrieb: MSW Metallhandel
+  Betrieb: Madeira
+  Betrieb: Dietsche  Services - Lagerhaus - Vermietungen
+  Betrieb: Chefs Culinar
+  Betrieb: Advantek
+  Betrieb: HEMA Hydraulik GmbH
+  Betrieb: TDK-Micronas GmbH
+  Betrieb: Pfizer Manufacturing Deutschland
+  Bahnhof: Freiburg Messe/Universität
+  Gewässer: Schobbach
+  Gewässer: Rossgässlebach
+  Schutzgebiet: Güterbahnhof CEF-Fläche
+  Schutzgebiet: Schangen-Dierloch
+  Radweg: Breisgau-Radwanderweg (64 km)
+  Bildung: Albert-Ludwigs-Universität Freiburg
+
+BISHERIGE KARTEN (9):
+- Hügel aus Bombentrümmern | Im flachen Brühl ragt der Wolfsbuck auf. Was hat es mit diesem Hügel auf sich? | 449-bruehl-freiburg/006.zusammensetzung
+- Stadion des SC Freiburg | Der SC Freiburg spielt heute in einem Stadion im Brühl. Seit wann spielt er dort? | 449-bruehl-freiburg/023.bezug_spielbetrieb
+- Berg aus Abfall | Im Norden des Mooswalds erhebt sich der Eichelbuck aus dem flachen Brühl. Was ist dieser Hügel? | 449-bruehl-freiburg/007.charakteristika
+- Zigarettenfilter-Werk als Industrie-Keimzelle | Mit dem Bau eines Großbetriebs begann im Brühl das Industriegebiet Nord. Was stellt dieser Betrieb, heute Cerdia, her? | 449-bruehl-freiburg/013.funktion
+- Turmbau für Borgward, heute Restaurant | Das denkmalgeschützte Turmcafé im Brühl hat ein Türmchen und ein Tankstellenvordach. Wofür wurde der Bau ursprünglich geplant? | 449-bruehl-freiburg/009.urspruengliche_planung
+- eigener Flugplatz für Kleinflugzeuge | Zwei dieser Aussagen stimmen, eine ist gelogen. Welche? | 449-bruehl-freiburg/024.charakteristika
+- großer Stadtteil mit viel Gewerbefläche | Wie groß ist die Fläche des Stadtteils Brühl? | GRUNDDATEN.flaeche_km2
+- Lokhalle wird Kreativpark | Im Süden des Brühl steht eine denkmalgeschützte Lokhalle des früheren Güterbahnhofs. Was ist heute in ihr? | 449-bruehl-freiburg/008.heutige_nutzung
+- Pharmawerk eines Weltkonzerns | Welches dieser vier Werke gibt es im Brühl? | 449-bruehl-freiburg/014.branche
+
+PLAN:
+  Karte 1: FACETTE FREIZEIT (Ersatz: ALLTAG), Geschichte, D, wahre Option an Stelle 2
+  Karte 2: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 3
+  Karte 3: FACETTE ALLTAG (Ersatz: FREIZEIT), Geschichte, D, wahre Option an Stelle 4
+  Karte 4: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, B, Lüge an Stelle 2
+  Karte 5: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 2
+  Karte 6: FACETTE INFRA (Ersatz: LAGE), Geschichte, A, wahre Option an Stelle 3
+  RANG der neuen Karten ab 10
+
+FAHRT: Wiehre, Waldsee, Altstadt, Stühlinger, Neuburg, Herdern, Zähringen, Brühl, Oberau, Haslach, Sankt Georgen, Vauban, Weingarten, Betzenhausen, Mooswald, Landwasser, Lehen, Rieselfeld, Dietenbach, Opfingen, Tiengen, Munzingen, Waltershofen, Ebnet, Littenweiler, Kappel, Merzhausen, Au, Horben, Günterstal, Ebringen, Schallstadt, Bad Krozingen, Staufen, Heitersheim, Müllheim, Waldkirch, Hochdorf, Gundelfingen, March, Umkirch, Gottenheim, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Breisach, Kirchzarten, Stegen, Oberried, Buchenbach, Höllental, Hinterzarten, Breitnau, Titisee, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Breitscheid, Kloster Marienhaus, Wolfenacker, Kupferdreh, Überruhr, Bergerhausen, Rellinghausen, Stadtwald, Fischlaken, Werden, Burgaltendorf, Steele, Byfang, Rüttenscheid, Bredeney, Huttrop, Kettwig
+
+NEUE FAKTEN (Zielort, aus den neuen Quellen):
+ID: 449-bruehl-freiburg-tief/001
+ENTITÄT: stadion
+BEZEICHNUNG: Europa-Park Stadion
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://visit.freiburg.de/europa-park-stadion-1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Achim-Stocker-Straße 1, 79110
+  heimat_verein: SC Freiburg
+  kapazitaet_zuschauer: 34.700
+  merkmale: moderne Architektur, steile Tribünen, öffentliche Nahverkehr-Anbindung
+  bedeutung_fuer_ort: neue Heimat des SC Freiburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 449-bruehl-freiburg-tief/002
+ENTITÄT: messe
+BEZEICHNUNG: Messe Freiburg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://visit.freiburg.de/messe-freiburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Neuer Messplatz 1, 79108
+  erfahrung_Jahre: 50
+  funktion: Veranstaltungen, Messen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 449-bruehl-freiburg-tief/003
+ENTITÄT: veranstaltungshalle
+BEZEICHNUNG: SICK-Arena
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://visit.freiburg.de/messe-freiburg-sick-arena | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Neuer Messplatz 1, 79098
+  betreiber: Messe Freiburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 449-bruehl-freiburg-tief/004
+ENTITÄT: museum
+BEZEICHNUNG: PEAC Museum
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://visit.freiburg.de/peac-museum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Robert-Bunsen-Straße 5, 79108
+  ausstellungsflaeche_quadratmeter: 1.000
+  ausstellungsraeume: 9
+  schwerpunkt: zeitgenössische Kunst
+  sammlung: Paul Ege Art Collection
+  ergaenzung_sammlung: Minimal und Konzeptkunst, Farbmalerei
+  angebote: kostenlose Überblicksführungen, Workshops, Vorträge, Konzerte
+  bedeutung_fuer_ort: Ort für kulturelle Bildung und Teilhabe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 449-bruehl-freiburg-tief/005
+ENTITÄT: solaranlage
+BEZEICHNUNG: Energieberg Eichelbuck
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://visit.freiburg.de/eichelbuck | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Eichelbuckstraße 1, 79108
+  standort: Südseite ehemalige Deponie Eichelbuck
+  leistung_MWp: 2,6
+  stromversorgung_haushalte: 1.000
+  co2_einsparung_tonnen_pro_jahr: 2.500
+  superlativ: größte Solaranlage Freiburgs
+  ergaenzung: Pflanzenkohleanlage und Holzschnitzelanlage geplant
+GUELTIG_AB: 2011
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 449-bruehl-freiburg-tief/006
+ENTITÄT: kompetenzzentrum
+BEZEICHNUNG: Solar Info Center Freiburg
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://visit.freiburg.de/solar-info-center-freiburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Emmy-Noether-Straße 2, 79110
+  schwerpunkt: Erneuerbare Energien und Energieeffizienz
+  mietfirmen: 40
+  zertifizierung: LEED 2013 Platin
+  energiekonzept: Geothermie, Photovoltaik, Solarthermie, natürliches Kühlsystem
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 449-bruehl-freiburg-tief/007
+ENTITÄT: kino
+BEZEICHNUNG: Kandelhof Kino
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://visit.freiburg.de/kandelhof-kino | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Kandelstraße 27, 79106
+  typ: Independent-Kino
+  programmmerkmale: Literaturverfilmungen, Kurzfilme, Europäische Filme
+  netzwerk: Europa Cinemas
+  besonderheiten: monatliche Queerfilmnacht, Schwule Filmwoche, Kurzfilme vor Abendvorstellungen
+  superlativ: Schwule Filmwoche - älteste Deutschlands
+  auszeichnung: eines der ersten deutschen Kinos für bestes Programm Europas
+  regelmassige_auszeichnungen: Bund und Land zeichnen das Jahresprogramm aus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 449-bruehl-freiburg-tief/008
+ENTITÄT: betrieb
+BEZEICHNUNG: Emils Bio-Manufaktur
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://visit.freiburg.de/emils-bio-manufaktur | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Berta-Ottenstein-Straße 17, 79106
+  produkte: Saucen, Dressings, Mayonnaise, Ketchup, Senf
+  materialien: natürliche Zutaten, keine Zusatzstoffe, kein raffinerter Zucker, keine Verdickungsmittel, keine Zitronensäure
+  philosophie: Weniger ist mehr
+  zertifizierungen: Bioland oder Naturland, IFS-zertifizierte Produktionsstätte
+  auszeichnungen: mehrfach ausgezeichnet, PETA-Auszeichnung für vegane Produktlinie
+  herstellungsweise: handwerklich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 449-bruehl-freiburg-tief/009
+ENTITÄT: escape_room
+BEZEICHNUNG: Cage Quests
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://visit.freiburg.de/cage-quest | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Karlsruher Straße 3, 79108
+  stellung_region: einer der größten Anbieter von Escape Rooms in der Region
+  spielmechaniken: technisch ausgefeilte Spielmechaniken, hochwertiges Design
+  themenwelten: geheimnisvolle Labore, düstere Jahrmärkte, magische Universen, historische Szenarien
+  beispielraeume: SANCTUM, Soul Collector, Enigma 1889
+  zielgruppen: Freundesgruppen, Familien, Firmen, Vereine
+  bedeutung_fuer_ort: etabliertes Freizeitangebot im Freiburger Norden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 449-bruehl-freiburg-tief/010
+ENTITÄT: stadtbezirk
+BEZEICHNUNG: Brühl-Industriegebiet
+FACETTE: POLITIK
+QUELLE: https://www.freiburg.de/pb/site/Freiburg/get/params_E-369397302/2463694/Stadtbezirksatlas%202025.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  durchschnittsalter_jahre: 31,3
+  durchschnittsalter_rang: Platz 41 von 41 (niedrigster Wert der Stadt)
+  seniorenanteil_prozent: 5,4
+  seniorenanteil_rang: Platz 41 von 41 (niedrigster Wert der Stadt)
+  neubauwohnungen_prozent: 43,8
+  neubauwohnungen_rang: Platz 2 von 41
+  wohndauer_jahre: 4,5
+  wohndauer_rang: Platz 40 von 41
+  wohnflaeche_pro_person_quadratmeter: 27,6
+  wohnflaeche_pro_person_rang: Platz 40 von 41
+  wohnflaeche_pro_wohnung_quadratmeter: 47,4
+  wohnflaeche_pro_wohnung_rang: Platz 40 von 41
+  wohneigentum_prozent: 2,4
+  wohneigentum_rang: Platz 41 von 41 (niedrigster Wert der Stadt)
+  angebotsmietpreis_eur_pro_quadratmeter: 6,1
+  angebotsmietpreis_rang: Platz 41 von 41 (niedrigster Wert der Stadt)
+  bevoelkerungsdichte_pro_hektar: 3,4
+  bevoelkerungsdichte_rang: Platz 41 von 41 (niedrigster Wert der Stadt)
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 449-bruehl-freiburg-tief/011
+ENTITÄT: stadtbezirk
+BEZEICHNUNG: Brühl-Beurbarung
+FACETTE: POLITIK
+QUELLE: https://www.freiburg.de/pb/site/Freiburg/get/params_E-369397302/2463694/Stadtbezirksatlas%202025.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  altbauwohnungen_prozent: 50,4
+  altbauwohnungen_rang: Platz 1 von 41 (höchster Wert der Stadt)
+  neubauwohnungen_prozent: 1,1
+  neubauwohnungen_rang: Platz 41 von 41 (niedrigster Wert der Stadt)
+  wohnflaeche_pro_person_quadratmeter: 30,9
+  wohnflaeche_pro_person_rang: Platz 39 von 41
+  wohneigentum_prozent: 4,3
+  wohneigentum_rang: Platz 39 von 41
+  betreuungsplatzfuer_schulkinder_index: 85
+  betreuungsplatz_rang: Platz 2 von 39
+  elektro_pkw_prozent: 0,7
+  elektro_pkw_rang: Platz 39 von 41
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 449-bruehl-freiburg-tief/012
+ENTITÄT: stadtbezirk
+BEZEICHNUNG: Brühl-Güterbahnhof
+FACETTE: POLITIK
+QUELLE: https://www.freiburg.de/pb/site/Freiburg/get/params_E-369397302/2463694/Stadtbezirksatlas%202025.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neubauwohnungen_prozent: 37,0
+  neubauwohnungen_rang: Platz 3 von 41
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+BISHERIGE FAKTEN (Zielort):
+ID: 449-bruehl-freiburg/001
+ENTITÄT: ort
+BEZEICHNUNG: Brühl
+FACETTE: LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG:
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: nordwestlicher Stadtteil Freiburgs
+  administrative_gliederung: 3 Stadtbezirke (Brühl-Güterbahnhof, Brühl-Industriegebiet, Brühl-Beurbarung)
+  entstehungszeit: ab Ende 19. Jahrhundert durch Industrialisierung
+  topographie: flach
+  nachbarstaedtteile: Hochdorf, Zähringen, Herdern, Stühlinger, Mooswald, Landwasser, Vörstetten, Gundelfingen
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 449-bruehl-freiburg/002
+ENTITÄT: stadtteil
+BEZEICHNUNG: Brühl-Güterbahnhof
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  flaeche_ha: 90
+  position: südlicher Teil des Stadtteils
+  charakteristika: ehemaliger Güterbahnhof mit teilweise stillgelegten Gleisen
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 449-bruehl-freiburg/003
+ENTITÄT: stadtteil
+BEZEICHNUNG: Brühl-Industriegebiet
+FACETTE: LAGE | ALLTAG
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  flaeche_ha: 1000
+  position: Westen und Norden des Stadtteils
+  enthaelt: Industriegebiet Nord, Flugplatz, Neue Messe, Technische Fakultät Universität, Markwald, Mooswald
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 449-bruehl-freiburg/004
+ENTITÄT: kirche
+BEZEICHNUNG: St. Konrad
+FACETTE: GESCHICHTE | INFRA
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7709/Br%C3%BChl | Landesportal
+EIGENSCHAFTEN:
+  baujahr: 1930
+  geschichte_1925_kuratie: 1925 als Kuratie gegründet
+  geschichte_1945_pfarrei: 1945 zur katholischen Pfarrei erhoben
+  geschichte_1967_umbau: 1967 aufgelöst und in Pfarrkuratie St. Elisabeth überführt
+GUELTIG_AB: 1930
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 449-bruehl-freiburg/005
+ENTITÄT: kirche
+BEZEICHNUNG: St. Elisabeth (Pfarrkuratie/Pfarrei)
+FACETTE: GESCHICHTE | INFRA
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7709/Br%C3%BChl | Landesportal
+EIGENSCHAFTEN:
+  geschichte_1967_gruendung: 1967 als Pfarrkuratie aus Teilen von St. Konrad, St. Blasius und St. Urban gegründet
+  geschichte_1975_pfarrei: 1975 zur Pfarrei erhoben
+  urspruengliche_kuratie: St. Konrad
+GUELTIG_AB: 1967
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 449-bruehl-freiburg/006
+ENTITÄT: gelaende
+BEZEICHNUNG: Wolfsbuck
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  hoehe_m: 260
+  charakteristika: renaturierte Schuttdeponie
+  urspruengliche_funktion: Depot für französisches Militär, dann Stadt Freiburg
+  nutzungszeitraum_stadt: 1953-1972
+  zusammensetzung: enthält Trümmer des Bombardements Freiburgs vom 27. November 1944
+  bedeutung_fuer_ort: eine der beiden einzigen Geländeerhebungen im sonst flachen Brühl
+GUELTIG_AB: 1953
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 449-bruehl-freiburg/007
+ENTITÄT: gelaende
+BEZEICHNUNG: Eichelbuck
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  hoehe_m: 60
+  lage: Norden des Mooswaldes
+  charakteristika: ehemals Mülldeponie
+  nutzungszeitraum: 1972-2005 Mülldeponie
+  abdichtungsphase: 2006-2024
+  nachsorge_dauer_jahre: 30
+  oeffnung_veroeffentlichkeit: ab 2054 geplant
+  bedeutung_fuer_ort: eine der beiden einzigen Geländeerhebungen im sonst flachen Brühl
+GUELTIG_AB: 1972
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 449-bruehl-freiburg/008
+ENTITÄT: gebaeude
+BEZEICHNUNG: Lokhalle
+FACETTE: GESCHICHTE | KULTUR
+ORTSTEIL_BEZUG: Brühl (Güterbahnhof)
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1903-1905
+  urspruengliche_funktion: Lokhalle des Güterbahnhofs
+  denkmalschutz_seit: 2011
+  eigentuemer_seit_2011: Lars Bargmann und Frank Böttinger (Projektentwickler)
+  sanierung: 2011-2016 mit Förderung Baden-Württemberg
+  heutige_nutzung: Kreativpark mit ca. 20 Firmen und über 100 Beschäftigten
+  beschreibung: eine der wenigen Industriedenkmäler des Güterbahnhofs
+GUELTIG_AB: 1903
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 449-bruehl-freiburg/009
+ENTITÄT: gebaeude
+BEZEICHNUNG: Turmcafé
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  adresse: Zähringer Straße 44
+  baujahr: 1951
+  architekt: Wilhelm Schelkes (Freiburger Architekt)
+  urspruengliche_planung: Generalvertretung Autobauer Borgward
+  nutzung: Restaurant
+  denkmalschutz_seit: 1986
+  beschreibung: einzigartiger Bau, Türmchen mit Tankstellenvordach
+  aktuelle_lage: zwischen Wohnhäusern hinter Glasschallschutzwand
+GUELTIG_AB: 1951
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 449-bruehl-freiburg/010
+ENTITÄT: wohnanlage
+BEZEICHNUNG: Campo Novo
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Brühl (Güterbahnhof)
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  bautyp: Studentenwohnheim
+  gruendungsjahr: 2014
+GUELTIG_AB: 2014
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 449-bruehl-freiburg/011
+ENTITÄT: markt
+BEZEICHNUNG: Stadtteilmarkt Brühl
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Brühl (Güterbahnhof)
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  ort: Zollhallenplatz
+  durchfuehrung: donnerstags Nachmittag
+  gruendungsdatum: 28. März 2019
+GUELTIG_AB: 2019
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 449-bruehl-freiburg/012
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Stadtraumbahn Brühl
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: Freiburger Verkehrs AG (VAG)
+  linien: Linien 2 und 4
+  verkehrsbau: Verlegung der Linie 2 von Komturstraße in Waldkircherstraße
+  verlegung_bauphase: September 2020 bis Juni 2023
+  verlegung_grund: alte Gleise aus 1940ern/50ern mussten erneuert werden; bessere Anbindung neues Güterbahnwohngebiet
+  inbetriebnahme_neue_gleise: Juni 2023
+GUELTIG_AB: 2023
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 449-bruehl-freiburg/013
+ENTITÄT: betrieb_industrie
+BEZEICHNUNG: Rhodia / Cerdia
+FACETTE: ALLTAG | GESCHICHTE
+ORTSTEIL_BEZUG: Brühl (Industriegebiet)
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  baujahr_hauptwerk: 1926-1927
+  funktion: Hersteller für Zigarettenfilter
+  bedeutung_fuer_ort: mit Bau des Großbetriebs Rhodia begann die Entwicklung des Industriegebietes Nord
+  umbenennung_2019: 2019 in Cerdia umbenannt
+GUELTIG_AB: 1926
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 449-bruehl-freiburg/014
+ENTITÄT: betrieb_industrie
+BEZEICHNUNG: Pfizer Manufacturing Deutschland
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Brühl (Industriegebiet)
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  branche: Pharmazeutika
+  lage: Industriegebiet Nord
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 449-bruehl-freiburg/015
+ENTITÄT: betrieb_industrie
+BEZEICHNUNG: TDK-Micronas
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Brühl (Industriegebiet)
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  branche: Microchiptechnologie
+  lage: Industriegebiet Nord
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 449-bruehl-freiburg/016
+ENTITÄT: betrieb_versorgung
+BEZEICHNUNG: Badenova
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Brühl (Industriegebiet)
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  branche: Energieversorgung
+  lage: Industriegebiet Nord
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 449-bruehl-freiburg/017
+ENTITÄT: moebelbetrieb
+BEZEICHNUNG: IKEA
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Brühl (Industriegebiet)
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Westen des Gebietes am Rande des Flugplatzes
+  nachbarschaft: in unmittelbarer Nachbarschaft mit Möbel Braun und XXXLutz
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 449-bruehl-freiburg/018
+ENTITÄT: moebelbetrieb
+BEZEICHNUNG: Möbel Braun
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Brühl (Industriegebiet)
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Westen des Gebietes am Rande des Flugplatzes
+  nachbarschaft: in unmittelbarer Nachbarschaft mit IKEA und XXXLutz
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 449-bruehl-freiburg/019
+ENTITÄT: moebelbetrieb
+BEZEICHNUNG: XXXLutz
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Brühl (Industriegebiet)
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Westen des Gebietes am Rande des Flugplatzes
+  nachbarschaft: in unmittelbarer Nachbarschaft mit IKEA und Möbel Braun
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 449-bruehl-freiburg/020
+ENTITÄT: friedhof
+BEZEICHNUNG: Freiburger Hauptfriedhof
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Süden des Stadtteils
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 449-bruehl-freiburg/021
+ENTITÄT: kino
+BEZEICHNUNG: Kino Kandelhof
+FACETTE: KULTUR | FREIZEIT
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Süden des Stadtteils
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 449-bruehl-freiburg/022
+ENTITÄT: veranstaltungsort
+BEZEICHNUNG: Neue Messe
+FACETTE: KULTUR | ALLTAG
+ORTSTEIL_BEZUG: Brühl (Industriegebiet)
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: wichtiger Standort des Freiburger Wirtschafts- und Kulturlebens
+  lage: Industriegebiet
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 449-bruehl-freiburg/023
+ENTITÄT: sportstadion
+BEZEICHNUNG: Mooswaldstadion
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  nutzung: SC Freiburg (Fußball)
+  bezug_spielbetrieb: seit Oktober 2021
+GUELTIG_AB: 2021
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 449-bruehl-freiburg/024
+ENTITÄT: flugplatz
+BEZEICHNUNG: Flugplatz Freiburg
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Brühl (Industriegebiet)
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  charakteristika: auf kleine und leichte Luftfahrzeuge beschraenkt
+  lage: Westen des Industriegebietes am Rande
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 449-bruehl-freiburg/025
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Funkturm Freiburg
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Richtfunk
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+

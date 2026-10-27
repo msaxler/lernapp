@@ -196,8 +196,12 @@ def main():
             f.write('\n\n'.join(teile) + '\n\n' + (schluss.group(0) if schluss else '') + '\n')
     pfad_v = os.path.join(RAUM, 'vorrat-liste.json')
     if LAUF != 'v0.8' and os.path.exists(pfad_v):
-        # Zusammenführen: Orte dieses Laufs ersetzen ihre älteren Karten, alle anderen Orte bleiben
-        alt = [v for v in json.loads(lies(pfad_v)) if v['ort'] not in orte_lauf]
+        # Zusammenführen: Orte dieses Laufs ersetzen ihre älteren Karten, alle anderen Orte bleiben. Eine Vertiefung
+        # (Lauf …-tief, Freiburg 2026-10-27) ersetzt nur ihre eigenen früheren Zusatzkarten; umgekehrt bleiben Zusatzkarten
+        # stehen, wenn der Hauptlauf eines Orts neu geprüft wird.
+        zusatz = '-tief' in LAUF   # auch weitere Runden (v0.9-tief2)
+        alt = [v for v in json.loads(lies(pfad_v)) if v['ort'] not in orte_lauf
+               or (v['lauf'] != LAUF if zusatz else '-tief' in v['lauf'])]
         vorrat = alt + vorrat
     with io.open(pfad_v, 'w', encoding='utf-8', newline='\n') as f:
         json.dump(vorrat, f, ensure_ascii=False, indent=1)

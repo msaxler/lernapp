@@ -1,0 +1,327 @@
+ENTITÄT: kulturzentrum
+BEZEICHNUNG: E-WERK Freiburg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Stühlinger
+QUELLE: https://visit.freiburg.de/e-werk-freiburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Eschholzstraße 77, 79106
+  traeger: Verein E-WERK FREIBURG e.V.
+  kunstsparten: Tanz, Theater, Musik, Bildende Kunst
+  beherbergte_kuenstler: 30 Bildende Künstler
+  beherbergte_institutionen: Tanzschule bewegungs-art, Freiburger Schauspielschule mit Kammertheater KIEW, Musiktheater "Die Schönen der Nacht"
+  bedeutung_fuer_ort: bedeutendes Kulturzentrum der Stadt
+  ausstattung: Atelier- und Proberäume, Residenzprogramme, Bildungsangebote, Galerie für Gegenwartskunst
+  zielgruppen: Kinder, Jugendliche, Schulklassen
+  erreichbarkeit: mit Fahrrad und öffentlichem Nahverkehr erreichbar, barrierefrei zugänglich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Herz-Jesu-Kirche
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Stühlinger
+QUELLE: https://visit.freiburg.de/herz-jesu-kirche-im-stuehlinger | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Amalie-Gramm-Weg 1, 79115
+  bauzeit: 1897
+  baujahr: 1897
+  event: Einweihung
+  vorbild: Limburger Dom
+  grund_erbauung: Stadtteil erreichte beachtliche Größe und brauchte eigene Kirche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verwaltungsgebaeude
+BEZEICHNUNG: Rathaus im Stühlinger
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Stühlinger
+QUELLE: https://visit.freiburg.de/rathaus-im-stuehlinger | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Fehrenbachallee 12, 79106
+  funktion: Verwaltungsgebäude der Stadt Freiburg
+  energiestandard: Netto-Nullenergie-Gebäude
+  superlativ: größtes öffentliches Netto-Nullenergie-Gebäude in Europa
+  besonderheit_fassade: Wechsel von Holz-, Glas- und Photovoltaik-Elementen zur Energiegewinnung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Eschholzpark
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Stühlinger
+QUELLE: https://visit.freiburg.de/eschholzpark-freiburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Eschholzpark, 79114
+  flaechen: großzügige Wiesenflächen
+  ausstattung: Rundpergola mit Staudenbeeten, Sitzbänke, Spielplatz
+  baeume: Kastanienallee mit 190 Bäumen
+  ursprung: ehemaliges Kleingartengelände
+  nutzung: regelmäßige Veranstaltungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Gartenschlauch (Claes Oldenburg und Coosje van Bruggen)
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Stühlinger
+QUELLE: https://visit.freiburg.de/gartenschlauch-claes-oldenburg-und-coosje-van-bruggen-1983 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Eschholzpark
+  künstler: Claes Oldenburg und Coosje van Bruggen
+  material: Stahl (Wasserschlauch mit Wasserhahn)
+  hoehe: 10
+  hoehe_einheit: Meter
+  laenge: 84
+  laenge_einheit: Meter
+  farbe: rot
+  wettbewerb: Kunstwettbewerb der Stadt Freiburg
+  wettbewerb_jahr: 1980
+  realisierung_jahr: 1982-1983
+  anlass: erinnert an ehemaliges Kleingartengelände vor Bau des Berufsschulzentrums und Anlage des Parks
+  kosten: 400000
+  kosten_einheit: DM
+  finanzierung: Kunst am Bau durch Berufsschulzentrum
+  hersteller: Mannesmann in Mühlheim (Ruhrgebiet)
+  besonderheit: Werksingenieur entwickelte neues Verfahren zum Verbiegen der 30 Schlauchteile in zwei Richtungen zugleich, Spezialtransporter für Transport
+GUELTIG_AB: 1983
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: platz
+BEZEICHNUNG: Stühlinger Kirchplatz
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Stühlinger
+QUELLE: https://visit.freiburg.de/stuehlinger-kirchplatz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Stühlinger Kirchplatz, 79098
+  nutzung_mi_sa: Bauernmarkt
+  nutzung_jaehrlich: Flohmarkt
+  beschreibung: Treffpunkt für Mütter mit Kindern, Erholungsort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Schlucker und Spucker
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Stühlinger
+QUELLE: https://visit.freiburg.de/schlucker-und-spucker | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: unter Stadtbahnbrücke im Stühlinger Kirchpark
+  künstler: Franz Gutmann
+  beschreibung: zwei riesige Figuren über Freiburger Bächle verbunden, verspieltes Kunstwerk mit Augenlöchern zum Durchschauen
+  funktion_kunstwerk: "Spucker" speist Bächle, das in den Mund des "Schluckers" fließt
+  jahr: 1982
+  anlass: Umgestaltung des Stühlinger Kirchplatzes
+  widmung: Gutmann macht, Humbert lacht
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: theater
+BEZEICHNUNG: Theater der Immoralisten
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Stühlinger
+QUELLE: https://visit.freiburg.de/theater-der-immoralisten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Ferdinand-Weiß-Straße 9-11, 79106
+  charakteristika: energiegeladen, abgründig, absurd, verspielt, schwarzer Humor
+  fokus: Erlebensspektrum des modernen Menschen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: platz
+BEZEICHNUNG: Lederleplatz
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Stühlinger
+QUELLE: https://visit.freiburg.de/lederleplatz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Guntramstraße 22, 79106
+  merkmal: großer roter Pumpenbrunnen
+  bedeutung_fuer_ort: erinnert an ehemalige Pumpenfabrik Lederle, verbindet Industriegeschichte mit gastronomischem Treffpunkt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Radstation
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Stühlinger
+QUELLE: https://visit.freiburg.de/radstation | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Wentzingerstraße 15, 79106
+  lage: direkt hinter dem Hauptbahnhof
+  gebaeude_form: kreisförmig
+  angebote: Fahrrad-Citytour-Buchung, Fahrradverleih, Gepäcklagerung, Werkstatt, Café auf Dachterrasse
+  cafe_besonderheit: 360-Grad-Blick über Freiburg
+  bedeutung_fuer_ort: architektonisches Highlight, perfekter Ausgangspunkt für Radtouren
+  beschreibung: zentrale Anlaufstelle für Freiburgs liebstes Fortbewegungsmittel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: strasse
+BEZEICHNUNG: Klarastraße
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Stühlinger
+QUELLE: https://visit.freiburg.de/klarastrasse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Klarastraße, 79106
+  charakteristika: Kneipen und kleine feine Geschäfte zwischen Wohnhäusern
+  institutionen: Café Einstein, Babeuf (an Ecke Egonstraße)
+  besondere_geschaefte: Kleideratelier, Goldschmiede, Antiquitäten, Schallplatten
+  spezialgewerbe: zwei Geigenbauer (Hausnummern 19 und 76)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: betrieb
+BEZEICHNUNG: apecafé
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Stühlinger
+QUELLE: https://visit.freiburg.de/apecafe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: mobile Kaffeebar
+  fahrzeug: umgebaute Piaggio Ape
+  ausstattung: professionelle Siebträgermaschine
+  superlativ: älteste mobile Cafebar der Stadt (Eigenbeschreibung)
+  standorte: regelmäßig auf Stühlinger Wochenmarkt, bei Veranstaltungen
+  angebote: Espresso, Cappuccino, Kaffeespezialitäten, Gebäck
+  besonderheit: verbindet italienische Kaffeekultur mit Marktatmosphäre
+  besonderheit_nutzbar: buchbar für private Feiern, Hochzeiten, Firmenevents
+  bedeutung_fuer_ort: seit vielen Jahren Teil des Freiburger Marktgeschehens
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: betrieb
+BEZEICHNUNG: Maßschuhe Patrick Frei
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Stühlinger
+QUELLE: https://visit.freiburg.de/massschuhe-patrick-frei | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Ferdinand-Weiß-Straße 9, 79106
+  art: Schuhmanufaktur
+  spezialisierung: handgearbeitete Maßschuhe
+  tradition: traditionelle Techniken (Holznagelung, Handnaht, Edge Burnishing)
+  meisterschaft: Weltmeister im Schuhmachen (London 2018)
+  prozess: 3 intensive Termine (Fußvermessung, Designauswahl, finale Anprobe)
+  charakteristika: Stil, Passform, Persönlichkeit; perfektionieren sich mit der Zeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bar
+BEZEICHNUNG: Bar am Funkeneck
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Stühlinger
+QUELLE: https://visit.freiburg.de/bar-am-funkeneck | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Ferdinand-Weiss-Straße 8, 79106
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Stühlinger
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: Stühlinger
+QUELLE: https://www.freiburg.de/pb/site/Freiburg/get/params_E-369397302/2463694/Stadtbezirksatlas%202025.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  administrative_einheit_512: Stühlinger-Eschholz
+  administrative_einheit_513: Alt-Stühlinger
+  einpersonenhaushalte_prozent: 66.8
+  einpersonenhaushalte_rang: 3 von 41
+  senioren_prozent: 13.9
+  senioren_rang: 39 von 41
+  haushaltsgröße: 1.5
+  haushaltsgröße_rang: 39 von 41
+  bevölkerungsdichte_alt_stuehlinger: 109.2
+  bevölkerungsdichte_rang: 2 von 41
+  betreuungsplaetze_unter_3_jahren_alt_stuehlinger: 70
+  betreuungsplaetze_rang: 3 von 39
+  carsharing_verfuegbarkeit_alt_stuehlinger: 89
+  carsharing_rang: 2 von 39
+  private_pkw_je_haushalt: 0.4
+  private_pkw_rang: 41 von 41
+  charakteristikum: niedrigste Pkw-Dichte der Stadt
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil_konzept
+BEZEICHNUNG: Stadtteilleitlinien Stühlinger
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Stühlinger
+QUELLE: https://www.freiburg.de/pb/435056.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung_jahr: 2014
+  anlass: Diskussionen um Verwaltungsneubau im Zuge der Verwaltungskonzentration
+  beteiligung: Bürgerschaft im Stadtteil, Koordinationsgruppe KOSS
+  arbeitsgruppen: "Soziales, Kultur, Gastronomie und Handel", "Wohnen", "Verkehr", "Freiraum"
+  leitbild_kernelemente: "urbanes Rückgrab" (Eschholzstraße), Entwicklungsachse Wannerstraße, Freiraumnetz "Stühlinger-Ring"
+  bebauungsstruktur: Gründerzeitgebiet (Blockrandbebauung), Nachkriegsarchitektur (Zeilenbebauung), Großwohnsiedlung 1970er
+  zeithorizont: 10 bis 15 Jahre
+  umsetzungsfonds: 78000
+  umsetzungsfonds_einheit: Euro
+  umsetzungsfonds_pro_einwohner: 5
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauvorhaben
+BEZEICHNUNG: Kunstrasenplatz Ferdinand-Weiß-Straße
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Stühlinger
+QUELLE: https://www.freiburg.de/pb/435056.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 2017
+  grund: Projekt der Stadtteilleitlinien Stühlinger
+  finanzierung: Umsetzungsfonds plus städtisches Haushalt (Gesamtbudget überschritt ursprüngliche Planung)
+  besonderheit_nutzung: witterungsunabhängig genutzt, Treffpunkt im Stadtteil
+  bedeutung: zieht auch überörtlich Sportbegeisterte an
+GUELTIG_AB: 2017
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bauvorhaben
+BEZEICHNUNG: Themengarten Kleineschholz
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Stühlinger
+QUELLE: https://www.freiburg.de/pb/435056.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: pädagogischer Stadtteilgarten für Kinder und Jugendliche
+  year_start: 2012
+  jahr_ende: 2019
+  grund: Projekt der Stadtteilleitlinien Stühlinger
+  beschreibung: Kleingartenparzelle entwickelt zum Themengarten
+GUELTIG_AB: 2012
+GUELTIG_BIS: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8

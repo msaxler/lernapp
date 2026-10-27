@@ -1,0 +1,50 @@
+{
+ "stufe": "karten-tief",
+ "ort": "457-landwasser",
+ "prompt": "prompt-karten-v0.9-tief.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 51640,
+ "token_ein": 43915,
+ "token_aus": 23708,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 37011,
+  "cache_read_input_tokens": 6902,
+  "output_tokens": 23708,
+  "output_tokens_details": {
+   "thinking_tokens": 18392
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 37011,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 23708,
+    "cache_read_input_tokens": 6902,
+    "cache_creation_input_tokens": 37011,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 37011
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.7716364,
+ "sekunden": 209,
+ "fehler": false,
+ "zeit": "2026-10-27T14:42:45"
+}

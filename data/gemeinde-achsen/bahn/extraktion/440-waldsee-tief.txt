@@ -1,0 +1,135 @@
+ENTITÄT: stadion
+BEZEICHNUNG: Dreisamstadion
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Waldsee
+QUELLE: https://visit.freiburg.de/dreisamstadion | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betreiber: SC Freiburg
+  solarflaeche: 2200 m²
+  stromproduktion_jaehrlich: 275000 kWh
+  co2_einsparung_jaehrlich: wert: 136 Tonnen, genauigkeit: ca.
+  superlativ: erstes komplettes Solarstadion in Deutschland
+  bedeutung_fuer_ort: Wahrzeichen für Nachhaltigkeit und Innovationskraft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Möslepark
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Waldsee
+QUELLE: https://visit.freiburg.de/moeslepark-und-waldsee | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anlagezeit: Wert: 1875, genauigkeit: "zweite Hälfte 19. Jahrhundert"
+  superlativ: eine der ältesten Parkanlagen der Stadt, neben dem Schlossberg
+  namensherkunft: "Mösle" bedeutet "kleiner Mooswald"
+  grund_namensgebung: Wasserreichtum; unter der Parklandschaft liegen die ältesten Quellfassungen der Stadt
+  baumbestand_hauptarten: Stieleichen und Hainbuchen
+  baumbestand_unterpflanzung: Rhododendren und Azaleensträucher
+  charakteristikum: alter und dichter Baumbestand
+  bedeutung_fuer_ort: Ort der ältesten Trinkwasser-Quellfassungen Freiburgs
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gewaesser
+BEZEICHNUNG: Waldsee
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Waldsee
+QUELLE: https://visit.freiburg.de/moeslepark-und-waldsee | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umgebung: Grünanlagen mit bewirteter Uferterrasse und Waldrandlage
+  nutzung: Freizeit und Naherholung, besonders im Sommer
+  bedeutung_fuer_ort: beliebtes Erholungs- und Ausflugsziel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: restaurant
+BEZEICHNUNG: Waldrestaurant St. Ottilien
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Waldsee
+QUELLE: https://visit.freiburg.de/waldrestaurant-st-ottilien | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Freiburger Stadtwald
+  gruendungsjahr: 1889
+  kueche_art: regionale Küche mit saisonalen Gerichten
+  spezialitaeten: vegetarische und vegane Optionen, regionale Zutaten
+  biergarten: ja, unter alten Kastanienbäumen
+  ausstattung_kinder: großer Spielplatz
+  naehe_attraktionen: Kapelle und Ottilienquelle
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1889
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: freibad
+BEZEICHNUNG: Strandbad Freiburg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Waldsee
+QUELLE: https://visit.freiburg.de/strandbad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: größtes Freibad der Stadt
+  ausstattung_schwimmen: Schwimmerbecken, Wasserrutsche
+  ausstattung_kinder: Planschbecken, Spielbereich
+  ausstattung_sport: Beachvolleyball, Tischtennis
+  ausstattung_sonstige: großzügige Liegewiesen, schattenspendende Bäume
+  bedeutung_fuer_ort: zentrale Badeanlage und Sommerfrischeort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: gruen_und_freizeitanlage
+BEZEICHNUNG: Dreieckswiese
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Waldsee
+QUELLE: https://visit.freiburg.de/dreieckswiese | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: unterhalb der Sandfangbrücke an der Dreisam
+  ausstattung: Liegeflächen, Fitness-Parcours, Slackline-Anlage, Beachvolleyballfeld
+  charakteristikum: offen, naturnah mit städtischem Charme
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Waldsee
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Waldsee
+QUELLE: https://visit.freiburg.de/moeslepark-und-waldsee | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_stadtteil_von: Freiburg im Breisgau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Waldsee
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Waldsee
+QUELLE: https://www.freiburg.de/pb/site/Freiburg/get/params_E-369397302/2463694/Stadtbezirksatlas%202025.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezirksnummer: 310
+  zufriedenheit_sport_freizeitmoglichkeiten: 91
+  rang_sport_freizeitmoglichkeiten: 1 von 39
+  superlativ_sport_freizeitmoglichkeiten: höchster Wert aller Freiburger Bezirke
+  zufriedenheit_oeupv: 94
+  rang_oeupv: 2 von 39
+  zufriedenheit_parkplaetze: 71
+  rang_parkplaetze: 3 von 39
+  haeufigkeit_fussweg_und_fahrrad: 86
+  rang_fussweg_und_fahrrad: 3 von 39
+  zufriedenheit_radwege: 86
+  rang_radwege: 1 von 39
+  superlativ_radwege: höchster Wert aller Freiburger Bezirke
+  bedeutung_fuer_ort: Stadtteil mit hervorragender Freizeit- und Fahrradinfrastruktur
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2024
+VERTRAUEN_EXTRAKTION: 0.95

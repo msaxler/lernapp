@@ -1,0 +1,50 @@
+{
+ "stufe": "pruefung-tief",
+ "ort": "454-weingarten-freiburg",
+ "prompt": "prompt-pruefung-v0.2.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 131368,
+ "token_ein": 88346,
+ "token_aus": 3963,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 81442,
+  "cache_read_input_tokens": 6902,
+  "output_tokens": 3963,
+  "output_tokens_details": {
+   "thinking_tokens": 2498
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 81442,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 3963,
+    "cache_read_input_tokens": 6902,
+    "cache_creation_input_tokens": 81442,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 81442
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.7321844,
+ "sekunden": 39,
+ "fehler": false,
+ "zeit": "2026-10-27T14:49:02"
+}

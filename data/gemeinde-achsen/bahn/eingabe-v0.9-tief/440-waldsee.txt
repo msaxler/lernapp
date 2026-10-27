@@ -1,0 +1,720 @@
+ZIELORT: Waldsee (Ortsteil von Freiburg im Breisgau)
+LAGE: Stadtteil von Freiburg im Breisgau, 3 km südöstlich der Stadtmitte (Luftlinie)
+ARTIKEL: Waldsee (Freiburg im Breisgau)
+
+GRUNDDATEN:
+  landkreis: Stadtkreis Freiburg im Breisgau — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [Wikidata P131]
+  bundesland: Baden-Württemberg — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [über die Gemeinde]
+  einwohner: 5973  [Wikidata P1082, Stand 2024]
+  flaeche_km2: 4,82  [Wikidata P2046]
+  dichte_ew_km2: 1239  [berechnet aus Einwohner und Fläche]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [Wikidata P395]
+  hoehe_m: 300 | 310  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 11608691)]
+  naechste_grossstadt: Freiburg im Breisgau, 3 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 130 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  plz: 79117  [Wikidata P281]
+  vorwahl: 0761  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: GRÜNE 38,6 %, CDU 17,6 %, SPD 16 %, Die Linke 15,2 %; Wahlbeteiligung 88,7 %  [Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 83,4 % im Bundesland (Ort 88,7 %, Abstand 5,3 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+ZEUGEN (OpenStreetMap, Gemeindegrenze; belegt nur, dass es die Sache gibt):
+  Natur: Odilienquelle
+  Natur: Vogelsang Quelle
+  Burg/Denkmal: Gedenkstein Maria Ladenburger
+  Burg/Denkmal: Auferstehung
+  Burg/Denkmal: Grablegung
+  Burg/Denkmal: Pieta
+  Burg/Denkmal: Maria und Johannes unterm Kreuz
+  Burg/Denkmal: Kreuzfall
+  Burg/Denkmal: Maria und Simon von Cyrene
+  Burg/Denkmal: Verurteilung und Kreuzaufnahme
+  Sportstätte: Multifunktionsraum
+  Sportstätte: FT Bad (swimming)
+  Sportstätte: Burdahalle (multi)
+  Sportstätte: Tennishalle
+  Sportstätte: Act-Now-Halle (multi)
+  Sportstätte: Freiburger Fußballschule (soccer;tennis)
+  Gewässer: Dreisam
+  Bad: Strandbad (swimming)
+  Freizeit: Möslestadion (soccer)
+  Freizeit: Fun Strand an der Dreisam - Beachclub und Minigolf
+  Freizeit: Unistadion (multi)
+  Freizeit: Dreisamstadion (soccer)
+  Bildung: UWC Robert Bosch College
+  Bildung: Albert-Ludwigs-Universität Freiburg
+  Aussicht: Roßkopfturm (seit 1889)
+  Radweg: Dreisamtal-Radwanderweg
+  Radweg: Südschwarzwald-Radweg (269 km)
+  Wanderweg: Planetenweg
+  Wanderweg: Himmelreich-Jakobusweg
+  Schutzgebiet: Naturpark Südschwarzwald (seit 1999)
+
+BISHERIGE KARTEN (9):
+- Namensgeber war ein Eisweiher | Der Stadtteil trägt den Namen eines Sees. Was war dieser Waldsee ursprünglich? | 440-waldsee/011.ursprung
+- Sportmeile an der Dreisam | Das Dreisamstadion des SC Freiburg liegt in Waldsee an der Dreisam. Was schließt westlich direkt daran an? | 440-waldsee/029.lage
+- Dreisam als nördliche Bebauungsgrenze | Die Dreisam fließt von Ost nach West durch Waldsee. Welche Rolle spielt sie für die Bebauung des Stadtteils? | 440-waldsee/001.dreisam_grenzfunktion (gesperrt, Inhalt war nicht haltbar)
+- Pilzzucht im alten Bunker | Der Hirzbergbunker entstand im Zweiten Weltkrieg als Kommandostelle des Luftschutzes. Was geschieht heute darin? 1. Ein Winzer lagert dort Wein in Fässern. 2. Er dient wieder als öffentlicher Schutzraum. 3. Eine Käserei lässt dort Käse reifen. 4. Ein Pächter züchtet dort Pilze. | 440-waldsee/019.heutige_nutzung
+- Kartäuserkloster wird zum College | Die Kartaus war einst ein Kartäuserkloster; erhalten ist ein barocker Prälatenbau. Was ist heute darin untergebracht? | 440-waldsee/004.heutige_nutzung
+- Schnellstraße ohne Waldsee-Ausfahrt | Zwei dieser Aussagen stimmen, eine ist gelogen. Welche? | 440-waldsee/030.bundesstrasse_neu (gesperrt, Inhalt war nicht haltbar)
+- Fast neun von zehn wählen | Bei der Bundestagswahl 2025 gingen in Baden-Württemberg 83,4 Prozent zur Wahl. Wie lag die Wahlbeteiligung in Waldsee im Vergleich? | GRUNDDATEN.wahl_btw25
+- Freiburgs größtes Freibad, einst umstritten | Beim Bau des Strandbads an der Dreisam gab es Proteste von katholischer Seite. Welchen Grund nennt die Ortsgeschichte? | 440-waldsee/012.kritik_zeitgenössisch
+- Waldkapelle mit Augenquelle | Im Wald auf der Nordseite von Waldsee liegt St. Ottilien, ein Ausflugslokal mit kleiner Kirche und Quelle. Wofür soll das Wasser gut sein? | 440-waldsee/017.quelle
+
+PLAN:
+  Karte 1: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, A, wahre Option an Stelle 1
+  Karte 2: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 2
+  Karte 3: FACETTE INFRA (Ersatz: LAGE), Geschichte, D, wahre Option an Stelle 3
+  RANG der neuen Karten ab 10
+
+FAHRT: Wiehre, Waldsee, Altstadt, Stühlinger, Neuburg, Herdern, Zähringen, Brühl, Oberau, Haslach, Sankt Georgen, Vauban, Weingarten, Betzenhausen, Mooswald, Landwasser, Lehen, Rieselfeld, Dietenbach, Opfingen, Tiengen, Munzingen, Waltershofen, Ebnet, Littenweiler, Kappel, Merzhausen, Au, Horben, Günterstal, Ebringen, Schallstadt, Bad Krozingen, Staufen, Heitersheim, Müllheim, Waldkirch, Hochdorf, Gundelfingen, March, Umkirch, Gottenheim, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Breisach, Kirchzarten, Stegen, Oberried, Buchenbach, Höllental, Hinterzarten, Breitnau, Titisee, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Breitscheid, Kloster Marienhaus, Wolfenacker, Kupferdreh, Überruhr, Bergerhausen, Rellinghausen, Stadtwald, Fischlaken, Werden, Burgaltendorf, Steele, Byfang, Rüttenscheid, Bredeney, Huttrop, Kettwig
+
+NEUE FAKTEN (Zielort, aus den neuen Quellen):
+ID: 440-waldsee-tief/001
+ENTITÄT: stadion
+BEZEICHNUNG: Dreisamstadion
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Waldsee
+QUELLE: https://visit.freiburg.de/dreisamstadion | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betreiber: SC Freiburg
+  solarflaeche: 2200 m²
+  stromproduktion_jaehrlich: 275000 kWh
+  co2_einsparung_jaehrlich: wert: 136 Tonnen, genauigkeit: ca.
+  superlativ: erstes komplettes Solarstadion in Deutschland
+  bedeutung_fuer_ort: Wahrzeichen für Nachhaltigkeit und Innovationskraft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 440-waldsee-tief/002
+ENTITÄT: park
+BEZEICHNUNG: Möslepark
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Waldsee
+QUELLE: https://visit.freiburg.de/moeslepark-und-waldsee | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anlagezeit: Wert: 1875, genauigkeit: "zweite Hälfte 19. Jahrhundert"
+  superlativ: eine der ältesten Parkanlagen der Stadt, neben dem Schlossberg
+  namensherkunft: "Mösle" bedeutet "kleiner Mooswald"
+  grund_namensgebung: Wasserreichtum; unter der Parklandschaft liegen die ältesten Quellfassungen der Stadt
+  baumbestand_hauptarten: Stieleichen und Hainbuchen
+  baumbestand_unterpflanzung: Rhododendren und Azaleensträucher
+  charakteristikum: alter und dichter Baumbestand
+  bedeutung_fuer_ort: Ort der ältesten Trinkwasser-Quellfassungen Freiburgs
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 440-waldsee-tief/003
+ENTITÄT: gewaesser
+BEZEICHNUNG: Waldsee
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Waldsee
+QUELLE: https://visit.freiburg.de/moeslepark-und-waldsee | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umgebung: Grünanlagen mit bewirteter Uferterrasse und Waldrandlage
+  nutzung: Freizeit und Naherholung, besonders im Sommer
+  bedeutung_fuer_ort: beliebtes Erholungs- und Ausflugsziel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 440-waldsee-tief/004
+ENTITÄT: restaurant
+BEZEICHNUNG: Waldrestaurant St. Ottilien
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Waldsee
+QUELLE: https://visit.freiburg.de/waldrestaurant-st-ottilien | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Freiburger Stadtwald
+  gruendungsjahr: 1889
+  kueche_art: regionale Küche mit saisonalen Gerichten
+  spezialitaeten: vegetarische und vegane Optionen, regionale Zutaten
+  biergarten: ja, unter alten Kastanienbäumen
+  ausstattung_kinder: großer Spielplatz
+  naehe_attraktionen: Kapelle und Ottilienquelle
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1889
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 440-waldsee-tief/005
+ENTITÄT: freibad
+BEZEICHNUNG: Strandbad Freiburg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Waldsee
+QUELLE: https://visit.freiburg.de/strandbad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: größtes Freibad der Stadt
+  ausstattung_schwimmen: Schwimmerbecken, Wasserrutsche
+  ausstattung_kinder: Planschbecken, Spielbereich
+  ausstattung_sport: Beachvolleyball, Tischtennis
+  ausstattung_sonstige: großzügige Liegewiesen, schattenspendende Bäume
+  bedeutung_fuer_ort: zentrale Badeanlage und Sommerfrischeort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 440-waldsee-tief/006
+ENTITÄT: gruen_und_freizeitanlage
+BEZEICHNUNG: Dreieckswiese
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Waldsee
+QUELLE: https://visit.freiburg.de/dreieckswiese | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: unterhalb der Sandfangbrücke an der Dreisam
+  ausstattung: Liegeflächen, Fitness-Parcours, Slackline-Anlage, Beachvolleyballfeld
+  charakteristikum: offen, naturnah mit städtischem Charme
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 440-waldsee-tief/007
+ENTITÄT: ort
+BEZEICHNUNG: Waldsee
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Waldsee
+QUELLE: https://visit.freiburg.de/moeslepark-und-waldsee | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_stadtteil_von: Freiburg im Breisgau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 440-waldsee-tief/008
+ENTITÄT: ort
+BEZEICHNUNG: Waldsee
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Waldsee
+QUELLE: https://www.freiburg.de/pb/site/Freiburg/get/params_E-369397302/2463694/Stadtbezirksatlas%202025.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezirksnummer: 310
+  zufriedenheit_sport_freizeitmoglichkeiten: 91
+  rang_sport_freizeitmoglichkeiten: 1 von 39
+  superlativ_sport_freizeitmoglichkeiten: höchster Wert aller Freiburger Bezirke
+  zufriedenheit_oeupv: 94
+  rang_oeupv: 2 von 39
+  zufriedenheit_parkplaetze: 71
+  rang_parkplaetze: 3 von 39
+  haeufigkeit_fussweg_und_fahrrad: 86
+  rang_fussweg_und_fahrrad: 3 von 39
+  zufriedenheit_radwege: 86
+  rang_radwege: 1 von 39
+  superlativ_radwege: höchster Wert aller Freiburger Bezirke
+  bedeutung_fuer_ort: Stadtteil mit hervorragender Freizeit- und Fahrradinfrastruktur
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2024
+VERTRAUEN_EXTRAKTION: 0.95
+
+BISHERIGE FAKTEN (Zielort):
+ID: 440-waldsee/001
+ENTITÄT: ort
+BEZEICHNUNG: Waldsee
+FACETTE: LAGE
+EIGENSCHAFTEN:
+  ist_stadtteil_von: Freiburg im Breisgau
+  lage: zwischen Wiehre und Oberau (Westen) und Littenweiler und Ebnet (Osten)
+  durchflossen_von: Dreisam (von Ost nach West)
+  dreisam_grenzfunktion: nördliche Grenze der Bebauung
+  einwohner: 5900
+  benannt_nach: Naherholungsgebiet Waldsee
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 440-waldsee/002
+ENTITÄT: kirche
+BEZEICHNUNG: Dreifaltigkeitskirche
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  geweiht_der: Heilige Dreifaltigkeit
+  erbaut: 1953
+  architekt: Gregor Schroeder
+  bedeutung_fuer_ort: geistlicher Mittelpunkt für Katholiken
+  ergaenzt_um: Gemeindesaal und Cella (geistliches Zentrum)
+  konfession: katholisch
+QUELLE: https://leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7745/Waldsee | Landesportal
+GUELTIG_AB: 1953
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 440-waldsee/003
+ENTITÄT: pfarrei
+BEZEICHNUNG: Katholische Pfarrei Waldsee
+FACETTE: GESCHICHTE
+EIGENSCHAFTEN:
+  frueherer_status: Kuratie (ab 1950 von Maria-Hilf-Pfarrei getrennt)
+  status_seit: Pfarrei (ab 1961)
+  konfession: katholisch
+QUELLE: https://leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7745/Waldsee | Landesportal
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 440-waldsee/004
+ENTITÄT: kloster
+BEZEICHNUNG: Kartaus (Kartäuserkloster)
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Waldsee
+EIGENSCHAFTEN:
+  gegruendet: 1347
+  aufgehoben: 1783
+  gebaeude_erhalten: Prälatenbau im Barockstil
+  bewohner_notable: Heinrich Hansjakob (Pfarrer, Heimatschriftsteller)
+  bedeutung_fuer_ort: markantestes historisches Gebäude im Stadtteil
+  heutige_nutzung: UWC Robert Bosch College (seit 2014)
+  gebaeude_ensemble: mit Wasserkraftwerk Freiburger Stromschlössle und Bauernhof (ehemaliges Ökonomiegebäude mit Schwarzwälder Krüppelwalmdach)
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+GUELTIG_AB: 1347
+GUELTIG_BIS: 1783
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 440-waldsee/005
+ENTITÄT: wasserkraftwerk
+BEZEICHNUNG: Freiburger Stromschlössle
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Waldsee
+EIGENSCHAFTEN:
+  erbaut: 1908
+  lage: unterhalb des Klosters Kartaus
+  charakteristikum: markante Bauform
+  teil_gebaeude_ensemble: Kartaus, Bauernhof
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+GUELTIG_AB: 1908
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 440-waldsee/006
+ENTITÄT: hochschule
+BEZEICHNUNG: UWC Robert Bosch College
+FACETTE: BILDUNG
+CHARAKTERISTIKA: Institution mit überörtlicher Bekanntheit
+ORTSTEIL_BEZUG: Waldsee
+EIGENSCHAFTEN:
+  ansiedlung_auf_gelaende: ehemaliges Kloster Kartaus
+  seit: 2014
+  bedeutung_fuer_ort: Wiederbelebung und Nutzung historischen Gebäudes
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 440-waldsee/007
+ENTITÄT: villa
+BEZEICHNUNG: Villa Wilhelm Schenk
+FACETTE: GESCHICHTE | ALLTAG
+ORTSTEIL_BEZUG: Waldsee
+EIGENSCHAFTEN:
+  erbaut: 1905-1906
+  besitzer: Wilhelm Schenk (Nährmittelfabrikant)
+  architekt: Martin Dülfer
+  stil: Jugendstil
+  gartengestaltung: ebenfalls von Martin Dülfer
+  beschreibung: eine der schönsten Jugendstilvillen Freiburgs
+  lage: zwischen Schwarzwald- und Hansjakobstraße
+  fruehe_nutzung: katholische Schwesternkongregation
+  kapelle_funktion: Pfarrkuratie St. Carolus, Keimzelle der Pfarrei Heilige Dreifaltigkeit
+  heutige_nutzung: Kindergarten St. Carolus
+  zustand: weitgehend im ursprünglichen Zustand erhalten
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 440-waldsee/008
+ENTITÄT: gebaeude
+BEZEICHNUNG: Haus Badische Heimat
+FACETTE: ALLTAG | GESCHICHTE
+ORTSTEIL_BEZUG: Waldsee
+EIGENSCHAFTEN:
+  erbaut: 1926
+  architekt: Carl Anton Meckel
+  stil: neobarock
+  merkmal_dach: hohes und steiles Satteldach (ungewöhnlich für die Umgebung)
+  merkmal_fenster: reich verzierte Korbgitter an Erdgeschossfenstern
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+GUELTIG_AB: 1926
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 440-waldsee/009
+ENTITÄT: gasthof
+BEZEICHNUNG: Römerhof
+FACETTE: ALTAG | GESCHICHTE
+ORTSTEIL_BEZUG: Waldsee
+EIGENSCHAFTEN:
+  erbaut: 1925
+  lage_original: anfangs auf freiem Feld an Hansjakobstraße
+  merkmal: Dachform Zollingerdach
+  groesse: auffallend groß
+  urspruengliche_nutzung: Gastwirtschaft
+  heutige_nutzung: schulische Einrichtungen
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+GUELTIG_AB: 1925
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 440-waldsee/010
+ENTITÄT: gasthaus
+BEZEICHNUNG: Gasthaus zum Schiff
+FACETTE: GESCHICHTE | ALLTAG
+ORTSTEIL_BEZUG: Waldsee
+EIGENSCHAFTEN:
+  erbaut: 1777
+  lage: an der Straße in den Schwarzwald
+  bedeutung_fuer_entwicklung: bis dahin einziges Gebäude im Gebiet, Ausgangspunkt der Stadtteilentwicklung zwischen WWI und WWII
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+GUELTIG_AB: 1777
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 440-waldsee/011
+ENTITÄT: naherholungsgebiet
+BEZEICHNUNG: Waldsee (See)
+FACETTE: FREIZEIT | LAGE
+CHARAKTERISTIKA: Naherholungsgebiet
+ORTSTEIL_BEZUG: Waldsee
+EIGENSCHAFTEN:
+  ursprung: ehemaliger Eisweiher
+  anlage: um 1900
+  bedeutung_fuer_ort: Namensgeber des Stadtteils
+  amenities: Ausflugslokal, Bootsverleih, Gaststätte
+  gaststatte_besonderheit: Konzertprogramm, junges Publikum
+  benachbarung: Möslepark (durch Höllentalbahn-Bahnlinie getrennt)
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 440-waldsee/012
+ENTITÄT: bad
+BEZEICHNUNG: Strandbad
+FACETTE: FREIZEIT
+CHARAKTERISTIKA: Freibad
+ORTSTEIL_BEZUG: Waldsee
+EIGENSCHAFTEN:
+  erbaut: 1934
+  zeitgenössischer_status: eines der modernsten Freibäder Süddeutschlands zur Bauzeit
+  kritik_zeitgenössisch: Proteste von katholischer Seite wegen fehlender Trennung Damen- und Herrenbad
+  groesse: Freiburgs größtes Freibad
+  lage: östlich der Sportanlagen an der Dreisam
+  bedeutung_fuer_ort: Freizeitinfrastruktur und Anziehungspunkt
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+GUELTIG_AB: 1934
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 440-waldsee/013
+ENTITÄT: stadion
+BEZEICHNUNG: Möslestadion
+FACETTE: FREIZEIT
+CHARAKTERISTIKA: Fußballanlage
+ORTSTEIL_BEZUG: Waldsee
+EIGENSCHAFTEN:
+  lage: Süden des Stadtteils
+  frueherer_nutzer: Freiburger Fußballclub (FFC)
+  heutiger_nutzer: Fußballschule des SC Freiburg
+  bedeutung_fuer_ort: Sportanlage und Freizeitinfrastruktur
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+GUELTIG_AB: genauer_zeitpunkt_unklar
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 440-waldsee/014
+ENTITÄT: stadion
+BEZEICHNUNG: Dreisamstadion
+FACETTE: FREIZEIT
+CHARAKTERISTIKA: Fußballstadion
+ORTSTEIL_BEZUG: Waldsee
+EIGENSCHAFTEN:
+  nutzer: SC Freiburg
+  lage: an der Dreisam
+  nachbarschaft: westlich anschließend weitere Sportstätten verschiedener Vereine
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 440-waldsee/015
+ENTITÄT: gymnasium
+BEZEICHNUNG: Berthold-Gymnasium
+FACETTE: BILDUNG
+CHARAKTERISTIKA: Bildungseinrichtung, älteste höhere Schule Freiburgs
+ORTSTEIL_BEZUG: Waldsee
+EIGENSCHAFTEN:
+  superlativ: älteste höhere Bildungseinrichtung in Freiburg
+  grund_neubau: Originalgebäude in Altstadt im WWII zerstört
+  neubau: 1957
+  lage_neubau: an der Dreisam
+  nachbarschaft: unmittelbare Nähe zum Deutsch-Französischen Gymnasium (Stadtteil Oberau)
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+GUELTIG_AB: 1957
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 440-waldsee/016
+ENTITÄT: jugendherberge
+BEZEICHNUNG: Jugendherberge Waldsee
+FACETTE: FREIZEIT
+CHARAKTERISTIKA: Freizeiteinrichtung
+ORTSTEIL_BEZUG: Waldsee
+EIGENSCHAFTEN:
+  lage: am Waldrand gegenüber dem SC Freiburg Stadion
+  kapazitaet: 350 Betten in 102 Zimmern
+  ausstattung: großer Saal, Konferenzraum
+  freiflaechen: gute Möglichkeiten für Spiel und Bewegung
+  inbetriebnahme: 1978
+  renovation: 2015-2017 (Renovierung und Erweiterung)
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 440-waldsee/017
+ENTITÄT: ausflugslokal
+BEZEICHNUNG: St. Ottilien
+FACETTE: FREIZEIT | LAGE
+CHARAKTERISTIKA: Ausflugslokal mit Kirche
+ORTSTEIL_BEZUG: Waldsee
+EIGENSCHAFTEN:
+  lage: im Wald auf der Nordseite
+  typ: Ausflugslokal
+  bedeutung_fuer_ort: beliebtes Spazierziel
+  besonderheit_kirche: kleine Kirche neben dem Lokal
+  kirche_verbindung: Legende der Heiligen Odilia aus dem Elsass
+  quelle: heilkräftiges Wasser für die Augen
+  fresken: alte Fresken in letzten Jahrzehnten freigelegt
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 440-waldsee/018
+ENTITÄT: park
+BEZEICHNUNG: Möslepark / Konrad-Guenther-Park
+FACETTE: FREIZEIT | LAGE
+ORTSTEIL_BEZUG: Waldsee
+EIGENSCHAFTEN:
+  lage: südlich des Waldsee
+  besonderheit: Höllentalbahn-Bahnlinie durchschneidet den Park
+  nordbereich_name: Konrad-Guenther-Park
+  beeintraechtigung: B 31-Ost Neubau hat Park in Mitleidenschaft gezogen
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 440-waldsee/019
+ENTITÄT: bunker
+BEZEICHNUNG: Hirzbergbunker
+FACETTE: GESCHICHTE | INFRASTRUKTUR
+ORTSTEIL_BEZUG: Waldsee
+EIGENSCHAFTEN:
+  lage: Schlossberg, Kartäuserstraße 117, unterhalb des Johannisheims
+  angelegt: 1940er-Jahre
+  ursprung: Kommandostelle der örtlichen Luftschutzabteilung
+  zweck_militaerisch: ausschließlich
+  personal: Wehrmachthelferinnen als SS-Funkerinnen
+  ausstattung: Zentralheizung, Parkettboden
+  nachkrieg_schicksal: nicht gesprengt wie andere Bunker (zu feucht für zivile Nutzung)
+  heutige_nutzung: Pilzzucht seit 1990er-Jahren
+  pilzzucht_betreiber: Peter Metzger (Pacht vom Bund)
+  pilzzucht_bedingungen: konstante Luftfeuchtigkeit und Temperatur ca. 18°C
+  pilzsorten: 10-15 verschiedene
+  vermarktung: vor dem Bunker, auf Märkten, an Restaurants
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+GUELTIG_AB: 1940
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 440-waldsee/020
+ENTITÄT: einkaufszentrum
+BEZEICHNUNG: ZO (Zentrum Oberwiehre)
+FACETTE: ALLTAG | INFRASTRUKTUR
+ORTSTEIL_BEZUG: Waldsee
+EIGENSCHAFTEN:
+  erbaut: 2004
+  lage: am Alten Messplatz angrenzend an Waldsee
+  hintergrund: Verlegung Messe Freiburg in den Westen (Ende 1990er-Jahre)
+  architekten: Melder & Binkert (Freiburger Architekten)
+  zweck: Märkte- und Zentrenkonzept der Stadt (verbrauchernahe Versorgung in Stadtteilen)
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 440-waldsee/021
+ENTITÄT: altenheim
+BEZEICHNUNG: Johannisheim
+FACETTE: ALLTAG | INFRASTRUKTUR
+CHARAKTERISTIKA: Einrichtung für ältere Menschen
+ORTSTEIL_BEZUG: Waldsee
+EIGENSCHAFTEN:
+  typ: Alten- und Pflegeheim
+  erbaut: 1969
+  lage: bei der Kartaus
+  betreiber: Heiliggeistspitalstiftung Freiburg
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 440-waldsee/022
+ENTITÄT: wohnanlage
+BEZEICHNUNG: Laubenhof
+FACETTE: ALLTAG | INFRASTRUKTUR
+ORTSTEIL_BEZUG: Waldsee
+EIGENSCHAFTEN:
+  typ: betreutes Wohnen für ältere Menschen
+  besonderheit: Wohnen inmitten von Familien
+  zeitraum_bauschaden: Anfang 1980er-Jahre
+  problem: erhebliche Bauschäden, Teilabriss notwendig
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 440-waldsee/023
+ENTITÄT: pflegeheim
+BEZEICHNUNG: Haus Katharina Egg
+FACETTE: ALLTAG | INFRASTRUKTUR
+CHARAKTERISTIKA: Einrichtung für ältere Menschen
+ORTSTEIL_BEZUG: Waldsee
+EIGENSCHAFTEN:
+  typ: Pflegeheim
+  bezug: Dezember 2008
+  grund: Ersatz für Laubenhof-Schäden
+  funktion: auch Unterbringung von Bewohnern aus dem Kloster Kartaus
+  betreiber: Heiliggeistspitalstiftung Freiburg
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 440-waldsee/024
+ENTITÄT: wohnanlage
+BEZEICHNUNG: Kreuzsteinäcker
+FACETTE: ALLTAG | INFRASTRUKTUR
+ORTSTEIL_BEZUG: Waldsee
+EIGENSCHAFTEN:
+  typ: Alten-Wohnanlage für betreutes Wohnen
+  gegruendet: ab 1997
+  lage: östlicher Rand des Stadtteils
+  verkehr: unmittelbar bei Endhaltestelle Stadtbahnlinie 1
+  betreiber: Heiliggeistspitalstiftung Freiburg
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 440-waldsee/025
+ENTITÄT: wasserkraftanlage
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Waldsee
+EIGENSCHAFTEN:
+  typ: Wasserkraftschnecke
+  erbaut: 2008
+  lage: linkes Ufer Dreisam, östlich einer Straßenbrücke
+  funktion: Stromerzeugung
+  leistung: ca. 300.000 kWh pro Jahr
+  versorgung: ausreichend für ca. 120 Haushalte
+  groesse: 8 Meter lang, Durchmesser 3,10 Meter
+  bedeutung_fuer_deutschland: eine der größten Anlagen dieser Art in Deutschland
+  vorlaeufige_infra_historisch: Sandfang (historisch, existiert nicht mehr)
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 440-waldsee/026
+ENTITÄT: kanal
+BEZEICHNUNG: Gewerbekanal
+FACETTE: INFRA | GESCHICHTE
+ORTSTEIL_BEZUG: Waldsee
+EIGENSCHAFTEN:
+  ursprung: Mittelalter
+  funktion_historisch: Energieversorgung für Gewerbe (Mühlen, Granatschleiferei, Gerberei, Färberei, etc.)
+  lage: rechtes Flussufer Dreisam, östlich der Straßenbrücke
+  verweis_stadtteil: Hauptteil im Stadtteil Oberau
+  funktion_heute: Betrieb von Kleinkraftwerken
+  besonderheit: Ableitung von Wasser für Freiburger Bächle (im Stadtteil Oberau)
+  bedeutung_fuer_stadt: bedeutende Infrastruktur für Altstadt-Energieversorgung (südlich und östlich)
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 440-waldsee/027
+ENTITÄT: campingplatz
+FACETTE: FREIZEIT | INFRASTRUKTUR
+ORTSTEIL_BEZUG: Waldsee
+EIGENSCHAFTEN:
+  lage: südlich der Höllentalbahn-Bahnlinie
+  dazugehoerig: Waldkurbad (geschlossen)
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 440-waldsee/028
+ENTITÄT: bad
+BEZEICHNUNG: Waldkurbad
+FACETTE: FREIZEIT
+CHARAKTERISTIKA: Wellnessanlage/Bad
+ORTSTEIL_BEZUG: Waldsee
+EIGENSCHAFTEN:
+  ausstattung: Saunalandschaft
+  lage: dazugehörig zum Campingplatz
+  betriebsende: Herbst 2018
+  status: offizieller Betrieb eingestellt
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+GUELTIG_BIS: 2018
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 440-waldsee/029
+ENTITÄT: sportanlage
+BEZEICHNUNG: Universitäts-Sportanlagen / Freiburger Turnerschaft von 1844
+FACETTE: FREIZEIT | INFRASTRUKTUR
+ORTSTEIL_BEZUG: Waldsee
+EIGENSCHAFTEN:
+  lage: westlich des SC Freiburg Stadions, an der Dreisam
+  sporthalle: 1925 erbaut
+  sporthalle_stil: Klinkerbauweise, Bauhausstil
+  architekt: Hermann Alker
+  olympiastutzpunkt: Freiburg-Schwarzwald im Georg-Thoma-Haus
+  verein: Freiburger Turnerschaft von 1844
+  besonderheit_schule: Deutschlands erste Sportgrundschule (seit 2007)
+  charakteristika: Sportstätten und Trainingseinrichtung
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+GUELTIG_AB: 1925
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 440-waldsee/030
+ENTITÄT: infrastruktur_verkehr
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Waldsee
+EIGENSCHAFTEN:
+  stadtbahnlinie: 1
+  haltestellen: Laßbergstraße, Römerhof, Hasebergstraße, Emil-Gött-Straße
+  stadtbahnlinie_erweiterung_geplant_ab: 2027
+  stadtbahnlinie_erweiterung_route: Laßbergstraße über Bahnhof Littenweiler bis Kappler Knoten
+  bahnlinie_suedlich: Höllentalbahn
+  bahnhof_naehe: Freiburg-Littenweiler
+  radwege: FR 8 (Höllentalbahn-Verlauf), FR 1 (Dreisam-Verlauf)
+  radschnellweg_geplant: entlang Karthäuser Straße nach Kirchzarten (über Ebnet und Zarten)
+  fahrradverleih_frelo: 4 Stationen im Stadtteil
+  hauptstrasse: Hansjakobstraße (Wohngebiet-Erschließung)
+  bundesstrasse_alt: früher durchquerend, jetzt lokale Erschließungsstraße herabgestuft
+  bundesstrasse_neu: B 31-Ost (vierspurig, kreuzungsfrei, keine Zufahrtsmöglichkeit in Waldsee)
+  effekt_b31ost: einerseits Entlastung Wohngebiete vom Fernverkehr, andererseits neue Belastungen für andere Bewohner
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 440-waldsee/031
+ENTITÄT: konflikt
+FACETTE: GESCHICHTE | POLITIK
+ORTSTEIL_BEZUG: Waldsee
+EIGENSCHAFTEN:
+  beschreibung: Proteste gegen geplanten und realisierten Neubau der Bundesstraße B 31-Ost
+  zeitraum: 1990er-Jahre
+  intensitaet: zahlreiche, teilweise heftige Protestaktionen
+  erfolg: Neubau trotzdem realisiert
+  effekt_positiv: Wohngebiete vom Fernverkehr entlastet
+  effekt_negativ: neue Belastungen für andere Bewohner, Reduktion des Erholungswerts des Stadtteils
+  folge_fernverkehr: vierspurige, kreuzungsfreie Straße bringt zusätzlichen belastenden Fernverkehr
+QUELLE: https://de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau) | Wikipedia
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
