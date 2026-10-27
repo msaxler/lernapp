@@ -80,6 +80,33 @@ def karte_lesen(text):
             'faktencheck': (feld(text, 'FAKTENCHECK').split(' – ')[0] or 'ungeprüft').strip()})
 
 
+# Spaziergang-Modus (Mike 2026-10-27): eine Karte, deren Fakt von einer Ortsseite mit Koordinaten stammt (visit.freiburg.de),
+# bekommt einen Punkt [lat, lon, Name]; zu Fuß kommt sie, wenn man dort steht. Fakt-Kennung → fakten/<stamm>.txt → QUELLE.
+POIS = os.path.join(GA, 'freiburg-vertiefung', 'visit', 'pois.json')
+_pois, _fakten = None, {}
+
+
+def punkt(iter_, text):
+    global _pois
+    if _pois is None:
+        _pois = {p['url']: p for p in json.loads(lies(POIS))} if os.path.exists(POIS) else {}
+    m = re.match(r'([^\s/]+)/(\d+)', feld(text, 'FAKT-ID'))
+    if not m or not _pois:
+        return None
+    stamm, nr = m.groups()
+    pfad = os.path.join(iter_, 'fakten', stamm + '.txt')
+    if pfad not in _fakten:
+        _fakten[pfad] = {}
+        if os.path.exists(pfad):
+            for b in re.split(r'^---\s*$', lies(pfad), flags=re.M):
+                k = re.search(r'^ID:\s*\S+/(\d+)', b, flags=re.M)
+                q = re.search(r'QUELLE:\s*(\S+)', b)
+                if k and q:
+                    _fakten[pfad][k.group(1)] = q.group(1)
+    p = _pois.get(_fakten[pfad].get(nr))
+    return [round(p['lat'], 5), round(p['lon'], 5), p['name']] if p and p.get('lat') else None
+
+
 def km(a, b):
     p1, p2 = math.radians(a['lat']), math.radians(b['lat'])
     d = math.sin((p2 - p1) / 2) ** 2 + math.cos(p1) * math.cos(p2) * math.sin(math.radians(b['lon'] - a['lon']) / 2) ** 2
@@ -114,11 +141,15 @@ def main():
             karten = []
             for v in [x for x in vorrat if x['ort'] == slug and (slug, x['lauf'], x['karte']) not in raus]:
                 pfad = os.path.join(iter_, 'karten-geprueft', v['lauf'], slug + '.md')
-                k = karte_lesen(abschnitte(lies(pfad), KOPF.get(v['lauf'], 'Karte'))[v['karte']])
+                roh = abschnitte(lies(pfad), KOPF.get(v['lauf'], 'Karte'))[v['karte']]
+                k = karte_lesen(roh)
                 if not k:
                     fehler.append('%s %s %s %d: Lösung nicht lesbar' % (ordner, slug, v['lauf'], v['karte']))
                     continue
                 k['id'] = '%s/%s/%d' % (slug, v['lauf'], v['karte'])
+                pk = punkt(iter_, roh)
+                if pk:
+                    k['punkt'] = pk
                 k['tisch'] = (v['lauf'] == lauf_reihe and reihe.get(slug) == v['karte'])
                 karten.append(k)
             anschluss, steckbrief = [], []

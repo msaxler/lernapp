@@ -5230,6 +5230,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/weingut-dilger",
 "faktencheck": "bestätigt",
 "id": "439-wiehre/v0.9-tief/2",
+"punkt": [
+47.98492,
+7.84825,
+"Weingut und Brennerei Andreas Dilger"
+],
 "tisch": false
 },
 {
@@ -5253,6 +5258,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/sternwald",
 "faktencheck": "bestätigt",
 "id": "439-wiehre/v0.9-tief/3",
+"punkt": [
+47.9848,
+7.86243,
+"Sternwald"
+],
 "tisch": false
 },
 {
@@ -5298,6 +5308,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/am-holbeinpferd",
 "faktencheck": "korrigiert",
 "id": "439-wiehre/v0.9-tief/6",
+"punkt": [
+47.97967,
+7.84763,
+"Holbeinpferd"
+],
 "tisch": false
 }
 ],
@@ -5521,6 +5536,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/moeslepark-und-waldsee",
 "faktencheck": "korrigiert",
 "id": "440-waldsee/v0.9-tief/1",
+"punkt": [
+47.98383,
+7.87762,
+"Möslepark und Waldsee"
+],
 "tisch": false
 },
 {
@@ -5544,6 +5564,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/dreisamstadion; pv-magazine.de; OpenStreetMap",
 "faktencheck": "korrigiert",
 "id": "440-waldsee/v0.9-tief/3",
+"punkt": [
+47.98851,
+7.89174,
+"Dreisamstadion"
+],
 "tisch": false
 }
 ],
@@ -5821,6 +5846,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/faulerbad; OpenStreetMap",
 "faktencheck": "bestätigt",
 "id": "444-altstadt-freiburg/v0.9-tief/1",
+"punkt": [
+47.99257,
+7.83981,
+"Faulerbad"
+],
 "tisch": false
 },
 {
@@ -5844,6 +5874,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/kornhaus",
 "faktencheck": "korrigiert",
 "id": "444-altstadt-freiburg/v0.9-tief/2",
+"punkt": [
+47.99622,
+7.85262,
+"Kornhaus"
+],
 "tisch": false
 },
 {
@@ -5867,6 +5902,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/hausbrauerei-feierling; OpenStreetMap",
 "faktencheck": "bestätigt",
 "id": "444-altstadt-freiburg/v0.9-tief/3",
+"punkt": [
+47.99332,
+7.85264,
+"Hausbrauerei Feierling"
+],
 "tisch": false
 },
 {
@@ -5889,6 +5929,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/schneckenvorstadt",
 "faktencheck": "korrigiert",
 "id": "444-altstadt-freiburg/v0.9-tief/4",
+"punkt": [
+47.99315,
+7.84999,
+"Schneckenvorstadt"
+],
 "tisch": false
 },
 {
@@ -5912,6 +5957,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/haus-zum-walfisch",
 "faktencheck": "korrigiert",
 "id": "444-altstadt-freiburg/v0.9-tief/5",
+"punkt": [
+47.99625,
+7.8508,
+"Haus zum Walfisch"
+],
 "tisch": false
 },
 {
@@ -5935,6 +5985,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/universitaetsbibliothek",
 "faktencheck": "korrigiert",
 "id": "444-altstadt-freiburg/v0.9-tief/6",
+"punkt": [
+47.99418,
+7.84495,
+"Universitätsbibliothek Freiburg"
+],
 "tisch": false
 },
 {
@@ -5958,6 +6013,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/alemannische-buehne-freiburg; OpenStreetMap",
 "faktencheck": "bestätigt",
 "id": "444-altstadt-freiburg/v0.9-tief/7",
+"punkt": [
+47.99333,
+7.85298,
+"Alemannische Bühne Freiburg"
+],
 "tisch": false
 },
 {
@@ -5980,6 +6040,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/freiburger-muensterbauhuette",
 "faktencheck": "bestätigt",
 "id": "444-altstadt-freiburg/v0.9-tief/8",
+"punkt": [
+47.99466,
+7.85601,
+"Freiburger Münsterbauhütte"
+],
 "tisch": false
 },
 {
@@ -6003,6 +6068,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/schlossberg",
 "faktencheck": "bestätigt",
 "id": "444-altstadt-freiburg/v0.9-tief/10",
+"punkt": [
+47.99347,
+7.85791,
+"Schlossberg"
+],
 "tisch": false
 },
 {
@@ -6026,6 +6096,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/platz-der-alten-synagoge-1",
 "faktencheck": "bestätigt",
 "id": "444-altstadt-freiburg/v0.9-tief/11",
+"punkt": [
+47.99486,
+7.84612,
+"Platz der Alten Synagoge"
+],
 "tisch": false
 },
 {
@@ -6048,6 +6123,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/freiburg-breisgau-hauptbahnhof",
 "faktencheck": "korrigiert",
 "id": "444-altstadt-freiburg/v0.9-tief/12",
+"punkt": [
+47.99732,
+7.84128,
+"Freiburg (Breisgau) Hauptbahnhof"
+],
 "tisch": false
 },
 {
@@ -6071,6 +6151,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/martinstor",
 "faktencheck": "korrigiert",
 "id": "444-altstadt-freiburg/v0.9-tief/14",
+"punkt": [
+47.99369,
+7.84892,
+"Martinstor"
+],
 "tisch": false
 },
 {
@@ -6094,6 +6179,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/zinnfigurenklause; OpenStreetMap",
 "faktencheck": "bestätigt",
 "id": "444-altstadt-freiburg/v0.9-tief2/1",
+"punkt": [
+47.99303,
+7.85429,
+"Zinnfigurenklause"
+],
 "tisch": false
 },
 {
@@ -6117,6 +6207,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/colombischloessle-archaeologisches-museum",
 "faktencheck": "korrigiert",
 "id": "444-altstadt-freiburg/v0.9-tief2/2",
+"punkt": [
+47.99774,
+7.84615,
+"Colombischlössle – Archäologisches Museum"
+],
 "tisch": false
 },
 {
@@ -6140,6 +6235,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/fasnetmuseum-im-zunfthaus-der-narren; OpenStreetMap",
 "faktencheck": "bestätigt",
 "id": "444-altstadt-freiburg/v0.9-tief2/3",
+"punkt": [
+47.9965,
+7.84818,
+"Fasnetmuseum im Zunfthaus der Narren"
+],
 "tisch": false
 },
 {
@@ -6162,6 +6262,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/konviktstrasse",
 "faktencheck": "bestätigt",
 "id": "444-altstadt-freiburg/v0.9-tief2/4",
+"punkt": [
+47.99403,
+7.85459,
+"Konviktstraße"
+],
 "tisch": false
 },
 {
@@ -6185,6 +6290,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/alte-universitaet-1",
 "faktencheck": "korrigiert",
 "id": "444-altstadt-freiburg/v0.9-tief2/5",
+"punkt": [
+47.99539,
+7.84832,
+"Universität Freiburg - Alte Universität"
+],
 "tisch": false
 },
 {
@@ -6208,6 +6318,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/wiwili-bruecke",
 "faktencheck": "bestätigt",
 "id": "444-altstadt-freiburg/v0.9-tief2/6",
+"punkt": [
+47.99601,
+7.84003,
+"Wiwili-Brücke"
+],
 "tisch": false
 },
 {
@@ -6231,6 +6346,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/planetarium-freiburg; OpenStreetMap",
 "faktencheck": "bestätigt",
 "id": "444-altstadt-freiburg/v0.9-tief2/7",
+"punkt": [
+47.99914,
+7.84304,
+"Planetarium Freiburg"
+],
 "tisch": false
 },
 {
@@ -6253,6 +6373,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/siegesdenkmal",
 "faktencheck": "bestätigt",
 "id": "444-altstadt-freiburg/v0.9-tief2/8",
+"punkt": [
+47.99784,
+7.85293,
+"Siegesdenkmal"
+],
 "tisch": false
 },
 {
@@ -6553,6 +6678,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/massschuhe-patrick-frei",
 "faktencheck": "unsicher",
 "id": "445-stuehlinger/v0.9-tief/1",
+"punkt": [
+47.99466,
+7.83437,
+"Maßschuhe Patrick Frei"
+],
 "tisch": false
 },
 {
@@ -6598,6 +6728,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/rathaus-im-stuehlinger; Fraunhofer ISE",
 "faktencheck": "korrigiert",
 "id": "445-stuehlinger/v0.9-tief/4",
+"punkt": [
+48.0005,
+7.8323,
+"Rathaus im Stühlinger"
+],
 "tisch": false
 },
 {
@@ -6621,6 +6756,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/theater-der-immoralisten; OpenStreetMap",
 "faktencheck": "bestätigt",
 "id": "445-stuehlinger/v0.9-tief/5",
+"punkt": [
+47.99491,
+7.83425,
+"Theater der Immoralisten"
+],
 "tisch": false
 },
 {
@@ -6644,6 +6784,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/lederleplatz",
 "faktencheck": "korrigiert",
 "id": "445-stuehlinger/v0.9-tief/6",
+"punkt": [
+47.99949,
+7.83899,
+"Lederleplatz"
+],
 "tisch": false
 }
 ],
@@ -6875,6 +7020,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/stadtgarten; OpenStreetMap",
 "faktencheck": "bestätigt",
 "id": "446-neuburg-freiburg/v0.9-tief/2",
+"punkt": [
+47.99807,
+7.85765,
+"Stadtgarten und Erpeldenkmal"
+],
 "tisch": false
 },
 {
@@ -6898,6 +7048,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/schlossbergbahn; OpenStreetMap",
 "faktencheck": "korrigiert",
 "id": "446-neuburg-freiburg/v0.9-tief/3",
+"punkt": [
+47.99715,
+7.8574,
+"Schlossbergbahn"
+],
 "tisch": false
 },
 {
@@ -6920,6 +7075,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/schlossbergturm; OpenStreetMap",
 "faktencheck": "unsicher",
 "id": "446-neuburg-freiburg/v0.9-tief/4",
+"punkt": [
+47.99509,
+7.86193,
+"Schlossbergturm"
+],
 "tisch": false
 }
 ],
@@ -7197,6 +7357,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/lallibrunnen",
 "faktencheck": "korrigiert",
 "id": "447-herdern/v0.9-tief/1",
+"punkt": [
+48.00867,
+7.86643,
+"Lallibrunnen"
+],
 "tisch": false
 },
 {
@@ -7220,6 +7385,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/archaeologische-sammlung-der-albert-ludwigs-universitaet-freiburg",
 "faktencheck": "bestätigt",
 "id": "447-herdern/v0.9-tief/3",
+"punkt": [
+48.0037,
+7.85448,
+"Archäologische Sammlung der Albert-Ludwigs-Universität Freiburg im Herderbau"
+],
 "tisch": false
 },
 {
@@ -7243,6 +7413,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/herdermer-kirchplatz",
 "faktencheck": "korrigiert",
 "id": "447-herdern/v0.9-tief/5",
+"punkt": [
+48.007,
+7.86364,
+"Herdermer Kirchplatz"
+],
 "tisch": false
 }
 ],
@@ -7751,6 +7926,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/peac-museum; OpenStreetMap",
 "faktencheck": "unsicher",
 "id": "449-bruehl-freiburg/v0.9-tief/1",
+"punkt": [
+48.02965,
+7.85043,
+"PEAC Museum"
+],
 "tisch": false
 },
 {
@@ -7797,6 +7977,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/kandelhof-kino; OpenStreetMap",
 "faktencheck": "korrigiert",
 "id": "449-bruehl-freiburg/v0.9-tief/5",
+"punkt": [
+48.00786,
+7.8501,
+"Kandelhof Kino"
+],
 "tisch": false
 },
 {
@@ -7820,6 +8005,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/eichelbuck",
 "faktencheck": "korrigiert",
 "id": "449-bruehl-freiburg/v0.9-tief/6",
+"punkt": [
+48.04924,
+7.83741,
+"Energieberg Eichelbuck"
+],
 "tisch": false
 }
 ],
@@ -8074,6 +8264,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/ballhaus-freiburg",
 "faktencheck": "bestätigt",
 "id": "450-oberau/v0.9-tief/2",
+"punkt": [
+47.98984,
+7.85874,
+"Ballhaus Freiburg"
+],
 "tisch": false
 },
 {
@@ -8097,6 +8292,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/friedenskirche-freiburg",
 "faktencheck": "korrigiert",
 "id": "450-oberau/v0.9-tief/3",
+"punkt": [
+47.9892,
+7.87429,
+"Friedenskirche Freiburg"
+],
 "tisch": false
 },
 {
@@ -8119,6 +8319,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/stueckgut-moebel-manufaktur",
 "faktencheck": "korrigiert",
 "id": "450-oberau/v0.9-tief/4",
+"punkt": [
+47.99048,
+7.86041,
+"Stückgut Möbel-Manufaktur"
+],
 "tisch": false
 }
 ],
@@ -8442,6 +8647,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/norbert-seifert-bogenbaumeister",
 "faktencheck": "korrigiert",
 "id": "451-haslach-freiburg/v0.9-tief/2",
+"punkt": [
+47.98715,
+7.82814,
+"Norbert Seifert - Bogenbaumeister"
+],
 "tisch": false
 },
 {
@@ -8511,6 +8721,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/macromedia-theater; OpenStreetMap",
 "faktencheck": "bestätigt",
 "id": "451-haslach-freiburg/v0.9-tief/6",
+"punkt": [
+47.99218,
+7.83502,
+"Cargo-Theater in der H15"
+],
 "tisch": false
 }
 ],
@@ -8715,6 +8930,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/keidel-therme; OpenStreetMap",
 "faktencheck": "unsicher",
 "id": "452-sankt-georgen/v0.9-tief/1",
+"punkt": [
+47.98346,
+7.76743,
+"KEIDEL Therme"
+],
 "tisch": false
 },
 {
@@ -8806,6 +9026,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/boulderhalle-blockhaus-freiburg und visit.freiburg.de/boulderkitchen-fei; OpenStreetMap",
 "faktencheck": "unsicher",
 "id": "452-sankt-georgen/v0.9-tief/5",
+"punkt": [
+47.99426,
+7.79113,
+"Boulderhalle Blockhaus Freiburg"
+],
 "tisch": false
 }
 ],
@@ -9219,6 +9444,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/skatepark-im-dietenbachpark",
 "faktencheck": "bestätigt",
 "id": "454-weingarten-freiburg/v0.9-tief/1",
+"punkt": [
+48.00324,
+7.80691,
+"Skatepark im Dietenbachpark"
+],
 "tisch": false
 },
 {
@@ -9265,6 +9495,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/disc-golf-freiburg-dietenbachpark",
 "faktencheck": "unsicher",
 "id": "454-weingarten-freiburg/v0.9-tief/3",
+"punkt": [
+48.00112,
+7.80914,
+"Disc Golf Freiburg Dietenbachpark"
+],
 "tisch": false
 }
 ],
@@ -9565,6 +9800,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/echte-helden-arena; visit.freiburg.de/westbad-freiburg",
 "faktencheck": "korrigiert",
 "id": "455-betzenhausen/v0.9-tief/1",
+"punkt": [
+48.00878,
+7.82662,
+"Echte Helden Arena - EHC Freiburg"
+],
 "tisch": false
 },
 {
@@ -9633,6 +9873,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/japanischer-garten",
 "faktencheck": "korrigiert",
 "id": "455-betzenhausen/v0.9-tief/4",
+"punkt": [
+48.01267,
+7.81422,
+"Japanischer Garten im Seepark"
+],
 "tisch": false
 }
 ],
@@ -10118,6 +10363,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/roter-otto",
 "faktencheck": "bestätigt",
 "id": "457-landwasser/v0.9-tief/2",
+"punkt": [
+48.02327,
+7.80893,
+"Roter Otto"
+],
 "tisch": false
 }
 ],
@@ -11476,6 +11726,11 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, visit.freiburg.de/weingut-philipp-lang",
 "faktencheck": "korrigiert",
 "id": "463-munzingen/v0.9-tief/3",
+"punkt": [
+47.96496,
+7.69443,
+"Weingut Philipp Lang"
+],
 "tisch": false
 },
 {

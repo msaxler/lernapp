@@ -139,6 +139,15 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
       <button class="opt" data-quelle="sim"><span class="k">S</span><span>Fahrt simulieren<small>Push wie unterwegs, ein Punkt fährt die Strecke ab – zum Probieren am Tisch</small></span></button>
       <button class="opt" data-quelle="pull"><span class="k">T</span><span>Strecke durchtippen<small>Pull: Ort für Ort, eigenes Tempo</small></span></button>
     </div>
+    <!-- Spaziergang-Modus (Mike 2026-10-27): zu Fuß kommt eine Karte an ihrem Punkt (Bauwerk, Park, Denkmal) -->
+    <div id="fuss-wahl">
+      <b>Unterwegs</b>
+      <div class="row" id="fuss" style="margin-top:8px">
+        <button class="opt" data-fuss="0">Im Auto, in der Bahn<br><small>Orte entlang der Strecke</small></button>
+        <button class="opt" data-fuss="1">Zu Fuß<br><small>Karten an ihrem Punkt im Stadtteil</small></button>
+      </div>
+      <div class="note" id="fuss-info"></div>
+    </div>
     <div id="sim-wahl">
       <b>Simulation</b>
       <div class="row" id="sim-tempo" style="margin-top:8px">
@@ -475,7 +484,10 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   var FENSTER = { vorschau: 180, ausloesung: 30, nachlauf: 60, korridor: 5000, strecke: 1000, still_kmh: 10, still_radius: 2000, gleich: 30,
                   // geplante Route (Mike 2026-10-19): Ort gehört zur Route bis route_breit seitlich; Position gilt als auf der Route bis
                   // route_ab daneben, sonst Rückfall auf die Fahrtrichtung; Orte näher als nah (Luftlinie) kommen immer
-                  route_breit: 1000, route_ab: 2000, nah: 3000 };   // nah: Mike 2026-10-19 „3 km Luftlinie sind in jedem Fall in der Nähe“
+                  route_breit: 1000, route_ab: 2000, nah: 3000,   // nah: Mike 2026-10-19 „3 km Luftlinie sind in jedem Fall in der Nähe“
+                  // zu Fuß (Mike 2026-10-27): eine Karte mit Punkt kommt bis fuss_radius Meter (bei grobem GPS bis fuss_radius_max);
+                  // ohne Punkt in der Nähe alle fuss_pause Sekunden eine Karte zum nächsten Stadtteil; Simulation mit fuss_kmh
+                  fuss_radius: 60, fuss_radius_max: 120, fuss_pause: 300, fuss_kmh: 5, fuss_nachlauf: 90 };
 
   // ---- Speicher (nur Komfort; die Seite läuft auch ohne) ----
   function laden(k, leer){ try{ var v = localStorage.getItem('qa3-'+k); return v ? JSON.parse(v) : leer; }catch(e){ return leer; } }
@@ -485,6 +497,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   var gespielt = laden('gespielt', {});     // je Raum: gespielte Karten-IDs über Fahrten hinweg
   var wahlStart = laden('wahl', { raum: D.raeume[0].id, quelle: 'sim', vor: 1, kmh: 50, f: 5 });
   if(!wahlStart.takt) wahlStart.takt = 'dicht';
+  if(wahlStart.fuss == null) wahlStart.fuss = 0;
   // Takt der Grundversorgung (Mike 2026-10-07): Pause zwischen zwei Pings in Sekunden Fahrzeit; ruhig = nur Geschichten-Orte
   var TAKT = { dicht: 180, normal: 360, ruhig: Infinity }, TAKT_NAME = { dicht: 'Dicht', normal: 'Normal', ruhig: 'Ruhig' };
 
@@ -502,6 +515,23 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   }
   function fmtZeit(s){ s = Math.max(0, Math.round(s)); return s < 60 ? s + ' s' : Math.round(s / 60) + ' min'; }
   function fmtKm(m){ return (m / 1000).toFixed(1).replace('.', ',') + ' km'; }
+  function fmtM(m){ return m < 1000 ? Math.round(m / 10) * 10 + ' m' : fmtKm(m); }
+  // Punkte für den Spaziergang: Karten mit Punkt (daten.js, Feld punkt [lat, lon, Name]); der simulierte Spaziergang geht sie
+  // der Reihe nach ab, immer zum nächstgelegenen (Freiburg: 51 Punkte, 2026-10-27)
+  function punktKarten(){ var n = 0; ALLE.orte.forEach(function(o){ o.karten.forEach(function(k){ if(k.punkt) n++; }); }); return n; }
+  function wegPunkte(){
+    var pts = [];
+    ALLE.orte.forEach(function(o){ o.karten.forEach(function(k){
+      if(k.punkt && !pts.some(function(p){ return p[0] === k.punkt[0] && p[1] === k.punkt[1]; })) pts.push(k.punkt); }); });
+    if(!pts.length) return [];
+    var weg = [pts.shift()];
+    while(pts.length){
+      var l = weg[weg.length - 1], bi = 0, bd = Infinity;
+      pts.forEach(function(p, i){ var d = kmLuft({ lat: l[0], lon: l[1] }, { lat: p[0], lon: p[1] }); if(d < bd){ bd = d; bi = i; } });
+      weg.push(pts.splice(bi, 1)[0]);
+    }
+    return weg;
+  }
 
   // ---- Hell / Dunkel / System ----
   var modes = ['System','Hell','Dunkel'], m = laden('theme', 0);
@@ -529,15 +559,22 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
       });
     }
     gruppe('#quellen .opt', 'quelle', 'quelle', String);
+    // zu Fuß (Mike 2026-10-27): nur mit GPS oder Simulation; keine Strecke, keine Route, kein Takt (nur Geschichten-Orte)
+    gruppe('#fuss .opt', 'fuss', 'fuss', Number);
+    var fuss = wahlStart.fuss === 1 && wahlStart.quelle !== 'pull', nP = punktKarten();
+    $('fuss-wahl').hidden = wahlStart.quelle === 'pull';
+    $('fuss-info').textContent = !fuss ? '' : nP + ' Karten haben einen Punkt (bisher Freiburg). Eine Karte kommt, wenn du höchstens ' + FENSTER.fuss_radius +
+      ' m von ihrem Punkt entfernt bist; dazwischen alle ' + Math.round(FENSTER.fuss_pause / 60) + ' Minuten eine Karte zum Stadtteil, in dem du bist.' +
+      (wahlStart.quelle === 'sim' ? ' Die Simulation geht mit ' + FENSTER.fuss_kmh + ' km/h von Punkt zu Punkt.' : ' Der Bildschirm muss an bleiben.');
     gruppe('#vorlesen .opt', 'vor', 'vor', Number);
     $('stimme-wahl').hidden = !(wahlStart.vor === 1 && window.speechSynthesis && stimmenDe().length);
     stimmeWaehlen();
     gruppe('#takt .opt', 'takt', 'takt', String);
-    $('takt-wahl').hidden = wahlStart.quelle !== 'gps';
+    $('takt-wahl').hidden = wahlStart.quelle !== 'gps' || fuss;
     // Geplante Route (Mike 2026-10-19): Start und Ziel aus den Geschichten-Orten, Straßenroute vom Routendienst
     gruppe('#route .opt', 'route', 'route', Number);
-    $('route-wahl').hidden = wahlStart.quelle !== 'gps';
-    $('route-orte').hidden = !(wahlStart.quelle === 'gps' && wahlStart.route === 1);
+    $('route-wahl').hidden = wahlStart.quelle !== 'gps' || fuss;
+    $('route-orte').hidden = !(wahlStart.quelle === 'gps' && wahlStart.route === 1 && !fuss);
     if(!$('route-von').options.length){
       var namen = ALLE.orte.filter(function(o){ return o.slug.indexOf('de:') !== 0; })
         .sort(function(a, b){ return a.name.localeCompare(b.name, 'de'); });
@@ -553,10 +590,11 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     gruppe('#sim-tempo .opt', 'kmh', 'kmh', Number);
     gruppe('#sim-faktor .opt', 'f', 'f', Number);
     $('sim-wahl').hidden = wahlStart.quelle !== 'sim';
-    $('strecke-titel').hidden = $('raeume').hidden = wahlStart.quelle === 'gps';
+    $('sim-tempo').hidden = fuss;
+    $('strecke-titel').hidden = $('raeume').hidden = wahlStart.quelle === 'gps' || fuss;
     sichern('wahl', wahlStart);
     $('bar-weiter').hidden = !(fahrt && !fahrt.ende);
-    $('vorrat-info').textContent = wahlStart.quelle === 'gps'
+    $('vorrat-info').textContent = fuss ? '' : wahlStart.quelle === 'gps'
       ? 'Echte Fahrt: alle ' + ALLE.orte.length + ' Orte sind im Topf, Fragen kommen, wenn ein Ort in Fahrtrichtung näher kommt. Der Bildschirm muss an bleiben.'
       : 'Karten aus dem geprüften Vorrat (Faktencheck). Simulation und Durchtippen folgen der gewählten Strecke.';
   }
@@ -619,10 +657,24 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   }
 
   // ---- Position: Simulation oder GPS ----
-  var rt = null, pos = null, gpsId = null, gpsFehler = '', letzteFixe = [];
+  var rt = null, pos = null, gpsId = null, gpsFehler = '', letzteFixe = [], rtF = null;
   function uhr(){ return fahrt.quelle === 'sim' ? fahrt.sim.t : Date.now() / 1000; }   // Fahrzeit in Sekunden
+  // simulierter Spaziergang: Polygonzug durch die Punkte (fahrt.weg) in der Ebene von rt.ref
+  function wegBauen(weg){
+    var pts = weg.map(function(p){ return xy(p[0], p[1], rt.ref); }), s = [0];
+    for(var i = 1; i < pts.length; i++) s.push(s[i - 1] + Math.hypot(pts[i].x - pts[i - 1].x, pts[i].y - pts[i - 1].y));
+    return { pts: pts, s: s, laenge: s[s.length - 1] };
+  }
   function simSchritt(dt){
     if(fahrt.sim.pause) return;
+    if(fahrt.fuss){
+      var vf = FENSTER.fuss_kmh / 3.6;
+      fahrt.sim.t += dt * fahrt.sim.f;
+      fahrt.sim.s = Math.min(rtF.laenge, fahrt.sim.s + vf * dt * fahrt.sim.f);
+      var pf = punktAuf(rtF, fahrt.sim.s);
+      pos = { x: pf.x, y: pf.y, hx: pf.hx, hy: pf.hy, v: fahrt.sim.s >= rtF.laenge ? 0 : vf, genau: 5 };
+      return;
+    }
     var v = fahrt.sim.kmh / 3.6;
     fahrt.sim.t += dt * fahrt.sim.f;
     fahrt.sim.s = Math.min(rt.laenge, fahrt.sim.s + v * dt * fahrt.sim.f);
@@ -683,14 +735,18 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
          u.lang = 'de-DE'; if(stimmeDe) u.voice = stimmeDe; speechSynthesis.speak(u); }catch(e){}
   };
   $('starten').onclick = function(){
-    var r = wahlStart.quelle === 'gps' ? ALLE : D.raeume.filter(function(x){ return x.id === wahlStart.raum; })[0];
-    fahrt = { raum: r.id, quelle: wahlStart.quelle, vor: wahlStart.vor, stimme: true, takt: wahlStart.takt, start: new Date().toISOString(), pos: 0,
+    var fuss = wahlStart.fuss === 1 && wahlStart.quelle !== 'pull';
+    var r = (wahlStart.quelle === 'gps' || fuss) ? ALLE : D.raeume.filter(function(x){ return x.id === wahlStart.raum; })[0];
+    fahrt = { raum: r.id, quelle: wahlStart.quelle, vor: wahlStart.vor, stimme: true, takt: fuss ? 'ruhig' : wahlStart.takt, fuss: fuss ? 1 : 0,
+              start: new Date().toISOString(), pos: 0,
               orte: r.orte.map(function(o){ return { slug: o.slug, zustand: 'fern', ev: {} }; }), log: [], ereignisse: [], aktiv: -1 };
-    if(fahrt.quelle === 'sim') fahrt.sim = { kmh: wahlStart.kmh, f: wahlStart.f, s: 0, t: 0, pause: false };
+    if(fahrt.quelle === 'sim') fahrt.sim = { kmh: fuss ? FENSTER.fuss_kmh : wahlStart.kmh, f: wahlStart.f, s: 0, t: 0, pause: false };
+    // zu Fuß: der Lückenfüller (Karte zum Stadtteil) wartet erst einmal die Pause ab; die Simulation läuft die Punkte ab
+    if(fuss){ fahrt.letzterPush = fahrt.quelle === 'sim' ? 0 : Date.now() / 1000; if(fahrt.quelle === 'sim') fahrt.weg = wegPunkte(); }
     sichern('fahrt', fahrt); tonFreigeben();
     try{ if(window.speechSynthesis && fahrt.vor) speechSynthesis.speak(new SpeechSynthesisUtterance('')); }catch(e){}
     // geplante Route: einmal holen, dann ohne Netz; ohne Antwort läuft die Fahrt mit der Fahrtrichtung weiter
-    if(fahrt.quelle === 'gps' && wahlStart.route === 1 && wahlStart.routeVon && wahlStart.routeBis && wahlStart.routeVon !== wahlStart.routeBis){
+    if(fahrt.quelle === 'gps' && !fuss && wahlStart.route === 1 && wahlStart.routeVon && wahlStart.routeBis && wahlStart.routeVon !== wahlStart.routeBis){
       $('route-info').textContent = 'Route wird geholt …';
       rt = routeBauen(raum());
       routeHolen(wahlStart.routeVon, wahlStart.routeBis).then(function(r){ fahrt.route = r; ereignis('route', r.von + '>' + r.bis); sichern('fahrt', fahrt); fahrtLaufen(); },
@@ -708,6 +764,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   function fahrtLaufen(){
     rt = routeBauen(raum());
     route = fahrt.route && fahrt.route.coords ? routeAufbauen(fahrt.route.coords) : null;
+    rtF = fahrt.fuss && fahrt.quelle === 'sim' && fahrt.weg && fahrt.weg.length > 1 ? wegBauen(fahrt.weg) : null;
     if(fahrt.quelle === 'gps' && gpsId === null) gpsStarten();
     if(fahrt.quelle === 'sim') simSchritt(0);
     karteZeichnen(); show('s-karte');
@@ -728,9 +785,62 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   }, 1000);
   var takt = 0;
 
+  // ---- zu Fuß (Mike 2026-10-27): Karten am Punkt, sonst alle fuss_pause eine Karte zum Stadtteil ----
+  function fussRadius(){
+    var r = FENSTER.fuss_radius;
+    if(pos && pos.genau) r = Math.min(FENSTER.fuss_radius_max, Math.max(r, pos.genau * 1.5));
+    return r;
+  }
+  function karteFrei(i, k){ return (gespielt[fahrt.raum] || []).indexOf(k.id) < 0 && (fahrt.orte[i].karten || []).indexOf(k.id) < 0; }
+  function naechsterPunkt(){
+    var best = null;
+    fahrt.orte.forEach(function(f){ if(f.punkt && (!best || f.punkt.dist < best.dist)) best = f.punkt; });
+    return best;
+  }
+  function fussPruefen(now){
+    // Lückenfüller: fuss_pause nach der letzten Karte (Push oder Antwort) der nächste Stadtteil mit freien Karten – auch der
+    // gerade aktive zählt als nächster, dann kommt nichts (Test 2026-10-27: sonst kam die Altstadt, während man in der Wiehre stand)
+    var letzt = Math.max(fahrt.letzterPush || 0, fahrt.log.length ? (fahrt.log[fahrt.log.length - 1].fahrzeit || 0) : 0);
+    var nah = fussRadius(), ruhe = now - letzt >= FENSTER.fuss_pause, lueck = -1, bl = Infinity;
+    fahrt.orte.forEach(function(f, i){
+      var o = raum().orte[i], q = xy(o.lat, o.lon, rt.ref), dist = Math.hypot(q.x - pos.x, q.y - pos.y);
+      if(dist > 40000){ if(f.lage) delete f.lage; f.punkt = null; return; }
+      f.lage = { t: null, lat: dist, dist: dist, still: true };
+      // nächster noch nicht gespielter Punkt dieses Orts
+      var best = null, bd = Infinity;
+      o.karten.forEach(function(k){
+        if(!k.punkt || !karteFrei(i, k)) return;
+        var p = xy(k.punkt[0], k.punkt[1], rt.ref), d = Math.hypot(p.x - pos.x, p.y - pos.y);
+        if(d < bd){ bd = d; best = k; }
+      });
+      f.punkt = best ? { id: best.id, name: best.punkt[2], dist: Math.round(bd) } : null;
+      if(f.slug.indexOf('de:') !== 0 && dist <= FENSTER.still_radius && freieKarten(i).length && dist < bl){ bl = dist; lueck = i; }
+      if(f.zustand === 'aktiv') return;
+      if(best && bd <= nah){
+        if(f.punktFaellig !== best.id) ereignis('punkt', f.slug + ' · ' + best.punkt[2] + ' · ' + Math.round(bd) + ' m');
+        f.punktFaellig = best.id; f.punktBis = now + FENSTER.fuss_nachlauf;
+        if(f.zustand !== 'faellig'){ f.zustand = 'faellig'; f.ev.faellig = now; f.ev.vorschau = f.ev.vorschau || now; }
+        return;
+      }
+      // Punkt eben verlassen (etwa während einer offenen Frage): die Karte bleibt fuss_nachlauf Sekunden fällig
+      if(f.punktFaellig && best && best.id === f.punktFaellig && now < f.punktBis) return;
+      f.punktFaellig = null;
+      // Punkt verlassen, ohne gespielt zu haben, oder Stadtteil in Reichweite: Vorschau; sonst fern bzw. gespielt
+      if(f.zustand === 'faellig') f.zustand = 'vorschau';
+      else if(f.zustand === 'gespielt' || f.zustand === 'fern' || f.zustand === 'vorschau')
+        f.zustand = dist <= FENSTER.still_radius ? 'vorschau' : (f.karten && f.karten.length ? 'gespielt' : 'fern');
+      if(f.zustand === 'vorschau') f.ev.vorschau = f.ev.vorschau || now;
+    });
+    if(ruhe && lueck >= 0 && fahrt.aktiv < 0 && fahrt.orte[lueck].zustand !== 'faellig'){
+      var f = fahrt.orte[lueck]; f.zustand = 'faellig'; f.ev.faellig = now; f.ev.vorschau = f.ev.vorschau || now;
+      ereignis('luecke', f.slug + ' · ' + Math.round(bl) + ' m');
+    }
+  }
+
   function fensterPruefen(){
     var now = uhr();
     geschichteInSicht = false;
+    if(fahrt.fuss){ posR = null; fussPruefen(now); return; }
     // Position auf die geplante Route legen; zu weit daneben → Rückfall auf die Fahrtrichtung (lage() ohne posR)
     if(route && fahrt.quelle === 'gps'){ var pr = projizieren(route, pos); posR = pr.lat <= FENSTER.route_ab ? pr : null; } else posR = null;
     // Lage aller Orte zuerst; im Stand wird nur der nächste Ort fällig (Feldtest Waldbreitbach 2026-10-19: im 2-km-Radius
@@ -783,7 +893,9 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     fahrt.orte.forEach(function(f, i){
       if(i !== ausser && f.zustand === 'faellig' && !(f.gleichBis > now) && grundDarf(f, now) && freieKarten(i).length) c.push(i);
     });
-    var auf = c.filter(function(i){ return (fahrt.orte[i].lage || {}).lat <= FENSTER.strecke; });
+    // zu Fuß geht der Ort vor, an dessen Punkt man steht
+    var auf = fahrt.fuss ? c.filter(function(i){ return fahrt.orte[i].punktFaellig; })
+                         : c.filter(function(i){ return (fahrt.orte[i].lage || {}).lat <= FENSTER.strecke; });
     if(auf.length) c = auf;
     var gr = function(i){ return fahrt.orte[i].slug.indexOf('de:') === 0 ? 1 : 0; };
     c.sort(function(a, b){ return gr(a) - gr(b) || fahrt.orte[a].ev.faellig - fahrt.orte[b].ev.faellig; });
@@ -812,6 +924,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     var voraus = alle.filter(function(i){
       var f = fahrt.orte[i], l = f.lage;
       if(gesp.indexOf(i) >= 0 || !l || f.zustand === 'ausgefallen' || f.zustand === 'gespielt') return false;
+      if(fahrt.fuss && f.slug.indexOf('de:') === 0) return false;   // zu Fuß keine Grundversorgung
       return inReichweite(l);
     }).map(function(i){ var l = fahrt.orte[i].lage; return [i, l.still ? l.dist : l.t]; })
       .sort(function(a, b){ return a[1] - b[1]; }).slice(0, 3).map(function(x){ return x[0]; });
@@ -820,19 +933,25 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   function karteZeichnen(){
     var r = raum(), h = '', push = istPush();
     var nGesp = fahrt.orte.filter(function(f){ return f.karten && f.karten.length; }).length;
-    $('k-zaehler').textContent = fahrt.raum === 'alle' ? 'Echte Fahrt · ' + nGesp + ' Orte gespielt · ' + r.orte.length + ' im Topf'
+    $('k-zaehler').textContent = fahrt.raum === 'alle' ? (fahrt.fuss ? 'Spaziergang · ' : 'Echte Fahrt · ') + nGesp + ' Orte gespielt · ' + r.orte.length + ' im Topf'
                                                      : r.name + ' · ' + nGesp + ' von ' + r.orte.length + ' Orten gespielt';
     $('k-vor').setAttribute('aria-pressed', fahrt.vor ? 'true' : 'false');
     $('k-stimme').hidden = !(fahrt.vor && window.speechSynthesis);
     $('k-stimme').textContent = fahrt.stimme === false ? 'Stimme aus' : 'Stimme an';
     $('k-stimme').setAttribute('aria-pressed', fahrt.stimme === false ? 'false' : 'true');
     $('k-pause').hidden = fahrt.quelle !== 'sim';
-    $('k-takt').hidden = fahrt.raum !== 'alle';
+    $('k-takt').hidden = fahrt.raum !== 'alle' || !!fahrt.fuss;
     $('k-takt').textContent = 'Takt: ' + TAKT_NAME[fahrt.takt || 'dicht'];
     if(fahrt.quelle === 'sim') $('k-pause').textContent = fahrt.sim.pause ? 'Weiter' : 'Pause';
     // Status-Zeile
     var st = '';
-    if(fahrt.quelle === 'sim') st = 'Simulation · ' + fahrt.sim.kmh + ' km/h · ×' + fahrt.sim.f + ' · ' + fmtKm(fahrt.sim.s) + ' von ' + fmtKm(rt.laenge) + (fahrt.sim.pause ? ' · angehalten' : '');
+    if(fahrt.fuss){
+      var np = naechsterPunkt();
+      st = (fahrt.quelle === 'sim' ? 'Spaziergang simuliert · ' + FENSTER.fuss_kmh + ' km/h · ×' + fahrt.sim.f + ' · ' + fmtKm(fahrt.sim.s) + ' von ' + fmtKm(rtF ? rtF.laenge : 0) + (fahrt.sim.pause ? ' · angehalten' : '')
+                                   : (gpsFehler || (pos ? 'Zu Fuß · GPS · Genauigkeit ' + pos.genau + ' m' : 'Zu Fuß · GPS · warte auf Position …')))
+         + (np ? ' · nächster Punkt: ' + np.name + ', ' + fmtM(np.dist) : '');
+    }
+    else if(fahrt.quelle === 'sim') st = 'Simulation · ' + fahrt.sim.kmh + ' km/h · ×' + fahrt.sim.f + ' · ' + fmtKm(fahrt.sim.s) + ' von ' + fmtKm(rt.laenge) + (fahrt.sim.pause ? ' · angehalten' : '');
     else if(fahrt.quelle === 'gps'){
       st = gpsFehler || (pos ? 'GPS · ' + Math.round(pos.v * 3.6) + ' km/h · Genauigkeit ' + pos.genau + ' m' : 'GPS · warte auf Position …');
       if(route) st += posR ? ' · Route ' + fmtKm(posR.s) + ' von ' + fmtKm(route.laenge) : ' · neben der Route (Fahrtrichtung gilt)';
@@ -841,7 +960,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     else st = 'Durchtippen · eigenes Tempo';
     $('k-status').textContent = st;
     // Positionsmarke nur bei Simulation zwischen die Orte setzen
-    var posGesetzt = fahrt.quelle !== 'sim';
+    var posGesetzt = fahrt.quelle !== 'sim' || !!fahrt.fuss;
     fahrtReihe().forEach(function(i){
       var f = fahrt.orte[i], o = ortVon(f.slug), cls = 'todo', zus = '', blass = false;
       if(!posGesetzt && rt.ortS[i] > fahrt.sim.s){ h += '<div class="stop"><i class="pin pos"></i><small>Position</small></div>'; posGesetzt = true; }
@@ -857,6 +976,8 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
       if(fahrt.raum === 'alle' && !n && cls === 'todo' && f.lage){
         zus = f.lage.still ? fmtKm(f.lage.dist) : 'in ' + fmtZeit(Math.max(0, f.lage.t)) + (f.lage.lat > FENSTER.strecke ? ' · ' + fmtKm(f.lage.lat) + ' seitlich' : '');
       }
+      // zu Fuß: statt der Entfernung zur Ortsmitte der nächste Punkt des Orts
+      if(fahrt.fuss && f.punkt && (cls === 'next' || cls === 'todo')) zus = f.punkt.name + ' · ' + fmtM(f.punkt.dist) + (f.punktFaellig ? ' · hier' : '');
       if(!push && i === fahrt.pos){
         h += '<div class="stop"><i class="pin next"></i><span class="next-line">Nächster Ort: <b>' + o.name + '</b></span></div>';
         return;
@@ -893,6 +1014,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
       if(fahrt.quelle === 'gps' && !inReichweite(l)) return;
       if(!freieKarten(i).length) return;
       var t = l.still ? l.dist : (l.t < -FENSTER.nachlauf ? Infinity : Math.abs(l.t));
+      if(fahrt.fuss && f.punkt) t = Math.min(t, f.punkt.dist);   // zu Fuß zählt der nächste Punkt
       // mit GPS zählt der Weg zur Seite stark mit (10 m je Sekunde, ab 1,5 km seitlich nochmals +5 min): die eigene Straße
       // geht vor – Feldtest 2026-10-19: „Jetzt“ holte Rheinbrohl, Bad Hönningen, Bad Breisig jenseits des Rheins statt Niederbieber
       if(fahrt.quelle === 'gps' && !l.still){ t += l.lat / 10; if(l.lat > 1500) t += 300; }
@@ -928,6 +1050,13 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   }
   function karteWaehlen(i){
     var frei = freieKarten(i), hier = (fahrt.orte[i].karten || []).length;
+    // zu Fuß: am Punkt dessen Karte; sonst Karten ohne Punkt zuerst, die Punktkarten warten auf ihren Ort
+    if(fahrt.fuss){
+      var pf = fahrt.orte[i].punktFaellig, amPunkt = pf ? frei.filter(function(k){ return k.id === pf; }) : [];
+      if(amPunkt.length) return amPunkt[0];
+      var ohne = frei.filter(function(k){ return !k.punkt; });
+      if(ohne.length) frei = ohne;
+    }
     var tisch = frei.filter(function(k){ return k.tisch; });
     if(tisch.length && hier === 0) return tisch[0];
     // Ortsporträt (v0.9, Mike 2026-10-19): die Karten tragen einen Rang (1 = ungewöhnlichstes Charakteristikum zuerst);
@@ -968,7 +1097,8 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     var i = fahrt.aktiv, o = raum().orte[i], k = karteWaehlen(i), z = zuschnitt(k);
     aktuell = { i: i, ort: o, karte: k, z: z, wie: wie || 'weiter' }; wahl = null; t0 = Date.now(); stufe = 0;
     var pushText = wie === 'push' ? 'Ort in Sicht' : wie === 'jetzt' ? 'Jetzt' : '';
-    var l = fahrt.orte[i].lage; if(pushText && l && l.lat > FENSTER.strecke) pushText += ' · aus der Nähe';
+    var l = fahrt.orte[i].lage; if(pushText && l && l.lat > FENSTER.strecke && !fahrt.fuss) pushText += ' · aus der Nähe';
+    if(fahrt.fuss && pushText) pushText = k.punkt ? 'Hier: ' + k.punkt[2] : 'Du bist in ' + o.name;
     $('f-push').hidden = $('l-push').hidden = !pushText; $('f-push').textContent = $('l-push').textContent = pushText;
     if(k.art === 'leiter'){ show('s-leiter'); leiterZeichnen();
       sprich((pushText ? pushText + '. ' : '') + o.name + '. ' + k.frage + ' Erste Stufe: ' + k.optionen[0] + '.'); return; }
@@ -1086,9 +1216,11 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     var rest = freieKarten(aktuell.i).length;
     var w = istPush() ? wartender(aktuell.i) : -1;
     var letzterPull = !istPush() && fahrt.pos + 1 >= fahrt.orte.length;
-    var weiterOrt = istPush() ? 'Zur Fahrtkarte' : (letzterPull ? 'Zum Fahrtende' : 'Weiter zum nächsten Ort');
-    if(w >= 0){ aktuell.weiter = 'ort:' + w; $('a-zu').textContent = 'Weiter: ' + ortVon(fahrt.orte[w].slug).name + ' ist in Sicht'; $('a-mehr').hidden = true; }
-    else if(n % JE_ORT !== 0 && rest){ aktuell.weiter = 'frage'; $('a-zu').textContent = 'Nächste Frage zu ' + o.name + ' (' + (n % JE_ORT + 1) + ' von ' + JE_ORT + ')'; $('a-mehr').hidden = true; }
+    var weiterOrt = istPush() ? (fahrt.fuss ? 'Weiter gehen' : 'Zur Fahrtkarte') : (letzterPull ? 'Zum Fahrtende' : 'Weiter zum nächsten Ort');
+    // zu Fuß steht jede Karte für sich (kein Dreierblock): die nächste kommt am nächsten Punkt oder nach der Pause
+    var punktKarte = !!fahrt.fuss;
+    if(w >= 0){ aktuell.weiter = 'ort:' + w; $('a-zu').textContent = 'Weiter: ' + ortVon(fahrt.orte[w].slug).name + (fahrt.fuss ? '' : ' ist in Sicht'); $('a-mehr').hidden = true; }
+    else if(!punktKarte && n % JE_ORT !== 0 && rest){ aktuell.weiter = 'frage'; $('a-zu').textContent = 'Nächste Frage zu ' + o.name + ' (' + (n % JE_ORT + 1) + ' von ' + JE_ORT + ')'; $('a-mehr').hidden = true; }
     else if(rest){ aktuell.weiter = 'karte'; $('a-zu').textContent = weiterOrt; $('a-mehr').hidden = false;
                    $('a-mehr').textContent = 'Noch mehr zu ' + o.name + '? (' + Math.min(JE_ORT, rest) + ' weitere)'; }
     else { aktuell.weiter = 'karte'; $('a-zu').textContent = weiterOrt; $('a-mehr').hidden = true; }
@@ -1113,7 +1245,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     $('e-titel').textContent = fahrt.raum === 'alle'
       ? (log.length ? log[0].name + ' – ' + log[log.length - 1].name : 'Echte Fahrt')
       : r.orte[0].name + ' – ' + r.orte[r.orte.length - 1].name;
-    $('e-meta').textContent = r.name + ' · ' + { gps: 'echte Fahrt', sim: 'Simulation', pull: 'durchgetippt' }[fahrt.quelle] + (fahrt.vor ? ' · vorgelesen' : '');
+    $('e-meta').textContent = r.name + ' · ' + { gps: 'echte Fahrt', sim: 'Simulation', pull: 'durchgetippt' }[fahrt.quelle] + (fahrt.fuss ? ' · zu Fuß' : '') + (fahrt.vor ? ' · vorgelesen' : '');
     $('e-orte').textContent = gesp.length;
     $('e-fragen').textContent = log.length;
     $('e-richtig').textContent = log.filter(function(l){ return l.status === 'hit'; }).length;
@@ -1144,7 +1276,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
       .map(function(f){ var r = { ort: f.slug, zustand: f.zustand, fragen: (f.karten || []).length };
       Object.keys(f.ev).forEach(function(k){ r[k] = Math.round(f.ev[k] - t0); }); return r; });
     var spur = (fahrt.spur || []).map(function(s){ return Object.assign({}, s, { t: s.t - Math.round(t0) }); });
-    var text = JSON.stringify({ prototyp: 'quizaway-reise 0.3.1', konzept: 'v0.3.1', raum: fahrt.raum, quelle: fahrt.quelle, vorlesen: !!fahrt.vor,
+    var text = JSON.stringify({ prototyp: 'quizaway-reise 0.3.1', konzept: 'v0.3.1', raum: fahrt.raum, quelle: fahrt.quelle, zu_fuss: !!fahrt.fuss, vorlesen: !!fahrt.vor,
                                 sim: fahrt.sim ? { kmh: fahrt.sim.kmh, faktor: fahrt.sim.f } : null, fenster: FENSTER,
                                 start: fahrt.start, ende: fahrt.ende, ort_der_fahrt: fahrt.ortDerFahrt || null, notiz: fahrt.notiz || '',
                                 orte_im_topf: fahrt.orte.length, zeiten: 'Sekunden ab Fahrtbeginn',
