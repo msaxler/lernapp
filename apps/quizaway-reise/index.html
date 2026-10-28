@@ -188,6 +188,12 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
       <button class="opt" data-vor="1"><span class="k">V</span><span>Es wird vorgelesen<small>das Handy liest Frage, Antworten und Auflösung vor (Stimme abschaltbar); große Schrift, Lügen-Fragen mit zwei Aussagen</small></span></button>
       <button class="opt" data-vor="0"><span class="k">L</span><span>Jede Person liest selbst<small>still, Schrift wächst mit, Lügen-Fragen mit drei Aussagen</small></span></button>
     </div>
+    <!-- Tipp = festlegen (Mike 28.10.: „Festlegen“ war zu 99 % überflüssig) -->
+    <b>Tippen</b>
+    <div class="row" id="tippen" style="margin-top:8px">
+      <button class="opt" data-sofort="1">Tipp zählt sofort<br><small>ein Fingertipp löst auf</small></button>
+      <button class="opt" data-sofort="0">Erst tippen, dann festlegen<br><small>zum Umentscheiden</small></button>
+    </div>
     <div class="row" id="stimme-wahl" style="margin-top:8px" hidden>
       <select id="stimme-liste" aria-label="Stimme" style="flex:1 1 60%;min-height:44px;font:inherit;border:2px solid var(--line);border-radius:12px;background:var(--surface);color:var(--fg);padding:6px"></select>
       <button class="btn small" id="stimme-probe">Probe hören</button>
@@ -219,7 +225,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     <button class="btn small quiet nochmal" id="f-nochmal" hidden>Nochmal vorlesen</button>
     <div class="opts" id="f-opts"></div>
     <div class="grow"></div>
-    <div class="bar" id="f-bar-leer"><button class="btn quiet" id="f-gleich">Gleich</button></div>
+    <div class="bar" id="f-bar-leer"><button class="btn quiet" id="f-gleich">Gleich</button><button class="btn quiet" id="f-karte">Karte</button></div>
     <div class="bar" id="f-bar-wahl" hidden><button class="btn primary" id="f-aufloesen">Festlegen</button></div>
   </section>
 
@@ -248,7 +254,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     <button class="btn small quiet nochmal" id="a-nochmal" hidden>Nochmal vorlesen</button>
     <div class="grow"></div>
     <div class="bar"><button class="btn primary" id="a-mehr" hidden>Noch mehr zu diesem Ort?</button></div>
-    <div class="bar"><button class="btn" id="a-zu">Zur Fahrtkarte</button></div>
+    <div class="bar"><button class="btn" id="a-zu">Zur Fahrtkarte</button><button class="btn quiet" id="a-karte" hidden>Karte</button></div>
   </section>
 
   <!-- Fahrtende -->
@@ -489,7 +495,10 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
                   route_breit: 1000, route_ab: 2000, nah: 3000,   // nah: Mike 2026-10-19 „3 km Luftlinie sind in jedem Fall in der Nähe“
                   // zu Fuß (Mike 2026-10-27): eine Karte mit Punkt kommt bis fuss_radius Meter (bei grobem GPS bis fuss_radius_max);
                   // ohne Punkt in der Nähe alle fuss_pause Sekunden eine Karte zum nächsten Stadtteil; Simulation mit fuss_kmh
-                  fuss_radius: 60, fuss_radius_max: 120, fuss_pause: 300, fuss_kmh: 5, fuss_nachlauf: 90 };
+                  fuss_radius: 60, fuss_radius_max: 120, fuss_pause: 300, fuss_kmh: 5, fuss_nachlauf: 90,
+                  // GPS-Ausreißer (Feldtest 28.10.: ein Fix 5 km versetzt mit 819 km/h hakte 13 Essener Stadtteile als „passiert“ ab):
+                  // Fixe mit Genauigkeit über gps_genau_max Metern oder einem Sprung über gps_sprung_max m/s werden verworfen
+                  gps_genau_max: 50, gps_sprung_max: 70 };
 
   // ---- Speicher (nur Komfort; die Seite läuft auch ohne) ----
   function laden(k, leer){ try{ var v = localStorage.getItem('qa3-'+k); return v ? JSON.parse(v) : leer; }catch(e){ return leer; } }
@@ -500,6 +509,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   var wahlStart = laden('wahl', { raum: D.raeume[0].id, quelle: 'sim', vor: 1, kmh: 50, f: 5 });
   if(!wahlStart.takt) wahlStart.takt = 'dicht';
   if(wahlStart.fuss == null) wahlStart.fuss = 0;
+  if(wahlStart.sofort == null) wahlStart.sofort = 1;
   // Takt der Grundversorgung (Mike 2026-10-07): Pause zwischen zwei Pings in Sekunden Fahrzeit; ruhig = nur Geschichten-Orte
   var TAKT = { dicht: 180, normal: 360, ruhig: Infinity }, TAKT_NAME = { dicht: 'Dicht', normal: 'Normal', ruhig: 'Ruhig' };
 
@@ -569,6 +579,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
       ' m von ihrem Punkt entfernt bist; dazwischen alle ' + Math.round(FENSTER.fuss_pause / 60) + ' Minuten eine Karte zum Stadtteil, in dem du bist.' +
       (wahlStart.quelle === 'sim' ? ' Die Simulation geht mit ' + FENSTER.fuss_kmh + ' km/h von Punkt zu Punkt.' : ' Der Bildschirm muss an bleiben.');
     gruppe('#vorlesen .opt', 'vor', 'vor', Number);
+    gruppe('#tippen .opt', 'sofort', 'sofort', Number);
     $('stimme-wahl').hidden = !(wahlStart.vor === 1 && window.speechSynthesis && stimmenDe().length);
     stimmeWaehlen();
     gruppe('#takt .opt', 'takt', 'takt', String);
@@ -688,13 +699,17 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     try{
       gpsId = navigator.geolocation.watchPosition(function(p){
         var c = p.coords, q = xy(c.latitude, c.longitude, rt.ref), now = Date.now() / 1000;
+        // Ausreißer verwerfen (FENSTER.gps_genau_max / gps_sprung_max); gezählt fürs Protokoll
+        if(c.accuracy > FENSTER.gps_genau_max || (pos && pos.t && Math.hypot(q.x - pos.x, q.y - pos.y) / Math.max(1, now - pos.t) > FENSTER.gps_sprung_max)){
+          fahrt.gpsVerworfen = (fahrt.gpsVerworfen || 0) + 1; return;
+        }
         letzteFixe.push({ x: q.x, y: q.y, t: now }); letzteFixe = letzteFixe.filter(function(f){ return now - f.t < 30; });
         var hx = 0, hy = 0, v = (c.speed != null && c.speed >= 0) ? c.speed : null;
         // Richtung aus den Fixen der letzten 30 s (mindestens 30 m Weg), Tempo notfalls ebenso
         var alt = letzteFixe[0], dx = q.x - alt.x, dy = q.y - alt.y, d = Math.hypot(dx, dy);
         if(d >= 30){ hx = dx / d; hy = dy / d; if(v === null) v = d / Math.max(1, now - alt.t); }
         else if(pos && pos.hx){ hx = pos.hx; hy = pos.hy; }
-        pos = { x: q.x, y: q.y, hx: hx, hy: hy, v: v || 0, genau: Math.round(c.accuracy) };
+        pos = { x: q.x, y: q.y, hx: hx, hy: hy, v: v || 0, genau: Math.round(c.accuracy), t: now };
         gpsFehler = '';
         // GPS-Spur alle 10 s fürs Protokoll (Feldtest 2026-10-19: Fahrtrichtung und Zeitfenster kippten im Wiedtal, ohne Spur
         // nicht messbar): Fahrzeit, Position, Tempo, Kurs, Genauigkeit
@@ -739,7 +754,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   $('starten').onclick = function(){
     var fuss = wahlStart.fuss === 1 && wahlStart.quelle !== 'pull';
     var r = (wahlStart.quelle === 'gps' || fuss) ? ALLE : D.raeume.filter(function(x){ return x.id === wahlStart.raum; })[0];
-    fahrt = { raum: r.id, quelle: wahlStart.quelle, vor: wahlStart.vor, stimme: true, takt: fuss ? 'ruhig' : wahlStart.takt, fuss: fuss ? 1 : 0,
+    fahrt = { raum: r.id, quelle: wahlStart.quelle, vor: wahlStart.vor, stimme: true, takt: fuss ? 'ruhig' : wahlStart.takt, fuss: fuss ? 1 : 0, sofort: wahlStart.sofort,
               start: new Date().toISOString(), pos: 0,
               orte: r.orte.map(function(o){ return { slug: o.slug, zustand: 'fern', ev: {} }; }), log: [], ereignisse: [], aktiv: -1 };
     if(fahrt.quelle === 'sim') fahrt.sim = { kmh: fuss ? FENSTER.fuss_kmh : wahlStart.kmh, f: wahlStart.f, s: 0, t: 0, pause: false };
@@ -780,7 +795,9 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     if(!pos) { if(aktivScreen() === 's-karte') karteZeichnen(); return; }
     fensterPruefen();
     var sc = aktivScreen();
-    if(sc === 's-karte'){ var w = wartender(-1); if(w >= 0) ortStarten(w, 'push'); else karteZeichnen(); }
+    // nach „Karte“ aus einer Frage heraus ruhen die Pushs kurz, damit man abschließen oder wählen kann (Mike 28.10.: am Ziel
+    // kam nach jedem „Gleich“ sofort der nächste Ort, ein Beenden war nicht möglich)
+    if(sc === 's-karte'){ var w = fahrt.pushPause > uhr() ? -1 : wartender(-1); if(w >= 0) ortStarten(w, 'push'); else karteZeichnen(); }
     else if(sc === 's-aufl') auflBar();
     // mit dem Topf aller Gemeinden (über 10.000 Orte) nur alle 10 s speichern
     if(fahrt.raum !== 'alle' || (takt = (takt + 1) % 10) === 0) sichern('fahrt', fahrt);
@@ -1128,6 +1145,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     if(s.scrollHeight > s.clientHeight && hint) hint.hidden = true;
   }
   function waehlen(n){
+    if(fahrt.sofort){ wahl = n; var z = aktuell.z; aufloesen(wahl === z.loesung ? 'hit' : 'miss', 'Getippt: ' + wahl + ' — ' + z.optionen[wahl - 1], wahl); return; }
     wahl = (wahl === n) ? null : n;
     document.querySelectorAll('#f-opts .opt').forEach(function(b){ b.setAttribute('aria-pressed', Number(b.dataset.n) === wahl ? 'true' : 'false'); });
     balken();
@@ -1135,6 +1153,9 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   function balken(){ $('f-bar-leer').hidden = wahl !== null; $('f-bar-wahl').hidden = wahl === null; }
   // „Gleich“: die Frage einmal hinten anstellen; der Ort bleibt im Nachlauf spielbar
   $('f-gleich').onclick = function(){ gleich(); };
+  // „Karte“: Frage offen lassen (wie Gleich), aber auf der Fahrtkarte 30 s Ruhe vor neuen Pushs – für „Fahrt abschließen“ oder „Jetzt“
+  $('f-karte').onclick = function(){ fahrt.pushPause = uhr() + FENSTER.gleich; ereignis('karte', fahrt.orte[aktuell.i].slug); gleich(); };
+  $('a-karte').onclick = function(){ fahrt.pushPause = uhr() + FENSTER.gleich; ereignis('karte', aktuell.ort.slug); ortBeenden(aktuell.i); sichern('fahrt', fahrt); karteZeichnen(); show('s-karte'); };
   function gleich(){
     var f = fahrt.orte[aktuell.i];
     if(istPush()){
@@ -1184,7 +1205,9 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     $('a-ort').textContent = o.name; $('a-zitat').textContent = zitat; $('a-text').textContent = geschichte(k);
     var chip = $('a-urteil');
     chip.className = 'chip ' + (status === 'hit' ? 'ok' : 'no');
-    chip.textContent = (status === 'hit' ? 'Richtig · ' : 'Daneben · ') + urteilText(k, z);
+    // bei „daneben“ die richtige Antwort im Wortlaut (Mike 28.10.: man hat nur den eigenen Tipp im Kopf)
+    var richtigText = status === 'miss' && k.art !== 'leiter' && z.optionen[z.loesung - 1] ? ' ' + z.optionen[z.loesung - 1].replace(/[.!?]$/, '') + '.' : '';
+    chip.textContent = (status === 'hit' ? 'Richtig · ' : 'Daneben · ') + urteilText(k, z) + richtigText;
     $('a-quelle').textContent = 'Quelle: ' + k.quelle;
     $('a-vermerk').hidden = k.faktencheck !== 'unsicher';
     $('a-vermerk').textContent = 'Faktencheck: unsicher – belegt nur durch eine Quelle.';
@@ -1227,6 +1250,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
                    $('a-mehr').textContent = 'Noch mehr zu ' + o.name + '? (' + Math.min(JE_ORT, rest) + ' weitere)'; }
     else { aktuell.weiter = 'karte'; $('a-zu').textContent = weiterOrt; $('a-mehr').hidden = true; }
     $('a-zu').classList.toggle('primary', aktuell.weiter !== 'karte');
+    $('a-karte').hidden = aktuell.weiter === 'karte';
   }
   $('a-zu').onclick = function(){
     if(aktuell.weiter === 'frage'){ frageStarten('weiter'); return; }
@@ -1279,6 +1303,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
       Object.keys(f.ev).forEach(function(k){ r[k] = Math.round(f.ev[k] - t0); }); return r; });
     var spur = (fahrt.spur || []).map(function(s){ return Object.assign({}, s, { t: s.t - Math.round(t0) }); });
     var text = JSON.stringify({ prototyp: 'quizaway-reise 0.3.1', konzept: 'v0.3.1', raum: fahrt.raum, quelle: fahrt.quelle, zu_fuss: !!fahrt.fuss, vorlesen: !!fahrt.vor,
+                                tipp_sofort: !!fahrt.sofort, gps_verworfen: fahrt.gpsVerworfen || 0,
                                 sim: fahrt.sim ? { kmh: fahrt.sim.kmh, faktor: fahrt.sim.f } : null, fenster: FENSTER,
                                 start: fahrt.start, ende: fahrt.ende, ort_der_fahrt: fahrt.ortDerFahrt || null, notiz: fahrt.notiz || '',
                                 orte_im_topf: fahrt.orte.length, zeiten: 'Sekunden ab Fahrtbeginn',
