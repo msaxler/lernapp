@@ -52,6 +52,20 @@ aus jedem Bildschirm, mit kurzer Ruhe vor neuen Pushs.
 (Standard an; Protokoll `tipp_sofort`), bei „daneben“ die richtige Antwort im Wortlaut im Urteil-Chip (wird mit vorgelesen).
 Mike hat Schritte 1–3 freigegeben.
 
+**Schritt 2 gebaut 28.10. (Artifact v72):** Nach der Auflösung immer zwei Knöpfe – „Noch eine zu <Ort>“ (im Dreierblock Hauptknopf,
+„2 von 3“) und „Weiter: <Ort> ist in Sicht“ bzw. „Zur Fahrtkarte“. Jeder Ort der Fahrtkarte ist antippbar: freie Karte → spielen
+(Ereignis `jetzt`/`nachschlag`), keine mehr → Steckbrief vorlesen (`nachhoeren`). Unterbrechung: wartet während einer Frage ein
+Geschichten-Ort, zeigt die Kopfzeile „Ort in Sicht: X – antippen zum Wechseln“ (einmal Ton/Vibration, keine Sprache, weil die
+Frage sonst abbräche); Antippen stellt die laufende Frage zurück wie „Gleich“ (Ereignis `wechsel`). Grundversorgung unterbricht nie.
+
+**Schritt 3 gebaut 28.10. (Artifact v73):** Startwahl „Spielart: Quiz / Reiseführer“. Im Reiseführer erzählt `erzaehlen()` beim
+Erreichen statt zu fragen: beim ersten Mal der Steckbrief, dann die Geschichten der besten Karten nach Rang (zu Fuß eine je Punkt,
+im Auto zwei je Ort, „Noch eine zu …“ für mehr), jede mit dem Charakteristikum als Überschrift. `erzaehltext()` kürzt die
+Quiz-Rückseite regelbasiert: Tipp-Satz weg, bis zu zwei Quiz-Sätze am Anfang weg (`QUIZSATZ`: „läge nahe“, „klingt“, „tippt“,
+„denkt man“ …), Gegensatzwort im ersten Satz weg („kommt aber von“ → „kommt von“), Zahlen mit Punkt bleiben ganz. Messung über die
+1.207 Rang-Karten: 959 gekürzt, 8 noch quizhaft (Scratchpad `erz_check.js`). Gespielte Karten gelten als gespielt (Status
+`erzaehlt`, Protokoll `modus`). Zweite Fassung später: eigener Erzähltext je Ort per Modell.
+
 ## Schätzung und Vorschlag der Reihenfolge (Mike entscheidet)
 | Schritt | Inhalt | Zeilen | Bemerkung |
 |---|---|---|---|
