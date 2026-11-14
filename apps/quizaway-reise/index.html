@@ -130,7 +130,9 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
 
   <!-- Start: Raum, Streckenquelle, Vorlesen -->
   <section class="scr rail" id="s-start">
-    <div class="top"><span class="sp">Feldtest-Prototyp · Spielkonzept v0.3.1</span><button id="theme">System</button></div>
+    <div class="top"><!-- Build-Nummer (Mike 2026-11-14): bei jeder Veröffentlichung hochzählen, damit ein veralteter Stand sofort auffällt;
+         gleiche Zählung für quizaway.pages.dev und das Artifact (Build 75 = Artifact vom Handy, 76 = erster Stand aus dem Repo) -->
+    <span class="sp">Feldtest-Prototyp · Spielkonzept v0.3.1 · Build 76</span><button id="theme">System</button></div>
     <div class="plate" style="font-size:1.6rem">QuizAway</div>
     <p class="meta">Ein Ort kommt näher. Erst die eigene Theorie, dann die Geschichte. Ein Urteil je Frage – allein oder nach der Diskussion im Auto.</p>
     <!-- Spielart (Mike 28.10.): Quiz oder Reiseführer (die Geschichten werden beim Erreichen erzählt statt gefragt) -->
@@ -480,13 +482,30 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   }
   try{ stimmeWaehlen(); speechSynthesis.onvoiceschanged = stimmeWaehlen; }catch(e){}
   function still(){ try{ if(window.speechSynthesis) speechSynthesis.cancel(); }catch(e){} }
+  // Datum fürs Vorlesen (Mike 2026-11-14): manche Stimmen lesen „31. Juli“ als „31“, Pause, „Juli“ – der Tag wird als Ordnungszahl ausgeschrieben
+  function tagWort(n, endung){
+    var E = ['', 'ers', 'zwei', 'drit', 'vier', 'fünf', 'sechs', 'sieb', 'ach', 'neun', 'zehn', 'elf', 'zwölf', 'dreizehn', 'vierzehn', 'fünfzehn', 'sechzehn', 'siebzehn', 'achtzehn', 'neunzehn'];
+    var EIN = ['', 'ein', 'zwei', 'drei', 'vier', 'fünf', 'sechs', 'sieben', 'acht', 'neun'];
+    if(n < 20) return E[n] + 't' + endung;
+    var z = n < 30 ? 'zwanzig' : 'dreißig', e = n % 10;
+    return (e ? EIN[e] + 'und' : '') + z + 'st' + endung;
+  }
+  function fuerSprache(text){
+    return text.replace(/(\d{1,2})\.\s*(Januar|Februar|März|April|Mai|Juni|Juli|August|September|Oktober|November|Dezember)(?![a-zäöüß])/g, function(m, d, monat, pos, ganz){
+      var n = +d, davor = ganz.slice(0, pos);
+      if(n < 1 || n > 31 || /[\d.]$/.test(davor)) return m;
+      var w = ((davor.match(/([A-Za-zÄÖÜäöüß]+)\s*$/) || [])[1] || '').toLowerCase();
+      var endung = /^(am|vom|zum|beim|dem|den|des|bis|ab|seit|nach|vor)$/.test(w) ? 'en' : /^(der|die|das)$/.test(w) ? 'e' : 'er';
+      return tagWort(n, endung) + ' ' + monat;
+    });
+  }
   function sprich(text, immer){
     letzterText = text;
     if(!window.speechSynthesis || !fahrt || !fahrt.vor || (fahrt.stimme === false && !immer)) return;
     try{
       speechSynthesis.cancel();
       // Satzgrenze: Punkt, Ausrufe- oder Fragezeichen nach einem Nicht-Ziffer-Zeichen, dann Großbuchstabe (kein Schnitt in „27. Juni“)
-      text.split(/(?<=[^\d][.!?])\s+(?=[A-ZÄÖÜ„])/).forEach(function(s){
+      fuerSprache(text).split(/(?<=[^\d][.!?])\s+(?=[A-ZÄÖÜ„])/).forEach(function(s){
         if(!s.trim()) return;
         var u = new SpeechSynthesisUtterance(s); u.lang = 'de-DE'; if(stimmeDe) u.voice = stimmeDe; speechSynthesis.speak(u);
       });
